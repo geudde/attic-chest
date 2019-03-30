@@ -1,5 +1,5 @@
 ---
-title: Intermediate
+title: 'Season 2'
 taxonomy:
     category: docs
 child_type: docs
