@@ -1,7 +1,9 @@
 ---
-title: Sub-Topic
+title: Editorial
 taxonomy:
-    category: docs
+    category:
+        - docs
+visible: true
 ---
 
 Lorem markdownum penna; aras cetera revocatus quidem frigus in. Ut natum
