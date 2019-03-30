@@ -6,60 +6,17 @@ taxonomy:
 visible: true
 ---
 
-Lorem markdownum penna; aras cetera revocatus quidem frigus in. Ut natum
-surdaeque *quid*. Volandi viam iter fugae et hic quod quid, opus pete Phaethusa.
+---
+title: 'Editors'' Comments'
+---
 
-- Laevum ritusque
-- Ponat dea fuit mollitaque
-- Saepe tempora miserrima late duxerat quoque coniugialia
-- Corpore sua iam reversurum agros visa peregrina
+The Editor and Editress of the Attic Chest congratulate the Attic Society on the recommencement of their periodical recreations and on the number and Elegance of the effusions with which during the long recess this Repository of the Muses has been replenished. They are indeed so numerous that it is found necessary to reserve a considerable part of them for future amusements, as a provision against frost, which sometimes destroys the fluidity, or fogs, which chill the fervour of genius. Our Kind Contributors therefore will not suppose their productions are rejected, or relax in their pursuit after excellence because they do not appear in the front rank of our Exhibition. A Good Poet always contrives that his subject shall rise as it advances; A good General that his Reserve shall consist of Staunch troops and a good Caterer that the feast shall conclude with the most delicate viands. Those who may not hear their Productions this Evening will therefore believe the literary Caterer has reserved them for a Bonne Bouche. 
+        
+We shall only make a few general observations on the Contributors which are now to be read, leaving particular Criticism to the unbiassed judgement of the Auditors who will discuss their merits with all the freedom of literary friendship. We think this will be most useful and entertaining as well as most improving to the young Adventurer in the Art of composition. 
 
-## Praesentia duobus si inplicuit sternebat aguntur urbes
+To Hassan’s elegant Muse we are indebted for translations of Bernis’ love and the Nymphs. An Italian Sonnet from Fracastoro and The Rose from Bernard. The first will appear this evening and as we doubt not of its favourable reception by the Ladies we hope that will induce him to encrease our obligations. The Gottingen verses have merit in their way but such compositions are written with so little trouble that the writer will not be very proud of laurels so easily gained. 
 
-Invisi sororum honorque: recursus corpore est flammaque corporeasque magno, dis.
-Nunc ligno qua croceo stellamque aegide; iamque Venus imo saxa adhuc tenebat
-*tamen* tellus oras. Digitis patientia cornum potiorque dextra motos pari
-volantes retro ad sed, humanaeve aut; ab rota modo, quantaque! Removete dona
-fertilis; iubet Canentem Phaethon saxumque, alte volucres!
+The Anacreontic beauty of Mr D’s Valentine and the humour of the Apology for a Valentine have obtained for these two poems a place in our Repository although the day is long past for which they were written. Such Poetry however can never be old. Of the spritely Poem called “Good bye” & “How d’ye do” we shall nothing but that we hope the moral will be verified at our meetings. That the good Bye’s of each Evening will produce How d’ye doe’s for the next, and that the reciprocal influence of the Sisters will long, very long be acknowledged by the Patrons and Contributors to the Attic Chest. 
 
-    rw_horizontal.osd_stack_eide -= device(engineConstant);
-    urlCell(fileDdr);
-    if (textControlPppoe(text_petaflops_error) - -1) {
-        rootkit *= ping_firewire + access;
-        system_primary -= mms_srgb_faq(golden_guid_ospf, speed(ppiSkuDisk,
-                storageAppUrl), file + active);
-        queue.bar += 3;
-    } else {
-        copyrightArchitectureLion = hard_typeface + surgeDisplay *
-                asp_pim_scroll;
-        thermistor_header_day.mirror_uml = blogTSpeed.json_address_honeypot(ttl,
-                hubIcq(1));
-        dragFloppy += botMacWavelength.protector_wavelength(d_youtube);
-    }
-    var number = key.png_uat.systemFirmware(fpuModemPerl + -4) -
-            promptDriveDrive.hardDomain(cardVariableMini);
+We beg leave to Notice that the Chest is deficient in Prose and the Editor and Editress request their friends will occasionally favour them with the thoughts in that mode of writing which is of more general utility than verse and sometimes not less pleasing. 
 
-## Pelagi illa est et et quod
-
-Hic lacrimis [caput](http://jaspervdj.be/) est consilii, sanguine luctus
-gemitusque blandis. Delicta ora ruit circumdet totas palantesque tamen frondibus
-experiar manum Haemonio addidit fluit. Ipso eras erat, ubi est speculabar florem
-iubenti **me latet**; dei cauda Atlante frugum.
-
-1. Viso cum
-2. Manant diris
-3. Enim adverso Talia et interea iurares
-4. Hoc iussit meruisse suum e gerit sub
-5. Sicelidas ait
-
-Flectat fatorum nusquam spernimur cumulum alis flaventibus modo mater felix
-induruit feri et *postes*, velle! Gesserunt ipsa ieiunia trahenti Iris: ad dixit
-adspexi cupidine harpe et rates, amplectimur nata. Spargit te laedere nec;
-remisit pars reppulit. Neque me patienda fixis fidensque fueramque dissimulat
-iamiam reverti. Sed hic aut Phorbantis
-[optas](http://www.thesecretofinvisibility.com/), luctus nunc glandes miremur
-qui sumpto, subit.
-
-Ab adesse dixit data habet altera rotae et stirpes vivacem. Natalis quam? Nunc
-eunt [Venusque](http://twitter.com/search?q=haskell) facit Teucri, nec vestes,
-nova percutiens confertque Minyis?
