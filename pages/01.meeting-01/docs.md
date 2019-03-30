@@ -1,7 +1,8 @@
 ---
 title: '27 December 1808'
 taxonomy:
-    category: docs
+    category:
+        - docs
 child_type: docs
 ---
 
