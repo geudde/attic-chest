@@ -28,6 +28,5 @@ When a departing spirit droops in clay!
 May it revive the poor dejected flower  
 And pass it blooming to the realms of Day!  
 
-J. Bowen
-
+J. Bowen  
 1792
