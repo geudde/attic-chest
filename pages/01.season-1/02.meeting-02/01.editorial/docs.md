@@ -1,0 +1,11 @@
+---
+title: Editorial
+taxonomy:
+    category:
+        - docs
+visible: true
+---
+
+The number of New Correspondents which have honoured the Attic Chest with their contributions since the last reading is highly gratifying to the Editor and Editress as a testimony of its increasing Reputation while the merit of their productions promise it to be as permanent as extensive.
+
+For this nights reading we have selected the Verses beginning “Nor let soft slumbers close thine eyes” for their moral rather than their poetic excellence. The Impromptu on a Man of Genius, The Epigram on Professor Parson for their neatness. The Charades by the learned Professor have appeared in print and are admitted at the request of a Correspondent to whom we find it difficult to refuse any thing. The translation of a part of the Satire of Juvenal does honour its Author as an excellent version of a passage which has cost some emminent poets much trouble. Hassans translation of the Italian Sonnet presents the character of Elegance, which we gave to his production in our last reading, and the same praise we must bestow on the verses signed ‘Comfit’. The lines addressed to Sir John Barrington would not be the worse for being mended nor less pleasing for being reduced in number, but with all their faults we receive them as a testimony of Grateful regard to a Man who would be generally believed where he generally known. To Fitz Pieria we return our most hearty thanks and burn with impatience to see the conclusion os a work so happily begun. We shall close this Nights reading with the New year’s Wish for somebody which every one who hears it will wish to appropriate. We have still to request the indulgence of our Correspondents for deferring a number of productions deserving of our praise and in particular “The Jerrvey”, “The verses signed Violetta”. “The Garland of Aurora”. “The Three Kisses”. “The Ode to St Andrew”. “Verses on a Ladys Sonnet on a pile of Ruins”. “Sonnet to the Nightingale”. And Hassans Rose.
