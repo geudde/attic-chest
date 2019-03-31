@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-# 10 January 1809
+## 10 January 1809
 
 1. [Editorial](editorial)
 2. [Let Not Soft Slumbers](slumbers)
