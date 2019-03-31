@@ -4,7 +4,6 @@ taxonomy:
     category: docs
     tag: ''
 child_type: docs
-visible: true
 ---
 
 # 1808–1809
