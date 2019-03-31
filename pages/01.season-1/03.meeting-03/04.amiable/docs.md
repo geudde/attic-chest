@@ -6,20 +6,26 @@ taxonomy:
 visible: true
 ---
 
-#### 1
+> Written on hearing an Amiable Young Lady who sang with taste & feeling but who wanted strength of voice.
 
-My first though your House from the thief it defends,  
-&emsp;Like a knave or a cheat you abuse and despise,  
-My second though small yet alas comprehends  
-&emsp;All the good, all the great, all the learn’d all the wise.  
-Of my third I have little or nothing to say  
-Except that it marks the departure of day.  
+When Sappho — fair enthusiast! sung  
+&emsp;&emsp;To Lesbian youth their groves among  
+Rapt with her theme she swept the Lyre  
+&emsp;&emsp;And fann’d each bosoms latent fire.
+	
+Her hurried hand wild Love impell’d  
+&emsp;&emsp;Her voice tumultuous passion swell’d  
+Each thrilling pulse new measures beat  
+&emsp;&emsp;And *exil’d reason fled her seat*.
+	
+But list’ning to *thy milder* strains  
+&emsp;&emsp;No madd’ning Tides distend the veins  
+Thy lips no Opiate sounds dispense  
+&emsp;&emsp;To lull or steal the prostrate sense.
 
-#### 2
-
-My first is the lot which is destined by fate  
-For my second to meet with in every state  
-My whole is by many Philosophers reckoned  
-To bring very often my first to my second.  
-
-Parson
+Ah no! a nobler task is thine
+&emsp;&emsp;In giving song its first design
+With Music’s pow’r to join thine own
+&emsp;&emsp;And charm our reason on her throne.
+	
+Tiruduthes
