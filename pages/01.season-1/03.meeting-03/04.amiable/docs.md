@@ -23,9 +23,9 @@ But list’ning to *thy milder* strains
 Thy lips no Opiate sounds dispense  
 &emsp;&emsp;To lull or steal the prostrate sense.
 
-Ah no! a nobler task is thine
-&emsp;&emsp;In giving song its first design
-With Music’s pow’r to join thine own
+Ah no! a nobler task is thine  
+&emsp;&emsp;In giving song its first design  
+With Music’s pow’r to join thine own  
 &emsp;&emsp;And charm our reason on her throne.
 	
 Tiruduthes
