@@ -3,8 +3,7 @@ title: 'The Birth of Ellen'
 taxonomy:
     category:
         - docs
-    tag:
-        - Comfit
+visible: true
 ---
 
 At Ellen’s birth fair Nature smil’d  
