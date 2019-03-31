@@ -1,5 +1,5 @@
 ---
-title: 'Good bye & how d''ye do'
+title: 'Good bye & how d’ye do'
 taxonomy:
     category:
         - docs
