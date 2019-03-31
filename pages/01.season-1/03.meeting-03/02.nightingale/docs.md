@@ -6,16 +6,17 @@ taxonomy:
 visible: true
 ---
 
-Let not soft slumbers close your eyes  
-Before you’ve recollected thrice  
-The train of actions thro’ the day:  
-Where have my feet chose out the way?  
-What have I learnt, where’er I’ve been,  
-From all I’ve heard from all I’ve seen?  
-What know I more that’s worth the knowing?  
-What have I done that’s worth the doing?  
-What have I sought that I should shun?  
-What duty have I left undone;  
-Or into what new follies run?  
-These self inquiries are the road  
-That leads to virtue and to God.  
+Songstress of the rural scene  
+When moonbeam’s cheer the distant grot  
+Oft at Ev’nings hour serene  
+Delight me with thy dulcet note!  
+Around, the flow’ring shrubs befriend  
+Where no rude Urchin hurls the sling  
+My Pines shall Philomel defend  
+Sweet bird then unmolested sing.  
+Thy tones the pensive joys prepare  
+That innocence and peace approve.  
+Begone dejection — sombre care  
+Content’s the inmate of the grove  
+Come then sweet Bird and hither — bring   
+Tranquility, and Nature’s blooming spring.  
