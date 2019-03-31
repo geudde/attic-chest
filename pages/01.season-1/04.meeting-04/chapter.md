@@ -2,6 +2,7 @@
 title: 'Meeting 04'
 taxonomy:
     category: docs
+child_type: docs
 ---
 
 ## 7 February 1809
