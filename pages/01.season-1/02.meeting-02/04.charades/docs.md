@@ -9,7 +9,7 @@ visible: true
 #### 1
 
 My first though your House from the thief it defends,  
-&emsp;&emsp;Like a knave or a cheat you abuse and despise,  
+&emsp;Like a knave or a cheat you abuse and despise,  
 My second though small yet alas comprehends  
 &emsp;All the good, all the great, all the learn’d all the wise.  
 Of my third I have little or nothing to say  
