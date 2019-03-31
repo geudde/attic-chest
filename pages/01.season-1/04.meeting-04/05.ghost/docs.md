@@ -79,7 +79,7 @@ How *”of itself”* a bell might clatter,
 &emsp;And bricks and mortar might sigh & groan.  
   
 Said science yet had much to do  
-&emsp;Before she laid Dame Nature bare, 
+&emsp;Before she laid Dame Nature bare,  
 Besides he’d boldly ask who knew  
 &emsp;The chemical effects of Air?  
  
@@ -160,7 +160,7 @@ He told them that the ghostly station
   
 And true as Fate on bursting in  
 &emsp;To where the spirit lay *perdue*  
-They found the secret of the din, 
+They found the secret of the din,  
 &emsp;Molly the Housemaid met their view!  
   
 There hid, the Jade had play’d the Ghost,  
