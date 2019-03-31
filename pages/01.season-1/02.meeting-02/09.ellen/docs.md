@@ -3,6 +3,8 @@ title: 'The Birth of Ellen'
 taxonomy:
     category:
         - docs
+    tag:
+        - Comfit
 visible: true
 ---
 
@@ -24,7 +26,7 @@ Spake his high will, his gen’rous wish exprest,
 “And tuneful seek the Muse’s fav’rite bow’r,  
 “I’ll be her guide whene’er she moves along  
 “And lead her through the flow’ry land of song;  
-“Thus following Natuer and by Genius led  
-“My Laurel mix’d with Flowers, shall grace her Head.  
+“Thus following Nature and by Genius led  
+“My Laurel mix’d with Flowers, shall grace her Head.”  
   
 Comfit  
