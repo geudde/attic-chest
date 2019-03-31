@@ -8,7 +8,7 @@ taxonomy:
 
 1. [Editorial](editorial)
 2. [Sonnet](sonnet)
-3. [To St. Andrew](andrew)
+3. [Riddle](riddle)
 4. [On Hearing an Amiable Young Lady](amiable)
 5. [To Sir John Barrington](barrington)
 6. [The Muses Vagaries Continued](muses)
