@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-Sonnetto
+#### Sonnetto
 
 Gli angeli, il sol, la luna erano intorno  
 &emsp;&emsp;Al seggio di Natura in paradiso,  
@@ -25,9 +25,7 @@ Abbian altre begli occhi, e belle ciglia,
 	
 Fracastoro
 
-## DD3311 Attic chest_0030
-
-Sonnet
+#### Sonnet
 
 Th’ Anglic host, the sun, the moon, array’d  
 &emsp;&emsp;In splendid majesty, around the seat  
