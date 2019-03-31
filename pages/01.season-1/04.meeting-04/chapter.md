@@ -7,7 +7,7 @@ taxonomy:
 ## 7 February 1809
 
 1. [Editorial](editorial)
-2. [Sonnet to a Nightingale](nightingale)
+2. [Sonnet](sonnet)
 3. [To St. Andrew](andrew)
 4. [On Hearing an Amiable Young Lady](amiable)
 5. [To Sir John Barrington](barrington)
