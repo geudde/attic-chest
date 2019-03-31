@@ -2,7 +2,6 @@
 title: 'Meeting 05'
 taxonomy:
     category: docs
-visible: true
 ---
 
 1. [Editorial](editorial)
