@@ -6,10 +6,6 @@ taxonomy:
 visible: true
 ---
 
----
-title: 'Editors'' Comments'
----
-
 The Editor and Editress of the Attic Chest congratulate the Attic Society on the recommencement of their periodical recreations and on the number and Elegance of the effusions with which during the long recess this Repository of the Muses has been replenished. They are indeed so numerous that it is found necessary to reserve a considerable part of them for future amusements, as a provision against frost, which sometimes destroys the fluidity, or fogs, which chill the fervour of genius. Our Kind Contributors therefore will not suppose their productions are rejected, or relax in their pursuit after excellence because they do not appear in the front rank of our Exhibition. A Good Poet always contrives that his subject shall rise as it advances; A good General that his Reserve shall consist of Staunch troops and a good Caterer that the feast shall conclude with the most delicate viands. Those who may not hear their Productions this Evening will therefore believe the literary Caterer has reserved them for a Bonne Bouche. 
         
 We shall only make a few general observations on the Contributors which are now to be read, leaving particular Criticism to the unbiassed judgement of the Auditors who will discuss their merits with all the freedom of literary friendship. We think this will be most useful and entertaining as well as most improving to the young Adventurer in the Art of composition. 
