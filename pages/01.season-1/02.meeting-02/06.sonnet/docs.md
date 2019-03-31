@@ -29,7 +29,7 @@ Fracastoro
 
 Th’ Anglic host, the sun, the moon, array’d  
 &emsp;&emsp;In splendid majesty, around the seat  
-&emsp;&emsp;Of nature ?? were plac’d, oh! beauteous maid  
+&emsp;&emsp;Of nature sure were plac’d, oh! beauteous maid  
 &emsp;&emsp;When those were form’s with ev’ry grace repleat  
 The day was clear and bright, the sky serene  
 &emsp;&emsp;Jove on his daughter mutual smiles bestow’d  
@@ -42,4 +42,4 @@ Let other maidens beauteous eyes profess
 &emsp;&emsp;Or face, or hand, or ev’ry charm combin’d,  
 &emsp;&emsp;For Jove from thee alone creates each grace.  
 	
-I have endeavor’d to translate nearly literally the *admirable* sonnet of Fracastoro but I fear I have not done sufficient justice to so exquisite or ??? Angels, Sun, Moon, Paradise, Jove, Love, the Graces
+I have endeavor’d to translate nearly literally the *admirable* sonnet of Fracastoro but I fear I have not done sufficient justice to so exquisite or jumbled Angels, Sun, Moon, Paradise, Jove, Love, the Graces
