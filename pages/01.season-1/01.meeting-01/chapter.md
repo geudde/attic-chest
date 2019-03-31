@@ -3,6 +3,7 @@ title: 'Meeting 01'
 taxonomy:
     category: docs
     tag: ''
+child_type: docs
 ---
 
 ## 27 December 1808
