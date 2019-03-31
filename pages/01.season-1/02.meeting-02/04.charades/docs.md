@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-###### #### 1
+###### 1
 
 My first though your House from the thief it defends,  
 &emsp;Like a knave or a cheat you abuse and despise,  
