@@ -1,12 +1,10 @@
 ---
-title: 'Meeting 01'
+title: '27 December 18'
 taxonomy:
     category:
         - docs
 visible: true
 ---
-
-# 27 December 1808
 
 1. [Editorial](editorial)
 2. [On the Study of Ancient Architecture](architecture)
