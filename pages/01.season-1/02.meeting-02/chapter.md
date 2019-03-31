@@ -1,7 +1,9 @@
 ---
-title: Installation
+title: 'Meeting 02'
 taxonomy:
     category: docs
+    tag: ''
+visible: true
 ---
 
 Lorem markdownum fama iusserat **sit trunca**, isto et quid dolens Aeetias.
