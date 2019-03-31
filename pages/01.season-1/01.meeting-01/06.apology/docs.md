@@ -1,5 +1,6 @@
 ---
 title: 'An Apology for a Valentine'
+published: true
 taxonomy:
     category:
         - docs
