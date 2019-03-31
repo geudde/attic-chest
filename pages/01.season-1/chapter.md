@@ -3,7 +3,7 @@ title: 'Season 1'
 taxonomy:
     category: docs
     tag: ''
-child_type: docs
+child_type: chapter
 ---
 
 # 1808–1809
