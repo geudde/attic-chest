@@ -2,7 +2,7 @@
 title: 'Season 3'
 taxonomy:
     category: docs
-child_type: docs
+child_type: chapter
 ---
 
 ### Chapter 3
