@@ -1,8 +1,8 @@
 ---
 title: '27 December 18'
 taxonomy:
-    category:
-        - docs
+    category: docs
+    tag: ''
 visible: true
 ---
 
