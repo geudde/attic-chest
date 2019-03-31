@@ -1,5 +1,5 @@
 ---
-title: Advanced
+title: 'Season 3'
 taxonomy:
     category: docs
 child_type: docs
