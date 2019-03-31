@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-### On a man of Genius who suddenly became *bald*
+#### On a man of Genius who suddenly became *bald*
 
 Be consol’d my dear friend, though your fate is so bare,
 You make up in brains what is wanting in hair,
@@ -15,7 +15,7 @@ That a rich mine of Gold has no without;
 We shall therefore infer your bald nob was design’d
 As a gnomon, to point out the wealths in your *mind*.
 
-### On the late learned Professor
+#### On the late learned Professor
 
 When P --- n the learned escap’d from the clay,
 His Soul stagger’d up to the bright realms of day
