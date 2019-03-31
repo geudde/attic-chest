@@ -3,7 +3,6 @@ title: 'Meeting 02'
 taxonomy:
     category: docs
     tag: ''
-visible: true
 ---
 
 ## 10 January 1809
