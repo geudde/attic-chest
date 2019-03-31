@@ -2,7 +2,7 @@
 title: 'Season 2'
 taxonomy:
     category: docs
-child_type: docs
+child_type: chapter
 ---
 
 # 1809-1810
