@@ -2,6 +2,7 @@
 title: 'Meeting 05'
 taxonomy:
     category: docs
+child_type: docs
 ---
 
 1. [Editorial](editorial)
