@@ -9,7 +9,7 @@ visible: true
 ## 24 January 1809
 
 1. [Editorial](editorial)
-2. [Let Not Soft Slumbers](slumbers)
+2. [Sonnet to a Nightingale](nightingale)
 3. [Impromptu](impromptu)
 4. [Charades](charades)
 5. [Translation from Juvenal](juvenal)
