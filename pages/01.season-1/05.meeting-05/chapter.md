@@ -2,8 +2,8 @@
 title: 'Meeting 05'
 taxonomy:
     category: docs
+visible: true
 ---
-
 
 1. [Editorial](editorial)
 2. [On the Study of Ancient Architecture](architecture)
