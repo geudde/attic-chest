@@ -1,8 +1,8 @@
 ---
 title: 'Season 1'
 taxonomy:
-    category:
-        - docs
+    category: docs
+    tag: ''
 child_type: docs
 visible: true
 ---
