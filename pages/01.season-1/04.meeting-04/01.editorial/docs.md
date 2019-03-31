@@ -12,15 +12,11 @@ Secondly a Sonnet on a splendid Pile of Ruins which impresses a melancholy truth
 
 Third. The Three Kisses the emanation of a delicate and feeling mind, and Fourth the charming verses signed Violetta.
 
-The Description of Monkey Island and The Queen Anne Street Ghost are perhaps not new to all our audience but as they have been read irregularly
-
-## DD3311 Attic chest_0059
-
-we once more bring them forward presuming that their merit will give them charms tho’ they may no longer possess that of novelty.
+The Description of Monkey Island and The Queen Anne Street Ghost are perhaps not new to all our audience but as they have been read irregularly we once more bring them forward presuming that their merit will give them charms tho’ they may no longer possess that of novelty.
 
 We fear that we shall perceive many a long face when we announce that Fitz Pieria has not favoured us this Evening with a continuation of his humourous poem, but Hope which according to the Poet
 
-	Travels thro’ life, nor quits us when we die,”
+> 	Travels thro’ life, nor quits us when we die,”
 
 has made us strong promises for the future.
 
