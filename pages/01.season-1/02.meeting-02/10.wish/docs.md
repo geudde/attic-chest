@@ -3,7 +3,6 @@ title: 'Much Do I Wish'
 taxonomy:
     category:
         - docs
-visible: true
 ---
 
 Much do I wish to send in rhyme  
