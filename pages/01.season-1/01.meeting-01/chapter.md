@@ -2,7 +2,6 @@
 title: 'Meeting 01'
 taxonomy:
     category: docs
-    tag: ''
 child_type: docs
 ---
 
