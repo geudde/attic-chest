@@ -1,5 +1,5 @@
 ---
-title: 'To Ictinius'
+title: 'To Ictinus'
 taxonomy:
     category:
         - docs
