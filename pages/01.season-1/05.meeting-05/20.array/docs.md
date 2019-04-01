@@ -7,7 +7,7 @@ taxonomy:
 visible: true
 ---
 
-![](1809-02-21-20-a.jpg?resize=250)
+![sprig](top.jpg?resize=250)
 
 In grim array of play and pay,  
 With Kings, Queens, Knaves, and Rubbers,  
@@ -26,4 +26,4 @@ Let your returns be tender.
   
 Cognita
 
-![](1809-02-21-20-b.jpg?resize=400)
+![cards](bottom.jpg?resize=400)
