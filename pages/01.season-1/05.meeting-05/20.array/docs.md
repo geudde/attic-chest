@@ -1,10 +1,13 @@
 ---
 title: 'In Grim Array'
+media_order: '1809-02-21-20-a.jpg,1809-02-21-20-b.jpg'
 taxonomy:
     category:
         - docs
 visible: true
 ---
+
+![](1809-02-21-20-a.jpg?resize=250)
 
 In grim array of play and pay,  
 With Kings, Queens, Knaves, and Rubbers,  
@@ -22,3 +25,5 @@ I’ve sent but slip-slop stuff too true,
 Let your returns be tender.  
   
 Cognita
+
+![](1809-02-21-20-b.jpg?resize=400)
