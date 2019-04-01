@@ -24,4 +24,4 @@ Then bid my lawful hire be paid
 A heart not twopence worth, sweet maid  
 &emsp;&emsp;Is very bad indeed.  
 	
-[^1}: A Lady who said she would not pay postage for Valentines
+[^1]: A Lady who said she would not pay postage for Valentines
