@@ -3,6 +3,7 @@ title: Editorial
 taxonomy:
     category:
         - docs
+visible: true
 ---
 
 The number of New Correspondents which have honoured the Attic Chest with their contributions since the last reading is highly gratifying to the Editor and Editress as a testimony of its increasing Reputation while the merit of their productions promise it to be as permanent as extensive.
