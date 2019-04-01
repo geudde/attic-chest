@@ -20,3 +20,5 @@ Thou amid the dirgeful sound,
 Shed thy dying honours round,  
 And resign to parent earth  
 The loveliest form she e’er gave birth.
+
+Manchester Feb. 12th 1809
