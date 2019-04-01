@@ -56,7 +56,7 @@ Rose and pink and celandine
 Oft I would a kiss purloin,  
 From my charming Valentine.  
 But with anger infantine,  
-Sweetly pouting (not feline,)  
+Sweetly pouting (not feline).  
   
 She will check the bold design  
 Absent from my Valentine,  
