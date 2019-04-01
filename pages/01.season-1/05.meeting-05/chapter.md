@@ -36,7 +36,7 @@ visible: true
 28. [The Lofty Lily](lily)
 29. [Mischievous Care](care)
 30. [Convinc’d a Married](married)
-31. [And Cans’t Thou Say](thou-say)
+31. [And Canst Thou Say](thou-say)
 32. [Awake Sweet Girl](sweet-girl)
 33. [Given to Eliza](eliza)
 34. [Valentine Morning](morning)

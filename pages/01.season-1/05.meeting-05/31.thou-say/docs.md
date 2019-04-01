@@ -1,5 +1,5 @@
 ---
-title: 'And Cans’t Thou Say'
+title: 'And Canst Thou Say'
 taxonomy:
     category:
         - docs
