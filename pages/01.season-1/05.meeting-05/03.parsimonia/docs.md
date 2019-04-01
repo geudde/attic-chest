@@ -18,7 +18,8 @@ Me sportive Love and Venus send
 Then haste my weary back relieve  
 &emsp;&emsp;For many a heart is thine  
 And you will on this day receive  
-&emsp;&emsp;Full many a Valentine.  
+&emsp;&emsp;Full many a Valentine.
+
 Then bid my lawful hire be paid  
 &emsp;&emsp;Unheard no Swain should bleed  
 A heart not twopence worth, sweet maid  
