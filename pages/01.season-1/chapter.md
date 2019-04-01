@@ -2,7 +2,6 @@
 title: 'Season 1'
 taxonomy:
     category: docs
-    tag: ''
 child_type: chapter
 ---
 
