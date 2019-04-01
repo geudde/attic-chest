@@ -1,12 +1,15 @@
 ---
 title: 'Cupid’s Lament'
+media_order: cupid.jpg
 taxonomy:
     category:
         - docs
 visible: true
 ---
 
-#### A Cantata for three voices.  
+#### A Cantata for Three Voices
+
+![](cupid.jpg?resize=400)
   
 &emsp;_Air, ‘Shepherds I have lost my love’_.  
   
@@ -19,7 +22,7 @@ All in a frosty morning
 With chilblain fingers, icy look  
 She tore my rich adorning.  
   
-&emsp;Air, ‘Hey my Kitten my Kitten,’  
+&emsp;_Air, ‘Hey my Kitten my Kitten,’_  
   
 O! my Quill, my Quill  
 And o my Quill so deary  
@@ -30,7 +33,7 @@ How can I fly downy, downy,
 How can I fly backwards and forwards,  
 How can I fly roundy, roundy?  
   
-&emsp;Air, ‘Ponder well ye Parents dear’  
+&emsp;_Air, ‘Ponder well ye Parents dear’_  
   
 ’Twas saucy Nell, who stole my Quill  
 Which makes my wing to droop  
@@ -44,6 +47,6 @@ Old Maids, ye must die all!
   
 Cupidon  
   
-To finish with a chorus of ‘Oh, my Quill, my Quill’  
+_To finish with a chorus of ‘Oh, my Quill, my Quill’ _ 
   
-Feby 14th
+Feb<sup>y</sup> 14th
