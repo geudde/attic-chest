@@ -18,9 +18,6 @@ Of Temper’s well controul’d and magic art;
 Actions that *prove* the language of the heart  
 A mind where information yields the treat,  
 Not of pedantic lore, but converse sweet;  
-  
-attic chest D 33111841_0112  
-  
 Where Science oft with Poetry unite  
 The festive hour, with pleasure to requite.  
 No votary of Fashion — Elegance and ease  
