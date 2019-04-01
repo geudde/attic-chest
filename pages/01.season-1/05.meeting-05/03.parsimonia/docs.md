@@ -1,12 +1,10 @@
 ---
-title: 'Maria Parsimonia'
+title: 'To Maria Parsimonia'
 taxonomy:
     category:
         - docs
 visible: true
 ---
-
-#### To Maria Parsimonia [^1]
 
 > Written a figure of Atlas with Hearts
 
@@ -25,4 +23,4 @@ Then bid my lawful hire be paid
 A heart not twopence worth, sweet maid  
 &emsp;&emsp;Is very bad indeed.  
 	
-[^1]: A Lady who said she would not pay postage for Valentines
+> Maria Parsimonia: A Lady who said she would not pay postage for Valentines
