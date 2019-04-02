@@ -92,7 +92,7 @@ Still is the Captain to remembrance brought
 Here from some ball or theatre conveyed,  
 First has some Swain his destined spouse surveyed,   
 But hush, for now the coach draws up, the door  
-The driver opens, you can guess no ore.  
+The driver opens, you can guess no more.  
   
 The step of iron, polished now by feet  
 Slants downward, and you slide into the Street.  
