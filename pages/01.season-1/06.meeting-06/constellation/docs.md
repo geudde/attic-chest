@@ -35,9 +35,7 @@ But she must when she know ’twas thro’ Phoebus’ commission
 But I think, and I vow that the thought me amuses  
 I’ll send a love letter to one of the Muses.  
 But whose name shall it be in, dear me, I’m quite stupid  
-  
-<span data-tippy="Missing" class="red">[ . . . ]</span>
-  
+<span data-tippy="Missing" class="red">[ . . . ]</span>  
 It shall be from their old friend and servant  
 And now I think on’t, it shall be to Thalia  
 She sent me in my name, to a maid called Maria”  
@@ -71,7 +69,7 @@ So repenting too late his unfortunate road
 He began to devise by what means to get home;  
 He sent for a jarvey, but none could be got,  
 And to stay there till morn, he perceived was his lot.  
-He thought that the Peridae <span data-tippy="Peridae" class="green">Parcae</span> the chance had designed  
+He thought that the <span data-tippy="Peridae" class="green">Parcae</span> the chance had designed  
 And to their will his actions reluctant resigned  
 So at tea we will leave him, and briefly will tell  
 The hard chance which to Pegasus meanwhile befell.  
