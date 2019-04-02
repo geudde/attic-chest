@@ -18,6 +18,4 @@ The Lamentation of Pegasus is very moving, and his condition truly deplorable, b
 
 The poem entitled the Chest of Eleanora, is an elegant composition. The advertisement we give for the amusement of our Friends.
 
-D3311 Attic Chest 789_0023
-
 The favour of Roselia, will be read as a kind of supplement to this number; although it is irregular to admit printed compositions into the Attic Chest.
