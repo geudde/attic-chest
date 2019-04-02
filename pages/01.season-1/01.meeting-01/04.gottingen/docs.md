@@ -47,11 +47,3 @@ Or even say here lie a few,<br>
 Proud will look round, and sneering view,<br>
 You and your poor forsaken U—<br>
 &emsp;—Niversity of Gottingen. 
-
-<script>
-	tippy.setDefaults({
-	  arrow: true,
-	  delay: 40,
-	  theme: 'light'
-	})
-</script>
