@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-<div class="poem"
+<div class="poem">
 Ah me, and are ye going to,<br>
 &emsp;The wars for to be shotten in;<br>
 Soon will ye mourn, alas ye Stu—<br>
