@@ -49,9 +49,6 @@ So at the Tavern he comes to he stops
 And ordered directly some nice mutton chops  
 As I’m hungry, said he, to eat first will be better  
 I shall write more at ease and at leisure my letter  
-  
-attic chest D 33111841_0127  
-  
 His dinner he ate, and then called for a taper  
 With some sealing wax good, some ink, pen, and paper.  
 In writing his verses our friend took some time  
