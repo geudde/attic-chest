@@ -128,4 +128,4 @@ Fitz P.
 								  
 More serious occupations recall Fitz Pieria to the Country, and will for a short time interrupt all communication with the Attic Chest. The Gentleman who thought he had interest to introduce Fitz P—— has left Town without performing his promise if F.P. could receive an intimation that his visit would be a welcome one, he would be most happy to appear with the finale of his Poem in his hand upon his return to the Metropolis.  
   
-A Letter addressed to F.P.Esq<sup>re</sup> to be left at the Bar of Toms Coffee house will be forwarded to him.  
+A Letter addressed to F.P. Esq<sup>re</sup> to be left at the Bar of Toms Coffee house will be forwarded to him.  
