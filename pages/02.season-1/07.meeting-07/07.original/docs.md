@@ -8,10 +8,12 @@ visible: true
 
 > <span class="red">Printed Material</span>
 
+<div class="center">
 _To My Dear Friend Edward Rushton, of Liverpool,  
 On the Recovery of His Sight,  
 By the skilful Operation of Mr. Gibson, of Manchester. _ 
-  
+</div>
+
 O! art thou my RUSHTON again  
 Restor’d to the regions of light!  
 And dost thou no longer remain  
