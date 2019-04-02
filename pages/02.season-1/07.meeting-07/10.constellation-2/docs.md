@@ -92,6 +92,6 @@ It is late and my house is yet some little way
 Thus saying he shewed to Roberto the road  
 And they quickly arrived at his rural abode  
   
-To be continuted  
+To be continued  
   
 Fitz-Helicon
