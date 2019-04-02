@@ -12,7 +12,7 @@ visible: true
   
 (Charlotte Smith has given an elegant Imitation of this little Ode, but has erroneously ascribed it to the Cardinal Bernis. E.)  
   
-NURS’D by the Zephyr’s balmy sighs,  
+Nurs’d by the Zephyr’s balmy sighs,  
 And cherish’d by the tears of Morn;  
 O flow’r of flow’rs! unfold — arise!  
 O haste,, delicious Rose, be born!  
