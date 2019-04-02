@@ -9,8 +9,8 @@ visible: true
 > <span class="red">Printed Material</span>
 
 <p class="center">
-_To My Dear Friend Edward Rushton, of Liverpool,  
-On the Recovery of His Sight,  
+_To My Dear Friend Edward Rushton, of Liverpool,<br>
+On the Recovery of His Sight,<br>
 By the skilful Operation of Mr. Gibson, of Manchester. _ 
 </p>
 
