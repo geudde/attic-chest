@@ -11,7 +11,7 @@ His Wings unfledg’d, and rude his tongue,
 He loiter’d in Arcadian bowers,  
 And hid his bow in wreaths of flowers;  
 Or pierced some fond unguarded heart,  
-With now and then with random dart;  
+<span data-tippy="With now and then a random dart" class="green">Now and then with random dart</span>;  
 But Heroes scorn’d the idle boy,  
 And love was but a Shepherd’s toy:  
 When Venus vex’d to see her Child  
