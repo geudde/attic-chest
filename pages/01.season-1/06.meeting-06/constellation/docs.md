@@ -13,7 +13,7 @@ And light on his seat in a twinkling he springs.
 He said, “That till night he would ride up and down  
 And view all that was worthy of sight in the town,  
 And as people at that end, I’ve heard are all witty,  
-I’ll just see what <span data-tippy="fun’s going on in the City" class="green">fun may be found in the City</span>.” 
+I’ll just see what <span data-tippy="fun’s going on in the City" class="green">fun may be found in the City</span>.”   
 <span data-tippy="Missing" class="red">[ . . . ]</span> his brisk steed on a trot,  
 And who laughed at his wings, he ne’er minded a jot;  
 But remembering what formerly Peg had endured,  
