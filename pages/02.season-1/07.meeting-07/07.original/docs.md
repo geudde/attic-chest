@@ -6,7 +6,9 @@ taxonomy:
 visible: true
 ---
 
-> To My Dear Friend Edward Rushton, of Liverpool,  
+> <span class="red">Printed Material</span>
+
+##### To My Dear Friend Edward Rushton, of Liverpool,  
 On the Recovery of His Sight,  
 By the skilful Operation of Mr. Gibson, of Manchester.   
   
