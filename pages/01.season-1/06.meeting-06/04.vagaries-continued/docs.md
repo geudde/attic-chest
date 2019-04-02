@@ -112,7 +112,7 @@ To peep at Helicon, would take a trip.
 Wer’t only for the drive, see how they come  
 Each moves a Coachman, and each looks a Groom!  
 And then dear Sir, do give a Fète al-fresco,  
-Where all the company should in undress go,  
+Where all the company should in full dress[^1] go,  
 And ev’ry Night, how gaily it would pass,  
 If all the walks were lighted up with Gass!  
 Now Sir I hope upon consideration  
@@ -124,7 +124,9 @@ That I must end this Billet, yours
 
 Thalia  
 								  
-Fitz P.  
+Fitz P. 
+
+[^1]: read undress
 								  
 More serious occupations recall Fitz Pieria to the Country, and will for a short time interrupt all communication with the Attic Chest. The Gentleman who thought he had interest to introduce Fitz P—— has left Town without performing his promise if F.P. could receive an intimation that his visit would be a welcome one, he would be most happy to appear with the finale of his Poem in his hand upon his return to the Metropolis.  
   
