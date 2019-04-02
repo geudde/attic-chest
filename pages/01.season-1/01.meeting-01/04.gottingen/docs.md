@@ -7,10 +7,10 @@ visible: true
 ---
 
 <div class="poem">
-Ah me, and are ye going to,  
-&emsp;The wars for to be shotten in;  
-Soon will ye mourn, alas ye Stu—  
-—dents of hapless, of the far-famed U—  
+Ah me, and are ye going to,<br>
+&emsp;The wars for to be shotten in;<br>
+Soon will ye mourn, alas ye Stu—<br>
+—dents of hapless, of the far-famed U—<br>
 &emsp;—Niversity of Gottingen 
 
 Soon will ye hate that much-loved Bu—  
