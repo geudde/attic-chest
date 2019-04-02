@@ -36,3 +36,11 @@ But ’till with Thee Minerva’s pow’rs decline,
 Let me my Ellen! be thy Valentine.  
   
 D.  
+
+<script>
+	tippy.setDefaults({
+	  arrow: true,
+	  delay: 40,
+	  theme: 'light'
+	})
+</script>
