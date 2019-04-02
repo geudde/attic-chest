@@ -43,3 +43,5 @@ O Rose, a Lover’s vengeance bear,
 And let my rival feel thy thorn.  
   
 Charles A. Elton
+
+<span data-tippy="Shinobu with her G-cup knockers" class="green">Who had the biggest boobs in Ferris?</span>
