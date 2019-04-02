@@ -20,9 +20,7 @@ The Attic Chest contributions exhibit inconsistency of spelling, capitalization,
 
 <strong>Annotations:</strong> Some contributions are annotated in pencil, probably by William Porden. Examples of such annotations are consecutive numbering and titles. Eleanor Anne Porden often noted acceptance of contributions, or the date on which they were to be read. Notes that add significant information have been formatted in a grey sans-serif typeface, thus: 
 
-<h4>
-<span class="pencil">An Ode to Summer</span> 
-</h4>
+##### <span class="pencil">An Ode to Summer</span> 
 
 <strong>Corrections:</strong> William Porden, the Senior Editor of the Attic Chest, occasionally made corrections to submissions, invariably improving on the original. On the assumption that the edited versions were those read out at meetings, these are indicated in green, with the original visible by hovering over the relevant text: 
 
