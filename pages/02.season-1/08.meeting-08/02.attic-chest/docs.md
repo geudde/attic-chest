@@ -6,8 +6,6 @@ taxonomy:
 visible: true
 ---
 
-The Attic Chest to her Contributors and Friends  
-  
 All, Spring’s approach with pleasure hail  
 And breathe with joy the Vernal gale  
 The virgin flower that bashful blows  
