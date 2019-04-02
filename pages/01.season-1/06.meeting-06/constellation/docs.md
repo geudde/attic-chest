@@ -52,7 +52,7 @@ With some sealing wax good, some ink, pen, and paper.
 In writing his verses our friend took some time  
 And was often, I’m told, sore perplexed for a rhyme  
 For Fate o’er his mind her black venom distilled  
-And his head with most doleful presages <span data-tippy="filled" class="green"> she filled</span> 
+And his head with most doleful presages <span data-tippy="filled" class="green"> she filled</span>   
 But at last he concluded, his letter he sealed  
 (The contents, tho’ a poet, to me unrevealed)  
 He called for a Porter, and I heard him say  
