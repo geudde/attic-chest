@@ -62,6 +62,7 @@ Oh! still for him a thorn retain.
 Hassan  
       
 ---
+##### <span class="red">Obverse Side</span>
 
 tibi quod hassan solvere, carmen, habe.
 
