@@ -2,6 +2,7 @@
 title: 'Meeting 07'
 taxonomy:
     category: docs
+child_type: docs
 ---
 
 1. [The Age of Wonders](wonders)
