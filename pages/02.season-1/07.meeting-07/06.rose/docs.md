@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-La Rose  
+##### La Rose  
   
 Tendre fruit des fleurs de l’Aurore,  
 Object des baisiers du Zephyr,  
@@ -17,7 +17,7 @@ Bernard
 
 ---
   
-The Rose  
+##### The Rose  
   
 Child of Aurora’s tearful dews,  
 Flora’s gay empress, lovely Rose,  
