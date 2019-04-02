@@ -2,7 +2,7 @@
 title: 'Meeting 08'
 taxonomy:
     category: docs
-child_type: chapter
+child_type: docs
 ---
 
 ### Chapter Number
