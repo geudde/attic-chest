@@ -18,7 +18,7 @@ The Attic Chest contributions exhibit inconsistency of spelling, capitalization,
 <strong>Punctuation:</strong> Logical punctuation was of minor concern to most Attic Chest contributors, as evinced by the proliferation of redundant commas and dashes. Quotation marks are sometimes used to indicate direct speech, but in a manner unfamiliar to a modern reader. Marks are often opened and not closed, and interjections such as ‘he said’ or ‘she cried’ are not separated from the speech. An attempt has been made to standardize such punctuation in accordance with modern practice. 
 
 
-<strong>Annotations:</strong> Some contributions are annotated in pencil, probably by William Porden. Examples of such annotations are consecutive numbering and titles. Eleanor Anne Porden often noted acceptance of contributions, or the date on which they were to be read. Notes that add significant information have been formatted in a grey sans-serif typeface, thus: 
+<strong>Annotations:</strong> Some contributions are annotated in pencil, probably by William Porden. Examples of such annotations are consecutive numbering and titles. Eleanor Anne Porden often noted acceptance of contributions, or the date on which they were to be read. Notes that add significant information have been formatted in an orange sans-serif typeface, thus: 
 
 ##### <span class="pencil">An Ode to Summer</span> 
 
