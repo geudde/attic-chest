@@ -17,7 +17,7 @@ Roselia
 There the smiling Queen of Love  
 &emsp;On the violet bank reposes  
 There the Wife of Thund’ring Jove  
-Rests on a bed of thornless roses.  
+&emsp;Rests on a bed of thornless roses.  
   
 The tuneful Nine, obedient try  
 &emsp;To please *her* with their harmony  
