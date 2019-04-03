@@ -13,7 +13,7 @@ Fair Venus sunk in grief profound,
 And costly gifts the Goddess bears  
 &emsp;For him who shall the child restore  
 Ah! vain are riches, vain are tears,  
-&emsp;For Love well pleased his <span data-tippy="livery" class="green">fetters</span>wears  
+&emsp;For Love well pleased his <span data-tippy="livery" class="green">fetters</span> wears  
 And will from Beauty part no more.  
   
 Lyra
