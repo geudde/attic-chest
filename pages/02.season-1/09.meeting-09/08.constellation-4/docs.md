@@ -28,10 +28,10 @@ And tells him his Steed is not now upon Earth.
 Uninformed how Roberto flew up with the horse  
 “It is fled to the Moon, then,” he cried out, “of course,  
 I must seek it <span data-tippy="directly" class="green">at once</span>, or the Muses will chide  
-And say, <span data-tippy="on their steed I’d no business" class="green">I’d no right on their poney</span> to ride,”  
+And say, <span data-tippy="on their steed I’d no business" class="green">I’d no right on their pony</span> to ride,”  
 Thus saying, from Earth swift Mercurius took flight  
 And instantly did in the Valley alight;  
-Which put poor Roberto [honest Bob] in a terrible fright.  
+Which put <span data-tippy="poor Roberto" class="green">honest Bob</span> in a terrible fright.  
 And Hermes himself was in no less surprise,  
 That a man, not a courser, appeared to his eyes.  
 At length he advanced, with an affable air,  
