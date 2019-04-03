@@ -13,7 +13,7 @@ Respecting the Moon some enquiries he made.
 And from all that he learnt, it appeared, that tho’ less,  
 As a world like our own, we that orb must confess.  
 By this time o’er the moon, Night her curtain had drawn  
-While the tenants of Earth, hail’d the presence of  <span data-tippy="morn" class="green">dawn</span>
+While the tenants of Earth, hail’d the presence of  <span data-tippy="morn" class="green">dawn</span>  
 And our Orb, to Roberto’s delight and surprize  
 Appeared like the Moon, tho’ superior in size  
 Our traveller determined he’d rest until day  
