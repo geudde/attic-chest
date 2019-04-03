@@ -1,3 +1,10 @@
+---
+taxonomy:
+    category:
+        - docs
+visible: true
+---
+
 ---  
 title: 'In Vain I Urg’d the Gods' 
 taxonomy:
