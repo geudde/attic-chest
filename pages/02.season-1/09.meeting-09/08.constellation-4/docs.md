@@ -25,8 +25,6 @@ To the place where the King of the Conjurors lives;
 Who his magical instruments quickly brings forth,  
 And tells him his Steed is not now upon Earth.  
   
-D3311 Attic Chest 789_0059  
-  
 Uninformed how Roberto flew up with the horse  
 “It is fled to the Moon, then,” he cried out, “of course,  
 I must seek it directly [at once], or the Muses will chide  
@@ -48,8 +46,6 @@ To make his apologies, thus he begun,
 I wished on the saddle to court the gay Muses,  
 In truth of your anger I’m somewhat afraid,  
 But hope that my fall for my trespass has paid.”  
-  
-D3311 Attic Chest 789_0060  
   
 While Mercurius still pondered what answer to give  
 In the Valley they saw fair Urania arrive,  
@@ -74,8 +70,6 @@ What right had Mercurius to carry us down
 Into our retreats too, like a poacher he pries,  
 And thinks he’s concealed in a mortal’s disguise.  
   
-D3311 Attic Chest 789_0061  
-  
 But I think I can plague him, if you’ll but befriend  
 On Urania & Erato my plan will depend.”  
 They replied, “whate’er you can find that will will teaze him  
@@ -99,8 +93,6 @@ At the Tavern ’till late in the morning next day.
 There’s no time to be lost, if my plan you approve,  
 Set about it directly, like grasshopper’s move.”  
   
-D3311 Attic Chest 789_0062  
-  
 About the conclusion oh be not distrest,  
 There will be time in the evening to settle the rest.”  
 &emsp;This scheme of Thalia’s, put all in a flurry,  
@@ -122,8 +114,6 @@ You’d have thought that the Muses were really gone mad.
 But Urania, who feared that Roberto might pay,  
 For the fun they had had, upon Valentines Day.  
   
-D3311 Attic Chest 789_0063  
-  
 When she found that Mercurius had fled to the Skies,  
 Pursuing his track she began to arise  
 And Thalia, tho’ scarcely recovered her laughter  
@@ -133,7 +123,7 @@ To be continued.
   
 Fitz-Helicon.  
   
-D3311 Attic Chest 789_0064  
+---
   
 When Mercurius the Ladies perceived, he agree  
 They should judge in this case, since their own was the steed  
@@ -153,8 +143,6 @@ Fell down at her feet, and exclaimed Nymph divine!
 Oh lovely Thalia, what favours are mine,  
 Since your form undisguised, cast in heaven’s purest mold  
 Though a mortal, my eyes are allowed to behold.  
-  
-D3311 Attic Chest 789_0065  
   
 And since for a journey like this, by your choice,  
 I selected have been, how ought I to rejoice:  
@@ -202,8 +190,6 @@ Which support him, may form Sire! a new Constellation;
 Which soon known by the learned and called by his name,  
 To ages unnumbered his flight shall proclaim;  
   
-D3311 Attic Chest 789_0067  
-  
 You more we request, that whenever our Sire,  
 Or ourselves great Olympius the courser require  
 At a beck, or a word, he may swift take his flight  
@@ -224,8 +210,6 @@ When Hermes not knowing how better to pack
 Flew down to the earth with the youth on his back.  
 The Muses returned to their lodgings with speed,  
 Much rejoiced that their plan so well should succeed.  
-  
-D3311 Attic Chest 789_0068  
   
 Now poor Peg upon earth far more rarely appears,  
 And his head, neck and chest are all studded with stars.  
