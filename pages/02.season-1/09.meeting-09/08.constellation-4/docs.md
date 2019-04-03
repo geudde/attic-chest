@@ -69,7 +69,6 @@ If Apollo e’en wished us,” she said, “to leave town
 What right had Mercurius to carry us down  
 Into our retreats too, like a poacher he pries,  
 And thinks he’s concealed in a mortal’s disguise.  
-  
 But I think I can plague him, if you’ll but befriend  
 On Urania & Erato my plan will depend.”  
 They replied, “whate’er you can find that will will teaze him  
@@ -112,8 +111,7 @@ But when the Nine Damsels discovered Mercurius,
 Had been to the Conjuror, such a laugh they all had  
 You’d have thought that the Muses were really gone mad.  
 But Urania, who feared that Roberto might pay,  
-For the fun they had had, upon Valentines Day.  
-  
+For the fun they had had, upon Valentines Day,  
 When she found that Mercurius had fled to the Skies,  
 Pursuing his track she began to arise  
 And Thalia, tho’ scarcely recovered her laughter  
