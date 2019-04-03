@@ -25,6 +25,6 @@ And within its bosom lying,
 Rifles all its sweets, and then  
 Flits to Flavia’s lips again,  
   
-<span class="pencil">April 2d 1806  
+<span class="pencil">April 2<sup>d</sup> 1806  
 Anacreontic  
 The Fly</span>
