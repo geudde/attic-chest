@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-> Anacreontic  
+<span class="pencil">Anacreontic</span>
   
 I, at noon tide’s sultry hour,  
 In a cool sequester’d bower,  
@@ -25,6 +25,6 @@ And within its bosom lying,
 Rifles all its sweets, and then  
 Flits to Flavia’s lips again,  
   
-> April 2d 1806  
+<span class="pencil">April 2d 1806  
 Anacreontic  
-The Fly
+The Fly</span>
