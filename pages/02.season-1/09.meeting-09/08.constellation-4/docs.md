@@ -127,8 +127,7 @@ Fitz-Helicon.
   
 When Mercurius the Ladies perceived, he agree  
 They should judge in this case, since their own was the steed  
-<span data-tippy="And was giving the history" class="green">And his story began</span>, when Thalia thus spoke,  
-You need not Cyllenius, myself planned the joke  
+<span data-tippy="And was giving the history" class="green">And his story began</span>, when Thalia thus spoke,  You need not Cyllenius, myself planned the joke  
 And as in this case you say I must decide  
 I, Roberto acquit of all blame in the ride;  
 Since ourselves we incited him upwards to fly,  
@@ -143,7 +142,6 @@ Fell down at her feet, and exclaimed Nymph divine!
 Oh lovely Thalia, what favours are mine,  
 Since your form undisguised, cast in heaven’s purest mold  
 Though a mortal, my eyes are allowed to behold.  
-  
 And since for a journey like this, by your choice,  
 I selected have been, how ought I to rejoice:  
 For your Verdict I thank you, how happy am I,  
@@ -153,9 +151,9 @@ Let your votary hope, that each Muse is his friend.
 She replied with smile, for the rest of the Nine,  
 With myself to protect to you, I know they incline  
 In future be ever assured of my aid,  
-And that of my Sisters, soft #poetry’s maid.  
+And that of my Sisters, soft poetry’s maid.[^1]  
 Then to Hermes she turned, in his mansion above,  
-I now seek with Urania, the thundering [ignipotent] Iove;  
+I now seek with Urania, the <span data-tippy="thundering" class="green">ignipotent</span> Iove;  
 If with us you will go, by the road we’ll explain  
 The boon which we long have desired to obtain  
 In here, our return shall Roberto attend,  
@@ -164,13 +162,8 @@ As upwards they mounted, Cyllenius afar,
 Discovered poor Peg laid on many a star,  
 Who hungry and tired, long before had attacked.  
 The tongue and the beef that together were packed,  
-  
-# Erato  
-  
-D3311 Attic Chest 789_0066  
-  
 The steed as at distance they viewed him seemed well  
-But a Comet unkindly had singed off his tail [burnt his hind legs and tail].  
+But a Comet <span data-tippy="unkindly had singed off his tail" class="green">had burnt his hind legs and his tail</span>.  
 Meanwhile rising, the seats of th’immortals they gained,  
 And Jove’s brazen dome in an instant attained;  
 Where he on his throne of pure diamond sate,  
@@ -181,7 +174,7 @@ And ere with a smile he their entrance could greet,
 The trio approached, and sat down at his feet.  
 Her left hand on his knee fair Thalia then placed  
 Her right on his chin, and these accents addressed,  
-Oh Grandsire [Chronides] immortal, Chronides, divine!  
+Oh <span data-tippy="Grandsire" class="green">Chronides</span> immortal, Chronides, divine!  
 Attend the request of your dutiful Nine,  
 Let it by the nod, mighty King! be decreed,  
 ‘Mongst the stars where at present he lies, that our Steed,  
@@ -189,7 +182,6 @@ May for ever remain; that those in his station,
 Which support him, may form Sire! a new Constellation;  
 Which soon known by the learned and called by his name,  
 To ages unnumbered his flight shall proclaim;  
-  
 You more we request, that whenever our Sire,  
 Or ourselves great Olympius the courser require  
 At a beck, or a word, he may swift take his flight  
@@ -210,10 +202,11 @@ When Hermes not knowing how better to pack
 Flew down to the earth with the youth on his back.  
 The Muses returned to their lodgings with speed,  
 Much rejoiced that their plan so well should succeed.  
-  
 Now poor Peg upon earth far more rarely appears,  
 And his head, neck and chest are all studded with stars.  
 But poets no longer he deigns to befriend,  
 Nor can to the call of a mortal attend.  
   
 Fitz-Helicon
+
+[^1]: Erato
