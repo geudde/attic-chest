@@ -6,9 +6,9 @@ taxonomy:
 
 ## 2 May 1809
 
-1. [The Age of Wonders](editorial)
-2. [The Attic Chest to Her Contributors](attic-chest)
-3. [To the Author of the Riddle](author)
+1. [Editorial](editorial)
+2. [Anacreon Ode 29](anacreon-29)
+3. [The Rose a Coquette](coquette)
 4. [In Vain](in-vain)
 5. [Of Old](of-old)
 6. [Anacreon Ode 48](anacreon-48)
