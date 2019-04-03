@@ -1,5 +1,5 @@
 ---
-title: 'The Constellation Continued'
+title: 'The Constellation 2'
 taxonomy:
     category:
         - docs
