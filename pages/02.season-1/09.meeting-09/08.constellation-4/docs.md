@@ -127,7 +127,7 @@ Fitz-Helicon.
   
 When Mercurius the Ladies perceived, he agree  
 They should judge in this case, since their own was the steed  
-And was giving the history [And his story began], when Thalia thus spoke,  
+<span data-tippy="And was giving the history" class="green">And his story began</span>, when Thalia thus spoke,  
 You need not Cyllenius, myself planned the joke  
 And as in this case you say I must decide  
 I, Roberto acquit of all blame in the ride;  
