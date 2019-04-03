@@ -1,5 +1,5 @@
 ---  
-title: 'In Vain I Urg’d the Gods' 
+title: 'In Vain I Urg’d the Gods'
 taxonomy:
     category:
         - docs
