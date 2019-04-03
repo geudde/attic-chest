@@ -8,8 +8,7 @@ visible: true
 
 > From the Greek  
   
-> A Translation of the Forty-eighth Ode  
-of Anacreon  
+> A Translation of the Forty-eighth Ode of Anacreon  
   
 Give me Homer’s golden Lyre  
 But without it’s sanguine String  
