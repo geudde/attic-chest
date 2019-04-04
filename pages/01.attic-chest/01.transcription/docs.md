@@ -38,3 +38,11 @@ This is an example of missing text. Hover over <span data-tippy="Text missing" c
 
 
 Illegible text is indicated by question marks. Hover over <span data-tippy="Illegible Greek text" class="red">[ ? ? ? ]</span> to see comment. 
+
+<script>
+	tippy.setDefaults({
+	  arrow: true,
+	  delay: 40,
+	  theme: 'light'
+	})
+</script>
