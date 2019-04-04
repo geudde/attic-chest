@@ -36,7 +36,7 @@ The day was clear and bright, the sky serene
 &emsp;&emsp;And ’midst the Graces playful love was seen  
 &emsp;&emsp;Admiring thee his beautiful abode.  
 Then here below our wond’ring sight to bless  
-&emsp;&emsp;They lovely form was sent by Heav’n assign’d  
+&emsp;&emsp;Thy lovely form was sent by Heav’n assign’d  
 &emsp;&emsp;The model of all future charms to bear.  
 Let other maidens beauteous eyes profess  
 &emsp;&emsp;Or face, or hand, or ev’ry charm combin’d,  
