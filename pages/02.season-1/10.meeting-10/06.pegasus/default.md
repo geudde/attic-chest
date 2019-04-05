@@ -61,7 +61,6 @@ Still he’ll be strong enough for Poetaster’s tether.”[^3]
   
 F.P.
 
-  
 [^1]: Sub pedibusque videt nubes & sidera Daphis — Virg.  
   
 [^2]: <span data-tippy="Greek text" class="red">[...]</span> see the <span data-tippy="Greek text" class="red">[...]</span> of Eustath, Theocritus, Murmurans, Mussitans — in this manner Anigmatical and Magical chants were expressed & understood by both sacred & profane writers.  
