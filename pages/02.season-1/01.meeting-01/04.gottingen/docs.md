@@ -58,4 +58,4 @@ You and your poor forsaken U—<br>
 </p>
 </div>
 ---
-Attribution: Eleanor Porden
+<span style="text-align: right;">Author: Eleanor Porden</span>
