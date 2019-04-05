@@ -6,13 +6,8 @@ taxonomy:
 
 ## 16 May 1809
 
-1. [Editorial](editorial)
-2. [Sonnet to the Cicada](Cicada)
-3. [Anacreon Ode 43](anacreon-43)
-4. [The Story of Zeladai](zeladai)
-5. [An Elegy](elegy)
-6. [Pegasus Restored](pegasus)
-7. [The Mob Cap](mob-cap)
-8. [To Roberto](roberto-1)
-9. [To Roberto](roberto-2)
-10. [To Roberto](roberto-3)
+1. [Impromptu](impromptu)
+2. [Address to the Clouds](clouds)
+3. [Anacreon Ode 1](anacreon-1)
+4. [Anacreon Ode 1](anacreon-2)
+5. [Anacreon Ode 1](anacreon-3)
