@@ -7,7 +7,7 @@ taxonomy:
 ## 16 May 1809
 
 1. [Editorial](editorial)
-2. [Sonnet to the Cicada](Cicada)
+2. [Sonnet to the Cicada](cicada)
 3. [Anacreon Ode 43](anacreon-43)
 4. [The Story of Zeladai](zeladai)
 5. [An Elegy](elegy)
