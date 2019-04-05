@@ -23,3 +23,10 @@ Besides how can you doubt Thalia’s aid
 &emsp;After the promises that she has made.  
   
 The Genii of the Attic Chest  
+
+---
+
+We know not good sir if by you it is noted  
+But next Tuesday’s the Night to the Muses devoted  
+When if from *your Castle* you’ll deign to descend  
+Your presence much glee to the assembly will lend
