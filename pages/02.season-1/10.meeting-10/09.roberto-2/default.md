@@ -9,7 +9,7 @@ That none but a Sylph from a genii would come.)
 H ---- a’s fair writing was welcomed with joy,  
 For I long’d much to hear of the travelling Boy;  
 No doubt he has got much to sing and to say,  
-And by this time has tasted the famed milky way;[^1] 
+And by this time has tasted the famed milky way;[^1]   
 Can tell us the color, the shape, and the size,  
 Of the wig that was sent long ago to the skies.  
 Tho’ I’m sorry to hear, of the fall that he’s had,  
