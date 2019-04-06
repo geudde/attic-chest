@@ -32,7 +32,7 @@ visible: true
 <td class="author">Mr Bond</td>
 </tr>
 <tr>
-<td class="author"><a href="goodbye">Goodby &amp; how d’ye do</a></td>
+<td class="author"><a href="goodbye">Good bye &amp; how d’ye do</a></td>
 <td class="author"><span class="com">com.</span> Mr. Flaxman</td>
 </tr>
 </table>
