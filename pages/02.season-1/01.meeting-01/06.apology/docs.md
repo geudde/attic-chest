@@ -25,4 +25,6 @@ I wish’d for Nelly to entwine
 &emsp;Should thus have vanish’d into air  
 And cheated my sweet Valentine.  
   
-M. F.  
+M. F.
+
+<span id="author">Miss Flaxman</span>
