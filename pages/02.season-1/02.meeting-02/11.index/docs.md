@@ -8,11 +8,17 @@ visible: true
 
 <table>
 <tr>
+    <td>Editors’ Comments
+    </td>
+    <td>&nbsp;
+    </td>
+</tr>
+<tr>
 <td><a href="1809-01-10-01.html">Nor let soft slumber &amp;c</a></td>
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td><a href="1809-01-10-02.html">Impromptu on a man of Genius who suddenly became bald</a></td>
+<td><a href="1809-01-10-02.html">Impromptu on a man of Genius</a></td>
 <td>Mr Parkinson</td>
 </tr>
 <tr>
