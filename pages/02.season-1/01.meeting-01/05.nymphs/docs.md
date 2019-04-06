@@ -53,4 +53,4 @@ Says Love, “nor thus my conduct blame,
 “I, when I please, excite the fire  
 “But cannot quench the rising flames!”
 
-<span class="author">Author: Mr Kilburn</span>
+<div class="author">Author: Mr Kilburn</div>
