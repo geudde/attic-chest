@@ -24,19 +24,14 @@ The Attic Chest contributions exhibit inconsistency of spelling, capitalization,
 
 **Corrections:** William Porden, the Senior Editor of the Attic Chest, occasionally made corrections to submissions, invariably improving on the original. On the assumption that the edited versions were those read out at meetings, these are indicated in green, with the original visible by hovering over the relevant text: 
 
-
 This is an example of a textual correction. Hover over <span data-tippy="original version here" class="green">the green text</span> to see the original. 
 
-
-**Lacunae:** Several pages are missing from the DRO scans. Sections of some pages are hidden behind folds in the manuscript paper. Such lacunae are indicated by red ellipses, with a brief mouse-hover comment indicating the problem. 
-
+**Lacunae:** Several pages are missing from the DRO scans. Sections of some pages are hidden behind folds in the manuscript paper. Such lacunae are indicated by red ellipses, with a mouse-hover comment indicating the problem. 
 
 This is an example of missing text. Hover over <span data-tippy="Text missing" class="red">[ . . . ]</span> to see comment. 
 
-
 **Illegibility:** Some Attic Chest contributors used ink that has faded alarmingly, occasionally beyond the limits of scan contrast adjustment. In a few cases text is obscured by ink blots or overwriting. Many contributors were familiar with Classical Greek and used it in footnotes. An attempt to render this Greek text will be made at a later stage of the transcription. Illegible text has been indicated as follows:
-
 
 Illegible text is indicated by question marks. Hover over <span data-tippy="Illegible Greek text" class="red">[ ? ? ? ]</span> to see comment. 
 
-**Authorship:** At the conclusion of each season the editors of the Attic Chest compiled a list of meetings, contributions, and authors. For the convenience of visitors to this archive, the names of confirmed authors have been added below the relevant contributions, and the monolithic seasonal index has been divided into meetings.
+**Authorship:** At the conclusion of each season the editors of the Attic Chest compiled a list of meetings, contributions, and authors. To facilitate searches of this archive, the names of confirmed authors have been added below the respective contributions, and the monolithic seasonal index has been divided into meetings. Internal links have been added where possible.
