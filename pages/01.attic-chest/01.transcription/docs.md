@@ -38,3 +38,5 @@ This is an example of missing text. Hover over <span data-tippy="Text missing" c
 
 
 Illegible text is indicated by question marks. Hover over <span data-tippy="Illegible Greek text" class="red">[ ? ? ? ]</span> to see comment. 
+
+Author attribution are taken from the announcements made at the last meeting of each season.
