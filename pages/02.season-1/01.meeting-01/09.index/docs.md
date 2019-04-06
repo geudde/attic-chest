@@ -41,10 +41,9 @@ visible: true
 </tr>
 </table>
 | Editors’ Comments                               |                                                       |
-| ----------------------------------------------- | ----------------------------------------------------- |
 | On the Study of Ancient Architecture            | From an Oxford Prize Poem, communicated by Mr Flaxman |
 | To Maria                                        |                                                       |
-| On the Conscription of the Student of Gottingen | Miss Porden                                           |
+| On the Conscription of the Student of Gottingen | <span data-tippy="E. A. Porden" class="green">Miss Porden</span>                                           |
 | Love and the Nymphs                             | Mr Kilburn (Hassan)                                   |
 | An Apology for a Valentine                      | Miss Flaxman                                          |
 | Anacreontic Valentine                           | Mr Bond                                               |
