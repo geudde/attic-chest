@@ -23,6 +23,7 @@ visible: true
 <td class="author"><a href="nymphs">Love and the Nymphs</a>&emsp;(Hassan)</td>
 <td class="author">Mr Kilburn</td>
 </tr>
+<tr>
 <td class="author"><a href="goodbye">Anacreontic Valentine</a></td>
 <td class="author">Mr Bond</td>
 </tr>
