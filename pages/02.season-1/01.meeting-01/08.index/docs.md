@@ -24,6 +24,10 @@ visible: true
 <td class="author">Mr Kilburn</td>
 </tr>
 <tr>
+<td class="author"><a href="apology">An Apology for a Valentine</a>&emsp;(Hassan)</td>
+<td class="author">Miss Flaxman</td>
+</tr>
+<tr>
 <td class="author"><a href="goodbye">Anacreontic Valentine</a></td>
 <td class="author">Mr Bond</td>
 </tr>
