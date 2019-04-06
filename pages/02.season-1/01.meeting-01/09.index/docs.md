@@ -13,7 +13,7 @@ visible: true
 </tr>
 <tr>
 <td><a href="architecture">On the Study of Ancient Architecture &amp;c.</a></td>
-<td>From an Oxford Prize Poem,<span class="com">communicated by</span>Mr Flaxman</td>
+<td>From an Oxford Prize Poem, <span class="com">communicated by</span> Mr Flaxman</td>
 </tr>
 <tr>
 <td><a href="maria">To Maria</a></td>
@@ -37,6 +37,6 @@ visible: true
 </tr>
 <tr>
 <td><a href="goodbye">Good bye &amp; how d’ye do</a></td>
-<td><span class="com">com.</span>Mr. Flaxman</td>
+<td><span class="com">com.</span> Mr. Flaxman</td>
 </tr>
 </table>
