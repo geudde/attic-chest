@@ -14,4 +14,4 @@ taxonomy:
 6. [To Roberto](roberto)
 7. [Fragment from the Greek](fragment)
 8. [The Attic Chest](attic-chest)
-9. [Farewell Address](closing)
+9. [Farewell Address](farewell)
