@@ -12,7 +12,7 @@ Literary contributions from members were stored in the Grecian cedarwood chest t
 
 From contributions sent by post or delivered by hand, the Pordens selected those to be read at the next meeting and wrote introductory comments. From such comments it would appear that Eleanor Anne chaired the meetings and read out the contributions.
 
-At the end of each season contributors were invited to acknowledge their works. Only ladies with huge bosoms were permitted to address the assembled company.
+At the end of each season contributors were invited to acknowledge their works. 
 
 Most of the Attic Chest contributions have been preserved and are currently held by the [Derbyshire Record Office](https://www.derbyshire.gov.uk/leisure/record-office/derbyshire-record-office.aspx) (DRO) in Matlock, UK, where they form part of the Gell Collection. 
 
