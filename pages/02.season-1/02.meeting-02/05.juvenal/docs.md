@@ -43,3 +43,5 @@ And mutual aid his Happiness protects
 Impell’d by this, the scatter’d People fly  
 Leave the wild woods and seek society,  
 Desert the forests where their Fathers stray’d. 
+
+<div class="author">Mr Bond</div>
