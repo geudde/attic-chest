@@ -32,6 +32,6 @@ This is an example of missing text. Hover over <span data-tippy="Text missing" c
 
 **Illegibility:** Some Attic Chest contributors used ink that has faded alarmingly, occasionally beyond the limits of scan contrast adjustment. In a few cases text is obscured by ink blots or overwriting. Many contributors were familiar with Classical Greek and used it in footnotes. An attempt to render this Greek text will be made at a later stage of the transcription. Illegible text has been indicated as follows:
 
-Illegible text is indicated by question marks. Hover over <span data-tippy="Illegible Greek text" class="red">[ ? ? ? ]</span> to see comment. 
+Illegible text is indicated by question marks. Hover over <span data-tippy="Greek text" class="red">[ ? ? ? ]</span> to see comment. 
 
 **Authorship:** At the conclusion of each season the editors of the Attic Chest compiled a list of meetings, contributions, and authors. To facilitate searches of this archive, the names of confirmed authors have been added below their respective contributions, and the monolithic seasonal index has been divided into meetings. Internal links have been added where possible. It should be noted, however, that the indices do not always reflect the order or content of contributions presented at meetings.
