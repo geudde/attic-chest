@@ -1,5 +1,5 @@
 ---
-title: 'Closing Comments'
+title: 'Farewell Address'
 taxonomy:
     category:
         - docs
