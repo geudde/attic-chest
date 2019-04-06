@@ -57,5 +57,4 @@ You and your poor forsaken U—<br>
 &emsp;—Niversity of Gottingen.<br>
 </p>
 </div>
----
 <div id="author">Author: Eleanor Porden</div>
