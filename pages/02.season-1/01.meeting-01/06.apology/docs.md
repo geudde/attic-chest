@@ -27,4 +27,4 @@ And cheated my sweet Valentine.
   
 M. F.
 
-<span id="author">Author: Miss Flaxman</span>
+<span class="author">Author: Miss Flaxman</span>
