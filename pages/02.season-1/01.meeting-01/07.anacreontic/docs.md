@@ -37,4 +37,4 @@ Let me my Ellen! be thy Valentine.
   
 D.  
 
-<span class="author">Mr Bond</span>
+<div class="author">Mr Bond</div>
