@@ -93,7 +93,7 @@ If our majority decree to *give*,
   
 He spoke with grace that much attention found.  
 &emsp;The Poppy next his beauteous form display’d,  
-#This robe was white with crimson fring’d around[^1]  
+This robe was white with crimson fring’d around[^1]  
 &emsp;And crown’d with sable stamina his head.  
   
 Fair was his form, majestic as he rose,  
