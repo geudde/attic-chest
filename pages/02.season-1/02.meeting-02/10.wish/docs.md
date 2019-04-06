@@ -26,3 +26,5 @@ To live in peace for many a year
 That grief may never wring a tear  
 But Love to dry it may be near  
 And cheer your heart and à that.
+
+<div class="author">Miss Flaxman</div>
