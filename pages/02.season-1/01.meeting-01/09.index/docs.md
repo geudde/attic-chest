@@ -8,8 +8,8 @@ visible: true
 
 <table>
     <tr>
-<td class="author"><a href="editorial">Editor’s Comments</a></td>
-<td class="author">W. Porden &amp; E. A. Porden</td>
+<td class="author"><a href="editorial">Editors’ Comments</a></td>
+<td class="author">&nbsp;</td>
 </tr>
 <tr>
 <td class="author"><a href="architecture">On the Study of Ancient Architecture &amp;c.</a></td>
