@@ -20,11 +20,11 @@ visible: true
 <td class="author"><span data-tippy="E. A. Porden" class="green">Miss Porden</span></td>
 </tr>
 <tr>
-<td class="author"><a href="nymphs">Love and the Nymphs</a>&emsp;(Hassan)</td>
-<td class="author">Mr Kilburn</td>
+<td class="author"><a href="nymphs">Love and the Nymphs</a></td>
+<td class="author">Mr Kilburn (Hassan)</td>
 </tr>
 <tr>
-<td class="author"><a href="apology">An Apology for a Valentine</a>&emsp;(Hassan)</td>
+<td class="author"><a href="apology">An Apology for a Valentine</a></td>
 <td class="author">Miss Flaxman</td>
 </tr>
 <tr>
