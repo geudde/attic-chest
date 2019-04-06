@@ -14,6 +14,9 @@ visible: true
 <tr>
 <td><a href="1809-01-10-02.html">Impromptu on a man of Genius who suddenly became bald</a></td>
 <td>Mr Parkinson</td>
+</tr>
+<tr>
+<td>
 <a href="1809-01-10-02.html">On Professor Person</a></td>
 <td>Mr Parkinson</td>
 </tr>
