@@ -52,3 +52,5 @@ And thus these rash immortals cried.
 Says Love, “nor thus my conduct blame,  
 “I, when I please, excite the fire  
 “But cannot quench the rising flames!”
+
+<span id="author">Mr Kilburn</span>
