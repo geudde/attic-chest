@@ -22,4 +22,4 @@ For my second to meet with in every state
 My whole is by many Philosophers reckoned  
 To bring very often my first to my second.  
 
-Person
+Porson
