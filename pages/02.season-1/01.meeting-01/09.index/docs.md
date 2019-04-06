@@ -40,11 +40,3 @@ visible: true
 <td class="author"><span class="com">com.</span> Mr. Flaxman</td>
 </tr>
 </table>
-| Editors’ Comments                               |                                                                  |
-| On the Study of Ancient Architecture            | From an Oxford Prize Poem, communicated by Mr Flaxman            |
-| To Maria                                        |                                                                  |
-| On the Conscription of the Student of Gottingen | <span data-tippy="E. A. Porden" class="green">Miss Porden</span> |
-| Love and the Nymphs                             | Mr Kilburn (Hassan)                                              |
-| An Apology for a Valentine                      | Miss Flaxman                                                     |
-| Anacreontic Valentine                           | Mr Bond                                                          |
-| Good bye &amp; how d’ye do                      | Mr Flaxman                                                       |
