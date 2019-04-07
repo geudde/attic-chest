@@ -1,6 +1,12 @@
 ---
 title: 'The Mob Cap'
+taxonomy:
+    category:
+        - docs
+visible: true
 ---
+
+<div class="author">Mr Kennion</div>
 
 > The Mob Cap — or the retort  
   
