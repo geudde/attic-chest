@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Miss Porden</div>
+
 > The Attic Chest, to her contributors and friends  
   
 Adieu, the dreaded hour is come  
