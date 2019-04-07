@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Miss Porden</div>
+
 > Written a figure of Atlas with Hearts
 
 Thus low beneath my load I bend  
