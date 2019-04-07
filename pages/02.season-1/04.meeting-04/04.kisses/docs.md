@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Mr Joseph</div>
+
 The Parent Lip in Infant Years  
 With balmy soothing power  
 Can win a smile thro’ glittering tears  
@@ -25,5 +27,3 @@ While on the Cherub lips I love
 The Parent Kiss is prest.
 
 Dec 27
-
-<div class="author">Mr Joseph</div>
