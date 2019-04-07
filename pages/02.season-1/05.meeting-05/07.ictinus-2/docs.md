@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Miss Porden</div>
+
 > With a drawing of a heart changing from red in consequence of being pierced by an Arrow of colour
 
 Do not refuse to read one line  
