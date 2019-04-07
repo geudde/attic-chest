@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Mr Flaxman</div>
+
 The yellow grain  
 Nods to the main  
 As Notus sweeps the seagirt plain,  
