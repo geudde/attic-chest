@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Mr Parkinson</div>
+
 #### On a man of Genius who suddenly became *bald*
 
 Be consol’d my dear friend, though your fate is so bare,  
@@ -27,5 +29,3 @@ Take the Licence my friend — keep the secret between us,
 Now reel down & for ever get drunk with Silenus.  
 
 P.
-
-<div class="author">Mr Parkinson</div>
