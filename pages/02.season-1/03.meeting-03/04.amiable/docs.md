@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Mr Joseph</div>
+
 > Written on hearing an Amiable Young Lady who sang with taste & feeling but who wanted strength of voice.
 
 When Sappho — fair enthusiast! sung  
@@ -29,5 +31,3 @@ With Music’s pow’r to join thine own
 &emsp;&emsp;And charm our reason on her throne.
 	
 Timanthes
-
-<div class="author">Mr Joseph</div>
