@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Miss Flaxman</div>
+
 Nymphydia (pretty Gossip) told  
 To Michael Drayton, once a story  
 Which happen’d to Queen Mab of old  
