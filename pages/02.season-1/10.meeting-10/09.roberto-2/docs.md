@@ -1,6 +1,12 @@
 ---
-title: 'To Roberto'
+title: 'Roberto’s Answer'
+taxonomy:
+    category:
+        - docs
+visible: true
 ---
+
+<div class="author">Mr Robert Kay</div>
 
 My thanks gentle Goddess most justly are due  
 For some excellent Verses, which I guess are from you  
