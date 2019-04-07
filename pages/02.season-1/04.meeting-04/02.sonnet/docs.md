@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Communicated by Mr Flaxman</div>
+
 > Written on contemplating a Pile of splendid Ruins
 
 “Say, *Time*, whose, once, yon stately Pile, (I cried)  
