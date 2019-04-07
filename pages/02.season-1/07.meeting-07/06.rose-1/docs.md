@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Mr Kilburn</div>
+
 ##### La Rose  
   
 Tendre fruit des fleurs de l’Aurore,  
