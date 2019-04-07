@@ -28,7 +28,7 @@ The deities appear and Tinderella owns their influence and prepare[s] to strike 
 
 Then follows a history of the tinder box still denominated the golden Casket and how it came into the possession of Tinderella. The flint is a piece broken from the rock by Hercules when he released Prometheus. The Steel made from the mass of iron as the mallet of Thor &c. and the Tinder from the veil of Semele collected by Ino from her ashes and given to Tinderella.
 
-#### Ode.
+#### Ode
 
 The Charms being perfected after another invocation to the Spirits of Earth, Sea, and Air... Tinderella attempts to strike a light, but being in a little trepidation strikes aside which calls up a tumultuous croud of Ancient Critics and modern poets and critics of inferior rank denominated a puny race.
 
