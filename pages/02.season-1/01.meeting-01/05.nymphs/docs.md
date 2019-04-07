@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Mr Kilburn</div>
+
 > Auprés d’une fèconde source  
 > D’ou coulent cent petites ruisseaux,  
 > L’amour, fatigué de sa course,  
@@ -52,5 +54,3 @@ And thus these rash immortals cried.
 Says Love, “nor thus my conduct blame,  
 “I, when I please, excite the fire  
 “But cannot quench the rising flames!”
-
-<div class="author">Mr Kilburn</div>
