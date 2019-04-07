@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Mr Porden</div>
+
 > The Story of Zeladai and the Shepherd Alcidon
 
 While the Moors held the kingdom of Grenada in Spain the family of *Garules* was one of the most distinguished among them. Even the *Abencerrages* and Almoradis did not surpass this valiant Race. These three families had given many kings to Grenada who had supported with applause the glory of their Names; and distinguished themselves still more by their mild and polished manners than by their achievements in war.
