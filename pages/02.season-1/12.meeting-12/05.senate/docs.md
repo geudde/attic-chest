@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Miss Porden</div>
+
 Far, far unbosom’d in an *eastern* vale  
 &emsp;Shaded by myrtle groves there stands a bow’r  
 Fanned ever by the gentle western gale  
