@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Miss Parkinson</div>
+
 What if the Gods their Tributes brought,  
 To fill the box of fam’d Pandora;  
 Behold! with equal treasures fraught,  
