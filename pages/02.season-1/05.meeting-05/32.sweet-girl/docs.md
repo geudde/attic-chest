@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Communicated by Miss M’Donald</div>
+
 Awake sweet Girl awake    
 See the bright morning break    
 Busy footsteps hurrying by    
