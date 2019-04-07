@@ -8,7 +8,7 @@ visible: true
 
 <div class="author">Mr Bond</div>
 
-A Shepherd from the Neighbourhood of Tess offers the fair Keeperess of the Tea Chest a decayed Leaf fallen from the Wrath of Anacreon; if this is accepted, [ -- ] should pick up a few more, he will communicate them.
+A Shepherd from the Neighbourhood of Tess offers the fair Keeperess of the Tea Chest a decayed Leaf fallen from the Wreath of Anacreon; if this is accepted, [. . . ] should pick up a few more, he will communicate them.
 
 November 2nd 1809
 
