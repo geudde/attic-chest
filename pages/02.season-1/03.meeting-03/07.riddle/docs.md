@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Communicated by Mr Flaxman</div>
+
 Since Riddles are so much in vogue  
 My fancy needs must play the rogue  
 And make you search the patent truth  
@@ -30,6 +32,7 @@ Forc’d him to travel soon and late.
 He rode and fac’d whate’ver ill weather,  
 Clad in a coat of baize or leather;  
 But things improv’d as time ran on,  
+
 And then I drove my chaise and one,  
 Till luxury, advancing more,  
 I now enjoy my coach and four.  
