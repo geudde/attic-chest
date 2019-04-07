@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Miss Porden</div>
+
 When Bish or Carter Puffs advance  
 To make you buy a Lottery chance  
 Adorn’d with every tempting grace  
