@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-<div class="author">Communicated by Mr Flaxman</div>f
+<div class="author">Communicated by Mr Flaxman</div>
 
 &emsp;Though oft in Britain’s isle the breaking bust  
 To fame consign the patriot hero’s dust,  
