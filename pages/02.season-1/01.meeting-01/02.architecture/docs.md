@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Communicated by Mr Flaxman</div>f
+
 &emsp;Though oft in Britain’s isle the breaking bust  
 To fame consign the patriot hero’s dust,  
 And conquerors wakéd to mimic life again,  
