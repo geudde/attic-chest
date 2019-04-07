@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Communicated by Mr Flaxman</div>
+
 One day, good bye met how d’ye do  
 Too close to shun saluting,  
 But soon the rival sisters flew  
