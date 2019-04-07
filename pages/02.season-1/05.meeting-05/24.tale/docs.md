@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Mr Flaxman and Co.</div>
+
 > Impromptu  
   
 There was little Jack Horner  
