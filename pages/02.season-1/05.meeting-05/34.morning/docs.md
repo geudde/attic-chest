@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Mr Kay</div>
+
 Master Cupid this morning arose in a hurry  
 “My dear Mama Venus, only see what a flurry,  
 Sure my Vot’ries are more than ever elated  
