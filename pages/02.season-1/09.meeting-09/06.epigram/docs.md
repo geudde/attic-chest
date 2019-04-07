@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Communicated by Mr Flaxman</div>
+
 #### An Epigram upon Dr. Toe of Cambridge, who courted a Lady who afterwards married her Footman.
 
 Twixt Doctor Toe & footman Joe,  
