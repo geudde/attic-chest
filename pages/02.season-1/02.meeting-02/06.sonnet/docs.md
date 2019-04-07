@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Mr Kilburn</div>
+
 #### Sonnetto
 
 Gli angeli, il sol, la luna erano intorno  
@@ -43,5 +45,3 @@ Let other maidens beauteous eyes profess
 &emsp;&emsp;For Jove from thee alone creates each grace.  
 	
 I have endeavor’d to translate nearly literally the *admirable* sonnet of Fracastoro but I fear I have not done sufficient justice to so exquisite or jumbled Angels, Sun, Moon, Paradise, Jove, Love, the Graces
-
-<div class="author">Mr Kilburn</div>
