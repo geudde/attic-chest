@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Mr Porden</div>
+
 > On His Birthday  —  Dec 8th 1808
   
 That ghastly Being long and spare  
@@ -96,5 +98,3 @@ Else Barrington my plausive Rhyme
 Would scorn the envious rage of time  
 And to unnumber’d ages prove  
 They virtues & my grateful love.  
-
-<div class="author">William Porden</div>
