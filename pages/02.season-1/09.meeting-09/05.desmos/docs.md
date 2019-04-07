@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Mr Bond</div>
+
 I am descended from a Family who during many Ages were Members of a small Greek Colony planted about the 70th Olympiad on the Shores of the Black Sea between the Northern Foot of Mount Caucasus and the Cimmerian Bosphorus — whether it was in consequence of having heard that Ovid once resided on the other side of the Mountain, or from some other Cause. I contracted an Affection for Roman Literature at a very early period of Life; and although I am convinced that my Style is vitiated by the Scythic Idiom and deformed by numerous Barbarians, yet I am impell’d by an irresistable Inclination to offer the following feeble Translation to the Attic Chest, as the Fame of that sacred Depository has already extended far beyond the dwellings of my Ancestors.
 
 Desmos
