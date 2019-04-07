@@ -28,4 +28,6 @@ Ah no! a nobler task is thine
 With Music’s pow’r to join thine own  
 &emsp;&emsp;And charm our reason on her throne.
 	
-Tiruduthes
+Timanthes
+
+<div class="author">Mr Joseph</div>
