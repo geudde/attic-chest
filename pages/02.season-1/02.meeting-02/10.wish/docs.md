@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-<div class="author"><span data-tippy="Mr Flaxman" class="green">Miss Flaxman</span></div>
+<div class="author"><span data-tippy="Miss Flaxman" class="green">Mr Flaxman</span></div>
 
 Much do I wish to send in rhyme  
 Some kindly wish & à that  
