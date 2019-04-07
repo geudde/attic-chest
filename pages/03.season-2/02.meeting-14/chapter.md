@@ -9,7 +9,7 @@ visible: true
 # 2 January 1810
 
 1. [Editorial](editorial)
-2. [History of the Attic Chest](attic-chest)
+2. [History of the Attic Chest](history)
 3. [Christmas Gambols](gambols)
 4. [The Fairy’s Wish](wish)
 5. [A Riddle](riddle)
