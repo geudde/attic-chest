@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Mrs Hoole communicated by <span data-tippy="S. H. Kay" class="green">Mrs Kay</span></div>
+
 The Enclosed Poem is respectfully presented to the Directors of the Attic Chest by a fervent admirer of that Classic Receptacle of Poetic Sprigs, who has some hesitation in offering a work already published, altho’ so recently, as to render it probable it may not yet have been seen by any of the Learned and various Contributors and Auditors.  
   
 It is sincerely hope that the “Dramatick Flowers” may be found so perfect in the respective parts, as to induce the Fair Editress to grant them a Benefit Night, which will both oblige and gratify.  
