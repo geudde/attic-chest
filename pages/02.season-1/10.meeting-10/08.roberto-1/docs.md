@@ -1,6 +1,12 @@
 ---
 title: 'To Roberto'
+taxonomy:
+    category:
+        - docs
+visible: true
 ---
+
+<div class="author">Miss Porden</div>
 
 Vainly you try to keep concealed  
 Facts by Fitz Helicon revealed  
