@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Miss Flaxman</div>
+
 > To the Editress  
   
 Pent as by magic in the dark recess  
