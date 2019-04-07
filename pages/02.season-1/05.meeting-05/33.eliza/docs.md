@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">D. Grant</div>
+
 > Given to Eliza, on Valentine’s Day    
     
 Hear me Eliza! while I pray    
