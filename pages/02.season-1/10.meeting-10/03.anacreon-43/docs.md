@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Mr Bond</div>
+
 ##### To the Grasshopper
 
 Grasshopper how I envy thee!  
