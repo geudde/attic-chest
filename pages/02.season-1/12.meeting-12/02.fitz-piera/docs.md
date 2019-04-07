@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Miss Porden</div>
+
 > A parody on that truly sublime and pathetic Elegy entitled  
   
 #### “Fitz-Pieria’s gone to pot.”  
