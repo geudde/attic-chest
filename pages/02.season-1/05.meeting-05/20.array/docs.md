@@ -7,6 +7,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Miss Maria Denman</div>
+
 ![sprig](top.jpg?resize=250)
 
 In grim array of play and pay,  
