@@ -1,6 +1,12 @@
 ---
 title: 'An Elegy'
+taxonomy:
+    category:
+        - docs
+visible: true
 ---
+
+<div class="author">Miss Flaxman</div>
 
 > To be read with a solemn tone
   
