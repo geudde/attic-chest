@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Mr Bond</div>
+
 > From the Greek  
   
 > A Translation of the Forty-eighth Ode of Anacreon  
