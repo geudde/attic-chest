@@ -1,6 +1,12 @@
 ---
 title: 'To Miss Maria Denman'
+taxonomy:
+    category:
+        - docs
+visible: true
 ---
+
+<div class="author">Miss Porden</div>
 
 At Midnight’s solemn hour I chose  
 Your promised Verses to compose  
