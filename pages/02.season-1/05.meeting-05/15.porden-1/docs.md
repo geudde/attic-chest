@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Mr Bond</div>
+
 On Ezla’s pleasant Banks reclined,  
 &emsp;Two happy Lovers talked apart;  
 The myrtle with the Rose they twined,  
