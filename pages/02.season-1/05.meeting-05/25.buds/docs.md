@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Miss Flaxman</div>
+
 &emsp;See how the blooming Buds  
 &emsp;Surroun’d the Parent Flow’r  
 &emsp;While o’er their youthful heads  
