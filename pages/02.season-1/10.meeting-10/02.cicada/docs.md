@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Communicated by Mr Flaxman</div>
+
 Favour’d Cicada! thou, whose transient days  
 The ambrosial tears of balmy Morn sustain!  
 Contented on thy native Woods to gaze,  
