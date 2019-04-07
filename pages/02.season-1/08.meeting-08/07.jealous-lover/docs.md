@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Mr Porden</div>
+
 <span class="pencil">Anacreontic</span>
   
 I, at noon tide’s sultry hour,  
