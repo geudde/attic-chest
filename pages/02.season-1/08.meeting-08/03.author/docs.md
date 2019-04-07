@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Miss Porden</div>
+
 > To the author of the riddle read February 7th
 
 The secret which your Muse envelopes  
