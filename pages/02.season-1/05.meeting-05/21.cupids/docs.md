@@ -7,6 +7,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Miss Flaxman</div>
+
 #### A Cantata for Three Voices
 
 ![](cupid.jpg?resize=400)
