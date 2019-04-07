@@ -19,6 +19,6 @@ visible: true
 6.[Says a P to an O](p-t-o)
 7.[Anacreon Ode 16](anacreon-16)
 8.[To Sir John Barrington](barrington)
-9.[Epigram](epigram)
+9.[Muse of Fire](fire)
 10.[Anagrammatical Epigram](anagrammatical)
 11.[Cupid as a Landscape Painter](cupid)
