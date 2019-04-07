@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Mrs Kay</div>
+
 If Plutus with his riches can  
 Prolong the life of sordid man,  
 I will amass a store of gold.  
