@@ -6,7 +6,9 @@ taxonomy:
 visible: true
 ---
 
-An authors address to his first work,  
+<div class="author">Mr Parkinson</div>
+
+> An authors address to his first work,  
 on its going to be printed.  
   
 Oh spring like Pallas, daughter of the Brain,  
