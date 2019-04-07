@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Mr Bond and Mr Porden</div>
+
 Young Love with rosy fetters bound  
 &emsp;The Muses give to Beauty’s care.  
 Fair Venus sunk in grief profound,  
