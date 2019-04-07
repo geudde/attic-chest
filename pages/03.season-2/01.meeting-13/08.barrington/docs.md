@@ -9,7 +9,7 @@ visible: true
 <div class="author">Mr Porden</div>
 
 > To Sir John Barrington Bart.  
-On his Birth Day Dec. 8th 1804  
+On his Birthday Dec. 8th 1804  
   
 “Descended from an Antient line,  
 That one the English Sceptre swayed.”  
