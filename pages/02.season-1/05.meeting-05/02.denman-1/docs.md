@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Miss Porden</div>
+
 Chere madame, un amoreux  
 Subjugez par la brillante feu  
 Qui brûle san çesse dans vos beaux yeux  
