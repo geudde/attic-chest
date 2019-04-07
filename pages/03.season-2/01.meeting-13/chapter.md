@@ -1,8 +1,8 @@
 ---
 title: 'Meeting 13'
 taxonomy:
-    category:
-        - docs
+    category: docs
+    tag: ''
 process:
     markdown: true
     twig: true
