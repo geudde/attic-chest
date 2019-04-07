@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Mr Flaxman</div>
+
 #### Impromptu on board of a Margate Packet
 
 Breath softly, gentle Zephyr,  
