@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Communicated by Mr Flaxman</div>
+
 > The following Ode to the tutelar Saint of the Catholic Church at Wells was written with a pencil in the Dean’s prayer book whilst Mr Perkins was entertaining the Author with his charming performances on the organ.
 
 Long may they gothic pillars bear the weight  
