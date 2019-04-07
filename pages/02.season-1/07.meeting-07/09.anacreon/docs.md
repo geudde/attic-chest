@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Mr Bond</div>
+
 Beneath the Rose’s fragrant Shade  
 A lurking Bee in ambush laid  
 Unknown, unseen, poor Cupid stung,  
