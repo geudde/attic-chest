@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Miss Porden</div>
+
 At Cupid’s Altar see this trembling Swain  
 To the lov’d Nymph with sighs declare his pain  
 And with a ticket hope her breast to move  
