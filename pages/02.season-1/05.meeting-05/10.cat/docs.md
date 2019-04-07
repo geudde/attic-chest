@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Miss Porden</div>
+
 As longs the Cat the timid Mouse to catch  
 And at the Mousehole keeps her hungry watch  
 So do I long, so watch, oh Nymph divine  
