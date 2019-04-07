@@ -9,7 +9,7 @@ visible: true
 <div class="author">Miss Flaxman</div>
 
 Hail solitary Chimney! peeping white  
-‘Mid the dark trees, I hail thy sight,  
+’Mid the dark trees, I hail thy sight,  
 Thou harbinger of comfort, & of rest,  
 By ev’ry weary Traveller confest:  
 But chiefly, He, who long has left his Home,  
@@ -26,7 +26,7 @@ And who is she so pensive, yet so young?
 Who on a Portrait o’er the Chimney hung  
 Gazes with tender smile & glist’ning Eye?  
 While her fair bosom gently breathes a sigh.  
-Ah ‘tis the chosen Maiden of his heart,  
+Ah ’tis the chosen Maiden of his heart,  
 His cherish’d Love, his Hope, his better part.  
 Now swifter than before he moves along,  
 While hopes & fears his beating bosom throng,  
