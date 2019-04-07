@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author"><span data-tippy="Mr Flaxman" class="green">Miss Flaxman</span></div>
+
 Much do I wish to send in rhyme  
 Some kindly wish & à that  
 And truly I have known the time  
@@ -26,5 +28,3 @@ To live in peace for many a year
 That grief may never wring a tear  
 But Love to dry it may be near  
 And cheer your heart and à that.
-
-<div class="author">Miss Flaxman</div>
