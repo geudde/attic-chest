@@ -1,6 +1,12 @@
 ---
 title: 'Pegasus Restored'
+taxonomy:
+    category:
+        - docs
+visible: true
 ---
+
+<div class="author">Mr Flaxman</div>
 
 #### Pegasus Restored to Gods & Men  
   
