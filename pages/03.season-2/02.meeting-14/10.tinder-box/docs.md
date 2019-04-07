@@ -21,7 +21,7 @@ And tender Skins, and Corns, from hurt.
 Now the Magic rites prepare  
 Let all enchantments, powers be there,  
 Now Rosa, bring the fatal Casket  
-And all the et ceteras in the carmed basket;  
+And all the et ceteras in the charmed basket;  
   
 #### Epode  
   
@@ -103,7 +103,7 @@ Give me the Tinderbox;
 Rose you are so slow,  
 You’d make a Parson swear;  
 There! fix fair Daphne’s branch full in Apollo’s sight,  
-The Holly [??] place before the Virgin Goddess bright,  
+The Holly place before the Virgin Goddess bright,  
 And now, e’en now, I’ll strike a light!  
   
 #### Conclusion of the Tinder Box  
@@ -144,7 +144,7 @@ The Fates straight press it in the Tinderbox —
   
 #### Ode  
   
-‘Tis done, ‘tis done,  
+’Tis done, ’tis done,  
 The Charms are laid,  
 The Philters are displayed;  
 “All ye mighty Powers  
