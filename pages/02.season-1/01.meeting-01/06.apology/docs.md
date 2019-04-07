@@ -7,6 +7,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Miss Flaxman</div>
+
 My drowsy Muse an idle Jade!  
 &emsp;Has grieved and Sadly (sorely) vex’d me,  
 She sure forgets her rhyming Trade  
@@ -26,5 +28,3 @@ I wish’d for Nelly to entwine
 And cheated my sweet Valentine.  
   
 M. F.
-
-<div class="author">Miss Flaxman</div>
