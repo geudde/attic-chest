@@ -20,3 +20,5 @@ Begone dejection — sombre care
 Content’s the inmate of the grove  
 Come then sweet Bird and hither — bring   
 Tranquility, and Nature’s blooming spring.  
+
+<div class="author">C. Sanders</div>
