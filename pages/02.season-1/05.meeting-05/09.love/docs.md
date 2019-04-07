@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Miss Porden</div>
+
 All powerful Love is like the Sword of Old  
 By Acban given to Cambuscan bold  
 No armour could its piercing stroke endure  
