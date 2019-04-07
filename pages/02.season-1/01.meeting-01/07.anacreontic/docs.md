@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Mr Bond</div>
+
 When Cupid, wanton boy, was young  
 His Wings unfledg’d, and rude his tongue,  
 He loiter’d in Arcadian bowers,  
@@ -36,5 +38,3 @@ But ’till with Thee Minerva’s pow’rs decline,
 Let me my Ellen! be thy Valentine.  
   
 D.  
-
-<div class="author">Mr Bond</div>
