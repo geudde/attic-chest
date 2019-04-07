@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Mr Flaxman</div>
+
 Rise Honest Muse and to the liberal Lyre  
 Symphonious sing, what Friendship shall inspire.  
 Say! shall the Man to gain devoted, Claim  
