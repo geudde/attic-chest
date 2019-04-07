@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Mr Henry Thomson</div>
+
 In vain I urg’d the Gods above,  
 To speed me to my anxious Love.  
 I sought on Iris’ bow to glide,  
