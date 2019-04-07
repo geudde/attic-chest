@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Miss Porden</div>
+
 Cupid spitted on a dart  
 At his Altar roasts my heart  
 It burns with ardent love for thee  
