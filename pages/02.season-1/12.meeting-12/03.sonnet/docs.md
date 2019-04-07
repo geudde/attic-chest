@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Miss Porden</div>
+
 See where yon stately Lily grows  
 &emsp;In robe of spotless white arrayed  
 The pride of Flora’s court it blows  
