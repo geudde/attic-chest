@@ -11,4 +11,4 @@ visible: true
 
 # 19 December 1809
 
-1.[Editors’s Comments(editorial)
+1.[Editorial(editorial)
