@@ -42,7 +42,7 @@ How dare ye thus approach the dome of Mighty Jove?”
 “The Winged Pegasus!” they cried aloud,  
 The name of Pegasus rung thro’ the croud  
 Have ye not slaughtered him like one forsaken  
-Split him like deal-boards & struck him ‘monst the Stars  
+Split him like deal-boards & struck him ’mongst the Stars  
 Like to a side of Bacon?  
 And not content with this, but to compleat your riddle[^2]  
 Your butchering hands bereft him of bum fiddle!  

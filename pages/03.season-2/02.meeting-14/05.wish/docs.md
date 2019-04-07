@@ -12,7 +12,7 @@ Lately come from Fairy land
 To a world unknown to me —  
 Leaving Fancy’s fairy band,  
 Leaving skyborn liberty,  
-Leaving all — ‘tis thee I seek  
+Leaving all — ’tis thee I seek  
 Ellen, pride of Maidens Fair!  
 Hear me while I whisp’ring speak  
 Gentle love’s propitious prayer:  

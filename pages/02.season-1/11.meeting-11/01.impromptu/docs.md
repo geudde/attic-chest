@@ -24,7 +24,7 @@ Where rump and Crapper ceases
 The weapon slipt with might force  
 And broke their wit in pieces  
 
-They vow’d they’d place him ‘mongst the Stars  
+They vow’d they’d place him ’mongst the Stars  
 And make a wondrous glitter  
 But there no more of the Horse is seen  
 Than you see of an apple fritter!

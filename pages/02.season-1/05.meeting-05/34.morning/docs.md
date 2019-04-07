@@ -32,7 +32,7 @@ By fine Drawings of me, of my quivers and darts,
 By sonnets and madrigals, and words breathing fire  
 Such only as I am won’t to inspire  
 Zooks! what fun ’twould be to entrap Nymphs so noted  
-Who to ‘Poll and the Muses are so much devoted,  
+Who to ’Poll and the Muses are so much devoted,  
 For I owe those nine Girls some very old spites  
 They’ve long been notorious for thwarting my rights  
 And though I may thank them for ennobling my chain  

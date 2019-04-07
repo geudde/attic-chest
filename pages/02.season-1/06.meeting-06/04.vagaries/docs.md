@@ -103,7 +103,7 @@ And “All the World’s a Stage” as Shakespear says
 Therefore, it follows, that there must be Plays.  
 &emsp;Now my dear Sir (but mind it’s entre nous)  
 I’ve hit on something that I think will do,  
-What say you Sir, ‘twould sure be no disgrace  
+What say you Sir, ’twould sure be no disgrace  
 To make of Helicon, a Wat’ring place;  
 Oh what attraction for the Stilish Belles  
 To sip the waters of Parnassian Wells!  

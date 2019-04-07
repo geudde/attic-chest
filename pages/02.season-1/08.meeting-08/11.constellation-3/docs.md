@@ -71,7 +71,7 @@ Upon one of the largest his own name was writ
 When he lost it, you Ladies perhaps may enquire  
 It *was* when he quitted the Moon to fly higher  
 And as Ariosto had told him the way,  
-He regained it, then ‘mongst the jars further did stray  
+He regained it, then ’mongst the jars further did stray  
 He expected the wits of young men to find there  
 For ’tis said that they lose them. on viewing the fair  
 But you, gentle readers, must judge his surprize  

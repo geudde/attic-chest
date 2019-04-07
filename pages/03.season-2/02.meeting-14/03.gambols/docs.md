@@ -22,7 +22,7 @@ She blush’d so red! — with side-long glance
 At hob-nail Dick, who griev’d the chance
 But now for Blind-man’s buff they call
 Of each incumbrance clear the Hall
-Jenny her silken ‘kerchief folds,
+Jenny her silken ’kerchief folds,
 And merry Will the black log holds;
 Now laughing, stops, with “Silence! hush!”
 And Peggy Pout gives Sam a push.

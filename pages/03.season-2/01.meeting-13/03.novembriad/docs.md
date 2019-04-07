@@ -52,7 +52,7 @@ That thought alone, might warm a Briton’s heart
 And love of Life & Cheerfulness impart —  
 Let us not here forget the tale to tell  
 That in the first King James’s Reign befell  
-But hold! ‘twere needless to relate the Plot  
+But hold! ’twere needless to relate the Plot  
 By Patriot school boys ne’er to be forgot!  
 Whilst still amidst the little shouting throng  
 Grim visaged Guy, is borne in state along  
