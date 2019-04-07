@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-<div class="author">Miss Porden</div>
+<div class="author">Mr Joseph</div>
 
 Hence! Flatt’ry hence! nor pour in vain  
 &emsp;Thy direfull influence o’er my mind  
