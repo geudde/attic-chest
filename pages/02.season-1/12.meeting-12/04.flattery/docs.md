@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Miss Porden</div>
+
 Hence! Flatt’ry hence! nor pour in vain  
 &emsp;Thy direfull influence o’er my mind  
 ’Tis sated — & reflects with pain  
