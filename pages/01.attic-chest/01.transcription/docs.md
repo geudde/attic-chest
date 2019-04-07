@@ -34,4 +34,4 @@ This is an example of missing text. Hover over <span data-tippy="Text missing" c
 
 Illegible text is indicated by question marks. Hover over <span data-tippy="Greek text" class="red">[ ? ? ? ]</span> to see comment. 
 
-**Authorship:** At the conclusion of each season the editors of the Attic Chest compiled a list of meetings, contributions, and authors. To facilitate searches of this archive, the names of confirmed authors have been added below their respective contributions.
+**Authorship:** At the conclusion of each season the editors of the Attic Chest compiled a list of meetings, contributions, and authors. Not all authors were identified, and not all contributions were preserved. The names of confirmed authors have been added as they appear in the archive.
