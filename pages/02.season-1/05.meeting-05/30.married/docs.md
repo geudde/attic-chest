@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Communicated by Miss M’Donald</div>
+
 Convinc’d a married, is the happiest life,  
 Long have I sought the blessing of a Wife.  
 For fifteen years in vain the search I’ve made;  
