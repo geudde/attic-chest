@@ -19,3 +19,5 @@ What duty have I left undone;
 Or into what new follies run?  
 These self inquiries are the road  
 That leads to virtue and to God.  
+
+<div class="author">Mr Parkinson</div>
