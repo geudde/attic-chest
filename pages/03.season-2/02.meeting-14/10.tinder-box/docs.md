@@ -93,7 +93,7 @@ Thy sky blue Mantle, in a streaming flow;
 Thus veil thy brightness, to weak Mortal sight,  
 Which else must darken in thy light!  
   
-#### Antistophe  
+#### Antistrophe  
   
 Thy come, they are here,  
 On me they glare,  
