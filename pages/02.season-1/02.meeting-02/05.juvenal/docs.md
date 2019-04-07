@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Mr Bond</div>
+
 ##### Translation of part of the 15th Satire of Juvenal
 
 Nature on a Man, a feeling Heart bestows,  
@@ -43,5 +45,3 @@ And mutual aid his Happiness protects
 Impell’d by this, the scatter’d People fly  
 Leave the wild woods and seek society,  
 Desert the forests where their Fathers stray’d. 
-
-<div class="author">Mr Bond</div>
