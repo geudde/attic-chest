@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Mr Bond</div>
+
 #### On his Lyre  
   
 When the deeds of Atreus’ Son,  
