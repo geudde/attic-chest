@@ -64,9 +64,6 @@ Like orient Gems in rings of flaming gold;
 &emsp;Her look, her voice, her smile,  
 &emsp;That might all Heaven beguile,  
 Wafted my soul above the Realms of Earth:  
-  
-D3311 Attic Chest 101112_0015  
-  
 &emsp;The star-bespangled skies  
 &emsp;Were open’d to my eyes;  
 Sighing I said, “Whence rose this glittering scene?”  
