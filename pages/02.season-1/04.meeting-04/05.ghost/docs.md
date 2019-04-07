@@ -6,9 +6,9 @@ taxonomy:
 visible: true
 ---
 
-##### A Long & *True* Story
-
 <div class="author">Mr Parkinson</div>
+
+##### A Long & *True* Story
 
 By many a tottering Nurse is known  
 &emsp;The Legend of the Cock-Lane Ghost;  
@@ -184,5 +184,3 @@ Puck
 
 [^1]: The Ghost of Mr. Gardner appear’d without a Head. 
 [^2]: The place in which the Taylors throw their remnants. 
-
-<div class="author">Mr Parkinson</div>
