@@ -8,6 +8,8 @@ visible: true
 
 ##### A Long & *True* Story
 
+<div class="author">Mr Parkinson</div>
+
 By many a tottering Nurse is known  
 &emsp;The Legend of the Cock-Lane Ghost;  
 How it would rumble, sigh, and groan,  
