@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Miss Porden</div>
+
 Where hast thou been, to what new sphere,  
 Hast thou pursued thy arduous flight,  
 Hast thou been new Munchaussen stories framing  
