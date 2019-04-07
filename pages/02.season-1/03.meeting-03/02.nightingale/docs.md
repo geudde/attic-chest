@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">C. Sanders</div>
+
 Songstress of the rural scene  
 When moonbeam’s cheer the distant grot  
 Oft at Ev’nings hour serene  
@@ -20,5 +22,3 @@ Begone dejection — sombre care
 Content’s the inmate of the grove  
 Come then sweet Bird and hither — bring   
 Tranquility, and Nature’s blooming spring.  
-
-<div class="author">C. Sanders</div>
