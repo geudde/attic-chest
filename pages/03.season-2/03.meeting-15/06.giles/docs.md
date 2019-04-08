@@ -8,6 +8,8 @@ visible: true
 
 <div class="author">Miss Richardson</div>
 
+<span class="pencil">A Parody on “Young Lochinvar”</span>
+
 Oh, young Mr Giles is come out of the west,  
 Through all the wide country his wig was the best;  
 And save a good peck loaf, he victuals had none,  
