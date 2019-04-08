@@ -6,7 +6,6 @@ title: 'Verses to the Misses D-----ns'
 
 The Author having been invited to breakfast with these Ladies absurdly imagined that 10 o’clock would not be too early to see them; but unfortunately he was mistaken, and obliged to wait in a cold room by an ill-lighted smoky fire for near two hours, when quite impatient, he prevailed on the Servant to disturb them with the following Address  
   
-  
 Ah! why should Ladies formed to please  
 &emsp;With every charm of wit and beauty,  
 Seduced by listless love of ease  
