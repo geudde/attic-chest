@@ -3,6 +3,7 @@ title: 'Address to a Gentleman'
 taxonomy:
     category:
         - docs
+        - author
 visible: true
 ---
 
