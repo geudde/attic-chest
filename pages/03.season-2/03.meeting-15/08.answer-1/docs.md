@@ -6,4 +6,6 @@ taxonomy:
 visible: true
 ---
 
-Your page content goes here.
+<div class="author">Mr Porden</div>
+
+In what Country are sometimes found Cherry-coloured Cats with Rose-coloured feet.
