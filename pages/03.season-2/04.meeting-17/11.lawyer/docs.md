@@ -47,7 +47,7 @@ Tis said without ill-natured leaven
 It surely is by slow degrees  
 (Perhaps tis slow they take their fees)  
 The case I now fairly state  
-<span data-tippy="Flaw reaches at length to Heaven’s high gate" class="green">Yet Flaw crept slyly to the heavenly gate</span>  
+<span data-tippy="Flaw reach’d at length to Heaven’s high gate" class="green">Yet Flaw crept slyly to the heavenly gate</span>  
 <span data-tippy="Quite spent her rapt" class="green">And gently knock’d</span>, none did it neater  
 The Gate was opened by Saint Peter  
 Who look’d astonish’d when he saw  
