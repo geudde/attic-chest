@@ -1,0 +1,11 @@
+---
+title: 'Query in Natural History'
+taxonomy:
+    category:
+        - docs
+visible: true
+---
+
+<div class="author">Mr Parkinson</div>
+
+In the year 1807 the foregoing question was proposed to a large party of Ladies and Gentlemen assembled at Broom-hall (the seat of the Earl of Elgin in Fifeshire) and unsuccessfully exercised the with of the company for many days till the Ladies became so impatient for the solution and took on so much that the most dreadful consequences were to be apprehended if a supernatural Being had not kindly interposed to relieve them from a state of inconceivable anxiety and saved this most beautiful part of the creation from meagrim, lantern cheeks and all the misfortunes incidental to female nature from ungratified curiosity. One morning when day-light induced the Lady Charlotte Durham to quit her bed where she had toss’d and tumbled all night in fruitless search of the country which contained such extraordinary Cats. She cast her eyes, red with weeping and heavy for want of sleep, on her forsaken pillow, and perceived a paper signed by Brownee, the Robin-Goodfellow of Scotland, containing the following verses with the solution so anxiously desired. It will be readily discovered that the Benevolent Fairy had stolen the solution from the verses we have just read; but that like a gentlemanly fairy he gallantly gave it a conclusion, complimentary to the Lady to whom the verses were addressed. The change this incident produced in the countenances of all the Company, the mirth it occasioned, and the cheese-cakes and cream-bowls which it procured for honest Brownee may be more easily conjectured than told. With their cheerfulness the Ladies soon regained their good looks, and we have been informed from the best authority that not a child borne by any one then present within the ensuing twelve months had either a black tail or rose-coloured feet of striking proof of the assertion made by a great Statesman that a good thing is double good if well-timed.
