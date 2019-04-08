@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Miss Sanders</div>
+
 Address’d to Miss Porden in acknowledgement of the pleasure the Author received this <span data-tippy="January 2d. 1810" class="green">this Evening</span>.
   
 As icy gales from northern regions blow,  
@@ -33,3 +35,5 @@ To *ev’ry* Guest, Politeness lends an ear.
 TO tinge *their* pleasures with a “*ray* divine”.  
 On *that* descended, *here* I willing rest  
 The throne I claim, fair Ellen’s “Attic Chest.””
+
+Robin
