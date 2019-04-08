@@ -9,7 +9,7 @@ visible: true
 
 <div class="author">Miss Porden</div>
 
-![](punch.jpg)
+![Punch](punch.jpg)
 
 If gifts the stern fair one to pity can move  
 Their power at this time let your Valentine prove  
