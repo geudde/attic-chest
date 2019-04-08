@@ -4,6 +4,8 @@ taxonomy:
     category: docs
 ---
 
+# 13 February 1810
+
 1. [Editorial](editorial)
 2. [Epitaph on General Wolfe](epitaph)
 3. [Stanzas on Terror and Pity](stanzas)
