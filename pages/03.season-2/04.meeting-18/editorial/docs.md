@@ -31,13 +31,13 @@ Love is then our duty.”
 
 7. To the Editor, A well written Valentine in the genuine style of a Sonnet, but wanting the requisite number of Verses for a legitimate poem of that denomination. The Sonnet as every one knows, is derived from the Italian, in which language they are innumerable, and we may from thence presume that the structure is peculiarly agreeable to an Italian ear. They were almost as innumerable in English from the time of Chaucer to the reign of Charles the first, and make no small part of the works of Chaucer, Shakespeare, Milton and others.
 
-When the French School became predominant The Sonnet gave way to Chansons and irregular Pindarics with which the Slip Shod Muses sung the nation to sleep, till Mason, Gray, Warton and others restored the Italian School and with it the Sonnet, since when it has been cultivated with so much success as to rival the productions of the Tuscan and Roman Muses, but why it should be confined to fourteen verses and to one appropriate form we have not seen explained to our satisfaction.
+   When the French School became predominant The Sonnet gave way to Chansons and irregular Pindarics with which the Slip Shod Muses sung the nation to sleep, till Mason, Gray, Warton and others restored the Italian School and with it the Sonnet, since when it has been cultivated with so much success as to rival the productions of the Tuscan and Roman Muses, but why it should be confined to fourteen verses and to one appropriate form we have not seen explained to our satisfaction.
 
-The Editor feels a little indignant that his Literary Productions should be compared to Castles in the Air, and were he a Turkey-Cock, he would shake his Scarlet Whiskers at his Valentine for daring to hint at Castles of any kind on the backs of Elephants.
+   The Editor feels a little indignant that his Literary Productions should be compared to Castles in the Air, and were he a Turkey-Cock, he would shake his Scarlet Whiskers at his Valentine for daring to hint at Castles of any kind on the backs of Elephants.
 
-Nevertheless there is something so sweet in the words *dear Architect,* that our anger is charmed to Serenity by the Sound.
+   Nevertheless there is something so sweet in the words *dear Architect,* that our anger is charmed to Serenity by the Sound.
 
-There is such Classic Neatness in the style of these verses that we cannot but desire to see more from the same *Lady,* when subjects capable of richer embellishments present themselves to her fancy.
+   There is such Classic Neatness in the style of these verses that we cannot but desire to see more from the same *Lady,* when subjects capable of richer embellishments present themselves to her fancy.
 
 8. To the Editress and
 
