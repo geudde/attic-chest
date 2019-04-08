@@ -27,6 +27,6 @@ But these in brighter tints I found
 &emsp;On the fair virgin’s face & breast.  
   
 Thus Nature with indulgent care  
-   Propitious grac’d my natal hour;  
+&emsp;Propitious grac’d my natal hour;  
 And with superior sweetness gave  
-   The gale, the sunshine, and the Flow’r!
+&emsp;The gale, the sunshine, and the Flow’r!
