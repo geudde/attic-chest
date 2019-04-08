@@ -75,7 +75,7 @@ But ’sides talking them dead, or but making them dose,
 I’ve ten more Resources;” said the Lawyer Verbose,  
 “The first is —— ”  
   
-	—— but it not appearing essential,  
+&emsp;&emsp;&emsp;&emsp;—— but it not appearing essential,  
 To take any more of his Drugs eloquential;  
 And fearing he’d send all their Senses a-swimming,  
 Like those of the fancied refractory Women;  
@@ -100,7 +100,7 @@ I’ll reply without Fee to the best of my Power.”
 > Next Friday, and found his grave Worship a Study:  
 > Who told them; ——  
   
-“——— he’d given due Consideration,  
+&emsp;&emsp;“——— he’d given due Consideration,  
 To the Question about the imagin’d Migration;  
 But all he could do to prevent the Mad Frolic,  
 Was to minister that which had cured his Cholic;  
@@ -155,19 +155,19 @@ And hinder if possible female Desertion,
 And all roving Thoughts to drive out of each Head,  
 Most heartily wish ’em the Gout in my Stead.”  
   
-> 	By this his Integrity seem’d very clear;  
-> 	And nobody doubted his wish was sincer;  
-> 	So ease to his Toes, to his Gout speedy Cure,  
-> 	So much for Old Snail, who tho’ slow, was quite sure.  
+> By this his Integrity seem’d very clear;  
+> And nobody doubted his wish was sincer;  
+> So ease to his Toes, to his Gout speedy Cure,  
+> So much for Old Snail, who tho’ slow, was quite sure.  
 > 	  
-> 	The next that was call’d on to answer the Query,  
-> 	Was an ill-thriven Weazel, call’d Lawyer Sucksherry;  
-> 	Who reeling advanc’d to resolve the Enquiry,  
-> 	With his Face all aghast, save it *Index* so fiery;  
-> 	The state of his Wig was a little uncouth,  
-> 	The fore part behind, and the Tail in his Mouth;  
-> 	His small clothes all loose, and his whole Exhibition;  
-> 	Shew’d his haste to remove the ungenerous Suspicion.  
+> The next that was call’d on to answer the Query,  
+> Was an ill-thriven Weazel, call’d Lawyer Sucksherry;  
+> Who reeling advanc’d to resolve the Enquiry,  
+> With his Face all aghast, save it *Index* so fiery;  
+> The state of his Wig was a little uncouth,  
+> The fore part behind, and the Tail in his Mouth;  
+> His small clothes all loose, and his whole Exhibition;  
+> Shew’d his haste to remove the ungenerous Suspicion.  
 	  
 “By the Oath I have taken, I swear that this hot land;  
 Stands in my Affection next to my own Scotland;  
@@ -199,9 +199,9 @@ Then drinking their Healths; with a hearty God bless ’em;
 (On my knees as I told you;) thus would I address ’em;—  
 Fair Creatures ——”  
   
-> 	—— when lo! in despite of good breeding,  
-> 	Lawyer Nix, interrupted Sucksherry’s proceeding;  
-> 	Saying: ——  
+> —— when lo! in despite of good breeding,  
+> Lawyer Nix, interrupted Sucksherry’s proceeding;  
+> Saying: ——  
   
 “ —— Drinking’s your Pleasure, and Wrangling your Trade is,  
 Yours is not the Art to prevail on the Ladies,  
@@ -232,8 +232,8 @@ Your Paradise carry securely about ye:
 That loss will be ours, if you fly form our Quarters;  
 And to hell we must go tho’ a Noose in our Garters.”  
   
-> 	Here Lawyer Suckshery, who long had been chewing,  
-> 	The Cud of Impatience, a dreadful Rage flew in:  
+> Here Lawyer Suckshery, who long had been chewing,  
+> The Cud of Impatience, a dreadful Rage flew in:  
   
 “In my Name Master Nix, do you utter that too;  
 Go to Hell in a Noose! I’ll be damn’d if I do;  
@@ -277,4 +277,3 @@ By his Silence consented great Doctor Sucksherry:
 And nobody knew which the most to admire,  
 Lawyer Nix’s invention, or Sucksherry’s fire.  
   
-[Greek “Dikalogos” ???]
