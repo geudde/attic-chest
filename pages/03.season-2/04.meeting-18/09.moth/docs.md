@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-<div class="author">Miss Flaxman (Vardill?)</div>
+<div class="author">Miss Vardill</div>
 
 Gentle Stella sweetly shine  
 With mild refulgent ray  
