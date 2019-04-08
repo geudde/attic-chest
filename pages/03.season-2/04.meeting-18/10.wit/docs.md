@@ -15,7 +15,7 @@ The subtle poison that corrupts the heart;
 Perfidious inmate even to the breast,  
 Where thou’rt most fondly cherish’d and caress’d:  
 In thee what various qualities combine,  
-And who thy protean <span data-tippy="Illegible" class="green">[???]</span> nature can define?  
+And who thy protean nature can define?  
 Condemn’d tho’ courted — hated tho’ admir’d;  
 Dreaded in others, by ourselves desir’d;  
 Shunned by the dull, by wisdom disapprov’d,  
