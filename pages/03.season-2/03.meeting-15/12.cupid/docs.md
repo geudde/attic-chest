@@ -3,7 +3,6 @@ title: 'Cupid as Landscape Painter'
 taxonomy:
     category:
         - docs
-    author: vignoles
 visible: true
 ---
 
