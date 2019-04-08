@@ -7,6 +7,8 @@ visible: true
 ---
 
 <div class="author">Miss Porden</div>
+
+<span class="pencil">Miss Brown</span>
   
 > On her presenting me with a beautiful copy of the Pleasures of Memory  
   
@@ -30,4 +32,3 @@ Thy perfect form the image of thy mind.
   
 Mnemosyneia
 
-<span class="pencil">Miss Brown</span>
