@@ -19,7 +19,7 @@ Yet fair each painted pinion grew
 No zephyr rose with gentle gale  
 &emsp;To fill my infant frame with air;  
 But fann’d by fair Aspasia’s breath,  
-&emsp;The zephyr’s gale I well migth spare.  
+&emsp;The zephyr’s gale I well might spare.  
   
 No rose or lily near me grea  
 &emsp;In which my downy limbs might rest;  
