@@ -14,7 +14,7 @@ Tho’ I feel all agog in the teachest to shine.
   
 Take that vile suet pudding, and take me the wine hence,  
 From swilling and stuffing there’s like to come fine sense.  
-‘Las-a-day! I have brought my poor noble to nine-pence  
+’Las-a-day! I have brought my poor noble to nine-pence  
   
 ’Tis with me and my Muse as it is with the times,  
 She complains of my taxes, I still call for rhymes,  
