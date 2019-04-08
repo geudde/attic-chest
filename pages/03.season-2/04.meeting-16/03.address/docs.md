@@ -3,8 +3,6 @@ title: 'Address to a Gentleman'
 taxonomy:
     category:
         - docs
-    tag:
-        - vignoles
 visible: true
 ---
 
