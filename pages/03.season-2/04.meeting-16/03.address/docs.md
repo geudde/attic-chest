@@ -6,7 +6,9 @@ taxonomy:
 visible: true
 ---
 
-#### Lines addressed to a Gentleman on his Birth Day with the Return of his Ingenious and Amusing Poems.  
+<div class="author">Mr Vignoles</div>
+
+#### Lines addressed to a Gentleman on his Birthday with the Return of his Ingenious and Amusing Poems
   
 #### 1  
   
