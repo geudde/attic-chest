@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-Address’d to Miss Porden in acknowledgement of the pleasure the Author received this <span data-tippy="January 2d. 1810" class="green">this Evening</span>Evening.
+Address’d to Miss Porden in acknowledgement of the pleasure the Author received this <span data-tippy="January 2d. 1810" class="green">this Evening</span>.
   
 As icy gales from northern regions blow,  
 And the hodge holly peeps beneath the snow,  
