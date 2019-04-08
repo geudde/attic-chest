@@ -20,5 +20,5 @@ To store the Box with matches!
 
 But <span data-tippy="still I’ll sing, and still I’ll say" class="green">I assert and prove I will</span>  
 And <span data-tippy="that you’ll" class="green">what you may</span>call a Paradox  
-That though <span data-tippy="it may not be compleat" class="green">Though with matches stored, it still</span>  
+That though <span data-tippy="it may not be compleat" class="green"> with matches stored, it still</span>  
 <span data-tippy="’Tis yet" class="green">Would be</span> a _Matchless_ Tinderbox!  
