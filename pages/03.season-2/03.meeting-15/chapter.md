@@ -18,3 +18,5 @@ visible: true
 8. [Answer to Query 1](answer-1)
 9. [Answer to Query 2](answer-2)
 10. [The Wise Men of Gotham](gotham)
+11. [Charade and Riddle](charade)
+12. [Cupid as Landscape Painter](cupid)
