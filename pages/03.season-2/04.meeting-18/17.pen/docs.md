@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-### An Address to the Pen
+<div class="author">Communicated by Miss Beslee</div>
 
 All hail! thou kind soother of numberless woes,
 Which in Life’s early day, my companion I chose
