@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-<div class="author">Mr Hopper</div>
+<div class="author">Mr Hopner</div>
 
 By Saint Jago! by Jingo! (Greek Miss, for the nine)  
 Here is Monday, and this but the second good line,  
