@@ -6,11 +6,12 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Miss Flaxman (Vardill?)</div>
+
 Gentle Stella sweetly shine  
 With mild refulgent ray  
 On your benighted Valentine  
 For he has lost his way!  
-<div class="author">Miss Flaxman (Vardill?)</div>
 
 For ever I would circling play  
 Around my Stella’s head  
