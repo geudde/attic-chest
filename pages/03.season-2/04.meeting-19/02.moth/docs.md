@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-<div class="author">Miss Flaxman</div>
+<div class="author">Miss Vardill[^1]</div>
 
 Poor little Moth, how low thou’rt laid!  
 Would thou hadst never thoughtless play’d  
@@ -28,3 +28,5 @@ Pursues the glitt’ring prize,
 Finding too late, that she has prest  
 Destructive flame within her breast  
 Sinks like the Moth, and dies!
+
+[^1]: At the conclusion of Season 2, the Editors attributed this poem to Miss Flaxman, but the handwriting is clearly that of Anna Jane Vardill, as is the nom-de-plume.
