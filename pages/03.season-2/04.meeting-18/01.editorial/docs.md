@@ -22,8 +22,8 @@ We shall read them in the following order.
 
 4. Phoebe to Roberto. This fair Damsel tenderly hints to Roberto that beauty is but a fading flower, and that age will bring on dim eyes and wrinkles. We hope that if he has the least sensibility he will take time by the forelock, not let his Valentine sigh in vain. He should call to mind the words of the old song,
 
-> “Youth’s the season made for Joy,  
-Love is then our duty.”
+    “Youth’s the season made for Joy,  
+    Love is then our duty.”
 
 5. Augusta Valentina to Hassan. This composition is an ingenious attempt to draw Hassan from the obscurity in which he has so long veiled himself. If he should read her verses with the same pleasure that we have done, he would soon become visible.
 
