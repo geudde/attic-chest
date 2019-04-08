@@ -18,6 +18,8 @@ She, will my humble Dulce Domum share
 For her alone I’ll deck the nuptial bow’r.  
   
 Peregrine  
+
+---
   
 The Fort that stands on Dover’s height  
 Is hidden by the shades of *night*,  
