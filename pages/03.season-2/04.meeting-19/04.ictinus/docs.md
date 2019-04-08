@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-<div class="author">Miss Flaxman</div>
+<div class="author">Miss Flaxman (Bond?)</div>
 
 A stubborn Heart! A sad mistake,  
 For its too tender Owner’s sake  
