@@ -9,8 +9,8 @@ visible: true
 # 16 January 1810
 
 1. [Editorial](editorial)
-2. [History of the Attic Chest](history)
-3. [Christmas Gambols](gambols)
+2. [The Spirit of Yuletide](yuletide)
+3. [To Love](love)
 4. [The Fairy’s Wish](wish)
 5. [A Riddle](riddle)
 6. [Dulce Domum](domum)
