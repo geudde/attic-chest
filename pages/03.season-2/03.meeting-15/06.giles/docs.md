@@ -27,7 +27,7 @@ Instead of her faithful swain, young Mr Giles.
 So boldly he entered the taproom’s small door,  
 Amongst Tom Mile’s Cousins, & Brother all four;  
 Then spoke the Bride’s father, his cap in his hand,  
-(For the Bridegroom appeared to be quite at a stand,)  
+(For the Bridegroom appeared to be quite at a stand),  
 “Oh come ye to cause ’monst us quarrels & broils[^1]  
 Or to dance at our wedding oh young mr Giles?”  
   
