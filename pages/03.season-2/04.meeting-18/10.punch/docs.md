@@ -1,5 +1,6 @@
 ---
 title: 'Punch to Elorina'
+media_order: punch.jpg
 taxonomy:
     category:
         - docs
@@ -7,6 +8,8 @@ visible: true
 ---
 
 <div class="author">Miss Porden</div>
+
+![](punch.jpg)
 
 If gifts the stern fair one to pity can move  
 Their power at this time let your Valentine prove  
