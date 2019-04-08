@@ -8,9 +8,7 @@ visible: true
 
 <div class="author">Miss Porden</div>
 
-The Wise-men of Gotham  
-  
-A Tale  
+#### A Tale  
   
 Through Gotham, famed in days of yore,  
 For Wits, and Sages, green and hoar,  
