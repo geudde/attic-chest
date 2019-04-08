@@ -46,6 +46,6 @@ And now he quaffs full bowls of luscious wine
 And he ’gins to Wag and double Chin  
 And talks of sleeping undisturb’d till nine  
 While honest joy is blazon’d in his eyne  
-That marketh gentle peace a settled Guest within  
+That marketh gentle peace a settled Guest within.
   
 <span class="pencil">Spencer’s Fairy Queen Book 20 Canto 4</span>
