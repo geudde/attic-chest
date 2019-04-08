@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Mr Flaxman</div>
+
 #### A new Song to be sung to the old tune of “Four and twenty Fiddlers,” &c.  
   
 Four and twenty Authors all of a row  
