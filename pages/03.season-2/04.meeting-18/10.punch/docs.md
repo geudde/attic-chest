@@ -1,5 +1,5 @@
 ---
-title: 'Punch to Elorina'
+title: 'Punch to Eborina'
 media_order: punch.jpg
 taxonomy:
     category:
