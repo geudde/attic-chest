@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Miss Flaxman</div>
+
 Fly little Arrow, wing thy way  
 Thro the blue and pathless sky;  
 Find where Peregrine doth stray,  
