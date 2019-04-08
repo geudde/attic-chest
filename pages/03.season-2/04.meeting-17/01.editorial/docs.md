@@ -26,7 +26,7 @@ Poor Peggy! what sort of composition her verses may be, we may collect from her 
 
 ---
 
-MISSING
+<span class="red">Page missing from collection or not scanned.</span>
 
 ---
 
