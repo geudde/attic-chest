@@ -1,5 +1,5 @@
 ---
-title: 'The Entrance of Valentine’s Day'
+title: 'St Valentine’s Day'
 taxonomy:
     category:
         - docs
