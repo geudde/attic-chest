@@ -14,11 +14,11 @@ In the name of Philo-Fillagree, Peregrine, Ictinus, Roberto, Hassan, and Somebod
 
 We shall read them in the following order.
 
-1. Scintilla to Philo-Fillagree, which is a flourishing compliment, and written in the Spirit of the Tinder-Box. We cannot give it higher praise.
+1. [Scintilla to Philo-Fillagree](scintilla), which is a flourishing compliment, and written in the Spirit of the Tinder-Box. We cannot give it higher praise.
 
 2. To Peregrine, we are sorry to find nameless. The neatness of the device, and the sentiment of the verses do great credit to the Authoress.
 
-3. Dido to Ictinus. This lady seems to [think?] that the heart of Ictinus is made of Buff Leather or cased in some other impenetrable stuff. But it is not certain that he has a heart. Those who pretend to know him best say that he has locked it up in a Chest, the Key of which is kept by a Lady at Kensington. Cupid may therefore select his keenest Shafts and shoot as long as he pleases, he cannot wound unless he has sufficient address to pick the lock of steal the key from the fair Keeperess who may emphatically be denominated, The *Lady of his heart.*
+3. Dido to Ictinus. This lady seems to think that the heart of Ictinus is made of Buff Leather or cased in some other impenetrable stuff. But it is not certain that he has a heart. Those who pretend to know him best say that he has locked it up in a Chest, the Key of which is kept by a Lady at Kensington. Cupid may therefore select his keenest Shafts and shoot as long as he pleases, he cannot wound unless he has sufficient address to pick the lock of steal the key from the fair Keeperess who may emphatically be denominated, The *Lady of his heart.*
 
 4. Phoebe to Roberto. This fair Damsel tenderly hints to Roberto that beauty is but a fading flower, and that age will bring on dim eyes and wrinkles. We hope that if he has the least sensibility he will take time by the forelock, not let his Valentine sigh in vain. He should call to mind the words of the old song,
 
