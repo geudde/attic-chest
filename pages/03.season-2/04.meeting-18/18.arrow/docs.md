@@ -26,6 +26,5 @@ And seven days must twice be told
 E’re we again the Chest behold  
 Of Genius *Mischief* — the dépôt.  
   
-M. 
-  
+M.  
 A Lawyer
