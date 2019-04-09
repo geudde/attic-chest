@@ -22,3 +22,5 @@ Hight poverty that dogs him to and fro
 And faster follows as he faster flies  
 Oh think on him whate’er thy task may be  
 Who in this doubtful race still kindly thinks on thee.
+
+Sep. 9th 1792
