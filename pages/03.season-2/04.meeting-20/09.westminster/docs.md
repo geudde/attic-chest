@@ -26,9 +26,7 @@ And, to begin our woes,
 &emsp;He sow’d a Hellish seed called Strife,  
 &emsp;Which vegetated into Life —  
 When up a Lawyer rose!  
-  
-## D3311 Attic Chest 1920_0055  
-  
+
 &emsp;He lodg’d him in a spacious place:  
 &emsp;That it might wear a holy Trace  
 He call’d the spot “The Temple”:  
@@ -49,9 +47,7 @@ They first were put to School:
 &emsp;He taught them Quibbling as they grew  
 &emsp;And from the Dam: ’tis very true  
 They learned to *over-rule*.  
-  
-## D3311 Attic Chest 1920_0056  
-  
+
 &emsp;They cheated, prosper’d, and increas’d;  
 &emsp;Nor has their population ceas’d,  
 As you may here descry:  
