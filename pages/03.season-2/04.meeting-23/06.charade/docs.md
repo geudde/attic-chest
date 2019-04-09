@@ -8,7 +8,6 @@ visible: true
 
 <div class="author">Communicated by Miss Beslee</div>
 
-  
 Sweet Girl, may no terror thy bosom annoy  
 &emsp;O’er thee may no clouds of adversity burst  
 The roses which bloom on thy cheeks to destroy  
