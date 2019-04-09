@@ -1,10 +1,13 @@
 ---
 title: 'Doubt and Certainty'
+media_order: 'doubt.jpg,certainty.jpg'
 ---
 
 <div class="author">Mr Porden</div>
 
 #### Doubt
+
+![](doubt.jpg)
 
 Ah, who can tell the Grief and ruthless pain  
 &emsp;That rends the bosom of that hapless Wight  
@@ -27,6 +30,8 @@ And generous wine his heavy Heart to cheer
 Sans Sleep — Sans drink — sans prog no wonder he’s so thin  
   
 #### Certainty  
+
+![](certainty.jpg)
   
 But when the Cherub certainly arrives  
 &emsp;Like Phoebus bursting from a radiant cloud;  
