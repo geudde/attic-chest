@@ -34,7 +34,7 @@ Turning out Jews and all Manager’s blackguards
 Fencing and Marching, with kicking and prancing  
 Over the benches to O—P— time dancing  
 *“No private boxes — no ruffians on hire”*  
-John Bull to insult ahould he O—P— require  
+John Bull to insult should he O—P— require  
 With Sneezing and Laughing with Crowing and Coughing  
 Then *“What do you want”* at Managers Scoffing  
 In a playhouse these sounds united I vow  
