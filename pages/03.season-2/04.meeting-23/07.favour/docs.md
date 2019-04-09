@@ -58,47 +58,47 @@ Weave the wreath, the Chaplet twine,
 And interlace their slender stems,  
 To form a Crown of nature’s gems.”  
     
-1st Fairy:&emsp;The Primrose fairy Queen I bear,  
+1st Fairy:&ensp;The Primrose fairy Queen I bear,  
 &emsp;&emsp;Eldest Daughter of the Year.  
   
-Queen:&emsp;Swet flow’r welcome take thy place  
+Queen:&ensp;Swet flow’r welcome take thy place  
 &emsp;&emsp;Emblem meet of youthful grace.  
  
-2nd Fairy:&emsp;I the purple Violet bring,  
+2nd Fairy:&ensp;I the purple Violet bring,  
 &emsp;&emsp;Sweetest produce of the spring.  
   
-Queen:&emsp;And the type of modest worth,  
+Queen:&ensp;And the type of modest worth,  
 &emsp;&emsp;Oft o’erlook’d by sons of *Earth.*  
  
-3rd Fairy:&emsp;Half conceal’d in grassy bed,  
+3rd Fairy:&ensp;Half conceal’d in grassy bed,  
 &emsp;&emsp;Bending low her pensive Head,  
 &emsp;&emsp;The gentle snowdrop I descry’d,  
 &emsp;&emsp;Methought she was the vi’lets bride.  
   
-4th Fairy:&emsp;I down in yonder dell espied,  
+4th Fairy:&ensp;I down in yonder dell espied,  
 &emsp;&emsp;This pretty thing a brook beside.  
   
-Queen:&emsp;The Lily of the Valley named  
+Queen:&ensp;The Lily of the Valley named  
 &emsp;&emsp;And for its simple beauty fam’d.  
  
-5th Fairy:&emsp;I the Chaplet to adorn,  
+5th Fairy:&ensp;I the Chaplet to adorn,  
 &emsp;&emsp;Snatch’d this blossom from the Thorn.  
   
-Queen:&emsp;Pretty blossom, May’s sweet Child,  
+Queen:&ensp;Pretty blossom, May’s sweet Child,  
 &emsp;&emsp;Nurs’d amid the Woodlands wild.  
   
-6th Fairy:&emsp;This Starlike form of scent divine,  
+6th Fairy:&ensp;This Starlike form of scent divine,  
 &emsp;&emsp;Is call’d by Mortals, Jassamine.  
   
-Queen:&emsp;Its dark green foliage pearly flowers,  
+Queen:&ensp;Its dark green foliage pearly flowers,  
 &emsp;&emsp;Declare it fit for fairy Bowers.  
   
-Queen:&emsp;Whence comest thou, with flow’r so tall?  
+Queen:&ensp;Whence comest thou, with flow’r so tall?  
   
-7th Fairy:&emsp;Oh Queen I’ve been to stately Hall,  
+7th Fairy:&ensp;Oh Queen I’ve been to stately Hall,  
 &emsp;&emsp;And pluck’d the finest flow’r of all.  
   
-Queen:&emsp;The Crown Imperial simple elf,  
+Queen:&ensp;The Crown Imperial simple elf,  
 &emsp;&emsp;Nay keep the gaudy thing yourself,  
 &emsp;&emsp;A choice so vain your folly tells,  
 &emsp;&emsp;E’en wear it for a Cap & Bells.  
