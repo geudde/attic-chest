@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+> To Lycidas, on his forsaking the Lyre
+
 Wherefore does Lycidas renounce the Song?  
 That song, the list’ning Maidens joy’d to hear  
 Why is that Lyre neglected and unstrung?  
