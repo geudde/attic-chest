@@ -8,8 +8,6 @@ visible: true
 
 <div class="author">Communicated by Miss Flaxman</div>
 
-### An Unsatisfactory Answer to Incognita
-
 When Sheba’s Queen came from the east,
 With all her Questions cute,
 On earth one man at least was found,
