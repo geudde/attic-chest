@@ -7,7 +7,7 @@ media_order: 'doubt.jpg,certainty.jpg'
 
 #### Doubt
 
-![Doubt](doubt.jpg?resize=300)
+![Doubt](doubt.jpg?resize=350)
 
 Ah, who can tell the Grief and ruthless pain  
 &emsp;That rends the bosom of that hapless Wight  
@@ -31,7 +31,7 @@ Sans Sleep — Sans drink — sans prog no wonder he’s so thin
   
 #### Certainty  
 
-![Certainty](certainty.jpg?resize=300)
+![Certainty](certainty.jpg?resize=350)
   
 But when the Cherub certainly arrives  
 &emsp;Like Phoebus bursting from a radiant cloud;  
