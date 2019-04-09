@@ -18,3 +18,4 @@ visible: true
 8. [The Three Kisses](kisses)
 9. [The Queen Ann Street Ghost](ghost)
 10. [The Violet](violet)
+11. <span class="red">A Description of Monkey Island</span>
