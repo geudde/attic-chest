@@ -1,0 +1,34 @@
+---
+title: 'The Fop'
+taxonomy:
+    category:
+        - docs
+visible: true
+---
+
+At Bletchington there lived a wight  
+&emsp;Surnamed the Man of Path  
+As thin as famed La Mancha’s Knight  
+&emsp;As tall as him of Gath  
+’Tis said the thing was six feet, ten  
+&emsp;In height from top to toe  
+And it was of the class of Men  
+&emsp;By others called a *Beau*  
+It had (’tis said) a tongue to talk  
+&emsp;A mouth with which to grin  
+On two hind paws it used to walk  
+&emsp;With legs so long and thin  
+The Gods had given two paws more  
+&emsp;With which (tho’ strange ’tis true)  
+Since Beaux have ceased to walk on *four*  
+&emsp;It knew not what to do  
+So one hung dangling at his side  
+&emsp;Bedecked with whip or cane  
+And t’other always was employ’d  
+&emsp;In twirling its watch chain  
+Whene’er the female train appeared  
+&emsp;The creature was on duty  
+
+===
+
+<span class="red">Page(s) missing</span>
