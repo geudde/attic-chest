@@ -8,8 +8,6 @@ visible: true
 
 <div class="author">Reverend Mr Cayley</div>
 
-> The New Broom and Answer to the Old Broom of Cowdenknows
-
 How more than blithe am I to see  
 My Phoebe’s kind regard for me;  
 More grateful Sweets thy Accents bring  
@@ -52,7 +50,7 @@ I without Phoebe still were poor.
   
 O Cowden-Knows! &c.  
   
-4.  
+#### 4
   
 Our Loves, so long involv’d in Night,  
 Shall make each future Sun more bright;  
@@ -65,9 +63,7 @@ And Phoebe now no more shall mourn.
   
 O Cowden-Knows! &c.  
   
-## D3311 Attic Chest 1920_0023  
-  
-5.  
+#### 5
   
 Thy Griefs to me were not unknown;  
 I felt thy anguish in my own,  
@@ -78,7 +74,7 @@ And crowns the Goodness it inspires,
 At last has given me Wealth in Store,  
 And Phoebe now to part no more.  
   
-Chorus.  
+#### Chorus
   
 O Cowden-Knows! may your dear Broom  
 In everlasting Beauty bloom,  
