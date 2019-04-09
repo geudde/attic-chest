@@ -19,7 +19,7 @@ To haunt this *Gothic* place.
 Of little dangling tails!  
 &emsp;It is no wonder such a *sight* [^1]  
 &emsp;Should oft put Justice in a Fright  
-and her *her drop* her Scales  
+And make *her drop* her Scales  
 &emsp;’Tis said from paradice when hurl’d,  
 &emsp;That Satan visited this world:  
 And, to begin our woes,  
