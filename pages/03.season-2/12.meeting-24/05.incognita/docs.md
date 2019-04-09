@@ -1,5 +1,5 @@
 ---
-title: 'An Unsatisfactory answer to Incognita'
+title: 'An Unsatisfactory Answer to Incognita'
 taxonomy:
     category:
         - docs
