@@ -10,7 +10,7 @@ visible: true
 
 ### To Timon & Lysander  
   
-<span class="pencil">Timon required the faults of man to be enumerated, at the same time stating them to be few.]</span>  
+<span class="pencil">Timon required the faults of man to be enumerated, at the same time stating them to be few.</span>  
   
 #### 1  
   
