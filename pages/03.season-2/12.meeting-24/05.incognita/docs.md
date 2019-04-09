@@ -21,7 +21,7 @@ Their Riddles to unfold.
 For who, among the Sons of men,  
 Now living at this hour,  
 So strange a Paradox to ken,  
-intellectual power;
+Intellectual power;
 
 “That Female Virtues great & small,  
 So *infinitely* many,  
