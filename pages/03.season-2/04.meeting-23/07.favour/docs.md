@@ -61,7 +61,7 @@ To form a Crown of nature’s gems.”
 1st Fairy:&ensp;The Primrose fairy Queen I bear,  
 &emsp;&emsp;Eldest Daughter of the Year.  
   
-Queen:&ensp;Swet flow’r welcome take thy place  
+Queen:&ensp;Sweet flow’r welcome take thy place  
 &emsp;&emsp;Emblem meet of youthful grace.  
  
 2nd Fairy:&ensp;I the purple Violet bring,  
