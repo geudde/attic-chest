@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-**N**ationibus, Autoritatem, Principibus, Obedientium,
-Libertatem, Ecclesiae, Omnimodo, Negans.
-Bona Usurpavit Ominium, Neuttorum Aurum, Popupulorum,
-Argentum, Revera Tyranus Execrandus.
+**N**ationibus, **A**utoritatem, **P**rincipibus, **O**bedientium,
+**L**ibertatem, **E**cclesiae, **O**mnimodo, **N**egans.
+**B**ona **U**surpavit **O**minium, **N**euttorum **A**urum, **P**opupulorum,
+**A**rgentum, **R**evera **T**yranus **E**xecrandus.
