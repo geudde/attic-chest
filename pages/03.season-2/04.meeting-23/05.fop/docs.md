@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Communicated by Miss Beslee</div>
+
 At Bletchington there lived a wight  
 &emsp;Surnamed the Man of Path  
 As thin as famed La Mancha’s Knight  
