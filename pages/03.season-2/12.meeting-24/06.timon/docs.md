@@ -30,9 +30,6 @@ Before its breath all hopes of safety flies
 Whirlwinds of Rage, not Reason’s power can check  
 Tear the weak Bark, & and drive the hapless wreck  
 But leave we now the terrors of the main  
-  
-## D3311 Attic Chest 3311 242526_0013  
-  
 And gladly tow’rds our home turn once again  
 For there no Rage, nor Cruelty we find  
 The nobler sex are there, both Just, & Kind  
