@@ -26,5 +26,7 @@ But the most prominent I needs must say
 Is Woman’s love of *universal Sway!!*  
 If I might *venture* to approach so near  
 To whisper *softly* in the fair-one’s ear,  
-  
-<span class="red">Page(s)missing</span>
+
+---
+
+<span class="red">Page(s) missing</span>
