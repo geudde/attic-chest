@@ -58,50 +58,50 @@ Weave the wreath, the Chaplet twine,
 And interlace their slender stems,  
 To form a Crown of nature’s gems.”  
     
-1st Fairy: The Primrose fairy Queen I bear,  
-&emsp;Eldest Daughter of the Year.  
+1st Fairy:&emsp;The Primrose fairy Queen I bear,  
+&emsp;&emsp;Eldest Daughter of the Year.  
   
-Queen: Swet flow’r welcome take thy place  
-&emsp;Emblem meet of youthful grace.  
+Queen:&emsp;Swet flow’r welcome take thy place  
+&emsp;&emsp;Emblem meet of youthful grace.  
  
-2nd Fairy: I the purple Violet bring,  
-&emsp;Sweetest produce of the spring.  
+2nd Fairy:&emsp;I the purple Violet bring,  
+&emsp;&emsp;Sweetest produce of the spring.  
   
-Queen: And the type of modest worth,  
-&emsp;Oft o’erlook’d by sons of *Earth.*  
+Queen:&emsp;And the type of modest worth,  
+&emsp;&emsp;Oft o’erlook’d by sons of *Earth.*  
  
-3rd Fairy: Half conceal’d in grassy bed,  
-&emsp;Bending low her pensive Head,  
-&emsp;The gentle snowdrop I descry’d,  
-&emsp;Methought she was the vi’lets bride.  
+3rd Fairy:&emsp;Half conceal’d in grassy bed,  
+&emsp;&emsp;Bending low her pensive Head,  
+&emsp;&emsp;The gentle snowdrop I descry’d,  
+&emsp;&emsp;Methought she was the vi’lets bride.  
   
-4th Fairy: I down in yonder dell espied,  
-&emsp;This pretty thing a brook beside.  
+4th Fairy:&emsp;I down in yonder dell espied,  
+&emsp;&emsp;This pretty thing a brook beside.  
   
-Queen: The Lily of the Valley named  
-&emsp;And for its simple beauty fam’d.  
+Queen:&emsp;The Lily of the Valley named  
+&emsp;&emsp;And for its simple beauty fam’d.  
  
-5th Fairy: I the Chaplet to adorn,  
-&emsp;Snatch’d this blossom from the Thorn.  
+5th Fairy:&emsp;I the Chaplet to adorn,  
+&emsp;&emsp;Snatch’d this blossom from the Thorn.  
   
-Queen: Pretty blossom, May’s sweet Child,  
-&emsp;Nurs’d amid the Woodlands wild.  
+Queen:&emsp;Pretty blossom, May’s sweet Child,  
+&emsp;&emsp;Nurs’d amid the Woodlands wild.  
   
-6th Fairy: This Starlike form of scent divine,  
-&emsp;Is call’d by Mortals, Jassamine.  
+6th Fairy:&emsp;This Starlike form of scent divine,  
+&emsp;&emsp;Is call’d by Mortals, Jassamine.  
   
-Queen: Its dark green foliage pearly flowers,  
-&emsp;Declare it fit for fairy Bowers.  
+Queen:&emsp;Its dark green foliage pearly flowers,  
+&emsp;&emsp;Declare it fit for fairy Bowers.  
   
-Queen: Whence comest thou, with flow’r so tall?  
+Queen:&emsp;Whence comest thou, with flow’r so tall?  
   
-7th Fairy: Oh Queen I’ve been to stately Hall,  
-&emsp;And pluck’d the finest flow’r of all.  
+7th Fairy:&emsp;Oh Queen I’ve been to stately Hall,  
+&emsp;&emsp;And pluck’d the finest flow’r of all.  
   
-Queen: The Crown Imperial simple elf,  
-&emsp;Nay keep the gaudy thing yourself,  
-&emsp;A choice so vain your folly tells,  
-&emsp;E’en wear it for a Cap & Bells.  
+Queen:&emsp;The Crown Imperial simple elf,  
+&emsp;&emsp;Nay keep the gaudy thing yourself,  
+&emsp;&emsp;A choice so vain your folly tells,  
+&emsp;&emsp;E’en wear it for a Cap & Bells.  
   
 Impatient now the little troop,  
 Press forward in a fragrant group,  
