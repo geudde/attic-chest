@@ -8,7 +8,7 @@ visible: true
 
 <div class="author">Communicated by Mr Vignoles</div>
 
-Quid PLUMAE levius? PULVIS — Quid PULVERE? VENTUS —  
+Quid PLUMÆ levius? PULVIS — Quid PULVERE? VENTUS —  
 Quid VENTO? MULIER — Quid MULIERE? NIHIL
 
 Aruns
