@@ -29,4 +29,4 @@ Then care and repentance shall wither thy bloom
 Thy cheeks the sad hue of my *first* will assume  
 &emsp;And Art must the Roses of nature supply.  
   
-C B—
+C. B—
