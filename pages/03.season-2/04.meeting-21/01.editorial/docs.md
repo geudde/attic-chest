@@ -8,8 +8,8 @@ visible: true
 
 Our correspondents since our last meeting have been less numerous, and less industrious than usual; and we are afraid that the tumults in our streets have driven the Muses from their abodes, and deprived them of that serenity of mind which is necessary to Poetry.
 
-   They love the quiet shade  
-   The bubbling Fountain and the moonlight glade;
+> They love the quiet shade  
+> The bubbling Fountain and the moonlight glade;
 	
 and though they sometimes delight in relating the deeds of a favourite hero, and in describing the horrors of a well contested fight, yet these pictures are drawn in retirement, long after the roaring of the cannon has ceased. We therefore can readily excuse our correspondents in this instance for the horror of popular commotions might appall the firmest heart, and right glad should we be if a small diminution of our Evening’s amusement were the greatest evil resulting from the fury of the misguided multitude called into action by the wickedness, madness, or folly of Sir Francis Burdette, who like a Nero, or a Lord George Gordon, would perhaps rejoice to see the Metropolis in flames.
 
