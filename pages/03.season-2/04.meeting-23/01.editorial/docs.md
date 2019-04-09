@@ -10,17 +10,17 @@ The challenge of Thalestris which produced so much amusement at our last reading
 
 Falstaff says that he is not only witty himself but is the cause of much with in other men. This Thalestris may apply to herself for besides inciting in some degree the torpid spirit of 1810 she called forth the powers of Tancred and Lysander & that ingenuous bard who dress’d the fable of old Hesio in such a pleasing Garb; nor has Her influence yet spent its force, for we have this Evening, another Poem founded on the same fable, which appears to be intended as the *retort courteous* on the men, Anticipating the challenge of Timon which will be read hereafter. The Dowry follows close in the Path of Hesiod, and makes the fair Pandora with her box of evils, to be sent by Jove to punish the vices and impiety  of men, and proceeds to instance some few of the numberless enormities of the Masculine part of human-kind. The Plan of the Poem we admire, and think it would form the Foundation of a Satyr, in the deep-mouth’d tone of Juvenal, that would amply revenge the fair sex — but it would not be proper for our assembly where the vices should not be permitted to enter even for punishment & disgrace. In the Dowry the modern instances and phrases of a humourous cast, do not assimilate with the solemn dignity of Hesiod and, we think, diminish the Excellence of this well imagined poem. The Author however may plead precedent if *she* will prefer precedent to taste for some of the most distinguished Poets have blended ludicrous images in works of distinguished sublimity. Thus Chaucer when describing an assemblage of the more dreadful calamities that can afflict human nature as painted on the Walls of the Temple of Mars says, “there also I saw the Cooke scalded with his own Ladle.” Milton in the Paradise Lost condescends to mention
 
-> 	— Eremites and Friars
+> 	— Eremites and Friars  
 > 	White black and grey with all their trumpery
 	
 and Ariosto makes the trunk of Orillo gallop after his head, and tells us
 
-> 	He would have call’d to bid the warrior stay
+> 	He would have call’d to bid the warrior stay  
 > 	But the faire Knight had borne his tongue away
 
 To those who are sensible of the ridiculous these passages affect the reader in the same manner as Barry’s picture of Dr. Burney in a full-bottom’d wig nicely combed and *bien poudre* swimming among the naked Naiads of the Thames or a monkey cracking nuts on the should of Mr. Flaxman’s figure of Resignation. If any Dutchman should dare to profane in such a manner, the sublimest effort of modern art. There is a time for all things, says Solomon and there are appropriate situations for every thing says the critic
 
-> 	“Even in an ornament its place remark
+> 	“Even in an ornament its place remark  
 > 	Nor in a Hermitage set Dr. Clark.”
 	
 The powers of *Fitz-Hesiod* are calculated either for the serious or the comic but taste requires that they should be separately exerted. We have intimated that we think the author of the Dowry is a Lady, but whether it be the Production of one of our lovely auditors or of a youthful Grecian of the Masculine Gender as the signature would imply, we equally hope that our criticism will be taken in good part. We are anxious that the higher compositions that issue from the chest should be distinguised by genuine Attic Grace.
