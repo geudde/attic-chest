@@ -21,7 +21,7 @@ And drizzling fell the cheerless shower
   
 All soon propitious to our prayer  
 &emsp;Gave promise of a brighter day  
-The clouds dispers’d in brighter [purer] air  
+The clouds dispers’d in <span data-tippy="brighter" class="green">purer</span> air  
 &emsp;The blast in zephyrs died away  
   
 #### 3  
