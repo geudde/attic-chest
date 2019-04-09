@@ -39,3 +39,7 @@ But like kind *Sphinxes* help us to
 Resolve your Pandora.
 
 Non Œdipus 1810
+
+---
+
+Note: To whatever extent or under whatever Limitations this wonderful *Enigma* may be comprehended, the Men have heartfelt reason to rejoice, that the Women declare themselves not penniless in Virtue.
