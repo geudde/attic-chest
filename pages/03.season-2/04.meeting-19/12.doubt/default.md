@@ -7,7 +7,7 @@ media_order: 'doubt.jpg,certainty.jpg'
 
 #### Doubt
 
-![](doubt.jpg?resize=400)
+![](doubt.jpg?resize=300)
 
 Ah, who can tell the Grief and ruthless pain  
 &emsp;That rends the bosom of that hapless Wight  
