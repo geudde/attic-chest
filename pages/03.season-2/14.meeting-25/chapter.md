@@ -4,8 +4,6 @@ taxonomy:
     category: docs
 ---
 
-### Chapter Number
-
 # 19 June 1810
 
-Chapter description.
+#### <span class="red">Unavailable</span>
