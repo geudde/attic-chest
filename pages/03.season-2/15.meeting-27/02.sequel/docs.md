@@ -27,6 +27,6 @@ And can *manage* without —  *The Last Word.*
   
 1810
 
-![lamp](lamp.jpg?resize=350)
+![lamp](lamp.jpg?resize=300)
 
 Finis Hominis
