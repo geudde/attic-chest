@@ -6,10 +6,10 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Mr Vignoles</div>
+
 #### The Complaint of the Members of the Attic Chest on the Delay of Opening it this Season
 
-<div class="author">Mr Vignoles</div>
-  
 Now Brighton ev’ry Day grows thinner,  
 The Black-Legs scarce get a Dinner,  
 &emsp;The Steyne and Libraries are wond’rous Empty:  
