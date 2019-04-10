@@ -1,9 +1,9 @@
 ---
-title: 'Meeting 26'
+title: 'Meeting 25'
 taxonomy:
     category: docs
 ---
 
-# 19 June 1810
+# 5 June 1810
 
-#### <span class="red">Unavailable</span>
+<span class="red">Unavailable</span>
