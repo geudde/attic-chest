@@ -41,7 +41,7 @@ With heavenly radiance bursts upon their eyes,
 &emsp;And thus in gentle phrase reproves their tears.  
   
 “Weep not my friends, your loved Amelia’s soul,  
-&emsp;No more a prisoner inits earthly cell;  
+&emsp;No more a prisoner in its earthly cell;  
 At length it has attained the happy goal,  
 &emsp;In purest bliss eternally to dwell.”  
   
