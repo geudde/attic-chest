@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Mrs Flaxman</div>
+
 Says the yellow hair’d Laddie, to Luna so bright  
 How comes it, our Mars is so favor’d a Wight  
 That the Attics are still to be held on his Night?  
@@ -68,7 +70,7 @@ All grave as I seem, I would find them diversion
 For like Até of old, I would throw down an apple  
 To possess it from me would occasion a Grapple  
 A prize it might be, for their wit or their beauty  
-But <span data-tippy="Prudence" class="green">Pallas</span> says leave out both <span data-tippy="wisdom" class="green">Prudence</span> and duty. 
+But <span data-tippy="Prudence" class="green">Pallas</span> says leave out both <span data-tippy="wisdom" class="green">Prudence</span> and duty.  
 No, no, no, cried the Goddess, quite in a rage,  
 Such a gloomy old Fellow! — says Venus, I’d wage  
 My Son’s Quiver, you soon wou’d be sent to the Pound,  
