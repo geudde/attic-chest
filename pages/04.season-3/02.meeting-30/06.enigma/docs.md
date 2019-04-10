@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Communicated by Mrs Flaxman</div>
+
 #### The Old Philosophical Enigma Unriddled
 
 It is a Stone, and yet a Stone ‘tis not,
