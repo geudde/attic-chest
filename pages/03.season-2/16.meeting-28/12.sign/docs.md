@@ -26,3 +26,10 @@ Of Hope, of Peace, and Constancy,
 Of Friendship, and of Unity.  
   
 Titania  
+
+---
+
+“Speed Robin speed! she said, and gave  
+The Crosslet to a Fairy brave —  
+The Muster Place is Ellen’s Home  
+Instant the time, we come, we come!”  
