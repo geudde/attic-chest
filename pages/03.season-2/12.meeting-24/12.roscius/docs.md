@@ -1,5 +1,5 @@
 ---
-title: 'Roscius, the Peer, and His Tailor'
+title: 'Roscius, the Peer, and His Taylor'
 taxonomy:
     category:
         - docs
