@@ -15,3 +15,5 @@ So exalted and in the character of my first — that I have trampled on the prid
 In my second there is infinite variety! I am rich as the eastern Nabob, yet poor as the sweeping object of your benevolence. I am mild and gentle as the Spring yet savage & cruel as the wintry Blast. I am young, beautiful and happy — yet old, deformed, and wretched. It is from the highest authority I dare pronounce myself your Superior, yet few are the instances that prove it, and many are the proofs against it. But you are tired and wish my reunion — it is done, and I have no other merit than in remaining as before, your most Humble Servant
 
 C.J.F.
+
+<span class="pencil">Answer: Waterman</span>
