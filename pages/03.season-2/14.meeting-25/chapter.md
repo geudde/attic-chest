@@ -6,6 +6,6 @@ taxonomy:
 
 ### Chapter Number
 
-# 5 June 1810
+# 19 June 1810
 
 Chapter description.
