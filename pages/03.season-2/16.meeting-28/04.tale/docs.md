@@ -6,7 +6,9 @@ taxonomy:
 visible: true
 ---
 
-#### In the most admired modern taste  
+#### In the most admired modern taste 
+
+<div class="author">Miss Vardill</div>
   
 As I walk’d out the other evening late  
 My Mind in thoughtful serious state,  
