@@ -1,5 +1,6 @@
 ---
 title: 'The Sequel'
+media_order: lamp.jpg
 taxonomy:
     category:
         - docs
@@ -24,4 +25,8 @@ Say the Ladies — 1st, 2nd & 3rd
 We defy all the Wisdom you get from your Books,  
 And can *manage* without —  *The Last Word.*  
   
-1810  
+1810
+
+![lamp](lamp.jpg)
+
+Finis Hominis
