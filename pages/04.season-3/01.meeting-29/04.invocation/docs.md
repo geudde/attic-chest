@@ -38,7 +38,7 @@ All keen, suspicious eyes beguile,
 While all the circle round admire  
 My humour, learning, sense and fire,  
 And with one voice, accordant cry,  
-Rapt to the height of extasy,  
+Rapt to the height of ecstasy,  
 “O how sublime! how soft! how sweet!  
 O Editress, that strain repeat!”  
 Then I’ll the general plaudits join,  
@@ -52,6 +52,6 @@ And each his proper rank assumes,
 My kind consenting smile and bow,  
 To envious Bards the truth will shew  
 While all delighted, once again,  
-Raise to my <span data-tippy="worth" class="green">verse</span>worth th’ applauding strain.  
+Raise to my <span data-tippy="worth" class="green">verse</span> worth th’ applauding strain.  
   
 Amicus
