@@ -22,8 +22,8 @@ They have settled their Plan — and Friend Mars is their Beau,
 Yet never-the-less I must think my good Sir  
 If Hermes the gay were to make a great stir  
 They might listen to him — with very great reason;  
-He also as being a lib’ral [thievish] divinity  
-Might help the [steal for] Young Poets the scraps [some scraps] of Latinity.  
+He also as being a <span data-tippy="lib’ral" class="green">thievish</span> divinity  
+Might <span data-tippy="help the" class="green">steal for</span> Young Poets <span data-tippy="the" class="green">some</span> scraps of Latinity.  
 His Vigilance too, an assistance might Prove  
 To find out who is who — and then throw down the Glove —  
 At this speech, they all shouted, — when good Father Jove  
@@ -34,11 +34,11 @@ For such clever, such Beautiful Damsels attend,
 That believe me, sometimes I’ve a Mind to descend  
 To behold and admire, but my consequence hingers,  
 Nor would I, that a hair of their heads became Cinders;  
-And my Wisdom [Pallas] advises me here to remain —   
+And <span data-tippy="my Wisdom" class="green">Pallas</span> advises me here to remain —   
 From their mischievous Tricks, they would never refrain  
 And to outwit me now, would my Character stain —  
 But dear Venus, thou Goddess so fair and so free,  
-Go among them, *incog tho!* for then you will see  
+Go among them, *incognito!* for then you will see  
 What’s the mischief on foot — for between you and me  
 I shrewdly suspect that at present they have got  
 Of a Gnome, Sylph, and Nereid, some terrible Plot;  
@@ -58,7 +58,7 @@ Sage Venus — my care she shall be while on Earth,
 And ere I return, I will cause them some Mirth;  
 For whilst I remain in fair Ellen’s gay Court  
 Where the young Men and Maidens so frequent resort,  
-I’m resolved spite of Prudence [Pallas] to show them some sprot  
+I’m resolved spite of <span data-tippy="Prudence" class="green">Pallas</span> to show them some sport  
 And by writings, and saying, and some merry looks  
 I’ll distract e’en the gravest awhile from his Books —  
 Now Old Saturn the Sly, from his corner remote,  
@@ -68,7 +68,7 @@ All grave as I seem, I would find them diversion
 For like Até of old, I would throw down an apple  
 To possess it from me would occasion a Grapple  
 A prize it might be, for their wit or their beauty  
-But Prudence [Pallas] says leave out both wisdom and duty [???]  
+But <span data-tippy="Prudence" class="green">Pallas</span> says leave out both <span data-tippy="wisdom" class="green">Prudence</span> and duty. 
 No, no, no, cried the Goddess, quite in a rage,  
 Such a gloomy old Fellow! — says Venus, I’d wage  
 My Son’s Quiver, you soon wou’d be sent to the Pound,  
@@ -79,7 +79,7 @@ And the better at once to gnash disputation,
 Resolved that each Planet remain in its station;  
 Save Hermes alone — who so oft had been down  
 No stranger was he to the Lasses in Town.  
-Said Momus [???] the merry — let me join the Fun,  
+Said Momus the merry — let me join the Fun,  
 Oh, Oh, shouted all, they’ve a *Mime* of their own —  
 Jove now shook his dark Locks, to establish his Fiat!  
 Gods and Goddesses too, in a moment were quiet —  
