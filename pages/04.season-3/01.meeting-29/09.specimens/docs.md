@@ -54,10 +54,6 @@ And the Steed began to backen:
 They carried him away,  
 Holloa! Hey! they’ve carried him away [^3]  
   
- 
-  
-## D 3311 Attic Chest 293031_0030  
-  
 All sadly wept, and sigh’d,  
 For William, in his Chariot  
 Who went to take a ride  
@@ -180,11 +176,7 @@ And rub a dub go the Drums:
 Then the good Soldiers appetite comes  
 But it’s much more for dinner than Battle!  
   
-When the martial Poet had concluded, a young man stepped forward, whose insinuating air and inexpressible sweetness of manner, engaged the attention of all present. He addressed the Lady on the Tripod, the Priestess of the Orgies! declaring, his power were unequal to a  description of those delightful sensations he had experienced from such captivating sentiments & fascinating flights of Imagination! He was overcome by the German Ballad! His faculties had been lulled to a soft Elysium by the Pastorals, altho’ he confessed his preference for the latter of those two Poems, on account of a certain homeliness of expression in the former, which notwithstanding it might be justified by some examples, was not in perfect unison with the finer feelings of polished life. He acknowledged he had been perfectly possessed by the Battle! the Author was so powerful! of whom he always spoke with the greatest respect, because he pledged his honour that he had never known a more correct Man in the world, during the whole course of his life — his profound learning was unquestionable, and for his decided superiority in natural Philosophy and knowledge of the human Character, his Poem was the most satisfactory evidence; but he would submit to the charming Priestess & the distinguish’d Company with the utmost hesitation, whether the very excellencies of that Poem might not produce an unfortunate effect — and the Polemo-Eristic Subject itself supported by such noble description and irresistible power of language, might not from the  
-  
-## D 3311 Attic Chest 293031_0036  
-  
-acuteness of feeling peculiar to Minds exceeding sensible — produce an irritation interfering at least with the cordial harmony which formed so distinguished a feature in that polite assembly — and consequently whether any other Poems of that kind might not be referred to future meetings, and the remainder of the present time occupied in the recital of more engaging subjects which if they were not the *Laurels* — were universally allowed to be the Roses and *Lilies* of the Muses!  
+When the martial Poet had concluded, a young man stepped forward, whose insinuating air and inexpressible sweetness of manner, engaged the attention of all present. He addressed the Lady on the Tripod, the Priestess of the Orgies! declaring, his power were unequal to a  description of those delightful sensations he had experienced from such captivating sentiments & fascinating flights of Imagination! He was overcome by the German Ballad! His faculties had been lulled to a soft Elysium by the Pastorals, altho’ he confessed his preference for the latter of those two Poems, on account of a certain homeliness of expression in the former, which notwithstanding it might be justified by some examples, was not in perfect unison with the finer feelings of polished life. He acknowledged he had been perfectly possessed by the Battle! the Author was so powerful! of whom he always spoke with the greatest respect, because he pledged his honour that he had never known a more correct Man in the world, during the whole course of his life — his profound learning was unquestionable, and for his decided superiority in natural Philosophy and knowledge of the human Character, his Poem was the most satisfactory evidence; but he would submit to the charming Priestess & the distinguish’d Company with the utmost hesitation, whether the very excellencies of that Poem might not produce an unfortunate effect — and the Polemo-Eristic Subject itself supported by such noble description and irresistible power of language, might not from the acuteness of feeling peculiar to Minds exceeding sensible — produce an irritation interfering at least with the cordial harmony which formed so distinguished a feature in that polite assembly — and consequently whether any other Poems of that kind might not be referred to future meetings, and the remainder of the present time occupied in the recital of more engaging subjects which if they were not the *Laurels* — were universally allowed to be the Roses and *Lilies* of the Muses!  
   
 All were convinced by the Modesty, Candor, Elegance, and force of reasoning in this address — it was received with the loudest and reiterated acclamations — Elegies, Sonnets &c were then read — but as they were very like *other* Elegies and Sonnets the reader will excuse their not being inserted.  
   
@@ -192,4 +184,4 @@ A Chip of the Old Block
 
 [^1]: This thought is certainly stolen from Shakespear!  
 [^2]: Another Plagiarism from the elegant Dramatic Poet Mr Gray.
-[^3] In this translation much of the splendid diction and delicacy of thought, in the German original is lost. 
+[^3]: In this translation much of the splendid diction and delicacy of thought, in the German original is lost. 
