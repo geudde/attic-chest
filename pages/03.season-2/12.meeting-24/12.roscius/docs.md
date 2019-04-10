@@ -40,4 +40,4 @@ Our Roscius shall begin the tale.
 
 ---
 
-<span class="red">Page(s) missing?</span>
+<span class="red">Page(s) missing</span>
