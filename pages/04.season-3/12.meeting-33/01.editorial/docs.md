@@ -8,36 +8,36 @@ visible: true
 
 The following List of contributions yet unread will prove to our hearers, that we did not exaggerate when we vaunted the Richness of our Repository, in our last Introduction.
 
-The New Year
-First Attic Meeting 1811
-The humble supplication of Timothy Couplet Esq.
-Tell me sweet one
-Say Love what master shews thy art
-An address to Poetry
-Ornaments of Dress
-Shelton Oak
-Grecian Anecdotes
-Acrostic
-Charade
-Welch Advertisement
-To Maria
-Translation from Alcaeus
-Antiques of Paris
-To the Swallows on their arrival
-To the Swallows on their departure
-Sun rise
-To the author of the Stanzas on Memory
-The Resolve
-The pious Painter — 
-Cupid turned Shepherd — 
-Sonnet from Petrarch — 
-The Unhappy Soldier’s last Watch
-You ask me why with so much care
-Since Phosphorus &c. — 
-The Sylphiad Canto 1  — 
-The Restoration Canto 1 — 
-Vox Stellarum
-On the privileges of Parliament from Dr. Johnson
+* The New Year
+* First Attic Meeting 1811
+* The humble supplication of Timothy Couplet Esq.
+* Tell me sweet one
+* Say Love what master shews thy art
+* An address to Poetry
+* Ornaments of Dress
+* Shelton Oak
+* Grecian Anecdotes
+* Acrostic
+* Charade
+* Welch Advertisement
+* To Maria
+* Translation from Alcaeus
+* Antiques of Paris
+* To the Swallows on their arrival
+* To the Swallows on their departure
+* Sun rise
+* To the author of the Stanzas on Memory
+* The Resolve
+* The pious Painter 
+* Cupid turned Shepherd 
+* Sonnet from Petrarch 
+* The Unhappy Soldier’s last Watch
+* You ask me why with so much care
+* Since Phosphorus &c.
+* The Sylphiad Canto 1
+* The Restoration Canto 1 
+* Vox Stellarum
+* On the privileges of Parliament from Dr. Johnson
 
 Of these we select such as from temporary circumstances, cannot with propriety be delayed, and mingle with them others that we think will best variegate our entertainment.
 
