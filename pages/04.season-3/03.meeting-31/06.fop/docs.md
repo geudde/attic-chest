@@ -6,9 +6,9 @@ taxonomy:
 visible: true
 ---
 
-<div class="author">Miss Porden</div>
+#### or *Fashionable* Court Mourning 
 
-#### or *Fashionable* Court Mourning  
+<div class="author">Miss Porden</div> 
   
 At length the labours of the Toilette cease,  
 Sir Thurio’s drest, his Valet is at ease,  
