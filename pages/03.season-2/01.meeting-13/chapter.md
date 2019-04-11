@@ -16,7 +16,7 @@ visible: true
 3. [The Novembriad](novembriad)
 4. [An Ode of Petrarch](petrarch)
 5. [Verses to the Moon](moon)
-6. [Says a P to an O](p-t-o)
+6. [Says a P to an O](p-to-o)
 7. [Anacreon Ode 16](anacreon-16)
 8. [To Sir John Barrington](barrington)
 9. [Muse of Fire](fire)
