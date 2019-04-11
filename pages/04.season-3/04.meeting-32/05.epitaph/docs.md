@@ -1,0 +1,60 @@
+---
+title: 'French Epitaph'
+taxonomy:
+    category:
+        - docs
+visible: true
+---
+
+<div class="author">Mrs Kay</div>
+
+Madam
+
+Having inherited from both my parents, a predilection for examining all country churches, and more especially those, which from their external appearance promise any thing peculiar in their antiquity or construction, I was one morning tempted during a ride with some friends, through one of our most beautiful counties, to stop at a Church belonging to a considerable parish, and situated in a pretty village, thro’ which we were then passing.
+
+Leaving therefore our horses to the care of a servant, and having found a worthy old Shoemaker, who also officiated as clerk, and perhaps sexton too, altho’ he did not appear to possess that versatility of talent which we have seen so admirably dramatised, I and my companions amused ourselves with reading the inscriptions on the gravestones, while he fetched the keys of the church.
+
+Curiosity led us different ways, and when the man summoned us to attend him, one of my companions gave us the rough translation of a French epitaph she had met with on a stone very recently erected. Our Ciceroni listened very attentively to what my friend communicated, and expressed himself much gratified at having heard it;
+
+## D 3311 Attic Chest 323334_0026
+
+he said the epitaph had excited considerable attention in the parish from the circumstance of its being in a foreign language, but he had never before met with anyone who either could or would translate it. On going to the spot where this stone is placed I considered it so singular a composition and such and implied censure upon the party or parties it belonged to that I was induced to transcribe it and here present it to your Attic Society. It is perhaps necessary to observe that the person whose remains were interred beneath was a female, and according to the inscription a wife and mother of several children.
+
+I afterwards learnt a few more particulars respecting this unfortunate Lady which I shall have much pleasure in communicating should either you or your auditors feel interested about them.
+
+I am
+Mada
+With great Respect
+Your obedient Servant
+Veritas
+
+## D 3311 Attic Chest 323334_0027
+
+### Inscription of a Tombstone in —— Churchyard
+
+“L’Infortunée, qui git sous ces Tombeaux
+Ne trouva te repos, qu’on terminant sa vie
+Qui tu te sois pour eviter ses maux
+Ah! crains tes passions, sur tout la jalousie.”
+
+#### To Memory
+
+Oh Memory, of joy the bane,
+Who still abridging pleasure’s store,
+Retracest all our woes again,
+Till *present* good can charm no more!
+
+Who but has cause thy power to fear,
+(Altho’ by conscience unreprov’d)
+Thou who recall’st friends lost, and dear
+With ev’ry vanish’d joy we’ve prov’d?
+
+Officious Memory, why intrude?
+Why ev’ry sad event renew?
+Our present evils, bliss preclude,
+Then why past sorrows bring to view?
+
+The charm of *hope*, thou dost destroy,
+Showing its schemes how oft laid low,
+Thus thou dispel’st e’en transient joy,
+And in the *past*, give *present* woe!
