@@ -6,10 +6,10 @@ taxonomy:
 visible: true
 ---
 
+#### Run across the Road in January  
+
 <div class="author">Communicated by Mrs Porden</div>
 
-#### On seeing a Mouse run across the Road in January  
-  
 Stay little tim’rous beastie, stay;  
 Nor bicker wi sick speed away;  
 For I, like some relentless fae,  
