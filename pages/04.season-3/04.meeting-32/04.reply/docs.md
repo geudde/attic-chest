@@ -24,3 +24,6 @@ Why Man the Flitch can never gain
 Unless his Wife’s a Mute?
 
 1810
+
+A desperate Lover —   
+of Bacon!
