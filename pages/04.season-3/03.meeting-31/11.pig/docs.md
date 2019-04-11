@@ -6,12 +6,10 @@ taxonomy:
 visible: true
 ---
 
-<div class="author">Communicated by Mr Vignoles</div>
-
 #### While His Nose Was Boring
 
-### while his Nose was boring  
-  
+<div class="author">Communicated by Mr Vignoles</div>
+
 Hark! hark! that pig — that pig! the hideous note,  
 &emsp;Most loud, more dissonant, each Moment grows —  
 Would we not think, the knife was in his Throat?  
