@@ -25,7 +25,7 @@ We are diverted with the lucubration of “The Odd Fellow” and from his animat
 
 To the friend who has communicated the French Epitaph we shall be obliged for any anecdotes that he may be able to collect respecting the person commemorated. The Stanzas to Memory bespeak a feeling mind, but we hope they were written at a moment of temporary gloom, which has since given place to permanent cheerfulness. Many of us have had occasion to say with the poet,
 
->  “Of Joys departed never to return
+>  “Of Joys departed never to return  
 >  How painful the remembrance”
 
 yet we trust that the lenient influence of Time will in all of us, soften the bitterness of Grief into pleasing Melancholy. We are much obliged to the Authoress for the compliment contained in the neat little song of “Cauld Kale” which we hope she will indulge *us with* singing at her supper. The fair Lady, by this and her former productions, seems to have imbibed the genuine spirit of Scottish Poetry. The tale of *“The Tapster”* is neatly told, and, with hearts brimful of Gratitude we this and every other Attic Evening, promise the Author full measures.
