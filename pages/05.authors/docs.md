@@ -273,8 +273,6 @@ Do. to Stella signed Moth — Miss Flaxman
 Do. to Elorina signed Punch — Miss Porden  
 The Female Emigrations signed [Greek] — Mr Vignoles  
   
-## d 3311 Attic Chest  2728_00057  
-  
 No. 19  
   
 The Moth — Miss Flaxman  
