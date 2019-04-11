@@ -1,5 +1,5 @@
 ---
-title: 'Introduction to a Lady''s Poetical Miscellany'
+title: 'Introduction to a Lady’s Poetical Miscellany'
 taxonomy:
     category:
         - docs
