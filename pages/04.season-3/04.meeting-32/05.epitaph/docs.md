@@ -34,26 +34,3 @@ Ne trouva te repos, qu’on terminant sa vie
 Qui tu te sois pour eviter ses maux  
 Ah! crains tes passions, sur tout la jalousie.”  
   
----
-  
-### To Memory  
-  
-Oh Memory, of joy the bane,  
-Who still abridging pleasure’s store,  
-Retracest all our woes again,  
-Till *present* good can charm no more!  
-  
-Who but has cause thy power to fear,  
-(Altho’ by conscience unreprov’d)  
-Thou who recall’st friends lost, and dear  
-With ev’ry vanish’d joy we’ve prov’d?  
-  
-Officious Memory, why intrude?  
-Why ev’ry sad event renew?  
-Our present evils, bliss preclude,  
-Then why past sorrows bring to view?  
-  
-The charm of *hope*, thou dost destroy,  
-Showing its schemes how oft laid low,  
-Thus thou dispel’st e’en transient joy,  
-And in the *past*, give *present* woe!
