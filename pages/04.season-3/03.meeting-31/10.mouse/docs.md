@@ -31,8 +31,6 @@ Whelk aiblins ye’ll be forc’d to steal
 And in the act Death’s tortures feel,  
 &emsp;Frae Cats or wire.  
   
-## D 3311 Attic Chest 293031_0103  
-  
 Ere nature’s bound in icy chains,  
 Or feather’d Sangsters cease their strains  
 Or Belles or Beaux wi Muffs and canes,  
