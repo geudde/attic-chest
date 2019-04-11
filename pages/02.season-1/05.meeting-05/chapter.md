@@ -6,7 +6,7 @@ child_type: docs
 visible: true
 ---
 
-## 21 Febraury 1809
+## 21 February 1809
 
 1. [Valentine to Ictinus](ictinus-1)
 2. [Miss Maria Denman](denman-1)
