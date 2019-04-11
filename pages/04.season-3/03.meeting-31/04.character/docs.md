@@ -8,13 +8,11 @@ visible: true
 
 <div class="author">Communicated by Miss Richardson</div>
 
-### An Attempt to Delineate a Character  
-  
 ### Miss ---  
   
 She dothe possesse of wit, soe large a Share  
 With meak humility soe sweetly blente,  
-That truly all [they] arounde her gaze, and saye  
+That truly <span data-tippy="they" class="green">all</span> arounde her gaze, and saye  
 Her soule seraphic might a kindred claime  
 With some brighte Angel of Heav’n’s blest abode.  
 Talke not to me of Beauty’s fading flower;  
