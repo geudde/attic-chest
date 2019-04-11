@@ -152,6 +152,8 @@ And gently thro’ the wood,
 To see how the foe lay in the plain,
 And to make their onset good.
 
+#### Second Part
+
 Lord Edward’s men were fresh and hale
 And their leader a gallant knight.
 Tho’ the foemen were many along the dale,
