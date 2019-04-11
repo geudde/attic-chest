@@ -11,7 +11,7 @@ visible: true
 Infancy, Youth and hoary Age  
 In dread unequal war engage  
 With Envy, Falsehood deadly strife  
-Whose ambush hunts down human life. 
+Whose ambush hunts down human life.   
 Foul Envy aims her rankling dart,  
 False Friendship cuts the generous heart  
 And blood-stained Strife for rule & gain  
