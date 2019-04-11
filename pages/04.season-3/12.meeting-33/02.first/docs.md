@@ -67,4 +67,4 @@ And cheer our Bosoms with Content.
 Our drooping Hearts, courting Repose,  
 Would some new Bourne of Peace disclose  
 For scarce could Duty make her way,  
-But for sweet Hope’s alluring Ray;
+But for sweet Hope’s alluring Ray.
