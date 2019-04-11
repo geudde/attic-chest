@@ -37,7 +37,7 @@ Tho’ vast the pains I’ve taken,
 I never yet could well explain  
 The failure of the Bacon.  
   
-At length I cred “I’ll think no more!  
+At length I cried “I’ll think no more!  
 The story’s old and musty  
 So many years are now gone o’er  
 — The Bacon must be rusty!”  
