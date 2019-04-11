@@ -28,7 +28,7 @@ Who hold Philosophie,
 And all its Vanitie,  
 From Herm, to Doctor Dee,  
 Just, three skips of a flea.  
-Aye, just of a flea, skips three,  
-That gay Animalcule.  
+&emsp;Aye, just of a flea, skips three,  
+&emsp;That gay Animalcule.  
   
 Katterfelto
