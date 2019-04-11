@@ -16,7 +16,9 @@ Very truly Yours
 dear Editress and a   
 M.A.S.  
   
-Jan<sup>y</sup> 1811  
+Jan<sup>y</sup> 1811 
+
+---
   
 #### Query — to an *ingenious* and *experienced* Friend  
   
