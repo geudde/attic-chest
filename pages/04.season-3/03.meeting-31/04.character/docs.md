@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-<div class="author">Communicated by Mrs Richardson</div>
+<div class="author">Communicated by Miss Richardson</div>
 
 ### An Attempt to Delineate a Character  
   
