@@ -6,13 +6,12 @@ taxonomy:
 visible: true
 ---
 
-No. 1  
+No. 1 (1808-12-27)
   
-  
-On the Study of Ancient Architecture &amp;c. — From an Oxford Prize Poem, communicated by Mr Flaxman  
+On the Study of Ancient Architecture &amp;c. — com. Mr Flaxman  
 To Maria —   
 On the Conscription of the Student of Gottingen — Miss Porden  
-Love and the Nymphs (Hassan) — Mr Kilburn  
+Love and the Nymphs — Mr Kilburn (Hassan)
 An Apology for a Valentine — Miss Flaxman  
 Anacreontic Valentine — Mr Bond  
 Goodby &amp; how d’ye do — com. Mr. Flaxman  
