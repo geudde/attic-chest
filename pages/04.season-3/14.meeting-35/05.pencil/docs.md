@@ -9,7 +9,7 @@ visible: true
 
 <div class="author">Communicated by Miss Denman</div>
 
-![Pen](pen.jpg?resize=400)
+![Pen](pen.jpg?resize=300)
 
 “Formed to persuade at distance e’en controul,  
 Or speed soft intercourse from soul to soul,  
