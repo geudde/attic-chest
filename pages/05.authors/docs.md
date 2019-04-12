@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-<div class="border-bottom">
+<div class="bottom">
 <span class="meeting">No. 1&emsp;(1808-12-27)</span>
 </div>
 
