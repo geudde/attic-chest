@@ -203,7 +203,6 @@ Such names to preserve, is their noblest employ
 And I therefore to Mars, give my suffrage with joy.”  
   
 He spoke and sly Renard endeavoured in vain  
- 
 <span data-tippy="Permission once more to address them again" class="green">To make a new speech as he said to explain</span>  
 But to order he quickly is called by the Fly  
 And order, resounds from all parts of the sky  
@@ -229,8 +228,8 @@ But Pegasus rose, and declared as the friend
 Of the Muses, he must to their interests attend,  
 That the whole tribe of Poets he feared they would find  
 To pilfering by Nature, were too much inclined.  
-And therefore, should Hermes be placed at their h<span data-tippy="missing" class="green">[...]</span>   
-From their thefts, and their tricks, we sad mischief might d<span data-tippy="missing" class="green">[...]</span>   
+And therefore, should Hermes be placed at their h<span data-tippy="missing" class="red">[...]</span>   
+From their thefts, and their tricks, we sad mischief might d<span data-tippy="missing" class="red">[...]</span>   
 The Fly, once the rival of Phoebe the bright  
 For the love of Endymion, that Goddess to spite  
 Hearing she for Mercurius the first had proposed  
