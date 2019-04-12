@@ -31,9 +31,6 @@ And at th’obstructed sunbeam mournful sighs,
 The mind associates many a fond idea  
 That Sun perhaps in distant climes may cheer,  
 T’abode of all that claims a father’s tear  
-  
-## D 3311 Attic Chest 323334_0091  
-  
 The sufferer from his bed of anguish sees,  
 The morning break upon the woodland trees.  
 Disease flows rapid thro’ each fever’d vein  
