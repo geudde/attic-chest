@@ -8,6 +8,8 @@ visible: true
 
 <div class="author">Miss Porden</div>
 
+##### Thanking the Author for a Valentine
+
 &emsp;In Chivalry’s resplendent age  
 When Knights with Dragons did engage  
 When Giants huge did haunt each land  
