@@ -21,7 +21,7 @@ taxonomy:
 13. [To Maria](maria)
 14. [The Oyster to His Valentine](oyster)
 15. [To Miss M.D.](miss-md)
-16. [A Young Lady Thanking the Author](lady)
+16. [On a Young Lady](lady)
 17. [The Linnets](linnets)
 18. [The Fiery Element Personified](fiery)
 19. [The Reply](reply)
