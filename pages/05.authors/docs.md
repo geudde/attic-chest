@@ -6,15 +6,15 @@ taxonomy:
 visible: true
 ---
 
-<span class="meeting">No. 1 (1808-12-27)</span>
-  
-On the Study of Ancient Architecture &amp;c. → <span class="name">com. Mr Flaxman</span>  
-To Maria →  
-On the Conscription of the Student of Gottingen → Miss Porden  
-Love and the Nymphs → Mr Kilburn (Hassan)  
-An Apology for a Valentine → Miss Flaxman  
-Anacreontic Valentine → Mr Bond  
-Goodby &amp; how d’ye do → com. Mr. Flaxman  
+<span class="meeting">No. 1&emsp;(1808-12-27)</span>
+
+On the Study of Ancient Architecture &amp;c. → <span class="name"><span class="name">From an Oxford Prize Poem, communicated by Mr Flaxman</span></span>
+To Maria — 
+On the Conscription of the Student of Gottingen → <span class="name"><span class="name">Miss Porden</span></span>
+Love and the Nymphs → <span class="name"><span class="name">Mr Kilburn (Hassan)</span></span>
+An Apology for a Valentine → <span class="name"><span class="name">Miss Flaxman</span></span>
+Anacreontic Valentine → <span class="name"><span class="name">Mr Bond</span></span>
+Goodby &amp; how d’ye do → <span class="name"><span class="name">com. Mr. Flaxman</span></span>
   
 No. 2  
   
