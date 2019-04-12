@@ -1,5 +1,5 @@
 ---
-title: 'Author Lists'
+title: Authors
 taxonomy:
     category:
         - docs
