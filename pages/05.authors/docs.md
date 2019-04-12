@@ -51,8 +51,8 @@ A Riddle → <span class="name">com. Mr. Flaxman</span>
 
 On Contemplating a Splendid Pile of Ruins → <span class="name">com. Mr. Flaxman</span>  
 The Three Kisses → <span class="name">Mr Joseph</span>  
-The Violet (Violetta) → 
-A Description of Monkey Island → <span class="name">Mr Porden</span> <span class="red"(Missing)</span>  
+The Violet →  (Violetta)  
+A Description of Monkey Island → <span class="name">Mr Porden</span> <span class="red">(Missing)</span>  
 The Queen Anne St. Ghost → <span class="name">Mr Parkinson</span>  
 
 <div class="bottom">
@@ -103,7 +103,7 @@ Valentine Morning → <span class="name">Mr Kay</span>
 </div>
 
 The Jarvey → <span class="name">A young Lady</span>  
-The Muses Vagaries (No. 3)  → 
+The Muses Vagaries (No. 3)  →   
 The Constellation No. 1 → <span class="name">Miss Porden</span>  
 
 <div class="bottom">
@@ -139,11 +139,11 @@ A Riddle on Buonaparte → Newspaper <span class="red">Missing</span>
 <span class="meeting">No. 9&emsp;(1809-05-02)</span>  
 </div>
 
-The Dove from Anacreon → <span class="name">Mr Porden</span>  <span class="red">Missing</span>   
+The Dove from Anacreon → <span class="name">Mr Porden</span>  <span class="red">(Missing)</span>   
 Anacreon Ode 29 → <span class="name">Mr Bond</span>  
 The Rose a Coquette → <span class="name">Miss Flaxman</span>  
 On a Young Lady who spoilt a fine Complexion by late hours → <span class="name">Mr Joseph</span>  
-Horace Book 2 Ode 16  (Demos) → <span class="name">Mr Bond</span>  
+Horace Book 2 Ode 16 → <span class="name">Mr Bond</span> (Demos)  
 Epigram or Dr. Toe → <span class="name">com. Mr Flaxman</span>  
 Answer to the Riddle on Buonaparte → <span class="name">Mr Porden</span> <span class="red">(Missing)</span>  
 Constellation No. 4 → <span class="name">Miss Porden</span>  
@@ -167,13 +167,13 @@ To Roberto again → <span class="name">Miss Porden</span>
 </div>
 
 Impromptu written on the Margate Packet → <span class="name">&nbsp;</span>  
-The Apotheosis (Missing) → <span class="name">Mr Flaxman</span>  
+The Apotheosis → <span class="name">Mr Flaxman</span> <span class="red">(Missing)</span>  
 Address to the Clouds on St. Valentine’s Day → <span class="name">Miss Porden</span>  
 Anacreon Ode 1 → <span class="name">Mr Parkinson</span>  
 Another  &#12291; → <span class="name">Mr Bond</span>  
 Another  &#12291; → <span class="name">Mr Porden</span>  
-Query in Natural History → <span class="name">Mr Parkinson</span> <span class="red">Missing</span>    
-Answer → <span class="name">Mr Porden</span> <span class="red">Missing</span>   
+Query in Natural History → <span class="name">Mr Parkinson</span> <span class="red">(Missing)</span>    
+Answer → <span class="name">Mr Porden</span> <span class="red">(Missing)</span>   
 
 <div class="bottom">
 <span class="meeting">No. 12&emsp;(1809-07-14)</span>  
@@ -184,7 +184,7 @@ Sonnet → <span class="name">Miss Porden</span> (Sophis)
 Flattery Rejected → <span class="name">Mr Joseph</span>  
 The Floral Senate → <span class="name">Miss Porden</span>  
 Sonnet to Roberto → <span class="name">Miss Porden</span>  
-A Fragment from the Greek → <span class="name">Mr Flaxman</span> <span class="red">Missing</span>   
+A Fragment from the Greek → <span class="name">Mr Flaxman</span> <span class="red">(Missing)</span>   
 Farewell Address from the Attic Chest → <span class="name">Miss Porden</span>  
 
 <div class="bottom">
@@ -213,7 +213,7 @@ Christmas Gambols → <span class="name">com. Mrs Flaxman</span>
 The Fairy’s Wish. signed Gossamer → <span class="name">Do.</span>  
 Riddle “Four people sat down at a Tavern to play” → <span class="name">unknown</span>  
 Dulce Domum. Signed Perigrine → <span class="name">Miss Flaxman</span>  
-To a Lost Friend → <span class="name">Miss Ludlow com. by Miss Richardson</span>  
+To a Lost Friend → Miss Ludlow <span class="name">com. by Miss Richardson</span>  
 Anacreontic. Signed Anacreonides → <span class="name">Mr Flaxman</span>  
 Monsieur L’Abbé de Grenthe’s Academy → <span class="name">com. Sir John Barrington</span>  
 Verses spoken at his Ball → <span class="name">Do.</span>  
@@ -251,7 +251,7 @@ The Miser and the Mouse → <span class="name">com. by Do.</span>
 Charade Answer Fortnight signed by A Lawyer → <span class="name">Mr Vignoles</span>  
 A stray spark from the Tinder Box → <span class="name">Mr Flaxman</span>  
 Lines to the author of the Tinder Box → <span class="name">Miss Flaxman</span>  
-Verses — Mr Hoppner
+Verses — Mr Hoppner  
 A reproof to gormandizing Bards signed Fare and Fret → <span class="name">Mr Parkinson</span>  
 Lauretta. A Tale signed Peregrine → <span class="name">Miss Flaxman</span>  
 
@@ -259,7 +259,7 @@ Lauretta. A Tale signed Peregrine → <span class="name">Miss Flaxman</span>
 <span class="meeting">No. 17&emsp;(1810-02-13)</span>  
 </div>
 
-Epitaph on General Wolfe — Mr Porden
+Epitaph on General Wolfe — Mr Porden  
 Stanzas on Terror and Pity, from an old M.S. → <span class="name">com. Mr Vignoles</span>  
 Address to the Muses → <span class="name">com. Mrs Flaxman</span>  
 Song written in the middle of a very tempestuous night → <span class="name">com. Mr Henry Thomson</span>  
@@ -269,38 +269,38 @@ Petition to Winter → <span class="name">Mr Porden</span>
 Ambrosine → <span class="name">com. Miss Porden</span>  
 Enigma: Pleasure → <span class="name">Mrs Hutton</span>  
 Charade: Sparkling → <span class="name">Mr Vignoles</span>  
-The Lawyer, A Tale — Do.
-Lines on the Entrance of Valentine’s Day. signed Cynthia → <span class="name">Miss Flaxman</span>  
+The Lawyer, A Tale → Do.  
+Lines on the Entrance of Valentine’s Day. signed Cynthia → <span class="name">Miss Flaxman</span> (Cynthia)  
 
 <div class="bottom">
 <span class="meeting">No. 18&emsp;(1810-02-27)</span>  
 </div>
 
-Valentine to Filo Fillagree signed Scintilla
+Valentine to Filo Fillagree → (Scintilla)  
 Do. to Peregrine → <span class="name">Miss Flaxman</span>  
-Do. to Ictinus. signed Dido → <span class="name">Do.</span>  
-Do. to Hassan signed Augusta Valentina → <span class="name">Do.</span>  
-Do. to Somebody 
-Do. to Roberto signed Phoebe
-Do. to An Architect
-Do. to Miss Porden
+Do. to Ictinus → <span class="name">Do.</span> (Dido)  
+Do. to Hassan → <span class="name">Do.</span> (Augusta Valentina)   
+Do. to Somebod →  
+Do. to Roberto →  (Phoebe)
+Do. to An Architect → 
+Do. to Miss Porden → 
 Do. to Stella signed Moth → <span class="name">Miss Flaxman</span>  
 Do. to Elorina signed Punch → <span class="name">Miss Porden</span>  
-The Female Emigrations signed [Greek] — Mr Vignoles
+The Female Emigrations — Mr Vignoles
 
 <div class="bottom">
 <span class="meeting">No. 19&emsp;(1810-03-13)</span>  
 </div>
 
-The Moth — Miss Flaxman
+The Moth — <span class="name">Miss Flaxman</span>    
 The Pastor restored to his Flock signed Philo Clerico → <span class="name">com. Mrs Kay</span>  
 Ictinus to Dido — Miss Flaxman (Bond?)
 Sonnet to a Young Lady signed Mnemosyneia → <span class="name">Miss Porden</span>  
-To a Bull Finch signed C. S. — Miss Sanders
+To a Bull Finch. — <span class="name">Miss Sanders</span> (C.S.)  
 To Laura signed Peregrine → <span class="name">Miss Flaxman</span>  
 An Address to the Pen → <span class="name">com. Miss Beslee</span>  
 To the Lady of the Golden Arrow signed Peregrine → <span class="name">Miss Flaxman</span>  
-Answer to the Charade Fortnight signed M. — Do.
+Answer to the Charade Fortnight signed M. → Do. (M.)
 Verses to the Misses D---ns → <span class="name">Mr Porden</span>  
 Doubt and Certainty → <span class="name">Mr Porden</span></span>  
 Sonnet
@@ -312,29 +312,29 @@ Song to the tune of Four and Twenty Fiddlers → <span class="name">Mr Flaxman</
 
 From a Butterfly to Aspasia → <span class="name">Dr Shaw</span>  
 The Cottage signed S. G. — com. Mrs Kay
-Tea signed Van-ta-zhin → <span class="name">Mr Parkinson</span>  
+Tea signed → <span class="name">Mr Parkinson</span> (Van-ta-zhin)  
 The power of Song → <span class="name">com. Mrs Flaxman</span>  
 A German Bacchanalian Song → <span class="name">Mr Campbell</span>  
 Ebor’s Green → <span class="name">Mr Porden</span>  
-An O.P. Dialogue between a Turk and an Englishman signed Frederica
+An O.P. Dialogue between a Turk and an Englishman → (Frederica)
 Westminster hall on the First Day of Term signed Edward → <span class="name">Mr Vignoles</span>  
-The Mothers Song signed Penelope — Miss Flaxman
+The Mothers Song signed Penelope — <span class="name">Miss Flaxman</span>
 
 <div class="bottom">
 <span class="meeting">No. 21&emsp;(1810-04-10)</span>  
 </div>
 
 The Voyage of the Muses [From Helicon ye sacred Nine be] → <span class="name">Miss Porden</span>  
-A Challenge signed Thalestris alias Incognita → <span class="name">Miss Flaxman</span>  
-The Squirrel — Miss Sanders
+A Challenge → <span class="name">Miss Flaxman</span> (Thalestris/Incognita)  
+The Squirrel — <span class="name">Miss Sanders</span>  
 Sonnet to a little Girl — com. Miss Beslee
 Sonnet to Samuel William Nicol Esq. → <span class="name">Mr Porden</span>  
 Song “If Ever prayer of hapless Love” — Mr Porden
 Against Life from Posidippus → <span class="name">com. Mrs Flaxman</span>  
-For Life From the Greek of Metrodorus — Do.
+For Life From the Greek of Metrodorus — Do.  
 The New Broom, and Answer to the old Broom of Cowdenknows → <span class="name">Reverend Mr Cayley</span>  
 On the Portable Pens → <span class="name">Mr Bon</span>  
-Latin Acrostic Napoleon Buonaparte
+Latin Acrostic Napoleon Buonaparte →     
 The Latin Gerunds Di Do Dum → <span class="name">com. Miss Flaxman</span>  
 The Speech of a New Married Man to this Wife to be read in French → <span class="name">Do.</span>  
 
@@ -345,12 +345,12 @@ The Speech of a New Married Man to this Wife to be read in French → <span clas
 A Query → <span class="name">com. Miss Flaxman</span>  
 Inscription to the Memory of Shenstone → <span class="name">com. Miss Flaxman</span>  
 Hymn to Apollo From the Greek → <span class="name">com. Miss Flaxman</span>  
-To Lycidas on his forsaking the Lyre signed Dorea
+To Lycidas on his forsaking the Lyre → (Dorea)
 A Translation of the 2nd Ode of Anacreon signed Thyrsis — Miss Porden
-1810 to Incognita → <span class="name">[com. Miss Flaxman]</span>  
-Tancred to Thalestris — Miss Flaxman
+1810 to Incognita → <span class="name">com. Miss Flaxman</span>  
+Tancred to Thalestris → <span class="name">Miss Flaxman</span>  
 The Faults of Woman kind signed Lysander → <span class="name">Miss Porden</span>  
-Woman from the Greek — nobody
+Woman from the Greek → 
 
 <div class="bottom">
 <span class="meeting">No. 23&emsp;(1810-05-08)</span>  
@@ -363,7 +363,7 @@ The Fop → <span class="name">com. Miss Beslee</span>
 A Charade: Wanton signed C.B → <span class="name">Do.</span>  
 A Fairy favour for Ellen signed Sprite → <span class="name">Miss Flaxman</span>  
 Greenwich Hill signed Cesareo → <span class="name">Mr Gifford</span>  
-The Challenge of Timon — Mr Vignoles
+The Challenge of Timon → <span class="name">Mr Vignoles</span>
 
 <div class="bottom">
 <span class="meeting">No. 24&emsp;(1810-05-22)</span>  
@@ -373,12 +373,12 @@ Address to Opis by Carina → <span class="name">Miss Flaxman</span>
 After seeing Florio at a Masquerade by Clytia → <span class="name">Miss Flaxman</span>  
 To Lysander signed Maude → <span class="name">com. by Do.</span>  
 To Incognita by 1810 → <span class="name">com. by Miss Flaxman</span>  
-An Answer to the Challenge of Timon, signed my last new name → <span class="name">Miss Flaxman</span>  
-A poetical reply Valiant to Timon and Lysander signed Camilla → <span class="name">Miss Porden</span>  
-Charade signed C.J.F. Answer Waterman → <span class="name">com. Miss Flaxman</span>  
-Enigma signed S.A.W. → <span class="name">com. Mr Vignoles</span>  
-To her I love — com. Miss Richardson
-The Love Fit, a Rhapsody — com. Mr Henry Thomson
+An Answer to the Challenge of Timon → <span class="name">Miss Flaxman</span>  
+A poetical reply Valiant to Timon and Lysander → <span class="name">Miss Porden</span> (Camilla)  
+Charade, Answer Waterman → <span class="name">com. Miss Flaxman</span> (C.J.F.)  
+Enigma → <span class="name">com. Mr Vignoles</span> (S.A.W.)  
+To her I love — <span class="name">com. Miss Richardson</span>
+The Love Fit, a Rhapsody — <span class="name">com. Mr Henry Thomson</span>
 Roscius, the Peer, and his Taylor → <span class="name">Do.</span>  
 
 <div class="bottom">
@@ -392,13 +392,13 @@ Farewell to Anna → <span class="name">Miss Flaxman</span>
 <span class="meeting">No. 26&emsp;(1810-06-19)</span>  
 </div>
 
-<span class="red"[[MISSING]]</span>  
+<span class="red">(Missing)</span>  
 
 <div class="bottom">
 <span class="meeting">No. 27&emsp;(1810-07-03)</span>  
 </div>
 
-<span class="red"[[MISSING]]</span>  
+<span class="red">(Missing)</span>  
 
 <div class="bottom">
 <span class="meeting">No. 28&emsp;(1810-07-14)</span>  
@@ -428,7 +428,7 @@ Farewell to Anna → <span class="name">Miss Flaxman</span>
 4. Vox Planetarum → <span class="name">Mrs Flaxman</span>  
 5. Acrostic, on the Death of Princess Amelia → <span class="name">Mr Vignoles</span>  
 6. Elegy, on the Death of Princess Amelia → <span class="name">Miss Porden</span>  
-7. Charade Answer Denham
+7. Charade Answer Denham →   
 8. Specimens of Elegant Writing → <span class="name">Mr Flaxman</span>  
 
 <div class="bottom">
@@ -462,7 +462,7 @@ Farewell to Anna → <span class="name">Miss Flaxman</span>
 <span class="meeting">No. 32&emsp;(1811-01-15)</span>  
 </div>
 
-1. Elegy, on the Death of 1810, a far-famed M.A.S. → <span class="name">Miss Porden</span>  
+1. Elegy, on the Death of 1810 → <span class="name">Miss Porden</span>  
 2. Lord Edward, a Ballad → <span class="name">Mr Flaxman</span>  
 3. Query, to an Ingenious and Experienced Friend → <span class="name">Miss Flaxman</span>  
 4. Reply → <span class="name">com. Miss Flaxman</span>  
@@ -483,7 +483,7 @@ Farewell to Anna → <span class="name">Miss Flaxman</span>
 4. Cupid Turned Shepherd, from Tasso’s Amynta → <span class="name">Mr Vignoles</span>  
 5. The Pious Painter, a Catholic Story → <span class="name">com. Mr Vignoles</span>  
 6. To the Author of the Stanzas to Memory → <span class="name">Miss Porden</span>  
-7. Translation from Alcaeus → <span class="name">Mr Flaxman original</span>  
+7. Translation from Alcaeus → <span class="name">Mr Flaxman</span>  
 8. Since Phosphorus was the Name of Yore → <span class="name">Miss Porden</span>  
 9. Grecian Anecdotes → <span class="name">com. Mrs Flaxman</span>  
 10. Ornaments of Dress → <span class="name">Miss Porden</span>  
@@ -501,7 +501,7 @@ Farewell to Anna → <span class="name">Miss Flaxman</span>
 5. To Miranda → <span class="name">Miss Porden</span>  
 6. Antique at Paris → <span class="name">com. Mrs F. Mellish</span>  
 7. Epigram on the Chinese Astronomers Ho and Hi → <span class="name">com. Mr Vignoles</span>  
-8. Valentine’s Day Anticipated → <span class="name">Miss Richardson L. I. F.</span>  
+8. Valentine’s Day Anticipated → <span class="name">Miss Richardson</span> (L.I.F.)  
 9. Prose and Verse, signed Jess Macfarland → <span class="name"> Mrs Staveley</span>  
 10. Charade, Answer: Housewife → <span class="name"> com. Miss Beslee</span>  
 11. The Restoration Cantos 1 and 2 → <span class="name">Miss Porden</span>  
@@ -526,8 +526,8 @@ Farewell to Anna → <span class="name">Miss Flaxman</span>
 14. To Miss M. D. → <span class="name">Miss Porden</span>  
 15. On a Young Lady’s Thanking the Author for a Valentine → <span class="name">Miss Porden</span>  
 16. The Linnets, an Elegy for Valentines Day → <span class="name">Miss Sanders</span>  
-17. The Fiery Element Personified → <span class="name">com. Mr Vignoles Mr Sheridan</span>  
-18. The Reply to “Say Love WhAt Master” → <span class="name">Miss Porden</span>  
+17. The Fiery Element Personified → <span class="name">com. Mr Vignoles & Mr Sheridan</span>  
+18. The Reply to “Say Love What Master” → <span class="name">Miss Porden</span>  
 19. The Sylphiad Canto 2nd → <span class="name">Mr Vignoles [removed]</span>  
 20. The Restoration Canto 3rd → <span class="name"> Miss Porden</span>  
 21. To Miss F. “Where anything abounds” → <span class="name"></span>  
@@ -572,7 +572,7 @@ Farewell to Anna → <span class="name">Miss Flaxman</span>
 1. Vox Musarum → <span class="name">Miss Sanders</span>  
 2. “When the Cause Has Been Heard” → <span class="name">Mr Vignoles</span>  
 3. The Proxies → <span class="name">Miss Flaxman</span>  
-4. Mercury to Mars → <span class="name"> Miss Richardson L.I.F.</span>  
+4. Mercury to Mars → <span class="name"> Miss Richardson</span> (L.I.F.)  
 5. To Celia → <span class="name">Miss Porden</span>  
 6. The Fall of Hercules → <span class="name">Miss Sanders</span>  
 7. The Three Suitors → <span class="name">Miss Porden</span>  
@@ -593,7 +593,7 @@ Farewell to Anna → <span class="name">Miss Flaxman</span>
 9. Letter to My Wife → <span class="name">com. Miss Beslee</span>  
 10. The Restoration Book 2d Canto 4th → <span class="name">Miss Porden [removed]</span>  
 11. Enigma to be Solved by the Ladies → <span class="name">com. Miss E. Richardson</span>  
-12. Do Not Swear at All, signed H
+12. Do Not Swear at All → (H.)
 
 <div class="bottom">
 <span class="meeting">No. 40&emsp;(1811-05-07)</span>  
@@ -602,14 +602,14 @@ Farewell to Anna → <span class="name">Miss Flaxman</span>
 1. To May → <span class="name">Miss Porden</span>  
 2. Description of a River → <span class="name">com. Mrs Flaxman</span>  
 3. Mira’s Despair → <span class="name">com. Mr Vignoles</span>  
-4. Epitaph on Douglas Duke of Hamilton → <span class="name">Mr Jekyll com. Mrs Staveley</span>  
+4. Epitaph on Douglas Duke of Hamilton → Mr Jekyll <span class="name">com. Mrs Staveley</span>  
 5. Graeme of Balgowan The Hero of Barrosa → <span class="name">com. Mrs Staveley</span>  
 6. Most Haste, Worst Speed → <span class="name">Miss Porden</span>  
 7. The Dream → <span class="name">Miss Flaxman</span>  
 8. “The Day Draws Near” → <span class="name">Mrs Flaxman</span>  
 9. The Sylphiad Canto 3d → <span class="name">Mr Vignoles</span>  
 10. Translation from the Greek → <span class="name">Miss Porden</span>  
-11. “Believe Me Love” → <span class="name">com. Miss Richardson L.I.F.</span>  
+11. “Believe Me Love” → <span class="name">com. Miss Richardson</span> (L.I.F.)  
 
 <div class="bottom">
 <span class="meeting">No. 41&emsp;(1811-05-21)</span>  
@@ -618,9 +618,9 @@ Farewell to Anna → <span class="name">Miss Flaxman</span>
 1. To Moth, from Stella → <span class="name">Miss Porden</span>  
 2. To Stella, from Moth → <span class="name">Miss Flaxman</span>  
 3. Effusions on My Husband’s Birthday → <span class="name">com. Miss F. Richardson</span>  
-4. Charade, Answer Farewell → <span class="name">Lord Palmerston, com. Mrs. S</span>  
+4. Charade, Answer Farewell → Lord Palmerston <span class="name">com. Mrs. S</span>  
 5. “If Hope Is to Gild Future Days” → <span class="name">Miss Richardson</span>  
-6. On the 1st May, Lord Wellington’s Birthday → <span class="name">com. Mrs Flaxman Mr Hayley</span>  
+6. On the 1st May, Lord Wellington’s Birthday → <span class="name">com. Mrs Flaxman & Mr Hayley</span>  
 7. A Free Translation of One of Buondelmonte’s Sonnets → <span class="name">Mrs Flaxman</span>  
 8. Muo Osterion → <span class="name"> com. Mr Vignoles</span>  
 9. The Restoration Book 3d Cantos 1st and 2d → <span class="name">Miss Porden</span>  
