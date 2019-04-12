@@ -9,12 +9,12 @@ visible: true
 ##### No. 1 (1808-12-27)
   
 On the Study of Ancient Architecture &amp;c. → <span class="name">com. Mr Flaxman</span>  
-To Maria → 
-On the Conscription of the Student of Gottingen → Miss Porden
-Love and the Nymphs → Mr Kilburn (Hassan)
-An Apology for a Valentine → Miss Flaxman
-Anacreontic Valentine → Mr Bond
-Goodby &amp; how d’ye do → com. Mr. Flaxman
+To Maria →  
+On the Conscription of the Student of Gottingen → Miss Porden  
+Love and the Nymphs → Mr Kilburn (Hassan)  
+An Apology for a Valentine → Miss Flaxman  
+Anacreontic Valentine → Mr Bond  
+Goodby &amp; how d’ye do → com. Mr. Flaxman  
   
 No. 2  
   
