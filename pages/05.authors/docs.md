@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-#### No. 1 (1808-12-27)
+##### No. 1 (1808-12-27)
   
 On the Study of Ancient Architecture &amp;c. → <span class="red">com. Mr Flaxman</span>  
 To Maria —   
