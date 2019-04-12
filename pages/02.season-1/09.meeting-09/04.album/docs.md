@@ -1,5 +1,5 @@
 ---
-title: 'Young Lady’s Album'
+title: 'Written in a Young Lady’s Album'
 taxonomy:
     category:
         - docs
