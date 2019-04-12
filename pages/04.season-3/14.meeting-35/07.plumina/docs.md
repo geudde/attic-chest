@@ -8,7 +8,7 @@ visible: true
 
 <div class="author">Communicated by Miss Denman</div>
 
-### To Plumina, or the Mistaken Fair One  
+##### To Plumina, or the Mistaken Fair One  
   
 In Plato’s time while sages pour  
 The sacred philosophic lore,  
