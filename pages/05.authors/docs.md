@@ -29,7 +29,7 @@ Charades by Person → <span class="name">Professor Person</span>
 Translation of Part of the 15th Satire of Juvenal → <span class="name">Mr Bond</span>  
 Sonnets → <span class="name">Mr. Kilburn</span> (Hassan)  
 The Birth of Ellen → (Comfit)  
-The Muses Vagaries → <span class="name">unknown</span> (Fitz Pieria)  
+The Muses Vagaries → (Fitz Pieria)   
 “And a’ that” → <span class="name">Miss Flaxman</span>  
 
 <div class="bottom">
@@ -40,7 +40,7 @@ Sonnet to a Nightingale → <span class="name">C. Sanders</span>
 To St Andrew → A. Bower. 1792 <span class="name">com. Mr. Flaxman</span>  
 On hearing a Lady Sing → <span class="name">Mr Joseph</span> (Timanthes)  
 To Sir John Barrington on his Birthday → <span class="name">Mr Porden</span>  
-The Muses Vagaries continu’d → <span class="name">unknown</span>  
+The Muses Vagaries continu’d →   
 A Riddle → <span class="name">com. Mr. Flaxman</span>  
 
 <div class="bottom">
