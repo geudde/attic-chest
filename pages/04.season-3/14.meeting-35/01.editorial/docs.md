@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-Mercurius presses on his suit with such earnestness, as shows him to be a God of business, and who knows that expedition is the soul of it and to satisfy his impatience, we intended to have proposed the discussion for this Evening, but we are concerned to find, and doubtless he will be much more so, that his leading Counsel has not excepted his briefs, from what cause we are ignorant. However we can scarcely imagine that a God of so much Cunning should have neglected to send the proper fee to a pleader of so much eminence.
+Mercurius presses on his suit with such earnestness, as shows him to be a God of business, and who knows that expedition is the soul of it and to satisfy his impatience, we intended to have proposed the discussion for this Evening, but we are concerned to find, and doubtless he will be much more so, that his leading Counsel has not excepted his briefs, from what cause we are ignorant. However we can scarcely imagine that a God of so much Cunning should have neglected to send the proper fee to a _pleader_ of so much eminence.
 
 Be this as it may the cause is necessarily deferred and Mercurius, if he cannot change the sentiment of his chosen advocate, must either appoint another, plead his own cause, or decline the contest. We would recommend the *middle* course, that is, to make his personal appearance.
 
