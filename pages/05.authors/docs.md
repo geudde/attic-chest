@@ -504,7 +504,7 @@ Epigram on the Chinese Astronomers Ho and Hi → <span class="name">com. Mr Vign
 Valentine’s Day Anticipated → <span class="name">Miss Richardson</span> (L.I.F.)  
 Prose and Verse, signed Jess Macfarland → <span class="name"> Mrs Staveley</span>  
 Charade, Answer: Housewife → <span class="name"> com. Miss Beslee</span>  
-The Restoration Cantos 1 and 2 → <span class="name">Miss Porden</span>  
+The Restoration Cantos 1 and 2 → <span class="name">Miss Porden</span> <span class="red">(withdrawn)</span>   
 
 <div class="bottom">
 <span class="meeting">No. 35&emsp;(1811-02-26)</span>  
