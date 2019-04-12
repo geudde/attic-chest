@@ -24,7 +24,7 @@ Goodby &amp; how d’ye do → <span class="name">com. Mr. Flaxman</span>
 
 Nor let soft slumber &amp;c →  
 Impromptu on a man of Genius → <span class="name">Mr Parkinson</span>  
-On Professor Person → Do.   
+On Professor Person → <span class="name">Do.</span>   
 Charades by Person → <span class="name">Professor Person</span>  
 Translation of Part of the 15th Satire of Juvenal → <span class="name">Mr Bond</span>  
 Sonnets → <span class="name">Mr. Kilburn</span> (Hassan)  
