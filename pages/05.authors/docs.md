@@ -22,14 +22,14 @@ Goodby &amp; how d’ye do → <span class="name">com. Mr. Flaxman</span>
 <span class="meeting">No. 2&emsp;(1809-01-10)</span>  
 </div>
 
-Nor let soft slumber &amp;c → 
-Impromptu on a man of Genius who suddenly became bald → 
+Nor let soft slumber &amp;c →  
+Impromptu on a man of Genius who suddenly became bald →  
 On Professor Person → <span class="name">Mr Parkinson</span>  
 Charades by Person → <span class="name">Professor Person</span>  
 Translation of Part of the 15th Satire of Juvenal → <span class="name">Mr Bond</span>  
 Sonnets → <span class="name">Mr. Kilburn</span> (Hassan)  
 The Birth of Ellen → (Comfit)  
-Apollo in the dump or the Muses Vagaries → <span class="name">unknown</span> (Fitz Pieria)
+Apollo in the dump or the Muses Vagaries → <span class="name">unknown</span> (Fitz Pieria)  
 “And a’ that” → <span class="name">Miss Flaxman</span>  
 
 <div class="bottom">
@@ -38,7 +38,7 @@ Apollo in the dump or the Muses Vagaries → <span class="name">unknown</span> (
 
 Sonnet to a Nightingale → <span class="name">C. Sanders</span>  
 To St Andrew, written in the Cathedral Church of Wells → A. Bower. 1792 <span class="name">com. Mr. Flaxman</span>  
-On hearing a Lady sing with taste and feeling but with a feeble voice → <span class="name">Mr Joseph (Timanthes)</span>  
+On hearing a Lady sing with taste and feeling but with a feeble voice → <span class="name">Mr Joseph</span> (Timanthes)  
 To Sir John Barrington on his Birthday → <span class="name">Mr Porden</span>  
 The Muses Vagaries continu’d → <span class="name">unknown</span>  
 A Riddle → <span class="name">com. Mr. Flaxman</span>  
@@ -52,7 +52,7 @@ A Riddle → <span class="name">com. Mr. Flaxman</span>
 On Contemplating a Splendid Pile of Ruins → <span class="name">com. Mr. Flaxman</span>  
 The Three Kisses → <span class="name">Mr Joseph</span>  
 The Violet (Violetta) → 
-A Description of Monkey Island (Missing) → <span class="name">Mr Porden</span>  
+A Description of Monkey Island → <span class="name">Mr Porden</span> <span class="red"(Missing)</span>  
 The Queen Anne St. Ghost → <span class="name">Mr Parkinson</span>  
 
 <div class="bottom">
@@ -92,7 +92,7 @@ Valentine to Ictinus → <span class="name">Miss Porden</span>
   &#12291; French → <span class="name">Miss Porden</span> <span class="red">(Missing)</span>  
   &#12291; “The lofty Lily” → <span class="name"></span>  
   &#12291; “Love is a burthen” → <span class="name"></span>  
-  &#12291; “Convinced a Married” → <span class="name">Communicated by Miss M’donald</span>  
+  &#12291; “Convinced a Married” → <span class="name">com. Miss M’donald</span>  
   &#12291; “And canst thou say” → <span class="name">&nbsp;</span>  
   &#12291; “Awake sweet girl awake" → <span class="name">&nbsp;</span>  
 Bellamira Barnacles → <span class="name">D. Grant</span>  
@@ -115,7 +115,7 @@ An Author’s address to his first work → <span class="name">Mr Parkinson</spa
 To a Pianoforte → <span class="name">&nbsp;</span>  
 Anacreon Ode 23 → <span class="name">Mrs Kay</span>  
 My choice → 
-The Rose → <span class="name">Mr Kilburn</span> (Hassan)
+The Rose → <span class="name">Mr Kilburn</span> (Hassan)  
 The Bee from Anacreon → <span class="name">Mr Bond</span>  
 Constellation No. 2 → <span class="name">Miss Porden</span>  
 
@@ -133,13 +133,13 @@ The Lamentation of Pegasus → <span class="name">Miss Porden</span>
 The Chest of Eleanora → <span class="name">Miss Parkinson</span>  
 The Fete de la Rose or The Dramatic Flowers from Roselia → <span class="name">Mrs. Hoole com. by Mrs. Kay</span> <span class="red">(Missing)</span>  
 Constellation No. 3 → <span class="name">Miss Porden</span>  
-A Riddle on Buonaparte (Missing) → <span class="name">Newspaper</span>  
+A Riddle on Buonaparte → Newspaper <span class="red">Missing</span>  
 
 <div class="bottom">
 <span class="meeting">No. 9&emsp;(1809-05-02)</span>  
 </div>
 
-The Dove from Anacreon (Missing) → <span class="name">Mr Porden</span>  
+The Dove from Anacreon → <span class="name">Mr Porden</span>  <span class="red">Missing</span>   
 Anacreon Ode 29 → <span class="name">Mr Bond</span>  
 The Rose a Coquette → <span class="name">Miss Flaxman</span>  
 On a Young Lady who spoilt a fine Complexion by late hours → <span class="name">Mr Joseph</span>  
@@ -172,19 +172,19 @@ Address to the Clouds on St. Valentine’s Day → <span class="name">Miss Porde
 Anacreon Ode 1 → <span class="name">Mr Parkinson</span>  
 Another  &#12291; → <span class="name">Mr Bond</span>  
 Another  &#12291; → <span class="name">Mr Porden</span>  
-Query in Natural History (Missing) → <span class="name">Mr Parkinson</span>  
-Answer (Missing) → <span class="name">Mr Porden</span>  
+Query in Natural History → <span class="name">Mr Parkinson</span> <span class="red">Missing</span>    
+Answer → <span class="name">Mr Porden</span> <span class="red">Missing</span>   
 
 <div class="bottom">
 <span class="meeting">No. 12&emsp;(1809-07-14)</span>  
 </div>
 
 Burlesque Elegy → <span class="name">Miss Porden</span>  
-Sonnet (Sophis) → <span class="name">Miss Porden</span>  
+Sonnet → <span class="name">Miss Porden</span> (Sophis)  
 Flattery Rejected → <span class="name">Mr Joseph</span>  
 The Floral Senate → <span class="name">Miss Porden</span>  
 Sonnet to Roberto → <span class="name">Miss Porden</span>  
-A Fragment from the Greek (Missing) → <span class="name">Mr Flaxman</span>  
+A Fragment from the Greek → <span class="name">Mr Flaxman</span> <span class="red">Missing</span>   
 Farewell Address from the Attic Chest → <span class="name">Miss Porden</span>  
 
 <div class="bottom">
@@ -201,7 +201,7 @@ To Sir John Barrington → <span class="name">Mr Porden</span>
 Epigram → <span class="name">R. Westall</span>  
 Anagrammatical → <span class="name">Unknown</span>  
 Charade Answer Malice → <span class="name">Mr Stockdale</span>  
-Cupid as Landscape Painter → <span class="name">com. Miss Flaxman [H.C.R.]</span>  
+Cupid as Landscape Painter → <span class="name">com. Miss Flaxman</span> (H.C.R.)  
 
 
 <div class="bottom">
@@ -215,7 +215,7 @@ Riddle “Four people sat down at a Tavern to play” → <span class="name">unk
 Dulce Domum. Signed Perigrine → <span class="name">Miss Flaxman</span>  
 To a Lost Friend → <span class="name">Miss Ludlow com. by Miss Richardson</span>  
 Anacreontic. Signed Anacreonides → <span class="name">Mr Flaxman</span>  
-Monsieur L’Abbé de Grenthe’s Academy → <span class="name">Communicated by Sir John Barrington</span>  
+Monsieur L’Abbé de Grenthe’s Academy → <span class="name">com. Sir John Barrington</span>  
 Verses spoken at his Ball → <span class="name">Do.</span>  
 The Tinder Box. Signed Philo-Fillagree → <span class="name">Mr Flaxman</span>  
 
@@ -234,7 +234,7 @@ Answer to Do. by the Genius of the Attic Chest → <span class="name">Mr Porden<
 Do. by Brownee to Lady Charlotte Durham → <span class="name">Do.</span>  
 The Wise men of Gotham → <span class="name">Do.</span>  
 [Charade] A Riddle, answered a Kiss → <span class="name">unknown</span>  
-Cupid as Landscape Painter a free translation on verse. Signed B. R. → <span class="name">Mr Vignoles</span>  
+Cupid as Landscape Painter a free translation on verse → <span class="name">Mr Vignoles</span> (B.R.)  
 
 <div class="bottom">
 <span class="meeting">No. 16&emsp;(1810-01-30)</span>  
