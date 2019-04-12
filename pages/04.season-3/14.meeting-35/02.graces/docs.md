@@ -1,5 +1,6 @@
 ---
 title: 'The Graces'
+media_order: muses.jpg
 taxonomy:
     category:
         - docs
@@ -9,6 +10,8 @@ visible: true
 <div class="author">Mr Bond</div>
 
 ##### Written for Valentine’s Day and addressed to Thalia, Aglaia, and Euphrosyne  
+
+![Muses](muses.jpg)
 
 Three Graces met my dazzled Sight  
 &emsp;How can I chuse a Valentine,  
