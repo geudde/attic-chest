@@ -13,8 +13,8 @@ In favour of Hermes, he raged and he stormed
 With anger he reddened as when he foreshows  
 To terror struck mortals fresh combats and woes  
 And seizing his helmet, his spear and his shield  
-Challenged [He challenged] the Gods all at once to the field  
-He [And] swore, that to Hermes he never would yield.  
+<span data-tippy="He challenged" class="green">Challenged</span> the Gods all at once to the field  
+<span data-tippy="And" class="green">He</span> swore, that to Hermes he never would yield.  
   
 But Pallas stept forward, and counselled her brother  
 For the present at least his fierce anger to smother,  
@@ -28,7 +28,7 @@ His rights to preserve, and yet keep in Jove’s favour
 “And since with your Laurel my Olive they blend  
 Your suit with the members I’m bound to befriend  
 And propose that we straight convene each Constellation  
-To hold in the Evening a [close] consultation.”   
+To hold in the Evening a <span data-tippy="close consultation" class="green">consultation</span>.”   
   
 #### Vox Stellarum  
   
@@ -113,11 +113,11 @@ For Mars also voted Cassiope fair
 Who dared with the Nereids her charms to compare,  
 And who now sits forever enthroned in her chair,  
 And Perseus and she whom his prowess did save  
-When condemned for her mother’s [another’s] vain pride to the grave;  
+When condemned for <span data-tippy="another’s" class="green">her mother’s</span> vain pride to the grave;  
 For Mercury voted the Charioteer  
 The Lion and Bootes, for Mars did appear  
 For Cyllenius the Crown, for Mars Hercules rose  
-Nor his plea did the Lyre of Apollo [the Muses] oppose,  
+Nor his plea did the Lyre of <span data-tippy="the Muses" class="green">Apollo</span> oppose,  
 And next Cygnus her wishes began to disclose  
 ’Tis my pleasing employment from Lethe’s black stream  
 To rescue each Poet, or Orator’s name,”  
