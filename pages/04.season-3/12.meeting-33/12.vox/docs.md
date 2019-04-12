@@ -141,7 +141,7 @@ To conceal from his hearers his bosom’s deep guile:
 “It grieves me,” he said, “of this contest to hear  
 And I dread lest at length it disorder the sphere,  
 For when two such great Gods for dominion contend  
-It is hard to foresee [find out] where their quarrel may end.  
+It is hard to <span data-tippy="find out" class="green">forsee</span>where their quarrel may end.  
 You are all well aware of the disinclination  
 I have ever expressed against all innovation  
 Yet such evident good on this change must attend  
@@ -152,7 +152,7 @@ To its soft flowing waters their voices unite,
 And sing of Love’s pains or of rural delight  
 The Seasons that change, or the Stars as they move,  
 Or raise their loud Hymns, to omnipotent Jove;  
-But they fly when the Trumpet’s shrill [loud] clangour alarms  
+But they fly when the Trumpet’s <span data-tippy="loud" class="green">shrill</span> clangour alarms  
 Nor mingle their songs with the clashing of Arms.  
 The City laid waste, or the harvest destroyed,  
 On which for support its whole people relied,  
@@ -161,7 +161,7 @@ May draw from the Muse as she passes a tear;
 But she hastens to realms where no discord is found,  
 And where Plenty, and Peace, shed their blessing around  
 Hence with Mars it is plain, they can never unite,  
-And the readings [Attics] not to be held on his Night.”  
+And the <span data-tippy="Attics" class="green">readings</span> ought not to be held on his Night.”  
   
 “But Cyllenius who if dire Tisiphone rose,  
 With his Magical Rod, could the Fury compose,  
@@ -177,7 +177,7 @@ Nay the Children of Chiron its sway have confest
 And Painters, and Soldiers, have honoured the Chest  
 Then since so many talents in Hermes combine  
 And Jove for the Night does all contest decline  
-To Hermes [Cyllenius] let Mars his dominion resign.  
+To <span data-tippy="Cyllenius" class="green">Hermes</span> let Mars his dominion resign.  
 Thus artful he spoke, and the arrow replied,  
 ’Tis in vain you endeavour your cunning to hide,  
 Shall he, who so lately was placed in the sphere,  
@@ -191,7 +191,7 @@ Or perhaps, we the depth of his art should admire
 It is true the fair Nine, fly from Anarchy far,  
 Nor blow the shrill Trumpet, nor mingle in War,  
 But oft when in Battle two Armies unite,  
-They [gaze] on the Field from a neighbouring height.”  
+They gaze on the Field from a neighbouring height.”  
   
 “And if some brave Patriot attention should claim  
 Their songs give his actions forever to Fame.  
@@ -203,13 +203,13 @@ Such names to preserve, is their noblest employ
 And I therefore to Mars, give my suffrage with joy.”  
   
 He spoke and sly Renard endeavoured in vain  
-[Permission once more to address them again]  
-To make a new speech as he said to explain  
+ 
+<span data-tippy="Permission once more to address them again" class="green">To make a new speech as he said to explain</span>  
 But to order he quickly is called by the Fly  
 And order, resounds from all parts of the sky  
 Next the Eagle began, and in Mercury’s favour  
 (As expected by all) used his utmost endeavour,  
-For of old, when fair Venus [Astarte] had smitten the heart,  
+For of old, when <span data-tippy="Astarte" class="green">fair Venus</span> had smitten the heart,  
 Of the wily Cyllenius, he tried all his art,  
 For a smile or a look, but with little success  
 Till the Eagle with pity, beheld his distress  
@@ -229,8 +229,8 @@ But Pegasus rose, and declared as the friend
 Of the Muses, he must to their interests attend,  
 That the whole tribe of Poets he feared they would find  
 To pilfering by Nature, were too much inclined.  
-And therefore, should Hermes be placed at their head [?]  
-From their thefts, and their tricks, we sad mischief might d[?]  
+And therefore, should Hermes be placed at their h<span data-tippy="missing" class="green">[...]</span>   
+From their thefts, and their tricks, we sad mischief might d<span data-tippy="missing" class="green">[...]</span>   
 The Fly, once the rival of Phoebe the bright  
 For the love of Endymion, that Goddess to spite  
 Hearing she for Mercurius the first had proposed  
@@ -246,7 +246,7 @@ The daughters of Atlas, the Hyades named
 With their sister the Pleiads for chastity famed  
 Who the shipwrecked accuse, as the cause of their woes  
 With their votes, the protector of commerce oppose  
-The Brethren to whom beauteous Leda [Clytemnestra] gave birth  
+The Brethren to whom <span data-tippy="Clytemnestra" class="green">beauteous Leda</span> gave birth  
 For fraternal affection renowned upon Earth.  
 Old Ocean’s dominion from Pirates who freed  
 With their voices in favour of Hermes decreed  
@@ -279,7 +279,7 @@ Poniatowski’s famed Bull for him also appeared.
 The Scorpion whose sting famed Orion destroyed  
 By jealous Diana against him employed  
 When enraged that his love bright Aurora should share  
-Made the cause of insidious Mercurius [Hermes] his care  
+Made the cause of insidious <span data-tippy="Hermes" class="green">Mercurius</span> his care  
 Great Chiron the offspring of Saturn the Old  
 Who to Peleus brave son did his knowledge unfold  
 Who taught him alike the proud Courser to rein  
@@ -319,7 +319,7 @@ When to Colchis he sailed to recover the Fleece.
 
   
 The Wolf, and the Cup to Apollo devoted,  
-With the Peacock and Swordfish for Mars also voted. [^3]  
+With the Peacock and Swordfish for Mars also voted.[^3]  
 Then Pallas the votes having counted, declared  
 In favour of Mars, that the numbers appeared  
 And proposed that each bright Constellation should move  
@@ -332,12 +332,12 @@ While Mortals affrighted, the concourse to view,
 Each moment expect some dread change to ensue.  
 Great Herschel and Maskelyn, worthies renowned  
 Thought their schemes of eternal duration unsound  
-[^4] Johanna whose Oracles thousands can sway,  
+Johanna whose Oracles thousands can sway,[^4]   
 Hence *pre*dicted that Gaul should Napoleon obey  
 The Yorkshireman too, in Astrology skilled  
 Deemed in this, that he saw his predictions fulfilled  
 That the Planets and Stars in confusion were hurled  
-[^5] And expected each Moment, the end of the World.  
+And expected each Moment, the end of the World.[^5]   
 E’en Moore, the strange sight in astonishment view’d  
 And *feared that to England it boded no good!*  
   
@@ -347,7 +347,7 @@ Then suppliant Astrea their grievances stated,
 The forbearance of Mars, how the Synod debated,  
 And their fiat, with suitable comments related.  
 The loudly implored him brave Mars to protect  
-Till the members [Allies] themselves, should another elect.  
+Till the <span data-tippy="allies" class="green">members</span> themselves, should another elect.  
   
 Jove replied with a smile, that he Hermes had sent  
 Since the Planets in council had given consent,  
@@ -359,7 +359,7 @@ The claims of The Rivals unbiassed to hear,
 Who by person or proxy, that day should appear  
 When each circumstance known, they should freely decide  
 And th’opponents their judgement were bound to abide.  
-**He nodded!** To Jove [Hermes] commission was given,  
+**He nodded!** To <span data-tippy="Hermes" class="green">Jove</span> commission was given,  
 To make known upon Earth, the decision of Heaven.  
   
 E.N.R.  
