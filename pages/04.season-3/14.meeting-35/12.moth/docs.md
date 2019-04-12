@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-<div class="author">Mrs Flaxman & Miss Porden</div>
+<div class="author">Mrs Flaxman &amp; Miss Porden</div>
 
 Oh that my dearest Moth could know  
 &emsp;The bounds of Stella’s love  
