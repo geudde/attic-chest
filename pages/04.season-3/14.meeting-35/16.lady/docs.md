@@ -1,5 +1,5 @@
 ---
-title: 'On a Young Lady Thanking the Author'
+title: 'On a Young Lady'
 taxonomy:
     category:
         - docs
