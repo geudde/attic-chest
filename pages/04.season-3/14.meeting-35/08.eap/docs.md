@@ -8,6 +8,5 @@ visible: true
 
 <div class="author">Communicated by Miss Denman</div>
 
-Miss Porden
-
+Miss Porden  
 of Moth’s Packet  — 
