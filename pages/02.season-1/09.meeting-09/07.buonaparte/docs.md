@@ -1,5 +1,5 @@
 ---
-title: Buonaparte
+title: 'Answer to Riddle on Buonaparte'
 taxonomy:
     category:
         - docs
