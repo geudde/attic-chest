@@ -8,8 +8,7 @@ visible: true
 
 <div class="author">com. Mrs F. Mellish</div>
 
-### The Antiques at Paris  
-### from Schiller  
+> From Schiller  
 
 What the arts of Greece created  
 Vainly has the Gaul translated  
