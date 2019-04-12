@@ -4,8 +4,6 @@ taxonomy:
     category: docs
 ---
 
-### Chapter Number
-
 # 12 February 1811
 
 1. [Editorial](editorial)
