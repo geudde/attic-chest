@@ -1,5 +1,6 @@
 ---
 title: 'The Pencil and the Pen'
+media_order: pen.jpg
 taxonomy:
     category:
         - docs
@@ -7,6 +8,8 @@ visible: true
 ---
 
 <div class="author">Communicated by Miss Denman</div>
+
+![Pen](pen.jpg)
 
 “Formed to persuade at distance e’en controul,  
 Or speed soft intercourse from soul to soul,  
