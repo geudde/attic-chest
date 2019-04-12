@@ -8,7 +8,7 @@ visible: true
 
 ##### No. 1 (1808-12-27)
   
-On the Study of Ancient Architecture &amp;c. → <span class="author">com. Mr Flaxman</span>  
+On the Study of Ancient Architecture &amp;c. → <span class="name">com. Mr Flaxman</span>  
 To Maria → 
 On the Conscription of the Student of Gottingen → Miss Porden
 Love and the Nymphs → Mr Kilburn (Hassan)
