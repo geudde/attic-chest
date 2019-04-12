@@ -6,7 +6,9 @@ taxonomy:
 visible: true
 ---
 
+<div class="border-bottom">
 <span class="meeting">No. 1&emsp;(1808-12-27)</span>
+</div>
 
 On the Study of Ancient Architecture &amp;c. → <span class="name">com. Mr Flaxman</span>  
 To Maria →  
