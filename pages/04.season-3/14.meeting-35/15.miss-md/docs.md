@@ -8,7 +8,6 @@ visible: true
 
 <div class="author">Miss Porden</div>
 
-  
 I know that Sages gravely say  
 &emsp;Love quenches reason’s fire  
 That he is blind, and ill-matched hearts  
