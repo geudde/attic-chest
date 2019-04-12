@@ -13,7 +13,7 @@ visible: true
 On the Study of Ancient Architecture &amp;c. → <span class="name">com. Mr Flaxman</span>  
 To Maria →  
 On the Conscription of the Student of Gottingen → <span class="name">Miss Porden</span>  
-Love and the Nymphs → <span class="name">Mr Kilburn (Hassan)</span>  
+Love and the Nymphs → <span class="name">Mr Kilburn</span> (Hassan)   
 An Apology for a Valentine → <span class="name">Miss Flaxman</span>  
 Anacreontic Valentine → <span class="name">Mr Bond</span>  
 Goodby &amp; how d’ye do → <span class="name">com. Mr. Flaxman</span>
