@@ -11,7 +11,7 @@ visible: true
 
 ##### Written for Valentine’s Day and addressed to Thalia, Aglaia, and Euphrosyne  
 
-![Muses](muses.jpg)
+![Muses](muses.jpg?resize=400)
 
 Three Graces met my dazzled Sight  
 &emsp;How can I chuse a Valentine,  
