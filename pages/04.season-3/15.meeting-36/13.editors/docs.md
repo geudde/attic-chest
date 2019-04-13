@@ -37,7 +37,7 @@ The *tardy* Foot is *mine*.
   
 Oh may it soon resume its Force,  
 And bear me to each Friend!  
-TO this kind Circle its first Course  
+To this kind Circle its first Course  
 Will naturally bend.  
   
 Sarah Richardson
