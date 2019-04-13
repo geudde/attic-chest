@@ -21,6 +21,6 @@ This will quash disputation and save future trouble,
 Thus all Bickerings and Jawings, and discords will cease,  
 And each Muse meet her Sister, and Votary in Peace.  
   
-[^1]: Glyphic Initial, Anagram, or Cypher, form’d of two or more letters of their usual Poetical Signature, as thus:  
-<span style="font-size: 3em;">⊗</span>
+[^1]: Glyphic Initial, Anagram, or Cypher, form’d of two or more letters of their usual Poetical Signature, as thus  
+<span style="font-size: 2.5em;">⊗</span>
   
