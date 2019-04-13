@@ -1,5 +1,5 @@
 ---
-title: 'Acrostic to Eliza'
+title: Acrostic
 taxonomy:
     category:
         - docs
