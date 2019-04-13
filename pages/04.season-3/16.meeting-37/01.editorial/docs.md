@@ -12,4 +12,4 @@ We shall read this Evening, the Protestation, 2 Sonnets to the Swallows of 1809,
 
 The Cambrian advertisement we propose as a model to those who may have the misfortune to lose a Cow.
 
-The Restoration has advanced nother Canto and Albruno has marshalled his forces, but we are still in the dark as to the scene of action and the plot, that we hope will be hereafter unravelled.
+The Restoration has advanced another Canto and Albruno has marshalled his forces, but we are still in the dark as to the scene of action and the plot, that we hope will be hereafter unravelled.
