@@ -7,9 +7,9 @@ taxonomy:
 # 9 April 1811
 
 1. [Editorial](editorial)
-2. []()
-3. []()
-4. []()
+2. [Vox Musarum](vox)
+3. [When the Cause Has Been Heard](cause)
+4. [The Proxies](proxies)
 5. []()
 6. []()
 7. []()
