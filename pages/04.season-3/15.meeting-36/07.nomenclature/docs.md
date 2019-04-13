@@ -36,7 +36,7 @@ To something requisite in a Pastoral Life, add what is incompatible with it.
 
 ##### 7
 
-My first is a vegetable to be [???] with both at Bed and Board, essential to Mariners, and a Servant of the Muses.
+My first is a vegetable to be meet with both at Bed and Board, essential to Mariners, and a Servant of the Muses.
 
 Add to this, the most wonderful compound of heterogenous Qualities that ever were conglomerated in one Substantive.
 
