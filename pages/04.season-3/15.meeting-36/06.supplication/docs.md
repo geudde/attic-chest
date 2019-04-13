@@ -8,9 +8,9 @@ visible: true
 
 <div class="author">Miss Flaxman</div>
 
-##### The humble Supplication of Timothy Couplet Esqre   
-From his Temple of the Winds   
-January 1st 1811  
+##### The humble Supplication of Timothy Couplet Esq<sup>re</sup>   
+##### From his Temple of the Winds   
+##### January 1st 1811  
   
 “Oh for a Muse of Fire!” Tim Couplet cries,  
 Round his bleak Attic, while he turns his eyes:  
