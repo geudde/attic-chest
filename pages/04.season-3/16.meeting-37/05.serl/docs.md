@@ -1,5 +1,5 @@
 ---
-title: 'To the Author of the Acrostic'
+title: 'To Serl Ach'
 taxonomy:
     category:
         - docs
@@ -8,7 +8,7 @@ visible: true
 
 <div class="author">Miss Porden</div>
 
-##### To Serl Ach, Author of the Acrostic, and other Jeux d'Esprit, to Eliza
+##### To the Author of the Acrostic, and other Jeux d'Esprit, to Eliza
 
 Oh whence that Song, that tender dulcet strain  
 &emsp;That seemed to breathe Affection’s purest *fire*,  
