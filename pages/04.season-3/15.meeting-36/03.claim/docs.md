@@ -36,4 +36,4 @@ And he still hopes to share
 The smiles of the Fair  
 And the welcome bestowed on the *Guest*.  
   
-O
+&#9675;
