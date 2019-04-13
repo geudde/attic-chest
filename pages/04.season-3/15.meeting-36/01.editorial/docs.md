@@ -19,23 +19,3 @@ We are much delighted with the friendly address of one of our friends, who had b
 The Address to Poetry is so eminently beautiful we may safely trust it to make its own way with our hearers, confident that no bosom that has the least warmth of poetic feeling, can hear it without delight. Its richness and variety reminds us of the music of Jackson. It is exuberant without being redundant, and extended without being tedious. We should rejoice to see the Author in our Society, and to be frequently honoured with his favours.
 
 We are sorry we cannot present our readers with a continuation of the Sylphiad but we have been favoured with the fourth Canto of the Restoration which terminated the first Book, and also the first Canto of the 2d Book. The plot thickens, the interest increases, and we feel impatient to see how the Author will extricate his Knights and Ladies from their troubles when the Demons of all the Elements are against them.
-
----
-
-**Apollo** by Great Jove’s Permission, King of each Poet and Musician, To Clio and Melpomene, Thalia and eke Euterpe,
-
-Calliope and Polyhymnia, Terpsichore and Urania, and also unto Erato, John Doe and also Richard Roe
-
-**Send Greeting**. We command you all, that upon no account you fail, but setting aside all Excuses, ye the ’foresaid subpoena’d Muses,
-
-Before the Judge of the Attic Chest, The Judge that’s clad in sable vest, In Propria Persona appear, And take good heed you be here, On
-
-Tuesday March the 26th to come, By seven in the afternoon, And tell the Truth of what you know, Believe have heard and so and so
-
-Upon a certain Cause that’s fixt, For hearing that Day ’pending twixt **Mars** the great Bully of the Sky, Plaintiff, and cunning **Mercury**,
-
-Defendant, in a certain Plea of dire Assault and Battery, For th’Attic Jury on that Day, ’Twixt foresaid Persons on said Plea
-
-And that you do not dare omit, To do as order’d by this writ, on Pain of losing half your wit:
-
-Witness the said Judge of the Chest, our trusty Subject and our best, This First of March and of our Reign, Two Thousand nine.
