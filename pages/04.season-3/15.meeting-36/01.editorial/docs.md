@@ -20,6 +20,8 @@ The Address to Poetry is so eminently beautiful we may safely trust it to make i
 
 We are sorry we cannot present our readers with a continuation of the Sylphiad but we have been favoured with the fourth Canto of the Restoration which terminated the first Book, and also the first Canto of the 2d Book. The plot thickens, the interest increases, and we feel impatient to see how the Author will extricate his Knights and Ladies from their troubles when the Demons of all the Elements are against them.
 
+---
+
 **Apollo** by Great Jove’s Permission, King of each Poet and Musician, To Clio and Melpomene, Thalia and eke Euterpe,
 
 Calliope and Polyhymnia, Terpsichore and Urania, and also unto Erato, John Doe and also Richard Roe
