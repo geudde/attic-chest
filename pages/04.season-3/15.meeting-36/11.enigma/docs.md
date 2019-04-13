@@ -7,7 +7,8 @@ visible: true
 ---
 
 <div class="author">Miss Flaxman</div>
-### The Rose of Eden  
+
+#### The Rose of Eden  
   
 When all was perfect, all serene,  
 This lovely blossom first was seen,  
