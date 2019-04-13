@@ -8,7 +8,7 @@ visible: true
 
 <div class="author">Communicated by Mrs Flaxman</div>
 
-##### Song from a Friend to His Wife
+##### Song Written by a Friend to His Wife in 1783
 
 Oh whence that Song, that tender dulcet strain  
 &emsp;That seemed to breathe Affection’s purest *fire*,  
