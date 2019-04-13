@@ -25,7 +25,7 @@ I’ll say it is the smoke of sacrifice!
 And if the *Victim* meet my ravish’d sight,  
 Tho but a Cambrian Rabbit what delight!  
 But if the favoring Gods should deign to treat  
-Their famish’d Poet with a joint of Meat! 
+Their famish’d Poet with a joint of Meat!  
 While the kind Muse the Chimney taught to glow  
 He’d be the happiest of Men below!  
 (Above, he meant, for th’aspiring Climber,  
