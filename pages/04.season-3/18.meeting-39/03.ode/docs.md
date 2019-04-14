@@ -20,16 +20,16 @@ High lifts his mighty blade, and points his deadly fork.
 II  
 
 But hark! the portals sound, and pacing forth,  
-&emsp; With steps, alas! too slow,  
+&emsp;&emsp;With steps, alas! too slow,  
 The college gyps, of high illustrious worth,  
-&emsp; With all the dishes in long order go:  
+&emsp;&emsp;With all the dishes in long order go:  
 &emsp;In the midst, a form divine  
 &emsp;Appears the fam’d Sirloin;  
 And soon with plums and glory crown’d  
 Almighty Pudding sheds its sweets around.  
 &emsp;Heard you the din of dinner bray?  
-&emsp; Knife to fork, and fork to knife;  
-&emsp; Unnumber’d heroes in the glorious strife,  
+&emsp;&emsp;Knife to fork, and fork to knife;  
+&emsp;&emsp;Unnumber’d heroes in the glorious strife,  
 Thro’ fish, flesh, pies, and puddings, cut their destin’d way.  
 
 III  
@@ -38,7 +38,7 @@ See beneath the mighty blade,
 &emsp;Gor’d with many a ghastly wound,  
 Low the fam’d Sirloin is laid,  
 &emsp;And sinks in many a gulf profound.  
-&emsp; 
+&emsp;&emsp;
 &emsp;&emsp;Arise, arise ye Sons of Glory,  
 &emsp;&emsp;Pies and puddings standing before ye:  
 &emsp;&emsp;See the ghosts of hungry bellies  
@@ -66,7 +66,7 @@ In each countenance serene.
 &emsp;&emsp;Drink deep ye mighty host,  
 &emsp;And let the bottle pass.  
 &emsp;Begin, begin the jovial strain,  
-&emsp; Fill, fill the mystic bowl,  
+&emsp;&emsp;Fill, fill the mystic bowl,  
 &emsp;And drink, and drink, and drink again,  
 &emsp;For drinking fires the soul.  
 
