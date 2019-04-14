@@ -576,7 +576,7 @@ Mercury to Mars → <span class="name"> Miss Richardson</span> (L.I.F.)
 To Celia → <span class="name">Miss Porden</span>  
 The Fall of Hercules → <span class="name">Miss Sanders</span>  
 The Three Suitors → <span class="name">Miss Porden</span>  
-The Restoration Book 2d Canto 3d → <span class="name">Miss Porden</span>  
+The Restoration Book 2d Canto 3d → <span class="name">Miss Porden</span> <span class="red">(withdrawn)</span>  
 
 <div class="bottom">
 <span class="meeting">No. 39&emsp;(1811-04-23)</span>  
