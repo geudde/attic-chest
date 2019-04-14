@@ -24,7 +24,7 @@ The great Urania, shall her science prove
 And tell who dares presumptuously to rove.  
 Tonight the planets in assembled state,  
 Th’opinion of high Jove in counsel wait;  
-For each astonish’d has at Eve perceiv’d  
+For each astonish’d has at eve perceiv’d  
 The luminary — and like us deceiv’d  
 Perhaps by false appearance tinsel hue  
 Almost believe the thing a planet true,  
