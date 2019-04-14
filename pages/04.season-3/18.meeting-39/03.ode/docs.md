@@ -38,7 +38,6 @@ See beneath the mighty blade,
 &emsp;Gor’d with many a ghastly wound,  
 Low the fam’d Sirloin is laid,  
 &emsp;And sinks in many a gulf profound.  
-&emsp;&emsp;
 &emsp;&emsp;Arise, arise ye Sons of Glory,  
 &emsp;&emsp;Pies and puddings standing before ye:  
 &emsp;&emsp;See the ghosts of hungry bellies  
