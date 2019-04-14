@@ -74,11 +74,13 @@ Each promised system of Delight and joy
 But in conjunction to my wishes move  
 And own bright fair, the heavenly light of love.  
 
-They spoke. Ye [Attic] British Nymphs declare,  
+They spoke. Ye <span data-tippy="Attic" class="green">British</span> Nymphs declare,  
 Who most deserved to win the Fair.  
 
-Whose eloquence the best might move,  
-A maiden’s youthful heart to love  
+<div class="pencil">
+Whose eloquence the best might move,<br>  
+A maiden’s youthful heart to love<br>  
 And fix the dubious fair.  
- 
+</div>
+
 N.R.
