@@ -1,5 +1,5 @@
 ---
-title: 'Ode on a College Feat Day'
+title: 'Ode on a College Feast Day'
 taxonomy:
     category:
         - docs
