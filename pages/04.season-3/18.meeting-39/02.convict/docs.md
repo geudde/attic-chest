@@ -32,7 +32,7 @@ But my fancy has pierc’d to his heart, and portrays
 &emsp;More terrible images there.  
 His bones are consum’d, and his lifeblood is dried  
 &emsp;In wishes the past to undo;  
-And his crime, thro’ the pain that o’erwhilm him descried  
+And his crime, thro’ the pain that o’erwhelm him descried  
 &emsp;Still blackens and grows on his view.  
   
 When from his dark synod, or blood-seeking field  
