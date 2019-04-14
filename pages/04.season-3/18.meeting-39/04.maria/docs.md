@@ -23,7 +23,7 @@ Along a blooming garden strayed,
 I asked her which the flower she chose,  
 &emsp;Give me the fairest flower that blows  
 The white, and eke the vermil rose,”  
-She cried. I eager to obey  
+She cried, I eager to obey  
 Snatched one from off each trembling spray,  
 When laid upon her gentle breast  
 They calmed their enmity to rest,  
