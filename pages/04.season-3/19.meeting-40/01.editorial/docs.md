@@ -1,8 +1,8 @@
 ---
 title: Editorial
 taxonomy:
-    category: docs
-    tag: ''
+    category:
+        - docs
 visible: true
 ---
 
