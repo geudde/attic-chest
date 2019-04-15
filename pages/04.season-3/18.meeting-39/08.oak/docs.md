@@ -14,6 +14,25 @@ This tree is now in a complete state of decay, and hollow, even the larger ramif
 
 Within the hollow of the tree at the bottom there is sufficient room for at least half a dozen to take a snug dinner.
 
+
+<table>
+	<thead>
+		<th>Girth at bottom, close to the ground</th>
+		<th>44-3</th>
+	</thead>
+	<tr>
+		<td>Ditto, 5 feet from the ground</td>
+		<td>25-1</td>
+	</tr>
+	<tr>
+		<td>Ditto, 8 feet, ditto</td>
+		<td>27-4</td>
+	</tr>
+	<tr>
+		<td>The height of the tree</td>
+		<td>41-6</td>
+	</tr>
+</table>
 Dimensions Feet Inches
 
 Girth at bottom, close to the ground	44ft 3in  
