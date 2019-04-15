@@ -587,7 +587,7 @@ Ode on a College Feast Day → <span class="name">com. Mr Vignoles</span>
 To Maria → <span class="name">Miss Porden</span>  
 The Resolve → <span class="name">Mr Vignoles</span>  
 The Widow → <span class="name">com. Mr Vignoles</span>  
-On Hearing the Proxes Read → <span class="name">Miss Porden</span>  
+On Hearing the Proxies Read → <span class="name">Miss Porden</span> <span class="red">(missing)</span>  
 Cupid’s Birthday → <span class="name">Miss Porden</span>  
 Shelton Oak → <span class="name">com. Mr Vignoles</span>  
 Letter to My Wife → <span class="name">com. Miss Beslee</span>  
