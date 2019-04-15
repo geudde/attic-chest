@@ -18,29 +18,20 @@ Within the hollow of the tree at the bottom there is sufficient room for at leas
 <table>
 	<tr>
 		<td>Girth at bottom, close to the ground</td>
-		<td>44-3</td>
+		<td>44 ft 3 in</td>
 	</tr>
 	<tr>
 		<td>Ditto, 5 feet from the ground</td>
-		<td>25-1</td>
+		<td>25 ft 1 in</td>
 	</tr>
 	<tr>
 		<td>Ditto, 8 feet, ditto</td>
-		<td>27-4</td>
+		<td>27 ft 4 in</td>
 	</tr>
 	<tr>
 		<td>The height of the tree</td>
-		<td>41-6</td>
+		<td>41 ft 6 in</td>
 	</tr>
 </table>
-
-
-
-Dimensions Feet Inches
-
-Girth at bottom, close to the ground	44ft 3in  
-Ditto, 5 feet from the ground	25-1  
-Ditto, 8 feet ditto	27-4  
-The height of the tree	41-6
 
 [^1]: On the twenty second day of July AD 1403.
