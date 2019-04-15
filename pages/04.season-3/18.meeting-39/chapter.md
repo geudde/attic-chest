@@ -12,7 +12,7 @@ taxonomy:
 4. [To Maria](maria)
 5. [The Resolve](resolve)
 6. [The Widow](widow)
-7. []()
+7. [Cupid’s Birthday](cupid)
 8. []()
 9. []()
 10. []()
