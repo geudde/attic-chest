@@ -21,7 +21,7 @@ In favour of Mercury’s right to dominion.
 &emsp;No more let Mars exert his baleful power,  
 &emsp;But eloquence and friendship rule the hour.  
 &emsp;Let sprightly Hermes, whose inventive mind,  
-&emsp;E’en to our songs my add a grace refined,  
+&emsp;E’en to our songs may add a grace refined,  
 &emsp;Whose Genius borne on Fancy’s Eagle wing,  
 &emsp;Thro’ pathless Æther’s azure realms can spring,  
 &emsp;To where the Sylphids urge their mimic war  
