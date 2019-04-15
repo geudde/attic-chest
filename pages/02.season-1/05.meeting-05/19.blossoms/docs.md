@@ -29,4 +29,4 @@ Their fate’s decreed, and every one must die.
 Boast not your talents or your noble birth;  
 From earth all come, all must return to earth.  
   
-Albemarle St. Feb<sup>y</sup> 14th
+Albemarle St. Feb^y^ 14th

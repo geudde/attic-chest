@@ -50,4 +50,4 @@ Their faithful Mirror will reflect the three.
 S. G —  
   
 Fulham  
-Feb<sup>y</sup> 1810
+Feb^y^ 1810

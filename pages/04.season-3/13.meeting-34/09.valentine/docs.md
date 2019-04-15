@@ -17,4 +17,4 @@ And crown thee, Sweet, my Valentine.
 
 Florio
 
-Feb<sup>y</sup> 11th
+Feb^y^ 11th

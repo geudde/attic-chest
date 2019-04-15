@@ -16,7 +16,7 @@ Very truly Yours
 dear Editress and a   
 M.A.S.  
   
-Jan<sup>y</sup> 1811 
+Jan^y^ 1811 
 
 ---
   

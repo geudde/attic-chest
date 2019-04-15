@@ -20,4 +20,4 @@ But Peace reign through the Grove
 
 Zephyrus
 
-Feb<sup>y</sup> 14<sup>th</sup> 1809
+Feb^y</sup> 14<sup>th^ 1809

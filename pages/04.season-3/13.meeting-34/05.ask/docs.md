@@ -29,4 +29,4 @@ Which bade me take it to my care,
 That while this little flow’r shall last  
 ’Twill whisper me of joy that’s past!  
   
-Elia Jan<sup>ry</sup> 2<sup>nd</sup> 1811
+Elia Jan^ry</sup> 2<sup>nd^ 1811

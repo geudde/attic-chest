@@ -8,7 +8,7 @@ visible: true
 
 <div class="author">Miss Flaxman</div>
 
-##### The humble Supplication of Timothy Couplet Esq<sup>re</sup>   
+##### The humble Supplication of Timothy Couplet Esq^re^   
 
 From his Temple of the Winds   
 
