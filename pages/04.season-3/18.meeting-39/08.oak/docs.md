@@ -16,10 +16,10 @@ Within the hollow of the tree at the bottom there is sufficient room for at leas
 
 
 <table>
-	<thead>
-		<th>Girth at bottom, close to the ground</th>
-		<th>44-3</th>
-	</thead>
+	<tr>
+		<td>Girth at bottom, close to the ground</td>
+		<td>44-3</td>
+	</tr>
 	<tr>
 		<td>Ditto, 5 feet from the ground</td>
 		<td>25-1</td>
@@ -34,13 +34,7 @@ Within the hollow of the tree at the bottom there is sufficient room for at leas
 	</tr>
 </table>
 
-| Girth at bottom, close to the ground | 44-3 |
-| ------------------------------------ | ---- |
-| Ditto, 5 feet from the ground        | 25-1 |
-| ------------------------------------ | ---- |
-| Ditto, 8 feet, ditto                 | 27-4 |
-| ------------------------------------ | ---- |
-| The height of the tree               | 41-6 |
+
 
 Dimensions Feet Inches
 
