@@ -37,42 +37,42 @@ Till rost’ring thought grief’s rage arousing,
 
 ##### 4
 
-&emsp;Ye clifted rocks with summits soaring,  
+Ye clifted rocks with summits soaring,  
 &emsp;That high o’erhand this sandy plain;  
 Whence softer streams, in cat’racts roaring,  
 &emsp;Conjoin the salt, cerulean main.
 
 ##### 5
 
-&emsp;Within your wave-worn, lone recesses,  
+Within your wave-worn, lone recesses,  
 &emsp;Entomb a grief-distracted maid;  
 Where terror stalks with startling tresses  
 &emsp;And darkness frowns a pitchy shade.
 
 ##### 6
 
-&emsp;And thou, O deep! that hears’t my pining,  
+And thou, O deep! that hears’t my pining,  
 &emsp;(The unvailing fume of frenzied breath)  
 ’Twas conscious *thou* and *fate* combining,  
 &emsp;That vail’d my Damon’s eyes in death.
 
 #####  7
 
-&emsp;Him howling storms, of life divested,  
+Him howling storms, of life divested,  
 &emsp;Have made some hungry fishes prey;  
 And from my eyes forever wrested,  
 &emsp;On this side times short during day.
 
 #####  8
 
-&emsp;With lightning’s speed ev’n now I’ll follow  
+With lightning’s speed ev’n now I’ll follow  
 &emsp; His shade beyond the reach of pain,  
 Ev’n now the having surge I’ll hollow,  
 &emsp; And press the bottom of the main.
 
 ##### 9
 
-&emsp;So icy death, heaven’s awful envoy,  
+So icy death, heaven’s awful envoy,  
 &emsp;Long-wish’d, shall change my sick’ning state;  
 And send a fear-form’d fleeting convoy,  
 &emsp;And waft me to the realms of fate.”
