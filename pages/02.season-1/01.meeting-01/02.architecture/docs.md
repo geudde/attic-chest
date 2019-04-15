@@ -14,7 +14,7 @@ And conquerors wakéd to mimic life again,
 In imag’d triumph thunder o’er the main;  
 Though speaks each mould, by Flaxman’s genius wrought,  
 The strong-mark’d energies of labouring thought,  
-And grace obeys fair Dancers soft controul,  
+And grace obeys fair dancers soft control,  
 Though many a varied lineament of soul;  
 Yet oh! unlike each nobler Grecian form,  
 With strength majestic, or with beauty warm,  
@@ -47,7 +47,7 @@ And Britain claim a Phidias of her own!
 
 &emsp;Not such the hopes that bless th’ enthusiast’s dream,  
 As sad it wanders o’er each faded gleam,  
-That dimly shews to Painting’s muse was given  
+That dimly shews to painting’s muse was given  
 The sevenfold radiance of refulgent heaven,  
 When genius stole the colours of the sun,  
 And pour’d them o’er the wreath of valour won.  
@@ -66,5 +66,5 @@ Sacred to genius, undisturb’d repose.
 &emsp;Triumphant monuments in armed pride.  
 Till bold conceptions bursting on his heart,  
 His skill shall grasp the inmost soul of art,  
-And Fame’s green Isle her cloud-capt towers display,  
+And Fame’s green isle her cloud-capt towers display,  
 Where grace &amp; grandeur rule with equal sway. 
