@@ -28,7 +28,8 @@ Strikes on my head, ere twenty yards are run.
 Still further from me does the bonnet blow,  
 But I alas, to fetch it still must go,  
 Nay e’en the wind has blown it off the grass  
-Beyond the corner that I would not pass
+Beyond the corner that I would not pass  
+
 I pick it up, and tying it, I run,  
 But scarce again my flight have I begun  
 Ere by a rising molehill overthrown  
