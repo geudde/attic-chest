@@ -13,7 +13,7 @@ visible: true
 I am not tall, yet I am high  
 I am not short, yet I am low,  
 I cannot move, yet I can fly  
-I cannot walk, yet I an go.  
+I cannot walk, yet I can go.  
   
 ##### 2d  
   
