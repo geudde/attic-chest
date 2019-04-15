@@ -607,9 +607,9 @@ Graeme of Balgowan The Hero of Barrosa → <span class="name">com. Mrs Staveley<
 Most Haste, Worst Speed → <span class="name">Miss Porden</span>  
 The Dream → <span class="name">Miss Flaxman</span>  
 “The Day Draws Near” → <span class="name">Mrs Flaxman</span>  
-The Sylphiad Canto 3d → <span class="name">Mr Vignoles</span>  
-Translation from the Greek → <span class="name">Miss Porden</span>  
-“Believe Me Love” → <span class="name">com. Miss Richardson</span> (L.I.F.)  
+The Sylphiad Canto 3d → <span class="name">Mr Vignoles</span> <span class="red">(missing)</span>  
+Translation from the Greek → <span class="name">Miss Porden</span> <span class="red">(missing)</span>  
+“Believe Me Love” → <span class="name">com. Miss Richardson</span> <span class="red">(missing)</span>)  
 
 <div class="bottom">
 <span class="meeting">No. 41&emsp;(1811-05-21)</span>  
