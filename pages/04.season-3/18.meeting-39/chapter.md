@@ -15,6 +15,5 @@ taxonomy:
 7. [Cupid’s Birthday](cupid)
 8. [Shelton Oak](oak)
 9. [Letter to My Wife](letter)
-10. []()
-11. []()
-12. []()
+10. [Enigma for the Ladies](enigma)
+11. [Do Not Swear at All](swear)
