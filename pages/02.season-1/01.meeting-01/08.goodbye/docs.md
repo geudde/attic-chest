@@ -28,7 +28,7 @@ In hope’s delightful measure;
 Good bye in friendship’s ear has rung  
 The knell of parting pleasure.  
   
-From sorrows past my Mimic skill  
+From sorrows past my mimic skill  
 Draws smiles of consolation;  
 While you from present joys distil  
 The tears of separation.  
@@ -48,12 +48,12 @@ As every heart remembers
 One sigh of mine & and only mine  
 Revives the dying embers.  
   
-Go, bid the timid Lover choose  
+Go, bid the timid lover choose  
 And I’ll resign my charter  
 If he for ten kind how d’ye does  
 One kind good bye would barter.  
   
-From Love & Friendship’s kindred source  
+From love & friendship’s kindred source  
 We both derive existence  
 And they wou’d both lose half their force  
 Without our joint assistance.  

@@ -9,12 +9,12 @@ visible: true
 
 <div class="author">Miss Flaxman</div>
 
-My drowsy Muse an idle Jade!  
-&emsp;Has grieved and Sadly (sorely) vex’d me,  
-She sure forgets her rhyming Trade  
+My drowsy Muse an idle jade!  
+&emsp;Has grieved and sadly (sorely) vex’d me,  
+She sure forgets her rhyming trade  
 &emsp;Or else for spite perplex’d me;   
 For well she knew for spritely Nell  
-&emsp;I wou’d have penn’d a Sonnet,  
+&emsp;I wou’d have penn’d a sonnet,  
 But envious as a mortal belle  
 &emsp;She is, depend upon it.  
  
