@@ -20,7 +20,7 @@ At the same time beg that our humble and united thanks will be accepted for the 
 
 Remain with all due  
 respect your Most Obedient  
-and very Hbl Ser^t^  
+and very Hbl Ser<sup>t</sup>  
 
 John King
 

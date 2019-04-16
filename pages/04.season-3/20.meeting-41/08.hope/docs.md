@@ -44,6 +44,6 @@ But when reason would learn if these may be enjoyed
 Memory holds up the past, and the vision’s destroyed.
 
 Thus tracing things up to their source we may <span data-tippy="illegible" class="red">[???]</span>  
-Reason bars that with memory, hope e’er sh^d^ <span data-tippy="illegible" class="red">[???]</span>  
+Reason bars that with memory, hope e’er sh<sup>d</sup> <span data-tippy="illegible" class="red">[???]</span>  
 Then if hope is to gild future days with delight  
 Memory’s records must fade like the shadows of night.

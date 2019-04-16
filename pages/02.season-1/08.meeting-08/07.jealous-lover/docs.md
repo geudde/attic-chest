@@ -80,6 +80,6 @@ A rival meets in every breeze,
 Nor, till passions cease to glow  
 Shall Love unmix’d with sorrow know…”  
   
-<span class="pencil">April 2^d^ 1806  
+<span class="pencil">April 2<sup>d</sup> 1806  
 Anacreontic  
 The Fly</span>

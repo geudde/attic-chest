@@ -43,7 +43,7 @@ We shall read them in the following order.
 
 9. From Moth to Stella, are sparkles of the first brilliancy.
 
-10. From John Punch Esq^re^ to Eborina we think cannot fail to be pleasing if the lady is fond of sweet things. It is an exemplification of what in Yorkshire is called Lump Love. For the credit of poor Punch we hope the Cake is not Stale.
+10. From John Punch Esq<sup>re</sup> to Eborina we think cannot fail to be pleasing if the lady is fond of sweet things. It is an exemplification of what in Yorkshire is called Lump Love. For the credit of poor Punch we hope the Cake is not Stale.
 
 To the Valentines will succeed a poem on Wit, which cannot be too highly praised, and our reading will conclude with *Female Emigration,* or the five “honest Lawyers” in which work (for it is a Volume we believe that more is meant than meets the ear). We shall be obliged to our friends for their comments and to the Author for a Key.
 

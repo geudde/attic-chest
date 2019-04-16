@@ -25,5 +25,5 @@ Charms such as these — or counteract his spell.
   
 Euphemia  
   
-Feb 14^th^  
+Feb 14<sup>th</sup>  
 Walworth

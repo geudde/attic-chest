@@ -51,4 +51,4 @@ Cupidon
   
 _To finish with a chorus of ‘Oh, my Quill, my Quill’ _ 
   
-Feb^y^ 14th
+Feb<sup>y</sup> 14th
