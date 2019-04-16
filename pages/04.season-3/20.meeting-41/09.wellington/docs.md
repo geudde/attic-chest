@@ -1,5 +1,5 @@
 ---
-title: 'Lord Wellington''s Birthday'
+title: 'Lord Wellington’s Birthday'
 taxonomy:
     category:
         - docs
