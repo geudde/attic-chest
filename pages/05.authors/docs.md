@@ -37,9 +37,9 @@ The Muses Vagaries → (Fitz Pieria)
 </div>
 
 Sonnet to a Nightingale → <span class="name">C. Sanders</span>  
-To St Andrew → A. Bower. 1792 <span class="name">com. Mr. Flaxman</span>  
+To St Andrew → A. Bower <span class="name">com. Mr. Flaxman</span>  
 On hearing a Lady Sing → <span class="name">Mr Joseph</span> (Timanthes)  
-To Sir John Barrington on his Birthday → <span class="name">Mr Porden</span>  
+To Sir John Barrington on His Birthday → <span class="name">Mr Porden</span>  
 The Muses Vagaries continu’d →   
 A Riddle → <span class="name">com. Mr. Flaxman</span>  
 
@@ -74,9 +74,9 @@ Valentine to Ictinus → <span class="name">Miss Porden</span>
   &#12291; Under the Knave of Hearts → <span class="name">Miss Porden</span>  
   &#12291; Under the Queen of Hearts → <span class="name">Miss Porden</span>  
   &#12291; Miss Porden “Aid me all ye powers divine” → <span class="name">Mr Porden</span>  
-  &#12291; Miss Porden “on Ezla’s pleasant banks reclined” → <span class="name">Mr Bond</span>  
+  &#12291; Miss Porden “On Ezla’s pleasant banks reclined” → <span class="name">Mr Bond</span>  
   &#12291; from Manchester → <span class="name">&nbsp;</span>  
-  &#12291; “though the sweetest Vermilion adorn” → <span class="name">&nbsp;</span>  
+  &#12291; “Though the sweetest vermilion adorn” → <span class="name">&nbsp;</span>  
   &#12291; “An ardent admirer of the Muses” → <span class="name">Mr Kay</span>  
   &#12291; “See how the feather’d blossoms” → <span class="name">&nbsp;</span>  
   &#12291; “In grim array” → <span class="name">Miss Maria Denman</span>  
@@ -104,14 +104,14 @@ Valentine Morning → <span class="name">Mr Kay</span>
 
 The Jarvey → <span class="name">A young Lady</span>  
 The Muses Vagaries (No. 3)  →   
-The Constellation No. 1 → <span class="name">Miss Porden</span>  
+Constellation No. 1 → <span class="name">Miss Porden</span>  
 
 <div class="bottom">
 <span class="meeting">No. 7&emsp;(1809-03-25)</span>  
 </div>
 
 The Age of Wonders → <span class="name">Miss Porden</span>  
-An Author’s address to his First Work → <span class="name">Mr Parkinson</span>  
+An Author’s address to His First Work → <span class="name">Mr Parkinson</span>  
 To a Pianoforte → <span class="name">&nbsp;</span>  
 Anacreon Ode 23 → <span class="name">Mrs Kay</span>  
 My choice →  
@@ -241,7 +241,7 @@ Cupid as Landscape Painter → <span class="name">Mr Vignoles</span> (B.R.)
 </div>
 
 Rebecca. A Ballad → <span class="name">Sir John Carr</span>  
-Address to a Gentleman on his Birthday → <span class="name">Mr Vignoles</span> (B.R.)  
+Address to a Gentleman on His Birthday → <span class="name">Mr Vignoles</span> (B.R.)  
 Anacreontic → <span class="name">Mr Flaxman</span> (Anacreonides)  
 Answer to the Query in Natural History → <span class="name">Mr Vignoles</span>  
 And Erroneous Answer to the Riddle → <span class="name">Do.</span>  
@@ -456,7 +456,7 @@ The Primrose of December → <span class="name">Miss Sanders</span>
 On Miss Peacock, Lady Mayoress of York → <span class="name">Mr Flaxman</span>  
 On Junius, from Dr. Johnson → <span class="name">com. Mr Porden</span>  
 On Seeing a Mouse Run across the Road → <span class="name">com. Mrs Porden</span>  
-Ode to a Pig, while his nose was boring → <span class="name">com. Mr Vignoles  </span>  
+Ode to a Pig, while His nose Was boring → <span class="name">com. Mr Vignoles  </span>  
 
 <div class="bottom">
 <span class="meeting">No. 32&emsp;(1811-01-15)</span>  
