@@ -32,8 +32,6 @@ Now hail the month in rapture’s measure,
 That opens with his natal day,  
 Who shines as Honor’s living treasure!
 
-##  D3311 18 14_00057
-
 O! let thy vines, a fount of health!  
 Potent to banish care and sadness!  
 Pour *to his name* their liquid wealth  
