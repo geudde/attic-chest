@@ -252,7 +252,7 @@ Charade Answer Fortnight signed by A Lawyer → <span class="name">Mr Vignoles</
 A stray spark from the Tinder Box → <span class="name">Mr Flaxman</span>  
 Lines to the author of the Tinder Box → <span class="name">Miss Flaxman</span>  
 Verses — <span class="name">Mr Hoppner</span>  
-A reproof to gormandizing Bards signed Fare and Fret → <span class="name">Mr Parkinson</span>  
+A reproof to gormandizing Bards → <span class="name">Mr Parkinson</span> (Fare and Fret)  
 Lauretta → <span class="name">Miss Flaxman</span> (Peregrine)  
 
 <div class="bottom">
