@@ -10,7 +10,7 @@ visible: true
 <span class="meeting">No. 1&emsp;(1808-12-27)</span>
 </div>
 
-On the Study of Ancient Architecture &amp;c. → <span class="name">com. Mr Flaxman</span>  
+[On the Study of Ancient Architecture &amp;c.](../../season-1/meeting-01/architecture) → <span class="name">com. Mr Flaxman</span>  
 To Maria →  
 On the Conscription of the Student of Gottingen → <span class="name">Miss Porden</span>  
 Love and the Nymphs → <span class="name">Mr Kilburn</span> (Hassan)   
