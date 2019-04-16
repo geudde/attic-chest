@@ -6,7 +6,5 @@ taxonomy:
 
 # 4 June 1811
 
-Chapter description.
-
 1. [Editorial](editorial)
 2. [Sonnet](swift)
