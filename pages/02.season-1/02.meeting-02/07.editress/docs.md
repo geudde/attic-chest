@@ -11,8 +11,8 @@ From one who though not intimate in the family wishes to contribute to the Attic
 P.
 
 “Now while charm’s circles round you close  
-Of smiling Belles, and rhyming Beaux,  
+Of smiling belles, and rhyming beaux,  
 Whilst all with eager looks contend  
-Their Wit or Worth to recommend  
+Their wit or worth to recommend  
 Still let your mild yet piercing eyes,  
 Impartially adjudge the prize.”  

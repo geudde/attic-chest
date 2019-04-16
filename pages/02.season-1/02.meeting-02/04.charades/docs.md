@@ -19,7 +19,7 @@ Except that it marks the departure of day.
 
 My first is the lot which is destined by fate  
 For my second to meet with in every state  
-My whole is by many Philosophers reckoned  
+My whole is by many philosophers reckoned  
 To bring very often my first to my second.  
 
 Porson

@@ -14,8 +14,8 @@ Around the cradle where she lay
 The Muses sand a roundelay  
 While golden Phoebus from the sky  
 Look’d with a bright auspicious eye:  
-And thus to Nature who the Babe carest  
-Spake his high will, his gen’rous wish exprest,  
+And thus to Nature who the babe caressed  
+Spake his high will, his gen’rous wish expressed,  
 “Let me, fair Dame, your pleasing office share  
 “Be this sweet nursling still our mutual care,  
 “By you, while blooming in her earliest youth  
@@ -25,6 +25,6 @@ Spake his high will, his gen’rous wish exprest,
 “I’ll be her guide whene’er she moves along  
 “And lead her through the flow’ry land of song;  
 “Thus following Nature and by Genius led  
-“My Laurel mix’d with Flowers, shall grace her Head.”  
+“My laurel mix’d with flowers, shall grace her head.”  
   
 Comfit  
