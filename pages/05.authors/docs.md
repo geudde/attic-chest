@@ -114,7 +114,7 @@ The Age of Wonders → <span class="name">Miss Porden</span>
 An Author’s address to his first work → <span class="name">Mr Parkinson</span>  
 To a Pianoforte → <span class="name">&nbsp;</span>  
 Anacreon Ode 23 → <span class="name">Mrs Kay</span>  
-My choice → 
+My choice →  
 The Rose → <span class="name">Mr Kilburn</span> (Hassan)  
 The Bee from Anacreon → <span class="name">Mr Bond</span>  
 Constellation No. 2 → <span class="name">Miss Porden</span>  
