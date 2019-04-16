@@ -11,12 +11,12 @@ visible: true
 </div>
 
 [On the Study of Ancient Architecture &amp;c.](../../season-1/meeting-01/architecture) → <span class="name">com. Mr Flaxman</span>  
-To Maria →  
-On the Conscription of the Student of Gottingen → <span class="name">Miss Porden</span>  
-Love and the Nymphs → <span class="name">Mr Kilburn</span> (Hassan)   
-An Apology for a Valentine → <span class="name">Miss Flaxman</span>  
-Anacreontic Valentine → <span class="name">Mr Bond</span>  
-Goodby &amp; how d’ye do → <span class="name">com. Mr. Flaxman</span>
+[To Maria](../../season-1/meeting-01/maria) →  
+[On the Conscription of the Student of Gottingen](../../season-1/meeting-01/gottingen) → <span class="name">Miss Porden</span>  
+[Love and the Nymphs](../../season-1/meeting-01/nymphs) → <span class="name">Mr Kilburn</span> (Hassan)   
+[An Apology for a Valentine](../../season-1/meeting-01/apology) → <span class="name">Miss Flaxman</span>  
+[Anacreontic Valentine](../../season-1/meeting-01/anacreontic) → <span class="name">Mr Bond</span>  
+[Goodby &amp; how d’ye do](../../season-1/meeting-01/goodbye) → <span class="name">com. Mr. Flaxman</span>
   
 <div class="bottom">
 <span class="meeting">No. 2&emsp;(1809-01-10)</span>  
