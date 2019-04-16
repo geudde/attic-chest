@@ -8,11 +8,11 @@ visible: true
 
 <div class="author">Mr Hayley, communicated by Mrs Flaxman</div>
 
-#### Extempore
+##### Extempore
 
 To the Lady of Lavant (by the returning post) for her Annual Banquet on the 1st of May which is happily the birthday of Lord Wellington.
 
-#### Recitative
+##### Recitative
 
 Hail the day with festive mirth  
 Honor’d by a hero’s birth!  
@@ -21,7 +21,7 @@ Long the boast of British fame!
 Truth may swear, by freedom’s lance,  
 Thy exploits exceed romance —   
 
-#### Air
+##### Air
 
 Sing, Lusitania! lovely land!  
 Now with thy brave deliverer glowing  
