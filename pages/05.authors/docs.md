@@ -313,11 +313,11 @@ Song to the Tune of Four and Twenty Fiddlers → <span class="name">Mr Flaxman</
 From a Butterfly to Aspasia → <span class="name">Dr Shaw</span>  
 The Cottage → <span class="name">com. Mrs Kay</span> (S.G.)  
 Tea → <span class="name">Mr Parkinson</span> (Van-ta-zhin)  
-The power of Song → <span class="name">com. Mrs Flaxman</span>  
+The Power of Song → <span class="name">com. Mrs Flaxman</span>  
 A German Bacchanalian Song → <span class="name">Mr Campbell</span>  
 Ebor’s Green → <span class="name">Mr Porden</span>  
 An O.P. Dialogue between a Turk and an Englishman → (Frederica)  
-Westminster hall on the First Day of Term → <span class="name">Mr Vignoles</span> (Edward)  
+Westminster Hall on the First Day of Term → <span class="name">Mr Vignoles</span> (Edward)  
 The Mother’s Song → <span class="name">Miss Flaxman</span> (Penelope)
 
 <div class="bottom">
@@ -329,13 +329,13 @@ A Challenge → <span class="name">Miss Flaxman</span> (Thalestris/Incognita)
 The Squirrel → <span class="name">Miss Sanders</span>  
 Sonnet to a Little Girl → <span class="name">com. Miss Beslee</span>  
 Sonnet to Samuel William Nicol Esq. → <span class="name">Mr Porden</span>  
-Song “If Ever prayer of hapless Love” → <span class="name">Mr Porden</span>  
+Song “If Ever Prayer of Hapless Love” → <span class="name">Mr Porden</span>  
 Against Life from Posidippus → <span class="name">com. Mrs Flaxman</span>  
 For Life from the Greek of Metrodorus → <span class="name">Do.</span>  
 The New Broom → <span class="name">Reverend Mr Cayley</span>  
 On the Portable Pens → <span class="name">Mr Bon</span>  
-Latin Acrostic Napoleon Buonaparte →     
-The Latin Gerunds Di Do Dum → <span class="name">com. Miss Flaxman</span>  
+Latin Acrostic: Napoleon Buonaparte →     
+The Latin Gerunds: Di Do Dum → <span class="name">com. Miss Flaxman</span>  
 The Speech of a New Married Man → <span class="name">Do.</span>  
 
 <div class="bottom">
@@ -345,11 +345,11 @@ The Speech of a New Married Man → <span class="name">Do.</span>
 A Query → <span class="name">com. Miss Flaxman</span>  
 Inscription to the Memory of Shenstone → <span class="name">com. Miss Flaxman</span>  
 Hymn to Apollo from the Greek → <span class="name">com. Miss Flaxman</span>  
-To Lycidas on his Forsaking the Lyre → (Dorea)  
+To Lycidas on His Forsaking the Lyre → (Dorea)  
 A Translation of the 2nd Ode of Anacreon → <span class="name">Miss Porden</span> (Thyrsis)  
 1810 to Incognita → <span class="name">com. Miss Flaxman</span>  
 Tancred to Thalestris → <span class="name">Miss Flaxman</span>  
-The Faults of Woman kind → <span class="name">Miss Porden</span> (Lysander)  
+The Faults of Womankind → <span class="name">Miss Porden</span> (Lysander)  
 Woman from the Greek → 
 
 <div class="bottom">
@@ -622,7 +622,7 @@ Charade: Farewell → Lord Palmerston <span class="name">com. Mrs. S</span>
 “If Hope Is to Gild Future Days” → <span class="name">Miss Richardson</span>  
 On the 1st May, Lord Wellington’s Birthday → <span class="name">com. Mrs Flaxman & Mr Hayley</span>  
 A Free Translation of One of Buondelmonte’s Sonnets → <span class="name">Mrs Flaxman</span>  
-Muo Osterion → <span class="name"> com. Mr Vignoles</span>  
+The Mouse and the Oyster → <span class="name"> com. Mr Vignoles</span>  
 The Restoration Book 3d Cantos 1st and 2d → <span class="name">Miss Porden</span>  
 
 <div class="bottom">
@@ -667,7 +667,7 @@ To Miss Porden → <span class="name">Mr Vignoles</span> (Amicusa)
 “Let Others Sing of Deeds of Arms” → <span class="name">Mrs Staveley</span>  
 “The Norland Lassies’ Lament” → <span class="name">Mrs Staveley</span>  
 “Oft I’ve Implored” → <span class="name">Mrs Flaxman</span>  
-“When Ammons Mighty Son Arose” → <span class="name">Mr Flaxman</span>  
+“When Ammon’s Mighty Son Arose” → <span class="name">Mr Flaxman</span>  
 “Said Hymen to Cupid” → <span class="name">Miss Vardill</span>  
 To Moth, on Her Birthday → <span class="name">Miss Porden</span>  
 Au Revoir → <span class="name">Miss Flaxman</span>  
