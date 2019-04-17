@@ -22,15 +22,15 @@ visible: true
 <span class="meeting">No. 2&emsp;(1809-01-10)</span>  
 </div>
 
-[Nor let soft slumber &amp;c](../../season-1/meeting-01/slumbers) →  
-[Impromptu on a man of Genius](../../season-1/meeting-01/impromptu) → <span class="name">Mr Parkinson</span>  
-[On Professor Person](../../season-1/meeting-01/impromptu) → <span class="name">Do.</span>   
-[Charades by Person](../../season-1/meeting-01/charades) → <span class="name">Professor Person</span>  
-[Part of the 15th Satire of Juvenal](../../season-1/meeting-01/juvenal) → <span class="name">Mr Bond</span>  
-[Sonnets](../../season-1/meeting-01/sonnet) → <span class="name">Mr. Kilburn</span> (Hassan)  
-[The Muses Vagaries](../../season-1/meeting-01/apollo) → (Fitz Pieria)   
-[The Birth of Ellen](../../season-1/meeting-01/editress) → (Comfit)  
-[“And a’ that”](../../season-1/meeting-01/wish) → <span class="name">Miss Flaxman</span>  
+[Nor let soft slumber &amp;c](../../season-1/meeting-02/slumbers) →  
+[Impromptu on a man of Genius](../../season-1/meeting-02/impromptu) → <span class="name">Mr Parkinson</span>  
+[On Professor Person](../../season-1/meeting-02/impromptu) → <span class="name">Do.</span>   
+[Charades by Person](../../season-1/meeting-02/charades) → <span class="name">Professor Person</span>  
+[Part of the 15th Satire of Juvenal](../../season-1/meeting-02/juvenal) → <span class="name">Mr Bond</span>  
+[Sonnets](../../season-1/meeting-02/sonnet) → <span class="name">Mr. Kilburn</span> (Hassan)  
+[The Muses Vagaries](../../season-1/meeting-02/apollo) → (Fitz Pieria)   
+[The Birth of Ellen](../../season-1/meeting-02/editress) → (Comfit)  
+[“And a’ that”](../../season-1/meeting-02/wish) → <span class="name">Miss Flaxman</span>  
 
 <div class="bottom">
 <span class="meeting">No. 3&emsp;(1809-01-24)</span>  
