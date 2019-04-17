@@ -47,62 +47,62 @@ visible: true
 <span class="meeting">No. 4&emsp;(1809-02-07)</span>  
 </div>
 
-On Contemplating a Splendid Pile of Ruins → <span class="name">com. Mr. Flaxman</span>  
-The Three Kisses → <span class="name">Mr Joseph</span>  
-The Violet →  (Violetta)  
+[On Contemplating a Splendid Pile of Ruins](../../season-1/meeting-04/sonnet) → <span class="name">com. Mr. Flaxman</span>  
+[The Three Kisses](../../season-1/meeting-04/kisses) → <span class="name">Mr Joseph</span>  
 A Description of Monkey Island → <span class="name">Mr Porden</span> <span class="red">(missing)</span>  
-The Queen Anne St. Ghost → <span class="name">Mr Parkinson</span>  
+[The Queen Anne St. Ghost](../../season-1/meeting-04/ghost) → <span class="name">Mr Parkinson</span>
+[The Violet](../../season-1/meeting-04/violet) →  (Violetta)    
 
 <div class="bottom">
 <span class="meeting">No. 5&emsp;(1809-02-21)</span>  
 </div>
 
-Valentine to Ictinus → <span class="name">Miss Porden</span>  
-  &#12291; Maria Parsimonia → <span class="name">Miss Porden</span>  
-  &#12291; Miss Flaxman → <span class="name">Miss Porden</span>  
-  &#12291; Miss Maria Denman → <span class="name">Miss Porden</span>  
-  &#12291; “Cupid Spitted on a Dart” → <span class="name">Miss Porden</span>  
-  &#12291; Ictinus → <span class="name">Miss Porden</span>  
-  &#12291; Hermes to Maria → <span class="name">Miss Porden</span>  
-  &#12291; “All powerful Love is like the Sword of Old” → <span class="name">Miss Porden</span>  
-  &#12291; “As longs the Cat the timid Mouse to catch” → <span class="name">Miss Porden</span>  
-  &#12291; “When Bish or Carter puffs advance” → <span class="name">Miss Porden</span>  
-  &#12291; “At Cupid’s Altar” → <span class="name">Miss Porden</span>  
-  &#12291; “When Cupid last by Venus sent” → <span class="name">Miss Porden</span>  
-  &#12291; Under the Knave of Hearts → <span class="name">Miss Porden</span>  
-  &#12291; Under the Queen of Hearts → <span class="name">Miss Porden</span>  
-  &#12291; Miss Porden “Aid me all ye powers divine” → <span class="name">Mr Porden</span>  
-  &#12291; Miss Porden “On Ezla’s pleasant banks reclined” → <span class="name">Mr Bond</span>  
-  &#12291; From Manchester → <span class="name">&nbsp;</span>  
-  &#12291; “Though the sweetest vermilion adorn” → <span class="name">&nbsp;</span>  
-  &#12291; “An ardent admirer of the Muses” → <span class="name">Mr Kay</span>  
-  &#12291; “See how the feather’d blossoms” → <span class="name">&nbsp;</span>  
-  &#12291; “In grim array” → <span class="name">Miss Maria Denman</span>  
-  &#12291; Ellen → <span class="name">Mr Bond</span> <span class="red">(missing)</span>  
-  &#12291; Greek → <span class="name">Mr Flaxman</span> <span class="red">(missing)</span>  
-  &#12291; Cupid's Lament → <span class="name">Miss Flaxman</span>  
-  &#12291; With a Pancake → <span class="name">Mr Kay</span>  
-  &#12291; Account of St Valentine → <span class="name">&nbsp;</span>  
-  &#12291; A Tale → <span class="name">Mr Flaxman and Co.</span>  
-  &#12291; from Zephyrus → <span class="name">&nbsp;</span>  
-  &#12291; from Euphemia → <span class="name">&nbsp;</span>  
-  &#12291; from Dido → <span class="name">Mr Flaxman</span>  
-  &#12291; French → <span class="name">Miss Porden</span> <span class="red">(missing)</span>  
-  &#12291; “The lofty Lily” → <span class="name"></span>  
-  &#12291; “Love is a burthen” → <span class="name"></span>  
-  &#12291; “Convinced a Married” → <span class="name">com. Miss M’donald</span>  
-  &#12291; “And canst thou say” → <span class="name">&nbsp;</span>  
-  &#12291; “Awake sweet girl awake" → <span class="name">&nbsp;</span>  
-Bellamira Barnacles → <span class="name">D. Grant</span>  
-Valentine Morning → <span class="name">Mr Kay</span>  
+[Valentine to Ictinus](../../season-1/meeting-05/ictinus-1) → <span class="name">Miss Porden</span>  
+[  &#12291; Maria Parsimonia](../../season-1/meeting-05/parsimonia) → <span class="name">Miss Porden</span>  
+[  &#12291; Miss Flaxman](../../season-1/meeting-05/flaxman) → <span class="name">Miss Porden</span>  
+[  &#12291; Miss Maria Denman](../../season-1/meeting-05/denman-1) → <span class="name">Miss Porden</span>  
+[  &#12291; “Cupid Spitted on a Dart”](../../season-1/meeting-05/cupid) → <span class="name">Miss Porden</span>  
+[  &#12291; Ictinus](../../season-1/meeting-05/ictinus-2) → <span class="name">Miss Porden</span>  
+[  &#12291; Hermes to Maria](../../season-1/meeting-05/hermes) → <span class="name">Miss Porden</span>  
+[  &#12291; “All powerful Love is like the Sword of Old”](../../season-1/meeting-05/love) → <span class="name">Miss Porden</span>  
+[  &#12291; “As longs the Cat the timid Mouse to catch”](../../season-1/meeting-05/cat) → <span class="name">Miss Porden</span>  
+[  &#12291; “When Bish or Carter puffs advance”](../../season-1/meeting-05/bish) → <span class="name">Miss Porden</span>  
+[  &#12291; “At Cupid’s Altar”](../../season-1/meeting-05/lottery) → <span class="name">Miss Porden</span>  
+[  &#12291; “When Cupid last by Venus sent”](../../season-1/meeting-05/ictinus-1) → <span class="name">Miss Porden</span>  
+[  &#12291; Under the Knave of Hearts](../../season-1/meeting-05/denman-3) → <span class="name">Miss Porden</span>  
+[  &#12291; Under the Queen of Hearts](../../season-1/meeting-05/denman-3) → <span class="name">Miss Porden</span>  
+[  &#12291; Miss Porden “Aid me all ye powers divine”](../../season-1/meeting-05/eleanor) → <span class="name">Mr Porden</span>  
+[  &#12291; Miss Porden “On Ezla’s pleasant banks reclined”](../../season-1/meeting-05/porden-1) → <span class="name">Mr Bond</span>  
+[  &#12291; From Manchester](../../season-1/meeting-05/rosebuds) → <span class="name">&nbsp;</span>  
+[  &#12291; “Though the sweetest vermilion adorn”](../../season-1/meeting-05/vermilion) → <span class="name">&nbsp;</span>  
+[  &#12291; “An ardent admirer of the Muses”](../../season-1/meeting-05/admirer) → <span class="name">Mr Kay</span>  
+[  &#12291; “See how the feather’d blossoms”](../../season-1/meeting-05/blossoms) → <span class="name">&nbsp;</span>  
+[  &#12291; “In grim array”](../../season-1/meeting-05/array) → <span class="name">Miss Maria Denman</span>  
+[  &#12291; Ellen](../../season-1/meeting-05/ictinus-1) → <span class="name">Mr Bond</span> <span class="red">(missing)</span>  
+[  &#12291; Greek](../../season-1/meeting-05/ictinus-1) → <span class="name">Mr Flaxman</span> <span class="red">(missing)</span>  
+[  &#12291; Cupid's Lament](../../season-1/meeting-05/cupids) → <span class="name">Miss Flaxman</span>  
+[  &#12291; With a Pancake](../../season-1/meeting-05/porden-2) → <span class="name">Mr Kay</span>  
+[  &#12291; Account of St Valentine](../../season-1/meeting-05/st-valentine) → <span class="name">&nbsp;</span>  
+[  &#12291; A Tale](../../season-1/meeting-05/tale) → <span class="name">Mr Flaxman and Co.</span>  
+[  &#12291; from Zephyrus](../../season-1/meeting-05/buds) → <span class="name">&nbsp;</span>  
+[  &#12291; from Euphemia](../../season-1/meeting-05/mr-porden-1) → <span class="name">&nbsp;</span>  
+[  &#12291; from Dido](../../season-1/meeting-05/mr-porden-2) → <span class="name">Mr Flaxman</span>  
+&#12291; French → <span class="name">Miss Porden</span> <span class="red">(missing)</span>  
+[  &#12291; “The lofty Lily”](../../season-1/meeting-05/lily) → <span class="name"></span>  
+[  &#12291; “Love is a burthen”](../../season-1/meeting-05/care) → <span class="name"></span>  
+[  &#12291; “Convinced a Married”](../../season-1/meeting-05/married) → <span class="name">com. Miss M’donald</span>  
+[  &#12291; “And canst thou say”](../../season-1/meeting-05/thou-say) → <span class="name">&nbsp;</span>  
+[  &#12291; “Awake sweet girl awake"](../../season-1/meeting-05/sweet-girl) → <span class="name">&nbsp;</span>  
+[Bellamira Barnacles](../../season-1/meeting-05/eliza) → <span class="name">D. Grant</span>  
+[Valentine Morning](../../season-1/meeting-05/morning) → <span class="name">Mr Kay</span>  
 
 <div class="bottom">
 <span class="meeting">No. 6&emsp;(1809-03-07)</span>  
 </div>
 
-The Jarvey → <span class="name">A young Lady</span>  
-The Muses Vagaries (No. 3)  →   
-Constellation No. 1 → <span class="name">Miss Porden</span>  
+[The Jarvey](../../season-1/meeting-06/jarvey) → <span class="name">A young Lady</span>  
+[The Muses Vagaries (No. 3) ](../../season-1/meeting-06/vagaries) →   
+[Constellation No. 1](../../season-1/meeting-06/constellation-1) → <span class="name">Miss Porden</span>  
 
 <div class="bottom">
 <span class="meeting">No. 7&emsp;(1809-03-25)</span>  
