@@ -49,7 +49,7 @@ visible: true
 
 [On Contemplating a Splendid Pile of Ruins](../../season-1/meeting-04/sonnet) → <span class="name">com. Mr. Flaxman</span>  
 [The Three Kisses](../../season-1/meeting-04/kisses) → <span class="name">Mr Joseph</span>  
-A Description of Monkey Island → <span class="name">Mr Porden</span> <span class="red">(missing)</span>  
+<span class="grey">A Description of Monkey Island</span> → <span class="name">Mr Porden</span> <span class="red">(missing)</span>  
 [The Queen Anne St. Ghost](../../season-1/meeting-04/ghost) → <span class="name">Mr Parkinson</span>
 [The Violet](../../season-1/meeting-04/violet) →  (Violetta)    
 
@@ -87,7 +87,7 @@ A Description of Monkey Island → <span class="name">Mr Porden</span> <span cla
 [  &#12291; from Zephyrus](../../season-1/meeting-05/buds) → <span class="name">&nbsp;</span>  
 [  &#12291; from Euphemia](../../season-1/meeting-05/mr-porden-1) → <span class="name">&nbsp;</span>  
 [  &#12291; from Dido](../../season-1/meeting-05/mr-porden-2) → <span class="name">Mr Flaxman</span>  
-&#12291; French → <span class="name">Miss Porden</span> <span class="red">(missing)</span>  
+<span class="grey">&#12291; French</span> → <span class="name">Miss Porden</span> <span class="red">(missing)</span>  
 [  &#12291; “The lofty Lily”](../../season-1/meeting-05/lily) → <span class="name"></span>  
 [  &#12291; “Love is a burthen”](../../season-1/meeting-05/care) → <span class="name"></span>  
 [  &#12291; “Convinced a Married”](../../season-1/meeting-05/married) → <span class="name">com. Miss M’donald</span>  
