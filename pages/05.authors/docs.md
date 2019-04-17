@@ -78,8 +78,8 @@ A Description of Monkey Island → <span class="name">Mr Porden</span> <span cla
 [  &#12291; “An ardent admirer of the Muses”](../../season-1/meeting-05/admirer) → <span class="name">Mr Kay</span>  
 [  &#12291; “See how the feather’d blossoms”](../../season-1/meeting-05/blossoms) → <span class="name">&nbsp;</span>  
 [  &#12291; “In grim array”](../../season-1/meeting-05/array) → <span class="name">Miss Maria Denman</span>  
-[  &#12291; Ellen](../../season-1/meeting-05/ictinus-1) → <span class="name">Mr Bond</span> <span class="red">(missing)</span>  
-[  &#12291; Greek](../../season-1/meeting-05/ictinus-1) → <span class="name">Mr Flaxman</span> <span class="red">(missing)</span>  
+&#12291; Ellen → <span class="name">Mr Bond</span> <span class="red">(missing)</span>  
+&#12291; Greek → <span class="name">Mr Flaxman</span> <span class="red">(missing)</span>  
 [  &#12291; Cupid's Lament](../../season-1/meeting-05/cupids) → <span class="name">Miss Flaxman</span>  
 [  &#12291; With a Pancake](../../season-1/meeting-05/porden-2) → <span class="name">Mr Kay</span>  
 [  &#12291; Account of St Valentine](../../season-1/meeting-05/st-valentine) → <span class="name">&nbsp;</span>  
