@@ -73,4 +73,4 @@ As skillful their stations they keep.
 At a distance beneath, the spire ’bove the  
 And the farm at the bottom appear
 
-<span data-tippy="Incomplete scan" class="green">(missing)</span>
+<span data-tippy="Incomplete scan" class="red">(missing)</span>
