@@ -14,7 +14,7 @@ visible: true
 
 &emsp;There was a little Man  
 &emsp;(’Twas so the story ran)  
-Who the wonder rais’d of many fold that knew it  
+Who the wonder rais’d of many fold that knew it;  
 &emsp;For he house had none at all  
 &emsp;But a dwelling very small.  
 It was nothing but a vinegar cruet.
@@ -23,7 +23,7 @@ It was nothing but a vinegar cruet.
 
 &emsp;His little wife beside  
 &emsp;Did there with him reside  
-And their children (nine in number) squeezed into it  
+And their children (nine in number) squeezed into it;  
 &emsp;Tho’ the space it was confin’d  
 &emsp;Yet as all were of a mind,  
 They found they’d room in plenty in the cruet.
@@ -32,7 +32,7 @@ They found they’d room in plenty in the cruet.
 
 This very little blade  
 &emsp;Was a fisherman by trade  
-And his skill it was with envy all did view it  
+And his skill it was with envy all did view it;  
 &emsp;Christen’d Alamon was he  
 &emsp;And surnam’d Tippeny  
 Widely famous for his vinegar cruet.
@@ -41,7 +41,7 @@ Widely famous for his vinegar cruet.
 
 Now the story it went on  
 &emsp;That the good Alamon  
-One morning in the sea his net threw it  
+One morning in the sea his net threw it;  
 &emsp;But the finny tribe that day,  
 &emsp;Kept all out of the way  
 And he fail’d of his provision for the cruet.
@@ -50,7 +50,7 @@ And he fail’d of his provision for the cruet.
 
 When a young eel not aware  
 &emsp;Nor taught to mind the snare  
-Where the net was slyly laid, jump’d into it  
+Where the net was slyly laid, jump’d into it;  
 &emsp;Wise Tippenny he said  
 &emsp;“Half loaf’s better than no bread  
 So I’ll take this little fish home to my cruet.
@@ -59,7 +59,7 @@ So I’ll take this little fish home to my cruet.
 
 The young fish then in a fright  
 &emsp;When she found her dismal plight  
-Her imprudence began now to rue it  
+Her imprudence began now to rue it;  
 &emsp;To the fisherman she said  
 &emsp;Ah thou worthy little blade  
 Take me not to your vinegar cruet.
