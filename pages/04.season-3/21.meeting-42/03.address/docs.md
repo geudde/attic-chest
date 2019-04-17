@@ -54,13 +54,13 @@ Somnus alone should show his power,
 &emsp;And wrap in slumbers drowsy man.
 
 To violate such needful rest  
-&emsp;The tyrant fashion, oft bears sway  
+&emsp;The tyrant fashion oft bears sway  
 And dizened out, or half undressed  
 &emsp;Her votaries calls to revelry.
 
 Then o’er the stones the coaches rattle  
 &emsp;The flambeaux blaze the streets along  
-The Gemmens grin, the ladies prattle,  
+The *Gemmens* grin, the ladies prattle,  
 &emsp;And all is bustle, buzz and throng.
 
 Now jostling thro’ the lighted hall  
