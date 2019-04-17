@@ -36,12 +36,12 @@ visible: true
 <span class="meeting">No. 3&emsp;(1809-01-24)</span>  
 </div>
 
-Sonnet to a Nightingale → <span class="name">C. Sanders</span>  
-To St Andrew → A. Bower <span class="name">com. Mr. Flaxman</span>  
-On hearing a Lady Sing → <span class="name">Mr Joseph</span> (Timanthes)  
-To Sir John Barrington on His Birthday → <span class="name">Mr Porden</span>  
-The Muses Vagaries continu’d →   
-A Riddle → <span class="name">com. Mr. Flaxman</span>  
+[Sonnet to a Nightingale](../../season-1/meeting-03/nightingale) → <span class="name">C. Sanders</span>  
+[To St Andrew](../../season-1/meeting-03/andrew) → A. Bower <span class="name">com. Mr. Flaxman</span>  
+[On Hearing a Lady Sing](../../season-1/meeting-03/amiable) → <span class="name">Mr Joseph</span> (Timanthes)  
+[To Sir John Barrington on His Birthday](../../season-1/meeting-03/barrington) → <span class="name">Mr Porden</span>  
+[The Muses Vagaries cont.](../../season-1/meeting-03/muses) →   
+[A Riddle](../../season-1/meeting-03/riddle) → <span class="name">com. Mr. Flaxman</span>  
 
 <div class="bottom">
 <span class="meeting">No. 4&emsp;(1809-02-07)</span>  
