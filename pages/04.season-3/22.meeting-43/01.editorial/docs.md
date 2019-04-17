@@ -28,9 +28,7 @@ This the reviewer pronounces sad stuff; but to us it is a sweet sentiment dresse
 
 The comparison between days of yore and modern times is not intended to be to the advantage of the latter; but the author must not imagine that in the days of chivalry ladies were not under the dominion of vanity though it might not always have dress and finery for its object. Dress and rank, and riches had then perhaps as much influence as at present, but in those giant-killing times, if they chanced to be united in the person of a Rhoderick Dhu the hero carried all before him. In spite of the gentlemanly chivalry of a Fitz-James this little jeu d’esprit is well versified and the points of comparison well preserved.
 
-We think highly of the verses address’d “To a Lady on the Palpitation of Her Heart”, the composition of a stranger who in future year will perhaps further enrich our repository. His heaven is finely imagined.
-
-It is all that yields delight on Earth to the good and wise. Etherealized and word that is new to us and as beautiful as new.
+We think highly of the verses address’d “To a Lady on the Palpitation of Her Heart”, the composition of a stranger who in future year will perhaps further enrich our repository. His heaven is finely imagined. It is all that yields delight on Earth to the good and wise. *Etherealized* is a word that is new to us and as beautiful as new.
 
 The whimsical History of Alamon Tippeny must not be passed over with a note of approbation only. It is an instructive exhibition of the ill consequences of an eager desire for riches and splendour in weak minds and of the happiness which mortal man may find in every situation if he will limit his wishes to his actual wants. The desire of wealth, of power, of praise, of distinction, are however among the machinery which heaven employs to put mankind in motion and lift our nature above the Earth we tread on. When inspired by religion and virtue & directed by intellectual energy they lead to all that is noble and sublime, to honour and glory. In the vicious and the weak these desire terminate in disgrace and misery.
 
