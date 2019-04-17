@@ -43,7 +43,7 @@ And e’en thy notes were empty air.
 Where souls shall taste their favorite joys;  
 Loud din of arms, or fiery steeds,  
 Or social walks o’er smiling meads,  
-Sweet flow’rets cull ’mid heavenly bowers,[^1]
+Sweet flow’rets cull ’mid heavenly bowers,[^1]   
 And dwell in fairy-cups of flowers,  
 Or with soft Houris eager sip  
 Sweet nectar from the rosy lip.
@@ -63,7 +63,7 @@ Concentered, throned in ecstasy.
 And stretch beyond thought’s utmost bourn;  
 But most with music I would stray,  
 With hymns divide the imaged day,  
-List to Comala’s seraph graces,[^2]
+List to Comala’s seraph graces,[^2]  
 Still still behold those heavenly faces,  
 And while thy notes new joy impart,  
 Feel each soft thrilling of thy heart.
