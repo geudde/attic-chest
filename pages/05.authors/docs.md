@@ -629,7 +629,7 @@ The Restoration Book 3d Cantos 1st and 2d → <span class="name">Miss Porden</sp
 
 Sonnet Written in the Favorite Chair of Dean Swift → <span class="name">com. Miss Beslee</span>  
 The Author’s Address to His Muse → <span class="name">com. Miss F. Richardson</span>  
-Familiar Epistle to a Daughter → <span class="name">com. Miss Beslee</span> <span class="red">(incomplete scan)</span>  
+Familiar Epistle to a Daughter → <span class="name">com. Miss Beslee</span> <span class="red">(incomplete)</span>  
 The Hern → <span class="name">com. Mr Porden</span>  
 To a Lady Distinguished by Her Dutiful Attention → <span class="name">com. Mr Porden</span>  
 The Sylphiad Canto 4th → <span class="name">Mr Vignoles </span> <span class="red">(withdrawn)</span>  
