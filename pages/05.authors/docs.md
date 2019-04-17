@@ -645,7 +645,7 @@ Days of Yore → <span class="name">Miss F. Richardson</span>
 Music, Feeling, and Palpitation → <span class="name">Mr Hinckley</span>  
 Alamon Tippenny → <span class="name">Miss F. Richardson</span>  
 The Sylphiad Canto 5th → <span class="name">Mr Vignoles </span> <span class="red">(withdrawn)</span>  
-The Restoration Book 3d Canto 3 and 4 → <span class="name">Miss Porden</span>  
+The Restoration Book 3d Canto 3 and 4 → <span class="name">Miss Porden</span> <span class="red">(withdrawn)</span>  
 
 <div class="bottom">
 <span class="meeting">No. 44&emsp;(1811-07-02)</span>  
