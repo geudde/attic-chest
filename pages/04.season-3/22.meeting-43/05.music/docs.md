@@ -10,7 +10,7 @@ visible: true
 
 > To a lady who fancied she would sing better, could she pacify the palpitation of her heart.
 > 
-> Partly written during the performance of Mrs Stuart’s Comala at H. Hinckley’s Upper Guilford St 14 May 1811 by J. H.
+> Partly written during the performance of Mrs Stuart’s _Comala_ at H. Hinckley’s, Upper Guilford St, 14 May 1811 by J. H.
 
 &emsp;Ah could my panting heart be still,  
 And fluttering nerves obey my will!  
