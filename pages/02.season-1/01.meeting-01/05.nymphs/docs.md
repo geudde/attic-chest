@@ -46,11 +46,11 @@ Each heart his treach’rous confest
 And thus these rash immortals cried.  
 
 “Oh! Love, restore the soft repose  
-“We late possess’d till here you came  
-“Not our own streams can cool the flame  
-“That in each tortur’d bosom glows!”  
+We late possess’d till here you came  
+Not our own streams can cool the flame  
+That in each tortur’d bosom glows!”  
 
 “Cherish the warmth that I inspire”  
 Says Love, “nor thus my conduct blame,  
-“I, when I please, excite the fire  
-“But cannot quench the rising flames!”
+I, when I please, excite the fire  
+But cannot quench the rising flames!”
