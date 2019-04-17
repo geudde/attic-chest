@@ -131,19 +131,19 @@ The Lamentation of Pegasus → <span class="name">Miss Porden</span>
 The Chest of Eleanora → <span class="name">Miss Parkinson</span>  
 The Fete de la Rose → Mrs. Hoole <span class="name">com. by Mrs. Kay</span> <span class="red">(missing)</span>  
 Constellation No. 3 → <span class="name">Miss Porden</span>  
-A Riddle on Buonaparte → Newspaper <span class="red">(missing)</span>  
+<span class="grey">A Riddle on Buonaparte</span> → <span class="red">(missing)</span>  
 
 <div class="bottom">
 <span class="meeting">No. 9&emsp;(1809-05-02)</span>  
 </div>
 
-The Dove from Anacreon → <span class="name">Mr Porden</span>  <span class="red">(missing)</span>   
+<span class="grey">The Dove from Anacreon</span> → <span class="name">Mr Porden</span> <span class="red">(missing)</span>   
 Anacreon Ode 29 → <span class="name">Mr Bond</span>  
 The Rose a Coquette → <span class="name">Miss Flaxman</span>  
 On a Young Lady who Spoilt a Fine Complexion → <span class="name">Mr Joseph</span>  
 Horace Book 2 Ode 16 → <span class="name">Mr Bond</span> (Demos)  
 Epigram or Dr. Toe → <span class="name">com. Mr Flaxman</span>  
-Answer to the Riddle on Buonaparte → <span class="name">Mr Porden</span> <span class="red">(missing)</span>  
+<span class="grey">Answer to the Riddle on Buonaparte</span> → <span class="name">Mr Porden</span> <span class="red">(missing)</span>  
 Constellation No. 4 → <span class="name">Miss Porden</span>  
 
 <div class="bottom">
@@ -165,13 +165,13 @@ To Roberto again → <span class="name">Miss Porden</span>
 </div>
 
 Impromptu written on the Margate Packet → <span class="name">&nbsp;</span>  
-The Apotheosis → <span class="name">Mr Flaxman</span> <span class="red">(missing)</span>  
+<span class="grey">The Apotheosis</span> → <span class="name">Mr Flaxman</span> <span class="red">(missing)</span>  
 Address to the Clouds on St. Valentine’s Day → <span class="name">Miss Porden</span>  
 Anacreon Ode 1 → <span class="name">Mr Parkinson</span>  
 Another  &#12291; → <span class="name">Mr Bond</span>  
 Another  &#12291; → <span class="name">Mr Porden</span>  
-Query in Natural History → <span class="name">Mr Parkinson</span> <span class="red">(Meeting 15)</span>    
-Answer → <span class="name">Mr Porden</span> <span class="red">(Meeting 15)</span>   
+<span class="grey">Query in Natural History</span> → <span class="name">Mr Parkinson</span> <span class="red">(Meeting 15)</span>    
+<span class="grey">Answer</span> → <span class="name">Mr Porden</span> <span class="red">(Meeting 15)</span>   
 
 <div class="bottom">
 <span class="meeting">No. 12&emsp;(1809-07-14)</span>  
@@ -182,7 +182,7 @@ Sonnet → <span class="name">Miss Porden</span> (Sophis)
 Flattery Rejected → <span class="name">Mr Joseph</span>  
 The Floral Senate → <span class="name">Miss Porden</span>  
 Sonnet to Roberto → <span class="name">Miss Porden</span>  
-A Fragment from the Greek → <span class="name">Mr Flaxman</span> <span class="red">(missing)</span>   
+<span class="grey">A Fragment from the Greek</span> → <span class="name">Mr Flaxman</span> <span class="red">(missing)</span>   
 Farewell Address from the Attic Chest → <span class="name">Miss Porden</span>  
 
 <div class="bottom">
@@ -486,7 +486,7 @@ Since Phosphorus was the Name of Yore → <span class="name">Miss Porden</span>
 Grecian Anecdotes → <span class="name">com. Mrs Flaxman</span>  
 Ornaments of Dress → <span class="name">Miss Porden</span>  
 Vox Stellarum concluded → <span class="name">Miss Porden</span>  
-The Sylphiad Canto 1st → <span class="name">Mr Vignoles </span> <span class="red">(withdrawn)</span>  
+<span class="grey">The Sylphiad Canto 1st</span> → <span class="name">Mr Vignoles </span> <span class="red">(withdrawn)</span>  
 
 <div class="bottom">
 <span class="meeting">No. 34&emsp;(1811-02-12)</span>  
@@ -502,7 +502,7 @@ Epigram on the Chinese Astronomers Ho and Hi → <span class="name">com. Mr Vign
 Valentine’s Day Anticipated → <span class="name">Miss Richardson</span> (L.I.F.)  
 Prose and Verse, signed Jess Macfarland → <span class="name"> Mrs Staveley</span>  
 Charade: Housewife → <span class="name"> com. Miss Beslee</span>  
-The Restoration Cantos 1 and 2 → <span class="name">Miss Porden</span> <span class="red">(withdrawn)</span>   
+<span class="grey">The Restoration Cantos 1 and 2</span> → <span class="name">Miss Porden</span> <span class="red">(withdrawn)</span>   
 
 <div class="bottom">
 <span class="meeting">No. 35&emsp;(1811-02-26)</span>  
