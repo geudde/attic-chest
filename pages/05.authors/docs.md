@@ -644,8 +644,8 @@ The Captive Lover’s Epistle → <span class="name">Miss Flaxman</span>
 Days of Yore → <span class="name">Miss F. Richardson</span>  
 Music, Feeling, and Palpitation → <span class="name">Mr Hinckley</span>  
 Alamon Tippenny → <span class="name">Miss F. Richardson</span>  
-The Sylphiad Canto 5th → <span class="name">Mr Vignoles </span> <span class="red">(withdrawn)</span>  
-The Restoration Book 3d Canto 3 and 4 → <span class="name">Miss Porden</span> <span class="red">(withdrawn)</span>  
+<span class="grey">The Sylphiad Canto 5th</span> → <span class="name">Mr Vignoles </span> <span class="red">(withdrawn)</span>  
+<span class="grey">The Restoration Book 3d Canto 3 and 4</span> → <span class="name">Miss Porden</span> <span class="red">(withdrawn)</span>  
 
 <div class="bottom">
 <span class="meeting">No. 44&emsp;(1811-07-02)</span>  
@@ -659,7 +659,12 @@ To Anna “Forget Me Not” → <span class="name">Miss Flaxman</span>
 The Lawyer’s Ramble → <span class="name">Miss Porden</span>  
 “Nestling on the Barren Cliffs” → <span class="name">Mr Watson</span>  
 Sonnet to Expression → <span class="name">com. Mr Vignoles</span>  
-The Restoration Book 4 Canto 3 → <span class="name">Miss Porden</span>  
+<span class="grey">The Restoration Book 4 Canto 3</span> → <span class="name">Miss Porden</span> <span class="red">(withdrawn)</span>
+
+<div class="bottom">
+<span class="meeting">No. 45&emsp;(1811-07-16)</span>  
+</div>
+ 
 To Miss Porden → <span class="name">Mr Vignoles</span> (Amicusa)  
 “When Stella Waves This Little Wand”  → <span class="name">Miss Flaxman</span>  
 “Let Others Sing of Deeds of Arms” → <span class="name">Mrs Staveley</span>  
@@ -672,4 +677,4 @@ Au Revoir → <span class="name">Miss Flaxman</span>
 Blue Beard → <span class="name">Miss F. Richardson</span>  
 “Hail to the Nymph” → <span class="name">Mr Kay</span>  
 Letter Proposing the Decoration of the Attic Chest → <span class="name"> Mrs Kay</span>  
-Restoration Book 4th Canto 4 → <span class="name">Miss Porden</span>  
+<span class="grey">Restoration Book 4th Canto 4</grey> → <span class="name">Miss Porden</span> <span class="red">(withdrawn)</span>  
