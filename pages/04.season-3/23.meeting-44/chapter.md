@@ -7,10 +7,11 @@ taxonomy:
 # 2 July 1811
 
 1. [Editorial](editorial)
-2. [Rules for Becoming a Popular Writer]()
-3. [A Nursery Song]()
-4. [Verses Written on the Door of a Temple]()
-5. [To Anna]()
-6. [The Lawyer’s Ramble]()
-7. [Nestling on the Barren Cliffs]()
-8. [Sonnet to Expression]()
+2. [Rules for Becoming a Popular Writer](rules)
+3. [A Nursery Song](nursery)
+4. [Verses Written on the Door of a Temple](door)
+5. [A Nuptial Song](nuptial)
+6. [To Anna](anna)
+7. [The Lawyer’s Ramble](lawyers)
+8. [Nestling on the Barren Cliffs](nestling)
+9. [Sonnet to Expression](sonnet)
