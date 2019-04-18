@@ -48,10 +48,10 @@ Both knight and armour to repair,
 And each when riveted with gold  
 Would many a tough encounter hold.
 
-But ye have flown, ye little Loves!
-With all the cake, and all the gloves!
+But ye have flown, ye little Loves!  
+With all the cake, and all the gloves!  
 Ye’ve left me here to go at random  
-Just like a what? Why like a tandem!
+Just like a what? Why like a tandem!  
 And should I chance to go astray  
 Or should my leader run away  
 Could I, unskillful hope to shun  

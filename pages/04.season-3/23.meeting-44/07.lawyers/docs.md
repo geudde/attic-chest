@@ -35,7 +35,7 @@ At length, oh Muse the wonder tell,
 He shot a bird at distance fell.  
 Soon as his fallen bird he found  
 He turned, and turned, and turned around.  
-And long he pondered in his mind,
+And long he pondered in his mind,  
 To recollect its name and kind.  
 “All pheasants I before have seen,”  
 He said, “were gay with gold and green,  
@@ -66,7 +66,7 @@ And in such things since little skilled,
 Would fain know what I now have killed.”
 
 The country man looked in his face,  
-And then replied with quaint grimace
+And then replied with quaint grimace  
 “You jest, sir, you must surely know,  
 The bird you’ve killed’s a carrion crow.”  
 
@@ -94,7 +94,7 @@ Our lawyer to the inn he sought,
 And then, for chill th’autumnal dew,  
 And rough and rudely Boreas blew,  
 When about food he had enquired,  
-To have a fire he much desired.
+To have a fire he much desired.  
 But tho’ he careful looked around  
 No grate in all the room he found  
 This to the landlord named; the man,  
@@ -125,7 +125,7 @@ A cheerful faggot blazing bright,
 And learnt to his surprise that there  
 The name of lawyers, faggots bear,  
 And now ashamed of all his fears,  
-He rack’d his mind with fancied sneers
+He rack’d his mind with fancied sneers  
 And reddened at the degradation,  
 He deemed so mean an application,  
 Threw on the lawyer’s name and station.  
@@ -182,7 +182,7 @@ The smile that decked each traveller’s face,
 For all along the busy road  
 A smile each passing visage showed,  
 And all thro’ London’s crowded streets  
-Smiles grace the lips of all he meets.
+Smiles grace the lips of all he meets.  
 Tho’ seldom public streets he ventures,  
 But all the lanes and alleys enters,  
 &emsp;And now returned, to all his friends,  
