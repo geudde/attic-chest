@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Mrs Stavely</div>
+
 Let others sing of deeds of arms  
 Of lovers’ joys or love’s alarms  
 I choose a milder, better lay,  
