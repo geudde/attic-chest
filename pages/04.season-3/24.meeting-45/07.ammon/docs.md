@@ -25,14 +25,10 @@ Of the gods above.
 
 But when commissioned with the high behest  
 Instant he quits the balmy rest.
-
-## D3311 18 14_00063
-
 With out-stretched neck  
 He wings his rapid flight  
 Darts thro’ the gathering storm  
 And spurns the blackening night.  
-
 
 Returning to the skies  
 He mingles in the sun’s far blazing beams  
@@ -46,4 +42,4 @@ That heroes may thy song rehearse,
 So be thy eagle vision fixed above  
 That thy repose be by the throne of Jove.
 
-J.F.
+J. F.
