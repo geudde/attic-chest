@@ -24,7 +24,7 @@ In the full synod
 Of the gods above.
 
 But when commissioned with the high behest  
-Instant he quits the balmy rest.
+Instant he quits the balmy rest.  
 With out-stretched neck  
 He wings his rapid flight  
 Darts thro’ the gathering storm  
