@@ -22,7 +22,7 @@ The Attic Chest contributions exhibit inconsistency of spelling, capitalization,
 
 > <span class="pencil">An Ode to Summer</span> 
 
-**Corrections:** William Porden, the Senior Editor of the Attic Chest, occasionally made corrections to submissions, invariably improving on the original. On the assumption that the edited versions were those read out at meetings, these are indicated in green, with the original visible by hovering over the relevant text: 
+**Corrections:** William Porden occasionally made corrections to submissions, invariably improving on the original. On the assumption that the edited versions were those read out at meetings, these are indicated in green, with the original visible by hovering over the relevant text: 
 
 > This is an example of a textual correction. Hover over <span data-tippy="original version here" class="green">the green text</span> to see the original. 
 
