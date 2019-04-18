@@ -43,9 +43,6 @@ When he’d no griffon left to ride on,
 Or magic steed that he could bide on,  
 Returned he then with armour battered  
 Sir Knight perhaps a little shattered  
-
-## D3311 18 14_00040
-
 Be sure to find the constant fair,  
 Both knight and armour to repair,  
 And each when riveted with gold  
