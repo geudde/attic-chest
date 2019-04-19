@@ -18,10 +18,10 @@ That speaks the mind within.
 
 A face when awful honour shines,  
 Where sense and sweetness move,  
-And Angel innocence refines  
+And angel innocence refines  
 The tenderness of love.  
 
-These are the soul of Beauty’s frame,  
+These are the soul of beauty’s frame,  
 Without whose vital aid  
 Unfinish’d all her features seem,  
 And all her roses fade.  

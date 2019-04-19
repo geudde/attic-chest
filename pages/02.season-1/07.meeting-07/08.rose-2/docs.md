@@ -10,12 +10,12 @@ visible: true
 
 ##### From Bernard
   
-(Charlotte Smith has given an elegant Imitation of this little Ode, but has erroneously ascribed it to the Cardinal Bernis. E.)  
+(Charlotte Smith has given an elegant imitation of this little ode, but has erroneously ascribed it to the Cardinal Bernis. E.)  
   
-Nurs’d by the Zephyr’s balmy sighs,  
-And cherish’d by the tears of Morn;  
+Nurs’d by the zephyr’s balmy sighs,  
+And cherish’d by the tears of morn;  
 O flow’r of flow’rs! unfold — arise!  
-O haste,, delicious Rose, be born!  
+O haste,, delicious rose, be born!  
   
 Unheeding wish I no — yet awhile,  
 Be yet awhile thy dawn delay’d;  
@@ -38,8 +38,8 @@ Go, bright yet hurtless charm her eyes;
 Go, deck her bosom, not conceaL  
   
 Should some bold hand invade thee there,  
-From Love’s asylum rudely torn;  
-O Rose, a Lover’s vengeance bear,  
+From love’s asylum rudely torn;  
+O rose, a lover’s vengeance bear,  
 And let my rival feel thy thorn.  
   
 Charles A. Elton

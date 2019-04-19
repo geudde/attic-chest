@@ -8,32 +8,32 @@ visible: true
 
 <div class="author">Miss Parkinson</div>
 
-What if the Gods their Tributes brought,  
+What if the Gods their tributes brought,  
 To fill the box of fam’d Pandora;  
 Behold! with equal treasures fraught,  
-Thy precious Casket — Eleanora!  
+Thy precious casket — Eleanora!  
   
 More favour’d than that fatal Chest —  
-Not to this consecrated Coffer,  
-By Virtue, and by Genius blest,  
-One Gift shall Vice or Folly offer.  
+Not to this consecrated coffer,  
+By virtue, and by genius blest,  
+One gift shall vice or folly offer.  
   
 Phoebus, whose summer glory plays  
-Around the Charriot of Aurora;  
+Around the chariot of Aurora;  
 Now gilds with intellectual rays,  
 Thy sacred Chest, Oh Eleanora!  
   
 The Bird whose eye shuns vulgar light,  
 Unerring darts thro’ shades nocturnal;  
 Here charged to bend his secret flight,  
-With Wisdom’s characters supernal.  
+With wisdom’s characters supernal.  
   
-Here shall the Doves of Venus bring  
-The emblematic Gifts of Flora;  
-And bid stern Winter smile like Spring,  
+Here shall the doves of Venus bring  
+The emblematic gifts of Flora;  
+And bid stern winter smile like spring,  
 To grace the Chest of Eleanora.  
   
 Lo! as her guardian fingers ope  
-The Lid, each mystic Leaf that covers;  
-Around th’ ideal Buds, soft Hope  
-Flutt’ring like vernal Zephyr hovers!
+The lid, each mystic leaf that covers;  
+Around th’ ideal buds, soft hope  
+Flutt’ring like vernal zephyr hovers!

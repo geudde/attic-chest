@@ -22,7 +22,7 @@ Bernard
 ##### The Rose  
   
 Child of Aurora’s tearful dews,  
-Flora’s gay empress, lovely Rose,  
+Flora’s gay empress, lovely rose,  
 To whom mild Zephyr trembling sues,  
 Haste and thy blushing sweets disclose!  
   

@@ -12,20 +12,20 @@ visible: true
   
 > A Translation of the Forty-eighth Ode of Anacreon  
   
-Give me Homer’s golden Lyre  
-But without it’s sanguine String  
-From the Altar’s holy Fire  
-Here the foaming Goblet bring.  
+Give me Homer’s golden lyre  
+But without it’s sanguine string  
+From the altar’s holy fire  
+Here the foaming goblet bring.  
   
-Then I’ll mix the rosy Wine  
-All it’s Dictates then obey  
-With the laughing Chorus join  
-And with temper’d Madness play.  
+Then I’ll mix the rosy wine  
+All it’s dictates then obey  
+With the laughing chorus join  
+And with temper’d madness play.  
   
-Singing to my sounding Shell  
-I’ll it’s chearful Chords explore  
+Singing to my sounding shell  
+I’ll it’s chearful chords explore  
 Chords from which none else so well  
-The Strains by Wine inspir’d can pour.  
+The strains by wine inspir’d can pour.  
   
 May 7th 1806  
   

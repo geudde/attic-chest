@@ -11,34 +11,34 @@ visible: true
 > An authors address to his first work,  
 on its going to be printed.  
   
-Oh spring like Pallas, daughter of the Brain,  
-First darling Product of my spousal Muse,  
-List to a Parents Love-incited strain,  
+Oh spring like Pallas, daughter of the brain,  
+First darling product of my spousal Muse,  
+List to a parent’s love-incited strain,  
 And in thy breast the dictates deep infuse!  
   
-When to the Bridegroom *Press* your fairly wed,  
+When to the bridegroom *press* your fairly wed,  
 Thy virgin beauties duly laid in *sheets*  
 May num’rous offspring grace thy bridal bed,  
-And spread thy fame thro’ Learning’s lov’d retreats.  
+And spread thy fame thro’ learning’s lov’d retreats.  
   
-But chief tho’ that fair *Row*[^1], where loads of Lore,  
+But chief tho’ that fair *Row*[^1], where loads of lore,  
 Of sense and nonsense, cram the bending shelf;  
-Where Folly’s fictions, and the Sages store,  
+Where folly’s fictions, and the sage’s store,  
 By turns are barter’d for substantial pelf.  
   
-And guard lest Critic Cerberus upbraid  
+And guard lest critic Cerberus upbraid  
 Growling for want of customary slice;  
-Swift give the Cur, the tribute of his trade,  
-Since Praise is bought and Critics have their price.  
+Swift give the cur, the tribute of his trade,  
+Since praise is bought and critics have their price.  
 
 And know, *slow sale*, (oh deep vexation) waits  
-The Author, lash’d by rude Reviewers’ stripes,  
-His works, immortal Gods, shall fill up Grates  
-Or line Portmanteaus, or illumine Pipes!  
+The author, lash’d by rude reviewers’ stripes,  
+His works, immortal gods, shall fill up grates  
+Or line portmanteaus, or illumine pipes!  
   
 Pompous *Morocco*, economic *sheep*,  
 Nor royal *Russia* cloath his bantling’s back;  
 Dread this my child — ascend Parnassus’ steep,  
-A Parent’s Hopes attend thee on thy track! —
+A parent’s hopes attend thee on thy track! —
 
 [^1]: Pater-noster Row  

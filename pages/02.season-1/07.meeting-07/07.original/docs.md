@@ -20,12 +20,12 @@ And dost thou no longer remain
 Involv’d in the shadows of night!  
   
 To wander thro’ life ’mid the gloom  
-And the horrors that Fancy displays,  
+And the horrors that fancy displays,  
 To be told of the bud and the bloom,  
 Of light—and the sun’s golden rays.  
   
 Like one that a long time hath been  
-From the Friends of his youth faraway,  
+From the friends of his youth faraway,  
 Thou art come to revisit the scene  
 That made life’s early morning so gay.  
   

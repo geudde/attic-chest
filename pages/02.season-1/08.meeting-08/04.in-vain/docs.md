@@ -8,13 +8,13 @@ visible: true
 
 <div class="author">Mr Henry Thomson</div>
 
-In vain I urg’d the Gods above,  
-To speed me to my anxious Love.  
+In vain I urg’d the gods above,  
+To speed me to my anxious love.  
 I sought on Iris’ bow to glide,  
 Or seated by fair Venus’ side  
 Amidst the Graces and the Loves,  
 To guide the travel of her doves.  
-Even in his Car would Neptune deign,  
+Even in his car would Neptune deign,  
 To urge his dolphins o’er the main,  
 I’d been content with him to ride  
 So I might reach my promis’d bride.  
@@ -28,13 +28,13 @@ Amphitrite his chariot claims;
 “Tomorrow — if thou needs must go —  
 Forbear,” I cry. “’twas madness! know  
 I cannot, will not, brook delay,  
-Tomorrow is my Wedding Day.  
+Tomorrow is my wedding day.  
   
 Lost hapless swain! Heart-stricken wight!  
-And do the Gods forsake thee quite?  
+And do the gods forsake thee quite?  
 Ah no! See Cupid’s self appear,  
-His drooping Votary to cheer:  
+His drooping votary to cheer:  
 “Avaunt,” he cries. “Ye chilling fears,  
 Give to the winds those bootless tears,  
 I swear, thy journey shall not fail  
-For Love, this night, will drive **The Mail**”
+For love, this night, will drive **The Mail**”
