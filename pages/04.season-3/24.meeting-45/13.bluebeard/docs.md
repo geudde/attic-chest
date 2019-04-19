@@ -126,7 +126,7 @@ Thus vaunted on this Beard of Blue.
 
 “And you’ve the key of every room  
 But this of brilliant sapphire hue  
-On this one key depends your doom”
+On this one key depends your doom”  
 He said, and shook his Beard of Blue.
 
 18
@@ -216,7 +216,7 @@ To welcome home great Beard of Blue.
 30
 
 “Right welcome home, my lord,” she cried  
-“This quick return I look’d not to”
+“This quick return I look’d not to”  
 “I’m glad it gives you joy,” replied  
 With doubting accent, Beard of Blue.
 
