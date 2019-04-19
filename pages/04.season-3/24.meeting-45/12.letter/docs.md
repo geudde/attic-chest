@@ -1,10 +1,12 @@
 ---
-title: 'Letter Proposing the Decoration of the Attic Chest'
+title: 'Decoration of the Attic Chest'
 taxonomy:
     category:
         - docs
 visible: true
 ---
+
+##### Letter Proposing the Decoration of the Attic Chest
 
 <div class="author">Mrs Kay</div>
 
