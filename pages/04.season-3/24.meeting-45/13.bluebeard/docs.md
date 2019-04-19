@@ -48,7 +48,7 @@ All who had wedded Beard of Blue.
 6
 
 Now one grand lady there dwelt near  
-(The mother of fair daughters two)
+(The mother of fair daughters two)  
 And this same lady lent no ear  
 To what was said ’gainst Beard of Blue.
 
