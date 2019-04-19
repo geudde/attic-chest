@@ -15,14 +15,14 @@ And light on his seat in a twinkling he springs.
 He said, “That till night he would ride up and down  
 And view all that was worthy of sight in the town,  
 And as people at that end, I’ve heard are all witty,  
-I’ll just see what <span data-tippy="fun’s going on in the City" class="green">fun may be found in the City</span>.”   
+I’ll just see what <span data-tippy="fun’s going on in the City" class="green">fun may be found in the city</span>.”   
 <span data-tippy="Missing" class="red">[ . . . ]</span> his brisk steed on a trot,  
 And who laughed at his wings, he ne’er minded a jot;  
 But remembering what formerly Peg had endured,  
-His tail in a neat Leather Bag he’d secured.  
+His tail in a neat leather bag he’d secured.  
 ’Tis needless to tell in what stile he did dash on,  
 Through Bond Street, whose loungers admired the new fashion;  
-And each Knight of the Whip gave his orders for wings,  
+And each knight of the whip gave his orders for wings,  
 And thought, spite of shew, they’d be nice useful things;  
 But they all were unlucky, each shopman declared,  
 Of such things till then, he, alas had ne’er heard.  
@@ -45,7 +45,7 @@ When Hermes had thus on the business agreed
 He began just to think about stopping his steed  
 But he found that poor Peg had gone so much astray  
 That back to his lodgings he knew not the way  
-So at the Tavern he comes to he stops  
+So at the tavern he comes to he stops  
 And ordered directly some nice mutton chops  
 As I’m hungry, said he, to eat first will be better  
 I shall write more at ease and at leisure my letter  
@@ -53,17 +53,17 @@ His dinner he ate, and then called for a taper
 With some sealing wax good, some ink, pen, and paper.  
 In writing his verses our friend took some time  
 And was often, I’m told, sore perplexed for a rhyme  
-For Fate o’er his mind her black venom distilled  
+For fate o’er his mind her black venom distilled  
 And his head with most doleful presages <span data-tippy="filled" class="green"> she filled</span>   
 But at last he concluded, his letter he sealed  
 (The contents, tho’ a poet, to me unrevealed)  
-He called for a Porter, and I heard him say  
+He called for a porter, and I heard him say  
 Ask plenty for porterage, ’tis Valentines day. —  
 And seeing the day was now near its decline  
 He put his hat on, when he’d drank off his wine  
 But with sorrow and wonder, his horse he perceived  
-Was flown, to the Moon, as the waiters believed  
-The Rain was in torrents beginning to pour  
+Was flown, to the moon, as the waiters believed  
+The rain was in torrents beginning to pour  
 And the sad chance perplexed our gay traveller sore;  
 Conjectures by dozens arose in his mind,  
 But not one that was plausible even could find  
