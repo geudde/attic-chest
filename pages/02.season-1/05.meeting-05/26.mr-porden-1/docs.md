@@ -7,13 +7,13 @@ visible: true
 ---
 
 Hail matchless Architect whose tuneful tongue,  
-Can fascinate as erst the Syren’s song,  
-Whose Hand address and eloquence refin’d;  
+Can fascinate as erst the syren’s song,  
+Whose hand address and eloquence refin’d;  
 Achieve each purpose of thy pregnant mind;  
 Now grave, thy subject wisdom’s self sustains,  
-Now chasten’d Wit, thy brilliant Fancy reins,  
+Now chasten’d wit, thy brilliant fancy reins,  
 Nor less if versatile thou sweep the lyre,  
-Their favor’d Poet all the Muses fire,  
+Their favor’d poet all the Muses fire,  
 Thine too, the silent qualities that please,  
 The smile complacent & the courtly ease.  
 The dignity that awes, but not alarms;  

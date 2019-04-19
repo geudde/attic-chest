@@ -20,7 +20,7 @@ Speak the no— anguish of my heart;
 And, feeling nothing, sigh & whine    
 Like a false modern Valentine.    
     
-But I can love with Love so true    
+But I can love with love so true    
 As e’en almost to merit you.    
 With thine my heart-strings I can twice    
 O take me for thy Valentine!    
@@ -35,13 +35,13 @@ Shall meet its brother in my breast.
 With thee I’ll smile, with Thee I’ll pine,    
 In joy or grief thy Valentine.    
     
-The kindest Turtles of the grove    
+The kindest turtles of the grove    
 Nor do, nor can more truly love,    
 E’en while their glowing beaks they join,    
 Than my Eliza’s Valentine:    
     
 For blended in my constant heart,    
-Friendship, & Love devoid of art,    
+Friendship, & love devoid of art,    
 In cordial unison combine    
 To make me a true Valentine.    
     

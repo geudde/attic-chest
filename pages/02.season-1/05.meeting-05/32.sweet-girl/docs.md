@@ -8,20 +8,20 @@ visible: true
 
 <div class="author">Communicated by Miss M’Donald</div>
 
-Awake sweet Girl awake    
+Awake sweet girl awake    
 See the bright morning break    
 Busy footsteps hurrying by    
-Tell that now the Sun is high    
+Tell that now the sun is high    
 Borne on wings of purest white    
 Morning spreads its fullest light    
 Sore thou fearst and sore I fear    
 Prying strangers roaming near    
 May divulge the rumour free    
 How thee I love, how thou lovest me    
-Old Time strides boldly on towards Nine    
+Old time strides boldly on towards nine    
 And yet thou think’st not on thy Valentine    
-Awake sweet Girl awake    
+Awake sweet girl awake    
     
 Lucifer    
     
-Son of the Morning 
+Son of the morning 

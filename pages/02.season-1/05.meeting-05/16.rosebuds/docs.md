@@ -12,7 +12,7 @@ Never may’st thou, lovely flower,
 Chilly sink in sleety shower.  
 May’s thou long, sweet crimson gem,  
 Richly deck thy native stem;  
-‘Till some evening, sober, calm  
+’Till some evening, sober, calm  
 Dropping dews, and breathing balm;  
 While all around the woodland rings,  
 And every bird thy requiem sings,  
