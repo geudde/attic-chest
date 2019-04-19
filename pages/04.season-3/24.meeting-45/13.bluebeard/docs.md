@@ -222,7 +222,7 @@ With doubting accent, Beard of Blue.
 
 31
 
-“And now return me back the keys.”
+“And now return me back the keys.”  
 The lady pale with terror grew  
 Her fright with frowns her husband sees  
 “What ails you?” thunder’d Beard of Blue.
@@ -238,7 +238,7 @@ That key beset with jewels blue”
 
 All stain’d with blood she gave the key  
 And pale as ashes was her hue  
-“Whence came these drops of blood I see?
+“Whence came these drops of blood I see?  
 You’ve ope’d the door,” said Beard of Blue.
 
 34
