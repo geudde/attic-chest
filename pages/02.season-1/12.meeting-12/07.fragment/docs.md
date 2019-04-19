@@ -15,7 +15,7 @@ And now he sleeps
 With all his boisterous brethren on the undisturbed deep.  
   
 Yon purpling cloud declares the way  
-Of the rising God of day,  
+Of the rising god of day,  
 Whose golden hair and steeds atherial bright  
 In full refulgent blaze  
 Diffuse their circling rays  
@@ -27,12 +27,12 @@ By fleecy ram, and lowing bull and skipping goat,
 And all those starry splendours nigh  
 Through the blue concave of the sky.  
   
-Thus from Year to Year  
+Thus from year to year  
 Returning in his long career  
 To mortal man  
 He brings thy natal day again.  
   
-As the sun rises from the dark Cerulian main  
+As the sun rises from the dark cerulian main  
 Dazzling a wide world’s wondering eyes.  
   
 P. F.   

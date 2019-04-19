@@ -77,7 +77,7 @@ Tho’ most ridiculous the sight,
   
 In truth ’tis but an awkward look  
 &emsp;While blooming to begin,  
-Like antiquated Maids to brook,  
+Like antiquated maids to brook,  
 &emsp;Support, beneath your chin —  
   
 #### 11  
@@ -85,7 +85,7 @@ Like antiquated Maids to brook,
 One would have thought it time enough  
 &emsp;When withering nature draws  
 Towards decay, to tie that rough  
-&emsp;Surcingle round your Jaws  
+&emsp;Surcingle round your jaws  
   
 #### 12  
   

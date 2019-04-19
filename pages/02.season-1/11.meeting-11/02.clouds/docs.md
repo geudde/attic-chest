@@ -10,24 +10,24 @@ visible: true
 
 #### On St. Valentine’s Day
 
-“Forbear, ye Clouds, forbear a while,  
+“Forbear, ye clouds, forbear a while,  
 And let the mournful Phoebus smile,  
 Here you forgot that on this day,  
-’Tis Nature’s custom to be gay,  
-That all the Birds in concert sing,  
-To hail th’ approach of smiling Spring  
+’Tis nature’s custom to be gay,  
+That all the birds in concert sing,  
+To hail th’ approach of smiling spring  
 And fill, alternate fill, the grove,  
-With songs of welcome, lays of Love.  
+With songs of welcome, lays of love.  
 To day, to day then wherefore pour,  
 Upon this earth this dreadful shower,  
 Oh wherefore, thus unkind, deny,  
 Your parent orb to grace the sky.”  
-&emsp;I spoke, and thus the Clouds replied,  
+&emsp;I spoke, and thus the clouds replied,  
 “We do not seek his face to hide  
 But an unlooked for traveller here,  
-Disturbs the order of the Sphere,  
+Disturbs the order of the sphere,  
 So swiftly thro’ the sky he rides,  
-That if no God his fury guides,  
+That if no god his fury guides,  
 Dread, lest upon your heads are hurled  
 The ruins of another world.”
 

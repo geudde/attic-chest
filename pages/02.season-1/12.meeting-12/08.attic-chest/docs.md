@@ -19,9 +19,9 @@ For many a week your Chest shall mourn
 While you on hill or flowry dale  
 The richly scented breeze inhale  
 Or free from care serene repose  
-In bowers of Jasmine or of Rose  
+In bowers of jasmine or of rose  
 Without one ray of cheering light  
-To pierce the dusky veil of Night  
+To pierce the dusky veil of night  
 Here shall I rest, unseen, unknown,  
 Unheeded sigh unheeded moan  
 Yet ah, attend the sole request  
@@ -33,11 +33,11 @@ Oh do not let my former fame
 Sink in oblivion’s silent stream  
 But buoyed by you still let it ride  
 And stem secure the fatal tide  
-And then when Summer shall decay  
-And richer Autumn fade away  
-And Winter o’er the year shall reign  
+And then when summer shall decay  
+And richer autumn fade away  
+And winter o’er the year shall reign  
 Then shall my hopes revive again  
-Yes I will hail his Icy brow  
+Yes I will hail his icy brow  
 Will welcome frost will welcome snow  
 Adieu, may you till then enjoy  
-The cup unmixed of Health and Joy.  
+The cup unmixed of health and joy.  

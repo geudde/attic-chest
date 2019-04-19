@@ -11,32 +11,32 @@ visible: true
 ##### To the Grasshopper
 
 Grasshopper how I envy thee!  
-Who from yonder lofty Tree  
-When refresh’d with wholesome Dews  
-Which ev’ry Morn for thee renews:  
-Like a Monarch from the Spray  
-Pourest thy Song the live-long Day.  
-Lord thou callest thyself of All  
-That within thy Vision fall  
+Who from yonder lofty tree  
+When refresh’d with wholesome dews  
+Which ev’ry morn for thee renews:  
+Like a monarch from the spray  
+Pourest thy song the live-long day.  
+Lord thou callest thyself of all  
+That within thy vision fall  
 What the fruitful fields produce  
-Or the Vine’s or Olive’s Juice  
-Thou art still the Peasant’s Friend  
-His Labours thou dost ne’er offend.  
-All Mankind aye welcome Thee,  
-Sweet Prophet of Festivity:  
-For thou blest Harbinger dost bring  
-Tiding of the Approach of Spring.  
+Or the vine’s or olive’s juice  
+Thou art still the peasant’s friend  
+His labours thou dost ne’er offend.  
+All mankind aye welcome thee,  
+Sweet prophet of festivity:  
+For thou blest harbinger dost bring  
+Tiding of the approach of spring.  
 While thee the Muses ever love  
 Daughters of all powerful Jove,  
-Phoebus on thee confers his Song,  
-And ranks thee his gay Train among.  
-Old Age himself thee ne’er affrights,  
-But only brings thee new Delights.  
-Free from all Pain with Wisdom fraught  
-Thou Lover of the tuneful Thought.  
-Offspring of Earth, but without mortal Blood,  
-Thou almost art the Equal of a God.
+Phoebus on thee confers his song,  
+And ranks thee his gay train among.  
+Old age himself thee ne’er affrights,  
+But only brings thee new delights.  
+Free from all pain with wisdom fraught  
+Thou lover of the tuneful thought.  
+Offspring of earth, but without mortal blood,  
+Thou almost art the equal of a god.
 
 ---
 
-The senior Editor is solicited to describe the Particulars in which the τέττιξ of the Greeks and the Cicada of the Romans differ from the English Grasshopper.
+The senior Editor is solicited to describe the particulars in which the τέττιξ of the Greeks and the cicada of the Romans differ from the English grasshopper.

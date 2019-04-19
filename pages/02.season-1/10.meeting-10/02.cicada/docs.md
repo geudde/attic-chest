@@ -8,21 +8,21 @@ visible: true
 
 <div class="author">Communicated by Mr Flaxman</div>
 
-Favour’d Cicada! thou, whose transient days  
-The ambrosial tears of balmy Morn sustain!  
-Contented on thy native Woods to gaze,  
+Favour’d cicada! thou, whose transient days  
+The ambrosial tears of balmy morn sustain!  
+Contented on thy native woods to gaze,  
 No thought aspiring fills thy breast with pain.  
 
 As Ceres’ Herald, comes thy artless song  
-With welcome sounds the Peasant’s ear to greet,  
-And while thou rov’st the yellow Meads among  
-No Sportsman proud dare rifle thy retreat.  
+With welcome sounds the peasant’s ear to greet,  
+And while thou rov’st the yellow meads among  
+No sportsman proud dare rifle thy retreat.  
 
-Thou scorn’st the Peasant’s riches to destroy  
+Thou scorn’st the peasant’s riches to destroy  
 To prey on others’ wealth ne’er gave thee joy  
-Benignant, vocal, unoffending Fly!  
-Blissful thou liv’st while Summer-suns appear  
-Peaceful thou die’st, ere wintry Storms be near,  
+Benignant, vocal, unoffending fly!  
+Blissful thou liv’st while summer-suns appear  
+Peaceful thou die’st, ere wintry storms be near,  
 A death so tranquil, scarcely *is to die*!  
 
 S.

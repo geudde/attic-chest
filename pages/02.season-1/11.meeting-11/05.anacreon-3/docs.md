@@ -19,10 +19,10 @@ Another day I seize the shell
 And break the cords that dared rebel  
 Anew the vocal frame I string  
 And great Alcide’s toils I sing  
-Again the Cords rebellious prove,  
+Again the cords rebellious prove,  
 And murmur only tones of love.  
   
-Farewell for ever, Chiefs and Kings  
-And Deeds befitting bolder strings  
-My Lyre these fruitless efforts prove,  
-Will only answer lays of Love.
+Farewell for ever, chiefs and kings  
+And deeds befitting bolder strings  
+My lyre these fruitless efforts prove,  
+Will only answer lays of love.

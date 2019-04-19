@@ -8,7 +8,7 @@ visible: true
 
 <div class="author">Miss Porden</div>
 
-See where yon stately Lily grows  
+See where yon stately lily grows  
 &emsp;In robe of spotless white arrayed  
 The pride of Flora’s court it blows  
 &emsp;Fair emblem of a virtuous maid.  

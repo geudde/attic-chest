@@ -23,7 +23,7 @@ And how you used when you’d regained them
 How Muses two in lucky hour  
 Saved you from angry Hermes’ power  
 How Pegasus his starry station  
-Now holds and forms a Constellation  
+Now holds and forms a constellation  
 How Hermes, you with friendly aid  
 Upon his back to earth conveyed  
 All this we know and all beside  
@@ -34,11 +34,11 @@ And dread no more your vain excuses
 Knowing you favoured by the Muses  
 Besides, if other proof without  
 Your ode sublime would banish doubt  
-Thro’ Aether when you proudly rode  
+Thro’ aether when you proudly rode  
 And nearly reached great Jove’s abode  
 You viewed the space thro’ which you’d flown  
 On worlds innumerous looking down  
 Your Muse disdained less high employment  
-And sang of Gods and Gods’ enjoyment  
+And sang of gods and gods’ enjoyment  
   
 The Genii of the Attic Chest
