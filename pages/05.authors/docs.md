@@ -50,7 +50,7 @@ visible: true
 [On Contemplating a Splendid Pile of Ruins](../../season-1/meeting-04/sonnet) → <span class="name">com. Mr. Flaxman</span>  
 [The Three Kisses](../../season-1/meeting-04/kisses) → <span class="name">Mr Joseph</span>  
 <span class="grey">A Description of Monkey Island</span> → <span class="name">Mr Porden</span> <span class="red">(missing)</span>  
-[The Queen Anne St. Ghost](../../season-1/meeting-04/ghost) → <span class="name">Mr Parkinson</span>  
+[The Queen Anne St. Ghost](../../season-1/meeting-04/ghost) → <span class="name">Mr Parkinson</span>
 [The Violet](../../season-1/meeting-04/violet) →  (Violetta)    
 
 <div class="bottom">
@@ -676,5 +676,5 @@ To Moth, on Her Birthday → <span class="name">Miss Porden</span>
 Au Revoir → <span class="name">Miss Flaxman</span>  
 Blue Beard → <span class="name">Miss F. Richardson</span>  
 “Hail to the Nymph” → <span class="name">Mr Kay</span>  
-Letter Proposing the Decoration of the Attic Chest → <span class="name"> Mrs Kay</span>  
+Letter Proposing the Decoration of the Attic Chest → <span class="name">Mrs Kay</span>  
 <span class="grey">Restoration Book 4th Canto 4</grey> → <span class="name">Miss Porden</span> <span class="red">(withdrawn)</span>  
