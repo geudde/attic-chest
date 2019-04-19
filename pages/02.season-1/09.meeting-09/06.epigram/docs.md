@@ -8,14 +8,14 @@ visible: true
 
 <div class="author">Communicated by Mr Flaxman</div>
 
-#### An Epigram upon Dr. Toe of Cambridge, who courted a Lady who afterwards married her Footman
+#### An Epigram upon Dr. Toe of Cambridge, who courted a lady who afterwards married her footman
 
 Twixt Doctor Toe & footman Joe,  
-A Rivalship befell,  
-Which of the twain should be the Swain  
-And bear away the Belle.
+A rivalship befell,  
+Which of the twain should be the swain  
+And bear away the belle.
 
-The footman gain’d the Lady’s heart,  
+The footman gain’d the lady’s heart,  
 And who can blame her — no man:  
 The whole prevail’d against its part  
 Twas footman *versus* toe-man.

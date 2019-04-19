@@ -9,7 +9,7 @@ visible: true
 <div class="author">Miss Porden</div>
 
 With himself the next morning, Mercurius debated  
-And till near twelve o’clock at the Tavern he waited;  
+And till near twelve o’clock at the tavern he waited;  
 But then as he found that it did not appear  
 He was likely any news of his courser to hear,  
 He exclaimed, “to the King of Conjurors I’ll go,  
@@ -18,21 +18,21 @@ And tho’ of all conjurors throughout the nation,
 The Emperor, Ingleby, has most reputation,  
 Yet *I*, know full well, that he is an upstart.  
 Nor has learnt by my rules, what he knows of the art.”  
-You may wonder perhaps that a God who did know,  
+You may wonder perhaps that a god who did know,  
 Who *invented* the art, to another should go,  
 But no one alas! of himself aught, can tell,  
 E’en if he know the magical art e’er so well.  
-Hermes ordered a Jarvey, and full speed he drives,  
+Hermes ordered a jarvey, and full speed he drives,  
 To the place where the King of the Conjurors lives;  
 Who his magical instruments quickly brings forth,  
-And tells him his Steed is not now upon Earth.  
+And tells him his steed is not now upon earth.  
   
 Uninformed how Roberto flew up with the horse  
-“It is fled to the Moon, then,” he cried out, “of course,  
+“It is fled to the moon, then,” he cried out, “of course,  
 I must seek it <span data-tippy="directly" class="green">at once</span>, or the Muses will chide  
 And say, <span data-tippy="on their steed I’d no business" class="green">I’d no right on their pony</span> to ride,”  
-Thus saying, from Earth swift Mercurius took flight  
-And instantly did in the Valley alight;  
+Thus saying, from earth swift Mercurius took flight  
+And instantly did in the valley alight;  
 Which put <span data-tippy="poor Roberto" class="green">honest Bob</span> in a terrible fright.  
 And Hermes himself was in no less surprise,  
 That a man, not a courser, appeared to his eyes.  
@@ -44,16 +44,16 @@ I perhaps am the only one throughout creation
 Of the courser immortal can give information.”  
 He his history related, and when he had done  
 To make his apologies, thus he begun,  
-“For taking your Steed, Sir, my only excuse is  
+“For taking your steed, Sir, my only excuse is  
 I wished on the saddle to court the gay Muses,  
 In truth of your anger I’m somewhat afraid,  
 But hope that my fall for my trespass has paid.”  
   
 While Mercurius still pondered what answer to give  
-In the Valley they saw fair Urania arrive,  
+In the valley they saw fair Urania arrive,  
 But ere I proceed it is meet I should tell,  
 What before to the Muses in London befell.  
-&emsp;On St. Valentines morning the Virgins rose late,  
+&emsp;On St. Valentines morning the virgins rose late,  
 Pollyhymnia last night had been *at the debate*;  
 And till near four o’clock for those who were smitten  
 By the arrows of Cupid, Erato had written:  
@@ -64,7 +64,7 @@ And ’twas late in the morning before they were ended.
 Thalia, Melpomene, had been at the play,  
 And Clio, Urania, were as busy as they.  
 In the morn, with a smile, gay Thalia thus said  
-“I’ve a plan my dear Sisters I want you to aid  
+“I’ve a plan my dear sisters I want you to aid  
 I hope you will like it, and not think it strange,  
 ’Tis to have on Mercurius a noble revenge.  
 If Apollo e’en wished us,” she said, “to leave town  
@@ -74,23 +74,23 @@ And thinks he’s concealed in a mortal’s disguise.
 But I think I can plague him, if you’ll but befriend  
 On Urania & Erato my plan will depend.”  
 They replied, “whate’er you can find that will will teaze him  
-To us, dearest Sister, can’t fail to be pleasing.”  
+To us, dearest sister, can’t fail to be pleasing.”  
 Then Thalia resumed, “Let the morning be fair,  
 That Urania, you know will depend on your care.  
 And it being so, I have not much doubt  
-Mercurius will like on his Steed to ride out.  
+Mercurius will like on his steed to ride out.  
 When far from his lodging, Erato shall fire him  
 And to write me Valentine, strongly inspire him;  
 And while he is thinking, quite out of the way,  
-Lead Pegasus far thro’ the City astray.  
-And then at a Tavern incite him to stop,  
-*He’ll* order directly, some Ale and a Chop!  
+Lead Pegasus far thro’ the city astray.  
+And then at a tavern incite him to stop,  
+*He’ll* order directly, some ale and a chop!  
 Meanwhile let some *favourite* of *ours* steal the horse,  
-And up to the Moon swiftly pursue his course  
+And up to the moon swiftly pursue his course  
 When Hermes has dined, ’till eve take up his time  
 And often perplex him for want of a rhyme.  
 Let it rain, and no coach to begot, — make him stay  
-At the Tavern ’till late in the morning next day.  
+At the tavern ’till late in the morning next day.  
 There’s no time to be lost, if my plan you approve,  
 Set about it directly, like grasshopper’s move.”  
   
@@ -98,26 +98,26 @@ About the conclusion oh be not distrest,
 There will be time in the evening to settle the rest.”  
 &emsp;This scheme of Thalia’s, put all in a flurry,  
 But Erato found *she* had most need to hurry;  
-To the Filly she flew and with eagerness did  
-Whatever her Sister Thalia, had bid.  
+To the filly she flew and with eagerness did  
+Whatever her sister Thalia, had bid.  
 &emsp;In the evening they met, for her sisterly aid,  
 Her thanks to Erato, Thalia then paid.  
 Their plottings and plannings it long were to tell.  
 But they guided whate’er to the travellers befell.  
 ’Twas Urania directed the flight of the horse,  
-And thro’ pathless Æther determined his course;  
+And thro’ pathless aether determined his course;  
 ’Twas Urania who guided Roberto’s descent,  
 For to kill him, or hurt him, was not their intent.  
 But when the Nine Damsels discovered Mercurius,  
 (For still o’er his actions they kept an eye curious)  
-Had been to the Conjuror, such a laugh they all had  
+Had been to the conjuror, such a laugh they all had  
 You’d have thought that the Muses were really gone mad.  
 But Urania, who feared that Roberto might pay,  
 For the fun they had had, upon Valentines Day,  
-When she found that Mercurius had fled to the Skies,  
+When she found that Mercurius had fled to the skies,  
 Pursuing his track she began to arise  
 And Thalia, tho’ scarcely recovered her laughter  
-Yet followed her Sister some few moments after.  
+Yet followed her sister some few moments after.  
   
 To be continued.  
   

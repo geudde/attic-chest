@@ -8,7 +8,7 @@ visible: true
 
 <div class="author">Mr Joseph</div>
 
-##### Written in a Young Lady’s Album, who had spoiled a fine complexion by frequenting late Assemblies, Concerts, etc.
+##### Written in a Young Lady’s album, who had spoiled a fine complexion by frequenting late assemblies, concerts, etc.
 
 &emsp;See where expos’d to chilling dews  
 Yon night-expanding flow’r[^1] displays  
@@ -17,14 +17,14 @@ She wears, & with the morn decays.
 
 &emsp;While all the brighter flow’rs of spring  
 Their glories veiled to rest retir’d  
-&emsp;Wak’d by the Bee or Zephyr’s wing  
+&emsp;Wak’d by the bee or zephyr’s wing  
 With fresher dyes will rise admir’d
 
 &emsp;Learn hence ye fair who beauty prize  
 The gloomy night’s wan influence shun  
 &emsp;Like Flora’s brightest fav’rites rise  
-And draw new splendor from the Sun
+And draw new splendor from the sun
 
 Timanthes
 
-[^1]: The night-blowing Cereus which blows only at Midnight, its colours yellow & white.
+[^1]: The night-blowing Cereus which blows only at midnight, its colours yellow & white.
