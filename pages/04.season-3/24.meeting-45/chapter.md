@@ -17,4 +17,5 @@ taxonomy:
 9. [To Moth on Her Birthday](moth)
 10. [Au Revoir](au-revoir)
 11. [Hail to the Nymph](nymph)
-12. [Letter Proposing the Decoration of the Attic Chest](letter)
+12. [Decoration of the Attic Chest](letter)
+13. [Blue Beard](bluebeard)
