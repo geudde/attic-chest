@@ -21,8 +21,8 @@ And you will on this day receive
 &emsp;&emsp;Full many a Valentine.
 
 Then bid my lawful hire be paid  
-&emsp;&emsp;Unheard no Swain should bleed  
+&emsp;&emsp;Unheard no swain should bleed  
 A heart not twopence worth, sweet maid  
 &emsp;&emsp;Is very bad indeed.  
 	
-> Maria Parsimonia: A Lady who said she would not pay postage for Valentines
+> Maria Parsimonia: A lady who said she would not pay postage for Valentines

@@ -10,15 +10,15 @@ visible: true
 
 Songstress of the rural scene  
 When moonbeam’s cheer the distant grot  
-Oft at Ev’nings hour serene  
+Oft at ev’nings hour serene  
 Delight me with thy dulcet note!  
 Around, the flow’ring shrubs befriend  
-Where no rude Urchin hurls the sling  
-My Pines shall Philomel defend  
+Where no rude urchin hurls the sling  
+My pines shall Philomel defend  
 Sweet bird then unmolested sing.  
 Thy tones the pensive joys prepare  
 That innocence and peace approve.  
 Begone dejection — sombre care  
 Content’s the inmate of the grove  
-Come then sweet Bird and hither — bring   
+Come then sweet bird and hither — bring   
 Tranquility, and Nature’s blooming spring.  

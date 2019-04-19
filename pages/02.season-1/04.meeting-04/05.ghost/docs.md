@@ -10,30 +10,30 @@ visible: true
 
 #### A Long & *True* Story
 
-By many a tottering Nurse is known  
-&emsp;The Legend of the Cock-Lane Ghost;  
+By many a tottering nurse is known  
+&emsp;The legend of the Cock-Lane Ghost;  
 How it would rumble, sigh, and groan,  
-&emsp;And ’mid the Platters rule the roast.  
+&emsp;And ’mid the platters rule the roast.  
 
-Great was the fear this Ghost produc’d,  
+Great was the fear this ghost produc’d,  
 &emsp;’Mong children small & children great,  
 Till its importance was reduc’d  
 &emsp;By Gardner’s ghost without a pate! [^1]  
 
-Yet Ghosts, like mortal Sons of clay,  
-&emsp;Shrink under Fate’s constraining force,  
-E’en they like Dogs have but their day,  
+Yet ghosts, like mortal sons of clay,  
+&emsp;Shrink under fate’s constraining force,  
+E’en they like dogs have but their day,  
 &emsp;And traverse but a stated course.  
 
-Hide your diminish’d Heads ye Ghosts,  
+Hide your diminish’d heads ye ghosts,  
 &emsp;If heads ye have, or else your shoulders;  
-Ye ancient Goblins cease your boasts,  
+Ye ancient goblins cease your boasts,  
 &emsp;Attend my tale ye sprite beholders!  
 
 Know then in fair Queen Ann Street East  
-&emsp;There dwells a Man of worth and fame,  
+&emsp;There dwells a man of worth and fame,  
 One, whom you’d think, of all men least,  
-&emsp;Intended for a Ghostly game.  
+&emsp;Intended for a ghostly game.  
  
 At this man’s door, not long ago,  
 &emsp;Just as the parish clock struck ten,  
@@ -53,15 +53,15 @@ Then would the walks with blows rebound,
 Imagination’s ample pinion  
 &emsp;Swift bore her from her rainbow sky;  
 And with her, from their dark dominion,  
-&emsp;She brought pale Fear’s fantastic fry.  
+&emsp;She brought pale fear’s fantastic fry.  
   
 Man, woman, child, were dumb with dread,  
 &emsp;Whilst horror changed each *object’s* hue,  
 ’Till each slunk trembling up to bed  
 &emsp;Scar’d by the lights that burnt so blue!  
   
-The Ghost was laid — ’twas silent all  
-&emsp;Though not a soul could get a Doze;  
+The ghost was laid — ’twas silent all  
+&emsp;Though not a soul could get a doze;  
 Nor groans were heard; nor thund’ring wall,  
 &emsp;Nor bell, — ’till all the folks arose.  
   
@@ -83,19 +83,19 @@ How *”of itself”* a bell might clatter,
 Said science yet had much to do  
 &emsp;Before she laid Dame Nature bare,  
 Besides he’d boldly ask who knew  
-&emsp;The chemical effects of Air?  
+&emsp;The chemical effects of air?  
  
 Small consolation for our wight! —  
 &emsp;Th’ *effect* he car’d for, not the *cause*,  
 So off he trudg’d to name his plight  
-&emsp;To an expounder of the Laws.  
+&emsp;To an expounder of the laws.  
   
-With Laws & Statutes cram’d, he came  
+With laws & statutes cramm’d, he came  
 &emsp;The ghostly tenant to eject;  
-First in our noble Sov’reigns name  
-&emsp;Commanded Peace! — this dialect,  
+First in our noble sov’reigns name  
+&emsp;Commanded peace! — this dialect,  
   
-Must have been gibb’rish to the Ghost  
+Must have been gibb’rish to the ghost  
 &emsp;For straight, a noise as thunder loud  
 Rapid as light’ning clear’d the coast  
 &emsp;Nor left one remnant of the crowd!  
@@ -103,17 +103,17 @@ Rapid as light’ning clear’d the coast
 Old Minos gall’d at this reception  
 &emsp;So riotous, so strange, so rude —  
 Gravely gave out as his conception  
-&emsp;The Ghost was one of Satan’s brood!  
+&emsp;The ghost was one of Satan’s brood!  
   
 Indeed, quoth he ’tis plain & level  
-&emsp;Since Taylors at the next door dwell,  
-That this same Ghost must be the Devil  
-&emsp;Hid in the Taylors motley Hell! [^2]  
+&emsp;Since tailors at the next door dwell,  
+That this same ghost must be the devil  
+&emsp;Hid in the tailors motley hell! [^2]  
   
 Forthwith in solemn order sped  
-&emsp;His Worship to the hapless Taylors,  
-His valiant Van by Runners led;  
-&emsp;His Rear brought up by Clarks and Jailors,  
+&emsp;His worship to the hapless tailors,  
+His valiant van by runners led;  
+&emsp;His rear brought up by clarks and jailors,  
   
 How poor is language, Art how vain  
 &emsp;To speak the pangs that guilt produces  
@@ -123,17 +123,17 @@ Where culprits view the rattling chain,
 So *Snip*, whose conscience somewhat soil’d  
 &emsp;In truth was rather *worse for wear*,  
 In anguish from the sight recoil’d  
-&emsp;When first he saw the Justice there!  
+&emsp;When first he saw the justice there!  
   
 Swift on his knees the varlet try’d  
-&emsp;His Worship’s pity to awaken —  
+&emsp;His worship’s pity to awaken —  
 And with a mournful accent cry’d,  
 &emsp;“Take all my *cabbage*, spare my bacon!”  
   
-At this the Inquisitor was huff’d  
+At this the inquisitor was huff’d  
 &emsp;Judging it offer’d in derision,  
-So straight poor tremb’ling Snip was cuff’d  
-&emsp;And sent to Limbo for “misprision!” 
+So straight poor tremb’ling snip was cuff’d  
+&emsp;And sent to limbo for “misprision!” 
   
 His little darling daughter then  
 &emsp;By solemn sacred oath was bound,  
@@ -145,42 +145,42 @@ Her answer, simple thing, was plain.
 Nor all their quirking arts could gain,  
 &emsp;Another syllable or word! —  
   
-But now at last this Ghost is laid!  
-&emsp;Without or Priest, or sage confessor, —  
+But now at last this ghost is laid!  
+&emsp;Without or priest, or sage confessor, —  
 Thanks to the *Institution’s* aid  
 &emsp;Who sent their learned *sound* Professor!  
   
 He watched the rattling wonder slowly,  
 &emsp;He bid the folks their terrors hush;  
-Then swore by all that Saints deem holy  
-&emsp;The Noise was made by wooden Brush!  
+Then swore by all that saints deem holy  
+&emsp;The noise was made by wooden brush!  
   
 And to confirm his affirmation,  
 &emsp;And shame all rude incred’lous airs,  
 He told them that the ghostly station  
 &emsp;Lay underneath the kitchen stairs!  
   
-And true as Fate on bursting in  
+And true as fate on bursting in  
 &emsp;To where the spirit lay *perdue*  
 They found the secret of the din,  
-&emsp;Molly the Housemaid met their view!  
+&emsp;Molly the housemaid met their view!  
   
-There hid, the Jade had play’d the Ghost,  
+There hid, the jade had play’d the ghost,  
 &emsp;With jack-weight, Brushes, bells and stones;  
 Or when the *plaintives* pleased her most  
 &emsp;Assail’d their ears with sighs & groans!  
   
-This closed the Scene — refuse who can  
+This closed the scene — refuse who can  
 &emsp;A triffling tribute of applause  
 To hear who pos’d a cunning man  
-&emsp;And eke the cunning Men of Laws.  
+&emsp;And eke the cunning men of laws.  
   
-And now a moral to the Tale;  
-&emsp;And then concludes our harmless Labour  
+And now a moral to the tale;  
+&emsp;And then concludes our harmless labour  
 *Look well at home, ere you assail*  
-&emsp;*With Fool-born Fears* your next door Neighbour!  
+&emsp;*With fool-born fears* your next door neighbour!  
   
 Puck
 
-[^1]: The Ghost of Mr. Gardner appear’d without a Head. 
-[^2]: The place in which the Taylors throw their remnants. 
+[^1]: The ghost of Mr. Gardner appear’d without a head. 
+[^2]: The place in which the tailors throw their remnants. 

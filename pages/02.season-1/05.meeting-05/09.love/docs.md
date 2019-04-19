@@ -8,11 +8,11 @@ visible: true
 
 <div class="author">Miss Porden</div>
 
-All powerful Love is like the Sword of Old  
+All powerful love is like the sword of old  
 By Acban given to Cambuscan bold  
 No armour could its piercing stroke endure  
 Nought but itself its own dire wound could cure  
-And no less mighty Loves keen pointed darts  
+And no less mighty love’s keen pointed darts  
 Pierce with resistless force the hardest hearts  
 Against their power no prudence e’er can guard  
 And no defence the threat’ning danger ward  

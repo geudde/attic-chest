@@ -8,10 +8,10 @@ visible: true
 
 <div class="author">Miss Porden</div>
 
-At Cupid’s Altar see this trembling Swain  
-To the lov’d Nymph with sighs declare his pain  
+At Cupid’s altar see this trembling swain  
+To the lov’d nymph with sighs declare his pain  
 And with a ticket hope her breast to move  
-With him to try the Lottery of Love  
+With him to try the lottery of love  
 Nor she his ably pleaded suit rejects  
 But from his hand the ticket half accepts  
 Doubtfull if yet the doubtful chance to try  

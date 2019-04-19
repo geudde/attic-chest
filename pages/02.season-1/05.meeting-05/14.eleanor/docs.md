@@ -21,8 +21,8 @@ Cheeks that never knew carmine
 Blushing like the nectarine  
 Grace my blooming Valentine  
 Not so sweet is eglantine  
-Nor the fragrant wild Woodbine  
-Vi’let Rose nor Jessamine  
+Nor the fragrant wild woodbine  
+Vi’let rose nor jessamine  
 As my sweet, sweet Valentine  
 If thy heart to mirth incline  
 Wit with humour arch combine  
@@ -36,7 +36,7 @@ With my mirthful Valentine
 Fretful as the porcupine  
 I behold the rosy wine  
 Turkey fat or savoury chine  
-Or of beef the Knightly loin  
+Or of beef the knightly loin  
 If without my Valentine  
 When I catch with net or line  
 Gudgeon, perch or fish marine  
@@ -49,7 +49,7 @@ Scottish Tweed or Irish Boyne
 With the book in bone narine  
 Felt my torments, I opine,  
 Gudgeon to my Valentine.  
-When among my Fathers swine  
+When among my father’s swine  
 Bleating sheep or lowring kine  
 In some pasture I recline  
 With my buxom Valentine  
@@ -62,10 +62,10 @@ Sweetly pouting (not feline).
   
 She will check the bold design  
 Absent from my Valentine,  
-On a Haycock laid supine,  
+On a haycock laid supine,  
 Oft I at my fate repine,  
 Weeping tears of scalding brine,  
-Then had I a Princes coin  
+Then had I a prince’s coin  
 I would give it to rejoin  
 Her I love — my Valentine.  
 I shall gladly life resign  
@@ -77,7 +77,7 @@ But what transport will be mine
 If the stars in square or trine,  
 From th’ethereal chrystalline  
 Tell that heavens decrees design  
-Me the Elm and she the Vine  
+Me the elm and she the vine  
 Bending then at beauty’s shrine  
 I till health and life decline  
 Will fondly love my Valentine.

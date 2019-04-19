@@ -8,35 +8,35 @@ visible: true
 
 <div class="author">Miss Porden</div>
 
-At Midnight’s solemn hour I chose  
-Your promised Verses to compose  
+At midnight’s solemn hour I chose  
+Your promised verses to compose  
 So kneeling near the Attic Chest  
-I thus the sacred Nine addrest  
+I thus the sacred Nine addressed  
 
-Daughters of Memory, attend,  
+Daughters of memory, attend,  
 And me your suppliant befriend,  
 If in early years I paid,  
 Homage to each tuneful maid,  
-If my rude and Childish Lays  
+If my rude and childish lays  
 Then were honoured with your praise  
 If, as years increase, to you  
 Still I bend with reverence due;  
-Whether in Arcadian Bowers,  
+Whether in Arcadian bowers,  
 Now you braid your locks with flowers  
-Or in Academic shades  
+Or in academic shades  
 Or in Tempe’s lucid glades  
-Now you sing of Beauty’s charms  
+Now you sing of beauty’s charms  
 Love’s delights, and feats of arms  
 
 Or — but why my call prolong?  
 Arise, inspiring power of song,  
-Erato rise, they Lyric strains  
+Erato rise, they lyric strains  
 Impart — nor think my soul disdains,  
 Calliope they nobler line  
 No! sweet Empress of the Nine!  
 I in some maturer time,  
-May bid thee raise the Epic Rhymes;  
-But they Sister’s lighter treasures  
+May bid thee raise the epic rhymes;  
+But they sister’s lighter treasures  
 Now diffused in sprightly measures,  
 Best will suit my humbler strain,  
 But alas! I sue in vain,  
@@ -50,9 +50,9 @@ Answering cried the wakeful Nine,
 Never feel soft slumbers power,  
 Superior to his force they tower.  
 But so many on this day  
-Have required Erato’s Lay,  
-And certain Maids near Fitzroy Square  
-Have been from Morn till Night her care.  
+Have required Erato’s lay,  
+And certain maids near Fitzroy Square  
+Have been from morn till night her care.  
 She has not left a single line  
 To grace thy hapless Valentine.  
 
@@ -61,10 +61,10 @@ To find the Muse engrossed by you
 &emsp;&emsp;When you had made such large demands  
 Upon my weary head and hands,  
 Defrauded of the Muses aid  
-&emsp;To you I leave the rhyming Trade  
+&emsp;To you I leave the rhyming trade  
 &emsp;I send you slips of paper three  
 &emsp;Which you may fill to self from me  
-&emsp;And should not this exhaust your Store  
-&emsp;Of ill-got Verse — I’ll send you more.  
+&emsp;And should not this exhaust your store  
+&emsp;Of ill-got verse — I’ll send you more.  
 	
 E. A. Porden

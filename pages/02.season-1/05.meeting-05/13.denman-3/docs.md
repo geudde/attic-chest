@@ -25,7 +25,7 @@ And in a corner lay perdue
 In sportive mood to dress you came  
 And made the urchins bricks your game  
 The string which ready strained he held  
-Incensed the God let go impelled  
+Incensed the god let go impelled  
 By his immortal hand the dart  
 Hissed on, and sought they heedless heart  
 But Phoebus, with protecting power  
@@ -37,7 +37,7 @@ His skill by higher powers made vain
 And quits his quiver, bow, and darts  
 For secret snares and fraudful arts  
 The spreads his toils where you must pass  
-To his confederate — your Glass  
+To his confederate — your glass  
 The heavenly habitants on high  
 Your danger view; and from the sky  
 Swift Dian hastens to thy aid  
@@ -56,13 +56,13 @@ For oft ’tis said coy maids incline
 To pity on St Valentine.  
 
 Pambo now tired of eating tarts  
-Steals for his food the Ladies hearts  
-(One in his mouth he now is Stuffing  
+Steals for his food the ladies’ hearts  
+(One in his mouth he now is stuffing  
 And eating as you’d eat a muffin)  
 Unhappy me, he’s stolen mine  
 And will not be my Valentine.  
 
-See here of hearts the Empress stand  
+See here of hearts the empress stand  
 Her ruby sceptre of command  
 High holding in her lily hand  
 O’er all with uncontested sway  
