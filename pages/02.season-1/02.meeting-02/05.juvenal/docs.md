@@ -37,7 +37,7 @@ Unlike to brutes who groveling seek the earth,
 Instinct alone e’er since the world arose,  
 The architect divine on the bestows.  
 While man more blest enjoys a reasoning soul,  
-To be his guide, and all his acts controul.  
+To be his guide, and all his acts control.  
 For rul’d by this his passions he directs  
 And mutual aid his happiness protects  
 Impell’d by this his passions he directs  

@@ -15,18 +15,18 @@ visible: false
 &emsp;Inspir’d by your charming lines,  
 &emsp;Where wit resplendent ever shines,  
 And numerous beauties play;  
-&emsp;I seize my Pen, but half afraid,  
-&emsp;First call the Muses to my aid,  
-To hail your natal Day.  
+&emsp;I seize my pen, but half afraid,  
+&emsp;First call the muses to my aid,  
+To hail your natal day.  
   
 #### 2  
   
 &emsp;May ev’ry comfort here below,  
-&emsp;That Man can ask or God bestow,  
+&emsp;That man can ask or God bestow,  
 Attend throughout your life;  
-&emsp;Blest in your Children’s rip’ning years,  
+&emsp;Blest in your children’s rip’ning years,  
 &emsp;May you ne’er suffer carking cares,  
-Blest too in such a Wife.  
+Blest too in such a wife.  
   
 #### 3  
   
@@ -34,7 +34,7 @@ Blest too in such a Wife.
 &emsp;Increasing always while you live,  
 And swell the genial page;  
 &emsp;May they still ever witty be,  
-&emsp;And while they flow in Number free,  
+&emsp;And while they flow in number free,  
 Instruct and please the age.  
   
 B.R.

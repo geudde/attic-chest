@@ -40,7 +40,7 @@ Some ride on stars[^1], some comets, some bestride the vapors of the air.
 How dare ye thus approach the dome of mighty Jove?”  
   
 “The Winged Pegasus!” they cried aloud,  
-The name of Pegasus rung thro’ the croud  
+The name of Pegasus rung thro’ the crowd  
 Have ye not slaughtered him like one forsaken  
 Split him like deal-boards & struck him ’mongst the stars  
 Like to a side of bacon?  

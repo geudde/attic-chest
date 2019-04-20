@@ -30,7 +30,7 @@ Then follows a history of the tinder box still denominated the golden casket and
 
 #### Ode
 
-The charms being perfected after another invocation to the spirits of earth, sea, and air... Tinderella attempts to strike a light, but being in a little trepidation strikes aside which calls up a tumultuous croud of ancient critics and modern poets and critics of inferior rank denominated a puny race.
+The charms being perfected after another invocation to the spirits of earth, sea, and air... Tinderella attempts to strike a light, but being in a little trepidation strikes aside which calls up a tumultuous crowd of ancient critics and modern poets and critics of inferior rank denominated a puny race.
 
 Again she strikes, and the sparks setting fire to the tinder after a decent quantity of thunder and lightning and a masque of goblins and fairies all the great poets ancient and modern pass as a pageant before the priestess. The procession is closed by Milton, and Tinderella seizing her lyre, exults in the idea of having set the world of poetry in a blaze.
 

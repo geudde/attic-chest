@@ -52,7 +52,7 @@ The sevenfold radiance of refulgent heaven,
 When genius stole the colours of the sun,  
 And pour’d them o’er the wreath of valour won.  
 
-&emsp;Then turn the eye, where spinning time’s controul,   
+&emsp;Then turn the eye, where spinning time’s control,   
 Art stamps in stone the triumphs of the soul.  
 With trembling awe survey each hallow’d fane,  
 Ennobling Greece mid desolation’s reign,  

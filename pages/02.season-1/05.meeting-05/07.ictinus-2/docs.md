@@ -21,7 +21,7 @@ Forsaken green my thoughts enclose
 While anger in my bosom glows  
 
 Now every movement of my soul  
-Is under jealousy’s controul  
+Is under jealousy’s control  
 And here behold my hapless heart  
 Is turning yellow with his dart  
 

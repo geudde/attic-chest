@@ -24,7 +24,7 @@ Answer: Pleasure
 
 My first is a Name given oft to a Beau  
 My second a Fish each good Housewife should know  
-It would not afford any Lover surprize  
+It would not afford any Lover surprise  
 If my whole should be found in the fair one’s bright eyes.
 
 Answer: Sparkling

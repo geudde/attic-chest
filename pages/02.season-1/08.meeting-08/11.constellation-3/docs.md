@@ -74,7 +74,7 @@ And as Ariosto had told him the way,
 He regained it, then ’mongst the jars further did stray  
 He expected the wits of young men to find there  
 For ’tis said that they lose them. on viewing the fair  
-But you, gentle readers, must judge his surprize  
+But you, gentle readers, must judge his surprise  
 When scarce any of these met *his* curious eyes  
 *British generals* there very frequently abound  
 There Whitelock’s, Dalrymple’s, and Burrard’s are found.  

@@ -12,7 +12,7 @@ media_order: 'doubt.jpg,certainty.jpg'
 Ah, who can tell the Grief and ruthless pain  
 &emsp;That rends the bosom of that hapless Wight  
 Whom Doubt assails; the tortur’d wretch in vain  
-&emsp;In crouds and noise would shun the hellish sprite?  
+&emsp;In crowds and noise would shun the hellish sprite?  
 Ne comely dames in Sattin’s richly dight  
 &emsp;Their Cheeks with love’s warm blushes overspread  
 Ne song ne jocund dance can yield delight  
@@ -36,7 +36,7 @@ Sans Sleep — Sans drink — sans prog no wonder he’s so thin
 But when the Cherub certainly arrives  
 &emsp;Like Phoebus bursting from a radiant cloud;  
 Eftsoons away the hellish troop he drives  
-&emsp;And all the Terrors of that cursed croud  
+&emsp;And all the Terrors of that cursed crowd  
 And now he sings and leaps and laughs aloud  
 &emsp;To find an Antient friend his fancied foe  
 And of his presence not a little proud  

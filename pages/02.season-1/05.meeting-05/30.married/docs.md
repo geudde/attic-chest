@@ -16,7 +16,7 @@ Some are too embonpoint and some too slim,
 The young too flighty and the aged too prim.  
 I ask complexion fair, the sparkling eye,  
 Of sensibility — the soft reply,  
-Of temper’s well controul’d and magic art;  
+Of temper’s well controll’d and magic art;  
 Actions that *prove* the language of the heart  
 A mind where information yields the treat,  
 Not of pedantic lore, but converse sweet;  

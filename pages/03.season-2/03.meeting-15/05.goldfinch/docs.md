@@ -9,12 +9,12 @@ visible: false
 <div class="author">Communicated by Mrs Flaxman</div>
 
 How sweet I roam’d from field to field,  
-And tasted all the Summer’s pride,  
+And tasted all the summer’s pride,  
 ’Till I the prince of love behold,  
 Who in the sunny beams did glide?  
   
 He shew’d me lilies for my hair,  
-And blushing Roses for my brow,  
+And blushing roses for my brow,  
 He led me through his garden fair,  
 Where all his golden pleasures grow.  
   

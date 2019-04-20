@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Communicated by Mrs Kay</div>
 
-What eager crouds to greet thy glad return  
+What eager crowds to greet thy glad return  
 &emsp;Within the temple’s sacred precincts throng;  
 &emsp;Each face looks glad, and ev’ry grateful tongue  
 Declares the joys which in each bosom burn:  

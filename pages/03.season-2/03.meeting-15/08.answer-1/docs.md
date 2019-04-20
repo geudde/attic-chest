@@ -8,4 +8,4 @@ visible: false
 
 <div class="author">Mr Porden</div>
 
-In what Country are sometimes found Cherry-coloured Cats with Rose-coloured feet.
+In what country are sometimes found cherry-coloured cats with rose-coloured feet.

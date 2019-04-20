@@ -96,7 +96,7 @@ I vow at thought, of such fatigue I’m pale,
 Do waiter bring another jug of ale.  
 Sorrow is thirsty, so to drown cares,  
 He drank, till quite unfit to walk up stairs,  
-So up they carried him, but what surprize,  
+So up they carried him, but what surprise,  
 Was theirs, when his wing’d buskins met their eyes.  
 The man is mad, they cry with voices hoarse,  
 Or else he’s some relation to his horse,  

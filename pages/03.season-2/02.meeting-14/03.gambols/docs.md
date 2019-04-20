@@ -9,24 +9,24 @@ visible: false
 <div class="author">Communicated by Mrs Flaxman</div>
 
 “Heap the sea-coal! come, heap it higher!  
-The oaken Log lay on the fire:”  
+The oaken log lay on the fire:”  
 The well-wash’d stools, a circling row,  
-With Lad and Lass, how fair the show!  
+With lad and lass, how fair the show!  
 The merry can of nut-brown ale,  
 The laughing jest, the lovesick tale,  
-‘Till tir’d of chat the Game begins,  
-The Lasses prick the Lads with pins;  
+‘Till tir’d of chat the game begins,  
+The lasses prick the lads with pins;  
 Roger from Dolly twitch’d the stool  
 She falling, kiss’d the ground, poor fool!  
 She blush’d so red! — with side-long glance  
 At hob-nail Dick, who griev’d the chance  
-But now for Blind-man’s buff they call  
-Of each incumbrance clear the Hall  
+But now for blind-man’s buff they call  
+Of each incumbrance clear the hall  
 Jenny her silken ’kerchief folds,  
 And merry Will the black log holds;  
 Now laughing, stops, with “Silence! hush!”  
 And Peggy Pout gives Sam a push.  
-The Blind-man’s arms extended wide,  
+The blind-man’s arms extended wide,  
 Sam slips between; — “O woe betide  
 Thee clumsy Will!” — but titt’ring Kate  
 Is penn’d up in the corner strait!  

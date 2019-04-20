@@ -8,19 +8,19 @@ visible: false
 
 <div class="author">Communicated by Mrs Flaxman</div>
 
-Lately come from Fairy land  
+Lately come from fairy land  
 To a world unknown to me —  
-Leaving Fancy’s fairy band,  
+Leaving fancy’s fairy band,  
 Leaving skyborn liberty,  
 Leaving all — ’tis thee I seek  
-Ellen, pride of Maidens Fair!  
+Ellen, pride of maidens fair!  
 Hear me while I whisp’ring speak  
 Gentle love’s propitious prayer:  
   
-May thy morn of Life be past  
+May thy morn of life be past  
 Fragrant as the month of May,  
 Every year be like the last  
-Happy healthfull Sportive gay,  
+Happy healthfull sportive gay,  
 May the laughter loving dame  
 Teach to charm and reach to please,  
 And Minerva’s sacred flame  
@@ -35,7 +35,7 @@ Long an even course shall run,
 And content with roseate hue  
 Softly tinge thy setting sun,  
 Tinge thy sun with golden rays,  
-When Ev’ning’s Life is ebbing fast,  
+When ev’ning’s life is ebbing fast,  
 Glowing hopes of future days,  
 Sweet reflexions on the past.  
   

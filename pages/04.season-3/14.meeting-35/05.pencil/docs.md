@@ -11,7 +11,7 @@ visible: false
 
 ![Pen](pen.jpg?resize=200)
 
-“Formed to persuade at distance e’en controul,  
+“Formed to persuade at distance e’en control,  
 Or speed soft intercourse from soul to soul,  
 The Pen her empire claims, each due desert,  
 And now would all her influence exert,”  

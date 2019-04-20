@@ -12,7 +12,7 @@ Its annual circuit round the Sun
 Again the toiling Earth has run,  
 Again as one sad Year retires,  
 Another, new-born Hope inspires.  
-Experience cannot quite controul  
+Experience cannot quite control  
 This inward Breathing of the Soul,  
 Nor Reason totally subdue,  
 Whilst our defeated Plans we view  

@@ -72,7 +72,7 @@ Where with wheat Cakes, and nut-brown Ale
 The Villagers dance, spite of fortune or chance  
 In good humour, all hearty and hale.  
   
-“No more!” replied the impatient croud,  
+“No more!” replied the impatient crowd,  
 “The true sublime!” they cried, tumultuous loud,  
 “At least the Elegant,” again she rose  
 And thus her copious verse now flows.  

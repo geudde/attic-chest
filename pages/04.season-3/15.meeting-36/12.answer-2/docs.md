@@ -31,6 +31,6 @@ Oh say, could language half so well
 &emsp;Reveal the feelings of the heart.  
 
 Whate’er its source, if conscious Love  
-&emsp;Or Modesty its Birth controul  
+&emsp;Or Modesty its Birth control  
 Its rising crimson, e’er must prove  
 &emsp;The offspring of a feeling soul.

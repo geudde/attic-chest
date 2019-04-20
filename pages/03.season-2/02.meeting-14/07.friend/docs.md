@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Ludlow com. by Miss Richardson</div>
 
-Oh! how tenacious Memory loves to dwell  
+Oh! how tenacious memory loves to dwell  
 On every scene where I have stray’d with thee!  
 ’Tis she distinguishes each leafy tree,  
 Each grassy lane — for thy sake lov’d so well!  
