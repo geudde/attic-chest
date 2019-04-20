@@ -1,5 +1,5 @@
 ---
-title: 'Erroneous Answer 2'
+title: 'Answer to Riddle 1'
 taxonomy:
     category:
         - docs
