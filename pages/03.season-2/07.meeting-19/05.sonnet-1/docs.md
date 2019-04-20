@@ -18,7 +18,7 @@ To me its numbers ever flow,
 &emsp;A pensive source of mental pleasure  
   
 Mayst thou fair maid be ever blest,  
-&emsp;In Mem’ry’s sweetest, choicest measures,  
+&emsp;In mem’ry’s sweetest, choicest measures,  
 (In this is every wish exprest,  
 &emsp;For this includes all other pleasures.)  
   

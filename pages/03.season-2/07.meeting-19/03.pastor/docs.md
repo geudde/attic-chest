@@ -14,7 +14,7 @@ What eager crowds to greet thy glad return
 Declares the joys which in each bosom burn:  
 Thou com’st — at once the church is hush’d and still,  
 &emsp;Nought but thy firm, and deep ton’d voice is heard,  
-&emsp;Teaching mild Christian Love — its ev’ry word  
+&emsp;Teaching mild Christian love — its ev’ry word  
 To reason’s guidance bends the stubborn will  
 And draws the veil from pleasure’s dangerous snare.  
 &emsp;Conviction spreads a general light — all feel  

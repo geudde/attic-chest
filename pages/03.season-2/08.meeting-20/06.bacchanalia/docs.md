@@ -12,11 +12,11 @@ Sweet Iser! were thy sunny realm
 &emsp;And flowing fountains mine  
 My waters I would shade with elm  
 &emsp;To prop the tender bine  
-My golden Flaggons I would fill  
+My golden flagons I would fill  
 With rosy draughts from every hill  
 &emsp;And underneath green spreading bower  
 My gay companions should prolong  
-The Feast! the revel! and the song!  
+The feast! the revel! and the song!  
 &emsp;To many a sportive hour.  
  
 Like rivers, crimson’d by the beam  
@@ -28,4 +28,4 @@ And sad, or sober, none depart
 For wine can triumph over woe  
 And Love & Bacchus brother powers  
 Should build in Iser’s sunny bowers  
-A Paradise below.
+A paradise below.

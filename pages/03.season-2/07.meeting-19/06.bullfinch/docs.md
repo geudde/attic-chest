@@ -13,21 +13,21 @@ visible: false
 Soon as in eastern clime approaching morn  
 Breaks from the spangled train of ebon night,  
 While yet the dewdrop quivers on the thorn  
-Or o’er the distant Landscape meets my sight,  
+Or o’er the distant landscape meets my sight,  
   
-Involv’d in mists remote the Valleys lie,  
+Involv’d in mists remote the valleys lie,  
 Still hid in dusky vest the mountains steep,  
 Or orient daylight wid’ning on the sky,  
 Thy tune sweet warbler breaks the charm of sleep.  
   
 Sweet sounds that early thus salute mine ear  
 Breathe louder at command the welcome note,  
-It is my Bully’s voice so soft and clear,  
-For me my Bully strains his little throat.  
+It is my bully’s voice so soft and clear,  
+For me my bully strains his little throat.  
   
-Sweet Bird! the most belov’d of all thy kind,  
+Sweet bird! the most belov’d of all thy kind,  
 The treasure dearest to my youthful heart,  
-Tho’ here within the gilded Cage confined  
+Tho’ here within the gilded cage confined  
 Say would’st thou from the mansion ere depart.  
   
 Ah no — for this was e’en thy nest forsook  

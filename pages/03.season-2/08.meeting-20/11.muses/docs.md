@@ -10,48 +10,48 @@ visible: false
   
 From Helicon, ye sacred Nine descend  
 And to my call an ear propitious lend  
-Though with weak hand, I trembling touch the Lyre  
+Though with weak hand, I trembling touch the lyre  
 Though small my portion of poetic fire  
 Let me not ask your heavenly aid in vain  
 To fire my soul, and animate my strain  
 Yourselves I sing, when from Parnassus height  
-To the bright Sun you steered your arduous flight  
+To the bright sun you steered your arduous flight  
 From him who rules our system, to request  
 His partial favour for your Attic Chest  
 Then let my song confess your fire divine  
 To meet my subject, animate my line  
 When Jove no longer ruled this nether world  
 And from their throne th’ Olympian gods were hurled  
-To planets turned they graced the Vault of Heaven  
+To planets turned they graced the vault of heaven  
 Still to revolve in measured circles given  
 While in each orb a guardian power presides,  
 And through the blue expanse its motion guides  
-But all the Fay who rules the Sun, obey  
-Myriads of Sprites confess his sovereign sway  
+But all the fay who rules the sun, obey  
+Myriads of sprites confess his sovereign sway  
 Some rule the varying seasons of the year  
-Some bid the day and some the Night appear  
-Some mark the paths in which the Comets roll  
+Some bid the day and some the night appear  
+Some mark the paths in which the comets roll  
 Some guide the slow rotation of the pole  
-One o’er the force of Gravity presides  
+One o’er the force of gravity presides  
 And rules the varying motions of the tides  
 Acts on the planets with attractive force  
 And regulates their oscillating course  
 One bids the meteors own his sovereign sway  
-And Electricity his laws obey  
-The Elements are to four Sprites consigned  
+And electricity his laws obey  
+The elements are to four sprites consigned  
 To thousand more are various tasks assigned  
-Of all the heathen Gods, the tuneful Nine  
+Of all the heathen gods, the tuneful Nine  
 Alone retain their ancient rank divine  
-Still o’er the walks of Poetry command  
+Still o’er the walks of poetry command  
 And bid the flowers of literature expand  
 From other regions chased by war’s alarms  
-Where Peace and Freedom still display their charms  
-In Britain’s Isle — they fixed their happy reign  
-And loved and Honoured, fire each poet’s strain  
+Where peace and freedom still display their charms  
+In Britain’s isle — they fixed their happy reign  
+And loved and honoured, fire each poet’s strain  
 With tuneful art they raise each song sublime  
-Fixed to withstand the envious tooth of Time  
+Fixed to withstand the envious tooth of time  
 On all around their valued favours shed  
-And crown with Laurel each poetic head,  
+And crown with laurel each poetic head,  
 But most their tuneful influence shines confest  
 In all the votaries of the Attic Chest  
 Whene’er they wish, the favouring Nine descend  
