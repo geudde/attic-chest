@@ -11,13 +11,13 @@ And somebody has ta’en it,
 But here the truth I must confess;  
 He took no pains to gain it!  
   
-Perverse, and Woman-like, I own  
+Perverse, and woman-like, I own  
 This truth I will not mask it,  
 I gave him what he comes not for,  
 Because, he did not ask it!  
   
 And while it beats against his breast  
-Like fresh caught Bird in cage;  
+Like fresh caught bird in cage;  
 He knows not whose the flatterer is,  
 I’d venture any wage!  
   

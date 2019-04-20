@@ -16,7 +16,7 @@ How soon they all decay,
 The lily droops, the rose is gone  
 And beauty fades away —  
   
-But when bright virtue Sins confest  
+But when bright virtue sins confest  
 With sweet discretion join’d;  
 When mildness calms the peaceful breast  
 And wisdom guides the mind  

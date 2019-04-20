@@ -8,12 +8,12 @@ visible: false
 
 <div class="author">Miss Flaxman</div>
 
-Fly little Arrow, wing thy way  
+Fly little arrow, wing thy way  
 Thro the blue and pathless sky;  
 Find where Peregrine doth stray,  
-Fly my little Arrow fly!
+Fly my little arrow fly!
 
-Touch but do not wound the Youth,  
+Touch but do not wound the youth,  
 Bid him sigh, but not with care,  
 He shall know my love and truth,  
 When I his Dulce Domum share.

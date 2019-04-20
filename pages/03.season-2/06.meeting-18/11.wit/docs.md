@@ -6,11 +6,11 @@ taxonomy:
 visible: false
 ---
 
-Seducing Wit, thou soul-enlivening ray,  
+Seducing wit, thou soul-enlivening ray,  
 Deceptive fire, that shines but to betray;  
 Meteor, whose blaze infatuates the sight  
 With brilliant but unprofitable light.  
-Thou rare, but fatal Gift! invidious art,  
+Thou rare, but fatal gift! invidious art,  
 The subtle poison that corrupts the heart;  
 Perfidious inmate even to the breast,  
 Where thou’rt most fondly cherish’d and caress’d:  
@@ -27,7 +27,7 @@ An host of foes, to gain — one fool’s applause.
 Thine the keen sarcasm and the quick retort,  
 The playful malice — that can wound in sport.  
 Aw’d by the piercing glances of thine eyes,  
-Offsighted Love expands his wings and flies;  
+Offsighted love expands his wings and flies;  
 And as a flower that shrinks beneath the blight,  
 Insulted friendship sickens at the sight;  
 Yet when with all the gay and sportive grace  
