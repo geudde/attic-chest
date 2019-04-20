@@ -13,15 +13,15 @@ Or in the chamber of the east,
 The chambers of the sun, that now  
 From antient melody have ceas’d;  
   
-Whether in Heav’n ye wander fair,  
-Or the green corners of the Earth,  
+Whether in heav’n ye wander fair,  
+Or the green corners of the earth,  
 Or the blue regions of the air;  
 Where the melodious winds have birth.  
   
 Whether on crystal rocks ye rove,  
 Beneath the bosom of the sea  
 Wand’ring in many a coral grove,  
-Fair Nine, forsaking Poetry!  
+Fair Nine, forsaking poetry!  
   
 How have ye left the antient love  
 That bards of old enjoy’d in you,  

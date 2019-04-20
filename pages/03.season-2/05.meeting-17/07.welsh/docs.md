@@ -12,7 +12,7 @@ visible: false
   
 “From dewy lawns I’ll pluck the rose,  
 With every fragrant flower that blows  
-The earliest primrose of the Spring  
+The earliest primrose of the spring  
 To Ivor’s honour’d grave I’ll bring —  
 This humble rite shall oft be paid,  
 To deck the spot where he is laid,  
@@ -22,7 +22,7 @@ How much I weep o’er Ivor’s urn.”
 > From the same in his old age.  
   
 “Ivor is gone! my friend most dear  
-And Nest, sweet soother of my care  
+And nest, sweet soother of my care  
 Murfredd, my soul’s delight, is fled —  
 All moulder in their clay-cold bed!  
 And I, oppress’d with woe remain  

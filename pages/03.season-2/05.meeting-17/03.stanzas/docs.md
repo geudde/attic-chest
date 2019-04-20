@@ -8,23 +8,23 @@ visible: false
 
 <div class="author">Communicated by Mr Vignoles</div>
 
-The following Stanzas upon Terror and Pity are taken from a small Quarto Pamphlet published about 60 or 70 years ago since entitled: “Melpomene; or the Regions of Terror and Pity” in which the Poet speaking in the first Person describes the various Images exciting Terror or Pity —
+The following Stanzas upon Terror and Pity are taken from a small quarto pamphlet published about 60 or 70 years ago since entitled: “Melpomene; or the Regions of Terror and Pity” in which the poet speaking in the first person describes the various images exciting terror or pity —
 
 A Rambler
 
-The first Extracts are taken from the part entitled
+The first extracts are taken from the part entitled
 
 #### Terror
 
-(cause by Anger)
+(Caused by Anger)
 
 Ha! what is he whose fierce indignant eye,  
 &emsp;Denouncing vengeance, kindles into flame?  
-Whose boisterous fury blows a Storm so high,  
+Whose boisterous fury blows a storm so high,  
 &emsp;As with its thunder shakes his labouring frame.  
 &emsp;&emsp;What can such rage provoke?  
 &emsp;&emsp;His words their passage choke:  
-&emsp;His eager Steps, nor time nor truce allow,  
+&emsp;His eager steps, nor time nor truce allow,  
 And dreadful dangers wait the menace of his brow.
 
 (and Jealousy)
@@ -40,9 +40,9 @@ And urge the latent spark to flames of torturing fire
 
 #### Pity
 
-(caused by another’s Grief)
+(Caused by Another’s Grief)
 
-Behold that beauteous Maid! her languid head  
+Behold that beauteous maid! her languid head  
 Bends like a drooping lily charg’d with rain  
 With floods of tears she bathes a lover dead  
 &emsp;In brave assertion of her honour slain  

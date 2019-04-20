@@ -20,7 +20,7 @@ But alas! hapless kindred of those who have perish’d
    
 Proud Man! — Thou are heir but to trouble and sorrow,    
 &emsp;Since thy breath thus depends on the wind & the tide;    
-This moment’s thy own but whose is Tomorrow,    
+This moment’s thy own but whose is tomorrow,    
 &emsp;The Being who made thee, alone can decide.    
   
 
