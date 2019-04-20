@@ -3,7 +3,7 @@ title: 'Original Poetry'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 > <span class="red">Printed Material</span>

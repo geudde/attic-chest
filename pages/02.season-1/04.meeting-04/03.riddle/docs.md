@@ -3,7 +3,7 @@ title: Riddle
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 If Buonaparte possess’d of Spain,  

@@ -3,7 +3,7 @@ title: 'Dramatick Flowers'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mrs Hoole communicated by <span data-tippy="S. H. Kay" class="green">Mrs Kay</span></div>

@@ -3,7 +3,7 @@ title: 'A Reproof to Gormandizing Bards'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Parkinson</div>

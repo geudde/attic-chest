@@ -3,7 +3,7 @@ title: 'To the Author of the Riddle'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Porden</div>

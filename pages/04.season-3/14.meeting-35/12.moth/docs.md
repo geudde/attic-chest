@@ -3,7 +3,7 @@ title: 'To Moth'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mrs Flaxman &amp; Miss Porden</div>

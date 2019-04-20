@@ -3,7 +3,7 @@ title: 'No Sign Portentous'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 The Order of Peace and Friendship for Ladies only, instituted by King James after his reconciliation with the Douglas. Ellen was invested with it on her Birthday at Stirling Castle. The Colours attached to it are those by which both the King and the Knight of Snowdoun are signified.  

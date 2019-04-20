@@ -3,7 +3,7 @@ title: 'The Muses Vagaries Continued'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 Next day this notice met the curious eye,  

@@ -3,7 +3,7 @@ title: 'On the Study of Ancient Architecture, Sculpture & Painting'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Communicated by Mr Flaxman</div>

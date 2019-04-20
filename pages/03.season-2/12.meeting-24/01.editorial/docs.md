@@ -3,7 +3,7 @@ title: Editorial
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 The liberality of our Correspondents has made such ample Provision for the Amusement of this Evening, that we are under the necessity of deferring several pieces of merit to a future meeting, selecting such as by their connection with the challenges of Thalestris and Tymon have a temporary claim to Priority. The Faults of the Ladies has proved a fruitful theme, and the Faults of the Gentlemen we trust will equally exercise the ingenuity of our society. When these are exhausted we shall call its attention to another topic that we believe will not be less prolific or less pleasing.

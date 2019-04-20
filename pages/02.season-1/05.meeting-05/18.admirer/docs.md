@@ -3,7 +3,7 @@ title: 'An Ardent Admirer'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Kay</div>

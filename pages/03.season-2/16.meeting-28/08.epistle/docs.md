@@ -3,7 +3,7 @@ title: 'Epistle to a Lady'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 #### Written on the 4th of June 1810  

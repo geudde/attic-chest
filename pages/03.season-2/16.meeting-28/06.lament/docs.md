@@ -3,7 +3,7 @@ title: 'The Lady’s Lament'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 Oh luckless Maid! Oh cruel fate  

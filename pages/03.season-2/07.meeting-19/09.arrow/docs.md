@@ -3,7 +3,7 @@ title: 'To the Lady of the Golden Arrow'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Flaxman</div>

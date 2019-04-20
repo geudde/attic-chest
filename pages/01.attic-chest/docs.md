@@ -3,7 +3,7 @@ title: 'Attic Chest'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 The Attic Chest was a literary circle hosted by William Porden and his daughter Eleanor Anne at their home in Berners Street, London. For approximately ten years, from 1808 to 1818, the circle met twice a month during the winter season. 

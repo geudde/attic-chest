@@ -3,7 +3,7 @@ title: 'Love and the Nymphs'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Kilburn</div>

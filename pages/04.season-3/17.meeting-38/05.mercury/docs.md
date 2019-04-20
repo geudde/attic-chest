@@ -3,7 +3,7 @@ title: 'Mercury to Mars'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Richardson (L.I.F.)</div>  

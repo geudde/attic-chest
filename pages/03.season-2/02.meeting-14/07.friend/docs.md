@@ -3,7 +3,7 @@ title: 'To a Lost Friend'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Ludlow com. by Miss Richardson</div>

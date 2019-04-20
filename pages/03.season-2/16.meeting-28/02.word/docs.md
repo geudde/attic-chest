@@ -3,7 +3,7 @@ title: 'Woman’s Last Word'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 I thought my good Sir, but I find I was wrong,  

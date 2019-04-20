@@ -3,7 +3,7 @@ title: 'Introduction to a Lady’s Poetical Miscellany'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Communicated by Miss Beslee</div>

@@ -3,7 +3,7 @@ title: 'Anacreon Ode 23'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mrs Kay</div>

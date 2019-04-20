@@ -3,7 +3,7 @@ title: Acrostic
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 **N**ationibus, **A**utoritatem, **P**rincipibus, **O**bedientium,

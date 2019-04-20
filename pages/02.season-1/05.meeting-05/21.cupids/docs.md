@@ -4,7 +4,7 @@ media_order: cupid.jpg
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Flaxman</div>

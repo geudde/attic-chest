@@ -3,7 +3,7 @@ title: 'To Mr. Porden'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 Hail matchless Architect whose tuneful tongue,  

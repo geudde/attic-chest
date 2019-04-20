@@ -3,7 +3,7 @@ title: 'Sonnet to a Young Lady'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Porden</div>

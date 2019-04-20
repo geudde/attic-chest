@@ -3,7 +3,7 @@ title: 'St Valentine’s Day'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Flaxman</div>

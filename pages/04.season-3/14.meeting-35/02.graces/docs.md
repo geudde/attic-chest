@@ -4,7 +4,7 @@ media_order: muses.jpg
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Bond</div>

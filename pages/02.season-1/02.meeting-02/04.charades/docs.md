@@ -3,7 +3,7 @@ title: Charades
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 #### 1

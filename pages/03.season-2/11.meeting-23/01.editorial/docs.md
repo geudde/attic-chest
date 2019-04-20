@@ -3,7 +3,7 @@ title: Editorial
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 The challenge of Thalestris which produced so much amusement at our last reading has not yet ceased to stimulate our correspondents. We are favoured with a Latin Distich addressed to the Amazon signed *Aruns* which we hope some one of our gallant knights will translate for the benefit of the Ladies. But let Aruns dread the vengeance of Opis for daring to strike the Virgin warrior. The fair Incognita who we believe to be Thalestris under another name ridicules the fears of 1810 who dreaded to encounter the Ladies lest he should catch a Tartar and to rouse his Kestrel courage invites him to combat at their side by celebrating their virtues a theme on which he may expatiate without danger and we will add without labour if it be true, as she says, that the whole may be written in the compass of a silver penny. We however think differently and believe that to enumerate their Multifarious Excellencies in twenty folio Volumes would require a pen as fine as the used by the Old Grecian who enshrined the Iliad of Homer in a Nut shell. However let Signor 1810 exert himself and if the brightness of the objects he is contemplating does not dazzle his mental sense he may honestly hope for the reward which Incognita doubtless has in reserve for him though she is too wise to make promises to a youthful knit who has confessed how much he fears the Ladies.

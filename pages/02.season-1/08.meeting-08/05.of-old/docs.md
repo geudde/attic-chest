@@ -3,7 +3,7 @@ title: 'Of Old'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 Of old, as poets tell the tale  

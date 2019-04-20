@@ -3,7 +3,7 @@ title: 'The Primrose of December'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Sanders</div>

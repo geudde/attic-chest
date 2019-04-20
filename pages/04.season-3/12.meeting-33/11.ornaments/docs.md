@@ -3,7 +3,7 @@ title: 'Ornaments of Dress'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Porden</div>

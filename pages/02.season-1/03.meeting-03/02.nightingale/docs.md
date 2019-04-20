@@ -3,7 +3,7 @@ title: 'Sonnet to a Nightingale'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">C. Sanders</div>

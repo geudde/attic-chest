@@ -3,7 +3,7 @@ title: 'The New Year'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mrs Richardson</div>

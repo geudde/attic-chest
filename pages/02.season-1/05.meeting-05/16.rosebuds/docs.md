@@ -3,7 +3,7 @@ title: 'Beauteous Rosebud'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 Beauteous rose-bud, young and gay,  

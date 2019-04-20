@@ -3,7 +3,7 @@ title: 'Cupid as Landscape Painter'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Vignoles</div>

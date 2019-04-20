@@ -3,7 +3,7 @@ title: 'Scintilla to Philo-Fillagree'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 It was a spark of brilliant Wit  

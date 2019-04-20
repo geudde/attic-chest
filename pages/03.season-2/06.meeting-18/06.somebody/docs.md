@@ -3,7 +3,7 @@ title: 'To Somebody'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 Good people I have lost my heart,  

@@ -3,7 +3,7 @@ title: Charade
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 ### On a Dead Poet’s Name

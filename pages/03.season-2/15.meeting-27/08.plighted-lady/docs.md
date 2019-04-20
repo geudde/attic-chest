@@ -3,7 +3,7 @@ title: 'The Plighted Lady'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 Inspire me Lewis, while I sing

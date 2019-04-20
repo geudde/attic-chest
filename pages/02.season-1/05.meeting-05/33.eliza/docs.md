@@ -3,7 +3,7 @@ title: 'Given to Eliza'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">D. Grant</div>

@@ -3,7 +3,7 @@ title: 'Nestling on the Barren Cliff'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Watson</div>

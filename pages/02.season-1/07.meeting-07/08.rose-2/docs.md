@@ -3,7 +3,7 @@ title: 'The Rose'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 > <span class="red">Printed Material</span>

@@ -3,7 +3,7 @@ title: 'The Antiques at Paris'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">com. Mrs F. Mellish</div>

@@ -3,7 +3,7 @@ title: 'The Tapster'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Communicated by Mr Vignoles</div>

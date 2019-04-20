@@ -3,7 +3,7 @@ title: 'Translations from the Welsh'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 > Translation of some lines on a departed *Friend*  

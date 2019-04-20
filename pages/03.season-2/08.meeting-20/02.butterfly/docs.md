@@ -3,7 +3,7 @@ title: 'From a Butterfly to Aspasia'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 Born in Aspasia’s fost’ring land  

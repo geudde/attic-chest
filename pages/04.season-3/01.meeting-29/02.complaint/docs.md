@@ -3,7 +3,7 @@ title: 'Complaint of the Members'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Vignoles</div>

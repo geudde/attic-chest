@@ -3,7 +3,7 @@ title: Editorial
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 > “Ah me! what perils do environ,  

@@ -3,7 +3,7 @@ title: 'To Miss Porden on Her Birthday'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 #### July 14th 1810  

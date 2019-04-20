@@ -3,7 +3,7 @@ title: 'The Mob Cap'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Kennion</div>

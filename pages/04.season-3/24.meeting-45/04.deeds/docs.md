@@ -3,7 +3,7 @@ title: 'Let Others Sing of Deeds of Arms'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mrs Stavely</div>

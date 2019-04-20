@@ -3,7 +3,7 @@ title: 'Specimens of Elegant Writing'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 #### In Prose and Verse  

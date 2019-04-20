@@ -3,7 +3,7 @@ title: Editorial
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 At this season when the birds of the air are supposed to select their conjugal partners for the year, it has long been the custom for Wit and humour to sport in soft sonnets and tender billets of real or pretended affection.

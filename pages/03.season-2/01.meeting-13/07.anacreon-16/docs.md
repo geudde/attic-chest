@@ -3,12 +3,12 @@ title: 'Anacreon Ode 16'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Bond</div>
 
-A Shepherd from the Neighbourhood of Tess offers the fair Keeperess of the Tea Chest a decayed Leaf fallen from the Wreath of Anacreon; if this is accepted, <span data-tippy="Text missing" class="red">[ . . . ]</span> should pick up a few more, he will communicate them.
+A Shepherd from the neighbourhood of Tess offers the fair keeperess of the Tea Chest a decayed leaf fallen from the wreath of Anacreon; if this is accepted, <span data-tippy="Text missing" class="red">[ . . . ]</span> should pick up a few more, he will communicate them.
 
 November 2nd 1809
 
@@ -22,13 +22,13 @@ of Anacreon
 
 You may sing the Theban War  
 Or how the Grecians from afar  
-Led their Ships to Phrygia’s Strand  
-How bravely fought the Trojan Band.  
-Not such your Poet overthrew,  
-New were their Arms their Warfare new  
-No Horse, no Footmen fill’d their Ranks  
-No Rowers mann’d the Trireme’s Banks;  
-Anacreon here, a Captive lies  
-Conquer’d by Shafts from female Eyes.  
+Led their ships to Phrygia’s strand  
+How bravely fought the Trojan band.  
+Not such your poet overthrew,  
+New were their arms their warfare new  
+No horse, no footmen fill’d their ranks  
+No rowers mann’d the trireme’s banks;  
+Anacreon here, a captive lies  
+Conquer’d by shafts from female eyes.  
 
 Ictinus

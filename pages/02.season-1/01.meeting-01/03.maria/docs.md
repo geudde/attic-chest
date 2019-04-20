@@ -3,7 +3,7 @@ title: 'To Maria'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 &emsp;Deep in the lonesome dungeon’s gloom  

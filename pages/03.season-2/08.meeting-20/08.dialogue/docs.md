@@ -3,7 +3,7 @@ title: 'Dialogue between a Turk and an Englishman'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 #### Turk  

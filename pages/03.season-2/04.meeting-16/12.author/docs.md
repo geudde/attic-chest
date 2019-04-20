@@ -3,7 +3,7 @@ title: 'To the Author of the Tinder Box'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Flaxman</div>

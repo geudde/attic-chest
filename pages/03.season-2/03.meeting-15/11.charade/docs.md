@@ -3,7 +3,7 @@ title: 'Charade and Riddle'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 #### Charade

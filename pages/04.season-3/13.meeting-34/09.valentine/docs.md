@@ -3,7 +3,7 @@ title: 'Valentine’s Day Anticipated'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Richardson</div>

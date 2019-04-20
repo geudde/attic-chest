@@ -3,7 +3,7 @@ title: 'The Fop’s Distress'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 #### or *Fashionable* Court Mourning 

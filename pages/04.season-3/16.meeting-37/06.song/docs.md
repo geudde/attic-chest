@@ -3,7 +3,7 @@ title: Song
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Communicated by Mrs Flaxman</div>

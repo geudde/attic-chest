@@ -3,7 +3,7 @@ title: 'Decoration of the Attic Chest'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 ##### Letter Proposing the Decoration of the Attic Chest

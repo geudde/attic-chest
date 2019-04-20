@@ -3,7 +3,7 @@ title: 'Do Not Swear at All'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 Do not swear at all —   

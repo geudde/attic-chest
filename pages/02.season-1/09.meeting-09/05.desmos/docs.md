@@ -3,7 +3,7 @@ title: 'Horace Book 2 Ode 16'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Bond</div>

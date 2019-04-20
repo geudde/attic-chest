@@ -3,7 +3,7 @@ title: 'The Rape of the Veil'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 #### 1  

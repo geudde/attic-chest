@@ -3,7 +3,7 @@ title: 'A New Pot Pourri'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Richardson (L.I.F.)</div>

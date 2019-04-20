@@ -3,7 +3,7 @@ title: 'The Mother’s Song'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Flaxman</div>

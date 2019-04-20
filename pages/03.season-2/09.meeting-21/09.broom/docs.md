@@ -3,7 +3,7 @@ title: 'The New Broom'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Reverend Mr Cayley</div>

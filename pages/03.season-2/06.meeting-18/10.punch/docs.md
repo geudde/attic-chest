@@ -4,7 +4,7 @@ media_order: punch.jpg
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Porden</div>

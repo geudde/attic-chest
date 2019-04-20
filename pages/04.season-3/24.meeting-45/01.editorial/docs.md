@@ -3,7 +3,7 @@ title: Editorial
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 The editor in the name of the editress has to thank the members of the Attic Society for their elegant compliments on her birthday and he trusts that she will show her grateful sense of the praise which has been so handsomely and so liberally given by exerting her best endeavours to deserve it. She joins the editor in returning their good wishes with hopes that for many years they may merrily meet round the Chest.

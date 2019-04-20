@@ -3,7 +3,7 @@ title: 'Oft I’ve Implored'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mrs Flaxman</div>

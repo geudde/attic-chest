@@ -3,7 +3,7 @@ title: 'Apollo in the Dumps'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 #### The Muses Vagaries

@@ -3,7 +3,7 @@ title: 'On the Conscription of the Student of Gottingen'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Porden</div>

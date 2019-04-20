@@ -3,7 +3,7 @@ title: 'Lord Wellington’s Birthday'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Hayley, communicated by Mrs Flaxman</div>

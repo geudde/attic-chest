@@ -3,7 +3,7 @@ title: Editorial
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 We have frequently had occasion, since the commencement of our meetings, to return our acknowledgements to our friends for their liberal support, and we feel ourselves at the present moment, particularly called on to repeat this pleasing duty, as at no time has the Chest been honoured with such a number and variety of contributions. Indeed so numerous are they, that we are under the necessity of deferring many pieces of considerable merit to a future Evening, and we trust that none of our correspondents will imagine themselves neglected from this unavoidable delay. A delay which their own liberality has occasioned.

@@ -3,7 +3,7 @@ title: 'If Hope Is to Gild Future Days'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Richardson</div>

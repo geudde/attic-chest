@@ -3,7 +3,7 @@ title: 'The Complaint of the Sylphs'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 #### 1  

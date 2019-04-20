@@ -3,7 +3,7 @@ title: 'On Wit'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 Seducing Wit, thou soul-enlivening ray,  

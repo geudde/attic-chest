@@ -3,7 +3,7 @@ title: 'The Jarvey'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 Oh ye to whom the God of Wealth has given,  

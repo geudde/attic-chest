@@ -3,7 +3,7 @@ title: 'Ictinus to Dido'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Flaxman (Bond?)</div>

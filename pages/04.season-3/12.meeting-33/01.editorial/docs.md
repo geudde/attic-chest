@@ -3,7 +3,7 @@ title: Editorial
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 The following List of contributions yet unread will prove to our hearers, that we did not exaggerate when we vaunted the Richness of our Repository, in our last Introduction.

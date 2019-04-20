@@ -3,7 +3,7 @@ title: 'Mischievous Care'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 Ah why with such mischievous care  

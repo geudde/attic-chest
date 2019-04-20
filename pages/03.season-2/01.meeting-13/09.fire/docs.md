@@ -3,7 +3,7 @@ title: 'Muse of Fire'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">R. Westall</div>

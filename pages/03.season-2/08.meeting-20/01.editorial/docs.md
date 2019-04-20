@@ -3,7 +3,7 @@ title: Editorial
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 We shall open our reading with a short poem of eminent beauty, written by a learned friend with whom we have enjoyed many a Literary Feast. We scarcely know in the whole range of English Poetry, and uncommon incident so happily illustrated. —— In the description of a Cottage there is much ingenuity and fancy, and it contains a compliment that must have been pleasing to the persons to whom it was addrest. —— In the praise of Tea we join most heartily with Van-ta-zhin and consider it as the beverage of the Muses.

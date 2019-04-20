@@ -3,7 +3,7 @@ title: 'Phoebe to Roberto'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 Dear Architect of fine Chateaux in air;  

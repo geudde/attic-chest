@@ -3,13 +3,13 @@ title: 'Says a P to an O'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Communicated by Mr R. Kay</div>
 
 &emsp;Says a P to an O,  
-&emsp;On the hat of a Beau,  
+&emsp;On the hat of a beau,  
 Which long had defied stormy weather,  
 &emsp;In sooth lovely O,  
 &emsp;The cause I’d fair know,  
@@ -27,4 +27,4 @@ Tis to good McMeinhall relief.
 We both are old Dilcoorth’s abettors;  
 &emsp;And whenever O.P.  
 &emsp;On the hat band we see  
-The wearer is learning his Letters.  
+The wearer is learning his letters.  

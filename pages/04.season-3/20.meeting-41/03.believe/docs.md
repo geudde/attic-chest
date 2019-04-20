@@ -3,7 +3,7 @@ title: 'Believe Me Love'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 #### Song

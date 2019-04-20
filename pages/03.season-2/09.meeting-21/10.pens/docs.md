@@ -3,7 +3,7 @@ title: 'On the Portable Pens'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Bon</div>

@@ -3,7 +3,7 @@ title: 'Music, Feeling, and Palpitation'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Hinckley</div>

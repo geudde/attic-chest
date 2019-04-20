@@ -3,7 +3,7 @@ title: 'The Squirrel'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Sanders</div>

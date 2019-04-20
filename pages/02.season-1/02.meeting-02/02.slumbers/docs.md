@@ -3,7 +3,7 @@ title: 'Let Not Soft Slumbers'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Parkinson</div>

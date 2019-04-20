@@ -3,7 +3,7 @@ title: 'To Miss F.'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 Where anything abounds, we find  

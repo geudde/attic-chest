@@ -3,7 +3,7 @@ title: 'The Oyster to His Valentine'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Bond</div>

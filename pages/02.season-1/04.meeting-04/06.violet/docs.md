@@ -3,7 +3,7 @@ title: 'The Violet'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 In vain for me the queen of flow’rs  

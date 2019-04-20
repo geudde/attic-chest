@@ -3,7 +3,7 @@ title: 'Anacreon Ode 1'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 I would, I would — with harp and string,  

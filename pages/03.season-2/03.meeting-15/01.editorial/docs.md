@@ -3,7 +3,7 @@ title: Editorial
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 * Verses imitated from the French of Moliere “Si le Roi m’avoit donné”

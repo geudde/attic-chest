@@ -3,7 +3,7 @@ title: 'To Love'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 Love! thou pleasing, gen’rous feeling,  

@@ -3,7 +3,7 @@ title: 'Prose and Verse'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mrs Staveley</div>

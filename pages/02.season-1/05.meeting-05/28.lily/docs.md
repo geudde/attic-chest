@@ -3,7 +3,7 @@ title: 'The Lofty Lily'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 The lofty lily rears its snowy head  

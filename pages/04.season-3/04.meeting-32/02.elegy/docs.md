@@ -3,7 +3,7 @@ title: 'Elegy on the Death of 1810'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 #### A far famed M.A.S.

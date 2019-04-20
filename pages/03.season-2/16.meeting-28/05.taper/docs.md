@@ -3,7 +3,7 @@ title: 'Taper Soup'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 Young Dolly was a famous cook,  

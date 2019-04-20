@@ -3,7 +3,7 @@ title: Editorial
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 We open our readings this evening with a pathetic poem called the Convict, which will be followed by an Ode on a College Feast Day, of a lighter character, and verses To Maria, with which the Fair Lady to whom they are addressed cannot be displeased. To this will be added the Resolve, signed Floris, and a Poem entitled the Widow, which we believe to be very witty and very ingenious, if we could understand it. The Letter to My Wife is much in the manner of the Address to Poetry, which was received with approbation on a former occasion. The Impromptu on Hearing the Proxies seems to be a stroke at our sapience, but our brain was defended by our wig, which was the only Proxy on the Judgment Seat. The beautiful poem called The Caution will put our female audience on their guard against the arts of the Blind God, who is usually more mischievous than ordinary on his birthday. The description of the Shelton Oak is curious, as being a fact in Natural History that confirms the amazing age to which rrees of this species attain, before their last remnants are mingled with their parents. The Doodle Oak, near Hatfield Regis in Essex, may be compared with the Shelton Oak, and we doubt not but many more may be found of equal age and dimensions, though not dignified with any historical tradition that ascertains the time in which they flourished.

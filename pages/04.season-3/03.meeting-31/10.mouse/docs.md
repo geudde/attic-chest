@@ -3,7 +3,7 @@ title: 'On Seeing a Mouse'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 #### Run across the Road in January  

@@ -3,7 +3,7 @@ title: 'Written in a Young Lady’s Album'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Joseph</div>

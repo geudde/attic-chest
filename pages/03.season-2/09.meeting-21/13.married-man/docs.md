@@ -3,7 +3,7 @@ title: 'The Speech of a Newly Married Man'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 #### O.B.I.C.,G.A.C.O.B.I.

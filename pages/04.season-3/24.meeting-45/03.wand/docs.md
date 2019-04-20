@@ -3,7 +3,7 @@ title: 'When Stella Waves this Little Wand'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Flaxman</div>

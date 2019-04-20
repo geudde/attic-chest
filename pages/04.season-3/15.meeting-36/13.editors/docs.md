@@ -3,7 +3,7 @@ title: 'To the Editors'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Sarah Richardson</div>

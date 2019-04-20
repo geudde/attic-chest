@@ -3,7 +3,7 @@ title: 'The Pen’s Remonstrance'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Porden</div>

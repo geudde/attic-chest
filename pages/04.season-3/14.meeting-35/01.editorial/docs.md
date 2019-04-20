@@ -3,7 +3,7 @@ title: Editorial
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 Mercurius presses on his suit with such earnestness, as shows him to be a God of business, and who knows that expedition is the soul of it and to satisfy his impatience, we intended to have proposed the discussion for this Evening, but we are concerned to find, and doubtless he will be much more so, that his leading Counsel has not excepted his briefs, from what cause we are ignorant. However we can scarcely imagine that a God of so much Cunning should have neglected to send the proper fee to a pleader of so much eminence.

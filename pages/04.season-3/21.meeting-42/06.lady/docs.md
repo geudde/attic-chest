@@ -3,7 +3,7 @@ title: 'To a Lady'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 ##### To a lady distinguished by her dutiful attention to an aged parent

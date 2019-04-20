@@ -3,7 +3,7 @@ title: 'A Translation of the Second Ode of Anacreon'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Porden</div>

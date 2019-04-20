@@ -3,7 +3,7 @@ title: Song
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 Let Homer’s deep majestic lyre,  

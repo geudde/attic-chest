@@ -3,7 +3,7 @@ title: 'Nine Lines by Way of Apology'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Flaxman</div>

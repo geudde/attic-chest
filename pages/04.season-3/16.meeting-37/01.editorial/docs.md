@@ -3,7 +3,7 @@ title: Editorial
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 The hearing of the cause Mars versus Mercury having been fixed for this Evening we are much concerned to state that the absence of the leading Counsel on the part of the Plaintiff, and also of our most noble Judge, obliges us to defer the Pleading. Our correspondents, presuming, as we imagine upon the trial have since our last meeting been unusually idle, and we must therefor claim the indulgence of our hearers for a less brilliant number than we have hitherto offered to their notice.

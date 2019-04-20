@@ -4,7 +4,7 @@ media_order: '1809-02-21-20-a.jpg,1809-02-21-20-b.jpg'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Maria Denman</div>

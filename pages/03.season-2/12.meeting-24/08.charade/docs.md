@@ -3,7 +3,7 @@ title: 'Charade Signed C.J.F.'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Communicated by Miss Flaxman</div>

@@ -3,7 +3,7 @@ title: 'The Pastor Restored to His Flock'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Communicated by Mrs Kay</div>

@@ -3,7 +3,7 @@ title: 'The Norland Lassie’s Lament'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mrs Staveley</div>

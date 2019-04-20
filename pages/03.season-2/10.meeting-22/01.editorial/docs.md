@@ -3,7 +3,7 @@ title: Editorial
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 The Challenge of Thalestris, has, like barm in a beer barrel, set the wits of our Correspondents a-fermenting, and produced us some flagons of excellent liquour, which will be quaffed with pleasure, though some sickly palates may fancy, it does not possess the genuine flavour of Helicon in the highest degree. But while we praise the verses We are sorry to find the ladies appear to have so few real friends among our contributors for their faults have engaged much more attention than their virtues and the most favourable of the authors we suspect to be little better than snakes in the grass.

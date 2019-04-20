@@ -3,7 +3,7 @@ title: 'Verses on the Door of a Temple'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 ##### Verses written on the door of a temple, on Plane Hill, Swainston & the seat of Sir John Barrington

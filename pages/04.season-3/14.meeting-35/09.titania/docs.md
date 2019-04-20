@@ -3,7 +3,7 @@ title: 'To Ellen from Titania'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mrs Flaxman</div>

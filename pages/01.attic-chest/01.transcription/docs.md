@@ -3,7 +3,7 @@ title: 'Transcription Notes'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 The Attic Chest contributions exhibit inconsistency of spelling, capitalization, and punctuation, often in combination. Any attempt to reproduce these inconsistencies would make the transcriptions confusing at best, unreadable at worst. 

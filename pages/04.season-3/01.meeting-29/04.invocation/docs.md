@@ -3,7 +3,7 @@ title: 'Invocation to the Muses'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Porden</div>

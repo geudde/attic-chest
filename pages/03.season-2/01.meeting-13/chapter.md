@@ -2,10 +2,6 @@
 title: 'Meeting 13'
 taxonomy:
     category: docs
-    tag: ''
-process:
-    markdown: true
-    twig: true
 visible: true
 ---
 

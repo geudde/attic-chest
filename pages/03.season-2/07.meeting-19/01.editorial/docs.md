@@ -3,7 +3,7 @@ title: Editorial
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 Our correspondents have been bountiful to the Chest since our last meeting, and have sent us a number of pieces which though short, are very pleasing, among which that “on the fate of the Moth”, the “Verses to a Bullfinch”, and those “To Laura” are eminently beautiful. We shall always receive with particular gratitude, and read with delight such compositions as exhibit original and delicate sentiments, with the grace of poetic Language.

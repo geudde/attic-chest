@@ -3,7 +3,7 @@ title: 'A Riddle'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 Four people sat down at a tavern to play  

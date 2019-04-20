@@ -3,7 +3,7 @@ title: 'Lines Given to a Young Lady'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 May ev’ry link that forms this slender Chain  

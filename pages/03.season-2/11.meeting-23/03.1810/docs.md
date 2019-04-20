@@ -3,7 +3,7 @@ title: 'To 1810'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Flaxman</div>

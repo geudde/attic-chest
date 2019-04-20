@@ -3,7 +3,7 @@ title: 'Westminster Hall on the First Day of Term'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Vignoles</div>

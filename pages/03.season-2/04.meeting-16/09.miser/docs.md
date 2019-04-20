@@ -3,7 +3,7 @@ title: 'The Miser and the Mouse'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Communcated by Miss Flaxman</div>

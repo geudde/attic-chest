@@ -3,7 +3,7 @@ title: 'All Powerful Love'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Porden</div>

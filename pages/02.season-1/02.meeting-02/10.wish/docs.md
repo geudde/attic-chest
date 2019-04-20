@@ -3,7 +3,7 @@ title: 'Much Do I Wish'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author"><span data-tippy="Miss Flaxman" class="green">Mr Flaxman</span></div>

@@ -3,7 +3,7 @@ title: 'Rules for Becoming a Popular Writer'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Communicated by Miss Flaxman</div>

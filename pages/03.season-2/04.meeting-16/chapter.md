@@ -2,7 +2,6 @@
 title: 'Meeting 16'
 taxonomy:
     category: docs
-    tag: ''
 visible: true
 ---
 

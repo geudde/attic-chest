@@ -3,7 +3,7 @@ title: Epitaph
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Jekyll: Communicated by Mrs Staveley</div>

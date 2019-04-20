@@ -3,7 +3,7 @@ title: 'Invitation to the Rev Mr Taylor'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Porden</div>

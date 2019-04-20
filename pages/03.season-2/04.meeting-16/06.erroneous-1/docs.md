@@ -3,7 +3,7 @@ title: 'Erroneous Answer 1'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Vignoles</div>

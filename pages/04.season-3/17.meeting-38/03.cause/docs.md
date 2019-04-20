@@ -3,7 +3,7 @@ title: 'When the Cause Has Been Heard'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Vignoles</div>  

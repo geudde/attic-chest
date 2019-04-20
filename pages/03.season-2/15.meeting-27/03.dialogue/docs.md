@@ -3,7 +3,7 @@ title: 'A Dialogue'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 “A plain gold Ring’s a serious thing,  

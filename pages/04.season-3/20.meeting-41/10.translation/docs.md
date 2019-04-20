@@ -3,7 +3,7 @@ title: 'A Free Translation'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 ##### A Free Translation of One of Buondelmonte’s Sonnets

@@ -3,7 +3,7 @@ title: Editorial
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 In our opening paper we congratulated our Auditors on the number of contributions with which our Readings commenced, and considered it as a proof of the pleasure received, and the advantages derived from a periodical stimulus to the exertion of their talents. We have not less reason to be satisfied with the Productions which will be read this Evening and we look forward with a well founded hope of a Brilliant Season.

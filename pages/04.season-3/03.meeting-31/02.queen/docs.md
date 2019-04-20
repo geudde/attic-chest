@@ -3,7 +3,7 @@ title: 'The Queen and Her Three Daughters'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 #### A Legend  

@@ -3,7 +3,7 @@ title: Solution
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 When the orient light appears,  

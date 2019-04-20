@@ -3,7 +3,7 @@ title: 'Blue Beard'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 Blue Beard

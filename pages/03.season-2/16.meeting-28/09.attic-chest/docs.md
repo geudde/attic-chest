@@ -3,7 +3,7 @@ title: 'The Attic Chest to Her Respected Friends'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 Again my friends with sorrowing heart  

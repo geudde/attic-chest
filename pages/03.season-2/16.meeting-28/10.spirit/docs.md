@@ -3,7 +3,7 @@ title: 'The Spirit’s Farewell'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 #### The Spirit of the Attic Chest’s Farewell Address to the Editress  

@@ -3,7 +3,7 @@ title: 'Sonnet to Samuel William Nicol Esq.'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Porden</div>

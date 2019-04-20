@@ -3,7 +3,7 @@ title: 'And Canst Thou Say'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 And canst thou say thou dost not know    

@@ -3,7 +3,7 @@ title: Editorial
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 At our last meeting the demon of despondency overshadowed our repository and filled us with apprehensions that the conclusion of the season would not equal what the flourishing commencement had promised. We however this evening shall sing another song for the angel of abundance has showered down his treasures and we again are enlivened with the hope that the birthday will not pass without its usual honours. Such are the operations of chance and change, the constant theme of moralists and poets — hopes and fears, delight and sorrow, form the tissue of human life, and give it variety and interest. The calm of uninterrupted happiness would unnerve the soul and sink it into listless indolence. The oak attains its superior hardihood more by struggling with the storm than by the influence of showers and sunshine.

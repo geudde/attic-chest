@@ -3,7 +3,7 @@ title: 'To Miss Porden'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 The charms which blooming beauty shews  

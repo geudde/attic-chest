@@ -3,7 +3,7 @@ title: 'The Attic Chest to Her Contributors and Friends'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Porden</div>

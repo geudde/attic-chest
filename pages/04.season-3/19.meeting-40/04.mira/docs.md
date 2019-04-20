@@ -3,7 +3,7 @@ title: 'Mira’s Despair'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">com. Mr Vignoles</div>

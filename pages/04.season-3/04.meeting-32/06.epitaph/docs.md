@@ -3,7 +3,7 @@ title: 'French Epitaph'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mrs Kay</div>

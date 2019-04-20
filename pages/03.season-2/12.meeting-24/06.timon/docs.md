@@ -3,7 +3,7 @@ title: 'An Answer to the Challenge of Timon'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Flaxman</div>

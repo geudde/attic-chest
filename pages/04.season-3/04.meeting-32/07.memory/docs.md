@@ -3,7 +3,7 @@ title: 'To Memory'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss F. Richardson</div>

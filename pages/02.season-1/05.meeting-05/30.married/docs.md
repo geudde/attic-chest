@@ -3,7 +3,7 @@ title: 'Convinc’d a Married'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Communicated by Miss M’Donald</div>

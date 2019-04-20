@@ -3,7 +3,7 @@ title: 'On Hearing an Amiable Young Lady'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Joseph</div>

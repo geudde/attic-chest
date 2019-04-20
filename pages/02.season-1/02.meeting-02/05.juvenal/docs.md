@@ -3,7 +3,7 @@ title: 'Translation from Juvenal'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Bond</div>

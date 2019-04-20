@@ -3,7 +3,7 @@ title: 'Though the Sweetest Vermilion'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 Though the sweetest vermilion adorn  

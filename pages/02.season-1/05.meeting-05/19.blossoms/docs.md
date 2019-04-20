@@ -3,7 +3,7 @@ title: 'See How the Feather’d Blossoms'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 See how the feather’d blossoms through the air  

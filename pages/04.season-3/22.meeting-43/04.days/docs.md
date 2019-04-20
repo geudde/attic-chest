@@ -3,7 +3,7 @@ title: 'Days of Yore'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 ##### Days of Yore and Modern Times

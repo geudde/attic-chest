@@ -3,7 +3,7 @@ title: 'To the Piano-Forte'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 Dear Instrument, what gentle joy  

@@ -3,7 +3,7 @@ title: 'See How the Blooming Buds'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Flaxman</div>

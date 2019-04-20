@@ -3,7 +3,7 @@ title: 'To Lycidas'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 > To Lycidas, on his forsaking the Lyre

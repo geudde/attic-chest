@@ -3,7 +3,7 @@ title: 'On Wit and Humor'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 ’Twixt Wit and Humor, pretty Miss  

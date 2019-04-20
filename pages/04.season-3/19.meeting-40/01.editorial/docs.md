@@ -3,7 +3,7 @@ title: Editorial
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 We shall open our readings this evening with a pleasing poem addressed to May lamenting the chill and sickly aspect of this patroness of vernal fragrance and beauty; and containing in the allusion to Emilia and her lovers an elegant compliment to the ladies and warriors of Britain. The seventh of May has long been a favourite subject with the poets, but, alas, the May of England is frequently cold and dreary and much unlike that sprightly season which Chaucer tells us “leads the jolly months along.” The old bard having warmed his imagination with the genial May of Italy, painted rather from fancy than nature, and his successors have sung the same air with variations from his days to the present. There is in all likelihood however some difference between the May of Chaucer’s days and ours occasioned by the alternation of the style, great changes taking place in the course of eleven days at a season when all the elements of nature are in motion. But notwithstanding this we are of opinion that if the first picture had been taken from the May of our climate she would probably have appeared as a sober damsel in a bonnet and pelisse carrying an umbrella, rather than as a frolic nymph, in a robe of transparent lawn with wreathes of flowers encircling her golden tresses, yet so charming is the classic picture that we do not wish to see it given up for our native May.

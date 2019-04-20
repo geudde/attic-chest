@@ -3,7 +3,7 @@ title: 'A German Bacchanalian Song'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Campbell</div> 

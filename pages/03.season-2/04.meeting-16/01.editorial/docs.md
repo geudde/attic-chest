@@ -3,7 +3,7 @@ title: Editorial
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 The riddles, charades, and Rebuses which have been admitted into the Attic Chest seem to have directed the attention of our correspondents too much towards such productions, which can at best only be denominated elegant trifles. We have been since our last adjournment assailed with them from all quarters. They have fallen upon us like hailstones, some large and some small, some good and some as one may say with great defference and respect for the fair and amiable and learned inventors only *so so*. Riddles and even Charades and Rebuses may occasionally serve to fill up the Chasms in conversation, when wit and humour drop their wearied wings but we have observed that whenever they appear in a convivial circle the minds of the Company are so much abstracted in seeking the solution that Hilarity is banished and Dullness presides for the rest of the Evening. We may occasionally admit them into the Attic Chest to vary our entertainment, but it is not our wish to invite the presence of the soporific goddess by requiring immediate answer. We would rather wish our friends to consider them in the intervals of our meetings, and to give the answers in writing either in verse or prose, and thus exercise at the same time the investigating faculties and the fancy.

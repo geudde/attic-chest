@@ -4,7 +4,7 @@ media_order: hail-nymph.jpg
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Kay</div>

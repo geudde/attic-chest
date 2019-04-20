@@ -3,7 +3,7 @@ title: 'Anacreon Ode 29'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Bond and Mr Porden</div>

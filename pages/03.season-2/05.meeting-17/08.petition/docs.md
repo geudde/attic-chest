@@ -3,7 +3,7 @@ title: 'Petition to Winter'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Porden</div>

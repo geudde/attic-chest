@@ -3,7 +3,7 @@ title: 'The Constellation 4'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Porden</div>

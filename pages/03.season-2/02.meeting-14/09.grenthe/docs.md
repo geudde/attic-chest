@@ -3,7 +3,7 @@ title: 'Monsieur L’Abbé de Grenthe’s Ball'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Communicated by Sir John Barrington</div>

@@ -3,7 +3,7 @@ title: 'The Captive Lover’s Epistle'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Flaxman</div>

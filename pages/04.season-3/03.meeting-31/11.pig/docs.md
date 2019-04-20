@@ -3,7 +3,7 @@ title: 'Ode to a Pig'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 #### While His Nose Was Boring

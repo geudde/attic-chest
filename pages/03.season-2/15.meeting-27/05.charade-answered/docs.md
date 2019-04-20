@@ -3,7 +3,7 @@ title: 'Charade by C.J.F. Answered'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 When the proud Galley down the Cydnus moved  

@@ -3,7 +3,7 @@ title: 'A Simple and Pathetic Tale'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 #### In the most admired modern taste 

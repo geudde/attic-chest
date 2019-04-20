@@ -3,7 +3,7 @@ title: 'To Miss E.A.P.'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Communicated by Miss Denman</div>

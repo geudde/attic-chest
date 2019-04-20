@@ -3,7 +3,7 @@ title: 'The Love Fit'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Communicated by Mr Henry Thomson</div>

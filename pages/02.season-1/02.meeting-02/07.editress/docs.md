@@ -3,7 +3,7 @@ title: 'To the Editress of the Attic Chest'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 From one who though not intimate in the family wishes to contribute to the Attic Chest, and who would be happy at some future time (when properly introduced) to make one in the circle at the Readings.

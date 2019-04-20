@@ -3,7 +3,7 @@ title: 'Answer to the Riddle'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Vignoles</div>

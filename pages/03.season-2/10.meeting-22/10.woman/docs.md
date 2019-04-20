@@ -3,7 +3,7 @@ title: Woman
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 ### Woman   

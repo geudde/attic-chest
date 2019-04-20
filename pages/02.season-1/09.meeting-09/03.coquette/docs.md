@@ -3,7 +3,7 @@ title: 'The Rose a Coquette'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Flaxman</div>

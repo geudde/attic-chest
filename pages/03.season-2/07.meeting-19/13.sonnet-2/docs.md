@@ -3,7 +3,7 @@ title: Sonnet
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 &emsp;Hoppner whilst I to cheat the villain time  

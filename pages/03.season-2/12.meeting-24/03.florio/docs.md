@@ -3,7 +3,7 @@ title: 'After Seeing Florio'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Flaxman</div>

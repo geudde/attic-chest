@@ -3,7 +3,7 @@ title: 'My Choice'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 The shape alone let others prize,  

@@ -3,7 +3,7 @@ title: 'To Sir John Barrington'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Porden</div>

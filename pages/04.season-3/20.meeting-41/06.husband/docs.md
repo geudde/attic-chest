@@ -3,7 +3,7 @@ title: 'Effusions on My Husband’s Birthday'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Communicated by Miss F. Richardson</div>

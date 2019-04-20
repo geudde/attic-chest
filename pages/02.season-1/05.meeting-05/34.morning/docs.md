@@ -3,7 +3,7 @@ title: 'Valentine Morning'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Kay</div>

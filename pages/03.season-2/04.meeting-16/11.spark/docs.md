@@ -3,7 +3,7 @@ title: 'A Stray Spark from the Tinder Box'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Flaxman</div>

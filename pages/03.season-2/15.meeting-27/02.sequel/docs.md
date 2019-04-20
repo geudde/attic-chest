@@ -4,7 +4,7 @@ media_order: lamp.jpg
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 If Sheba’s gay Queen gave the point up so smooth,  
