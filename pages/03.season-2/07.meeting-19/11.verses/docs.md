@@ -1,5 +1,9 @@
 ---
 title: 'Verses to the Misses D-----ns'
+taxonomy:
+    category:
+        - docs
+visible: false
 ---
 
 <div class="author">Mr Porden</div>
