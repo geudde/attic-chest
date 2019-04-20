@@ -1,3 +1,11 @@
+---
+title: 'The Convict'
+taxonomy:
+    category:
+        - docs
+visible: false
+---
+
 <div class="author">Mr Vignoles</div>  
 
 Kitty’s charming voice and face;  

@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-<div class="author">Communcated by Miss Flaxman</div>
+<div class="author">Communicated by Miss Flaxman</div>
 
 A Miser, traversing his house  
 Espied, unusual there, a mouse,  

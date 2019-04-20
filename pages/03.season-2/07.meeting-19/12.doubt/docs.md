@@ -1,6 +1,10 @@
 ---
 title: 'Doubt and Certainty'
 media_order: 'doubt.jpg,certainty.jpg'
+taxonomy:
+    category:
+        - docs
+visible: false
 ---
 
 <div class="author">Mr Porden</div>
