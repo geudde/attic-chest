@@ -8,15 +8,15 @@ visible: false
 
 <div class="author">Mr Vignoles</div>
 
-My first on Dover’s Chalky Height,  
-&emsp;Frowns on the Seas below,  
+My first on Dover’s chalky height,  
+&emsp;Frowns on the seas below,  
 My next the palace hides from sight  
-&emsp;The Shepherd’s Cottage low:  
+&emsp;The shepherd’s cottage low:  
 
-Once in my whole a social Group,  
+Once in my whole a social group,  
 &emsp;The Attic Chest around:  
-Assembled wait in anxious Hope,  
-&emsp;Their Works may there be found.
+Assembled wait in anxious hope,  
+&emsp;Their works may there be found.
 
 A Lawyer
 

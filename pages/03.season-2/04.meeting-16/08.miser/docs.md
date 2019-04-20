@@ -14,7 +14,7 @@ And thus his uninvited guest,
 Briskly inquisitive, address’d:  
 “Tell me, my dear, to what cause is it  
 I owe this unexpected visit?”  
-The Mouse her Host obliquely eyed,  
+The mouse her host obliquely eyed,  
 And smiling, pleasantly replied:  
 “Fear not, good fellow! for your hoard  
 I come to lodge, and not to board.”
