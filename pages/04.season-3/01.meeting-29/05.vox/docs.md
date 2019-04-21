@@ -8,26 +8,26 @@ visible: false
 
 <div class="author">Mrs Flaxman</div>
 
-Says the yellow hair’d Laddie, to Luna so bright  
-How comes it, our Mars is so favor’d a Wight  
-That the Attics are still to be held on his Night?  
-His deeds, or his Trophies, can ne’er be deem’d fitting  
-For fair Ladies’ Ears, who so silently sitting  
-For Love of the Muses, leave sewing and knitting;  
+Says the yellow hair’d laddie, to Luna so bright  
+How comes it, our Mars is so favor’d a wight  
+That the Attics are still to be held on his night?  
+His deeds, or his trophies, can ne’er be deem’d fitting  
+For fair ladies’ ears, who so silently sitting  
+For love of the Muses, leave sewing and knitting;  
 ’Tis high time I protest that your claims you assert  
 Let them know ’tis your wish — Come my girl be alert —  
 Says Luna, with one they are afraid to be found  
 For ’tis often asserted, when I appear round  
-That the Heads of your Poets are not very sound!  
+That the heads of your poets are not very sound!  
 So I’ll not interfere — for I very well know  
-They have settled their Plan — and Friend Mars is their Beau,  
+They have settled their plan — and friend Mars is their beau,  
 Yet never-the-less I must think my good Sir  
 If Hermes the gay were to make a great stir  
 They might listen to him — with very great reason;  
 He also as being a <span data-tippy="lib’ral" class="green">thievish</span> divinity  
 Might <span data-tippy="help the" class="green">steal for</span> Young Poets <span data-tippy="the" class="green">some</span> scraps of Latinity.  
-His Vigilance too, an assistance might Prove  
-To find out who is who — and then throw down the Glove —  
+His vigilance too, an assistance might prove  
+To find out who is who — and then throw down the glove —  
 At this speech, they all shouted, — when good Father Jove  
 Shrugging up his broad shoulders — his eyes beaming Love  
 Cries out, daughter Venus pray how haps it that you  

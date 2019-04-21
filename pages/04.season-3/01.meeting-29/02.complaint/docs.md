@@ -10,60 +10,60 @@ visible: false
 
 #### The Complaint of the Members of the Attic Chest on the Delay of Opening it this Season
 
-Now Brighton ev’ry Day grows thinner,  
-The Black-Legs scarce get a Dinner,  
-&emsp;The Steyne and Libraries are wond’rous Empty:  
-Roques *there* who live upon their Wit  
-Scarce once in ten times make Hit;  
-&emsp;While Rogues *in Town* are revelling in Plenty!  
+Now Brighton ev’ry day grows thinner,  
+The Black-Legs scarce get a dinner,  
+&emsp;The Steyne and libraries are wond’rous empty:  
+Roques *there* who live upon their wit  
+Scarce once in ten times make hit;  
+&emsp;While rogues *in town* are revelling in plenty!  
   
-The Woods, the Fields, the Roads are muddy,  
-Poor Nature’s quite in a Brown Study:  
-&emsp;And Country Folks find winter fast approaches;  
-Crowds flock to London ev’ry Day,  
-And to the Ball, the Rout, the Play,  
-&emsp;Incessant roll the countless Coaches!!  
+The woods, the fields, the roads are muddy,  
+Poor Nature’s quite in a brown study:  
+&emsp;And country folks find winter fast approaches;  
+Crowds flock to London ev’ry day,  
+And to the ball, the rout, the play,  
+&emsp;Incessant roll the countless coaches!!  
   
-To Whist, Quadrille and Evening Parties  
-Folks run by Tens, by Scores, by Forties,  
-&emsp;And scarce a Place but has some Windows lighted:  
-But those who pace that lengthened Street,  
+To whist, quadrille and evening parties  
+Folks run by tens, by scores, by forties,  
+&emsp;And scarce a place but has some windows lighted:  
+But those who pace that lengthened street,  
 Where erst the Attic Guests were wont to meet,  
-&emsp;But for the Lamps would surely be benighted!!!  
+&emsp;But for the lamps would surely be benighted!!!  
    
-Indeed there long has been a Rumour,  
-That Groans, the grumbling Groans of Humor  
-&emsp;Have often lately issued from that Mansion;  
+Indeed there long has been a rumour,  
+That groans, the grumbling groans of humor  
+&emsp;Have often lately issued from that mansion;  
 Others aver it is the Attic Spirits  
-Complaining that her Customers great Merit  
-&emsp;Is quite neglected for the Sake of Fashion.  
+Complaining that her customers great merit  
+&emsp;Is quite neglected for the sake of fashion.  
   
-Each Attic Member thinks it strange,  
-That as their Editress has had her Range,  
-&emsp;And quite recovered from her Solar Journey:  
-That she should now no more her Friends remember,  
-Now that is just arrived the Month November,  
-&emsp;<span data-tippy="November" class="green">The</span> glorious Month to Counsel and Attorney!  
+Each Attic member thinks it strange,  
+That as their Editress has had her range,  
+&emsp;And quite recovered from her solar journey:  
+That she should now no more her friends remember,  
+Now that is just arrived the month November,  
+&emsp;<span data-tippy="November" class="green">The</span> glorious month to counsel and attorney!  
   
-When will return those happy Times,  
-When Flaxman with his sparkling Rhymes  
-&emsp;Shows he can animate Verse as well Blocks;  
-When will again the Members meet,  
-To taste again their Attic Treat  
-&emsp;When will the Chest reope its long closed Locks!  
+When will return those happy times,  
+When Flaxman with his sparkling rhymes  
+&emsp;Shows he can animate verse as well blocks;  
+When will again the members meet,  
+To taste again their Attic treat  
+&emsp;When will the Chest reope its long closed locks!  
   
-When shall we hear her dread Command,  
-Who sits with Hammer in her Hand,  
-&emsp;And *knocking Silence*, makes the greatest Noise;  
-That Sceptre brought from India’s Shores,  
-Which when the (female) vocal Thunder roars,  
-&emsp;Frightens to good behaviour Girls and Boys.  
+When shall we hear her dread command,  
+Who sits with hammer in her hand,  
+&emsp;And *knocking silence*, makes the greatest noise;  
+That sceptre brought from India’s shores,  
+Which when the (female) vocal thunder roars,  
+&emsp;Frightens to good behaviour girls and boys.  
    
-But when our Ears her Verses greet,  
+But when our ears her verses greet,  
 They flow so witty, & so sweet,  
 &emsp;We breathless bend to catch each word the while:  
-And oft when some Poetic thought,  
-Shines, fresh from Pindus Fountain brought,  
-&emsp;E’en her kind Mentors grant th’ endearing Smile!!  
+And oft when some poetic thought,  
+Shines, fresh from Pindus fountain brought,  
+&emsp;E’en her kind mentors grant th’ endearing smile!!  
   
 Enazilansho

@@ -21,7 +21,7 @@ With all the fervours of your fire
 O let him at the friendly blaze  
 Just warm his icy hands and face,  
 And if he may not hear your song,  
-In sweeping Chorus pour along,  
+In sweeping chorus pour along,  
 O grant at least his ravished ear,  
 The tunings of your harps to hear.  
   
@@ -31,7 +31,7 @@ Or shine the chief support confest,
 Of your much favoured Attic Chest.  
 Then while I hear my verses read  
 I’ll silent hang my conscious head,  
-Or fix in Gravity my face,  
+Or fix in gravity my face,  
 Or twirl my thumbs with absent grace,  
 Or with a firm unvaried smile,  
 All keen, suspicious eyes beguile,  
@@ -47,10 +47,10 @@ And wonder who gave birth to lays,
 Entitled to such general praise.  
 And if they cry “’Tis you good Sir”  
 I’ll coolly say “I wish it were.”  
-But when at length the Birthday comes,  
+But when at length the birthday comes,  
 And each his proper rank assumes,  
 My kind consenting smile and bow,  
-To envious Bards the truth will shew  
+To envious bards the truth will shew  
 While all delighted, once again,  
 Raise to my <span data-tippy="worth" class="green">verse</span> worth th’ applauding strain.  
   
