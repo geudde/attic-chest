@@ -8,7 +8,7 @@ visible: false
 
 #### O.B.I.C.,G.A.C.O.B.I.
 
-The speech of a newly married Man to his Wife, soon after the Honey Moon.
+The speech of a newly married man to his wife, soon after the honeymoon.
 
 To be read —
 

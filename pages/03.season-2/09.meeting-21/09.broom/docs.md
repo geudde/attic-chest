@@ -10,75 +10,75 @@ visible: false
 
 How more than blithe am I to see  
 My Phoebe’s kind regard for me;  
-More grateful Sweets thy Accents bring  
-Than gentle Gales, that breathe the Spring.  
-With Joy I recollect each Day  
-We spent between or Flocks and Play;  
-For Thee how pleasing was my Toil!  
-All Pain was lost in Phoebe’s Smile.  
+More grateful sweets thy accents bring  
+Than gentle gales, that breathe the spring.  
+With joy I recollect each day  
+We spent between or flocks and play;  
+For thee how pleasing was my toil!  
+All pain was lost in Phoebe’s smile.  
   
 #### Chorus  
   
-A Cowden-Knows! may your dear Broom  
-In everlasting Beauty bloom;  
-I first beheld my Charmer there,  
+A Cowden-Knows! may your dear broom  
+In everlasting beauty bloom;  
+I first beheld my charmer there,  
 And found my Phoebe kind as fair.  
   
 #### 2 
   
-I grac’d my Songs with Phoebe’s name,  
-My dear, dear Love was still the Theme;  
-Surely my Pipe I’d broke in Twain  
-Had it deny’d its tend’rest Strain;  
-But not my Pipes melodious Sound  
-Could draw the Flocks in Wonder round;  
-They gaz’d thy Beauties o’er and o’er;  
+I grac’d my songs with Phoebe’s name,  
+My dear, dear love was still the theme;  
+Surely my pipe I’d broke in twain  
+Had it deny’d its tend’rest strain;  
+But not my pipes melodious sound  
+Could draw the flocks in wonder round;  
+They gaz’d thy beauties o’er and o’er;  
 They nought had seen so fair before  
   
 O Cowden-Knows! &c.   
   
 #### 3 
   
-If Phoebe, slighting splendid Views,  
-Could nothing to her Swain refuse,  
+If Phoebe, slighting splendid views,  
+Could nothing to her swain refuse,  
 Can Colin, grateful Colin, be  
-Content with any Nymph but Thee.  
-Tho’ I did all the World possess  
+Content with any nymph but thee.  
+Tho’ I did all the world possess  
 I ne’er could love my Phoebe less;  
-Had I a Thousand Worlds, and more,  
+Had I a thousand worlds, and more,  
 I without Phoebe still were poor.  
   
 O Cowden-Knows! &c.  
   
 #### 4
   
-Our Loves, so long involv’d in Night,  
-Shall make each future Sun more bright;  
-And Thoughts of past Distress and Fear  
-The best of Blessings now endear.  
-Thy cruel Parents, who convey’d  
-From Colin far his weeping Maid,  
-To my fond Arms my Nymph return,  
+Our loves, so long involv’d in night,  
+Shall make each future sun more bright;  
+And thoughts of past distress and fear  
+The best of blessings now endear.  
+Thy cruel parents, who convey’d  
+From Colin far his weeping maid,  
+To my fond arms my nymph return,  
 And Phoebe now no more shall mourn.  
   
 O Cowden-Knows! &c.  
   
 #### 5
   
-Thy Griefs to me were not unknown;  
+Thy griefs to me were not unknown;  
 I felt thy anguish in my own,  
-And flew thy Sorrows to remove,  
-Rejoicing flew, on Wings of Love.  
-Kind Heav’n, that saw thy chaste Desires,  
-And crowns the Goodness it inspires,  
-At last has given me Wealth in Store,  
+And flew thy sorrows to remove,  
+Rejoicing flew, on wings of love.  
+Kind heav’n, that saw thy chaste desires,  
+And crowns the goodness it inspires,  
+At last has given me wealth in store,  
 And Phoebe now to part no more.  
   
 #### Chorus
   
-O Cowden-Knows! may your dear Broom  
-In everlasting Beauty bloom,  
-He: I first behold my Charmer there,  
-She: I first beheld my Shepherd there  
+O Cowden-Knows! may your dear broom  
+In everlasting beauty bloom,  
+He: I first behold my charmer there,  
+She: I first beheld my shepherd there  
 He: And found my Phoebe kind and fair.  
-She: And found the Cure of all my Care
+She: And found the cure of all my care

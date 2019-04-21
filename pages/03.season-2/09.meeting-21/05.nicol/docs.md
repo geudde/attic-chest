@@ -8,11 +8,11 @@ visible: false
 
 <div class="author">Mr Porden</div>
 
-Nicol whom Heaven hath blest with wine and oil  
+Nicol whom heaven hath blest with wine and oil  
 Proud steeds, a spacious house, and gardens fair  
 And eke released from thrift and sordid toil  
-Which he who lacketh Fortune’s gifts must bear  
-Whether thou por’st on Coke with studious air  
+Which he who lacketh fortune’s gifts must bear  
+Whether thou por’st on coke with studious air  
 Or to thy white buck wed’st the virgin doe  
 Or dreams’t of woolsacks in thine elbow chair  
 Or mark’st how sunshine makes the turnips grow  
