@@ -6,103 +6,103 @@ taxonomy:
 visible: false
 ---
 
-’Twixt Wit and Humor, pretty Miss  
+’Twixt wit and humor, pretty Miss  
 The difference, I opine, is this,  
-&emsp;Bright as the Sun, and light as Air  
-Is Wit, a sprightly meteor fair  
-The Daughter of the gay-skirted Iris,  
-Phoebus, that flashy God, her sire is:  
-Humor, an arch young Wag, all glee,  
+&emsp;Bright as the sun, and light as air  
+Is wit, a sprightly meteor fair  
+The daughter of the gay-skirted Iris,  
+Phoebus, that flashy god, her sire is:  
+Humor, an arch young wag, all glee,  
 First born of Miss Euphrosyne  
-By Phoebus eke; In Masquerade  
-He so bewitch’d the tempting Maid  
+By Phoebus eke; In masquerade  
+He so bewitch’d the tempting maid  
 That she resigned her virgin charms  
 All blushing to his amorous arms  
   
-&emsp;Half Sister She, and He Half Brother,  
+&emsp;Half-sister she, and he half-brother,  
 They’re oft mista’en for one another;  
 And yet — however near ally’d,  
-In many Things they differ wide.  
+In many things they differ wide.  
   
-&emsp;Wit, like a Sweet Meat at Repast  
-Give a delicious pungent Taste;  
-Humor, a standing Dish more plain,  
-Invites with — Gut and come again;  
-The one a British Roast Beef Treat,  
-The other Cayenne to the Meat;  
-Depriv’d of their enliv’ning Aid  
-In Vain Thalia’s Feast’s display’d  
-Zestless each Dish, the Bev’rage queer,  
-And spiritless as dead Small Beer  
-While all the Guests are yawning seen,  
-Infected with November Spleen  
+&emsp;Wit, like a sweet meat at repast  
+Give a delicious pungent taste;  
+Humor, a standing dish more plain,  
+Invites with — gut and come again;  
+The one a British roast beef treat,  
+The other cayenne to the meat;  
+Depriv’d of their enliv’ning aid  
+In vain Thalia’s feast’s display’d  
+Zestless each dish, the bev’rage queer,  
+And spiritless as dead small beer  
+While all the guests are yawning seen,  
+Infected with November spleen  
   
-&emsp;Wit — like Jove’s Lightning from the Skies,  
+&emsp;Wit — like Jove’s lightning from the skies,  
 Strikes with delightful wild surpise;  
-Humor — a cheerful lasting Blaze  
-O’er laughing Fields and Meads displays;  
-With Phiz Cervantic holds a Glass,  
-Where Nature’s flitting Objects pass;  
-Wit’s Flash — to the congenial Mind  
+Humor — a cheerful lasting blaze  
+O’er laughing fields and meads displays;  
+With Phiz Cervantic holds a glass,  
+Where nature’s flitting objects pass;  
+Wit’s flash — to the congenial mind  
 Alone presents her scenes refin’d.  
   
-&emsp;On Humor Laughter joyous waits,  
-And Health and Cheerfulness creates,  
-But Wit, tho’ Smiles her Visage beam,  
-Of coarser Joy knows no Extreme.  
+&emsp;On humor laughter joyous waits,  
+And health and cheerfulness creates,  
+But wit, tho’ smiles her visage beam,  
+Of coarser joy knows no extreme.  
   
-&emsp;Humor on Character depends,  
+&emsp;Humor on character depends,  
 Depriv’d of that his being ends;  
-Whereas from Peer, Priest, Clown or Cit,  
-What Wit in One, in All is Wit.  
+Whereas from peer, priest, clown or cit,  
+What wit in one, in all is wit.  
   
-Humor, in fine, like Stays must fit  
-The Body which he aims to hit;  
-Whilst pliant Wit, like outside Cloak,  
-Fits you a thousand diff’rent Folk: —  
+Humor, in fine, like stays must fit  
+The body which he aims to hit;  
+Whilst pliant wit, like outside cloak,  
+Fits you a thousand diff’rent folk: —  
   
-&emsp;Humor and Wit’s chief Recreation  
-Their fav’rite Hunt is Affectation;  
-Tho’ Vice obliquely to the Heart,  
-They sometimes pierce with stinging Dart;  
-Both tickle when they give the Wound,  
-Both Cordial Bitter Sweets are found;  
-A Janus Mask they sometimes wear  
-And stiff lac’d Prudes and Blockheads scare,  
-Who fribble like, Oh fly! exclaim,  
-And think all double Things a Shame;  
-With such, trite Sentiment is Taste,  
-And want of Wit and Humor — Chaste.  
+&emsp;Humor and wit’s chief recreation  
+Their fav’rite hunt is affectation;  
+Tho’ vice obliquely to the heart,  
+They sometimes pierce with stinging dart;  
+Both tickle when they give the wound,  
+Both cordial bitter sweets are found;  
+A Janus mask they sometimes wear  
+And stiff lac’d prudes and blockheads scare,  
+Who fribble like, oh fly! exclaim,  
+And think all double things a shame;  
+With such, trite sentiment is taste,  
+And want of wit and humor — chaste.  
   
-&emsp;Sometimes like Swiss they fight for Pay,  
-And Vice’s dark commands obey;  
-When thus their Talents they misplace,  
-Their Sire condemns ’em to Disgrace  
-Their Arrows blunts, or backward wings  
-To their own Hearts the barbed Sting.  
+&emsp;Sometimes like Swiss they fight for pay,  
+And vice’s dark commands obey;  
+When thus their talents they misplace,  
+Their sire condemns ’em to disgrace  
+Their arrows blunts, or backward wings  
+To their own hearts the barbed sting.  
   
 &emsp;Thalia oftentimes invokes  
-Wit’s Flash, and Master Humor’s Jokes;  
-But coy, they seldom Succour lend,  
-And but by Fits and Starts attend.  
+Wit’s flash, and Master Humor’s jokes;  
+But coy, they seldom succour lend,  
+And but by fits and starts attend.  
   
 &emsp;In Congreve, Butler, Wicherley,  
-Than Humor, far more Wit we see;  
+Than humor, far more wit we see;  
 In Fielding, Addison, Moliere,  
-Than Wit more Humor does appear;  
+Than wit more humor does appear;  
 Sometimes so lovingly they join,  
-They seem like Man and Wife — but One;  
+They seem like man and wife — but one;  
 Thus Shakespear, Swift, and Sterne are found  
-With equal Portions to abound.  
+With equal portions to abound.  
   
-&emsp;This certain Rule we may admit,  
-Where Humor is, oft flashes Wit;  
-And where Wit strikes us, not far distant  
-Humor attends as Wit’s Assistant;  
-For Sister-like and loving Brother,  
+&emsp;This certain rule we may admit,  
+Where humor is, oft flashes wit;  
+And where wit strikes us, not far distant  
+Humor attends as wit’s assistant;  
+For sister-like and loving brother,  
 They’re vastly fond of one another.  
   
-&emsp;Living Example wou’d you find,  
-Where Wit and Humor are combin’d,  
-Search not our modern Bards among,  
+&emsp;Living example wou’d you find,  
+Where wit and humor are combin’d,  
+Search not our modern bards among,  
 You’ll find the pair in Mary’s song.

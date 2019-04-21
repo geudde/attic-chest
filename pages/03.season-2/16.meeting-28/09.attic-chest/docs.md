@@ -10,7 +10,7 @@ Again my friends with sorrowing heart
 I see you from your Chest depart  
 With tears lament my hapless doom  
 For months to rest in cheerless gloom  
-Yet as a favoured Bard declares  
+Yet as a favoured bard declares  
 Hope brightest dawns through streaming tears  
 E’en now the cheering ray I see  
 Which shines refulgent, shines on me  
@@ -21,10 +21,10 @@ Will soon resplendant rise again
 Says when a polar night is o’er  
 That I like him shall rise once more  
 Once more behold around me close  
-A circle gay of Belles and Beaux  
+A circle gay of belles and beaux  
 While all with cheerful look appear  
 And many a pleasing poem bear  
-Whose sprightly Wit, or sense sublime  
+Whose sprightly wit, or sense sublime  
 May scorn the ravages of time  
 And to posterity proclaim  
 Their tuneful genius, and my name  
@@ -36,7 +36,7 @@ Shall see you watch your Classic Box
 Till Ellen’s hand my store unlocks  
 Still I may hope in grief or glee  
 Your thoughts may sometimes turn to me  
-While Memory give to every jest  
-A Sprightlier turn a keener zest  
-And as your kindling Fancy warms  
+While memory give to every jest  
+A sprightlier turn a keener zest  
+And as your kindling fancy warms  
 Arrays my form with lovelier charms  

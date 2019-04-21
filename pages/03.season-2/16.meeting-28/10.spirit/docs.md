@@ -8,17 +8,17 @@ visible: false
 
 #### The Spirit of the Attic Chest’s Farewell Address to the Editress  
   
-With deep Regret I view the Season o’er  
-&emsp;Consigning me again to “Durance Vile;”  
-Five months the Sweets of Freedom to deplore,  
-&emsp;Five months! till Friends again around me smile!  
+With deep regret I view the season o’er  
+&emsp;Consigning me again to “durance vile;”  
+Five months the sweets of freedom to deplore,  
+&emsp;Five months! till friends again around me smile!  
   
-What melancholy Thoughts in order rise!  
-&emsp;When I reflect, a willing Pris’ner here;  
-My Darling Mistress, seeking purer Skies,  
-&emsp;Soars with the Muses to the Solar Sphere,  
+What melancholy thoughts in order rise!  
+&emsp;When I reflect, a willing pris’ner here;  
+My darling mistress, seeking purer skies,  
+&emsp;Soars with the muses to the solar sphere,  
   
-And thither in her careful Hand she bears,  
-&emsp;The varied Tribute of each anxious Bard;  
-Who each in Turn, sweet Hope, dark Terror shares;  
-&emsp;Dreads a Reproof, and hopes a kind Reward:
+And thither in her careful hand she bears,  
+&emsp;The varied tribute of each anxious bard;  
+Who each in turn, sweet hope, dark terror shares;  
+&emsp;Dreads a reproof, and hopes a kind reward:

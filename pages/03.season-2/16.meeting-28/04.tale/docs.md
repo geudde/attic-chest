@@ -11,16 +11,16 @@ visible: false
 <div class="author">Miss Vardill</div>
   
 As I walk’d out the other evening late  
-My Mind in thoughtful serious state,  
+My mind in thoughtful serious state,  
 Brooding o’er inward joys,  
 I saw upon a five-barr’d gate  
-Three little Boys.  
+Three little boys.  
 Yes — I am sure that there were three  
 For each of them did bow to me.  
 Said I, “My little boys ’tis late,  
 What keeps you here upon this gate?  
 Have you no things wherewith to play?  
-Nor Top, nor Whip, nor Bat, nor Ball  
+Nor top, nor whip, nor bat, nor ball  
 To make you busy, active, gay?”  
 “No Sir,” said they, “we’ve none at all.”  
 “Nor anything,” said I, “to eat?”  
@@ -30,7 +30,7 @@ Till she comes back we can have none.”
 All further questions I forbore;  
 Then walked away, and mused the more;  
 &emsp;But Ah! my thoughts had lost their joys,  
-&emsp;Because of these three little Boys,  
+&emsp;Because of these three little boys,  
 &emsp;That had nor meat, nor drink, nor toys.  
   
 Fitz Wordsworth

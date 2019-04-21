@@ -6,13 +6,13 @@ taxonomy:
 visible: false
 ---
 
-When the proud Galley down the Cydnus moved  
-And bore the Queen of Antony beloved  
-A lovely Syren did the Vessel guide  
-While silver oars the *Water* did divide  
+When the proud galley down the Cydnus moved  
+And bore the queen of Antony beloved  
+A lovely syren did the vessel guide  
+While silver oars the *water* did divide  
 This is the *first*, the second I shall name  
-The noble Captive of the Egyptian Dame  
-A Net she spread (forbear its force to scan)  
+The noble captive of the Egyptian dame  
+A net she spread (forbear its force to scan)  
 Which caught alive the noble biped *“Man”*  
 The whole is deem’d in every nation  
 A very vulgar occupation  

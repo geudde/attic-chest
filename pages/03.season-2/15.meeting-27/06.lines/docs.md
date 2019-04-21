@@ -6,9 +6,9 @@ taxonomy:
 visible: false
 ---
 
-May ev’ry link that forms this slender Chain  
-Some Guardina Sylph in gentle bonds retain,  
+May ev’ry link that forms this slender chain  
+Some guardian sylph in gentle bonds retain,  
 To hover near thee, and to shield thee still  
 From ev’ry harm, from e’en the *thought* of ill!  
-So may this Circlet dearest Maiden prove  
+So may this circlet dearest maiden prove  
 Symbol of *Union*, *Purity*, and *Love!*

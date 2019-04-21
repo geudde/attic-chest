@@ -12,15 +12,15 @@ visible: false
 In answer to your charming note  
 (Where with appropriate beauties vie  
 Both fluent prose and poetry)  
-And let Dear Maid my hurried Muse  
+And let dear maid my hurried muse  
 The roughness of my verse excuse  
 For stupid full, and prest for time  
-The Goddess scarce vouchsafed a Rhyme  
+The goddess scarce vouchsafed a rhyme  
 And if at last I gained the prize  
-Poor Grammar was the Sacrifice.  
+Poor grammar was the sacrifice.  
   
-&emsp;Indulgent then let Fancy’s eye  
-Sweet Maid each absent grace supply  
+&emsp;Indulgent then let fancy’s eye  
+Sweet maid each absent grace supply  
 As smooth my rugged numbers make  
 As in a calm, lone Katrine’s lake  
 Give to each stupid senseless line  
@@ -28,24 +28,24 @@ An energy to equal thine
 And make (indeed what can she not)  
 My verses seem to rival Scott  
   
-&emsp;And oh Dear Maid, may we to day  
-Pursue that Bard’s enchanting Lay  
-In scenes of Death and Danger view  
+&emsp;And oh dear maid, may we to day  
+Pursue that bard’s enchanting lay  
+In scenes of death and danger view  
 Th’ undaunted chieftain Roderick Dhu  
 This time may no domestic claims  
-Force the[e] to quit the bold Fitz James  
-From Malcolm or from Douglass bear  
+Force thee to quit the bold Fitz James  
+From Malcolm or from Douglas bear  
 Or thee from either Ellen tear  
   
 &emsp;And Mary may they Norman ne’er  
 &emsp;See on your cheek “the starting tear  
 &emsp;Speak woe he may not stop to cheer”  
   
-Forced by the Fiery Cross, to leave   
+Forced by the fiery cross, to leave   
 His virgin bride alone to grieve  
 No sorrows may my Mary know  
 But those which from the story flow  
-When mild Compassion drops the tear  
+When mild compassion drops the tear  
 O’er Blanche’s woes, or Duncan’s bier  
   
 &emsp;May we admire, disguised unknown  
@@ -67,7 +67,7 @@ Where by his Monarch’s happier steel
 The fierce high-minded warrior fell.  
   
 &emsp;And mayst thou in his turn admire  
-The Lovely Ellen’s exil’d Sire  
+The lovely Ellen’s exil’d sire  
 Who nobly scorn’d by civil strife  
 To purchase liberty and life  
 Nor wish though righteous was the cause  
@@ -75,33 +75,33 @@ His friends should violate the laws
   
 &emsp;At length behold o’er every head  
 Her shade the peaceful Olive spread  
-The Douglass safe from future harms  
+The Douglas safe from future harms  
 And Malcolm blest in Ellen’s charms  
-Thus on our Sovereign’s natal day  
+Thus on our sovereign’s natal day  
 The hours shall swiftly pass away  
-While Great R.A.’s together dine  
+While great R.A.’s together dine  
 And drink his health in floods of wine  
-And Lords and Knights, and Squires resort  
-With Swords and Bags to George’s court  
+And lords and knights, and squires resort  
+With swords and bags to George’s court  
 And maids and matrons gaily drest  
 In monstrous hoop and narrow vest  
 Their head with pendant lappets graced  
 With gorgeous stomachers their waist  
-The Ancient Gothic rich Costume  
-Of Gala days in regal room  
+The ancient Gothic rich costume  
+Of gala days in regal room  
 While there in loyal pomp the throng  
 Unheeding hear the laureats song  
 Delighted we’ll remain at home  
-Or seek my Sister’s neighbouring dome  
-And Fancy from our lowly bower  
+Or seek my sister’s neighbouring dome  
+And fancy from our lowly bower  
 Shall waft our mind to Stirling’s tower  
 For us shall deck the regal hall  
 For us shall frame the midnight ball  
 While we around in wonder gaze  
 As Ellen threads the dance’s maze  
 While all the brave, the good, the wise  
-Of Ancient Days before us rise  
-And Eve like this, dear maid will seem  
-A sweet enchanting Fairy dream  
+Of ancient days before us rise  
+And eve like this, dear maid will seem  
+A sweet enchanting fairy dream  
 One that full oft with pleasure new  
-Delighted Memory shall review.
+Delighted memory shall review.

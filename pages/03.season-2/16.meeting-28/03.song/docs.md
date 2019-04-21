@@ -7,10 +7,10 @@ visible: false
 ---
 
 Let Homer’s deep majestic lyre,  
-To sing of Gods and Men aspire,  
+To sing of gods and men aspire,  
 And thundering flash poetic fire,  
-Let Fame applauding, shout it  
-Around the Earth, and through the Earth  
+Let fame applauding, shout it  
+Around the earth, and through the earth  
 About it, and about it.  
   
 Give me the thought, give me the line  
@@ -20,7 +20,7 @@ Yet well can reach without it,
 Around the heart, and through the heart  
 About it, and about it.  
   
-Come Love! and Friendship! in your turns  
+Come love! and friendship! in your turns  
 With rosy wreaths, or funeral urns,  
 (’Twas ye that taught sweet simple Burns  
 Excelling art, to scout it)  

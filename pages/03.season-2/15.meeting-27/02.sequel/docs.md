@@ -7,22 +7,22 @@ taxonomy:
 visible: false
 ---
 
-If Sheba’s gay Queen gave the point up so smooth,  
+If Sheba’s gay queen gave the point up so smooth,  
 *Her* Example can ne’er by inferr’d;  
-For She — good Lady-like — held out while she had breath,  
-Suspecting no Man would have talked her to death;  
+For she — good lady-like — held out while she had breath,  
+Suspecting no man would have talked her to death;  
 So, compell’d — she renounc’d — *The Last Word.*  
   
 Hence, before ’tis too late, prithee, stop the rash act,  
-Or your Sex will be quickly interr’d:  
+Or your sex will be quickly interr’d:  
 For as death doth sure silence sweet Philomel’s throat,  
-So Extinction must follow your principla Note,  
-In renouncing your Life —  *The Last Word.*  
+So extinction must follow your principal note,  
+In renouncing your life —  *The Last Word.*  
   
-“Hush, hush — simple Friend — cease officious Advice,”  
+“Hush, hush — simple friend — cease officious advice,”  
 Say the Ladies — 1st, 2nd & 3rd  
-“For know — while our Sex can exert *Smiles* or *Looks*  
-We defy all the Wisdom you get from your Books,  
+“For know — while our sex can exert *smiles* or *looks*  
+We defy all the wisdom you get from your books,  
 And can *manage* without —  *The Last Word.*  
   
 1810

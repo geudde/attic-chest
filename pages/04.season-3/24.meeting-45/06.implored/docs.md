@@ -31,7 +31,7 @@ Shall taint her on her natal day.
 Be this fair day still set apart,  
 To love & friendship given;  
 With virtuous thoughts, to fill her heart,  
-And point her way to heaven.
+And point her way to Heaven.
 
 “Beauty, like flowers, will soon decay,  
 Wisdom can never perish;  

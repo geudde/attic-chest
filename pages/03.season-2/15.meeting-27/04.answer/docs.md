@@ -10,21 +10,21 @@ visible: false
 
 Oh ’tis a sigh, I know it well  
 And ev’ry line its name doth tell,  
-Sure when it springs from Joy, ’tis sweet  
-From Grief — its bitterness is great,  
-And when the Heart is charg’d with woe  
+Sure when it springs from joy, ’tis sweet  
+From grief — its bitterness is great,  
+And when the heart is charg’d with woe  
 The *sigh* may transient ease bestow  
-A “Special Pleader,” let no Lawyer frown  
+A “special pleader,” let no lawyer frown  
 But rather smil, and all its influence own,  
-An Inmate of the Bosom though it dwells  
+An inmate of the bosom though it dwells  
 Ne’er issues forth but it some secret tells!  
-It is a *“Messenger”* may pass a Host,  
-And gets an answer quicker than the Post,  
-’Tis not a “Spy,” that’s very clear  
-And when it goes a Volunteer  
-I rather doubt, ’tis not Sincere.  
+It is a *“messenger”* may pass a host,  
+And gets an answer quicker than the post,  
+’Tis not a “spy,” that’s very clear  
+And when it goes a volunteer  
+I rather doubt, ’tis not sincere.  
 I’ve said enough, Amintor knows the rest  
-And dedicates his Sighs where likes him best!  
+And dedicates his sighs where likes him best!  
   
 V.  
   

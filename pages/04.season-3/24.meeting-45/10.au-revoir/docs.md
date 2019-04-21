@@ -38,8 +38,8 @@ Now all are with rural felicity smitten
 The cards of congee are all speedily written  
 And off go the coaches, post-chaises, and gigs  
 The portmanteaux & band-boxes, baskets & wigs.  
-But wherever we stray beneath heaven’s wide cope  
-“Au revoir!” is our watch-word, our motto, & Hope.
+But wherever we stray beneath Heaven’s wide cope  
+“Au revoir!” is our watch-word, our motto, & hope.
 
 But where shall thy lyre, my dear Stella be hung?  
 Or rather afresh should that lyre be strung  

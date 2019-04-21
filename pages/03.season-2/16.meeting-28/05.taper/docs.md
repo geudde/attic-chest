@@ -30,7 +30,7 @@ With ladle fulls she plied their plates,
 And promis’d more when they had eat all;  
 But truth now bids me tell you what  
 I wou’d most fain avoid relating  
-The Broth was hot, but far from fat —  
+The broth was hot, but far from fat —  
 For she forgot to put the meat in.  
   
 Fitz Gravy
