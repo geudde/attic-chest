@@ -13,16 +13,16 @@ O’er Florio’s brow? What grace it gave!
 Yes, upon that festive night  
 I remark’d that feather light,  
 And heard the words that Floria said  
-To each attentive list’ning Maid;  
+To each attentive list’ning maid;  
 But how much lighter were those words  
-Than feathers of the gayest Birds!  
-Than, Dust, or Air, more light than either  
-Was the Wearer of the Feather!  
+Than feathers of the gayest birds!  
+Than, dust, or air, more light than either  
+Was the wearer of the feather!  
   
 ---
 
-Men’s words are air, and Flatt’ry but a Breath  
-That Breath’s contagion, & that air is Death!  
+Men’s words are air, and flatt’ry but a breath  
+That breath’s contagion, & that air is death!  
 
 ---  
   

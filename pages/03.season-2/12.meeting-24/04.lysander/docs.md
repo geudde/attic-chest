@@ -8,14 +8,14 @@ visible: false
 
 <div class="author">Communicated by Miss Flaxman</div>
 
-The Men have *many* Faults  
+The Men have *many* saults  
 Poor Women have but two  
 There’s nothing right they say  
 There’s nothing right they do!  
   
 To Lysander  
   
-Why thus against the Sex declaim  
+Why thus against the sex declaim  
 And female worth deride?  
 Reflect from where their failings came  
 And check thy haughty pride,  

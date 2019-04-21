@@ -8,17 +8,17 @@ visible: false
 
 <div class="author">Communicated by Mr Vignoles</div>
 
-In Jerkin short, and nut brown Coat I live;  
-Pleasure to all, and Pain to all I give:  
+In jerkin short, and nut brown coat I live;  
+Pleasure to all, and pain to all I give:  
 Quivers I have, and painted arrows too;  
-Gold in my Dart, and Iron in my Shoe:  
+Gold in my dart, and iron in my shoe:  
 I never eat, and yet I’m always full;  
-Poisons from herbs, and Sweets from Flow’rs I cull;  
+Poisons from herbs, and sweets from flow’rs I cull;  
 I never read, yet often times I write;  
-I never go to War, yet always fight;  
-Distorted Back I have, and earthen Scrip;  
-Black is my Face, and blubber’d is my Lip:  
-No Eyes have I, and yet I always weep;  
+I never go to war, yet always fight;  
+Distorted back I have, and earthen scrip;  
+Black is my face, and blubber’d is my lip:  
+No eyes have I, and yet I always weep;  
 Sleeping I wake, and waking I do sleep.  
   
 F.A.W.

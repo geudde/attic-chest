@@ -18,7 +18,7 @@ visible: false
 What mean these moments of delight  
 When thou alone arrests my sight?  
 Oh! what may this delirium be  
-That bids me only think of Thee?  
+That bids me only think of thee?  
   
 What tho’ in splendid crowds we meet  
 When dancers’ many twinkling feet,  
@@ -32,14 +32,14 @@ Are heard — or notic’d — or impart
 One throb to my bewilder’d heart.  
 No; this delicious dream denies  
 The use of tongue, of ears, and eyes  
-Save for thy Service — I obey  
+Save for thy service — I obey  
 Joy thy devoted thrall to stay,  
 Joy in my dream, if dream it be  
-Yet marvel at the Mystery.  
+Yet marvel at the mystery.  
   
 Extatic thought! with thee alone  
 I linger here: the crowd is flown  
-From my Mind’s Eye — and dance there’s noen,  
+From my mind’s eye — and dance there’s noen,  
 No more the viol strikes my ear  
 Thy accents only can I hear  
 I gaze, I wonder, and I sigh,  
@@ -54,37 +54,37 @@ In me its counterpart shall find,
 Concording sentiments I see  
 As kindling into ecstasy!  
 They mount and how sublime they fly,  
-And in Collision seem to die,  
+And in collision seem to die,  
 Yet how they mount and fly again  
-Above the reach of vulgar Ken  
+Above the reach of vulgar ken  
 Commingling in ideal bliss —  
-Ye Gods! What mummery is this?  
+Ye gods! What mummery is this?  
 What mean these whimpering, whining sighs?  
 These brain-silk oaths, these timid lies?  
-Ah! Where had Common Sense been gadding?  
+Ah! Where had common sense been gadding?  
 Sure my poor brains are gone a-Madding!  
-Ah, Reason art thou vanish’d quite?  
+Ah, reason art thou vanish’d quite?  
 In pity to a happless wight,  
 Shine out and dispossess my brain,  
-And give me Common Sense again,  
-Oh! Come, this mystery reveal  
+And give me common sense again,  
+Oh! come, this mystery reveal  
 Give me again to see and feel,  
 To hear and argue, and advise,  
 With hands and ears, & mind and eyes.  
   
-Ah! Now again gay crowds arise,  
+Ah! now again gay crowds arise,  
 Once more the dancers meet my eyes,  
-The Music’s sound salutes my ear,  
+The music’s sound salutes my ear,  
 And other people I can hear,  
 And other people I can see,  
 And since I’m not alone with thee,  
 I’ll answer when they speak to me.  
   
-For this, Oh Reason to thy praise,  
+For this, oh Reason to thy praise,  
 Ten thousand billet-doux shall blaze,  
 Oh take thy station in my brain  
-Lest Common Sense be lost again.  
-And as for Love, that moonstruck Madness  
-That pining, moping, puling Sadness,  
-Away! with Love’s deluding fits,  
-Since Lovers needs must lose their wits.
+Lest common sense be lost again.  
+And as for love, that moonstruck madness  
+That pining, moping, puling sadness,  
+Away! with love’s deluding fits,  
+Since lovers needs must lose their wits.

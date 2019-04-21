@@ -21,7 +21,7 @@ If that you list, you soon will know,
 Fame says our modern Roscius oft has told  
 This tale: and thence ’tis somewhat old,  
 &emsp;Great Mister Kemble!  
-At whose dread nod inferior Actors tremble.  
+At whose dread nod inferior actors tremble.  
 &emsp;Whose solemn, insubstantial prose,  
 &emsp;In undulating period flows,  
 Whose style in short, is any thing but terse,  

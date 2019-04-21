@@ -8,16 +8,16 @@ visible: false
 
 <div class="author">Communicated by Miss Richardson</div>
 
-#### 1  
+1  
   
 Soon, too soon will come the day  
 When I must hasten far away  
 &emsp;And bid to thee adieu, Love;  
-But I will ne’er till Mem’ry cease  
+But I will ne’er till mem’ry cease  
 Forget thou set’st my heart at ease  
 &emsp;And told’st me thou wert true, Love  
   
-#### 2  
+2  
   
 I’ll never forget thy tender sighs,  
 The tears that started from thine eyes,  
@@ -26,7 +26,7 @@ The throbbings of thy heart, Love;
 That mantled on thy cheeks the while  
 &emsp;Thou said’st “We’l never part, Love.”  
   
-#### 3  
+3  
   
 But dearest, when I’m far away  
 Wilt thou one anxious wish betray  
