@@ -94,7 +94,7 @@ Whose project and schemes, in foundation unsound
 Have sooner, or later, all dropt to the ground.”  
   
 “Till moved by the prayers of the best of the race  
-TO Mortals at length, she discovered her face [^2]  
+To Mortals at length, she discovered her face [^2]  
 And finding with sorrow upon her return,  
 Greece no longer was fit for Goddess’ sojourn,  
 The relics of all she had formerly loved,  

@@ -32,7 +32,7 @@ Yuletide invites you to the festive dome
 No cold reception of a stranger fear,  
 To *ev’ry* guest, politeness lends an ear.  
 *Good humour*, *Genius*, *Harmony* combine  
-TO tinge *their* pleasures with a “*ray* divine”.  
+To tinge *their* pleasures with a “*ray* divine”.  
 On *that* descended, *here* I willing rest  
 The throne I claim, fair Ellen’s “Attic Chest.””
 

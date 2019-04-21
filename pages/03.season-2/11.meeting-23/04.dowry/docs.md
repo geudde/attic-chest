@@ -8,130 +8,130 @@ visible: false
 
 <div class="author">Mr Flaxman</div>
 
-When Ascrea’s Bard unjustly bled!  
+When Ascrea’s bard unjustly bled!  
 Ocean refused to hide the sacred dead,  
-And stretched the Corpse upon the unfruitful sand,  
-Where Neptune’s Votaries, a pious band,  
+And stretched the corpse upon the unfruitful sand,  
+Where Neptune’s votaries, a pious band,  
 Found their loved friend;  
 With mild uproar  
-The Murderer’s dwellings  
+The murderer’s dwellings  
 Down they tore!  
-And justly forced the blood stain’d Men to lave  
-Amidst the suffocating Wave  
+And justly forced the blood stain’d men to lave  
+Amidst the suffocating wave  
   
-Then they mourned the Mighty dead,  
-And raised the Shrine where he was laid;  
-Virtue’s Bard, who boldly sang,  
-The unrighteous deeds of lawless Man,  
-His Falsehood, Cruelty, and Rage;  
-The Monsters of an Iron Age —   
-’Till white robed Modesty and Justice fly  
-To join their Sister Virtues in the Sky  
-He truly told the Inhuman brood  
-Who Robs, who Slays, or thirsts for Blood,  
-Jove’s Vengeance soon shall work their fall,  
+Then they mourned the mighty dead,  
+And raised the shrine where he was laid;  
+Virtue’s bard, who boldly sang,  
+The unrighteous deeds of lawless man,  
+His falsehood, cruelty, and rage;  
+The monsters of an Iron Age —   
+’Till white robed modesty and justice fly  
+To join their sister virtues in the sky  
+He truly told the inhuman brood  
+Who robs, who slays, or thirsts for blood,  
+Jove’s vengeance soon shall work their fall,  
 Jove will destroy them, one, and all;  
 The good alone have peace and rest,  
 Jove grants them only, to be blest —  
-Myriads of Ministers around them wait  
+Myriads of ministers around them wait  
 To keep them free from evil fate  
 And when in course of time they die,  
-In better Worlds to bear them company —  
+In better worlds to bear them company —  
   
-Of piety’s decay in Man  
+Of piety’s decay in man  
 He sung, whence all his ills began,  
-No longer now in peace and Love on earth  
-Husband and Wife were one,  
+No longer now in peace and love on earth  
+Husband and wife were one,  
 Discord had birth!  
-No longer second self, and dearest Mate,  
-But Yoke fellows alone  
-In Strife and hate;  
+No longer second self, and dearest mate,  
+But yoke fellows alone  
+In strife and hate;  
 Then Vulcan formed, by Jove’s command  
-A beauteous Fair with Virgin face,  
+A beauteous fair with virgin face,  
 And loveliest form, with every grace,  
-Persuasion and the Hours  
+Persuasion and the hours  
 Gave her rich gifts  
 Crowned her with flowers;  
-But Mercury and Aphrodite endued her Mind  
-With Wily craft to evil ways inclined,  
-A present then to Earth she went  
+But Mercury and Aphrodite endued her mind  
+With wily craft to evil ways inclined,  
+A present then to earth she went  
 By Jove to Epimetheus sent;  
 The fair deceit subdued his foolish will,  
-Who as his Good embrace a Mortal Ill;  
-In a large Vase, her Dower, sly Hermes bore  
-The Wretch who took it, thought ’twas glittering ore  
-And stretched an Eager hand to seize the store,  
-Pandora raised the Top, when out there flew  
-Evil, and Miseries, a horrid Crew;  
-O’er Earth and Ocean they like lightning bound  
-And Earth and Ocean quickly they surround;  
-Pandora Wondered at the dismal view,  
-And closed the Vase, lest Hope should fly out too;  
+Who as his good embrace a mortal ill;  
+In a large vase, her dower, sly Hermes bore  
+The wretch who took it, thought ’twas glittering ore  
+And stretched an eager hand to seize the store,  
+Pandora raised the top, when out there flew  
+Evil, and miseries, a horrid crew;  
+O’er earth and ocean they like lightning bound  
+And earth and ocean quickly they surround;  
+Pandora wondered at the dismal view,  
+And closed the vase, lest hope should fly out too;  
 This, then, is what we have gained in evil hour  
-By Man’s impiety — Pandora’s Dower;  
-Ills, which lay waste the Body and the Mind,  
-Ills, by no healing Art reduce, or Law confined,  
-Ills, that by Fraud, attack, or open force invade,  
-Sometimes by Violence, sometimes in Masquerade.  
+By man’s impiety — Pandora’s dower;  
+Ills, which lay waste the body and the mind,  
+Ills, by no healing art reduce, or law confined,  
+Ills, that by fraud, attack, or open force invade,  
+Sometimes by violence, sometimes in masquerade.  
   
 Now sing my Muse; and sing it loud,  
-How many in the Motley Crowd,  
-Great Lords, and Ladies, Jacks, and Jills  
-Partake of Pandorean Ills?  
+How many in the motley crowd,  
+Great lords, and ladies, Jacks, and Jills  
+Partake of Pandorean ills?  
   
-That Hobbler, in his civic honors dight,  
-Colonel, Green Grocer, Alderman and Knight,  
+That hobbler, in his civic honors dight,  
+Colonel, green grocer, alderman and knight,  
 Urging his gouty feet to a snail’s gallop  
-At the loved neighbouring feast, to lap and Wallp,  
-On Venison, Turtle, Green fat, there to dine,  
-And burnt his well stretched sking with genuine Wine  
+At the loved neighbouring feast, to lap and wallop,  
+On venison, turtle, green fat, there to dine,  
+And burnt his well stretched sking with genuine wine  
 To suck in stupor, palsy, e’er he has done  
 And fully end the work so well begun —  
   
-See yonder Mortal telling o’er the Gold  
-For which his Conscience and his Peace were sold,  
-Hark with a false Alarm! and tries the thrice locked door  
+See yonder mortal telling o’er the gold  
+For which his conscience and his peace were sold,  
+Hark with a false alarm! and tries the thrice locked door  
 He dreads each human face  
-But most of all the Poor  
+But most of all the poor  
 Whom he oppressed regardless of their cries,  
-He Harming others, Harms himself, and dies.  
+He harming others, harms himself, and dies.  
   
-The Man of pleasure has no time for cares,  
-Religion, Business, Duty, or such paltry wares;  
-Bound by no Scruples, careful of no Pelf,  
-Unheeding all besides, he lives but to Himself;  
+The man of pleasure has no time for cares,  
+Religion, business, duty, or such paltry wares;  
+Bound by no scruples, careful of no pelf,  
+Unheeding all besides, he lives but to himself;  
 He’s maimed in brawls, and ruined in excess  
-His Idols, Fashion — only Virtue — Dress.  
+His idols, fashion — only virtue — dress.  
   
-And since these Ills on Earth have had such power  
-Marriage partakes too of the Infernal Dower —  
+And since these ills on Earth have had such power  
+Marriage partakes too of the infernal dower —  
 Love as a motive now, we should deride,  
-The ends proposed, Convenience, Avarice, Pride;  
-The Fair, like a Pandora of our Age  
-Delights in Routs, in Ball rooms, and the stage,  
+The ends proposed, convenience, avarice, pride;  
+The fair, like a Pandora of our age  
+Delights in routs, in ball rooms, and the stage,  
 With dauntless look, with paint and simpering grace  
-Her charms are Feathers, Jewels, Muslin, Lace —  
-The Husband is well fitted to the Wife  
+Her charms are feathers, jewels, muslin, lace —  
+The husband is well fitted to the wife  
 They are too well bred, to live in mutual strife,  
 He goes one way, she takes another course,  
 Still driving headlong on from bad to worse  
-’Till death or lawless Love produce a Change  
+’Till death or lawless love produce a change  
 And breaks their galling bond and gives a wider range  
 
-The Influence of these Fiends we might deplore  
+The influence of these fiends we might deplore  
 In every rank of life, both rich and poor;  
-The Rich are haughty, and the poor are still  
-Murmuring with discontent at Heaven’s high Will.  
+The rich are haughty, and the poor are still  
+Murmuring with discontent at Heaven’s high will.  
   
-Yet shall the Husband, Brother, Friend,  
-Who lives in Love and Virtue to the End —  
-The Wife, the Sister, Daughter, doing right  
-Walk in a path of holy Light  
-Their’s is fair Hope, that points to Heaven,  
-To them, are Truth and Justice given;  
-TO watch their slumbers, ease their Cares  
+Yet shall the husband, brother, friend,  
+Who lives in love and virtue to the end —  
+The wife, the sister, daughter, doing right  
+Walk in a path of holy light  
+Their’s is fair hope, that points to heaven,  
+To them, are truth and justice given;  
+To watch their slumbers, ease their cares  
 Lest evil crush them unawares  
 To cheer their way with smile and kiss  
-And lead them to the Land of Bliss.  
+And lead them to the land of bliss.  
   
 Fitz Hesiod
