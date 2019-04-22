@@ -678,3 +678,19 @@ Blue Beard → <span class="name">Miss F. Richardson</span>
 “Hail to the Nymph” → <span class="name">Mr Kay</span>  
 Letter Proposing the Decoration of the Attic Chest → <span class="name">Mrs Kay</span>  
 <span class="grey">Restoration Book 4th Canto 4</grey> → <span class="name">Miss Porden</span> <span class="red">(withdrawn)</span>  
+
+<div class="bottom">
+<span class="meeting">No. 46&emsp;(1812-01-08)</span>  
+</div>
+
+To the Attorney of God Mars → <span class="name">Mr Vignoles</span>
+Now Ruddy Autumn → <span class="name">Miss Porden</span>
+To Amanda → <span class="name">Miss Porden</span> (Donald)
+To Papilia → <span class="name">Miss Porden</span> (Chrysalis)
+Verses on the New Year → <span class="name">Mr Vignoles</span>
+The Comet → <span class="name">Miss Porden</span>
+The Fairest Blossom of the North → <span class="name">Miss Porden</span> (Orlando)
+Alas What Tale → <span class="name">Miss Porden</span>
+The Meeting → <span class="name">Miss Vardill</span>
+Letter to the Editor → <span class="name">Miss Porden</span>
+The First Book of the Restoration → <span class="name">Miss Porden</span> <span class="red">(withdrawn)</span> [withdrawn]
