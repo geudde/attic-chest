@@ -10,34 +10,34 @@ visible: false
 
 ##### To my valued Friends, the Editors of the Attic Chest  
   
-The Exile, on a foreign Shore,  
-His Spirits to compose,  
-The novel Region may explore;  
-And soothe awhile his Woes.  
+The exile, on a foreign shore,  
+His spirits to compose,  
+The novel region may explore;  
+And soothe awhile his woes.  
   
-But place him where his Native Land  
-May frequent strike his View,  
-The Sight of its forbidden Strand  
-Shall all his Woes renew.  
+But place him where his native land  
+May frequent strike his view,  
+The sight of its forbidden strand  
+Shall all his woes renew.  
   
 And near, and nearer as he draws  
-To scenes that touch his Heart,  
-The Worm which on his Quiet gnaws  
-Inflicts a keener Smart.  
+To scenes that touch his heart,  
+The worm which on his quiet gnaws  
+Inflicts a keener smart.  
   
 Impatient thus, do *I* survey  
-(A Prisoner now at Home)  
-The short, but yet impassive Way  
-To Taste and Friendship’s Dome.  
+(A prisoner now at home)  
+The short, but yet impassive way  
+To taste and friendship’s dome.  
   
 More eager than if more remov’d,  
-At Time’s slow Foot I pine;  
-Yet Time should here be unreproved:  
-The *tardy* Foot is *mine*.  
+At time’s slow foot I pine;  
+Yet time should here be unreproved:  
+The *tardy* foot is *mine*.  
   
-Oh may it soon resume its Force,  
-And bear me to each Friend!  
-To this kind Circle its first Course  
+Oh may it soon resume its force,  
+And bear me to each friend!  
+To this kind circle its first course  
 Will naturally bend.  
   
 Sarah Richardson

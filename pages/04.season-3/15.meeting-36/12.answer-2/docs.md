@@ -10,8 +10,8 @@ visible: false
 
 ##### Answer to the Enigma published in the Morning Herald  
 
-How sweet the Rose’s vermil hue  
-&emsp;Its opening at the Zephyr’s sigh  
+How sweet the rose’s vermil hue  
+&emsp;Its opening at the zephyr’s sigh  
 It shews its bosom wet with dew,  
 &emsp;That gives its charms a brighter dye.  
 
@@ -25,12 +25,12 @@ When praise her honied drops distills
 Yet every feeling heart it fills,  
 &emsp;With surest proof the praise is just.  
 
-When Love would all its ardour tell  
+When love would all its ardour tell  
 &emsp;And all its tender fears impart,  
 Oh say, could language half so well  
 &emsp;Reveal the feelings of the heart.  
 
-Whate’er its source, if conscious Love  
-&emsp;Or Modesty its Birth control  
+Whate’er its source, if conscious love  
+&emsp;Or modesty its birth control  
 Its rising crimson, e’er must prove  
 &emsp;The offspring of a feeling soul.

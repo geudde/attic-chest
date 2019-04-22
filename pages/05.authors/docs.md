@@ -244,7 +244,7 @@ Anacreontic → <span class="name">Mr Flaxman</span> (Anacreonides)
 Answer to the Query in Natural History → <span class="name">Mr Vignoles</span>  
 <span class="grey">An Erroneous Answer to the Riddle</span> → <span class="name">Do.</span>    
 Another. *Buss* signed [Greek] → <span class="name">Miss Flaxman</span>  
-<span class="grey">Another Rebuss</span> → <span class="name">Do.</span>  [[WRONG]]  
+<span class="grey">Another Rebuss</span> → <span class="name">Do.</span>    
 The Miser and the Mouse → <span class="name">com. by Do.</span>  
 Charade: Fortnight → <span class="name">Mr Vignoles</span>  
 A Stray Spark from the Tinder Box → <span class="name">Mr Flaxman</span>  
