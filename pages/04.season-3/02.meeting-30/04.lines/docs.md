@@ -14,11 +14,11 @@ Oh! if from tuneful Laura’s hand
 Had fall’n the little truant band,  
 &emsp;Or Myra’s golden chain,  
 The subject would the verse inspire,  
-Some Bard might then have seized the Lyre,  
+Some bard might then have seized the lyre,  
 &emsp;And waked the vocal strain!  
 But she to whom no charms belong  
-Has little claim to Poets song  
-&emsp;Her Brac’let strays in vain!  
+Has little claim to poets song  
+&emsp;Her brac’let strays in vain!  
   
 M.F.  
   

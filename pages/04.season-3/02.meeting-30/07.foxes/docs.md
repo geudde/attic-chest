@@ -12,76 +12,76 @@ visible: false
   
 Daughters of Albion, lend an ear  
 &emsp;While an unvarnished tale I tell  
-Of Mischief foiled by guilty fear  
+Of mischief foiled by guilty fear  
 &emsp;And strange events that late befell.  
   
-Nor you, my Attic Audience deem  
+Nor you, my Attic audience deem  
 &emsp;That idle fancy framed the story,  
-Of two brave Youths that grace my theme  
+Of two brave youths that grace my theme  
 &emsp;One sits with downcast eyes before ye.  
   
 Now Sirius raged — to every part  
-&emsp;From London Beaux and Belles repair  
+&emsp;From London beaux and belles repair  
 With all the sons of trade and art  
-&emsp;To taste the purer Ocean-air.  
+&emsp;To taste the purer ocean-air.  
   
-With these a Lawyer high in station  
-&emsp;Fatigued with Probits, Briefs and cases  
+With these a lawyer high in station  
+&emsp;Fatigued with probits, briefs and cases  
 Rode forth to spend the long vacation  
 &emsp;At Brighton, prime of watering places.  
   
-Arrived in search of Board and Bed  
+Arrived in search of board and bed  
 &emsp;He through the streets and alleys strayed  
-Till by his evil Genius led  
+Till by his evil genius led  
 &emsp;He fixed on the Marine Parade.  
   
-For there was many a Knight and Squire  
-&emsp;And Damsel gay, and courtly dame;  
+For there was many a knight and squire  
+&emsp;And damsel gay, and courtly dame;  
 And there, to set the Steyne on fire  
 &emsp;The lovely young Emilia came.  
   
-In prime of health in Beauty’s bloom,  
-&emsp;Opprest with fancied pain and grief  
+In prime of health in beauty’s bloom,  
+&emsp;Oppressed with fancied pain and grief  
 She hoped the scene might chase the gloom,  
 &emsp;And yield her various woes relief.  
   
 So soft her soul, the tender fair  
 &emsp;With anguish viewed a drowning fly  
 Nor could the thought her bosom bear  
-&emsp;That pretty Pig or Lamb should die.  
+&emsp;That pretty pig or lamb should die.  
   
-And if a Spider chanced to roam  
+And if a spider chanced to roam  
 &emsp;Her fits the pitying guests surprise  
-And if a Mouse forsake its home  
+And if a mouse forsake its home  
 &emsp;She fills the ambient air with cries.  
   
 But when the angry thunder rolled  
-&emsp;And vivid flashed the Lightning blue  
+&emsp;And vivid flashed the lightning blue  
 Her shrieks repeated scared the bold  
 &emsp;So loud and shrill her clamours grew.  
   
 Soon through her terror and her tears  
-&emsp;The Lawyer saw the Damsel’s arts  
+&emsp;The lawyer saw the damsel’s arts  
 That all her grief and causeless fears  
 &emsp;Were snares to catch unwary hearts.  
   
 And pondering in his crafty thought,  
 &emsp;Deep schemes to tease the wretched maid  
-A youthful Officer he sought  
+A youthful officer he sought  
 &emsp;With wicked speed, his plots to aid.  
   
-Not Ladies think my Tale untrue  
-&emsp;That foremost here the Lawyer shone  
-For Lawyers (let them have their due)  
+Not ladies think my tale untrue  
+&emsp;That foremost here the lawyer shone  
+For lawyers (let them have their due)  
 &emsp;Have ever been to mischief prone  
   
-Their plan arranged, the Lawyer buys  
-&emsp;A Phial of Phosphoric fire  
-While to the stores, the Soldier hies  
+Their plan arranged, the lawyer buys  
+&emsp;A phial of phosphoric fire  
+While to the stores, the soldier hies  
 &emsp;For hissing squibs and crackers dire.  
   
 With these the gallant pair designs  
-&emsp;At night the Maiden to appall,  
+&emsp;At night the maiden to appall,  
 With dreadful prophecies, in lines  
 &emsp;Of lambent flame upon the wall.  
   
@@ -96,78 +96,78 @@ And that the danger, shame, and fright
 &emsp;Should on their caitiff heads recoil.  
   
 For creeping slow, in conscious fear  
-&emsp;As up the stairs the Lawyer goes  
+&emsp;As up the stairs the lawyer goes  
 He thinks approaching footsteps near  
-&emsp;And starting, down the Bottle throws.  
+&emsp;And starting, down the bottle throws.  
   
-The Phial breaks, aghast he stands  
+The phial breaks, aghast he stands  
 &emsp;Bereft of speech, in wild amaze  
 As o’er the carpet swift expands  
 &emsp;With fumes of noisome stench, the blaze  
   
-Meanwhile the Soldier onward came,  
+Meanwhile the soldier onward came,  
 &emsp;His pockets with combustion fraught,  
 Unconscious of the spreading flame  
 &emsp;Which soon his igneous cargo caught.  
   
 Bounce goes one pocket — Bounce the other —  
-&emsp;In terror down the Soldier falls,  
-The fumes the Caitiffs nearly smother  
+&emsp;In terror down the soldier falls,  
+The fumes the caitiffs nearly smother  
 &emsp;And fear each guilty soul appalls.  
   
-Fie Soldier fie — if in such fright  
+Fie soldier fie — if in such fright  
 &emsp;At noise how great had been your dread,  
 If in the jeopardy of fight  
 &emsp;The balls had whizzed around your head.  
   
-Rise, valiant Soldier rise, nor mind  
+Rise, valiant soldier rise, nor mind  
 &emsp;Your newest regimentals spoiled,  
 It is a common cause to find  
 &emsp;A man at his own weapons foiled.  
   
-“Fire,” cries the Lawyer, “Water, Fire.”  
+“Fire,” cries the lawyer, “Water, fire.”  
 &emsp;And “Fire” the fallen soldier cries,  
 “Help, or in flames I shall expire,”  
 &emsp;He said, but never strove to rise.  
   
 Now from th’ adjacent rooms, a rout  
-&emsp;Of men and maids, and Matrons fly,  
-“Fire, Water, Fire,” the Ladies shout,  
-&emsp;“Fire, Water, Fire,” the Knights reply.  
+&emsp;Of men and maids, and matrons fly,  
+“Fire, water, fire,” the ladies shout,  
+&emsp;“Fire, water, fire,” the knights reply.  
   
 The young, the old, the fat, the lean,  
 &emsp;Half-drest, half naked ran, and one  
 Brave chief who’d hotter service seen  
 &emsp;Without his leg came hopping on.  
   
-Meanwhile the Hostess well aware,  
+Meanwhile the hostess well aware,  
 &emsp;Her chairs and stools were uninsured  
-Flew swiftly down the Kitchen stair  
+Flew swiftly down the kitchen stair  
 &emsp;And there a full fraught tub secured.  
   
-In that same Vessel, just before  
-&emsp;The Cook had cleaned her savoury dishes  
+In that same vessel, just before  
+&emsp;The cook had cleaned her savoury dishes  
 And in solution now it bore,  
-&emsp;The scraps of Flesh, and Fowls, and Fishes.  
+&emsp;The scraps of flesh, and fowls, and fishes.  
   
 Half sinking with the weight she came,  
 &emsp;And struggling thro’ the motley crew —  
-She on the Soldier, and the flame  
+She on the soldier, and the flame  
 &emsp;The tub and turbid water threw.  
   
 He cried, “I’m drowned, fried, roasted, boiled,”  
 &emsp;Which death the hero thought the worst  
-I know not, tho’ by Phosphorus broiled  
+I know not, tho’ by phosphorus broiled  
 &emsp;I think he better liked the first.  
   
 Nor on the prostrate son of Mars  
 &emsp;Alone the greasy deluge fell  
 For thanks to his good-natured stars  
-&emsp;It all the Lawyer drenched as well.  
+&emsp;It all the lawyer drenched as well.  
   
 And dripping wet, a woeful sight  
 &emsp;Like to the grisly fiend he stands  
-That scares had Boys at dead of night  
+That scares had boys at dead of night  
 &emsp;All smudged and scorched his face and hands.  
   
 And now extinguished is the fire  
@@ -178,17 +178,17 @@ And while its author all enquire
 With many a keen sarcastic sneer  
 &emsp;His case the motley circle mourn  
 And men and maids delighted hear  
-&emsp;The Lawyer roasted in his turn.  
+&emsp;The lawyer roasted in his turn.  
    
 And now the culprit more to vex  
-The Hostess presses thro’ the crowd  
+The hostess presses thro’ the crowd  
 His suppliant mien she little recks  
 But talks of *damages* aloud.  
   
-Constrained by Fear and Shame to yield  
+Constrained by fear and shame to yield  
 And eke to save his eyes and head  
 He plights his word, and from the field  
-The Guests again retire to bed.  
+The guests again retire to bed.  
   
 But how, amid the wondrous coil  
 Did lovely young Emilia fare  

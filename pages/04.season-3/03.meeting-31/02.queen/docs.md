@@ -10,23 +10,23 @@ visible: false
   
 “Now say,” quoth the Queen of Sicily,  
 “Now tell me, my darling daughters three,  
-Which first shall become a Wife?”  
+Which first shall become a wife?”  
 &emsp;“Not I,” said the Princess Rosalie  
-“The Men they may all go hang for me,  
+“The men they may all go hang for me,  
 For I love too dearly my liberty,  
 &emsp;To shackle myself for life.”  
   
-“Nay frown not dear Lady, for well do ye wot,  
+“Nay frown not dear lady, for well do ye wot,  
 That ye swore ye would do the thing ye *do not,*  
-&emsp;Love, Honour, Obey, good Mother,  
+&emsp;Love, honour, obey, good Mother,  
 Now my heart, it would buffet my lips I’m sure,  
 Should they dare that honest heart to abjure  
 &emsp;And give my free-will to another.”  
   
 “No! — If ever I condescend to marry,  
-The Man that I chuse[^1] must fetch & carry  
+The man that I chuse[^1] must fetch & carry  
 &emsp;And ‘be e’en a dog at my will.’  
-No! — Wedlock’s Fool’s Paradise well I know  
+No! — Wedlock’s fool’s paradise well I know  
 And you good Queen might have told me so  
 &emsp;T’is at best but a gilded pill.”  
   
@@ -37,39 +37,39 @@ So she turned in despair, to her daughter Jane,
 By the saints above, it is filled I vow  
 &emsp;With love to all mankind.”  
   
-“With love to all mankind!” said the joyous Queen,  
+“With love to all mankind!” said the joyous queen,  
 “Ah! me! What a blessed bride will be seen,  
 &emsp;When thy love is concentr’d in one —”  
 “Ah no! — dear Mother it never may be  
 My spouse on earth thou never may’st see  
-&emsp;For I’ve sworn to be a Nun.”  
+&emsp;For I’ve sworn to be a nun.”  
   
-“Now loud, & deep, was the Queen’s despair  
+“Now loud, & deep, was the queen’s despair  
 And she dar’d not look on her daughter Clare,  
 “Cease, cease, dear Mother to tear your hair  
  ’Tis merciless thus to tease ye.  
-If ever by luck, ’neath the Moon I find,  
-A Man approv’d by my heart, & my mind  
+If ever by luck, ’neath the moon I find,  
+A man approv’d by my heart, & my mind  
 &emsp;I’ll marry, if that will please ye.”  
   
-“Three Princes await in the courts below,”  
-Said the Queen as she doffed her looks of woe,  
+“Three princes await in the courts below,”  
+Said the queen as she doffed her looks of woe,  
 &emsp;“Say which wilt thou choose for life?  
 Sweet! say but the word, & even now  
 My crown shall encircle they youthful brow,  
-&emsp;And thou be to-day a Wife.”  
+&emsp;And thou be to-day a wife.”  
    
-“The first, as thou know’st, is for Wisdom renown’d,  
+“The first, as thou know’st, is for wisdom renown’d,  
 And where shall a shape like the second be found,  
 &emsp;The third — how dauntless an air!”  
-“Yes — the first is a solemn Owl I know,  
-The second an Ape, from top to toe,  
-&emsp;And the third — in good truth is a Bear.”  
+“Yes — the first is a solemn owl I know,  
+The second an ape, from top to toe,  
+&emsp;And the third — in good truth is a bear.”  
   
 “Whenever by luck ’neath the moon I find,  
-A Man approv’d by my heart & my mind,  
+A man approv’d by my heart & my mind,  
 &emsp;Dear Mother! I’ll keep my fay  
-But never shall Monkey, or Owl, or Bear,  
+But never shall monkey, or owl, or bear,  
 Cajole or compel your daughter Clare,  
 &emsp;To honour, to love, or obey.”  
   
@@ -87,11 +87,11 @@ That to those poor wights, who keenly feel,
 The wedded life, must at once reveal,  
 &emsp;Heav’n’s bliss — or the realms of woe —”  
   
-The Queen replied — tho’ she look’d all astound,  
-“I’ll search for this Phoenix my empire round,  
+The queen replied — tho’ she look’d all astound,  
+“I’ll search for this phoenix my empire round,  
 &emsp;But I fear that we never shall find him;”  
 “Nay, nay, dear Mother, I do not despair,  
 We’ll journey to — — perhaps he is there,  
 &emsp;If he be not — why never mind him.”
 
-[^1]: Vide Rule a Wife and have a Wife
+[^1]: Vide Rule a wife and have a wife

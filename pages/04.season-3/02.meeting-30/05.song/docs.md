@@ -20,15 +20,15 @@ I dare na’, dare na’, let them fa’,
 I wad I might lay down an’ dee  
 And quat the warl its cares and a’!  
   
-I saw a Bird upon a breer,  
+I saw a bird upon a breer,  
 He pip’d an’ sang wi mickle glee,  
-But soon he flew, that sonsie Bird!  
+But soon he flew, that sonsie bird!  
 It was na’ lang he pip’d to me!  
   
-I saw a Rose upon a bush,  
-A bonnier Rose might nae be seen,  
+I saw a rose upon a bush,  
+A bonnier rose might nae be seen,  
 I gather’d it at morning’s blush,  
-But Ah! it wither’d e’er the E’en!  
+But Ah! it wither’d e’er the e’en!  
   
 The sin’ my hopes are blighted a’,  
 Like blossoms fallen frae the tree,  

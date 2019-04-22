@@ -59,8 +59,6 @@ Yoursel’s displayed in colours true
 Wi boasted human reason too,  
 &emsp;Your steps to guide.  
   
-## D 3311 Attic Chest 293031_0104  
-  
 O man to many ills a prey  
 Wi tot’ring steps and haffats gray,  
 To close in want lif’s chequer’d day,  
