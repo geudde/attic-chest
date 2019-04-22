@@ -238,7 +238,7 @@ Cupid as Landscape Painter → <span class="name">Mr Vignoles</span> <span class
 <span class="meeting">No. 16&emsp;(1810-01-30)</span>  
 </div>
 
-Rebecca. A Ballad → <span class="name">Sir John Carr</span>  
+Rebecca, a Ballad → <span class="name">Sir John Carr</span>  
 Address to a Gentleman on His Birthday → <span class="name">Mr Vignoles</span> <span class="pencil">(B.R.)</span>  
 Anacreontic → <span class="name">Mr Flaxman</span> <span class="pencil">(Anacreonides)</span>  
 Answer to the Query in Natural History → <span class="name">Mr Vignoles</span>  
@@ -775,7 +775,7 @@ Letter from the Advertizing Lady → <span class="name">Miss Brown</span>
 <span class="grey">Account of Mr Bakewell’s third lecture on Geology → Miss Porden [&times;]</span>  
 To One of the Graces → <span class="name">Miss Vardill</span>  
 Of Coughs and Colds → <span class="name">Mr Hinckley</span>  
-To Mary → <span class="name">Miss Porden</span> <span class="pencil">(Alfred)</span> [withdrawn]  
+<span class="grey">To Mary → >Miss Porden (Alfred) [&times;]</span>   
 To Ellen → <span class="name">Miss Vardill</span>  
 <span class="grey">The Four First Cantos of the Sylphiad → Mr Vignoles [&times;]</span>
 
