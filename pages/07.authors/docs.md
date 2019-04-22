@@ -694,3 +694,55 @@ Alas What Tale → <span class="name">Miss Porden</span>
 The Meeting → <span class="name">Miss Vardill</span>
 Letter to the Editor → <span class="name">Miss Porden</span>
 The First Book of the Restoration → <span class="name">Miss Porden</span> <span class="red">(withdrawn)</span> [withdrawn]
+
+<div class="bottom">
+<span class="meeting">No. 47&emsp;(1812-01-22)</span>  
+</div>
+
+<div class="bottom">
+<span class="meeting">No. 48&emsp;(1812-02-08)</span>  
+</div>
+
+<div class="bottom">
+<span class="meeting">No. 49&emsp;(1812-02-19)</span>  
+</div>
+
+<div class="bottom">
+<span class="meeting">No. 50&emsp;(1812-03-04)</span>  
+</div>
+
+<div class="bottom">
+<span class="meeting">No. 51&emsp;(1812-03-18)</span>  
+</div>
+
+<div class="bottom">
+<span class="meeting">No. 52&emsp;(1812-04-01)</span>  
+</div>
+
+<div class="bottom">
+<span class="meeting">No. 53&emsp;(1812-04-15)</span>  
+</div>
+
+<div class="bottom">
+<span class="meeting">No. 54&emsp;(1812-04-29)</span>  
+</div>
+
+<div class="bottom">
+<span class="meeting">No. 55&emsp;(1812-05-13)</span>  
+</div>
+
+<div class="bottom">
+<span class="meeting">No. 56&emsp;(1812-05-27)</span>  
+</div>
+
+<div class="bottom">
+<span class="meeting">No. 57&emsp;(1812-06-17)</span>  
+</div>
+
+<div class="bottom">
+<span class="meeting">No. 58&emsp;(1813-03-17)</span>  
+</div>
+
+<div class="bottom">
+<span class="meeting">No. 59&emsp;(1813-03-31)</span>  
+</div>
