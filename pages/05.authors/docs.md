@@ -3,7 +3,7 @@ title: Authors
 taxonomy:
     category:
         - docs
-visible: false
+visible: true
 ---
 
 <div class="bottom">
