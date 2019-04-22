@@ -24,9 +24,9 @@ But hark! the portals sound, and pacing forth,
 The college gyps, of high illustrious worth,  
 &emsp;&emsp;With all the dishes in long order go:  
 &emsp;In the midst, a form divine  
-&emsp;Appears the fam’d Sirloin;  
+&emsp;Appears the fam’d sirloin;  
 And soon with plums and glory crown’d  
-Almighty Pudding sheds its sweets around.  
+Almighty pudding sheds its sweets around.  
 &emsp;Heard you the din of dinner bray?  
 &emsp;&emsp;Knife to fork, and fork to knife;  
 &emsp;&emsp;Unnumber’d heroes in the glorious strife,  
@@ -36,14 +36,14 @@ Thro’ fish, flesh, pies, and puddings, cut their destin’d way.
 
 See beneath the mighty blade,  
 &emsp;Gor’d with many a ghastly wound,  
-Low the fam’d Sirloin is laid,  
+Low the fam’d sirloin is laid,  
 &emsp;And sinks in many a gulf profound.  
-&emsp;&emsp;Arise, arise ye Sons of Glory,  
+&emsp;&emsp;Arise, arise ye sons of glory,  
 &emsp;&emsp;Pies and puddings standing before ye:  
 &emsp;&emsp;See the ghosts of hungry bellies  
 &emsp;&emsp;Point a yonder stand of jellies;  
 &emsp;&emsp;While such dainties are beside ye,  
-&emsp;&emsp;Snatch the goods the Gods provide ye;  
+&emsp;&emsp;Snatch the goods the gods provide ye;  
 &emsp;&emsp;Mighty rulers of the state,  
 &emsp;&emsp;Snatch before it is too late:  
 For swift as thought the pudding, jellies, pies,  
@@ -53,9 +53,9 @@ Contract their giant bulks, and shrink to pygmy size.
  
 From the table now retreating,  
 &emsp;All around the fire they meet,  
-And with wine, the Sons of Eating  
+And with wine, the sons of eating  
 &emsp;Crown at length their mighty treat:  
-Triumphant Plenty’s rosy graces  
+Triumphant plenty’s rosy graces  
 Sparkle in their jolly faces;  
 And mirth and cheerfulness are seen  
 In each countenance serene.  

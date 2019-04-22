@@ -31,9 +31,9 @@ While scowl’d the devastating blast
 Across the boundless wat’ry waste  
 &emsp;I doted on the scene.  
 
-Soon, too, celestial *Friendship’s* glow  
+Soon, too, celestial *friendship’s* glow  
 My ardent soul was doom’d to know  
-&emsp;And *Love* still more divine  
+&emsp;And *love* still more divine  
 Beat through my frame with heavenly thrill,  
 And ruled imperiously at will,  
 &emsp;This burning heart of mine.  
@@ -68,7 +68,7 @@ I dragg’d a bosom ill at ease
 
 Still *Poesy* romantic maid  
 &emsp;My throbbing burning bosom sway’d,  
-And still the *Lyre* divine  
+And still the *lyre* divine  
 Brought consolation on its wings,  
 And as I touch’d the trembling strings  
 &emsp;It cheer’d this heart of mine.  

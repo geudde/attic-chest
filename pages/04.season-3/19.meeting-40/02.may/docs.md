@@ -24,7 +24,7 @@ Her amber locks were all around
 With hyacinth and woodbine crowned.
 
 The rose then opened on the scene  
-And joyed to deck her blooming Queen  
+And joyed to deck her blooming queen  
 Her looks were ever bright and gay,  
 And poets loved to welcome May.
 
@@ -39,8 +39,8 @@ Historic records still proclaim
 Our youth the first in fields of fame.
 
 The haste and dry each streaming tear  
-Pale nature’s drooping spirit cheer,  
+Pale Nature’s drooping spirit cheer,  
 And with thy sweet enchanting smile  
-Delight once more our happy Isle.
+Delight once more our happy isle.
 
 Neleora

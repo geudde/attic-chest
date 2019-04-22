@@ -50,7 +50,7 @@ And stern is the judge I declare oh.
 &emsp;&emsp;Victor Mercury’s pronounced  
 &emsp;&emsp;And Ares is renounced  
 &emsp;&emsp;Thus eloquence prevails  
-&emsp;&emsp;When Slaughter’s power fails  
-And War yields to Rhetoric I swear oh!  
+&emsp;&emsp;When slaughter’s power fails  
+And war yields to rhetoric I swear oh!  
   
 Herminius

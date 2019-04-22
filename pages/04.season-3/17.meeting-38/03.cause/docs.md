@@ -11,7 +11,7 @@ visible: false
 When the cause has been heard ’twixt Mercurius and Mars,  
 And the votes have been taken of all the bright stars,  
 Then descend to your mortals, and ask their opinion  
-Which of the two Godships should have the dominion.  
+Which of the two godships should have the dominion.  
 Let a notice be written to each Attic member,  
 Whether scribe, or attendant, or absentee lumber,  
 Beg their votes they will send, and to make them official  

@@ -24,7 +24,7 @@ See from among the chosen few
 One knight steps forth the task to dare  
 Nor shall that youth hereafter rue  
 Such deed performed for maiden fair.  
-When I possess the Magic Ring  
+When I possess the magic ring  
 By this said valorous mortal given  
 I’ll forfeit veil, or gown, or coat,  
 Nor value finery a groat  

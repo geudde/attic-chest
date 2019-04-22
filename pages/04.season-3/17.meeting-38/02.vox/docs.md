@@ -22,16 +22,16 @@ In favour of Mercury’s right to dominion.
 &emsp;But eloquence and friendship rule the hour.  
 &emsp;Let sprightly Hermes, whose inventive mind,  
 &emsp;E’en to our songs may add a grace refined,  
-&emsp;Whose Genius borne on Fancy’s Eagle wing,  
+&emsp;Whose genius borne on fancy’s eagle wing,  
 &emsp;Thro’ pathless Æther’s azure realms can spring,  
 &emsp;To where the Sylphids urge their mimic war  
 &emsp;Or thro’ th’expanse pursue some fleeting star.  
-&emsp;Nay even to adventurous Bards might shew,  
+&emsp;Nay even to adventurous bards might shew,  
 &emsp;The hidden wonders of the world below,  
-&emsp;When all the Sprites in dreadful fight engage  
+&emsp;When all the sprites in dreadful fight engage  
 &emsp;And trembling mortals feel the central rage.  
 
-&emsp;Cease, Sister, cease, Euterpe cried,  
+&emsp;Cease, sister, cease, Euterpe cried,  
 &emsp;&emsp;Nor thus extol your favourite minion,  
 &emsp;For Scythia’s god all must decide,  
 &emsp;&emsp;There sure can be but one opinion.  
@@ -51,7 +51,7 @@ In favour of Mercury’s right to dominion.
 &emsp;’Twill be by force, and not by right.)  
 &emsp;If so indeed it is no wonder  
 &emsp;Your speech, my dear, I took for thunder.  
-&emsp;Oh sure his Epaulette so smart,  
+&emsp;Oh sure his epaulette so smart,  
 &emsp;Must captivate each female heart  
 &emsp;And when the ladies are his friend,  
 &emsp;Success must sure his cause attend.  
@@ -70,7 +70,7 @@ Who greet his coming from the conquered field.
 To honour him we strike our noblest string,  
 &emsp;From Lethe’s flood his wondrous deeds we save,  
 Explore the mists of time with steady wing,  
-&emsp;And snatch expiring virtue from the Grave.  
+&emsp;And snatch expiring virtue from the grave.  
 &emsp;&emsp;True, cries Terpsichore, ’tis true,  
 &emsp;&emsp;Let not Hermes’ artful wiles,  
 &emsp;&emsp;Winning speech, seducing smiles  
@@ -78,10 +78,10 @@ Explore the mists of time with steady wing,
 &emsp;&emsp;Mars with equal skill can wield  
 &emsp;&emsp;Radiant arms in warlike field,  
 &emsp;&emsp;Or when sprightlier trains advance,  
-&emsp;&emsp;Graceful weaves the Pyrrhic Dance.  
+&emsp;&emsp;Graceful weaves the Pyrrhic dance.  
 
 &emsp;&emsp;Nay when Cupid rules the hour,  
-&emsp;&emsp;Bows his head to Beauty's power,  
+&emsp;&emsp;Bows his head to beauty's power,  
 &emsp;&emsp;Then to him your suffrage give  
 &emsp;&emsp;Valour, dancing, love, shall live.  
     
@@ -105,7 +105,7 @@ Explore the mists of time with steady wing,
    
 Hush, hush, bright Clio cries, nor thus prolong  
 So far Terpsichore, your useless song  
-&emsp;Between you all let envious Discord cease  
+&emsp;Between you all let envious discord cease  
 And give your votes to Hermes and to peace.  
 
 I will, Urania cried, tho’ not the friend,  
@@ -128,7 +128,7 @@ And makes his talents and his worth her theme.
 &emsp;&emsp;When our numbers, sadly slow,  
 &emsp;&emsp;Melt in elegies of woe.  
 &emsp;&emsp;Or in sprightlier measures move,  
-&emsp;&emsp;Thro’ the varied realm of Love,  
+&emsp;&emsp;Thro’ the varied realm of love,  
 &emsp;&emsp;He at once our eyes will close,  
 &emsp;&emsp;Linking in a general doze,  
 &emsp;&emsp;Then for sleep and Hermes never,  
@@ -141,7 +141,7 @@ And makes his talents and his worth her theme.
   
 Nay, cries Melpomene, on either part  
 Such various arguments appear, and urged  
-With so much seeming weight of Truth and Justice  
+With so much seeming weight of truth and justice  
 The more I hear the less can I decide.  
 &emsp;&emsp;&emsp;Oh, Thalia cried, and kissed her  
 &emsp;&emsp;&emsp;Sure you'll not desert your sister.  
@@ -168,5 +168,5 @@ To attend at the Attic assembly refuse,
 For he willed that unbiased should still be their voice,  
 And the fate of the clients, should rest on their choice.  
 
-&emsp;&emsp;She ended, the Muses are instantly Friends,  
+&emsp;&emsp;She ended, the Muses are instantly friends,  
 And return to their studies, while Iris ascends.  

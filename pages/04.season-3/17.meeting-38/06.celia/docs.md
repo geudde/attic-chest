@@ -38,10 +38,10 @@ Be to thy tongue that place assigned.
 Nor gentle Celia, let your voice  
 Too hastily condemn my choice  
 For when, on all your friends around  
-&emsp;Of playful Wit you shower the darts  
+&emsp;Of playful wit you shower the darts  
 Unknowning, oft, you give a wound  
 &emsp;And pierce with sharpest thorn their hearts  
 Yet pleasing e’en those wounds must prove  
-From one whom all so dearly Love.  
+From one whom all so dearly love.  
 
 Corydon

@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-The editor in the name of the editress has to thank the members of the Attic Society for their elegant compliments on her birthday and he trusts that she will show her grateful sense of the praise which has been so handsomely and so liberally given by exerting her best endeavours to deserve it. She joins the editor in returning their good wishes with hopes that for many years they may merrily meet round the Chest.
+The Editor in the name of the Editress has to thank the members of the Attic Society for their elegant compliments on her birthday and he trusts that she will show her grateful sense of the praise which has been so handsomely and so liberally given by exerting her best endeavours to deserve it. She joins the Editor in returning their good wishes with hopes that for many years they may merrily meet round the Chest.
 
 The Birthday verses will be followed by a short poem in which Cupid vaunts more than belongs to him and we hope that before he does any mischief in our Society he will have gone through his Reading-made-easy. We have no respect for him in his illiterate character. We have read with much pleasure the poems to Moth on her birthday and Au Reviser and admire the rich and pleading fancy of both. The story of the Blue Beard is told in an interesting manner which is no small praise for a subject that has been so long familiar both to the nursery and the theatre.
 

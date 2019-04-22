@@ -9,7 +9,7 @@ visible: false
 <div class="author">Miss Porden</div>
 
 Of all the flowers that Earth adorn,  
-Waked by the genial breath of Morn,  
+Waked by the genial breath of morn,  
 The rose of red, the rose of white  
 Find greatest favour in our sight.  
   
@@ -29,7 +29,7 @@ When laid upon her gentle breast
 They calmed their enmity to rest,  
 Once more like sisters, now they meet,  
 Together blend their perfumes sweet  
-Thus Innocence and Virtue move  
-The fellest foes to Peace and Love.  
+Thus innocence and virtue move  
+The fellest foes to peace and love.  
   
 Adolphus

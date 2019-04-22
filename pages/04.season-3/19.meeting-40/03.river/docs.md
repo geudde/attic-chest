@@ -23,7 +23,7 @@ Springing amid the flowers
 A living stream, that with a winding course  
 Flies rapidly away;  
 And as it flies, allures,  
-And tempts you to exclaim, Sweet river stay!  
+And tempts you to exclaim, sweet river stay!  
 Hence eager in pursuit  
 You follow, and the stream, as if it had  
 Desire to sport with you,  
