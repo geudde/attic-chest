@@ -49,7 +49,7 @@ visible: true
 
 [On Contemplating a Splendid Pile of Ruins](../../season-1/meeting-04/sonnet) → <span class="name"><span class="name">com. Mr. Flaxman</span>  
 [The Three Kisses](../../season-1/meeting-04/kisses) → <span class="name"><span class="name">Mr Joseph</span>  
-<span class="grey">A Description of Monkey Island → Mr Porden (missing)</span>  
+<span class="grey">A Description of Monkey Island → Mr Porden</span> <span class="red">(missing)</span>  
 [The Queen Anne St. Ghost](../../season-1/meeting-04/ghost) → <span class="name"><span class="name">Mr Parkinson</span>  
 [The Violet](../../season-1/meeting-04/violet) → <span class="name"> <span class="pencil">Violetta</span>    
 
