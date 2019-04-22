@@ -24,7 +24,7 @@ Should they dare that honest heart to abjure
 &emsp;And give my free-will to another.”  
   
 “No! — If ever I condescend to marry,  
-The man that I chuse[^1] must fetch & carry  
+The man that I choose[^1] must fetch & carry  
 &emsp;And ‘be e’en a dog at my will.’  
 No! — Wedlock’s fool’s paradise well I know  
 And you good Queen might have told me so  

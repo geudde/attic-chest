@@ -15,17 +15,17 @@ Let other paint Eliza’s charms,
 And swear, the flame their breast that warms  
 &emsp;Is more intense than Etna’s first.  
   
-Let them declare Pieria’s Maids  
-&emsp;“Attempt Love’s envied song in vain”  
+Let them declare Pieria’s maids  
+&emsp;“Attempt love’s envied song in vain”  
 Who taught mid Pindus’ sacred shade  
-&emsp;The wanton Boy his noblest strain.  
+&emsp;The wanton boy his noblest strain.  
   
 Till taught by them, his highest aim  
-&emsp;Adore, at most a Shepherd’s heart,  
+&emsp;Adore, at most a shepherd’s heart,  
 The Muses found him better game  
-&emsp;In Gods and Heroes fix’d his dart.  
+&emsp;In gods and heroes fix’d his dart.  
 
-Then Love assumed a nobler form,  
+Then love assumed a nobler form,  
 &emsp;And with an added radiance shone,  
 His fire the purest breast might warm,  
 &emsp;E’en blushing maids his darts might own.  

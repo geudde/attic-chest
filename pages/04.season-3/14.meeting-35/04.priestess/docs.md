@@ -15,27 +15,27 @@ The yearly tribute to my Valentine.
 But now a recreant from the Muses’ train  
 My hands would strive to tune the lyre in vain;  
 Now all unskilled to court the opening spring  
-Or seek fresh fragrance from the Zephyr’s wing  
+Or seek fresh fragrance from the zephyr’s wing  
 To mark where dewdrops on the lily rise  
 Whose beauteous bosom with the sunbeam vies;  
 To praise the cheek where varying roses bloom  
-Or brilliant lips whence Sylphids kiss perfume  
+Or brilliant lips whence sylphids kiss perfume  
 To praise the locks where thousand graces play,  
-Where the Loves lurk and o’er our hearts hold sway;  
+Where the loves lurk and o’er our hearts hold sway;  
 How can I dare to paint my Valentine  
 When various beauties, various talents join  
 Where I behold “the purple light of youth”,  
-Led by fair candour, loveliest child of Truth  
- Let then these wishes for my fault alone,  
+Led by fair candour, loveliest child of truth  
+Let then these wishes for my fault alone,  
 Ah! let them make my warm affection known.  
-May the best Muse on Thee her influence shed  
+May the best Muse on thee her influence shed  
 And twine her favourite bay branch round thy head;  
 May distant times with transport hear thy song  
-And Fame in distant climes thy praise prolong  
+And fame in distant climes thy praise prolong  
 May health encircled by unnumbered years  
 Attend on thee unstained by grief or tears.  
   
-Still may Simplicity they steps attend  
+Still may simplicity they steps attend  
 Thy sweet companion, monitor and friend.  
 Long in that circle where thy polished lays  
 Have shone resplendent with superior blaze  

@@ -34,7 +34,7 @@ The charms being perfected after another invocation to the spirits of earth, sea
 
 Again she strikes, and the sparks setting fire to the tinder after a decent quantity of thunder and lightning and a masque of goblins and fairies all the great poets ancient and modern pass as a pageant before the priestess. The procession is closed by Milton, and Tinderella seizing her lyre, exults in the idea of having set the world of poetry in a blaze.
 
-From this slight analysis, our hearers will perceive that the author is possest of much learning and poetic imagination with a considerable portion of genuine humour. They will find in this ode a profusion of ideas, sublime, picturesque, and ludicrous, not always blended in a manner the most happy.
+From this slight analysis, our hearers will perceive that the author is possessed of much learning and poetic imagination with a considerable portion of genuine humour. They will find in this ode a profusion of ideas, sublime, picturesque, and ludicrous, not always blended in a manner the most happy.
 
 > “Across the lyre his careless hand he flings  
 And boldly sinks into the sounding strings”

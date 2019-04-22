@@ -13,56 +13,56 @@ visible: false
 
 ![Muses](muses.jpg?resize=600)
 
-Three Graces met my dazzled Sight  
-&emsp;How can I chuse a Valentine,  
-When all the Charms that give Delight  
-&emsp;And rule our Hearts in each combine  
+Three Graces met my dazzled sight  
+&emsp;How can I choose a Valentine,  
+When all the charms that give delight  
+&emsp;And rule our hearts in each combine  
 
-Thalia has ev’ry Art to please,  
-&emsp;Politeness, Learning, Wit and Ease.  
-High cultivated Powers of Mid,  
-&emsp;To Beauty’s fairest Forms are join’d  
+Thalia has ev’ry art to please,  
+&emsp;Politeness, learning, wit and ease.  
+High cultivated powers of mind,  
+&emsp;To beauty’s fairest forms are join’d  
 
-A Soul sprung from the Realms of Taste,  
-&emsp;With Fancy’s brightest Visions grac’d —   
-From distant Lands a Stranger came,  
-&emsp;Aglaia is the Maiden’s Name.   
+A soul sprung from the realms of taste,  
+&emsp;With fancy’s brightest visions grac’d —   
+From distant lands a stranger came,  
+&emsp;Aglaia is the maiden’s name.   
 
-Her lovely Form, her Face so fair,  
-With Spring’s mild Radiance may compare,  
-And each unguarded Heart ensnare.  
-If some blest Youth — attend the Strain!  
-The Empire of thy Soul shall gain;  
-Ne’er let the dark’ning Mist of Pride,  
-The Snowdrop of Affection hide,  
-But cull the transient Flower;  
-For planted in thy Bosom know!  
-The pearly Bloom shall ever blow,  
-Nor dread a withering Hour.  
+Her lovely form, her face so fair,  
+With spring’s mild radiance may compare,  
+And each unguarded heart ensnare.  
+If some blest youth — attend the strain!  
+The empire of thy soul shall gain;  
+Ne’er let the dark’ning mist of pride,  
+The snowdrop of affection hide,  
+But cull the transient flower;  
+For planted in thy bosom know!  
+The pearly bloom shall ever blow,  
+Nor dread a withering hour.  
 
-But who can justly sing of Thee,  
-Thou Child of Mirth, Euphrosyne!  
-Sweet Goddess of the Sylphic Mien!  
-Blest Antidote against the Spleen.  
+But who can justly sing of thee,  
+Thou child of mirth, Euphrosyne!  
+Sweet goddess of the Sylphic mien!  
+Blest antidote against the spleen.  
 
-Thy playful Wit, thy lyric Strain,  
-Our Hearts confine in Pleasure’s Chain;  
-Thy sprightly Footsteps lead our Eye  
-Light in the airy Dance they fly;  
-Like Gossamer in Summer’s Day,  
-Or Films which in the Sunbeams play.  
+Thy playful wit, thy lyric strain,  
+Our hearts confine in pleasure’s chain;  
+Thy sprightly footsteps lead our eye  
+Light in the airy dance they fly;  
+Like gossamer in summer’s day,  
+Or films which in the sunbeams play.  
 
-E’en Coridon — tho’ cold as Stone,  
-Thy lively sportive Pen shall own;  
-Affected was the averted Eye,  
-Assum’d that Air of Gravity:  
-His Heart bore Witness to the Praise,  
-Which he alone refused thy Lays.  
+E’en Coridon — tho’ cold as stone,  
+Thy lively sportive pen shall own;  
+Affected was the averted eye,  
+Assum’d that air of gravity:  
+His heart bore witness to the praise,  
+Which he alone refused thy lays.  
 
-Nature her Gifts to Thee profuse,  
-Has offer’d with unsparing Hand,  
-And plac’d her Realms at thy Command  
-The Grant with cultur’d Judgment use.  
+Nature her gifts to thee profuse,  
+Has offer’d with unsparing hand,  
+And plac’d her realms at thy command  
+The grant with cultur’d judgment use.  
 
 Ictinus  
 

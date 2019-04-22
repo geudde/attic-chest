@@ -9,69 +9,69 @@ visible: false
 <div class="author">com. Mr Vignoles</div>
 
 Say Love, what master shows thy art,  
-&emsp;That sweet Improver of mankind,  
-Which warms with Sentiment the heart,  
-&emsp;With Information hones the mind?  
+&emsp;That sweet improver of mankind,  
+Which warms with sentiment the heart,  
+&emsp;With information hones the mind?  
 
-Whence does the Soul, disdaining Earth,  
-&emsp;To Ether wing its ardent way?  
+Whence does the soul, disdaining Earth,  
+&emsp;To ether wing its ardent way?  
 Who gives the bold expression birth  
-&emsp;That all its Images convey?  
+&emsp;That all its images convey?  
 
-’Tis not to Greece’s learned Soil  
-&emsp;The world this happy Culture owes  
+’Tis not to Greece’s learned soil  
+&emsp;The world this happy culture owes  
 Which not from Aristotle’s tail,  
 &emsp;Nor yet from Plato’s fancy flows.  
 
 Apollo and the tuneful Nine,  
-&emsp;Attempt the envied Song in vain;  
+&emsp;Attempt the envied song in vain;  
 Their numbers are not so divine,  
-&emsp;As is the Lover’s tender strain!  
+&emsp;As is the lover’s tender strain!  
 
-Scholastic art, the Muses’ Lyres,  
-&emsp;In vain their Privileges boast;  
-The Love breathes a purer fire;  
+Scholastic art, the Muses’ lyres,  
+&emsp;In vain their privileges boast;  
+The love breathes a purer fire;  
 &emsp;He sings the best who feels the most.  
 
-No Pow’r alone, and none below,  
-&emsp;But Thou, O Love! can thee express;  
-To thee, thy Sentiments we owe,  
+No pow’r alone, and none below,  
+&emsp;But thou, O love! can thee express;  
+To thee, thy sentiments we owe,  
 &emsp;To thee, we owe their glowing dress.  
 
-Thou can’st refine the simple Breast,  
-&emsp;And to a Poet raise a Swain,  
-His humble Soul, by thee impress’d,  
-&emsp;Assumes a warm exalted Strain.  
+Thou can’st refine the simple breast,  
+&emsp;And to a poet raise a swain,  
+His humble soul, by thee impress’d,  
+&emsp;Assumes a warm exalted strain.  
 
 His manners take a nobler turn;  
-&emsp;His Inspiration we descry;  
-Upon his Cheek we see it burn,  
-&emsp;And speak, in Lightning from his Eye.  
+&emsp;His inspiration we descry;  
+Upon his cheek we see it burn,  
+&emsp;And speak, in lightning from his eye.  
 
-With such a new, ideal Store  
-&emsp;Thy dictates fill the rustic Mind,  
-Such Oratory Shepherds pour,  
+With such a new, ideal store  
+&emsp;Thy dictates fill the rustic mind,  
+Such oratory shepherds pour,  
 &emsp;They leave a Cicero far behind.  
 
-Nay, such nice heights thy Pow’r can reach,  
-&emsp;With thee, such varied Rhetoric dwells;  
-That e’en the struggling, broken Speech  
-&emsp;The modelled Period far excels.  
+Nay, such nice heights thy pow’r can reach,  
+&emsp;With thee, such varied rhetoric dwells;  
+That e’en the struggling, broken speech  
+&emsp;The modelled period far excels.  
 
-Thy Silence oft, in striking Pause  
-&emsp;The Lovers great Ideas paints;  
-Sublime conception is its Cause;  
+Thy silence oft, in striking pause  
+&emsp;The lovers great ideas paints;  
+Sublime conception is its cause;  
 &emsp;The mind expands, but language faints.  
 
-Free, uncompress’d, the Thought appears,  
+Free, uncompress’d, the thought appears,  
 &emsp;Which words would awkwardly control,  
-And Nature hold our Eyes, and Ears;  
-&emsp;We seem to hear, and see the Soul.  
+And nature hold our eyes, and ears;  
+&emsp;We seem to hear, and see the soul.  
 
-The letter’d Youth let Plato’s Page,  
-&emsp;With generous Sentiment inspire;  
-I’m better taught than by a Sage,  
-&emsp;And catch a more etherial Fire.  
+The letter’d youth let Plato’s page,  
+&emsp;With generous sentiment inspire;  
+I’m better taught than by a sage,  
+&emsp;And catch a more etherial fire.  
  
 A nobler and a speedier aid,  
 &emsp;Receive I from *Eliza’s* Eyes;  
@@ -81,9 +81,9 @@ By them more happy I am made;
 Let the mistaken world suppose  
 &emsp;That nature in Old Homer reigns;  
 Or, still, more blindly think she flows  
-&emsp;In Virgil’s cold, & labour’d Strains.  
+&emsp;In Virgil’s cold, & labour’d strains.  
 
-I came my Love upon a Tree;  
-&emsp;Scholars consult its faithful Rind;  
-Throw Books away, for there you’ll see  
-&emsp;A lovelier Copy of the Mind.
+I came my Love upon a tree;  
+&emsp;Scholars consult its faithful rind;  
+Throw books away, for there you’ll see  
+&emsp;A lovelier copy of the mind.

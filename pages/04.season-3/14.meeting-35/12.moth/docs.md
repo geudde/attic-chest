@@ -25,16 +25,16 @@ She therefore mounted to the sky
 
 Close by the moon her station lay  
 &emsp;With Phoebus she was vying  
-To make the Night shine clear as day  
+To make the night shine clear as day  
 &emsp;While pretty Moth was flying.  
  
 For Moth is still her Stella’s care  
-&emsp;Whether in Earth or Sky,  
-Above she lights her as a Star  
+&emsp;Whether in Earth or sky,  
+Above she lights her as a star  
 &emsp;On Earth, as brilliant fly.  
 
 And thus she’ll guide her Moth from harm  
-&emsp;With all her powers of Sights  
+&emsp;With all her powers of sights  
 ’Gainst every evil find a charm  
 
 Stella

@@ -10,20 +10,20 @@ visible: false
 
 The morning sun had drank the dew,  
 Sweet flow’rs perfum’d the air;  
-A Linnet tow’rd the shrubbery flew  
+A linnet tow’rd the shrubbery flew  
 To meet her lover there.  
   
 Why comes he not the day so fair!  
-To meet his destin’d Bride?  
+To meet his destin’d bride?  
 Whose fluttering bosom heaves with care,  
 Lest dangers should betide.  
   
 Her loudest, softest, note she tries,  
-From Pinetrees highest spray;  
-No Flapsy o’er the pasture flies;  
+From pinetrees highest spray;  
+No flapsy o’er the pasture flies;  
 Or answers to her lay.  
   
-Ah! cruel was the Urchin’s aim,  
+Ah! cruel was the urchin’s aim,  
 That stopp’d the warbler’s breath;  
 Too soon malignant fate it came,  
 And hurl’d the stone of death.  

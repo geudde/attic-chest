@@ -19,28 +19,28 @@ Too swiftly then the moments flee.
   
 When summer gaily smiling reigns  
 With thee I quit the sultry plains  
-In Jasmine or in woodbine bowers  
+In jasmine or in woodbine bowers  
 With thee I pass the pleasing hours  
 Or in some groves embowring shades  
-While Birds sweet carol o’er our heads  
+While birds sweet carol o’er our heads  
 I twine some roseate wreath for thee  
 Too swiftly then the moments flee.  
   
-When autumn crowned with Corn appears  
-And Earth a richer Livery wears  
+When autumn crowned with corn appears  
+And Earth a richer livery wears  
 For thee the purple grapes I cull  
-For thee the glowing Nectarines pull  
+For thee the glowing nectarines pull  
 With thee in sportive mood I come  
-To grace the village Harvest home  
+To grace the village harvest home  
 And as I lead the dance — with thee  
 So swiftly still the moments flee.  
   
-And now tho’ Winter rules the Bear  
+And now tho’ winter rules the Bear  
 Sweet friendship can the scene endear  
 What tho’ no more with thee I rove  
-To cull the flowers from Dale or Grove  
-Yet Friendship still my bosom warms  
-And Winter still for me has charms  
+To cull the flowers from dale or grove  
+Yet friendship still my bosom warms  
+And winter still for me has charms  
 For while Miranda spent with thee  
 Too swiftly still the moments flee.  
   

@@ -15,11 +15,11 @@ The sacred philosophic lore,
 To illustrate the Ideal line  
 Zeuxis give the form divine,  
 This mental light no longer given,  
-Fair Painting’s charms return to Heaven.  
+Fair painting’s charms return to heaven.  
   
-But Homer’s feats, his deeds of Arms,  
+But Homer’s feats, his deeds of arms,  
 His wily crafts, and dread alarms,  
-Impieties, and Murderous plan,  
-Live in the evil heart of Man.  
+Impieties, and murderous plan,  
+Live in the evil heart of man.  
   
 Pencilina  

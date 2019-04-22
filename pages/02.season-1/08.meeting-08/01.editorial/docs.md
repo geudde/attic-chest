@@ -10,7 +10,7 @@ We have the pleasure of opening this number, with an address from the Attic Ches
 
 We sincerely hope her expectations will be realized.
 
-The answers to the first riddle, which are possest of considerable merit, will be read this evening.
+The answers to the first riddle, which are possessed of considerable merit, will be read this evening.
 
 The translation of the forty eight Ode of Anacreon from our frequent contributor Ictinus we announce with pleasure, as also the Anacreontic, which we believe is not from the same hand.
 

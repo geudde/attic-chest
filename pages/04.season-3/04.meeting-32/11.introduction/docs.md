@@ -75,7 +75,7 @@ But reader couldest thou go with me
 The simple village maid to see,  
 Say could’st thou *join her* as she races  
 Along the meads and through the graces,  
-Could’st thou for her the flowrets chuse  
+Could’st thou for her the flowrets choose  
 Of sweetest scent and liveliest hues,  
 And as the maid approves the choice  
 Say reader could’t thou then rejoice  

@@ -11,7 +11,7 @@ visible: false
 ##### On the Expiration of the Mourning
 
 Long in sable vest appearing  
-Albion’s Nymphs Amelia mourned,  
+Albion’s nymphs Amelia mourned,  
 This sweet morn their sorrows cheering  
 Views in gayer robes adorned  
   

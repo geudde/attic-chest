@@ -10,11 +10,11 @@ visible: false
 
 ##### Thanking the Author for a Valentine
 
-&emsp;In Chivalry’s resplendent age  
-When Knights with Dragons did engage  
-When Giants huge did haunt each land  
-When Magic spread her sable wand  
-And bade each day at fall of Night  
+&emsp;In chivalry’s resplendent age  
+When knights with dragons did engage  
+When giants huge did haunt each land  
+When magic spread her sable wand  
+And bade each day at fall of night  
 Some castle meet the hero’s sight,  
 Which on the morn would fade away  
 As tho’ dissolved by Phoebus ray.  
@@ -26,7 +26,7 @@ And there some monstrous beast engage
 Emitting fire, whose furious rage  
 Swift conquered by his arm should lie,  
 The wonder of posterity.  
-&emsp;In that famed age each valiant Knight  
+&emsp;In that famed age each valiant knight  
 Enamoured of some damsel bright  
 Declared that from his mistress’ eyes  
 Did every great achievement rise.  

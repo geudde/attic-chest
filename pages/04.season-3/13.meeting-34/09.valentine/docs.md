@@ -11,9 +11,9 @@ visible: false
 ##### To Ellen
 
 If thou, my Ellen, wilt receive  
-A Heart long anxious to be thine;  
-Love’s beauteous Garland will I weave  
-And crown thee, Sweet, my Valentine.
+A heart long anxious to be thine;  
+Love’s beauteous garland will I weave  
+And crown thee, sweet, my Valentine.
 
 Florio
 

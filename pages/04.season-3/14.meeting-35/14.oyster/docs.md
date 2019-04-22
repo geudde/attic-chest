@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Bond</div>
 
-Where Aereids sport, and Sea Gods lave;  
+Where Aereids sport, and sea gods lave;  
 Where gently rolls the emerald wave;  
 Form the recesses of the sea  
 I come sweet maid to dwell with thee,  
@@ -18,10 +18,10 @@ My face the painter’s skill defies,
 My form, all other forms outvies.  
 Soft is my heart, indeed! ’tis true;  
 Slippery I own yet firm to you.  
-Seasoned well with Attic Salt,  
+Seasoned well with Attic salt,  
 That leaves my wit without a fault.  
 I’ll seek those lips on which I dote  
-That stole my cousin Coral’s coat  
+That stole my cousin coral’s coat  
 And in that bosom find a place  
 Though blushes overspread thy face  
  Near thee, my marble palace stands,  
@@ -33,4 +33,4 @@ Will leave thee ample space to roam:
 Such gorgeous honours, all this state  
 My chosen Valentine await.  
 Then all these honours, he can boast,  
-What Oyster need in love be cross’d.
+What oyster need in love be cross’d.

@@ -13,9 +13,9 @@ visible: false
 Here rot the bones of *Ho* and *Hi*,  
 Whose fate was sad, but risible,  
 Being hang’d, because they could not spy  
-Th’ Eclipse, that was invisible!  
+Th’ eclipse, that was invisible!  
   
-*Hi!* *Ho!* ’tis said, that too much Drink  
-Occasion’d all their Trouble:  
+*Hi!* *Ho!* ’tis said, that too much drink  
+Occasion’d all their trouble:  
 But that can’t scarce be true, I think  
-Since drunken Folks see Double!!  
+Since drunken folks see double!!  

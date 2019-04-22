@@ -17,7 +17,7 @@ The Sonnet to a Nightingale is a pleasing composition, though somewhat defective
 and Milton dismisses our first parents from paradise with this pathetic observation
 
 > 	“Some tears they shed, but wiped them soon  
-> 	“The world was all before them, where to chuse  
+> 	“The world was all before them, where to choose  
 > 	“Their resting place, and Providence their guide.”  
 
 The ode to St. Andrew, which has the Signature of I. Bowen, 1792, breathes that spirit of piety and poetry, which the venerable pile in which it was written would naturally awaken in a mind susceptible of congenial impressions. We cannot give it greater praise. — We are uncertain whether it has appeared in print or not.

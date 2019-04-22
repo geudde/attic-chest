@@ -57,7 +57,7 @@ To the Attic Society bade me unfold
 Of my plea, you may straight seek the mansion of Jove  
 To entreat, at the first since unbiass’d their choice  
 That now if I yield, I may yield to their voice.  
-And of all information now fully possest  
+And of all information now fully possessed  
 Your suffrages, Mars and Minerva request!”  
   
 When Mars had conclud’d, to banish disorder  
