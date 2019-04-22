@@ -209,9 +209,9 @@ Cupid as Landscape Painter → <span class="name">com. Miss Flaxman</span> <span
 History of the Attic Chest → <span class="name">Miss Porden</span>  
 Christmas Gambols → <span class="name">com. Mrs Flaxman</span>  
 The Fairy’s Wish → <span class="name">Do.</span> <span class="pencil">(Gossamer)</span>  
-Riddle “Four people sat down at a Tavern to play” → <span class="name">unknown</span>  
+Riddle “Four people sat down at a Tavern to play” →    
 Dulce Domum → <span class="name">Miss Flaxman</span> <span class="pencil">(Peregrine)</span>  
-To a Lost Friend → <span class="name">Miss Ludlow <span class="name">com. by Miss Richardson</span>  
+To a Lost Friend → <span class="name">Miss Ludlow, com. by Miss Richardson</span>  
 Anacreontic  → <span class="name">Mr Flaxman</span> <span class="pencil">(Anacreonides)</span>  
 Monsieur L’Abbé de Grenthe’s Academy → <span class="name">com. Sir John Barrington</span>  
 Verses spoken at His Ball → <span class="name">Do.</span>  
