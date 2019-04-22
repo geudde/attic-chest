@@ -28,8 +28,8 @@ visible: true
 [Charades by Person](../../season-1/meeting-02/charades) → <span class="name"><span class="name">Professor Person</span>  
 [Part of the 15th Satire of Juvenal](../../season-1/meeting-02/juvenal) → <span class="name"><span class="name">Mr Bond</span>  
 [Sonnets](../../season-1/meeting-02/sonnet) → <span class="name"><span class="name">Mr. Kilburn</span> (Hassan)  
-[The Muses Vagaries](../../season-1/meeting-02/apollo) → <span class="name">(Fitz Pieria)   
-[The Birth of Ellen](../../season-1/meeting-02/editress) → <span class="name">(Comfit)  
+[The Muses Vagaries](../../season-1/meeting-02/apollo) → <span class="pencil">(Fitz Pieria)</span>   
+[The Birth of Ellen](../../season-1/meeting-02/editress) → <span class="pencil">(Comfit)</span>  
 [“And a’ that”](../../season-1/meeting-02/wish) → <span class="name"><span class="name">Miss Flaxman</span>  
 
 <div class="bottom">
