@@ -18,7 +18,7 @@ While all around the woodland rings,
 And every bird thy requiem sings,  
 Thou amid the dirgeful sound,  
 Shed thy dying honours round,  
-And resign to parent earth  
+And resign to parent Earth  
 The loveliest form she e’er gave birth.
 
 Manchester Feb. 12th 1809

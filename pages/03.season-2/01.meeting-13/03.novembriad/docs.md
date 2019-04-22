@@ -58,7 +58,7 @@ Whilst still amidst the little shouting throng
 Grim visaged Guy, is borne in state along  
 Whilst squibs & crackers, every boy’s delight  
 And blazing bonfires crown’d the noisy night.  
-Now gentle muse, e’en let the faggots burn  
+Now gentle Muse, e’en let the faggots burn  
 While we, shall to a theme more pleasing turn,  
 Though the last mention’d yet I deem it best,  
 The annual meeting of the Attic Chest.  

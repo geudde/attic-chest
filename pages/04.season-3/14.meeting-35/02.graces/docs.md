@@ -1,6 +1,6 @@
 ---
 title: 'The Graces'
-media_order: muses.jpg
+media_order: Muses.jpg
 taxonomy:
     category:
         - docs

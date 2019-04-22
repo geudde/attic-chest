@@ -8,7 +8,7 @@ visible: false
 
 See how the feather’d blossoms through the air  
 Traverse a thousand various paths to find  
-On the impurer earth a place that’s fair,  
+On the impurer Earth a place that’s fair,  
 Courting the conduct of each faithless wind!  
   
 See how they seem to hover near their end,  
@@ -27,6 +27,6 @@ Let not the proud presume, or poorest mourn,
 Their fate’s decreed, and every one must die.  
   
 Boast not your talents or your noble birth;  
-From earth all come, all must return to earth.  
+From Earth all come, all must return to earth.  
   
 Albemarle St. Feb<sup>y</sup> 14th

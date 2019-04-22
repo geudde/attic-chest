@@ -20,7 +20,7 @@ To represent the race it left behind,
   
 There every flower that drinks the dew of morn,  
 &emsp;Or hails with opening sweets th’ approach of light;  
-There every shrub that does the earth adorn,  
+There every shrub that does the Earth adorn,  
 &emsp;In Senate meet th’ enraptured gazer’s sight.  
   
 One day assembled by the Lily fair,  

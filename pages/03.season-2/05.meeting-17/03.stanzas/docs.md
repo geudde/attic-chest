@@ -48,5 +48,5 @@ With floods of tears she bathes a lover dead
 &emsp;In brave assertion of her honour slain  
 &emsp;&emsp;Her bosom heaves with sighs  
 &emsp;&emsp;To heaven she lifts her eyes  
-&emsp;With grief beyond the power of words exprest  
+&emsp;With grief beyond the power of words expressed  
 Smiles on the lifeless corse and dies upon his breast.

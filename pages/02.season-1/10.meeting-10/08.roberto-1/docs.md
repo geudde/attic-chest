@@ -25,7 +25,7 @@ Saved you from angry Hermes’ power
 How Pegasus his starry station  
 Now holds and forms a constellation  
 How Hermes, you with friendly aid  
-Upon his back to earth conveyed  
+Upon his back to Earth conveyed  
 All this we know and all beside  
 Respecting your aetherial ride  
 And from your pen we now request  

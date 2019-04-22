@@ -13,7 +13,7 @@ The following authentic story has been put in rhyme merely because the contrast 
 The success on recital chiefly depends on the imitation of the inflections & cadences peculiar to the voice of the Modern Roscius.  
   
 Reader! Wilt hear and after-dinner story?  
-My muse I fear, will tell it but so-so,  
+My Muse I fear, will tell it but so-so,  
 &emsp;But what it is I trow,  
 If that you list, you soon will know,  
 &emsp;Since it lays right before you.  

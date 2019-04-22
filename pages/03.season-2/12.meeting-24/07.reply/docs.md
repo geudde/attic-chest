@@ -31,7 +31,7 @@ Though ignorance bound our minds in chains
 Yet now in George’s golden days  
 &emsp;And now in Britain’s happy isle  
 On either sex, with equal grace  
-&emsp;The lovely muses deign to smile  
+&emsp;The lovely Muses deign to smile  
   
 4  
   

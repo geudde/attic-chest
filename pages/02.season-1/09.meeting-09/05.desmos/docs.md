@@ -76,6 +76,6 @@ And Apic’s purple casts it’s splendid rays
   
 While fate to me allots with sparing hand,  
 A humble portion of neglected land:  
-But adds the light spir’t of the Grecian muse,  
+But adds the light spir’t of the Grecian Muse,  
 And my bold mind with constancy endues.  
 &emsp;&emsp;The vulgar to despise —

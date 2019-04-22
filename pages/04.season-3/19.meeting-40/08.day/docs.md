@@ -10,11 +10,11 @@ visible: false
 
 The day draws near in which the Gnome  
 Like fiend abhor’d, my veil conveyed  
-Beneath the earth to his dire home,  
+Beneath the Earth to his dire home,  
 And left me a deluded maid.  
 But I’ll beseech some friendly squire  
 To secure me from fate so dread  
-Transplant the Gnome from earth to fire  
+Transplant the Gnome from Earth to fire  
 And mix his ashes with the dead.  
 Shall I beseech & sue in vain?  
 Shall I be left his mate to be?  

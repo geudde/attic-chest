@@ -31,7 +31,7 @@ Uninformed how Roberto flew up with the horse
 “It is fled to the moon, then,” he cried out, “of course,  
 I must seek it <span data-tippy="directly" class="green">at once</span>, or the Muses will chide  
 And say, <span data-tippy="on their steed I’d no business" class="green">I’d no right on their pony</span> to ride,”  
-Thus saying, from earth swift Mercurius took flight  
+Thus saying, from Earth swift Mercurius took flight  
 And instantly did in the valley alight;  
 Which put <span data-tippy="poor Roberto" class="green">honest Bob</span> in a terrible fright.  
 And Hermes himself was in no less surprise,  
@@ -57,7 +57,7 @@ What before to the Muses in London befell.
 Pollyhymnia last night had been *at the debate*;  
 And till near four o’clock for those who were smitten  
 By the arrows of Cupid, Erato had written:  
-Calliope too, the far famed epic muse,  
+Calliope too, the far famed epic Muse,  
 Had been loth, her loved poets request to refuse.  
 Euterpe, Terpsichore, had concerts attended  
 And ’twas late in the morning before they were ended.  
@@ -157,7 +157,7 @@ I now seek with Urania, the <span data-tippy="thundering" class="green">ignipote
 If with us you will go, by the road we’ll explain  
 The boon which we long have desired to obtain  
 In here, our return shall Roberto attend,  
-When with him to the earth we will once more descend.  
+When with him to the Earth we will once more descend.  
 As upwards they mounted, Cyllenius afar,  
 Discovered poor Peg laid on many a star,  
 Who hungry and tired, long before had attacked.  
@@ -199,10 +199,10 @@ With Ambrosia and Nectar fair Hebe shall feed;
 He spoke, and he nodded: the Powers at the sight,  
 To the vale in the moon, swift directed their flight.  
 When Hermes not knowing how better to pack  
-Flew down to the earth with the youth on his back.  
+Flew down to the Earth with the youth on his back.  
 The Muses returned to their lodgings with speed,  
 Much rejoiced that their plan so well should succeed.  
-Now poor Peg upon earth far more rarely appears,  
+Now poor Peg upon Earth far more rarely appears,  
 And his head, neck and chest are all studded with stars.  
 But poets no longer he deigns to befriend,  
 Nor can to the call of a mortal attend.  

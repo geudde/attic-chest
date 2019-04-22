@@ -10,7 +10,7 @@ visible: false
 
 When Sheba’s Queen came from the east,  
 With all her questions cute,  
-On earth one man at least was found,  
+On Earth one man at least was found,  
 Whose wisdom struck her mute.
 
 But how alas! are times now chang’d  

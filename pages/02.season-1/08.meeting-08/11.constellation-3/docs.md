@@ -57,10 +57,10 @@ And falling still downwards and downwards full soon
 Roberto arrived once again in the moon.  
 Yea, more he arrived in that valley, that’s named  
 By Ariosto the Poet far famed  
-Where all thing that are lost upon earth my be found,  
+Where all thing that are lost upon Earth my be found,  
 Our traveller felt himself well, safe and sound  
 For his fall had been broke by a legion of sighs,  
-And of vows that from earth did but lately arise  
+And of vows that from Earth did but lately arise  
 (The proffers of love on St. Valentine made)  
 And his own very kindly had lent him their aid.  
   

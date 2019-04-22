@@ -8,7 +8,7 @@ visible: false
 
 At Ellen’s birth fair Nature smil’d  
 And claim’d her for his darling child,  
-The sweetest treasures of the earth  
+The sweetest treasures of the Earth  
 Were open’d all to grace her birth;  
 Around the cradle where she lay  
 The Muses sand a roundelay  

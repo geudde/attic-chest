@@ -47,7 +47,7 @@ And Britain claim a Phidias of her own!
 
 &emsp;Not such the hopes that bless th’ enthusiast’s dream,  
 As sad it wanders o’er each faded gleam,  
-That dimly shews to painting’s muse was given  
+That dimly shews to painting’s Muse was given  
 The sevenfold radiance of refulgent heaven,  
 When genius stole the colours of the sun,  
 And pour’d them o’er the wreath of valour won.  

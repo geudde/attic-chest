@@ -75,7 +75,7 @@ In ease and health enjoys the hour,
 Smiles at thy speed, and scorns the power.  
   
 And when shall come the appointed day  
-For mother earth to claim thy clay,  
+For mother Earth to claim thy clay,  
 (While upwards to the realms of light,  
 The joyful spirit takes her flight  
 To dwell joint-tenant with the blest,)  

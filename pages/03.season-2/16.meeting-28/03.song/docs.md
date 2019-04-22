@@ -10,7 +10,7 @@ Let Homer’s deep majestic lyre,
 To sing of gods and men aspire,  
 And thundering flash poetic fire,  
 Let fame applauding, shout it  
-Around the earth, and through the earth  
+Around the earth, and through the Earth  
 About it, and about it.  
   
 Give me the thought, give me the line  

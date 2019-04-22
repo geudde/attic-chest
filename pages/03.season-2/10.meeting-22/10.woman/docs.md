@@ -42,7 +42,7 @@ I wave the contest and commence the lays.
 In days of yore (no matter where or when  
 ’Twas ere the low creation swarm’d with men)  
 That one Prometheus, sprung of heavenly birth  
-(Our author’s song can witness) liv’d on earth  
+(Our author’s song can witness) liv’d on Earth  
 He carv’d the turf to mould a manly frame  
 And stole from Jove his animating flame  
 The sly contrivance o’er Olympics ran  

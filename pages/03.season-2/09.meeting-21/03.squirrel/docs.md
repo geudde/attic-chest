@@ -11,7 +11,7 @@ visible: false
 A pris’ner to the gilded cage,  
 &emsp;For no offence confin’d;  
 Poor squirrel, shall tonight engage,  
-&emsp;The muse of pity’s mind.  
+&emsp;The Muse of pity’s mind.  
   
 Who would thy little hardships tell,  
 &emsp;A fav’rite’s woes bewail;  

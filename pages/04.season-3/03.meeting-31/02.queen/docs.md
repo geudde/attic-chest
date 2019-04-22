@@ -41,7 +41,7 @@ By the saints above, it is filled I vow
 “Ah! me! What a blessed bride will be seen,  
 &emsp;When thy love is concentr’d in one —”  
 “Ah no! — dear Mother it never may be  
-My spouse on earth thou never may’st see  
+My spouse on Earth thou never may’st see  
 &emsp;For I’ve sworn to be a nun.”  
   
 “Now loud, & deep, was the queen’s despair  

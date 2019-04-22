@@ -19,7 +19,7 @@ To hail th’ approach of smiling spring
 And fill, alternate fill, the grove,  
 With songs of welcome, lays of love.  
 To day, to day then wherefore pour,  
-Upon this earth this dreadful shower,  
+Upon this Earth this dreadful shower,  
 Oh wherefore, thus unkind, deny,  
 Your parent orb to grace the sky.”  
 &emsp;I spoke, and thus the clouds replied,  

@@ -13,7 +13,7 @@ visible: false
 Through Gotham, famed in days of yore,  
 For wits, and sages, green and hoar,  
 There flowed a river, dull or clear,  
-Has never reach’d the muse’s ear,  
+Has never reach’d the Muse’s ear,  
 But this she knows, two banks it had,  
 With trees and various herbage clad,  
 On which was built a bridge of stone,  
@@ -148,7 +148,7 @@ To prove two blockheads void of sense,
 As clearly proves that Hodge and Sym,  
 In wisdom well might vie with him.  
 A point so nice, our faithful guide,  
-The muse, forbids us to decide —  
+The Muse, forbids us to decide —  
 But she, with sly and sapient sneer  
 Tells of a nation, god knows where!  
 Who when some unimportant jar,  

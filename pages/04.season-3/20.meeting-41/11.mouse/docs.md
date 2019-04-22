@@ -15,7 +15,7 @@ visible: false
 Let loftier bards the hero’s acts relate,  
 I sing the memorable mouse’s fate:  
 Not let a critic ear the theme refuse  
-Immortal made by the Maeonian muse.
+Immortal made by the Maeonian Muse.
 
 ’Twas when the veil of night o’erspread the plain,  
 When bats and fairies, mice and Morpheus reign;  

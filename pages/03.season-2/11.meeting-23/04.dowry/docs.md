@@ -40,7 +40,7 @@ In better worlds to bear them company —
   
 Of piety’s decay in man  
 He sung, whence all his ills began,  
-No longer now in peace and love on earth  
+No longer now in peace and love on Earth  
 Husband and wife were one,  
 Discord had birth!  
 No longer second self, and dearest mate,  
@@ -54,7 +54,7 @@ Gave her rich gifts
 Crowned her with flowers;  
 But Mercury and Aphrodite endued her mind  
 With wily craft to evil ways inclined,  
-A present then to earth she went  
+A present then to Earth she went  
 By Jove to Epimetheus sent;  
 The fair deceit subdued his foolish will,  
 Who as his good embrace a mortal ill;  
@@ -63,8 +63,8 @@ The wretch who took it, thought ’twas glittering ore
 And stretched an eager hand to seize the store,  
 Pandora raised the top, when out there flew  
 Evil, and miseries, a horrid crew;  
-O’er earth and ocean they like lightning bound  
-And earth and ocean quickly they surround;  
+O’er Earth and ocean they like lightning bound  
+And Earth and ocean quickly they surround;  
 Pandora wondered at the dismal view,  
 And closed the vase, lest hope should fly out too;  
 This, then, is what we have gained in evil hour  

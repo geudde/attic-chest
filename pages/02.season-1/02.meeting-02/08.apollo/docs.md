@@ -22,7 +22,7 @@ Those girls said he have made a longer day,
 Than I intended for their holiday,  
 And I could wish, if you’ve a little leisure  
 That you should tell them, ’tis my will and pleasure  
-Each truant muse shou’d pack up gowns and laces,  
+Each truant Muse shou’d pack up gowns and laces,  
 And quit, for Helicon all public places.  
 Mercurius bow’d, and said, “with Jove’s permission”  
 He would set out, on this his honour’s mission.  

@@ -10,88 +10,88 @@ visible: false
 
 #### A Catholic Story  
   
-There once was a Painter in Catholic Days,  
-&emsp;Like Job, who eschewed all Evil;  
-Still on his Madonnas the curious may gaze  
-With Applause & Amazement, but chiefly his Praise  
-&emsp;And Delight, was in painting the Devil.  
+There once was a painter in Catholic days,  
+&emsp;Like Job, who eschewed all evil;  
+Still on his madonnas the curious may gaze  
+With applause & amazement, but chiefly his praise  
+&emsp;And delight, was in painting the devil.  
   
-They were Angels compar’d to the Devils he drew,  
-&emsp;Who beseig’d poor St Anthony’s Cell;  
+They were angels compar’d to the devils he drew,  
+&emsp;Who beseig’d poor St Anthony’s cell;  
 Such hot burning eyes, such a d--nable hue,  
-You could even smell Brimstone, their breath was so blue,  
-&emsp;He painted the Devil as well.  
+You could even smell brimstone, their breath was so blue,  
+&emsp;He painted the devil as well.  
   
-And now had the Artist a Picture begun,  
-&emsp;’Twas over the Virgin’s church Door;  
-She stood on the Dragon, embracing her Son;  
-Many Devils already this Painter had done,  
+And now had the artist a picture begun,  
+&emsp;’Twas over the Virgin’s church door;  
+She stood on the dragon, embracing her son;  
+Many devils already this painter had done,  
 &emsp;But this must out do all before.  
   
-The old Dragons Imps, as they fled thro’ the air,  
+The old dragon’s imps, as they fled thro’ the air,  
 &emsp;At seeing it, paus’d on the wing;  
-For he had the likeness so just to a Hair  
+For he had the likeness so just to a hair  
 That they came as if Apollyon himself had been there,  
-&emsp;To pay their Respects to their King.  
+&emsp;To pay their respects to their king.  
   
-Ev’ry Child at beholding it, shiver’d with dread,  
+Ev’ry child at beholding it, shiver’d with dread,  
 &emsp;And scream’d as he turn’d away quick:  
 Not an old woman saw it, but, raising her head,  
-Dropt a bead, made a Cross on her wrinkles, and said,  
+Dropt a bead, made a cross on her wrinkles, and said,  
 &emsp;“God help me from ugly Old Nick!”  
    
-What the Painter so earnestly thought on by Day,  
+What the painter so earnestly thought on by day,  
 &emsp;He sometimes would dream of by night:  
 But once he was startled as sleeping he lay,  
-’Twas no Fancy, no Dream — he could plainly survey  
-&emsp;That the Devil himself was in sight.  
+’Twas no fancy, no dream — he could plainly survey  
+&emsp;That the devil himself was in sight.  
   
-“You rascally Dauber,” old Beelzebub cries,  
+“You rascally dauber,” old Beelzebub cries,  
 &emsp;“Take heed how you wrong me again!  
-Though your Caricatures for myself I despise,  
-Make me handsomer now in the multitude’s Eyes,  
+Though your caricatures for myself I despise,  
+Make me handsomer now in the multitude’s eyes,  
 &emsp;Or see if I threaten in vain!”  
   
-Now the Painter was bold, and religious beside,  
-&emsp;And on Faith he had certain Reliance:  
-So, earnestly he all his Countenance ey’d,  
-And thank’d him for sitting, with Catholic Pride,  
+Now the painter was bold, and religious beside,  
+&emsp;And on faith he had certain reliance:  
+So, earnestly he all his countenance ey’d,  
+And thank’d him for sitting, with Catholic pride,  
 &emsp;And sturdily bade him defiance.  
   
-Betimes in the morning the Painter arose,  
+Betimes in the morning the painter arose,  
 &emsp;He is ready as soon as ’tis light;  
-Ev’ry look, ev’ry line, ev’ry Feature he knows,  
-’Tis fresh in his Eye, to his Labor he goes,  
+Ev’ry look, ev’ry line, ev’ry feature he knows,  
+’Tis fresh in his eye, to his labor he goes,  
 &emsp;And he has the wicked on quite.  
   
-Happy man! He is sure the Resemblance can’t fail,  
+Happy man! He is sure the resemblance can’t fail,  
 &emsp;The tip of his nose is red hot,  
-There’s his Grin and his Fangs, his Skin cover’d with Scale,  
-And that — the identical Curl in his Tail,  
-&emsp;Not a mark, not a Claw is forgot.  
+There’s his grin and his fangs, his skin cover’d with scale,  
+And that — the identical curl in his Tail,  
+&emsp;Not a mark, not a claw is forgot.  
   
-He looks, and retouches again with Delight,  
-&emsp;’Tis a Portrait complete to his mind;  
-He touches again, and again feeds his Sight,  
-He looks round for Applause, and he sees with affright,  
-&emsp;*The Original* standing behind.  
+He looks, and retouches again with delight,  
+&emsp;’Tis a portrait complete to his mind;  
+He touches again, and again feeds his sight,  
+He looks round for applause, and he sees with affright,  
+&emsp;*The original* standing behind.  
   
 “Fool! Idiot!” old Beelzebub grinn’d as he spoke,  
-&emsp;And stampt on the Scaffold in ire;  
-The Painter grew pale, for he knew it no joke,  
-’Twas a terrible Height, & the Scaffolding broke,  
-&emsp;The Devil could wish it no higher.  
+&emsp;And stampt on the scaffold in ire;  
+The painter grew pale, for he knew it no joke,  
+’Twas a terrible height, & the scaffolding broke,  
+&emsp;The devil could wish it no higher.  
   
 “Help! Help me! O Mary!” he cried in alarm,  
-&emsp;And the Scaffold sank under his Feet:  
-From the Canvas the Virgin extended her arm,  
-She caught the good Painter, she sav’d him from harm;  
-&emsp;There were Thousands who saw, in the Street.  
+&emsp;And the scaffold sank under his feet:  
+From the canvas the Virgin extended her arm,  
+She caught the good painter, she sav’d him from harm;  
+&emsp;There were thousands who saw, in the street.  
   
-The old Dragon fled, when the Wonder he spied,  
-&emsp;And curs’d his own fruitless Endeavour;  
-While the Painter call’d after, his Rage to deride,  
-Shook his Pallet & Brushes in Triumph, and cried,  
+The old dragon fled, when the wonder he spied,  
+&emsp;And curs’d his own fruitless endeavour;  
+While the painter call’d after, his rage to deride,  
+Shook his pallet & brushes in triumph, and cried,  
 &emsp;“I’ll paint thee more ugly than ever!”  
   
 Andrew Aguecheek

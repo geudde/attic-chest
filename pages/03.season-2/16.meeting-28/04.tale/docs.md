@@ -28,7 +28,7 @@ To make you busy, active, gay?”
 For Mommy to the shop is gone,  
 Till she comes back we can have none.”  
 All further questions I forbore;  
-Then walked away, and mused the more;  
+Then walked away, and Mused the more;  
 &emsp;But Ah! my thoughts had lost their joys,  
 &emsp;Because of these three little boys,  
 &emsp;That had nor meat, nor drink, nor toys.  

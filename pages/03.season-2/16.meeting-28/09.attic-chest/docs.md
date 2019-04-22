@@ -31,7 +31,7 @@ Their tuneful genius, and my name
 But should this pleasing prospect fail  
 Should “Hope but tell a flattering tale”  
 And I no more around your Chest  
-Impatience in your looks exprest  
+Impatience in your looks expressed  
 Shall see you watch your Classic Box  
 Till Ellen’s hand my store unlocks  
 Still I may hope in grief or glee  

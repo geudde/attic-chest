@@ -13,56 +13,56 @@ In favour of Hermes, he raged and he stormed
 With anger he reddened as when he foreshows  
 To terror struck mortals fresh combats and woes  
 And seizing his helmet, his spear and his shield  
-<span data-tippy="He challenged" class="green">Challenged</span> the Gods all at once to the field  
+<span data-tippy="He challenged" class="green">Challenged</span> the gods all at once to the field  
 <span data-tippy="And" class="green">He</span> swore, that to Hermes he never would yield.  
   
 But Pallas stept forward, and counselled her brother  
 For the present at least his fierce anger to smother,  
-Since openly thus at his Father to fly  
+Since openly thus at his father to fly  
 Would fill with contention and clamour the sky.  
 And Jupiter then in his choler might send him  
 To Hades, where tortures for ever might rend him  
 Nor their sorrows or prayers could avail to befriend him  
 She therefore advised he should use his endeavour  
 His rights to preserve, and yet keep in Jove’s favour  
-“And since with your Laurel my Olive they blend  
+“And since with your laurel my olive they blend  
 Your suit with the members I’m bound to befriend  
-And propose that we straight convene each Constellation  
-To hold in the Evening a <span data-tippy="close consultation" class="green">consultation</span>.”   
+And propose that we straight convene each constellation  
+To hold in the evening a <span data-tippy="close consultation" class="green">consultation</span>.”   
   
 #### Vox Stellarum  
   
 All ye who remember the Vox Planetarum  
 Attend to my verse, ’tis the last Vox Stellarum  
-Nor let the great Moore, of Astrologers King  
+Nor let the great Moore, of astrologers king  
 Think I mean to depose him, I mean no such thing  
 For I frankly declare, that I have no pretension  
-To rival his Learning, his Art, or *Invention*  
+To rival his learning, his art, or *invention*  
 We know his vast genius directs and controls  
-States, Kingdoms and Kings, from the Line to the Poles  
+States, kingdoms and kings, from the line to the poles  
 Yet to build up a scheme, for a contest between  
-Two Gods or two Planets — his wisdom I ween  
+Two gods or two planets — his wisdom I ween  
 Would disdain to attend to a subject so mean  
-Tho’ the Doctor erewhile, all the world will attest  
+Tho’ the doctor erewhile, all the world will attest  
 Has graced with his presence our classical Chest.  
   
-It was Night, on my Pillow I pensive reclined  
+It was night, on my pillow I pensive reclined  
 And poems intended revolved in my mind,  
-When in a bright blaze of ineffable Light,  
-Jove’s Messenger, Iris, appeared to my sight  
+When in a bright blaze of ineffable light,  
+Jove’s messenger, Iris, appeared to my sight  
 When briefly the story ensuing she told.  
 To the Attic Society bade me unfold  
   
 “I therefore have called you, that if you approve  
-Of my plea, you may straight seek the Mansion of Jove  
+Of my plea, you may straight seek the mansion of Jove  
 To entreat, at the first since unbiass’d their choice  
 That now if I yield, I may yield to their voice.  
 And of all information now fully possest  
 Your suffrages, Mars and Minerva request!”  
   
 When Mars had conclud’d, to banish disorder  
-’Twas agreed that the Stars should all speak in their order  
-That those next the Pole, should the parley commence  
+’Twas agreed that the stars should all speak in their order  
+That those next the pole, should the parley commence  
 And the others succeed in their oder from thence.  
   
 But th’events which at this starry council befell  
@@ -70,7 +70,7 @@ If my strains you approve, the next reading shall tell.
   
 --- 
   
-The order of speaking determined the Bear  
+The order of speaking determined the bear  
 His thoughts on the subject began to declare,  
 He briefly observed he had little to say  
 Except, that as he was a creature of prey,  
@@ -78,59 +78,59 @@ Of course he should follow where Mars led the way,
 And if with his rival he happened to meet,  
 He should have an embrace, much too strict, to be sweet,  
 They smiled, and next Draco[^1] began (who of yore  
-Was Minerva’s own Watchman and slept at her door  
-But since that sage Goddess from Athens was chased  
+Was Minerva’s own watchman and slept at her door  
+But since that sage goddess from Athens was chased  
 In the skies, to reward his attention was placed,  
-Where now through the Aether his volumes are rolled  
-And the Pole of the Ecliptic involved in his fold.)  
+Where now through the aether his volumes are rolled  
+And the pole of the ecliptic involved in his fold.)  
   
-“Since my blue-eyed Protectress left Attica’s plain  
+“Since my blue-eyed protectress left Attica’s plain  
 To assume in the skies her erratic domain  
 On Earth she ala! has disdained to abide  
-And by Cunning and Craft has her place been supplied,  
-Who to Alchemists, Lawyers, Projectors gave birth,  
-And the whole tribe of Flatterers, infesting the Earth  
+And by cunning and craft has her place been supplied,  
+Who to alchemists, lawyers, projectors gave birth,  
+And the whole tribe of flatterers, infesting the Earth  
 Whose project and schemes, in foundation unsound  
 Have sooner, or later, all dropt to the ground.”  
   
 “Till moved by the prayers of the best of the race  
-To Mortals at length, she discovered her face [^2]  
+To mortals at length, she discovered her face [^2]  
 And finding with sorrow upon her return,  
-Greece no longer was fit for Goddess’ sojourn,  
+Greece no longer was fit for goddess’ sojourn,  
 The relics of all she had formerly loved,  
-To other Dominions with care she removed,  
+To other dominions with care she removed,  
 Among them the Chest, which has caused this debate,  
 And whose story you know, so I need not relate,  
 Save that when fair Minerva had settled her plan  
 And the Attic amusements at first were began,  
-She appointed her Brother to reign on their night  
+She appointed her brother to reign on their night  
 Which I therefore esteem his unchangeable right.  
 Next Cepheus whose rule Ethiopia obeyes  
 Declared from what his predecessors had said  
-That if any change should be made in the Night  
+That if any change should be made in the night  
 To Jupiter only could Mars yield his right:  
 For Mars also voted Cassiope fair  
 Who dared with the Nereids her charms to compare,  
 And who now sits forever enthroned in her chair,  
 And Perseus and she whom his prowess did save  
 When condemned for <span data-tippy="another’s" class="green">her mother’s</span> vain pride to the grave;  
-For Mercury voted the Charioteer  
+For Mercury voted the charioteer  
 The Lion and Bootes, for Mars did appear  
-For Cyllenius the Crown, for Mars Hercules rose  
-Nor his plea did the Lyre of <span data-tippy="the Muses" class="green">Apollo</span> oppose,  
+For Cyllenius the crown, for Mars Hercules rose  
+Nor his plea did the lyre of <span data-tippy="the Muses" class="green">Apollo</span> oppose,  
 And next Cygnus her wishes began to disclose  
 ’Tis my pleasing employment from Lethe’s black stream  
-To rescue each Poet, or Orator’s name,”  
+To rescue each poet, or orator’s name,”  
   
-“And on tablets engraved to consign them to Fame  
-And oft have I view’d on these Tablets exprest  
+“And on tablets engraved to consign them to fame  
+And oft have I view’d on these tablets expressed  
 Names beloved by the Muses, and dear to the Chest  
 Which preserv’d from oblivion shall ever remain  
-And Envy, and Time, will attack them in vain!  
-In their Poems I found if Mars did not inspire  
+And envy, and time, will attack them in vain!  
+In their poems I found if Mars did not inspire  
 At least that he lent them additional fire,  
 And therefore for this I esteem it were best  
-That beneath his protection, their Labours should rest.”  
+That beneath his protection, their labours should rest.”  
   
 E-N-R  
   
@@ -140,61 +140,61 @@ The Fox next arose, and he tried by a smile,
 To conceal from his hearers his bosom’s deep guile:  
 “It grieves me,” he said, “of this contest to hear  
 And I dread lest at length it disorder the sphere,  
-For when two such great Gods for dominion contend  
+For when two such great gods for dominion contend  
 It is hard to <span data-tippy="find out" class="green">forsee</span>where their quarrel may end.  
 You are all well aware of the disinclination  
 I have ever expressed against all innovation  
 Yet such evident good on this change must attend  
 That Mercury’s plea I am forced to befriend,  
-The Muses reclined on some favorite Mountain,  
-When the Bay and the Olive o’ershadow the Fountain  
+The Muses reclined on some favorite mountain,  
+When the bay and the olive o’ershadow the fountain  
 To its soft flowing waters their voices unite,  
-And sing of Love’s pains or of rural delight  
-The Seasons that change, or the Stars as they move,  
-Or raise their loud Hymns, to omnipotent Jove;  
-But they fly when the Trumpet’s <span data-tippy="loud" class="green">shrill</span> clangour alarms  
-Nor mingle their songs with the clashing of Arms.  
-The City laid waste, or the harvest destroyed,  
+And sing of love’s pains or of rural delight  
+The seasons that change, or the stars as they move,  
+Or raise their loud hymns, to omnipotent Jove;  
+But they fly when the trumpet’s <span data-tippy="loud" class="green">shrill</span> clangour alarms  
+Nor mingle their songs with the clashing of arms.  
+The city laid waste, or the harvest destroyed,  
 On which for support its whole people relied,  
-The brave Warrior’s fate, or the Patriot’s bier  
+The brave warrior’s fate, or the patriot’s bier  
 May draw from the Muse as she passes a tear;  
 But she hastens to realms where no discord is found,  
-And where Plenty, and Peace, shed their blessing around  
+And where plenty, and peace, shed their blessing around  
 Hence with Mars it is plain, they can never unite,  
-And the <span data-tippy="Attics" class="green">readings</span> ought not to be held on his Night.”  
+And the <span data-tippy="Attics" class="green">readings</span> ought not to be held on his night.”  
   
 “But Cyllenius who if dire Tisiphone rose,  
-With his Magical Rod, could the Fury compose,  
-Of Letters th’inventor, of commerce the friend,  
-A Herald your charge always prompt to attend,  
-Of Magic the Sire (but no Magic they need  
-Whose Nymphs can so well in enchantment succeed)  
+With his magical rod, could the fury compose,  
+Of letters th’inventor, of commerce the friend,  
+A herald your charge always prompt to attend,  
+Of magic the sire (but no magic they need  
+Whose nymphs can so well in enchantment succeed)  
 Mathematics thro’ them, to Terpsichore yield  
-And Castles, and Palaces, fade from the field,  
+And castles, and palaces, fade from the field,  
 Their smile the grave sculptor entices, and draws  
-From his desk e’en the sable expounder of Laws  
-Nay the Children of Chiron its sway have confest  
-And Painters, and Soldiers, have honoured the Chest  
+From his desk e’en the sable expounder of laws  
+Nay the children of Chiron its sway have confest  
+And painters, and soldiers, have honoured the Chest  
 Then since so many talents in Hermes combine  
-And Jove for the Night does all contest decline  
+And Jove for the night does all contest decline  
 To <span data-tippy="Cyllenius" class="green">Hermes</span> let Mars his dominion resign.  
 Thus artful he spoke, and the arrow replied,  
 ’Tis in vain you endeavour your cunning to hide,  
 Shall he, who so lately was placed in the sphere,  
 And then thro’ his art, not his merit, I fear —   
 Shall sly Renard against innovation declare  
-Innovation alone placed his worship in Heaven  
+Innovation alone placed his worship in heaven  
 But while he pretends to condemn innovation  
 Still in Mercury’s favour he makes declaration  
-Sure the Goose which he carries, his speech must inspire  
+Sure the goose which he carries, his speech must inspire  
 Or perhaps, we the depth of his art should admire  
-It is true the fair Nine, fly from Anarchy far,  
-Nor blow the shrill Trumpet, nor mingle in War,  
-But oft when in Battle two Armies unite,  
-They gaze on the Field from a neighbouring height.”  
+It is true the fair Nine, fly from anarchy far,  
+Nor blow the shrill trumpet, nor mingle in war,  
+But oft when in battle two armies unite,  
+They gaze on the field from a neighbouring height.”  
   
-“And if some brave Patriot attention should claim  
-Their songs give his actions forever to Fame.  
+“And if some brave patriot attention should claim  
+Their songs give his actions forever to fame.  
 Hence Achilles, and Ajax, and Hector survive,  
 Hence Eneas and Turnus forever shall live.  
 Hence Orlando, Rinaldo, and great Charlemain  
@@ -204,53 +204,53 @@ And I therefore to Mars, give my suffrage with joy.”
   
 He spoke and sly Renard endeavoured in vain  
 <span data-tippy="Permission once more to address them again" class="green">To make a new speech as he said to explain</span>  
-But to order he quickly is called by the Fly  
+But to order he quickly is called by the fly  
 And order, resounds from all parts of the sky  
-Next the Eagle began, and in Mercury’s favour  
+Next the eagle began, and in Mercury’s favour  
 (As expected by all) used his utmost endeavour,  
 For of old, when <span data-tippy="Astarte" class="green">fair Venus</span> had smitten the heart,  
 Of the wily Cyllenius, he tried all his art,  
 For a smile or a look, but with little success  
-Till the Eagle with pity, beheld his distress  
+Till the eagle with pity, beheld his distress  
 And in Achelons as she bathed, he purloined,  
-Her Sandal, and swiftly to Hermes consigned,  
+Her sandal, and swiftly to Hermes consigned,  
 Who the prize to its owner refused to return  
-And the Goddess, the suppliant became in her turn  
+And the goddess, the suppliant became in her turn  
 Hence Hermes his friend, to requite for his care  
 Procured him the place he now holds in the sphere  
-The benevolent Dolphin, whose kindness did save  
-The Son of Ulysses of yore, from the wave,  
+The benevolent dolphin, whose kindness did save  
+The son of Ulysses of yore, from the wave,  
 Who rescued Arion, Palemon and bore  
 The corpse of poor Hesiod, again to the shore  
-Who in Heaven for his kindness to Mortals was placed  
+Who in heaven for his kindness to mortals was placed  
 With his suffrage the cause of the Argicide graced  
 But Pegasus rose, and declared as the friend  
 Of the Muses, he must to their interests attend,  
-That the whole tribe of Poets he feared they would find  
-To pilfering by Nature, were too much inclined.  
+That the whole tribe of poets he feared they would find  
+To pilfering by nature, were too much inclined.  
 And therefore, should Hermes be placed at their h<span data-tippy="missing" class="red">[...]</span>   
 From their thefts, and their tricks, we sad mischief might d<span data-tippy="missing" class="red">[...]</span>   
-The Fly, once the rival of Phoebe the bright  
-For the love of Endymion, that Goddess to spite  
+The fly, once the rival of Phoebe the bright  
+For the love of Endymion, that goddess to spite  
 Hearing she for Mercurius the first had proposed  
 For his rival, directly her wishes disclosed.  
-The Ram, who the children of Athamus bore  
+The ram, who the children of Athamus bore  
 When they fled from their stepmother Ino, of yore  
 To Mars, when at Colchos, by Phrygus devoted  
 For him (as his God) with celerity voted.  
   
-The Bull that Europa conveyed o’er the wave  
+The bull that Europa conveyed o’er the wave  
 His voice to the offspring of Maia now gave.  
 The daughters of Atlas, the Hyades named  
 With their sister the Pleiads for chastity famed  
 Who the shipwrecked accuse, as the cause of their woes  
 With their votes, the protector of commerce oppose  
-The Brethren to whom <span data-tippy="Clytemnestra" class="green">beauteous Leda</span> gave birth  
+The brethren to whom <span data-tippy="Clytemnestra" class="green">beauteous Leda</span> gave birth  
 For fraternal affection renowned upon Earth.  
-Old Ocean’s dominion from Pirates who freed  
+Old ocean’s dominion from pirates who freed  
 With their voices in favour of Hermes decreed  
-The Crab on the side of Cyllenius declares  
-But the Lion, his vote, gives in favour of Mars.  
+The crab on the side of Cyllenius declares  
+But the lion, his vote, gives in favour of Mars.  
   
 E.N.R.  
   

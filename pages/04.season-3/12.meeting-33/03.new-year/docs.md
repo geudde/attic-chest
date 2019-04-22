@@ -8,77 +8,77 @@ visible: false
 
 <div class="author">Mrs Richardson</div>
 
-Its annual circuit round the Sun  
+Its annual circuit round the sun  
 Again the toiling Earth has run,  
-Again as one sad Year retires,  
-Another, new-born Hope inspires.  
+Again as one sad year retires,  
+Another, new-born hope inspires.  
 Experience cannot quite control  
-This inward Breathing of the Soul,  
-Nor Reason totally subdue,  
-Whilst our defeated Plans we view  
-The eager Wish, to plan anew  
+This inward breathing of the soul,  
+Nor reason totally subdue,  
+Whilst our defeated plans we view  
+The eager wish, to plan anew  
   
-The restless Vigor of the Mind,  
+The restless vigor of the mind,  
 Whilst doom’d on Earth to be confin’d,  
-*Will* start by Fits, to some new Goal:  
-*Will* seek some visionary Pole,  
+*Will* start by fits, to some new goal:  
+*Will* seek some visionary pole,  
 Yet chasten’d still must be *her* Sight,  
-For if her Beam, too strongly bright,  
-Suddenly ’scape the raptur’d Gaze,  
-The Spirit, lost in dread Amaze,  
-Toss’d from its Balance unaware,  
-Becomes the Victim of Despair.  
+For if her beam, too strongly bright,  
+Suddenly ’scape the raptur’d gaze,  
+The spirit, lost in dread amaze,  
+Toss’d from its balance unaware,  
+Becomes the victim of despair.  
   
-How then to navigate this Shore?  
+How then to navigate this shore?  
 Its currents stem? Its shallows explore?  
-To guard against each Vortex wide?  
-To struggle with the foaming Tide?  
-To shun the Rocks? To clear the Strands?  
-And work thro’ all the shifting Sands?  
-To meet the Shock of adverse Winds,  
-When Terror, Circumspection blinds?  
-Our doubtful Course compell’d to take,  
-Where fatal oft the first Mistake,  
-How frequently, in early Years,  
-When rash unthinking Passion steers,  
-Is the poor Bark borne wide astray,  
-Ne’er to regain its wonted Way.  
-How often wrecked in Sight of Land,  
-While griev’d Spectators wishing stand,  
-Unable to avert its Fate,  
-Or of its Course extend the Date!  
+To guard against each vortex wide?  
+To struggle with the foaming tide?  
+To shun the rocks? To clear the strands?  
+And work thro’ all the shifting sands?  
+To meet the shock of adverse winds,  
+When terror, circumspection blinds?  
+Our doubtful course compell’d to take,  
+Where fatal oft the first mistake,  
+How frequently, in early years,  
+When rash unthinking passion steers,  
+Is the poor bark borne wide astray,  
+Ne’er to regain its wonted way.  
+How often wrecked in sight of land,  
+While griev’d spectators wishing stand,  
+Unable to avert its fate,  
+Or of its course extend the date!  
   
-But blest with kindly Gales and Skies,  
-See yonder prosp’rous Vessell flies,  
-The Guide not more of Virtue arm’d,  
-Or of its Risques by Fear alarm’d;  
-Smoothly it cuts its wat’ry Way,  
-Nor ever meets one frowning Day.  
+But blest with kindly gales and skies,  
+See yonder prosp’rous vessel flies,  
+The guide not more of virtue arm’d,  
+Or of its risques by fear alarm’d;  
+Smoothly it cuts its wat’ry way,  
+Nor ever meets one frowning day.  
 Yet shall we say that such are blest?  
-Or dare interpret Heaven’s Behest?  
-What to our Thoughts may Bliss appear,  
-Perhaps is made a Proof severe  
-Of Virtue which the Storm could brave  
-But in the calm Sea finds its Grave.  
+Or dare interpret heaven’s behest?  
+What to our thoughts may bliss appear,  
+Perhaps is made a proof severe  
+Of virtue which the storm could brave  
+But in the calm sea finds its grave.  
   
-Then let us not by Shews be caught,  
-Nor, weak reject the bitter Draught;  
-In Anger, if the Cup be given,  
-’Tis just we feel the Scourge of Heaven;  
-While oft in stern Misfortune’s School  
-We learn our Frailties to o’errule.  
+Then let us not by shews be caught,  
+Nor, weak reject the bitter draught;  
+In anger, if the cup be given,  
+’Tis just we feel the scourge of heaven;  
+While oft in stern misfortune’s school  
+We learn our frailties to o’errule.  
 A conquest rare to be acquir’d  
-Possessing all our Souls desir’d.  
+Possessing all our souls desir’d.  
   
-&emsp;Be it in Future then our Pray’r  
-&emsp;Those simple Gifts alone to share,  
+&emsp;Be it in future then our pray’r  
+&emsp;Those simple gifts alone to share,  
 &emsp;Beings so prone to err can bear.  
   
-In this consoling Thought to trust,  
-That Heav’n is merciful and just:  
+In this consoling thought to trust,  
+That heav’n is merciful and just:  
 That if resign’d we meet its will,  
-Intent our Duties to fulfil,  
-We speed the Dawn of that bright Day  
-Which all our Grief shall bear away,  
-Which brings the patient Mourner Rest,  
+Intent our duties to fulfil,  
+We speed the dawn of that bright day  
+Which all our grief shall bear away,  
+Which brings the patient mourner rest,  
 And, as we suffer, makes us blest.

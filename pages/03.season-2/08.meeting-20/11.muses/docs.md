@@ -163,7 +163,7 @@ Through the bright belt described a radiant line
 As when some meteor in the kindling air  
 Shews his bright face and shakes his burning hair  
 Fools portending bloody wars and woe,  
-And plagues and tempests to the earth below  
+And plagues and tempests to the Earth below  
 Thus with such Light the lovely Muses shone,  
 In their swift course through the celestial zone.  
 While on its light the wise admiring gaze  

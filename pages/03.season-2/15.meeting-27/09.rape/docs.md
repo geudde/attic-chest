@@ -179,7 +179,7 @@ An hideous chasm met her eye,
 And through the chasm the victor gnome,  
 &emsp;With smile triumphant rose;  
 To bear her to his secret home,  
-&emsp;And in the earth inclose.  
+&emsp;And in the Earth inclose.  
   
 26  
   
@@ -199,7 +199,7 @@ But when one year his course has run,
   
 “Till then forbade by mightier powers,  
 &emsp;To bear thee to my cell;  
-Or pass on earth my tedious hours,  
+Or pass on Earth my tedious hours,  
 &emsp;Within my cave I dwell.”  
   
 29  

@@ -15,7 +15,7 @@ Ah! why should ladies formed to please
 Seduced by listless love of ease  
 &emsp;Thus deviate from the path of duty;  
 And when yon sun, that shines so bright,  
-&emsp;Enlivens earth and all brute natures  
+&emsp;Enlivens Earth and all brute natures  
 Obscure those brighter suns in night,  
 &emsp;Ordained t’enliven two-legg’d creatures.  
 Alas! that sun, perceives your crime  

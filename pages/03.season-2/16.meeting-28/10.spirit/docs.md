@@ -16,7 +16,7 @@ Five months the sweets of freedom to deplore,
 What melancholy thoughts in order rise!  
 &emsp;When I reflect, a willing pris’ner here;  
 My darling mistress, seeking purer skies,  
-&emsp;Soars with the muses to the solar sphere,  
+&emsp;Soars with the Muses to the solar sphere,  
   
 And thither in her careful hand she bears,  
 &emsp;The varied tribute of each anxious bard;  

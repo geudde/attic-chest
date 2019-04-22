@@ -16,7 +16,7 @@ visible: false
 &emsp;Where wit resplendent ever shines,  
 And numerous beauties play;  
 &emsp;I seize my pen, but half afraid,  
-&emsp;First call the muses to my aid,  
+&emsp;First call the Muses to my aid,  
 To hail your natal day.  
   
 #### 2  

@@ -15,7 +15,7 @@ Of thy poetic Chest, fair maid I lay,
 Long as a Lapland night, the term I guess  
 Unseen thy smiles, unseen the light of day.  
 The summer months flew by, unmark'd by me  
-Unhappy captive of the infant muse,  
+Unhappy captive of the infant Muse,  
 Who careless sporting in the sunny ray  
 Forgot her Chest, forgot her poor recluse...  
   

@@ -22,7 +22,7 @@ Who taught mid Pindus’ sacred shade
   
 Till taught by them, his highest aim  
 &emsp;Adore, at most a Shepherd’s heart,  
-The muses found him better game  
+The Muses found him better game  
 &emsp;In Gods and Heroes fix’d his dart.  
 
 Then Love assumed a nobler form,  
@@ -38,13 +38,13 @@ He lives but in the Muses’ lays,
   
 In lofty Homer’s softer strain,  
 &emsp;Love join’d with constancy we view,  
-But Ah! on earth we seek in vain,  
+But Ah! on Earth we seek in vain,  
 &emsp;We cannot find the picture true.  
   
 We, in those times, with truth suppose  
 &emsp;Who loved the most would sing the best,  
 But now we find his pains, by those,  
-&emsp;Who never felt the smart exprest.  
+&emsp;Who never felt the smart expressed.  
   
 And as they range from fair to fair,  
 &emsp;Of each with equal warmth they sing,  

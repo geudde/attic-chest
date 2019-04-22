@@ -50,7 +50,7 @@ With gentle heart to bear its strife.
 
 To meet the shock of fate be yours  
 And rear aloft th’unatten’d brow;  
-Though thunders shake the rending earth  
+Though thunders shake the rending Earth  
 And towns and regal towers are low.
 
 R. Watson

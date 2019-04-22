@@ -15,7 +15,7 @@ Swift to the verdant lawn I haste away,
 I will not e’en to tie my bonnet stay  
 But ere my flying feet attain the grass  
 I must alas all round a corner pass,  
-A box of earth alone impedes my flight,  
+A box of Earth alone impedes my flight,  
 The corner’s long, and well t’will bear my weight  
 I mount it, but in jumping off, my gown  
 Catches the wood, and it is overthrown.  

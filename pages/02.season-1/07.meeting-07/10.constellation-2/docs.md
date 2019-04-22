@@ -31,7 +31,7 @@ And Pegasus flew up at once in the air,
 All around him astonish’d the action surveyed  
 And sketches I’m told by some artists were made.  
 Roberto well pleased with his steed’s easy motion  
-In amazement looked down on the earth and the ocean  
+In amazement looked down on the Earth and the ocean  
 And in London alone was surprised to survey  
 The millions of lines on Saint Valentine’s day.  
 But in spite of their fabled distresses I ween  
@@ -50,7 +50,7 @@ And this was the storm that did Hermes detain.
 Meanwhile rising and rising progressively, soon  
 The horse and the rider arrived at the moon  
 Twas the hour when the sun in his chariot of light  
-Descending leaves earth to the guidance of night  
+Descending leaves Earth to the guidance of night  
 Roberto resolved that he’d stay there awhile  
 And with viewing the wonders an hour would beguile  
 “And when spangl’d all o’er I see night’s garment blue  
@@ -65,7 +65,7 @@ There soon he saw things which will certainly cause one
 To doubt the veracity of Baron Munchaussen.  
 With speed from his saddle our traveller alighted  
 And he seemed with the prospect around him delighted  
-The trees and the shrubs were like those of the earth  
+The trees and the shrubs were like those of the Earth  
 And the flowers such as Flora in summer brings forth  
 On the trees, fruit and flowers were hung  
 And his song to the evening each bird sweetly sung  

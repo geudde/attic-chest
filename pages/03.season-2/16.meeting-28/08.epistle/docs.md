@@ -12,7 +12,7 @@ visible: false
 In answer to your charming note  
 (Where with appropriate beauties vie  
 Both fluent prose and poetry)  
-And let dear maid my hurried muse  
+And let dear maid my hurried Muse  
 The roughness of my verse excuse  
 For stupid full, and prest for time  
 The goddess scarce vouchsafed a rhyme  

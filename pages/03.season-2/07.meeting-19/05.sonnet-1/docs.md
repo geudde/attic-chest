@@ -19,7 +19,7 @@ To me its numbers ever flow,
   
 Mayst thou fair maid be ever blest,  
 &emsp;In mem’ry’s sweetest, choicest measures,  
-(In this is every wish exprest,  
+(In this is every wish expressed,  
 &emsp;For this includes all other pleasures.)  
   
 Thrice happy those whose mental eyes,  

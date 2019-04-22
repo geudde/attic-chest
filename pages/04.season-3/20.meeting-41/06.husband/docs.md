@@ -9,7 +9,7 @@ visible: false
 <div class="author">Communicated by Miss F. Richardson</div>
 
 Awake thou dormant mental fire  
-My vagrant muse again inspire  
+My vagrant Muse again inspire  
 With Fancy’s happiest lay  
 Away on swift poetic wing  
 And from Parnassus hither bring  

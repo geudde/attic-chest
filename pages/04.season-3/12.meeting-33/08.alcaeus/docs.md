@@ -8,15 +8,15 @@ visible: false
 
 <div class="author">Mr Flaxman</div>
 
-Infancy, Youth and hoary Age  
+Infancy, youth and hoary age  
 In dread unequal war engage  
-With Envy, Falsehood deadly strife  
+With envy, falsehood deadly strife  
 Whose ambush hunts down human life.   
-Foul Envy aims her rankling dart,  
-False Friendship cuts the generous heart  
-And blood-stained Strife for rule & gain  
+Foul envy aims her rankling dart,  
+False friendship cuts the generous heart  
+And blood-stained strife for rule & gain  
 Adds to the mind & body’s pain.  
 Yet these can’t always surely kill  
-The Gods! the Gods protect us still.
+The gods! the gods protect us still.
 
 Fulvius Ursinus Graece, 1567

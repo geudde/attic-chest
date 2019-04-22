@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Porden</div>
 
-Oh! why of Memory complain?  
+Oh! why of memory complain?  
 &emsp;Why weep her retrospective power?  
 Oft has she <span data-tippy="cheered" class="green">smoothed</span> the bed of pain,  
 &emsp;And oft beguiled the weary hour.  
@@ -23,7 +23,7 @@ What tho’ the rays at early morn
 What tho’ the brighter beams are shorn  
 &emsp;That gladdened all our noontide course?  
   
-The setting Sun’s serener glance  
+The setting sun’s serener glance  
 &emsp;With milder lustre gilds the shore,  
 And crimson’s all the vast expanse,  
 &emsp;Of that dread sea, we must explore;  
@@ -33,14 +33,14 @@ And as we stand upon its brink,
 Of many a friend, ’tis sweet to think  
 &emsp;That still our truest friends are left.  
   
-Tho’ flattering Hope has oft deceived  
-&emsp;With visionary joys our Youth,  
+Tho’ flattering hope has oft deceived  
+&emsp;With visionary joys our youth,  
 To know, she now may be believed  
-&emsp;While trusting in a Saviour’s truth.  
+&emsp;While trusting in a saviour’s truth.  
   
 As on the joys of yonder shore  
 &emsp;Her glowing thoughts enraptured dwell,  
 ’Tis sweet to know its blessings more,  
-&emsp;Than e’en Seraphic Hope can tell.  
+&emsp;Than e’en seraphic hope can tell.  
   
 P.H.
