@@ -9,21 +9,21 @@ visible: false
 <div class="author">Communicated by Miss Flaxman</div>
 
 On search, I find upon record,
-(From History it is taken)
+(From history it is taken)
 One couple only on their word,
-Did ever win the Bacon.
+Did ever win the bacon.
 
-Yet here’s a Myst’ry wondrous great
+Yet here’s a myst’ry wondrous great
 Which may be known to some
-The Man ’tis said could freely prate,
-The Wife, was Deaf and Dumb!
+The man ’tis said could freely prate,
+The wife, was deaf and dumb!
 
-Then first, this Riddle clear explain,
-Your Wit it just doth suit,
-Why Man the Flitch can never gain
-Unless his Wife’s a Mute?
+Then first, this riddle clear explain,
+Your wit it just doth suit,
+Why man the flitch can never gain
+Unless his wife’s a mute?
 
 1810
 
-A desperate Lover —   
-of Bacon!
+A desperate lover —   
+of bacon!

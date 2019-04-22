@@ -10,7 +10,7 @@ visible: false
 
 Dear Sir  
   
-In a late tour northward, I met with a copy of the enclosed Ballad, which I take the liberty of sending towards an Attic evening amusement, it has been made out partly from oral tradition, and partly from a black letter copy: if I should be fortunate enough to recover the Stanzas wanting (of which I am not entirely hopeless) they also shall be transmitted, and I shall be happy to shew you the black letter original when we meet in the Spring.  
+In a late tour northward, I met with a copy of the enclosed ballad, which I take the liberty of sending towards an Attic evening amusement, it has been made out partly from oral tradition, and partly from a black letter copy: if I should be fortunate enough to recover the stanzas wanting (of which I am not entirely hopeless) they also shall be transmitted, and I shall be happy to shew you the black letter original when we meet in the spring.  
   
 I am  
   
@@ -24,7 +24,7 @@ B
   
 #### Lord Edward, a Ballad  
   
-Lord Edward went to his Silken Bed  
+Lord Edward went to his silken bed  
 And laid him down to rest,  
 But there his thoughts were troubled sore  
 For Ellen, whom he loved best.  
@@ -86,10 +86,10 @@ Without thy saving hand!”
   
 Lord Edward said, “My merry men all,  
 I’ll instant haste to save  
-This Lady fair, and noble Earl,  
+This lady fair, and noble earl,  
 Or with them find a grave!”  
   
-The Merry Men all shouted aloud,  
+The merry men all shouted aloud,  
 “We’ll wend with thee to fight,  
 And stoutly quell this cruel foe,  
 Or die with thee this night!”  
@@ -125,12 +125,12 @@ What news thou hast of the bloody fray,
 That has been so near to thee?”  
   
 “Now Mary save thee! the friar said,  
-Come into the Convent gate.  
+Come into the convent gate.  
 For I am right glad that thou art here,  
 To bring these traitor’s fate.”  
   
 Then they gave bread and they gave wine,  
-To him and his Merry Men all,  
+To him and his merry men all,  
 And told him of the bloody fights  
 Beneath the castle wall.  
   
@@ -145,7 +145,7 @@ They are scattered along the river side,
 The victory’s left for you!”  
   
 “I saw St Martin at the sun rise,  
-As I sung the Matin song,  
+As I sung the matin song,  
 And he said he had a deliverer sent,  
 That was both fierce and strong!”  
   
@@ -176,7 +176,7 @@ With dismal cry and yell!
 Sir Morcar was on the other side  
 Bringing down fresh troops to the ford,  
 With horse and foot and banners flying,  
-Becoming a Mighty Lord!  
+Becoming a mighty lord!  
   
 “Now out alas!” Lord Edward cried  
 “What must we do at the pass,  
@@ -198,7 +198,7 @@ And the sound of the horses’ feet!
 Lord Edward cried aloud, “Sir Morcar!  
 I once did save your life,  
 And now for this good service done,  
-You’d tine me of my Wife!”  
+You’d tine me of my wife!”  
   
 Sir Morcar said, “I am not come here  
 Sure to be shrived by thee!  
@@ -221,11 +221,11 @@ Then slowly they marched back to their homes
 With furl’d banners and all their force.  
   
 Fair Ellinor stood on the castle walls  
-To welcome her Valiant Knight,  
+To welcome her valiant knight,  
 Whose gallant deeds and timely aid  
 Had finished the deadly fight.  
   
-Fair Ellin came down with her Ladies in pall  
+Fair Ellin came down with her ladies in pall  
 To him at the castle gate.  
 Lord Edward went in with foot and horse  
 With pennon and banners in state!  
@@ -233,9 +233,9 @@ With pennon and banners in state!
 Fair Ellinor’s mantle hid her blush,  
 As she passed to her father’s hall.  
 Where the good Earl sat, to welcome Lord Edward,  
-Both him, and his Merry Men all.  
+Both him, and his merry men all.  
   
-“Thou’s saved our castle, thou Valiant Knight,  
+“Thou’s saved our castle, thou valiant knight,  
 Our honour, lives, and lands!  
 Thou hast saved us from that traitorous foe  
 And all his murderous bands!”  

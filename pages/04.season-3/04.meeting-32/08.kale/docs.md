@@ -10,18 +10,18 @@ visible: false
 
 > To its own tune  
   
-There’s Cauld Kale in Aberdeen  
-And Colleges o’ learning  
+There’s cauld kale in Aberdeen  
+And colleges o’ learning  
 In Berners Street has often been  
 A class o’ rare discerning  
-To Attic With they ha’ pretence  
+To Attic wit they ha’ pretence  
 To humour that gies nae offence  
 To social joy and solid sense  
 Ilk art of entertaining.  
   
-There’s Cauld Kale, some may think fine  
+There’s cauld kale, some may think fine  
 And some a glass o’ claret  
-Some prefer the *Whiskey* shine  
+Some prefer the *whiskey* shine  
 And to a friend will spare it  
 But gin ye wish a *mental treat*  
 Wi’ gleefu’ mirth, that gars ye greet  
