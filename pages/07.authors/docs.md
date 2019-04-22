@@ -49,7 +49,7 @@ visible: true
 
 [On Contemplating a Splendid Pile of Ruins](../../season-1/meeting-04/sonnet) → <span class="name"><span class="name">com. Mr. Flaxman</span>  
 [The Three Kisses](../../season-1/meeting-04/kisses) → <span class="name"><span class="name">Mr Joseph</span>  
-<span class="grey">A Description of Monkey Island → Mr Porden</span> <span class="red">(M)</span>  
+<span class="grey">[X] A Description of Monkey Island → Mr Porden</span>    
 [The Queen Anne St. Ghost](../../season-1/meeting-04/ghost) → <span class="name"><span class="name">Mr Parkinson</span>  
 [The Violet](../../season-1/meeting-04/violet) → <span class="name"> <span class="pencil">Violetta</span>    
 
@@ -101,7 +101,7 @@ visible: true
 </div>
 
 [The Jarvey](../../season-1/meeting-06/jarvey) → <span class="name"><span class="name">A young Lady</span>  
-[The Muses Vagaries <span class="pencil">No. 3) ](../../season-1/meeting-06/vagaries</span> → <span class="name">  
+[The Muses Vagaries No. 3](../../season-1/meeting-06/vagaries) →   
 [Constellation No. 1](../../season-1/meeting-06/constellation-1) → <span class="name"><span class="name">Miss Porden</span>  
 
 <div class="bottom">
