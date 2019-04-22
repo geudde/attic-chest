@@ -279,7 +279,7 @@ Do. to Peregrine → <span class="name">Miss Flaxman</span>
 Do. to Ictinus → <span class="name">Do.</span> <span class="alias">(Dido)</span>  
 Do. to Hassan → <span class="name">Do.</span> <span class="alias">(Augusta Valentina)</span>   
 Do. to Somebody →   
-Do. to Roberto → <span class="name"> <span class="alias">(Phoebe)</span>  
+Do. to Roberto → <span class="alias">(Phoebe)</span>  
 Do. to An Architect →   
 Do. to Miss Porden →   
 Do. to Stella → <span class="name">Miss Flaxman</span> <span class="alias">(Moth)</span>  
