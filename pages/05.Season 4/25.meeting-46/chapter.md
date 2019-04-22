@@ -4,8 +4,6 @@ taxonomy:
     category: docs
 ---
 
-### Chapter Number
+# 8 January 1812
 
-# Chapter Title
-
-Chapter description.
+[Editorial](editorial)
