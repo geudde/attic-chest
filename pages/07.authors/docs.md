@@ -699,45 +699,156 @@ The First Book of the Restoration → <span class="name">Miss Porden</span> <spa
 <span class="meeting">No. 47&emsp;(1812-01-22)</span>  
 </div>
 
+To Complaint → Mrs Flaxman (A Novitiate)  
+The Lamentation of the Alderman → Miss Porden (Phagophilus)  
+The Unhappy Soldier’s Last Watch → Miss Flaxman
+Annie’s Bower → Miss Flaxman  
+To Moth → Miss Porden (Stella)
+To Stella → Miss Flaxman (Moth)
+From Brighton to London → Miss Vardill
+The Second Book of the Restoration → Miss Porden [withdrawn]
+
 <div class="bottom">
 <span class="meeting">No. 48&emsp;(1812-02-08)</span>  
 </div>
+
+Love and Wine → Mr Hinckley  
+The Frown and the Smile → Miss Vardill (Donald)  
+The Receipt in Full → Miss Flaxman  
+Yes Once I Met Her Downcast Eyes → (J.P.L.)  
+Wanted Immediately → Miss Brown  
+Rondeau → com. Mr Vignoles (Anti-Fisty)  
+The Remonstrance → Miss Thomson  
+Alterations in the Uniform → Miss Porden  
+Letter to the Editor → Miss Porden (Alopex)  
+The Third Book of the Restoration → Miss Porden [withdrawn]
 
 <div class="bottom">
 <span class="meeting">No. 49&emsp;(1812-02-19)</span>  
 </div>
 
+When First by Gentle Ouse → Miss Vardill (Thief)  
+To Mary → Miss Porden (Amyntor)  
+Forgive Sweet Maid → Miss Porden  
+A New Song to an Old Tune → Govr Franklin  
+When My Bright Ellen → com. Miss Brown
+Not in a Lover’s Humble Strains → com. Miss Vardill  
+To Stella → Miss Flaxman (Moth)  
+Enigmatical Valentine → Miss Vardill  
+Valentine → Miss Porden  
+Answer to the Advertisement → Miss Vardill (A.G.P.)  
+The Fourth Book of the Restoration → Miss Porden [withdrawn]
+
 <div class="bottom">
 <span class="meeting">No. 50&emsp;(1812-03-04)</span>  
 </div>
+
+Account of Mr Bakewell’s first lecture on Geology → Miss Porden [withdrawn]  
+The Exchange of Hearts → Miss Porden  
+The Blighted Rosebud → Miss Sanders  
+To Hope → Miss Porden  
+Answer to the Advertisement → Mr Vignoles  
+Answer to the avertizement → Miss Porden (Dives)
+The Fifth Book of the Restoration → Miss Porden [withdrawn]
 
 <div class="bottom">
 <span class="meeting">No. 51&emsp;(1812-03-18)</span>  
 </div>
 
+Account of Mr Bakewell’s second lecture on Geology → Miss Porden [withdrawn]  
+The Mountain Moss → Miss Sanders (Recluse)  
+And Exile’s Dream → Miss Vardill (A Stranger)  
+Verses Written for an Album → com. Miss Flaxman  
+To Music → Miss Vardill (M.H.F.)  
+To Elorina → Miss Porden (Lothario)  
+Letter from Alopex → Miss Porden  
+The Picture → Miss Sanders (Juliett)
+Addressed to a Brother → Miss Sanders (Eliza  
+Letter from the Advertizing Lady → Miss Brown  
+The Last Book of the Restoration → Miss Porden [withdrawn]
+
 <div class="bottom">
 <span class="meeting">No. 52&emsp;(1812-04-01)</span>  
 </div>
+
+Account of Mr Bakewell’s third lecture on Geology → Miss Porden [withdrawn] 
+To One of the Graces →  Miss Vardill  
+Of Coughs and Colds → Mr Hinckley  
+To Mary → Miss Porden (Alfred) [withdrawn]  
+To Ellen → Miss Vardill  
+The Four First Cantos of the Sylphiad → Mr Vignoles [withdrawn]
 
 <div class="bottom">
 <span class="meeting">No. 53&emsp;(1812-04-15)</span>  
 </div>
 
+Account of Mr Bakewell’s third lecture on Geology → Miss Porden [withdrawn]   
+Charade: Rebellion → Mr Hinckley  
+Enigma: A Kiss → Mr Hinckley  
+To Two of the Graces → Miss Vardill  
+To Mary → Miss Flaxman  
+Letter from Alopex → Miss Porden
+Lines to the West Middlesex Water Company → Miss Porden  
+Answer to the Advertisement → Miss Porden (Damon)  
+The Four Last Cantos of the Sylphiad → Mr Vignoles [withdrawn]
+
 <div class="bottom">
 <span class="meeting">No. 54&emsp;(1812-04-29)</span>  
 </div>
+
+Geological Notes on the Rock Salt of Cheshire → Mr Porden [withdrawn]  
+Letter from Alopex → Miss Porden  
+What tho’ Soft Slumber → Miss Porden  
+Imitated from the Greek → com. Mr Vignoles
+To Friendship → Miss Vardill (Amanda)  
+Reply to Amanda → Miss Porden (Donald)  
+The Advertizing Lady’s Interview → Miss Brown  
+Written with a Crow Quill → Miss Vardill  
+The Remonstrance → Governor Franklin  
+The Farewell → Mr Elliott  
 
 <div class="bottom">
 <span class="meeting">No. 55&emsp;(1812-05-13)</span>  
 </div>
 
+To the Editor of the Attic Chest → Mr Elliott  
+Serenade and Reply → Miss Porden  
+To Emma → Miss Porden  
+To Amanda → Miss Porden (Donald)  
+Account of the Interview → Miss Porden (T.S.)  
+The Advertising Lady’s Rejection → Miss Brown  
+To the Fair Advdertiser → Miss Porden  
+Song from the Advertising Lady → Mrs Staveley  
+The First of May →  Mrs Staveley  
+To Donald → Miss Vardill (Amanda)
+
 <div class="bottom">
 <span class="meeting">No. 56&emsp;(1812-05-27)</span>  
 </div>
 
+Letter from Alopex to the Editress → Miss Porden  
+Answer to the Unfortunate Spinster → Miss Porden (Antigynes)    
+Answer to the Advertisement from Blue Eye → Mrs Staveley  
+Letter from the West Indian → Miss Vardill  
+The Blue Eye → Miss Porden  
+Answer from Donald → Miss Porden  
+Lady Flora → Miss Vardill  
+To Anna on Her Birthday → Miss Porden
+
 <div class="bottom">
 <span class="meeting">No. 57&emsp;(1812-06-17)</span>  
 </div>
+
+The Wish → com. Mr Vignoles  
+To the Butterfly → Miss Flaxman  
+Amid this Festive Scene → Miss Porden  
+Rules Formed to Promote Regularity → com. Mrs Staveley  
+Old Joan → Governor Franklin  
+Adieu → Mr Vignoles  
+To Stella → Miss Flaxman  
+Blessed be the Eye → Miss Vardill  
+Ode for the Concluding Night → Mr Elliott  
+Adieu my Patrons → Miss Porden
 
 <div class="bottom">
 <span class="meeting">No. 58&emsp;(1813-03-17)</span>  
