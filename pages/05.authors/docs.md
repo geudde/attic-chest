@@ -242,9 +242,9 @@ Rebecca. A Ballad → <span class="name">Sir John Carr</span>
 Address to a Gentleman on His Birthday → <span class="name">Mr Vignoles</span> (B.R.)  
 Anacreontic → <span class="name">Mr Flaxman</span> (Anacreonides)  
 Answer to the Query in Natural History → <span class="name">Mr Vignoles</span>  
-And Erroneous Answer to the Riddle → <span class="name">Do.</span>  [[WRONG]]
+<span class="grey">An Erroneous Answer to the Riddle</span> → <span class="name">Do.</span>    
 Another. *Buss* signed [Greek] → <span class="name">Miss Flaxman</span>  
-Another Rebuss → <span class="name">Do.</span>  [[WRONG]]
+<span class="grey">Another Rebuss</span> → <span class="name">Do.</span>  [[WRONG]]  
 The Miser and the Mouse → <span class="name">com. by Do.</span>  
 Charade: Fortnight → <span class="name">Mr Vignoles</span>  
 A Stray Spark from the Tinder Box → <span class="name">Mr Flaxman</span>  
