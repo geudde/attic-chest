@@ -30,8 +30,6 @@ I’ll string anew my idle lyre
 For winter still to me is dear,  
 The sweetest season of the year.
 
-## attic chest  D3311 18 16_0013
-
 For then around the Attic Chest,  
 &emsp;Its friends again assembled move,  
 And in the tuneful band confessed,  
