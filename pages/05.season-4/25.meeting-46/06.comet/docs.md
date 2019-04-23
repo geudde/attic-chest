@@ -30,9 +30,6 @@ While I, tho’d used to take my seat,
 Close to your flaming orb of heat,  
 And toast my nose beside the fire,  
 In warmth where others would expire,  
-
-## attic chest  D3311 18 16_0019
-
 Am in a perfect fever now,  
 The victim of this fervid flow.  
 My trees that grew so tall and fair,  
@@ -58,9 +55,6 @@ What may this mean, sir, I insist,
 Your visitor be straight dismissed,  
 Must discord run the system thro’  
 Presumptuous god, to pleasure you.
-
-## attic chest  D3311 18 16_0020
-
 I know not from what cause, not I,  
 You claim the right to rule the sky  
 Prescribe the course of each bright bale  
@@ -86,9 +80,6 @@ The comet, far beyond our sight,
 Oft draws his flaming train of light,  
 To other systems swiftly runs,  
 And links myself to other suns,  
-
-## attic chest  D3311 18 16_0021
-
 But bound by my attractive force  
 Again to me he bends his course.  
 In path eccentric, long and bold  
