@@ -28,8 +28,6 @@ While love his genial warmth shall shed
 And some tall oak shall screen its head,  
 &emsp;From sad misfortune’s chilling storm.
 
-## attic chest  D3311 18 16_0023
-
 Yet no! that tender flower disdains  
 &emsp;The oaks protecting care to prove,  
 And cold and cheerless still remains  
