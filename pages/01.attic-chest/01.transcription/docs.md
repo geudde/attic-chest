@@ -18,7 +18,7 @@ The Attic Chest contributions exhibit inconsistency of spelling, capitalization,
 **Punctuation:** Logical punctuation was of minor concern to most Attic Chest contributors, as evinced by the proliferation of redundant commas and dashes. Quotation marks are sometimes used to indicate direct speech, but in a manner unfamiliar to a modern reader. An attempt has been made to standardize such punctuation in accordance with modern practice. 
 
 
-**Annotations:** Some contributions are annotated in pencil, probably by William Porden. Examples of such annotations are sequential numbering and titles. Eleanor Anne Porden often noted acceptance of contributions, or the date on which they were to be read. Notes that add significant information have been formatted in an orange sans-serif typeface, thus: 
+**Annotations:** Some contributions are annotated in pencil, usually in William Porden’s hand. Examples of such annotations are sequential numbering and titles. Eleanor Anne Porden often noted acceptance of contributions, or the date on which they were to be read. Notes that add significant information have been formatted in an orange sans-serif typeface, thus: 
 
 > <span class="pencil">An Ode to Summer</span> 
 
@@ -34,4 +34,6 @@ The Attic Chest contributions exhibit inconsistency of spelling, capitalization,
 
 > Illegible text is indicated by question marks. Hover over <span data-tippy="Greek text" class="red">[ ? ? ? ]</span> to see comment. 
 
-**Authorship:** At the conclusion of each season the editors of the Attic Chest compiled a list of meetings, contributions, and authors. Not all authors were identified, and not all contributions were preserved. The names of confirmed authors have been added as they appear in the archive.
+**Authorship:** At the conclusion of each season the editors of the Attic Chest compiled a list of meetings, contributions, and authors. Not all authors were identified, and not all contributions were preserved. The names of acknowledged authors have been added as they appear in the archive.
+
+It should be noted, however, that these attributions sometimes conflict with the handwriting in the preserved manuscripts, for reasons that are not clear.
