@@ -30,6 +30,8 @@ I’ll string anew my idle lyre
 For winter still to me is dear,  
 The sweetest season of the year.
 
+## attic chest  D3311 18 16_0013
+
 For then around the Attic Chest,  
 &emsp;Its friends again assembled move,  
 And in the tuneful band confessed,  
@@ -42,7 +44,7 @@ Oh winter then to me is dear,
 The sweetest season of the year.
 
 When I her strains enraptured hear  
-&emsp;And all admire <span data-tippy=“my” class="green">her</span>her sprightly lays  
+&emsp;And all admire <span data-tippy="my" class="green">her</span> sprightly lays  
 And scarce my faltering tongue can dare  
 &emsp;To pay her tribute meet of praise  
 Or when with her the dance I lead  
