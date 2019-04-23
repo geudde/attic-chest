@@ -36,4 +36,4 @@ The Attic Chest contributions exhibit inconsistency of spelling, capitalization,
 
 **Authorship:** At the conclusion of each season the editors of the Attic Chest compiled a list of meetings, contributions, and authors. Not all authors were identified, and not all contributions were preserved. The names of acknowledged authors have been added as they appear in the archive.
 
-It should be noted, however, that these attributions sometimes conflict with the handwriting in the preserved manuscripts, for reasons that are not clear.
+It should be noted, however, that these attributions sometimes conflict with the handwriting in the preserved manuscripts, for reasons that are not clear. The many contributions attributed to Eleanor Anne Porden are, for example, written in several different hands.
