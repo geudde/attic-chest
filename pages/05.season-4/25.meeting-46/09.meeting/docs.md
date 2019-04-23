@@ -15,7 +15,7 @@ Sipp’d her ambrosial cup & spoke.
 “On ev’ry New-Year’s day, you know,  
 Gifts to our fav’rite Fair we owe;  
 But ten years since, she claim’d my store —   
-I, for my part, can give no more.”
+I, for my part, can give no more.”  
 A kindred Muse replied & smil’d  
 “We knew your ELLEN when a child!  
 Oft in her Nurse’s lap we sought her:  
@@ -72,4 +72,4 @@ By Wit, & Truth & Friendship grac’d:
 Apollo’s self shall be her guest,  
 And Pleasure crown her ATTIC CHEST!”
 
-Jany 3d 1812
+Jan<sup>y</sup> 3<sup>d</sup> 1812
