@@ -12,3 +12,4 @@ taxonomy:
 4. [To Papilia](papilia)
 5. [Verses on the New Year](verses)
 6. [The Comet of 1811](comet)
+7. [The Fairest Blossom of the North](blossom)
