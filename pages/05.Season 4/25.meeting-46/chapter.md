@@ -11,3 +11,4 @@ taxonomy:
 3. [Now Ruddy Autumn](autumn)  
 4. [To Papilia](papilia)
 5. [Verses on the New Year](verses)
+6. [The Comet of 1811](comet)
