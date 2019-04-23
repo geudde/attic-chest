@@ -703,7 +703,7 @@ The Fairest Blossom of the North → <span class="name">Miss Porden</span> <span
 Alas What Tale → <span class="name">Miss Porden</span>  
 The Meeting → <span class="name">Miss Vardill</span>  
 Letter to the Editor → <span class="name">Miss Porden</span>  
-The First Book of the Restoration → <span class="name">Miss Porden</span>  
+<span class="grey">The First Book of the Restoration → Miss Porden</span>  
 
 
 <div class="bottom">
