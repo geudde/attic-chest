@@ -399,12 +399,12 @@ Roscius, the Peer, and His Taylor → <span class="name">Do.</span>
 </div>
 
 The Sequel →   
-A Dialogue → 
-Answer to a Riddle → 
-Charade by C.J.F. Answered → 
-Lines Given to a Young Lady → 
-On Wit and Humor → 
-The Plighted Lady →   
+A Dialogue →  
+Answer to a Riddle →  
+Charade by C.J.F. Answered →  
+Lines Given to a Young Lady →  
+On Wit and Humor →  
+The Plighted Lady →    
 The Rape of the Veil →   
 Announcement →  
 
