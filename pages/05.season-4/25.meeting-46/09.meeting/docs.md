@@ -47,12 +47,12 @@ What Friendship gives, & Truth adorns!”
 
 Grave Truth replied, “No gifts are fairer,  
 But Muses! who shall be the bearer?  
-Our servants now are grown so stupid —  
+Our servants now are grown so stupid —   
 Go, call the Graces’ footboy Cupid!  
 He too is pert & apt to roam —   
 The urchin never stays at home;  
 Our phrases all he learns by rote,  
-And begs or steals in Friendship’s coat.
+And begs or steals in Friendship’s coat.  
 His own lac’d livery, they say,  
 He lends impostors ev’ry day:  
 Then, Sister! scorn the truant elf!  
