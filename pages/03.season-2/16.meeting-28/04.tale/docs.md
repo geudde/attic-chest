@@ -8,8 +8,6 @@ visible: false
 
 #### In the most admired modern taste 
 
-<div class="author">Miss Vardill</div>
-  
 As I walk’d out the other evening late  
 My mind in thoughtful serious state,  
 Brooding o’er inward joys,  
