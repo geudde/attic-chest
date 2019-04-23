@@ -9,3 +9,5 @@ taxonomy:
 1. [Editorial](editorial)  
 2. [To the Attorney of the God Mars](attorney)  
 3. [Now Ruddy Autumn](autumn)  
+4. [To Papilia](papilia)
+5. [Verses on the New Year](verses)
