@@ -49,7 +49,7 @@ visible: true
 
 [On Contemplating a Splendid Pile of Ruins](../../season-1/meeting-04/sonnet) → <span class="name">com. Mr. Flaxman</span>  
 [The Three Kisses](../../season-1/meeting-04/kisses) → <span class="name">Mr Joseph</span>  
-<span class="grey">A Description of Monkey Island → Mr Porden [&times;]</span>    
+<span class="grey">A Description of Monkey Island → Mr Porden</span>    
 [The Queen Anne St. Ghost](../../season-1/meeting-04/ghost) → <span class="name">Mr Parkinson</span>  
 [The Violet](../../season-1/meeting-04/violet) → <span class="name"> <span class="alias">(Violetta)</span>    
 
@@ -496,7 +496,7 @@ Since Phosphorus was the Name of Yore → <span class="name">Miss Porden</span>
 Grecian Anecdotes → <span class="name">com. Mrs Flaxman</span>  
 Ornaments of Dress → <span class="name">Miss Porden</span>  
 Vox Stellarum concluded → <span class="name">Miss Porden</span>  
-<span class="grey">The Sylphiad Canto 1st → Mr Vignoles ([&times;])</span>  
+<span class="grey">The Sylphiad Canto 1st → Mr Vignoles</span>  
 
 <div class="bottom">
 <span class="meeting">No. 34&emsp;(1811-02-12)</span>  
@@ -512,7 +512,7 @@ Epigram on the Chinese Astronomers Ho and Hi → <span class="name">com. Mr Vign
 Valentine’s Day Anticipated → <span class="name">Miss Richardson</span> <span class="alias">(L.I.F.)</span>  
 Prose and Verse, signed Jess Macfarland → <span class="name">Mrs Staveley</span>  
 Charade: Housewife → <span class="name">com. Miss Beslee</span>  
-<span class="grey">The Restoration Cantos 1 and 2 → Miss Porden [&times;]</span>   
+<span class="grey">The Restoration Cantos 1 and 2 → Miss Porden</span>   
 
 <div class="bottom">
 <span class="meeting">No. 35&emsp;(1811-02-26)</span>  
@@ -536,8 +536,8 @@ On a Young Lady’s Thanking the Author for a Valentine → <span class="name">M
 The Linnets, an Elegy for Valentines Day → <span class="name">Miss Sanders</span>  
 The Fiery Element Personified → <span class="name">com. Mr Vignoles & Mr Sheridan</span>  
 The Reply to “Say Love What Master” → <span class="name">Miss Porden</span>  
-<span class="grey">The Sylphiad Canto 2nd → Mr Vignoles [&times;]</span>  
-<span class="grey">The Restoration Canto 3rd → Miss Porden [&times;]</span>  
+<span class="grey">The Sylphiad Canto 2nd → Mr Vignoles</span>  
+<span class="grey">The Restoration Canto 3rd → Miss Porden</span>  
 To Miss F. “Where anything abounds” →   
 
 <div class="bottom">
@@ -562,7 +562,7 @@ Answer to the Enigma → <span class="name">Miss Porden</span>
 </div>
 
 The Lazy Foot → <span class="name">Mrs Richardson</span>  
-The Protestation  → <span class="name"> Miss Flaxman </span> <span class="red">[&times;]</span>  
+<span class="grey">The Protestation  → Miss Flaxman</span>  
 Sonnets to the Swallows of 1809 → <span class="name">Miss Porden</span>  
 Verses to a Young Lady → <span class="name">Mr Combe</span>  
 To the Author of the Acrostic, to Eliza → <span class="name">Miss Porden</span>  
@@ -571,7 +571,7 @@ To Celia → <span class="name">Miss Porden</span>
 A New Pot Pourri → <span class="name">Miss Richardson</span> <span class="alias">(L.I.F.)</span>  
 Expectation → <span class="name">Miss Sanders</span>  
 The Cambrian Advertisement → <span class="name">com. Miss Porden</span>  
-<span class="grey">The Restoration Book 2d Canto 2d → Miss Porden [&times;]</span>  
+<span class="grey">The Restoration Book 2d Canto 2d → Miss Porden</span>  
 
 <div class="bottom">
 <span class="meeting">No. 38&emsp;(1811-04-09)</span>  
@@ -595,7 +595,7 @@ Ode on a College Feast Day → <span class="name">com. Mr Vignoles</span>
 To Maria → <span class="name">Miss Porden</span>  
 The Resolve → <span class="name">Mr Vignoles</span>  
 The Widow → <span class="name">com. Mr Vignoles</span>  
-<span class="grey">On Hearing the Proxies Read → Miss Porden [&times;]</span>  
+<span class="grey">On Hearing the Proxies Read → Miss Porden</span>  
 Cupid’s Birthday → <span class="name">Miss Porden</span>  
 Shelton Oak → <span class="name">com. Mr Vignoles</span>  
 Letter to My Wife → <span class="name">com. Miss Beslee</span>  
@@ -615,9 +615,9 @@ Graeme of Balgowan, The Hero of Barrosa → <span class="name">com. Mrs Staveley
 Most Haste, Worst Speed → <span class="name">Miss Porden</span>  
 The Dream → <span class="name">Miss Flaxman</span>  
 “The Day Draws Near” → <span class="name">Mrs Flaxman</span>  
-<span class="grey">The Sylphiad Canto 3d → Mr Vignoles [&times;]</span>  
-<span class="grey">Translation from the Greek → Miss Porden [&times;]</span>  
-<span class="grey">“Believe Me Love” → com. Miss Richardson [&times;]</span>)  
+<span class="grey">The Sylphiad Canto 3d → Mr Vignoles</span>  
+<span class="grey">Translation from the Greek → Miss Porden</span>  
+<span class="grey">“Believe Me Love” → com. Miss Richardson</span>)  
 
 <div class="bottom">
 <span class="meeting">No. 41&emsp;(1811-05-21)</span>  
@@ -748,25 +748,25 @@ To Stella → <span class="name">Miss Flaxman</span> <span class="alias">(Moth)<
 Enigmatical Valentine → <span class="name">Miss Vardill</span>  
 Valentine → <span class="name">Miss Porden</span>  
 Answer to the Advertisement → <span class="name">Miss Vardill</span> <span class="alias">(A.G.P.)</span>  
-<span class="grey">The Fourth Book of the Restoration → Miss Porden [&times;]</span>
+<span class="grey">The Fourth Book of the Restoration → Miss Porden</span>
 
 <div class="bottom">
 <span class="meeting">No. 50&emsp;(1812-03-04)</span>  
 </div>
 
-<span class="grey">Account of Mr Bakewell’s first lecture on Geology → Miss Porden [&times;]</span>  
+<span class="grey">Account of Mr Bakewell’s first lecture on Geology → Miss Porden</span>  
 The Exchange of Hearts → <span class="name">Miss Porden</span>  
 The Blighted Rosebud → <span class="name">Miss Sanders</span>  
 To Hope → <span class="name">Miss Porden</span>  
 Answer to the Advertisement → <span class="name">Mr Vignoles</span>  
 Answer to the avertizement → <span class="name">Miss Porden</span> <span class="alias">(Dives)</span>  
-<span class="grey">The Fifth Book of the Restoration → Miss Porden [&times;]</span>
+<span class="grey">The Fifth Book of the Restoration → Miss Porden</span>
 
 <div class="bottom">
 <span class="meeting">No. 51&emsp;(1812-03-18)</span>  
 </div>
 
-<span class="grey">Account of Mr Bakewell’s second lecture on Geology → Miss Porden [&times;]</span>  
+<span class="grey">Account of Mr Bakewell’s second lecture on Geology → Miss Porden</span>  
 The Mountain Moss → <span class="name">Miss Sanders</span> <span class="alias">(Recluse)</span>  
 And Exile’s Dream → <span class="name">Miss Vardill</span> <span class="alias">(A Stranger)</span>  
 Verses Written for an Album → <span class="name">com. Miss Flaxman</span>  
@@ -776,24 +776,24 @@ Letter from Alopex → <span class="name">Miss Porden</span>
 The Picture → <span class="name">Miss Sanders</span> <span class="alias">(Juliett)</span>  
 Addressed to a Brother → <span class="name">Miss Sanders</span> <span class="alias">(Eliza)</span>  
 Letter from the Advertizing Lady → <span class="name">Miss Brown</span>  
-<span class="grey">The Last Book of the Restoration → Miss Porden [&times;]</span>
+<span class="grey">The Last Book of the Restoration → Miss Porden</span>
 
 <div class="bottom">
 <span class="meeting">No. 52&emsp;(1812-04-01)</span>  
 </div>
 
-<span class="grey">Account of Mr Bakewell’s third lecture on Geology → Miss Porden [&times;]</span>  
+<span class="grey">Account of Mr Bakewell’s third lecture on Geology → Miss Porden</span>  
 To One of the Graces → <span class="name">Miss Vardill</span>  
 Of Coughs and Colds → <span class="name">Mr Hinckley</span>  
-<span class="grey">To Mary → >Miss Porden (Alfred) [&times;]</span>   
+<span class="grey">To Mary → >Miss Porden (Alfred)</span>   
 To Ellen → <span class="name">Miss Vardill</span>  
-<span class="grey">The Four First Cantos of the Sylphiad → Mr Vignoles [&times;]</span>
+<span class="grey">The Four First Cantos of the Sylphiad → Mr Vignoles</span>
 
 <div class="bottom">
 <span class="meeting">No. 53&emsp;(1812-04-15)</span>  
 </div>
 
-<span class="grey">Account of Mr Bakewell’s third lecture on Geology → Miss Porden [&times;]</span>   
+<span class="grey">Account of Mr Bakewell’s third lecture on Geology → Miss Porden</span>   
 Charade: Rebellion → <span class="name">Mr Hinckley</span>  
 Enigma: A Kiss → <span class="name">Mr Hinckley</span>  
 To Two of the Graces → <span class="name">Miss Vardill</span>  
@@ -801,13 +801,13 @@ To Mary → <span class="name">Miss Flaxman</span>
 Letter from Alopex → <span class="name">Miss Porden</span>  
 Lines to the West Middlesex Water Company → <span class="name">Miss Porden</span>  
 Answer to the Advertisement → <span class="name">Miss Porden</span> <span class="alias">(Damon)</span>  
-<span class="grey">The Four Last Cantos of the Sylphiad → Mr Vignoles [&times;]</span>
+<span class="grey">The Four Last Cantos of the Sylphiad → Mr Vignoles</span>
 
 <div class="bottom">
 <span class="meeting">No. 54&emsp;(1812-04-29)</span>  
 </div>
 
-<span class="grey">Geological Notes on the Rock Salt of Cheshire → Mr Porden [&times;]</span>  
+<span class="grey">Geological Notes on the Rock Salt of Cheshire → Mr Porden</span>  
 Letter from Alopex → <span class="name">Miss Porden</span>  
 What tho’ Soft Slumber → <span class="name">Miss Porden</span>  
 Imitated from the Greek → <span class="name">com. Mr Vignoles</span>  
