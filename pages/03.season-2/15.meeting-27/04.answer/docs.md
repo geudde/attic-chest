@@ -6,8 +6,6 @@ taxonomy:
 visible: false
 ---
 
-<div class="author">Miss Vardill</div>
-
 Oh ’tis a sigh, I know it well  
 And ev’ry line its name doth tell,  
 Sure when it springs from joy, ’tis sweet  
