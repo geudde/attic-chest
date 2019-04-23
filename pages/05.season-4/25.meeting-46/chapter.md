@@ -14,3 +14,5 @@ taxonomy:
 6. [The Comet of 1811](comet)
 7. [The Fairest Blossom of the North](blossom)
 8. [Alas What Tale](tale)
+9. [The Meeting](meeting)
+10. [Letter to the Editor](letter)
