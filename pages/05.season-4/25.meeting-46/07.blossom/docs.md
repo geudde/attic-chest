@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-<div class="author">NAME</div>Miss Porden (Orlando)
+<div class="author">Miss Porden</div>Miss Porden
 
 The fairest blossom of the north,  
 &emsp;Returns by Thames’ gay side to bloom,  
