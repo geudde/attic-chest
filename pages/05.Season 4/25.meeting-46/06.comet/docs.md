@@ -30,9 +30,6 @@ While I, tho’d used to take my seat,
 Close to your flaming orb of heat,  
 And toast my nose beside the fire,  
 In <span data-tippy="heat" class="green">warmth</span> where others would expire,  
-
-## attic chest  D3311 18 16_0019
-
 Am in a perfect fever now,  
 The victim of this fervid flow.  
 My trees that grew so tall and fair,  
