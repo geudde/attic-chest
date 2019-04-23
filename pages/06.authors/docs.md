@@ -617,7 +617,7 @@ The Dream → <span class="name">Miss Flaxman</span>
 “The Day Draws Near” → <span class="name">Mrs Flaxman</span>  
 <span class="grey">The Sylphiad Canto 3d → Mr Vignoles</span>  
 <span class="grey">Translation from the Greek → Miss Porden</span>  
-<span class="grey">“Believe Me Love” → com. Miss Richardson</span>)  
+<span class="grey">“Believe Me Love” → com. Miss Richardson</span>  
 
 <div class="bottom">
 <span class="meeting">No. 41&emsp;(1811-05-21)</span>  
