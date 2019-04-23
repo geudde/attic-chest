@@ -864,7 +864,7 @@ Adieu my Patrons → <span class="name">Miss Porden</span>
 <div class="bottom">
 <span class="meeting">No. 58&emsp;(1813-03-17)</span>  
 </div>
-
+&emsp;
 <div class="bottom">
 <span class="meeting">No. 59&emsp;(1813-03-31)</span>  
 </div>
