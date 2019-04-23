@@ -383,38 +383,48 @@ Roscius, the Peer, and His Taylor → <span class="name">Do.</span>
 <span class="meeting">No. 25&emsp;(1810-06-05)</span>  
 </div>
 
-A melting Effusion to a Candle snuffer too low → <span class="name">com. Mr Flaxman</span>  
-Farewell to Anna → <span class="name">Miss Flaxman</span>  
+<span class="grey">A melting Effusion to a Candle snuffer too low → com. Mr Flaxman</span>  
+<span class="grey">Farewell to Anna → Miss Flaxman</span>  
+
+<span class="red">(missing)</span>
 
 <div class="bottom">
 <span class="meeting">No. 26&emsp;(1810-06-19)</span>  
 </div>
 
-<span class="red">(missing)</span>  
-
+<span class="red">(missing)</span>
+    
 <div class="bottom">
 <span class="meeting">No. 27&emsp;(1810-07-03)</span>  
 </div>
 
-<span class="red">(missing)</span>  
+The Sequel →   
+A Dialogue → 
+Answer to a Riddle → 
+Charade by C.J.F. Answered → 
+Lines Given to a Young Lady → 
+On Wit and Humor → 
+The Plighted Lady →   
+The Rape of the Veil →   
+Announcement →  
 
 <div class="bottom">
 <span class="meeting">No. 28&emsp;(1810-07-14)</span>  
 </div>
 
-Editorial  
-Woman’s Last Word  
-Song  
-A Simple and Pathetic Tale  
-Taper Soup  
-The Lady’s Lament  
-The Complaint of the Sylphs  
-Epistle to a Lady  
-The Attic Chest to Her Respected Friends  
-The Spirit’s Farewell  
-To Miss Porden on Her Birthday  
-No Sign Portentous  
-Acknowledgements  
+Editorial →   
+Woman’s Last Word →   
+Song →   
+A Simple and Pathetic Tale →   
+Taper Soup →   
+The Lady’s Lament →   
+The Complaint of the Sylphs →   
+Epistle to a Lady →   
+The Attic Chest to Her Respected Friends →   
+The Spirit’s Farewell →   
+To Miss Porden on Her Birthday →   
+No Sign Portentous →   
+Acknowledgements →   
 
 <div class="bottom">
 <span class="meeting">No. 29&emsp;(1810-11-20)</span>  
