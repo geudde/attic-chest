@@ -301,7 +301,7 @@ To the Lady of the Golden Arrow → <span class="name">Miss Flaxman</span> <span
 Answer to the Charade Fortnight → <span class="name">Do.</span> <span class="alias">(M.)</span>  
 Verses to the Misses D---ns → <span class="name">Mr Porden</span>  
 Doubt and Certainty → <span class="name">Mr Porden</span></span>  
-Sonnet → <span class="name"> 
+Sonnet →   
 Song to the Tune of Four and Twenty Fiddlers → <span class="name">Mr Flaxman</span>  
 
 <div class="bottom">
