@@ -3,7 +3,7 @@ title: 'Wanted Immediately'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Brown</div>
