@@ -8,7 +8,7 @@ visible: true
 
 <div class="author">Mr Hinckley</div>
 
-##### or, Matter and Spirit: The Question Stated
+##### Matter and Spirit: The Question Stated
 
 Some trace from all we eat or drink,  
 But most from beef the power to think.  
