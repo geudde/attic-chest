@@ -2,6 +2,7 @@
 title: 'Meeting 46'
 taxonomy:
     category: docs
+visible: true
 ---
 
 # 8 January 1812
