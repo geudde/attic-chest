@@ -29,6 +29,6 @@ The sailor asks an azure prize,
 But brown delights a lover’s eyes  
 &emsp;His brightest thought is Brown.  
 
-![Thief](thief.png?resize=80)
+![Thief](thief.png?resize=70)
 
 > In German Letters supposed to be Thief.
