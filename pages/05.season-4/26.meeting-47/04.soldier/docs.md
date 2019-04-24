@@ -6,9 +6,9 @@ taxonomy:
 visible: false
 ---
 
-##### Written the Night Before Battle
-
 <div class="author">Miss Flaxman</div>
+
+##### Written the Night Before Battle
 
 How sweet the tired soldier’s rest  
 Whose bosom owns no cruel guest  
