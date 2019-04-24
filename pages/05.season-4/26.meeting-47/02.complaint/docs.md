@@ -3,7 +3,7 @@ title: 'The Complaint'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mrs Flaxman</div>
@@ -29,8 +29,6 @@ It cannot be of damsels more supremely fair!
 As Mne passes on with solemn ambling pace,  
 She met a maiden with a hectic face  
 Who saunters to and fro, and oft look’d back  
-
-## attic chest  D3311 18 16_0034
 
 Good morrow, ma’am, at length the maiden cried,  
 Good morn to you my dear, the Dame replied,  
@@ -58,9 +56,6 @@ The young Narciss — for her, forsakes his streams
 And stead of self, admires her azure beams,  
 Better he’d drown’d himself and rose a flower  
 A milk-white star — to deck fair Lady’s bower!
-
-## attic chest  D3311 18 16_0035
-
 Of those and twenty more I could rehearse  
 All subject fit for elegant verse  
 To old or young, they all are gone astray  
@@ -86,10 +81,6 @@ But first ’tis proper that I here relate
 What seems unknown to you, each Muse’s fate;  
 What each befell, (I mean in early life)  
 When each like you, wish’d to become a wife.
-
-
-## attic chest  D3311 18 16_0036
-
 They all had lovers — but it chanc’d one day  
 As those of the fair Nine went to pluck May  
 And other shrubs, wherewith to form a bower  
@@ -114,9 +105,6 @@ Arrived at home, they huddled all together
 And buzzed & buzzed — I thought about the weather  
 But no forsooth — it was to form a plan  
 How to avenge themselves upon the monster man.  
-
-## attic chest  D3311 18 16_0037
-
 When they had talked their fill with one another  
 They held it best to advise with me their mother;  
 Break off all intercourse with man, I said  
@@ -141,9 +129,6 @@ For all young virgins who’ve been cross’d in love
 If wise, will soon unite our court above,  
 And being once received i’the Muses throng  
 Soon join them in festivity and song
-
-## attic chest  D3311 18 16_0038
-
 They help them string a verse, or find a jingle,  
 And never once repine because they’re single
 Apollo visits them and plays his fiddle  
@@ -170,9 +155,6 @@ Then by their mutual constancy and love
 Show an example great to those who rove.  
 What happiness & joy can impart  
 To him who knows to prize a virtuous heart.  
-
-## attic chest  D3311 18 16_0039
-
 But be it here a solemn truth related,  
 And where not known, by you it may be stated,  
 Cupid himself, ne’er condescends to shoot  
@@ -197,10 +179,6 @@ So now will dismiss you in a trice,
 Only one moment list to my advice;  
 And if you love your young companions all  
 Repeat to them what may prevent their fall,  
-
-
-## attic chest  D3311 18 16_0040
-
 Flattery, base flattery! is the vile man’s bait  
 Wherewith he lures the thoughtless to their fate,  
 The good man praises nor her hair nor eyes,  
@@ -224,9 +202,6 @@ They listened to their mother’s conversation
 And were much grieved at the you maid’s vexation  
 They all agreed, man was a very ----  
 And thanked their stars they had escaped the evil.
-
-## attic chest  D3311 18 16_0041
-
 All but Urania, she in silence stood  
 Her eyes towards heaven still turned in pensive mood,  
 She wished, and pray’d, mankind might still be good;  
