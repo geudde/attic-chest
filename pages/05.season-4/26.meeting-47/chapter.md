@@ -2,6 +2,7 @@
 title: 'Meeting 47'
 taxonomy:
     category: docs
+visible: true
 ---
 
 # 22 January 1812
