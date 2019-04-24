@@ -3,7 +3,7 @@ title: Editorial
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 According to the decision of the Attic Society in the trial Mars versus Mercury which took place in the course of the last season, we have in our card of invitation notified to the members that in future the meetings will be held on Wednesdays and that the Society is understood to be under the patronage of Cyllenius. As this good-humoured god presides over wit and eloquence and seems even to invade the province of Apollo himself, we hope that his influence will be felt by the Society in all his better arts; but not in that of filching and stealing for which he as been so much celebrated or calumniated. For wit in verse and eloquence in prose we will do him honour, provided that they be new and genuine; but for second hand wares whether bought, borrowed, or stolen, we shall be less grateful, though if intrinsically excellent we shall not despise them. Gold is gold whether it is mine or my neighbours.
