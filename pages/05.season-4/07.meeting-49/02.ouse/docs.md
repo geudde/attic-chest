@@ -31,4 +31,4 @@ But brown delights a lover’s eyes
 
 ![Thief](thief.png?resize=50)
 
-In German Letters supposed to be Thief.
+> In German Letters supposed to be Thief.
