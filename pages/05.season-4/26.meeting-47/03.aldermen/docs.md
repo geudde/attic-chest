@@ -3,7 +3,7 @@ title: 'The Lamentation of the Aldermen'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Porden</div>
