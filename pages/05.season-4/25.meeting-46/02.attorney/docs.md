@@ -3,7 +3,7 @@ title: 'To the Attorney of God Mars'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Vignoles</div>
