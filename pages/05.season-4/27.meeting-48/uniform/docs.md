@@ -52,7 +52,7 @@ Honour and faith and courage bold,
 
 And see the warlike train appears,  
 &emsp;And arms our youth for deadly fight  
-I hear the martial clash of **shears***
+I hear the martial clash of **shears**
 &emsp;I see the **helmets** glittering bright
 
 Proud valour fires each **mailed** breast,  
