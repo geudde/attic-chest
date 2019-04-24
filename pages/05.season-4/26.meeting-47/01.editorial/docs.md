@@ -10,6 +10,6 @@ We open our readings this evening with a long poem called The Complaint, written
 
 The Unhappy Soldier’s Last Watch is a poem of a more pathetic turn, which we have had by us some time, but it has given way to pieces of a more temporary nature which would not otherwise have obtained the preference.
 
-Annie’s Bower is a beautiful Scotch Song and the correspondence between Moth and Stella is marked with that ease and fancy which have before distinguished these celebrated writers The distress of Venus for want of her handmaids the Graces is an elegant jeu d’esprit and the compliment at the close is well turned.
+Annie’s Bower is a beautiful Scotch Song and the correspondence between Moth and Stella is marked with that ease and fancy which have before distinguished these celebrated writers. The distress of Venus for want of her handmaids the Graces is an elegant jeu d’esprit and the compliment at the close is well turned.
 
 The reading will conclude with the second Book of the Restoration, and part of the third is there is sufficient time for it.
