@@ -3,7 +3,7 @@ title: Song
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 Yes! once I met her downcast eyes  
