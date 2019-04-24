@@ -33,7 +33,7 @@ So soon the erring soul reclaims
 
 Yes, smile, Amanda! claim thy pow’r —   
 In reconcilement’s precious hour  
-&emsp;The heav’n of pease is known;  
+&emsp;The heav’n of peace is known;  
 When spleen has sunk, & pride has bow’d,  
 And joy beams thro’ the parting cloud,  
 &emsp;Love builds his surest throne.
