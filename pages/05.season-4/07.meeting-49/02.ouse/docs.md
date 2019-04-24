@@ -9,8 +9,6 @@ visible: false
 
 <div class="author">Miss Vardill</div>
 
-Miss Vardill
-
 When first by gentle Ouse I stray’d  
 Two crimson cheeks my fancy sway’d  
 But now of flaming read afraid,  
