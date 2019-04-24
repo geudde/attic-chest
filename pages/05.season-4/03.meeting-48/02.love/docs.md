@@ -62,7 +62,7 @@ Confess my true all plastic moulds.
 E’en metaphysics own my sway,  
 Nor can the empty words convey  
 Their true no-meaning, jargon weak,  
-Unless it gives them power to speak
+Unless it gives them power to speak  
 Nay thought itself on me depends,  
 My aid its rapid flight attends;  
 And, tho’ it oft outrun my speed,  
