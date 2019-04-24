@@ -21,4 +21,4 @@ Its poison to my bosom stole;
 And I’ve been this fond lesson taught  
 That love’s the heaven of the soul.
 
-J.&thinsp;P.&thinsp;L.
+J.&hairsp;P.&thinsp;L.
