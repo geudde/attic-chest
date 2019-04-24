@@ -8,15 +8,13 @@ visible: true
 
 <div class="author">Miss Thomson</div>
 
-Miss Thomson
+> From a newly married man, to his friend a learned and determined bachelor
 
-From a newly married man, to his friend a learned and determined bachelor
-
-Love rules the court, the camp, the ground,  
-And men below, and heav’n above,  
-For love is heav’n, and heav’n is love”
-
-Lay of the Last Minstrel
+> Love rules the court, the camp, the ground,  
+> And men below, and heav’n above,  
+> For love is heav’n, and heav’n is love”
+> 
+> Lay of the Last Minstrel
 
 Hoot! hoot! that ye, a strappon chiel,  
 Should gang aboot wi’ hairt o’ steel,  
@@ -24,8 +22,6 @@ Should gang aboot wi’ hairt o’ steel,
 Nay, never glow’r in wild amaze  
 If ye nae sing in woman’s praise  
 &emsp;Ye’re lost for ever!
-
-## attic chest  D3311 18 16_0067
 
 To Coventry I fain wad sin ye  
 To sigh an greet till dool should min ye  
@@ -46,8 +42,6 @@ My sooth! ye ken t’is na disgrace
 Fit screen the sax frae silk wae,  
 Has aye been deem’d syne Adam’s day  
 &emsp;Man’s bounden duty.
-&emsp;
-## attic chest  D3311 18 16_0068
 
 Aibhris a Scottish wife may suit us  
 Better than Portia wife of Brutus  
@@ -69,8 +63,6 @@ Maingst learned schemes na longer waver
 Tak’ a gude wife, an’ read na’ mair,  
 Save in her eyes, there’s unco hair  
 &emsp;In woman’s leuks
-
-## attic chest  D3311 18 16_0069
 
 Then sing for aye in woman’s praise  
 Quick woo yir Jo in dossel lays  
