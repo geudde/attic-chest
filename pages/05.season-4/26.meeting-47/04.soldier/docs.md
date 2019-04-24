@@ -1,5 +1,5 @@
 ---
-title: 'The Unhappy Soldier''s Last Watch'
+title: 'The Unhappy Soldier’s Last Watch'
 taxonomy:
     category:
         - docs
