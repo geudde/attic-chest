@@ -3,7 +3,7 @@ title: 'Verses to the New Year'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Mr Vignoles</div>
