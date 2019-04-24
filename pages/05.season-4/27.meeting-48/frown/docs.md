@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+<div class="author">Miss Vardill</div>
+
 ##### To Amanda
 
 When Attic Wit & Mirth preside  
@@ -26,7 +28,7 @@ But ’tis thy *Frown* whose bland control
 Oft to my tempest-troubled soul  
 &emsp;Has peace & safety given:  
 Then if thy frown from fatal flames  
-SO soon the erring soul reclaims  
+So soon the erring soul reclaims  
 &emsp;*Smile* next, & grant it heaven!  
 
 Yes, smile, Amanda! claim thy pow’r —   
