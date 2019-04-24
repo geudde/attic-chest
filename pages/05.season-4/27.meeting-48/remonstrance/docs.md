@@ -12,7 +12,7 @@ visible: true
 
 > Love rules the court, the camp, the ground,  
 > And men below, and heav’n above,  
-> For love is heav’n, and heav’n is love”
+> For love is heav’n, and heav’n is love
 > 
 > Lay of the Last Minstrel
 
