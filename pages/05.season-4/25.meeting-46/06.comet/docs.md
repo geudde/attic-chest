@@ -3,7 +3,7 @@ title: 'The Comet of 1811'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Porden</div>
