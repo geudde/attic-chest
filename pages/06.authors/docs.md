@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: true
+tntsearch:
+    index: false
 ---
 
 <div class="bottom">
@@ -617,7 +619,7 @@ The Dream → <span class="name">Miss Flaxman</span>
 “The Day Draws Near” → <span class="name">Mrs Flaxman</span>  
 <span class="grey">The Sylphiad Canto 3d → Mr Vignoles</span>  
 <span class="grey">Translation from the Greek → Miss Porden</span>  
-<span class="grey">“Believe Me Love” → com. Miss Richardson</span>  
+<span class="grey">“Believe Me Love” → com. Miss Richardson</span>)  
 
 <div class="bottom">
 <span class="meeting">No. 41&emsp;(1811-05-21)</span>  
@@ -703,7 +705,7 @@ The Fairest Blossom of the North → <span class="name">Miss Porden</span> <span
 Alas What Tale → <span class="name">Miss Porden</span>  
 The Meeting → <span class="name">Miss Vardill</span>  
 Letter to the Editor → <span class="name">Miss Porden</span>  
-<span class="grey">The First Book of the Restoration → Miss Porden</span>  
+The First Book of the Restoration → <span class="name">Miss Porden</span>  
 
 
 <div class="bottom">
@@ -732,7 +734,7 @@ Rondeau → <span class="name">com. Mr Vignoles</span> <span class="alias">(Anti
 The Remonstrance → <span class="name">Miss Thomson</span>  
 Alterations in the Uniform → <span class="name">Miss Porden</span>  
 Letter to the Editor → <span class="name">Miss Porden</span> <span class="alias">(Alopex)</span>  
-The Third Book of the Restoration → <span class="name">Miss Porden</span>
+<span class="grey">The Third Book of the Restoration → Miss Porden</span>
 
 <div class="bottom">
 <span class="meeting">No. 49&emsp;(1812-02-19)</span>  
@@ -864,7 +866,7 @@ Adieu my Patrons → <span class="name">Miss Porden</span>
 <div class="bottom">
 <span class="meeting">No. 58&emsp;(1813-03-17)</span>  
 </div>
-&emsp;
+
 <div class="bottom">
 <span class="meeting">No. 59&emsp;(1813-03-31)</span>  
 </div>
