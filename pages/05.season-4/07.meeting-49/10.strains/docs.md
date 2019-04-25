@@ -3,7 +3,7 @@ title: 'Not in a Lover’s Humble Strains'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Communicated by Miss Vardill</div>
