@@ -18,4 +18,4 @@ visible: true
 8. [To Stella](stella)
 9. [Enigmatical Valentine](enigmatical)
 10. [Answer to the Advertisement](answer-1)
-11. [Another Answer](answer-2)
+11. [Answer to the Advertisement](answer-2)
