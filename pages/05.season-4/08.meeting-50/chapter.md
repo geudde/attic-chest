@@ -10,4 +10,4 @@ taxonomy:
 2. [The Exchange of Hearts](exchange)
 3. [The Blighted Rosebud](rosebud)
 4. [Answer to the Advertisement](answer-1)
-5. [Another Answer](answer-2)
+5. [Answer to the Advertisement](answer-2)
