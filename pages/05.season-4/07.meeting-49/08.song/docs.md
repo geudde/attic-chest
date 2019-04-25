@@ -3,7 +3,7 @@ title: 'A New Song to a Well-known Tune'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Governor Franklin</div>
