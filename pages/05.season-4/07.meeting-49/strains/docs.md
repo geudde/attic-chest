@@ -29,7 +29,7 @@ And wax my bristling tresses filled,
 My martyr’d coat I scorn’d to wipe  
 And stood of melting love a type!  
 As open mouth’d the pigeon dies  
-Lur’d by the serpent’s fatal eyes.
+Lur’d by the serpent’s fatal eyes.  
 For thee with more than Roman pride  
 My mouth received the scalding tide  
 But thine, not worth my true love’s half  
