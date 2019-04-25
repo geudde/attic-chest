@@ -3,7 +3,7 @@ title: 'When My Bright Ellen'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Communicated by Miss Brown</div>
