@@ -761,7 +761,7 @@ The Exchange of Hearts → <span class="name">Miss Porden</span>
 The Blighted Rosebud → <span class="name">Miss Sanders</span>  
 To Hope → <span class="name">Miss Porden</span>  
 Answer to the Advertisement → <span class="name">Mr Vignoles</span>  
-Answer to the avertizement → <span class="name">Miss Porden</span> <span class="alias">(Dives)</span>  
+Answer to the Advertisement → <span class="name">Miss Porden</span> <span class="alias">(Dives)</span>  
 <span class="grey">The Fifth Book of the Restoration → Miss Porden</span>
 
 <div class="bottom">
@@ -815,7 +815,7 @@ What tho’ Soft Slumber → <span class="name">Miss Porden</span>
 Imitated from the Greek → <span class="name">com. Mr Vignoles</span>  
 To Friendship → <span class="name">Miss Vardill</span> <span class="alias">(Amanda)</span>  
 Reply to Amanda → <span class="name">Miss Porden</span> <span class="alias">(Donald)</span>  
-The Advertizing Lady’s Interview → <span class="name">Miss Brown</span>  
+The Advertising Lady’s Interview → <span class="name">Miss Brown</span>  
 Written with a Crow Quill → <span class="name">Miss Vardill</span>  
 The Remonstrance → <span class="name">Governor Franklin</span>  
 The Farewell → <span class="name">Mr Elliott</span>  
