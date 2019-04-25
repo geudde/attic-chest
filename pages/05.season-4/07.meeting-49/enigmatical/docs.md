@@ -37,7 +37,7 @@ My coat is smooth, my shape is slim.
 Not Roncevalle’s nor Mancha’s knight  
 With bolder constancy could fight;  
 To prove my zeal and shew my wit  
-My tongue is worn, my heart is split!
+My tongue is worn, my heart is split!  
 For you a thousand times I feel  
 The wounds of unrelenting steel:  
 And twice in every circling moon,  
@@ -49,4 +49,4 @@ I’ll be a servant for your sake;
 And ev’ry year devoutly sign  
 Myself your truest
 
-**Valentine!**
+&mdash; **Valentine!**
