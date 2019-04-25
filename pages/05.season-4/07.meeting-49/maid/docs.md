@@ -14,7 +14,7 @@ Now dares to make his passion known
 &emsp;And here address his simple song.  
 
 Yet on this day is love allowed  
-&emsp;(Tho’ friendship oft his garb may borrow)
+&emsp;(Tho’ friendship oft his garb may borrow)  
 Distinguished from the vulgar crowd  
 &emsp;To tell his artless tale of sorrow.  
 
