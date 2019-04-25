@@ -29,7 +29,7 @@ One glance of that expressive eye
 Could peace to this sad breast restore  
 And joy impart unknown before.  
 Blest with thy love each happy day  
-On wings of joy should pass away.
+On wings of joy should pass away.  
 And as we roamed thro’ life’s gay bower  
 We’d shun the thorn, but seize the flower  
 And thou shouldst bless till life’s decline  
