@@ -20,5 +20,5 @@ Others may let him gain his ends,
 *My* pen, *my* heart, is still my friend’s.  
 &emsp;Mine is the tributary song  
 Oft raised to my dear Stella’s name  
-To her, I’ve seen amids the Attic throng  
+To her, I’ve seen amidst the Attic throng  
 Her bright eye kindling at the voice of fame.
