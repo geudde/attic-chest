@@ -1,5 +1,5 @@
 ---
-title: 'Another Answer'
+title: 'Answer to the Advertisement'
 taxonomy:
     category:
         - docs
