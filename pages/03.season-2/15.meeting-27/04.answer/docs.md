@@ -1,5 +1,5 @@
 ---
-title: 'Answer to a Riddle'
+Atitle: 'Answer to a Riddle'
 taxonomy:
     category:
         - docs
