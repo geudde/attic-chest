@@ -47,7 +47,7 @@ The ruin I cannot behold
 The axe of the stranger has laid  
 &emsp;My bow’r of lov’d eglantines low;  
 But memory visits their shade —   
-&emsp;Still, still in her Eden they grow!
+&emsp;Still, still in her Eden they grow!  
 My groves may be leafless and shorn  
 &emsp;Yet fancy still pictures their prime;  
 She hears not my foresters mourn,  
@@ -65,7 +65,7 @@ Nor see round their mouldering clay
 No, still let me fancy them near  
 &emsp;While thro’ the dim valley I roam,  
 Their voices at midnight I hear  
-&emsp;They call the poor wanderer home!
+&emsp;They call the poor wanderer home!  
 My friends! ye assemble there still  
 &emsp;The home of a *Father* ye share!  
 My path may be dreary and chill  
