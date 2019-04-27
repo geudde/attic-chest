@@ -34,7 +34,7 @@ The Attic Chest contributions exhibit inconsistency of spelling, capitalization,
 
 Contributions not included in the Gell Collection are coloured grey in the list of authors. Thus:
 
-> <span class="pencil">Sonnet to a Friend → Mrs Jones</span>
+> <span class="grey">Sonnet to a Friend → Mrs Jones</span>
 
 **Illegibility:** Some Attic Chest contributors used ink that has faded alarmingly, occasionally beyond the limits of scan contrast adjustment. In a few cases text is obscured by ink blots or overwriting. Many contributors were familiar with classical Greek and used it in footnotes. An attempt to render this Greek text will be made at a later stage of the transcription. Illegible text has been indicated thus:
 
