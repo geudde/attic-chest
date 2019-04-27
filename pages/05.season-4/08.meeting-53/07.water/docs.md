@@ -27,7 +27,7 @@ Should draw the lightning on their head.
 &emsp;Desist, then, lest the tribe, to spite you,  
 Should as a nuisance next indite you  
 For while their rancorous tongues pursue  
-Nor fame nor profit can ensue.
+Nor fame nor profit can ensue.  
 Unless indeed ye could lay on,  
 A stream from ancient Helicon,  
 Whose inexhaustible supplies,  
