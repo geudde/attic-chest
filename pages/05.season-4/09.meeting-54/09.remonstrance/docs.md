@@ -46,4 +46,4 @@ But take for their fees — both the head and the heart!”
 
 AV
 
-![AV](vardill.png)
+![AV](vardill.png?resize=50)
