@@ -773,7 +773,7 @@ The Mountain Moss → <span class="name">Miss Sanders</span> <span class="alias"
 And Exile’s Dream → <span class="name">Miss Vardill</span> <span class="alias">(A Stranger)</span>  
 Verses Written for an Album → <span class="name">com. Miss Flaxman</span>  
 To Music → <span class="name">Miss Vardill</span> <span class="alias">(M.H.F.)</span>  
-To Elorina → <span class="name">Miss Porden</span> <span class="alias">(Lothario)</span>  
+To Eborina → <span class="name">Miss Porden</span> <span class="alias">(Lothario)</span>  
 Letter from Alopex → <span class="name">Miss Porden</span>  
 The Picture → <span class="name">Miss Sanders</span> <span class="alias">(Juliett)</span>  
 Addressed to a Brother → <span class="name">Miss Sanders</span> <span class="alias">(Eliza)</span>  
