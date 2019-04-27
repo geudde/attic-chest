@@ -1,5 +1,6 @@
 ---
-title: The Remonstrance
+title: 'The Remonstrance'
+media_order: vardill.png
 taxonomy:
     category:
         - docs
@@ -44,3 +45,5 @@ These Charmers bid headaches and heartaches depart,
 But take for their fees — both the head and the heart!”
 
 AV
+
+![AV](vardill.png)
