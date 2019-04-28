@@ -729,7 +729,7 @@ Love and Wine → <span class="name">Mr Hinckley</span>
 The Frown and the Smile → <span class="name">Miss Vardill</span> <span class="alias">(Donald)</span>  
 The Receipt in Full → <span class="name">Miss Flaxman</span>  
 Yes Once I Met Her Downcast Eyes → <span class="alias">(J.P.L.)</span>  
-Wanted Immediately → <span class="name">Miss Brown</span>  
+Wanted Immediately → <span class="name">Miss Porden</span> <span class="alias">(Miss Brown)</span>  
 Rondeau → <span class="name">com. Mr Vignoles</span> <span class="alias">(Anti-Fisty)</span>  
 The Remonstrance → <span class="name">Miss Thomson</span>  
 Alterations in the Uniform → <span class="name">Miss Porden</span>  
@@ -777,7 +777,7 @@ To Eborina → <span class="name">Miss Porden</span> <span class="alias">(Lothar
 Letter from Alopex → <span class="name">Miss Porden</span>  
 The Picture → <span class="name">Miss Sanders</span> <span class="alias">(Juliett)</span>  
 Addressed to a Brother → <span class="name">Miss Sanders</span> <span class="alias">(Eliza)</span>  
-Letter from the Advertizing Lady → <span class="name">Miss Brown</span>  
+Letter from the Advertizing Lady → <span class="name">Miss Porden</span> <span class="alias">(Miss Brown)</span>  
 <span class="grey">The Last Book of the Restoration → Miss Porden</span>
 
 <div class="bottom">
@@ -815,7 +815,7 @@ What tho’ Soft Slumber → <span class="name">Miss Porden</span>
 Imitated from the Greek → <span class="name">com. Mr Vignoles</span>  
 To Friendship → <span class="name">Miss Vardill</span> <span class="alias">(Amanda)</span>  
 Reply to Amanda → <span class="name">Miss Porden</span> <span class="alias">(Donald)</span>  
-The Advertising Lady’s Interview → <span class="name">Miss Brown</span>  
+The Advertising Lady’s Interview → <span class="name">Miss Porden</span> <span class="alias">(Miss Brown)</span>  
 Written with a Crow Quill → <span class="name">Miss Vardill</span>  
 The Remonstrance → <span class="name">Governor Franklin</span>  
 The Farewell → <span class="name">Mr Elliott</span>  
@@ -829,7 +829,7 @@ Serenade and Reply → <span class="name">Miss Porden</span>
 To Emma → <span class="name">Miss Porden</span>  
 To Amanda → <span class="grey">Miss Porden</grey> → <span class="name">Miss Vardill</span> <span class="alias">(Donald)</span>  
 Account of the Interview → <span class="name">Miss Porden</span> <span class="alias">(T.S.)</span>  
-The Advertising Lady’s Rejection → <span class="name">Miss Brown</span>  
+The Advertising Lady’s Rejection → <span class="name">Miss Porden</span> <span class="alias">(Miss Brown)</span>  
 To the Fair Advdertiser → <span class="name">Miss Porden</span>  
 Song from the Advertising Lady → <span class="name">Mrs Staveley</span>  
 The First of May → <span class="name"> Mrs Staveley</span>  
