@@ -172,8 +172,8 @@ Address to the Clouds on St. Valentine’s Day → <span class="name">Miss Porde
 Anacreon Ode 1 → <span class="name">Mr Parkinson</span>  
 Another  &#12291; → <span class="name">Mr Bond</span>  
 Another  &#12291; → <span class="name">Mr Porden</span>  
-<span class="grey">Query in Natural History → Mr Parkinson</span> <span class="red">(&#8202;&darr;&#8202;Meeting 15)</span>    
-<span class="grey">Answer → Mr Porden</span> <span class="red">(&#8202;&darr;&#8202;Meeting 15)</span>   
+<span class="grey">Query in Natural History → Mr Parkinson</span>  
+<span class="grey">Answer → Mr Porden</span>     
 
 <div class="bottom">
 <span class="meeting">No. 12&emsp;(1809-07-14)</span>  
@@ -827,7 +827,7 @@ The Farewell → <span class="name">Mr Elliott</span>
 To the Editor of the Attic Chest → <span class="name">Mr Elliott</span>  
 Serenade and Reply → <span class="name">Miss Porden</span>  
 To Emma → <span class="name">Miss Porden</span>  
-To Amanda → <span class="name">Miss Porden</span> <span class="alias">(Donald)</span> → <span class="red">Vardill</span>  
+To Amanda → <span class="grey">Miss Porden</grey> <span class="alias">(Donald)</span> → <span class="name">Miss Vardill</span>  
 Account of the Interview → <span class="name">Miss Porden</span> <span class="alias">(T.S.)</span>  
 The Advertising Lady’s Rejection → <span class="name">Miss Brown</span>  
 To the Fair Advdertiser → <span class="name">Miss Porden</span>  
