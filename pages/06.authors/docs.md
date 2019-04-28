@@ -80,8 +80,8 @@ tntsearch:
 [  &#12291; “An ardent admirer of the Muses”](../../season-1/meeting-05/admirer) → <span class="name">Mr Kay</span>  
 [  &#12291; “See how the feather’d blossoms”](../../season-1/meeting-05/blossoms) → <span class="name">&nbsp;</span>  
 [  &#12291; “In grim array”](../../season-1/meeting-05/array) → <span class="name">Miss Maria Denman</span>  
-<span class="grey">&#12291; Ellen → Mr Bond</span> <span class="red">[missing]</span>  
-<span class="grey">&#12291; Greek → Mr Flaxman</span> <span class="red">[missing]</span>  
+<span class="grey">&#12291; Ellen → Mr Bond</span>  
+<span class="grey">&#12291; Greek → Mr Flaxman</span>  
 [  &#12291; Cupid's Lament](../../season-1/meeting-05/cupids) → <span class="name">Miss Flaxman</span>  
 [  &#12291; With a Pancake](../../season-1/meeting-05/porden-2) → <span class="name">Mr Kay</span>  
 [  &#12291; Account of St Valentine](../../season-1/meeting-05/st-valentine) → <span class="name">&nbsp;</span>  
@@ -89,7 +89,7 @@ tntsearch:
 [  &#12291; from Zephyrus](../../season-1/meeting-05/buds) → <span class="name">&nbsp;</span>  
 [  &#12291; from Euphemia](../../season-1/meeting-05/mr-porden-1) → <span class="name">&nbsp;</span>  
 [  &#12291; from Dido](../../season-1/meeting-05/mr-porden-2) → <span class="name">Mr Flaxman</span>  
-<span class="grey">&#12291; French → Miss Porden</span> <span class="red">[missing]</span>  
+<span class="grey">&#12291; French → Miss Porden</span>  
 [  &#12291; “The lofty Lily”](../../season-1/meeting-05/lily) → <span class="name"></span>  
 [  &#12291; “Love is a burthen”](../../season-1/meeting-05/care) → <span class="name"></span>  
 [  &#12291; “Convinced a Married”](../../season-1/meeting-05/married) → <span class="name">com. Miss M’donald</span>  
@@ -131,21 +131,21 @@ Anacreon Ode 48 → <span class="name">Mr Bond</span>
 The Jealous Lover → <span class="name">Mr Porden</span>  
 The Lamentation of Pegasus → <span class="name">Miss Porden</span>  
 The Chest of Eleanora → <span class="name">Miss Parkinson</span>  
-<span class="grey">The Fete de la Rose → Mrs. Hoole, com. by Mrs. Kay</span> <span class="red">[missing]</span>  
+<span class="grey">The Fete de la Rose → Mrs. Hoole, com. by Mrs. Kay</span>  
 Constellation No. 3 → <span class="name">Miss Porden</span>  
-<span class="grey">A Riddle on Buonaparte</span> → <span class="red">[missing]</span>  
+<span class="grey">A Riddle on Buonaparte</span> →  
 
 <div class="bottom">
 <span class="meeting">No. 9&emsp;(1809-05-02)</span>  
 </div>
 
-<span class="grey">The Dove from Anacreon</span> → <span class="name">Mr Porden</span> <span class="red">[missing]</span>   
+<span class="grey">The Dove from Anacreon</span> → <span class="name">Mr Porden</span>   
 Anacreon Ode 29 → <span class="name">Mr Bond</span>  
 The Rose a Coquette → <span class="name">Miss Flaxman</span>  
 On a Young Lady who Spoilt a Fine Complexion → <span class="name">Mr Joseph</span>  
 Horace Book 2 Ode 16 → <span class="name">Mr Bond</span> <span class="alias">(Demos)</span>  
 Epigram or Dr. Toe → <span class="name">com. Mr Flaxman</span>  
-<span class="grey">Answer to the Riddle on Buonaparte → Mr Porden</span> <span class="red">[missing]</span>  
+<span class="grey">Answer to the Riddle on Buonaparte → Mr Porden</span>  
 Constellation No. 4 → <span class="name">Miss Porden</span>  
 
 <div class="bottom">
@@ -167,13 +167,13 @@ To Roberto again → <span class="name">Miss Porden</span>
 </div>
 
 Impromptu written on the Margate Packet →   
-<span class="grey">The Apotheosis → Mr Flaxman</span> <span class="red">[missing]</span>  
+<span class="grey">The Apotheosis → Mr Flaxman</span>  
 Address to the Clouds on St. Valentine’s Day → <span class="name">Miss Porden</span>  
 Anacreon Ode 1 → <span class="name">Mr Parkinson</span>  
 Another  &#12291; → <span class="name">Mr Bond</span>  
 Another  &#12291; → <span class="name">Mr Porden</span>  
-<span class="grey">Query in Natural History → Mr Parkinson</span> <span class="red">(Meeting 15)</span>    
-<span class="grey">Answer → Mr Porden</span> <span class="red">(Meeting 15)</span>   
+<span class="grey">Query in Natural History → Mr Parkinson</span> <span class="red">(&#8202;&darr;&#8202;Meeting 15)</span>    
+<span class="grey">Answer → Mr Porden</span> <span class="red">(&#8202;&darr;&#8202;Meeting 15)</span>   
 
 <div class="bottom">
 <span class="meeting">No. 12&emsp;(1809-07-14)</span>  
@@ -184,7 +184,7 @@ Sonnet → <span class="name">Miss Porden</span> <span class="alias">(Sophis)</s
 Flattery Rejected → <span class="name">Mr Joseph</span>  
 The Floral Senate → <span class="name">Miss Porden</span>  
 Sonnet to Roberto → <span class="name">Miss Porden</span>  
-<span class="grey">A Fragment from the Greek → Mr Flaxman</span> <span class="red">[missing]</span>   
+<span class="grey">A Fragment from the Greek → Mr Flaxman</span>   
 Farewell Address from the Attic Chest → <span class="name">Miss Porden</span>  
 
 <div class="bottom">
