@@ -59,7 +59,7 @@ Once near that spring, fir’d by disdain,
 And there, thy smiles restor’d again,  
 &emsp;New rais’d the suppliant sigh;  
 Here liv’d on hope once-happy me;  
-&emsp;There, hopw and I did sever:  
+&emsp;There, hope and I did sever:  
 &emsp;Alas! who knows if ever  
 &emsp;&emsp;<span data-tippy="Thou’lt" class="green">Thou will</span> remember me!
 

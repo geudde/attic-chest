@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-# 19 March 1812
+# 18 March 1812
 
 1. [Editorial](editorial)
 2. [The Mountain Moss](moss)

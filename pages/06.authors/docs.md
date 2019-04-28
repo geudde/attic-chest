@@ -110,14 +110,14 @@ tntsearch:
 <span class="meeting">No. 7&emsp;(1809-03-25)</span>  
 </div>
 
-The Age of Wonders → <span class="name">Miss Porden</span>  
-An Author’s address to His First Work → <span class="name">Mr Parkinson</span>  
-To a Pianoforte →    
-Anacreon Ode 23 → <span class="name">Mrs Kay</span>  
-My choice →  
-The Rose → <span class="name">Mr Kilburn</span> <span class="alias">(Hassan)</span>  
-The Bee from Anacreon → <span class="name">Mr Bond</span>  
-Constellation No. 2 → <span class="name">Miss Porden</span>  
+[The Age of Wonders](../../season-1/meeting-07/wonders) → <span class="name">Miss Porden</span>  
+[An Author’s address to His First Work](../../season-1/meeting-07/address) → <span class="name">Mr Parkinson</span>  
+[To a Pianoforte](../../season-1/meeting-07/pianoforte) →    
+[Anacreon Ode 23](../../season-1/meeting-07/anacreon-23) → <span class="name">Mrs Kay</span>  
+[My choice](../../season-1/meeting-07/my-choice) →  
+[The Rose](../../season-1/meeting-07/rose-1) → <span class="name">Mr Kilburn</span> <span class="alias">(Hassan)</span>  
+[The Bee from Anacreon](../../season-1/meeting-07/anacreon) → <span class="name">Mr Bond</span>  
+[Constellation No. 2](../../season-1/meeting-07/constellation-2) → <span class="name">Miss Porden</span>  
 
 <div class="bottom">
 <span class="meeting">No. 8&emsp;(1809-04-04)</span>  
@@ -827,7 +827,7 @@ The Farewell → <span class="name">Mr Elliott</span>
 To the Editor of the Attic Chest → <span class="name">Mr Elliott</span>  
 Serenade and Reply → <span class="name">Miss Porden</span>  
 To Emma → <span class="name">Miss Porden</span>  
-To Amanda → <span class="name">Miss Porden</span> <span class="alias">(Donald)</span>  
+To Amanda → <span class="name">Miss Porden</span> <span class="alias">(Donald)</span>  <span class="red">Vardill</span>
 Account of the Interview → <span class="name">Miss Porden</span> <span class="alias">(T.S.)</span>  
 The Advertising Lady’s Rejection → <span class="name">Miss Brown</span>  
 To the Fair Advdertiser → <span class="name">Miss Porden</span>  

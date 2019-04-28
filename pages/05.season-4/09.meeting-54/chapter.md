@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-# 19 March 1812
+# 29 April 1812
 
 1. [Editorial](editorial)
 2. [Letter to the Editress](letter)
