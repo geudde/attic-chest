@@ -827,7 +827,7 @@ The Farewell → <span class="name">Mr Elliott</span>
 To the Editor of the Attic Chest → <span class="name">Mr Elliott</span>  
 Serenade and Reply → <span class="name">Miss Porden</span>  
 To Emma → <span class="name">Miss Porden</span>  
-To Amanda → <span class="name">Miss Porden</span> <span class="alias">(Donald)</span>  <span class="red">Vardill</span>
+To Amanda → <span class="name">Miss Porden</span> <span class="alias">(Donald)</span> → <span class="red">Vardill</span>  
 Account of the Interview → <span class="name">Miss Porden</span> <span class="alias">(T.S.)</span>  
 The Advertising Lady’s Rejection → <span class="name">Miss Brown</span>  
 To the Fair Advdertiser → <span class="name">Miss Porden</span>  
