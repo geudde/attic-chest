@@ -817,7 +817,7 @@ To Friendship → <span class="name">Miss Vardill</span> <span class="alias">(Am
 Reply to Amanda → <span class="name">Miss Porden</span> <span class="alias">(Donald)</span>  
 The Advertising Lady’s Interview → <span class="name">Miss Porden</span> <span class="alias">(Miss Brown)</span>  
 Written with a Crow Quill → <span class="name">Miss Vardill</span>  
-The Remonstrance → <span class="grey">Governor Franklin</span> <span class="name">Miss Vardill</span>  
+The Remonstrance → <span class="grey">Governor Franklin</span> → <span class="name">Miss Vardill</span>  
 The Farewell → <span class="name">Mr Elliott</span>  
 
 <div class="bottom">
