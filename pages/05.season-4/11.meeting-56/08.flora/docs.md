@@ -73,7 +73,7 @@ My lands and halls are a traitor’s hire
 &emsp;His halls and lands are my ain;  
 But Doon and Scaur shall see thee Laird  
 &emsp;Of their bonnie brown banks again!  
-And she who smiles by yon ingle-fie  
+And she who smiles by yon ingle-fire  
 &emsp;Shall shine in her ain array,  
 If thy Brother’s son may call tee sire,  
 &emsp;And mine to be her bridal day!”
