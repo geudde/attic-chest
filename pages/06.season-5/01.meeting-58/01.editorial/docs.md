@@ -20,6 +20,6 @@ We have received from Mr Barnaby Scratch the plan of a Society of Vestals with t
 
 We shall read Mr Barnaby Scratch’s communication this evening but the letters from the ladies must enliven another meeting.  
 
-We have also received a good paper without a title purporting to be the first of a periodical series. It is signed X. The author requests the assistance of our members but limits their letters to thirty lines, a space too scanty for the display of wit or humour or even for the logical conduct of argumentative papers of which he furnishes a proof as he could not propose his own project in less than fifty.
+We have also received a good paper without a title purporting to be the first of a periodical series. It is signed **X**. The author requests the assistance of our members but limits their letters to thirty lines, a space too scanty for the display of wit or humour or even for the logical conduct of argumentative papers of which he furnishes a proof as he could not propose his own project in less than fifty.
 
 Besides the papers we have mentioned we have a tragedy under consideration and a facetious friend has partly promised a comedy. But promises are not always performed and we must request further aid to enable us to continue our amusements with the customary spirit.
