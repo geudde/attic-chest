@@ -5,8 +5,6 @@ taxonomy:
 visible: true
 ---
 
-### Chapter Number
+# 17 March 1813
 
-# Chapter Title
-
-Chapter description.
+1. [Editorial](editorial)
