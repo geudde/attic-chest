@@ -18,13 +18,13 @@ This, sir, suggested to certain ladies the idea of forming a Society of Vestals 
 
 ##### List of the Ladies who now form the Party as well as a slight sketch of their plan.
 
-Each lady brings her fortune whether large or small to the general fund. When she quits the community she withdraws one half which decrease of property will serve as a touchstone upon which she will prove the good faith and disinterestedness of the [???]
+Each lady brings her fortune whether large or small to the general fund. When she quits the community she withdraws one half which decrease of property will serve as a touchstone upon which she will prove the good faith and disinterestedness of the <span data-tippy="illegible" class="red">[???]</span>.
 
 The full liberty of visiting and receiving visitors.  
 
 There is a good library, the regulations of which hang of the chimney. (For the laws of the Society at large apply to the secretary.)
 
-##### Ladies of the Society
+###### Ladies of the Society
 
 First — Miss Rebecca Nettletop
 
