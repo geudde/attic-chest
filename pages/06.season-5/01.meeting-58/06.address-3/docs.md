@@ -3,7 +3,7 @@ title: 'Address: When the Rains Have Ceased'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Richardon</div>
