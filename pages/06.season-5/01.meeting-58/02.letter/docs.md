@@ -16,4 +16,4 @@ My experience in the literary world informs me that a circular letter on the ann
 
 I enclose an address composed according to the rules of my above-mentioned ancestor’s celebrated treatise Περί βάθους, or the Art of Sinking, and enriched with apt quotations from modern examples. If my suggestion and my composition are admitted, the Attic Chest may receive future aid from the treasury of 
 
-Martins Scriblerus, Junior
+Martinus Scriblerus, Junior
