@@ -3,7 +3,7 @@ title: 'The Guardian Spirit’s Address'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 <div class="author">Miss Porden</div>
