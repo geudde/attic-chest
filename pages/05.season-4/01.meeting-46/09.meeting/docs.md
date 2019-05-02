@@ -24,7 +24,7 @@ We dipp’d her pencil, tun’d her lyre;
 Of all our trophies she disposes,  
 Her casket all our gems encloses:  
 We gave our tokens long ago,  
-The, Sisters! what can we bestow?  
+Then, Sisters! what can we bestow?  
 But Truth & Joy with Friendship live,  
 Has Friendship nothing left to give?”
 
