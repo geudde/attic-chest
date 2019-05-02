@@ -123,16 +123,16 @@ tntsearch:
 <span class="meeting">No. 8&emsp;(1809-04-04)</span>  
 </div>
 
-Address from the Attic Chest → <span class="name">Miss Porden</span>  
-Answer to the Riddle in No. 4 → <span class="name">Miss Porden</span>  
-Another  &#12291; → <span class="name">Mr Henry Thomson</span>  
-Another  &#12291; → <span class="name">A young Lady</span>  
-Anacreon Ode 48 → <span class="name">Mr Bond</span>  
-The Jealous Lover → <span class="name">Mr Porden</span>  
-The Lamentation of Pegasus → <span class="name">Miss Porden</span>  
-The Chest of Eleanora → <span class="name">Miss Parkinson</span>  
+[Address from the Attic Chest](../../season-1/meeting-08/attic-chest) → <span class="name">Miss Porden</span>  
+[Answer to the Riddle in No. 4](../../season-1/meeting-08/author) → <span class="name">Miss Porden</span>  
+[Another  &#12291; ](../../season-1/meeting-08/in-vain) → <span class="name">Mr Henry Thomson</span>  
+[Another  &#12291; ](../../season-1/meeting-08/of-old) → <span class="name">A young Lady</span>  
+[Anacreon Ode 48](../../season-1/meeting-08/anacreon-48) → <span class="name">Mr Bond</span>  
+[The Jealous Lover](../../season-1/meeting-08/jealous-lover) → <span class="name">Mr Porden</span>  
+[The Lamentation of Pegasus](../../season-1/meeting-08/lamentation) → <span class="name">Miss Porden</span>  
+[The Chest of Eleanora](../../season-1/meeting-08/chest) → <span class="name">Miss Parkinson</span>  
 <span class="grey">The Fete de la Rose → Mrs. Hoole, com. by Mrs. Kay</span>  
-Constellation No. 3 → <span class="name">Miss Porden</span>  
+[Constellation No. 3](../../season-1/meeting-08/constellation) → <span class="name">Miss Porden</span>  
 <span class="grey">A Riddle on Buonaparte</span> →  
 
 <div class="bottom">
@@ -856,7 +856,7 @@ The Wish → <span class="name">com. Mr Vignoles</span>
 To the Butterfly → <span class="name">Miss Flaxman</span>  
 Amid this Festive Scene → <span class="name">Miss Porden</span>  
 Rules Formed to Promote Regularity → <span class="name">com. Mrs Staveley</span>  
-Old Joan → <span class="name">Governor Franklin</span>  
+Old Joan → <span class="grey">Governor Franklin</span> → <span class="name">Miss Vardill</span>  
 Adieu → <span class="name">Mr Vignoles</span>  
 To Stella → <span class="name">Miss Flaxman</span>  
 Blessed be the Eye → <span class="name">Miss Vardill</span>  
@@ -866,7 +866,31 @@ Adieu my Patrons → <span class="name">Miss Porden</span>
 <div class="bottom">
 <span class="meeting">No. 58&emsp;(1813-03-17)</span>  
 </div>
-&emsp;
+
+Letter from Martinus Scriblerus Junior respecting Addresses on the Opening of the Attic Chest → <span class="name">Miss Vardill</span>  
+Circular on the Same Subject → <span class="name">Miss Vardill</span>  
+Address for the Opening of the Chest → <span class="name">Miss Vardill</span> <span class="alias">(Martinus Scriblerus)</span>  
+Address “Farewell to Blue Devils” → <span class="name">Miss Porden</span>  
+Address “When Rains Have Ceased” → <span class="name">Miss Richardson</span>  
+The Guardian Spirit’s Address → <span class="name">Miss Porden</span>  
+Written for the Opening of the A.C. → <span class="name">Miss Vardill</span>  
+On Proud Britannia’s Rocky Seat → <span class="name">Miss Vardill</span>  
+Address, from the Spirit of the Attic Chest → <span class="name">Miss Porden</span> → Vardill  
+An Address that is not an Address → <span class="name">Miss Flaxman</span>  
+Anonymous No. 1 → <span class="name">Mr Vignoles</span>  
+Letter from Barnaby Scratch → <span class="name">Miss Flaxman</span>  
+
 <div class="bottom">
 <span class="meeting">No. 59&emsp;(1813-03-31)</span>  
 </div>
+
+Letter from Miss Prudentia Quickset → <span class="name">Miss Flaxman</span>  
+Do. from Miss Annabella Squib → <span class="name">Miss Flaxman</span>  
+To my Wife → <span class="name">Miss Flaxman</span>  
+A “Cockney Pastoral” → <span class="name">Mr Elliott</span>  
+“When over fair natures’ face” → <span class="alias">(W. Wordsworth)</span>  
+Rokeby, a new comic opera → <span class="name">Miss Vardill</span>  
+Ode to Tyranny → <span class="name">Mr Elliott</span>  
+The Pen’s Address → <span class="name">Miss Vardill</span>  
+Recluse to Miss P. → <span class="name">Miss Sanders</span>  
+Valentine to Eborian → <span class="name">Miss Porden</span> (withdrawn)
