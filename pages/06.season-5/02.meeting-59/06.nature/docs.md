@@ -10,7 +10,7 @@ When our fair nature’s face dark tempests lower,
 And on the poor traveller fast falls the shower,  
 Bright o’er the deepening shade,  
 Ere quite the sunbeams fade,  
-The rainbow is displayed
+The rainbow is displayed  
 &emsp;&emsp;By Heaven's blest power.
 
 ’Midst darkness and horror I will not despair,  
@@ -28,3 +28,5 @@ The bow of peace appears — 
 &emsp;&emsp;To bless his child.
 	
 W.W.
+
+<span class="pencil">William Wordsworth</span>
