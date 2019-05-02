@@ -68,7 +68,9 @@ Willfort: A Persian Tale, perhaps? Well, with a procession of knights-templars, 
 
 Lady B: Oh no! I propose something more appropriate to the whim of the moment — some pointed allusion to passing events — a view of Barnard Castle, or Marston Moor, with a group of cavaliers or round-heads.  
 
-Willfort: Very true, Lady Bab, and as last night’s courier brought news of an affair which covered us with glory, you may introduce a grand national chorus, which I have kept prepared.[^2]
+Willfort: Very true, Lady Bab, and as last night’s courier brought news of an affair which covered us with glory, you may introduce a grand national chorus, which I have kept prepared.
+
+Lady B: Heavens! why did not the careless wretch mention this before? My husband may be killed and I have neither bugles nor crape!
 
 Matilda: An affair — a battle! Sir, if your feelings had been human, you would have spared my feminine sensibility the pang of asking questions.  
 
@@ -166,11 +168,9 @@ Martinus Scriblerus, Junior
 
 March 19th, 1813
 
-[^1]: Sir Philip Mortham’s suspected wife
+[^1]: Sir Philip Mortham’s suspected wife.
 
-[^2]: Lady B: Heavens! why did not the careless wretch mention this before? My husband may be killed and I have neither bugles nor crape!
-
-[^3]: Glee for 3 voices
+##### Glee for 3 voices
 
 Willfort
 
