@@ -24,7 +24,7 @@ Lady B:&ensp;The very reason *he* is not here! It would be as reasonable child, 
 
 Matilda:&ensp;Only, only my foster-brother — I mean my Uncle’s protegée young *Redmond*, you know the interesting obscurity of his birth and the mysterious elegance of his character.
 
-Lady Bab:&ensp;Charming, my love, for the first chapter of a romance and what delightful perplexities are his visits here designed to occasion? But postpone these unfashionable blushes — I see a more interesting visitor.
+Lady Bab:&ensp;Charming, my love, for the first chapter of a romance, and what delightful perplexities are his visits here designed to occasion? But postpone these unfashionable blushes — I see a more interesting visitor.
 
 Matilda:&ensp;My cousin Wilfrid! Ah, Lady Mortham! commiserate my sensibility and take the weight of his visit on yourself.  
 
@@ -36,25 +36,25 @@ Willfort:&ensp;Ladies, you have condescended to illuminate the town in a very dr
 
 Lady Bab:&ensp;Admirably confess’d, sir! Instead of regulating my private theatre according to your promise, you have been lounging among statues.
 
-Captain Willfort:&ensp;Have mercy on your vassals, Lady Bab! A man who lives in the beaumonde must lounge a great deal among statues. I have been traversing the town in search of a French teacher for Lady Simpermode’s macau, and some genuine otto of roses for Lord Dape’s mustachios, till i am absolutely annihilated.
+Captain Willfort:&ensp;Have mercy on your vassals, Lady Bab! A man who lives in the beaumonde must lounge a great deal among statues. I have been traversing the town in search of a French teacher for Lady Simpermode’s macau, and some genuine attar of roses for Lord Dape’s mustachios, till I am absolutely annihilated.
 
-Lady Bab:&ensp;Very characteristic commissions!  and how do you contrive to employ yourself when you have not these little friendly duties?  
+Lady Bab:&ensp;Very characteristic commissions!  And how do you contrive to employ yourself when you have not these little friendly duties?  
 
-Willfort:&ensp;Faith, I hardly recollect. I suck my oxygen air after breakfast at 4 o’clock — spar a few rounds at Humphries’ or Molyneaux’ — eat pineapple ice in Bond Street — leave my barouche at the door of the Literary Institution, dine time enough to see the last dance at the opera — and return at daybreak to dream of your ladyship’s bonmots. (bowing)
+Willfort:&ensp;Faith, I hardly recollect. I suck my oxygen air after breakfast at 4 o’clock — spar a few rounds at Humphries’ or Molyneaux’ — eat pineapple ice in Bond Street — leave my barouche at the door of the Literary Institution, dine time enough to see the last dance at the opera — and return at daybreak to dream of your ladyship’s bon-mots. (bowing)
 
 Lady B:&ensp;Dost presume to fix yourself in that indolent attitude? I have employment for you. But pray, you agreeable pest! why were you not at Lady Crotchet’s concert last night?  
 
-Willfort:&ensp;May I be black-balled, mia bella, if it is not death to a man’s reputation to be seen in her rooms! Not the least pressure or symptom of suffocation! — and her hall is empty as an ex-Minister’s! 
+Willfort:&ensp;May I be black-balled, mia bella, if it is not death to a man’s reputation to be seen in her rooms! Not the least pressure or symptom of suffocation! And her hall is empty as an ex-Minister’s! 
 
 Lady B:&ensp;All Lady Salamander’s malicious report because the rooms were 10 degrees hotter than hers by the thermometer! Stay, recreant! Have you rehearsed your part in my new theatre?  
 
 Willfort:&ensp;Spare me, dear Lady Bab! I am engaged this morning to teach Lady Seraphina Bettall the true Thracian flourish of the tambourine.  
 
-Lady B:&ensp;Cielo! it has been exploded an age! I intend to bring in the bonjoo or Chinese gong this season.  
+Lady B:&ensp;Cielo! it has been exploded an age! I intend to bring in the banjo or Chinese gong this season.  
 
 Matilda:&ensp;You petrify me, Lady Mortham! Is it possible that you are the manager of a private theatre?  
 
-Lady B:&ensp;Does not everybody manage a little theatre? Where is the crime of actin at home as well as abroad? Fashion preserve me! Must wives be fixed to their places like stair-carpets, only to be trampled upon?  
+Lady B:&ensp;Does not everybody manage a little theatre? Where is the crime of acting at home as well as abroad? Fashion preserve me! Must wives be fixed to their places like stair-carpets, only to be trampled upon?  
 
 Matilda:&ensp;But what part will Sir Philip act in your comedy? Can you propose such revels in his absence?  
 
@@ -64,7 +64,7 @@ Willfort:&ensp;My cousin Matilda is Lady Grace herself. But, Lady Bab, I must ha
 
 Lady B:&ensp;Do you see nothing of that kind here? In return for your hint, you must know I intend to introduce a new after-piece tonight.  
 
-Willfort:&ensp;A Persian Tale, perhaps? Well, with a procession of knights-templars, and Irish buffoon, a view of Brighton and a sea-fight on a few tons of water, it may do.
+Willfort:&ensp;A Persian Tale, perhaps? Well, with a procession of knights-templar, an Irish buffoon, a view of Brighton and a sea-fight on a few tons of water, it may do.
 
 Lady B:&ensp;Oh no! I propose something more appropriate to the whim of the moment — some pointed allusion to passing events — a view of Barnard Castle, or Marston Moor, with a group of cavaliers or round-heads.  
 
@@ -146,7 +146,7 @@ Matilda:&ensp;Stand out of the way, Willfort Wycliffe! — Redmond! Redmond!
 
 Redmond:&ensp;Matilda, Oh!!!
 
-Willfort:&ensp;Faith, a pretty subject for a canzonet! I have one in my pocket about a cypress wreath: Let us all sit down and sing it.
+Willfort:&ensp;Faith, a pretty subject for a canzonet! I have one in my pocket about a cypress wreath. Let us all sit down and sing it.
 
 (While they are singing a glee for 3 voices, Bertram enters behind the bushes and sings this song, lest the audience should not *see* him.)
 
@@ -175,7 +175,7 @@ March 19th, 1813
 Willfort
 
 Lady! Chuse no cane for me  
-Or chuse it form the willow-tree  
+Or chuse it from the willow-tree  
 Too briskly shakes the aspen light,  
 The varnish’d elm is all too bright,  
 The stiff bamboo, the knotted pine  
