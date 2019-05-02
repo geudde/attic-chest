@@ -45,7 +45,7 @@ What’s the mischief on foot — for between you and me
 I shrewdly suspect that at present they have got  
 Of a Gnome, Sylph, and Nereid, some terrible Plot;  
 And to bring it to bear, they won’t mind what they do,  
-Tho the Damsel concern’d, is a favorite too;  
+Tho’ the Damsel concern’d, is a favorite too;  
 But the care shall be mine, to frustrate their intentions,  
 I shall sprinkle some Powder shall spoil their Inventions;  
 No Gnome shall she wed, and be dragg’d underneath  
