@@ -132,7 +132,7 @@ tntsearch:
 [The Lamentation of Pegasus](../../season-1/meeting-08/lamentation) → <span class="name">Miss Porden</span>  
 [The Chest of Eleanora](../../season-1/meeting-08/chest) → <span class="name">Miss Parkinson</span>  
 <span class="grey">The Fete de la Rose → Mrs. Hoole, com. by Mrs. Kay</span>  
-[Constellation No. 3](../../season-1/meeting-08/constellation) → <span class="name">Miss Porden</span>  
+[Constellation No. 3](../../season-1/meeting-08/constellation-3) → <span class="name">Miss Porden</span>  
 <span class="grey">A Riddle on Buonaparte</span> →  
 
 <div class="bottom">
