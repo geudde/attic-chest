@@ -90,9 +90,9 @@ Willfort: Exquisitely kind, I vow! But positively there are cirumstances so stra
 
 Lady B: Pish! Duels and sentimental courtship have been left to the Minerva Press this year. Leave your Matilda to my management. Allons! I want a chaperon to my opera-box (Exeunt)
 
-Scene changes to Rokeby Park
+> Scene changes to Rokeby Park
 
-A burning mansion seen at a distance and a group of Spaniards and English cavaliers discovered
+> A burning mansion seen at a distance and a group of Spaniards and English cavaliers discovered
 
 Song and Chorus; Air “Ye Gentlemen of England”  
 
@@ -146,7 +146,7 @@ Matilda: Stand out of the way, Willfort Wycliffe! — Redmond! Redmond! Oh!!
 
 Redmond: Matilda, Oh!!!
 
-Willfort: Faith, a pretty subject for a canzonet! I have one in my pocket about a cypress wreath: Let us all sit down and sing it.[^3]
+Willfort: Faith, a pretty subject for a canzonet! I have one in my pocket about a cypress wreath: Let us all sit down and sing it.
 
 (While they are singing a glee for 3 voices, Bertram enters behind the bushes and sings this song, lest the audience should not *see* him.)
 
