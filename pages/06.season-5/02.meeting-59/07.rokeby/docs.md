@@ -16,7 +16,7 @@ visible: false
 > 
 > Enter Miss Rokeby and Lady Bab. Mortham [^1]
 
-Lady B:&emsp;At home, my dearest Matilda, and alone! I expected to have found you giving life and fashion to a crowd.  
+Lady B:&emsp;&emsp;At home, my dearest Matilda, and alone! I expected to have found you giving life and fashion to a crowd.  
 
 Miss R: Heavens! Lady *Mortham*, can you speak of a crowd when you know the inexpressible delicacy of my nerves, and the dangerous state of my family! But where is Sir Philip? My guardian will expect to see him when he finds you here.  
 
