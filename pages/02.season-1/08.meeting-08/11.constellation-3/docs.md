@@ -78,7 +78,7 @@ But you, gentle readers, must judge his surprise
 When scarce any of these met *his* curious eyes  
 *British generals* there very frequently abound  
 There Whitelock’s, Dalrymple’s, and Burrard’s are found.  
-There Pagets and Mack’s <span data-tippy="Mack’s" class="green">Moore’s</span>, and Clavering’s appeared,  
+There Pagets and <span data-tippy="Mack’s" class="green">Moore’s</span>, and Clavering’s appeared,  
 And a certain *great personnage* too I have heard.  
   
 Fitz-Helicon  
