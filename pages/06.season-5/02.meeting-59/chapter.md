@@ -8,3 +8,4 @@ visible: true
 # 31 March 1813
 
 1. [Editorial](editorial)
+2. [Letter from Prudentia Quickset](prudentia)
