@@ -3,7 +3,7 @@ title: 'When over Fair Nature’s Face'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 When our fair nature’s face dark tempests lower,  
