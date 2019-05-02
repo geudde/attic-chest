@@ -27,6 +27,4 @@ And I resign my fears,
 The bow of peace appears —   
 &emsp;&emsp;To bless his child.
 	
-W.W.
-
-<span class="pencil">William Wordsworth</span>
+W.W. <span class="pencil">(William Wordsworth)</span>
