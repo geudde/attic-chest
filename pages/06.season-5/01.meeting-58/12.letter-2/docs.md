@@ -36,7 +36,7 @@ Has chosen this plan of life, that her talents may have greater scope than in a 
 
 A lady of a very gentle pensive turn of mind, a disappointment of a tender nature gives a soft shade of melancholy to her features, her conversation, and her elegant poetical effusions.
 
-3 — Miss Annabelle Squib
+3 — Miss Annabella Squib
 
 This lady is of a sprightly disposition, fond of society and conversation, she enlivens us occasionally with humorous compositions both in verse and prose. She desires me to declare her intention of becoming a frequent correspondent of the Attic Chest.
 
