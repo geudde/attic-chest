@@ -12,15 +12,15 @@ visible: false
 
 (The reader must observe my strict adherence to the manners and events of the year 1641, and to the unities of time and place. Even this act comprises the six requisites of a modern comedy: a sentimental heiress, a pert dowager, and a Bond Street fop; a grand spectacle, a chorus of banditti, and a hint at murder.  — Martinus Scriblerus, Junior. March 19)
 
-Scene, a saloon in St James’s Square
+> Scene, a saloon in St James’s Square
+> 
+> Enter Miss Rokeby and Lady Bab. Mortham [^1]
 
-Enter Miss Rokeby and Lady Bab: Mortham [^1]
+Lady B: At home, my dearest Matilda, and alone! I expected to have found you giving life and fashion to a crowd.  
 
-Lady B.: At home, my dearest Matilda, and alone! I expected to have found you giving life and fashion to a crowd.  
+Miss R: Heavens! Lady *Mortham*, can you speak of a crowd when you know the inexpressible delicacy of my nerves, and the dangerous state of my family! But where is Sir Philip? My guardian will expect to see him when he finds you here.  
 
-Miss R.: Heavens! Lady *Mortham*, can you speak of a crowd when you know the inexpressible delicacy of my nerves, and the dangerous state of my family! But where is Sir Philip? My guardian will expect to see him when he finds you here.  
-
-Lady B.: The very reason *he* is not here! It would be as reasonable child, to expect night and day at the same time — I never bring my grievances with me into company. But pray, who was in that fashionable great-coat which I met gliding down the backstairs?  
+Lady B: The very reason *he* is not here! It would be as reasonable child, to expect night and day at the same time — I never bring my grievances with me into company. But pray, who was in that fashionable great-coat which I met gliding down the backstairs?  
 
 Matilda: Only, only my foster-brother — I mean my Uncle’s protegée young *Redmond*, you know the interesting obscurity of his birth and the mysterious elegance of his character.
 
@@ -124,7 +124,7 @@ Chorus: While the stormy winds do blow, etc.
 
 (Exeunt *Guerillas and Cavaliers singing.*)
 
-Enter Willfort looking thro’ his eye-glass and Redmond O’Neale running out of breath. 
+> Enter Willfort looking thro’ his eye-glass and Redmond O’Neale running out of breath. 
 
 Redmond: Friends! Soldiers! rescue the Knight of Rokeby! Willport, let us save Matilda — those flames are devouring her father’s mansion!  
 
