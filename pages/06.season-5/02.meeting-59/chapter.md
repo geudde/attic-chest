@@ -14,3 +14,7 @@ visible: true
 5. [A Cockney Pastoral](cockney)
 6. [When over Fair Nature’s Face](nature)
 7. [Rokeby](rokeby)
+8. [Ode to Tyranny](tyranny)
+9. [The Pen’s Address](pen)
+10. [Valentine to Eborina](eborina)
+11. [To Miss P-----](recluse)

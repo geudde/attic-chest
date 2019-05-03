@@ -893,4 +893,4 @@ Rokeby, a new comic opera → <span class="name">Miss Vardill</span>
 Ode to Tyranny → <span class="name">Mr Elliott</span>  
 The Pen’s Address → <span class="name">Miss Vardill</span>  
 Recluse to Miss P. → <span class="name">Miss Sanders</span>  
-Valentine to Eborian → <span class="name">Miss Porden</span> (withdrawn)
+Valentine to Eborina → <span class="name">Miss Porden</span> <span class="alias">(Orlando)</span> 
