@@ -1,5 +1,5 @@
 ---
-title: 'Fredrick Ledger Scamper to the Editress'
+title: 'Frederick Ledger Scamper to the Editress'
 taxonomy:
     category:
         - docs
