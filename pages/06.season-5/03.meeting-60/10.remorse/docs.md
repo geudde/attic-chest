@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Vardill</div>
 
-Remorse, or I’m Very Sorry!!  
+##### Remorse, or I’m Very Sorry!!  
 
 A New Tragedy  
 
@@ -67,8 +67,6 @@ Melissa:
 
 ’Tis strange! Go on!
 
-## attic chest  D  3311 18 20_0031
-
 Groanilda:
 
 Deep thunder shook the shelves — the spectre cried  
@@ -121,8 +119,6 @@ Think too what gorgeous bales of new-spun silk,
 What precious rings and watches unredeem’d  
 From Dobree’s sale he brought home yesterday:—   
 All these are pack’d for thee!
-
-## attic chest  D  3311 18 20_0032
 
 Groanilda:  
 
@@ -180,15 +176,12 @@ Thou heedest ought on earth, descend and answer!
 Come in thy mortal robes of Tyrian blue  
 Spun from Merino’s fleece and sold in Holborn —   
 Then with thy fleshless arms and shadowy thumbs  
-
-## attic chest  D  3311 18 20_0033
-
 Show us the ghastly, deep and yawning wound  
 From whence thy pure innocuous life escap’d  
 Like a white pigeon thro’ a crimson net!  
 
-[An invisible chorus of groans —   
-Displays his magic lantern]
+(An invisible chorus of groans —   
+Displays his magic lantern)
 
 Bertram:  
 
@@ -216,7 +209,7 @@ Showman:
 Perhaps thou seest him now! perhaps he looks  
 E’en *thus*, on *thee*, his murd’rer!
 
-[Drops his mask. A very loud scream heard. Teapottus leaps upon the counter. Bertram creeps under it and enter — ]
+(Drops his mask. A very loud scream heard. Teapottus leaps upon the counter. Bertram creeps under it and enter — )
 
 Bow Street Officers:
 
