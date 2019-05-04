@@ -15,11 +15,11 @@ A New Tragedy
 According to the Art of Sinking  
 by  
 Martinus Scriblerus  
-
-Scene: Whitechapel
-
-Enter Groanilda and Melissa
 </div>
+
+> Scene: Whitechapel
+> 
+> Enter Groanilda and Melissa
 
 Melissa:
 
@@ -181,8 +181,8 @@ Show us the ghastly, deep and yawning wound
 From whence thy pure innocuous life escap’d  
 Like a white pigeon thro’ a crimson net!  
 
-(An invisible chorus of groans —   
-Displays his magic lantern)
+> An invisible chorus of groans —   
+> Displays his magic lantern
 
 Bertram:  
 
@@ -210,7 +210,7 @@ Showman:
 Perhaps thou seest him now! perhaps he looks  
 E’en *thus*, on *thee*, his murd’rer!
 
-(Drops his mask. A very loud scream heard. Teapottus leaps upon the counter. Bertram creeps under it and enter — )
+> Drops his mask. A very loud scream heard. Teapottus leaps upon the counter. Bertram creeps under it and enter — 
 
 Bow Street Officers:
 
@@ -260,10 +260,8 @@ The Judge will take thy bail.
 
 Groanilda:  
 
-
 My Sire and Husband!  
 Alas! — *I’m very sorry!!!*  
 
-
-Exeunt Omnes
+>Exeunt Omnes
 
