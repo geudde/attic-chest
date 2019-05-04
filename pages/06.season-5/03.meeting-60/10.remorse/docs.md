@@ -21,14 +21,12 @@ Martinus Scriblerus
 > 
 > Enter Groanilda and Melissa
 
-Melissa:
-
-The evening star now trembles in the sky  
-As loth to take his ling’ring, last farewell —   
-Sweet friend, the shop is closed — we’ll wander here  
-While the soft blackbird chants its hymn to May —   
-Mother of cheerfulness, whose cradle rocks  
-The youthful poet in his dreams of love!
+Melissa:&emsp;The evening star now trembles in the sky  
+&emsp;&emsp;As loth to take his ling’ring, last farewell —   
+&emsp;&emsp;Sweet friend, the shop is closed — we’ll wander here  
+&emsp;&emsp;While the soft blackbird chants its hymn to May —   
+&emsp;&emsp;Mother of cheerfulness, whose cradle rocks  
+&emsp;&emsp;The youthful poet in his dreams of love!
 
 Groanilda:  
 
