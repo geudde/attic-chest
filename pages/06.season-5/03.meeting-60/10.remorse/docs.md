@@ -8,13 +8,13 @@ visible: false
 
 <div class="author">Miss Vardill</div>
 
-##### Remorse, or I’m Very Sorry!!  
+##### I’m Very Sorry!!  
 <div class="center" markdown="1">
-A New Tragedy  
+**A New Tragedy**  
 
-According to the Art of Sinking  
-by  
-Martinus Scriblerus  
+**According to the Art of Sinking**  
+**by**  
+**Martinus Scriblerus**  
 </div>
 
 > Scene: Whitechapel
