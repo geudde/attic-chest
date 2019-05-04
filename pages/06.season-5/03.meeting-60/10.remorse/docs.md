@@ -9,7 +9,7 @@ visible: false
 <div class="author">Miss Vardill</div>
 
 ##### Remorse, or I’m Very Sorry!!  
-
+<div class="center" markdown="1">
 A New Tragedy  
 
 According to the Art of Sinking  
@@ -19,6 +19,7 @@ Martinus Scriblerus
 Scene: Whitechapel
 
 Enter Groanilda and Melissa
+</div>
 
 Melissa:
 
