@@ -1,10 +1,11 @@
 ---
-title: Gallus to the Society of Vestals
+title: 'Capias Latitat to Miss Prudentia Quickset'
 taxonomy:
     category:
         - docs
 visible: false
 ---
+
 <div class="author">Miss Porden</div>
 
 To Miss Prudentia Quickset, Spinster.  
