@@ -24,7 +24,7 @@ To Eleanor all seasons smile
 Winter’s harsh hours she can beguile  
 Can, in the nerve relaxing heat  
 With various lay, flowing and sweet  
-The Ear enchant, inspire the feet
+The Ear enchant, inspire the feet  
 And place the languid frame and soul  
 Under Terpsichore’s control  
 To her the sound of London’s cries  
