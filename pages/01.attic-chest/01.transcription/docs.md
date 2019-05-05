@@ -48,4 +48,4 @@ The editors of the Attic Chest were also troubled by illegibility, as noted in W
 
 It should be noted, however, that these attributions sometimes conflict with the handwriting, for reasons that are not clear.
 
-**Fidelity to Original:** Some Attic Chest members formatted their contributions to imitate printed text or scribbled notes; others added illustrations. As the contributions were read out by Eleanor Anne Porden, it is not clear why members devoted took such pains over the appearance of their contributions. No attempt has been made to reproduce such embellishments.
+**Fidelity to Original:** Some Attic Chest members formatted their contributions to imitate printed text or scribbled notes; others added illustrations. As the contributions were read out by Eleanor Anne Porden, it is not clear why members devoted so much time to the appearance of their contributions. No attempt has been made to reproduce such embellishments.
