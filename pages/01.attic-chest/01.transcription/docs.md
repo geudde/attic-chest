@@ -40,6 +40,12 @@ Contributions not included in the Gell Collection are coloured grey in the list 
 
 > Illegible text is indicated by question marks. Hover over <span data-tippy="Greek text" class="red">[ ? ? ? ]</span> to see comment. 
 
+The editors of the Attic Chest were also troubled by illegibility, as noted in William Porden’s comments at the 28 April 1813 meeting:  
+
+> We recommend it to some of our correspondents to be a little less sparing of their paper, and to lay in a fresh stock of pens and ink as the latter appears to have been too often watered already and their writing requires a microscope. Our friends must be sensible how much the spirit of their effusions must evaporate and the sense be lost while the reader is blundering over the hand, and endeavouring to make out the words.
+
 **Authorship:** At the conclusion of each season the editors of the Attic Chest compiled a list of meetings, contributions, and authors. Not all authors were identified, and not all contributions were preserved. The names of acknowledged authors have been added as they appear in the archive.
 
 It should be noted, however, that these attributions sometimes conflict with the handwriting, for reasons that are not clear.
+
+**Fidelity to Original:** Some Attic Chest members formatted their contributions to imitate printed text or scribbled notes; others added illustrations. As the contributions were read out by Eleanor Anne Porden, it is not clear why members devoted took such pains over the appearance of their contributions. No attempt has been made to reproduce such embellishments.
