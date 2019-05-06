@@ -17,4 +17,7 @@ visible: true
 8. [Mr Scriblerus Card](atticus-3)
 9. [Laura to Celia](laura)
 10. [Celia to Laura](celia)
+11. [Anonymous No. 2](anonymous)
+12. [A Moral Tale](moral)
+13. [The History of the Garter](garter)
 
