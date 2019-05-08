@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-<div class="grey">Miss Vardill</div>
+<div class="name">Miss Vardill</div>
 
 Mr Editor
 
