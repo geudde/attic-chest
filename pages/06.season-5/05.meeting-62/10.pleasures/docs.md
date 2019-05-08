@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Elliott</div>
 
-<div class="center markdown="1">
+<div class="center" markdown="1">
 Proposals  
 for publishing by subscription, in one elegant volume,  
 royal duodecimo, dedicated to ----
