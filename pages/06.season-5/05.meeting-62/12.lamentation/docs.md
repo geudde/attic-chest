@@ -101,7 +101,7 @@ D<sup>n</sup>. to Atticus Scriblerus
 
 <tr><td>For one new Epithet (line 14th):</td> <td>£0 0s 6d</td></tr>
 
-<tr><td>&nbsp;</td><td>Total: £0 7s 0d</td></tr>
+<tr><td>Total:</td><td>£0 7s 0d</td></tr>
 </table>
 
 Rec<sup>d</sup> the Contents
