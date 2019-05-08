@@ -1,5 +1,5 @@
 ---
-title: An Ex-Member’s Lamentation
+title: 'An Ex-Member’s Lamentation'
 taxonomy:
     category:
         - docs
