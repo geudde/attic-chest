@@ -1,45 +1,91 @@
 ---
-title: Official Dinner
+title: Again Sweet Spring Delights
 taxonomy:
     category:
         - docs
 visible: false
 ---
 
-<div class="author">Mr Kay (altered)</div>
+<div class="author">Miss Porden</div>
 
-Mr Editor  
+Again sweet spring delights the laughing earth,  
+&emsp;With verdure clothes the grove, with flow’rs the vale,  
+To lumb’ring nature gives a second birth,  
+&emsp;Blooms on each tree, and breathes in ev’ry gale.  
 
-As the Society of which you are the able Generalissimo occasionally love a laugh even at the expense of the learned professions, I have sent the enclosed “Jeu d’esprit” as an attack on their risible faculties.  
+Still in yon cloud the ev’ning crimson flows  
+&emsp;As light it floats o’er ether’s boundless scene,  
+Like that bright hue remember’d pleasure throws  
+&emsp;O’er the pure azure of a mind serene.  
 
-It was occasioned by the serious loss to the church of a good Saturday’s dinner from the circumstance of a court in one of our large towns having sat to so late and hour, by the anxiety of the lawyers to get all their business done, that the dignitaries of the church who had been invited to partake of the feast that usually succeeds on such legal labours, found it necessary to creep home dinnerless to bed, or at least only such as their own cupboards could afford and unattended with the pomp and circumstance of a public feast, and I am very sure that many members of your Society are sufficiently admirers of the Epicurean as well as of the other distinguished sects of philosophy, heartily to sympathize with, however they may be inclined to laugh at the diappointment of the Rev. Gentlemen.
+Till where yon mountains mingle with the skies  
+&emsp;Their loftiest summits catch the ling’ring beam,  
+First on those heights the morning sun shall rise  
+&emsp;And longest there the moon’s soft lustre gleam.  
 
-Yours
+The feather’d choir still tune their ev’ning song,  
+&emsp;And who on such a lovely scene can gaze  
+Nor, fill’d with holy joy, like them prolong  
+&emsp;The varied notes of Piety and Praise?
 
-Epicuretto
+Hence metaphysic eyes — I care not why  
+&emsp;Yon varied landscape glads my ravished sight,  
+Why yon warm tints impart a livelier joy  
+&emsp;Then the chill horrors of a starless night.  
 
----
+Why when on nature’s wide expanse I gaze,  
+&emsp;Earth and its joys or sorrows I despise,  
+My thoughts unfetter’d as the solar rays  
+&emsp;In holy transports soar above the skies.  
 
-> “The guests now starve that causes may be tried”
-> 
-> (Pope travestied)
+As children oft will break some fav’rite toy,  
+&emsp;To know whate’er its polished <span data-tippy="ink blot" class="green">[???]</span> contains,  
+Seeking its cause, your pleasure you destroy  
+&emsp;Yet waste in vain your ineffectual pains.  
 
-In full uniform, the turtle to storm  
-The church and the army had met  
-They waited till five, with hopes still alive  
-For in truth they were pretty sharp set.  
+While you the rose of happiness resign,  
+&emsp;Its parent tree still anxious to explore,  
+And find alone the thorn — still be it mine  
+&emsp;To know I’m happy, and to know no more.
 
-At six some few scowl’d, at seven all growl’d  
-Their stomachs at eight “Cupboard cried”  
-At nine in a pet they went home for a whet  
-And swore that their patience was tried.  
+And far from me be those whose jaundiced souls  
+&emsp;To all things give their melancholy hue:  
+Where now its peaceful tide yon river rolls,  
+&emsp;Whose minds alone the wintry torrent view.  
 
-At last with a maw, as hungry as law  
-The court breaks up half after nine  
-At ten as I ween, with appetites keen  
-They sat down in order to dine.  
+Who where yon mountains stretch their length’ning chain  
+&emsp;Can see no beauty on their *barren* brows,  
+At noon of Phoebus’ scorching ray complain  
+&emsp;That genial ray that life and light bestows.  
 
-But each Reverend Guest had crept home to rest  
-With stomach that had not a full pit  
-And some sad rogues say that all the next day  
-A languor pervaded the pulpit.
+Like passing clouds reflected in the tide  
+&emsp;Who deem all pleasure but a shadow vain,  
+Illusion ever; by a breath destroy’d  
+&emsp;Or past and vanish’d ere you look again.  
+
+What tho’ yon rising stream that mead o’erflow’d,  
+&emsp;’Tis thence its herbage drew its brighter dyes;  
+A richer nectar for her fragrant load  
+&emsp;The thyme-clad mountain to the bee supplies.
+
+Take from yon firmament its glorious sun,  
+&emsp;And where is earth and all its beauty fled?  
+Its jarring seeds to second chaos run,  
+&emsp;A joyless scene, to life and pleasure dead.  
+
+If earthly pleasure be a shadow vain  
+&emsp;And fleeting like a summer’s cloud away,  
+It is the shadow of her purer reign  
+&emsp;In the bright regions of eternal day.  
+
+Still be it mine amid life’s stormy course,  
+&emsp;To catch the transient beam that shines serene;  
+Tho’ thorns unnumber’d guard her fairest flow’rs,  
+&emsp;To pluck them gaily as they bloom between.  
+
+If fortune grant me all my heart desire,  
+&emsp;Or plunge me deeply in the sea of care,  
+Oh may I still in trembling hope aspire  
+&emsp;The sunshine of that cloudless day to share.
+
+Philemon

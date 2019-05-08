@@ -18,6 +18,6 @@ visible: true
 9. [Atticus Scriblerus to the Editress](atticus)
 10. [Pleasures of Sentiment](pleasures)
 11. [Conquest of the Spice Island](spice)
-12. [Lamentation](lamentation)
+12. [An Ex-Member’s Lamentation](lamentation)
 13. [Again Sweet Spring Delights](spring)
 14. [History of the Garter 3 & 4](garter)
