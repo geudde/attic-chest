@@ -19,5 +19,5 @@ visible: true
 10. [Celia to Laura](celia)
 11. [Anonymous No. 2](anonymous)
 12. [A Moral Tale](moral)
-13. [The History of the Garter](garter)
+13. [The History of the Garter 1 & 2](garter)
 
