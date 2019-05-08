@@ -97,11 +97,11 @@ London. May 11th 1813
 D<sup>n</sup>. to Atticus Scriblerus  
 
 <table>
-<tr><td>For one Lamentation and Remonstrance containing 13 stanzas of Elegaic verse at 1½ per line:</td><td>£0 6s 6d</td></tr>
+<tr><td>For one Lamentation and Remonstrance containing 13 stanzas of Elegaic verse at 1½ per line:</td><td>£0&nbsp;6s&nbsp;6d</td></tr>
 
-<tr><td>For one new Epithet (line 14th):</td> <td>£0 0s 6d</td></tr>
+<tr><td>For one new Epithet (line 14th):</td> <td>£0&nbsp;0s&nbsp;6d</td></tr>
 
-<tr><td>Total:</td><td>£0 7s 0d</td></tr>
+<tr><td>Total:</td><td>£0&nbsp;7s&nbsp;0d</td></tr>
 </table>
 
 Rec<sup>d</sup> the Contents
