@@ -28,7 +28,7 @@ The Attic Chest contributions exhibit inconsistency of spelling, capitalization,
 
 > This is an example of missing text. Hover over <span data-tippy="Text missing" class="red">[ . . . ]</span> to see comment. 
 
-Contributions not included in the Gell Collection are coloured grey in the list of authors. Thus:
+Contributions not included in the Gell Collection are coloured grey in the list of authors:
 
 > <span class="grey">Sonnet to a Friend → Mrs Maxwell</span>
 
@@ -38,7 +38,7 @@ Contributions not included in the Gell Collection are coloured grey in the list 
 
 Fading ink and the passage of centuries have compounded such problems. Every effort has been been to extrapolate illegible text. Where this had proved impossible, such text has been indicated thus:
 
-> Illegible text is indicated by question marks. Hover over <span data-tippy="Greek text" class="red">[ ? ? ? ]</span> to see comment. 
+> Illegible text is indicated by question marks. Hover over <span data-tippy="illegible" class="red">[???]</span> to see comment. 
 
 **Authorship:** At the conclusion of each season the editors of the Attic Chest invited contributors to acknowledge their anonymous works, and such acknowledgements were compiled into lists of contributions. Unfortunately these lists exhibit major inconsistencies. For example, Eleanor Anne Porden is often identified as the author of pieces written in a recognisably different hand. In this online archive, the names of acknowledged authors have been added as they appear in the Gell Collection lists.
 
