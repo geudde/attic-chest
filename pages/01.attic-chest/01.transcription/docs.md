@@ -8,7 +8,7 @@ tntsearch:
     index: false
 ---
 
-The Attic Chest contributions exhibit inconsistency of spelling, capitalization, and punctuation, often in combination. Any attempt to reproduce these and other inconsistencies would make the transcriptions confusing or unreadable. The following guidelines have been adopted.
+The Attic Chest contributions exhibit irregulariy of spelling, capitalization, and punctuation, often in combination. Any attempt to reproduce these and other irregularities would make the transcriptions confusing or unreadable. Consequently the following guidelines have been adopted.
 
 **Spelling:** Wherever practical, variant spellings have been replaced with modern equivalents, even where authors have shown a preference for spellings that illustrate rhyme, e.g., ‘soul’ and ‘controul’ or ‘loud’ and ‘croud’. Spelling now considered American (e.g. ‘humor’, ‘favor’) has been preserved. 
 
@@ -42,4 +42,4 @@ Fading ink and the passage of centuries have compounded such problems. Every eff
 
 **Authorship:** At the conclusion of each season the editors of the Attic Chest invited contributors to acknowledge their anonymous works, and such acknowledgements were compiled into lists of contributions. Unfortunately these lists exhibit major inconsistencies. For example, Eleanor Anne Porden is often identified as the author of pieces written in a recognisably different hand. In this online archive, the names of acknowledged authors have been added as they appear in the Gell Collection lists.
 
-**Fidelity to Original:** Some Attic Chest members formatted their contributions to imitate printed text or scribbled notes; others added illustrations. As the contributions were read out by Eleanor Anne Porden, it is not clear why some members took such pains over the appearance of their contributions. No attempt has been made to reproduce such embellishments.
+**Fidelity to Original:** Some Attic Chest members formatted their contributions to imitate printed text or scribbled notes; others added illustrations. As the contributions were read out by Eleanor Anne Porden, it is not clear why some members devoted so much effort to the visual impact of their contributions. No attempt has been made to reproduce such embellishments.
