@@ -8,9 +8,9 @@ tntsearch:
     index: false
 ---
 
-The Attic Chest contributions exhibit irregulariy of spelling, capitalization, and punctuation, often in combination. Any attempt to reproduce these and other irregularities would make the transcriptions confusing or unreadable. Consequently the following guidelines have been adopted.
+The Attic Chest contributions exhibit irregularity of spelling, capitalization, and punctuation, often in combination. Any attempt to reproduce these and other inconsistencies would render the transcriptions confusing or unreadable. Consequently the following guidelines have been adopted.
 
-**Spelling:** Wherever practical, variant spellings have been replaced with modern equivalents, even where authors have shown a preference for spellings that illustrate rhyme, e.g., ‘soul’ and ‘controul’ or ‘loud’ and ‘croud’. Spelling now considered American (e.g. ‘humor’, ‘favor’) has been preserved. 
+**Spelling:** Wherever practical, variant spellings have been replaced with modern equivalents, even where authors have shown a preference for spellings that illustrate rhyme, e.g., ‘soul → controul’ or ‘loud → croud’. Spelling now considered American (e.g. ‘humor’, ‘favor’) has been preserved. 
 
 **Capitalization:** Most Attic Chest contributors used capitalization for emphasis and visual effect. The same word can be found capitalized in one line and not in another. Adjectives are often capitalized whilst the nouns they modify are not. Where consistent capitalization is used for emphasis, this has been retained. Otherwise, capitalization has been modified to reflect modern usage. 
 
@@ -32,7 +32,7 @@ Contributions not included in the Gell Collection are coloured grey in the list 
 
 > <span class="grey">Sonnet to a Friend → Mrs Maxwell</span>
 
-**Illegibility:** The editors of the Attic Chest were often troubled by illegibility, as noted by William Porden’s comments at the 28 April 1813 meeting:  
+**Illegibility:** The editors of the Attic Chest were often troubled by illegibility, as noted by William Porden’s comment at the 28 April 1813 meeting:  
 
 > We recommend it to some of our correspondents to be a little less sparing of their paper, and to lay in a fresh stock of pens and ink as the latter appears to have been too often watered already and their writing requires a microscope. Our friends must be sensible how much the spirit of their effusions must evaporate and the sense be lost while the reader is blundering over the hand, and endeavouring to make out the words.
 
