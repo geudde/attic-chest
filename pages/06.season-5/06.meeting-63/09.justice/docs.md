@@ -1,5 +1,6 @@
 ---
 title: Justice
+media_order: signature.png
 taxonomy:
     category:
         - docs
@@ -88,3 +89,4 @@ It shall be done, with zeal most fervent
 By your obsequious humble servant  
 
 Atticus Scriblerus
+![Signature](signature.png)
