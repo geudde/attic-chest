@@ -89,4 +89,4 @@ It shall be done, with zeal most fervent
 By your obsequious humble servant  
 
 Atticus Scriblerus
-![Signature](signature.png?resize=400)
+![Signature](signature.png?resize=380)
