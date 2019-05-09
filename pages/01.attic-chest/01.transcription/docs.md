@@ -32,11 +32,11 @@ Contributions not included in the Gell Collection are coloured grey in the list 
 
 > <span class="grey">Sonnet to a Friend → Mrs Maxwell</span>
 
-**Illegibility:** The editors of the Attic Chest were often troubled by illegibility, as noted in William Porden’s comments at the 28 April 1813 meeting:  
+**Illegibility:** The editors of the Attic Chest were often troubled by illegibility, as noted by William Porden’s comments at the 28 April 1813 meeting:  
 
 > We recommend it to some of our correspondents to be a little less sparing of their paper, and to lay in a fresh stock of pens and ink as the latter appears to have been too often watered already and their writing requires a microscope. Our friends must be sensible how much the spirit of their effusions must evaporate and the sense be lost while the reader is blundering over the hand, and endeavouring to make out the words.
 
-Fading ink and the passage of centuries have compounded such problems. Every effort has been been to extrapolate illegible text. Where this had proved impossible, such text has been indicated thus:
+Fading ink and the passage of centuries have compounded such problems. Every effort has been made to extrapolate illegible text. Where this had proved impossible, such text has been indicated thus:
 
 > Illegible text is indicated by question marks. Hover over <span data-tippy="illegible" class="red">[???]</span> to see comment. 
 
