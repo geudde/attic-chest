@@ -9,3 +9,4 @@ visible: true
 
 1. [Editorial](editorial)
 2. [Kitty Maltravers to the Editor](kitty)
+3. [Belle Bluemantle to the Editor](belle)
