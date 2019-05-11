@@ -192,50 +192,50 @@ tntsearch:
 <span class="meeting">No. 13&emsp;(1809-12-19)</span>  
 </div>
 
-The Spirit of the Attic Chest → <span class="name">Miss Flaxman</span>  
-The Novembriad → <span class="name">Miss Flaxman</span>  
-Translation of Ode of Petrarch → <span class="name">Mrs Dobson</span>  
-Verses to the Moon → <span class="name">Communicated by Mrs Flaxman</span>  
-Says a P to an O → <span class="name">com. Mr R. Kay</span>  
-Anacreon 16 → <span class="name">Mr Bond</span>  
-To Sir John Barrington → <span class="name">Mr Porden</span>  
-Epigram → <span class="name">R. Westall</span>  
-Anagrammatical → <span class="name">Unknown</span>  
-Charade: Malice → <span class="name">Mr Stockdale</span>  
-Cupid as Landscape Painter → <span class="name">com. Miss Flaxman</span> <span class="alias">(H.C.R.)</span>  
+[The Spirit of the Attic Chest](../../season-1/meeting-13/spirit) → <span class="name">Miss Flaxman</span>  
+[The Novembriad](../../season-1/meeting-13/novembriad) → <span class="name">Miss Flaxman</span>  
+[Translation of Ode of Petrarch](../../season-1/meeting-13/petrarch) → <span class="name">Mrs Dobson</span>  
+[Verses to the Moon](../../season-1/meeting-13/moon) → <span class="name">Communicated by Mrs Flaxman</span>  
+[Says a P to an O](../../season-1/meeting-13/p-to-o) → <span class="name">com. Mr R. Kay</span>  
+[Anacreon 16](../../season-1/meeting-13/anacreon-16) → <span class="name">Mr Bond</span>  
+[To Sir John Barrington](../../season-1/meeting-13/barrington) → <span class="name">Mr Porden</span>  
+[Epigram](../../season-1/meeting-13/fire) → <span class="name">R. Westall</span>  
+[Anagrammatical](../../season-1/meeting-13/anagrammatical) → <span class="name">Unknown</span>  
+[Charade: Malice](../../season-1/meeting-13/anagrammatical) → <span class="name">Mr Stockdale</span>  
+[Cupid as Landscape Painter](../../season-1/meeting-13/cupid) → <span class="name">com. Miss Flaxman</span> <span class="alias">(H.C.R.)</span>  
 
 
 <div class="bottom">
 <span class="meeting">No. 14&emsp;(1810-01-02)</span>  
 </div>
 
-History of the Attic Chest → <span class="name">Miss Porden</span>  
-Christmas Gambols → <span class="name">com. Mrs Flaxman</span>  
-The Fairy’s Wish → <span class="name">Do.</span> <span class="alias">(Gossamer)</span>  
-Riddle “Four people sat down at a Tavern to play” →    
-Dulce Domum → <span class="name">Miss Flaxman</span> <span class="alias">(Peregrine)</span>  
-To a Lost Friend → <span class="name">Miss Ludlow, com. by Miss Richardson</span>  
-Anacreontic → <span class="name">Mr Flaxman</span> <span class="alias">(Anacreonides)</span>  
-Monsieur L’Abbé de Grenthe’s Academy → <span class="name">com. Sir John Barrington</span>  
-Verses spoken at His Ball → <span class="name">Do.</span>  
-The Tinder Box → <span class="name">Mr Flaxman</span> <span class="alias">(Philo-Fillagree)</span>  
+[History of the Attic Chest](../../season-1/meeting-14/history) → <span class="name">Miss Porden</span>  
+[Christmas Gambols](../../season-1/meeting-14/gambols) → <span class="name">com. Mrs Flaxman</span>  
+[The Fairy’s Wish](../../season-1/meeting-14/wish) → <span class="name">Do.</span> <span class="alias">(Gossamer)</span>  
+[Riddle “Four people sat down at a Tavern to play”](../../season-1/meeting-14/riddle) →    
+[Dulce Domum](../../season-1/meeting-14/dulce) → <span class="name">Miss Flaxman</span> <span class="alias">(Peregrine)</span>  
+[To a Lost Friend](../../season-1/meeting-14/friend) → <span class="name">Miss Ludlow, com. by Miss Richardson</span>  
+[Anacreontic](../../season-1/meeting-14/anacreontic) → <span class="name">Mr Flaxman</span> <span class="alias">(Anacreonides)</span>  
+[Monsieur L’Abbé de Grenthe’s Academy](../../season-1/meeting-14/grenthe) → <span class="name">com. Sir John Barrington</span>  
+[Verses spoken at His Ball](../../season-1/meeting-14/grenthe) → <span class="name">Do.</span>  
+[The Tinder Box](../../season-1/meeting-14/tinder-box) → <span class="name">Mr Flaxman</span> <span class="alias">(Philo-Fillagree)</span>  
 
 <div class="bottom">
 <span class="meeting">No. 15&emsp;(1810-01-16)</span>  
 </div>
 
-The Spirit of Yuletide → <span class="name">Miss Sanders</span> <span class="alias">(Robin)</span>  
-An Address to Love → <span class="name">unknown</span>  
-Verses Imitated from the French of Moliere → <span class="name">Miss Richardson</span>  
-“Si le Roi m’avait donné” → <span class="name">Do.</span>  
-Song of the Goldfinch → <span class="name">com. Mrs Flaxman</span>  
-Mr. Giles, a parody on “Young Lochinvar” → <span class="name">Miss Richardson</span>  
-Query in Natural History → <span class="name">Mr Parkinson</span>  
-Answer to Do. → <span class="name">Mr Porden</span>  
-Do. by Brownee to Lady Charlotte Durham → <span class="name">Do.</span>  
-The Wise men of Gotham → <span class="name">Do.</span>  
-Charade: A Kiss →    
-Cupid as Landscape Painter → <span class="name">Mr Vignoles</span> <span class="alias">(B.R.)</span>  
+[The Spirit of Yuletide](../../season-1/meeting-15/yuletide) → <span class="name">Miss Sanders</span> <span class="alias">(Robin)</span>  
+[An Address to Love](../../season-1/meeting-15/love) → <span class="name">unknown</span>  
+[Verses Imitated from the French of Moliere](../../season-1/meeting-15/moliere) → <span class="name">Miss Richardson</span>  
+[“Si le Roi m’avait donné”](../../season-1/meeting-15/moliere) → <span class="name">Do.</span>  
+[Song of the Goldfinch](../../season-1/meeting-15/goldfinch) → <span class="name">com. Mrs Flaxman</span>  
+[Mr. Giles, a parody on “Young Lochinvar”](../../season-1/meeting-15/giles) → <span class="name">Miss Richardson</span>  
+[Query in Natural History](../../season-1/meeting-15/query) → <span class="name">Mr Parkinson</span>  
+[Answer to Do.](../../season-1/meeting-15/answer-1) → <span class="name">Mr Porden</span>  
+[Do. by Brownee to Lady Charlotte Durham](../../season-1/meeting-15/answer-2) → <span class="name">Do.</span>  
+[The Wise men of Gotham](../../season-1/meeting-15/gotham) → <span class="name">Do.</span>  
+[Charade: A Kiss](../../season-1/meeting-15/charade) →    
+[Cupid as Landscape Painter](../../season-1/meeting-15/cupid) → <span class="name">Mr Vignoles</span> <span class="alias">(B.R.)</span>  
 
 <div class="bottom">
 <span class="meeting">No. 16&emsp;(1810-01-30)</span>  
