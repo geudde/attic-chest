@@ -962,7 +962,7 @@ Celia to Laura Epistle No. 4 → <span class="name">Miss Flaxman</span>
 Lines to a Young Friend → <span class="name">Miss Richardson</span>  
 Do. spoken extempore → <span class="name">com. Miss Beslee</span>  
 <span data-tippy="Page Missing: Tentative Attributions" class="red">[&ensp;.&ensp;.&ensp;.&ensp;]</span>  
-Letter to the Editor → <span class="grey">Miss Vardill</span> <span class="alias">(Jeffrey Julep)</span>  
+Jeffrey Julep to the Editor → <span class="grey">Miss Vardill</span>  
 Spring →   
 Justice → <span class="grey">Mr Porden</span> <span class="alias">(Atticus Scriblerus)</span>  
 The Grot → 
