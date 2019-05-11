@@ -8,9 +8,9 @@ visible: false
 
 <div class="author">Mr Elliott</div>
 
-> Grub Street 4th June 1813
+Grub Street 4th June 1813
 
-> To the Editor of the Attic Chest
+To the Editor of the Attic Chest
 
 Sir
 
@@ -78,13 +78,13 @@ Atticus Scriblerus
 
 #### Glossary
 
-[^1]: “Bang up” — a word which has no equivalent in English, the *comme il faut* of the French faintly expresses a similar idea. It may be paraphrased “the tip-top of everything that is gay, admirable, clever, dashing, and as it ought to be.
+[^1]: “Bang up” — a word which has no equivalent in English, the *comme il faut* of the French faintly expresses a similar idea. It may be paraphrased “the tip-top of everything that is gay, admirable, clever, dashing, and as it ought to be”.
 
 [^2]: “Prime”  — clever, exact, perfectly fit, a kindred word to the preceding.  
 
 [^3]: “Belchers” — a sort of red and yellow handkerchief so called in compliment to the celebrated bruiser.  
 
-[^4]: “Jackey” — gentleman-like or (which means the same thing) coachman-lime names for the liquor vulgarly called *Gin*.
+[^4]: “Jackey” — gentleman-like or (which means the same thing) coachman-like names for the liquor vulgarly called *Gin*.
 
 [^5]: “Blue ruin” — ditto.
 
