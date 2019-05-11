@@ -126,7 +126,7 @@ tntsearch:
 [Address from the Attic Chest](../../season-1/meeting-08/attic-chest) → <span class="name">Miss Porden</span>  
 [Answer to the Riddle in No. 4](../../season-1/meeting-08/author) → <span class="name">Miss Porden</span>  
 [Another  &#12291; ](../../season-1/meeting-08/in-vain) → <span class="name">Mr Henry Thomson</span>  
-[Another  &#12291; ](../../season-1/meeting-08/of-old) → <span class="name">A young Lady</span>  
+[Another  &#12291; ](../../season-1/meeting-08/of-old) → <span class="name">A Young Lady</span>  
 [Anacreon Ode 48](../../season-1/meeting-08/anacreon-48) → <span class="name">Mr Bond</span>  
 [The Jealous Lover](../../season-1/meeting-08/jealous-lover) → <span class="name">Mr Porden</span>  
 [The Lamentation of Pegasus](../../season-1/meeting-08/lamentation) → <span class="name">Miss Porden</span>  
@@ -140,38 +140,38 @@ tntsearch:
 </div>
 
 <span class="grey">The Dove from Anacreon</span> → <span class="name">Mr Porden</span>   
-Anacreon Ode 29 → <span class="name">Mr Bond</span>  
-The Rose a Coquette → <span class="name">Miss Flaxman</span>  
-On a Young Lady who Spoilt a Fine Complexion → <span class="name">Mr Joseph</span>  
-Horace Book 2 Ode 16 → <span class="name">Mr Bond</span> <span class="alias">(Demos)</span>  
-Epigram or Dr. Toe → <span class="name">com. Mr Flaxman</span>  
+[Anacreon Ode 29](../../season-1/meeting-09/anacreon-29) → <span class="name">Mr Bond</span>  
+[The Rose a Coquette](../../season-1/meeting-09/coquette) → <span class="name">Miss Flaxman</span>  
+[On a Young Lady who Spoilt a Fine Complexion](../../season-1/meeting-09/album) → <span class="name">Mr Joseph</span>  
+[Horace Book 2 Ode 16](../../season-1/meeting-09/desmos) → <span class="name">Mr Bond</span> <span class="alias">(Desmos)</span>  
+[Epigram or Dr. Toe](../../season-1/meeting-09/epigram) → <span class="name">com. Mr Flaxman</span>  
 <span class="grey">Answer to the Riddle on Buonaparte → Mr Porden</span>  
-Constellation No. 4 → <span class="name">Miss Porden</span>  
+[Constellation No. 4](../../season-1/meeting-09/constellation-4) → <span class="name">Miss Porden</span>  
 
 <div class="bottom">
 <span class="meeting">No. 10&emsp;(1809-05-16)</span>  
 </div>
 
-Sonnet on the Cicada → <span class="name">com. Mr Porden</span>  
-Anacreon Ode 43 → <span class="name">Mr Bond</span>  
-Story Zeladai &amp; Alcidon → <span class="name">Mr Porden</span>  
-Elegy on Fitz Pieria → <span class="name">Miss Flaxman</span>  
-Pegasus restored to the Gods → <span class="name">Mr Flaxman</span>  
-The Mob Cap → <span class="name">Mr Kennion</span>  
-To Roberto → <span class="name">Miss Porden</span>  
-Roberto’s Answer → <span class="name">Mr Robert Kay</span>  
-To Roberto again → <span class="name">Miss Porden</span>  
+[Sonnet on the Cicada](../../season-1/meeting-10/cicada) → <span class="name">com. Mr Porden</span>  
+[Anacreon Ode 43](../../season-1/meeting-10/anacreon-43) → <span class="name">Mr Bond</span>  
+[Story Zeladai &amp; Alcidon](../../season-1/meeting-10/zeladai) → <span class="name">Mr Porden</span>  
+[Elegy on Fitz Pieria](../../season-1/meeting-10/elegy) → <span class="name">Miss Flaxman</span>  
+[Pegasus restored to the Gods](../../season-1/meeting-10/pegasus) → <span class="name">Mr Flaxman</span>  
+[The Mob Cap](../../season-1/meeting-10/mob-cap) → <span class="name">Mr Kennion</span>  
+[To Roberto](../../season-1/meeting-10/roberto-1) → <span class="name">Miss Porden</span>  
+[Roberto’s Answer](../../season-1/meeting-10/roberto-2) → <span class="name">Mr Robert Kay</span>  
+[To Roberto again](../../season-1/meeting-10/roberto-3) → <span class="name">Miss Porden</span>  
 
 <div class="bottom">
 <span class="meeting">No. 11&emsp;(1809-05-30)</span>  
 </div>
 
-Impromptu written on the Margate Packet →   
+[Impromptu written on the Margate Packet](../../season-1/meeting-11/impromptu) →   
 <span class="grey">The Apotheosis → Mr Flaxman</span>  
-Address to the Clouds on St. Valentine’s Day → <span class="name">Miss Porden</span>  
-Anacreon Ode 1 → <span class="name">Mr Parkinson</span>  
-Another  &#12291; → <span class="name">Mr Bond</span>  
-Another  &#12291; → <span class="name">Mr Porden</span>  
+[Address to the Clouds on St. Valentine’s Day](../../season-1/meeting-11/clouds) → <span class="name">Miss Porden</span>  
+[Anacreon Ode 1](../../season-1/meeting-11/anacreon-1) → <span class="name">Mr Parkinson</span>  
+[Another  &#12291;](../../season-1/meeting-11/anacreon-2) → <span class="name">Mr Bond</span>  
+[Another  &#12291;](../../season-1/meeting-11/anacreon-3) → <span class="name">Mr Porden</span>  
 <span class="grey">Query in Natural History → Mr Parkinson</span>  
 <span class="grey">Answer → Mr Porden</span>     
 
@@ -179,13 +179,14 @@ Another  &#12291; → <span class="name">Mr Porden</span>
 <span class="meeting">No. 12&emsp;(1809-07-14)</span>  
 </div>
 
-Burlesque Elegy → <span class="name">Miss Porden</span>  
-Sonnet → <span class="name">Miss Porden</span> <span class="alias">(Sophis)</span>  
-Flattery Rejected → <span class="name">Mr Joseph</span>  
-The Floral Senate → <span class="name">Miss Porden</span>  
-Sonnet to Roberto → <span class="name">Miss Porden</span>  
-<span class="grey">A Fragment from the Greek → Mr Flaxman</span>   
-Farewell Address from the Attic Chest → <span class="name">Miss Porden</span>  
+[Burlesque Elegy](../../season-1/meeting-12/fitz-piera) → <span class="name">Miss Porden</span>  
+[Sonnet](../../season-1/meeting-12/sonnet) → <span class="name">Miss Porden</span> <span class="alias">(Sophis)</span>  
+[Flattery Rejected](../../season-1/meeting-12/flattery) → <span class="name">Mr Joseph</span>  
+[The Floral Senate](../../season-1/meeting-12/senate) → <span class="name">Miss Porden</span>  
+[Sonnet to Roberto](../../season-1/meeting-12/roberto) → <span class="name">Miss Porden</span>  
+[A Fragment from the Greek](../../season-1/meeting-12/fragment) → <span class="name">Mr Flaxman</span>   
+[The Attic Chest](../../season-1/meeting-12/attic-chest) → <span class="name">Miss Porden</span>  
+[Farewell Address from the Attic Chest](../../season-1/meeting-12/farewell) → <span class="name">Miss Porden</span>  
 
 <div class="bottom">
 <span class="meeting">No. 13&emsp;(1809-12-19)</span>  
