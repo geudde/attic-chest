@@ -44,7 +44,7 @@ All these orators spoke at once, and a full concerto of tongues was proceeding, 
 
 “I vote for its continuance,” said the Chaplain with a gracious smile. “One of my order has maliciously compared celibacy to a fly in the heart of an apple which lives and dies unknown; but I consider it an useful bee, busied in collecting *only* the *honey* of life, and provided with a powerful sting to revenge insults.”
 
-<span data-tippy="Pages Missing" class="red">[. . . ]</span>
+<span data-tippy="Pages Missing" class="red">[&ensp;.&ensp;.&ensp;.&ensp;]</span>
 
 the rest of the scene. You will guess all that was said, or rather, all that was *not said*; for more tears than words were spent on this occasion. The Chaplain, who seems to have been Dr Balvenie’s accomplice, produced a special license, and in two hours we saluted St Agnes by a new name. Never were seven gayer brides-maids. Even the grins of Messrs Julep and Scratch were natural. In my careless mirth I said to Willoughby Woodbine, “We, whose hearts are made of cork or elastic rubber, know nothing of these romantic affections.” 
 
