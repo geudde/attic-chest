@@ -21,7 +21,6 @@ Yet as all this clemency in thinking was often thrown away, I began to devise so
 
 > Here insert the enclosed letter
 
-
 The ingenuity of Electromagus’s invention is great, but that of his letter writing more so. In order to comply with the letter of my law (given in No. 1) and at the same time give a scope to his writing, he has taken a large sheet of foolscap paper, and has written the long way, as the Society will perceive, and not content with that, has employed a very small close hand, tho’ I cannot say a neat one — at this rate my correspondents may use sheets of elephant paper, and write with crow quills such a hand that it will require a double solar microscope to decipher the letters. Nay, for anything I know to the contrary, they may make use of the New Patent Paper which is made to any length whatever — nay, endless if required. They will comply with the regulation, and send but thirty lines, but each line will form an infinite series of letters, and we may in vain make use of the approximating principles of algebra to determine them.  In fact, I believe to limit the encroachment of my correspondents, I must give them permission to write as much as they please, and accordingly I do hereby revoke the third condition of correspondence enacted in my first number.
 
 I have received a curious History of a Traveller and a letter from Bedlam, both of which I must delay till my next, as business prevents my continuing my present number.  
