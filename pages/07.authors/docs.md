@@ -973,8 +973,6 @@ The Grot →
 <span class="meeting">No. 64&emsp;(1813-06-09)</span>  
 </div>
 
-No. 64 [1813-06-09]  〃
-
 <span data-tippy="Page Missing: Tentative Attributions" class="red">[&ensp;.&ensp;.&ensp;.&ensp;]</span>
 
 Kitty Maltravers to the Editor → <span class="grey">Miss Vardill</span>  
