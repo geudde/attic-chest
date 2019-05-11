@@ -961,11 +961,8 @@ An Antient Fragment found in a Skeleton Case → <span class="name">Miss Vardill
 Celia to Laura Epistle No. 4 → <span class="name">Miss Flaxman</span>  
 Lines to a Young Friend → <span class="name">Miss Richardson</span>  
 Do. spoken extempore → <span class="name">com. Miss Beslee</span>  
-
 <span data-tippy="Page Missing: Tentative Attributions" class="red">[&ensp;.&ensp;.&ensp;.&ensp;]</span>
-
-Letter to the Editor  → <span class="grey">Miss Vardill</span> <span class="alias">(Jeffrey Julep)</span>  
-Spring →   
+Letter to the Editor  → <span class="grey">Miss Vardill</span> <span class="alias">(Jeffrey Julep)</span>  Spring →   
 Justice → <span class="grey">Mr Porden</span> <span class="alias">(Atticus Scriblerus)</span>  
 The Grot → 
 
@@ -974,7 +971,6 @@ The Grot →
 </div>
 
 <span data-tippy="Page Missing: Tentative Attributions" class="red">[&ensp;.&ensp;.&ensp;.&ensp;]</span>
-
 Kitty Maltravers to the Editor → <span class="grey">Miss Vardill</span>  
 Mr Julep’s Memorandums → <span class="grey">Miss Vardill</span>  
 Fragment Found in the Hermitage → <span class="grey">Miss Vardill</span>  
@@ -986,7 +982,7 @@ The Menagerie of the Gods →
 How d’ye Do → <span class="grey">Miss Richardson</span>  
 Goblet → 
 The Night before the Battle → <span class="grey">Miss Vardill</span>  
-To Eliza → <span class="grey">Miss Porden</span>
+To Eliza → <span class="grey">Miss Porden</span>  
 Lines Composed on a Mail Coach →   
 Anacreontic →  
 
