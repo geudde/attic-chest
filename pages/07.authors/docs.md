@@ -894,3 +894,107 @@ Ode to Tyranny → <span class="name">Mr Elliott</span>
 The Pen’s Address → <span class="name">Miss Vardill</span>  
 Recluse to Miss P. → <span class="name">Miss Sanders</span>  
 Valentine to Eborina → <span class="name">Miss Porden</span> <span class="alias">(Orlando)</span> 
+
+<div class="bottom">
+<span class="meeting">No. 60&emsp;(1813-04-14)</span>  
+</div>
+
+Letter from Miss Rebecca Nettletop → <span class="name">Mrs Flaxman</span>  
+Letter from Miss Annabella Squib → <span class="name">Miss Flaxman</span>  
+Gallus to the Society of Vestals → <span class="name">Mr Vignoles</span>  
+Capias Latitat to Miss Prudentia Quickset do. → <span class="name">Miss Porden</span>  
+Allcourt Anyside to the Associated Spinsters do.  → <span class="name">Governor Franklin</span>  
+Croesus Custody to the Editress → <span class="name">Mr Elliott</span>  
+Fredrick Ledger Scamper do. → <span class="name">Mr Elliott</span>  
+<span class="grey">Enigma → Miss Vardill</span>
+To my Husband → <span class="name">Miss Vardill</span>  
+Remorse → <span class="name">Miss Vardill</span>  
+Rebus → com. <span class="name">Miss Flaxman</span> <span class="alias">(Sphinx)</span>  
+To Miss Porden → <span class="name">Mrs Richardson</span> <span class="alias">(S.R.)</span>  
+For the Album of a Friend → <span class="name">Miss Sanders</span> <span class="alias">(Recluse)</span>  
+The Distressed Traveller → <span class="name">com. Miss F. Richardson</span>  
+
+<div class="bottom">
+<span class="meeting">No. 61&emsp;(1813-04-28)</span>  
+</div>
+
+
+Lady Belle Bluemantle to the Editor → <span class="name">Miss Vardill</span>  
+Kitty Maltraves to the Head Eater → <span class="name">Miss Flaxman</span>  
+Christopher Circuit to Tabby Hall → <span class="name">Mr Vignoles</span>  
+Letter from the Fair Advertiser → <span class="name">Miss Porden</span>  
+Atticus Scriblerus to the Editress → <span class="name">Mr Elliott</span>  
+Mr Scriblerus Proposal → <span class="name">Mr Elliott</span>  
+Mr Scriblerus Card → <span class="name">Mr Elliott</span>  
+Laura to Celia Epistle No. 1 → <span class="name">Miss Porden</span>  
+Celia to Laura Epistle No. 2 → <span class="name">Miss Flaxman</span>  
+Anonymous No. 2 → <span class="name">Mr Vignoles</span>  
+A Moral Tale → <span class="name">Miss Vardill</span>  
+The History of the Garter → <span class="name">Miss Porden
+
+<div class="bottom">
+<span class="meeting">No. 62&emsp;(1813-05-12)</span>  
+</div>
+
+
+Letter from Diana Dainty to the Editor → <span class="name">Mrs Rough</span>  
+Do. from Michael Mitre → <span class="name">Mr Flaxman</span>  
+Do. from Barnaby Scratch → <span class="name">Miss Vardill</span> [Porden]  
+The Farewell → <span class="name">Miss Vardill</span>  
+Farewell to Malta → Lord Byron → <span class="name">com. Miss C. Richardson</span>  
+Laura to Celia Epistle No. 3 → <span class="name">Miss Porden</span>  
+Official Dinner → <span class="name">Mr Kay</span>  
+Mr Atticus Scriblerus to the Editress → <span class="name">Mr Elliott</span>  
+His Proposal and Specimen of Pleasures of Sentiment → <span class="name">Mr Elliott</span>  
+Do. Do. The Conquest of the Spice Islands →  <span class="name">Mr Elliott</span>  
+An ex-Members Lamentation → <span class="name">Miss Vardill</span> <span class="alias">(Atticus Scriblerus)</span>  
+“Again Sweet Spring Delights” → <span class="name">Miss Porden</span> <span class="alias">(Philemon)</span>  
+The History of the Garter Parts 3 and 4 → <span class="name">Miss Porden</span>  
+
+<div class="bottom">s
+<span class="meeting">No. 63&emsp;(1813-05-26)</span>  
+</div>
+
+Lines sent to a Lady → <span class="name">com. Miss Beslee</span>  
+“Yes while Youth and Health are mine” → <span class="name">Miss Porden</span>  
+An Antient Fragment found in a Skeleton Case → <span class="name">Miss Vardill</span>  
+Celia to Laura Epistle No. 4 → <span class="name">Miss Flaxman</span>  
+Lines to a Young Friend → <span class="name">Miss Richardson</span>  
+Do. spoken extempore → <span class="name">com. Miss Beslee</span>  
+
+<span data-tippy="Page Missing: Tentative Attributions" class="red">[&ensp;.&ensp;.&ensp;.&ensp;]</span>
+
+Letter to the Editor  → <span class="grey">Miss Vardill</span> <span class="alias">(Jeffrey Julep)</span>  
+Spring →   
+Justice → <span class="grey">Mr Porden</span> <span class="alias">(Atticus Scriblerus)</span>  
+The Grot → 
+
+<div class="bottom">
+<span class="meeting">No. 64&emsp;(1813-06-09)</span>  
+</div>
+
+No. 64 [1813-06-09]  〃
+
+<span data-tippy="Page Missing: Tentative Attributions" class="red">[&ensp;.&ensp;.&ensp;.&ensp;]</span>
+
+Kitty Maltravers to the Editor → <span class="grey">Miss Vardill</span>  
+Mr Julep’s Memorandums → <span class="grey">Miss Vardill</span>  
+Fragment Found in the Hermitage → <span class="grey">Miss Vardill</span>  
+Dr Cardamom to the Editor → <span class="grey">Miss Vardill</span>  
+Anonymous No. 3 → <span class="grey">Mr Vignoles</span>  
+Letter from Electromagus → <span class="grey">Mr Vignoles</span>  
+The Art of Driving → <span class="grey">Mr Elliott</span>  
+The Menagerie of the Gods →   
+How d’ye Do → <span class="grey">Miss Richardson</span>  
+Goblet → 
+The Night before the Battle → <span class="grey">Miss Vardill</span>  
+To Eliza → <span class="grey">Miss Porden</span>
+Lines Composed on a Mail Coach →   
+Anacreontic →  
+
+<div class="bottom">
+<span class="meeting">No. 65&emsp;(1813-06-23)</span>  
+</div>
+
+Kitty Maltravers to the Editor → <span class="name">Miss Vardill</span>  
+Belle Bluemantle to the Editor → <span class="name">Miss Vardill</span>  
