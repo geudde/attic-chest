@@ -1,5 +1,5 @@
 ---
-title: The Menagerie of the Gods
+title: How d’ye Do
 taxonomy:
     category:
         - docs
