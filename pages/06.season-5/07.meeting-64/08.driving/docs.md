@@ -24,7 +24,7 @@ The following is a specimen on
 
 &emsp;&emsp;&emsp;&emsp;“The Barouchiad”
 
-&#42; &#42; &#42; &#42; &#42; &#42;
+<div class="center">&#42;&emsp;&#42;&emsp;&#42;&emsp;&#42;&emsp;&#42;&emsp;&#42;</div>
 
 Now frigid winter flies on tardy wing  
 And fashionables haste t’enjoy the spring;  
@@ -68,7 +68,7 @@ To give the ladies there at the “set out”[^10] a peep;
 Then off they start and dash thro thick and thin,  
 Nor stop till all in foam they reach the destined inn.
 
-&#42; &#42; &#42; &#42; &#42; &#42;
+<div class="center">&#42;&emsp;&#42;&emsp;&#42;&emsp;&#42;&emsp;&#42;&emsp;&#42;</div>
 
 This, Sir, may serve as a specimen of my work, and your opinion upon it will very much oblige
 
