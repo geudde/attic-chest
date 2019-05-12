@@ -993,4 +993,30 @@ Anacreontic →
 </div>
 
 Kitty Maltravers to the Editor → <span class="name">Miss Vardill</span>  
-Belle Bluemantle to the Editor → <span class="name">Miss Vardill</span>  
+Letter from Lady Belle Bluemantle → <span class="name">Miss Vardill</span>  
+The Dissolution Pt 1st → Miss Porden (Euphrosyne)  
+Atticus Scriblerus to Editor → Mr Elliott  
+Specimen of Art of Cooking → Mr Elliott  
+Lysander to Hermia → Miss Flaxman  
+“Dash from Thy Lip” → Miss Richardson  
+Song for a Festive Occasion → Miss Vardill  
+The Boulanger → com. Mr E. Elliott  
+Liberty → Mr Elliott  
+Critical Trialogue → [withdrawn]  
+
+<div class="bottom">
+<span class="meeting">No. 656emsp;(1813-07-14)</span>  
+</div>
+
+Michael Mitre to the Editor → Mr Flaxman & Miss Vardill  
+Kitty Maltravers to the Headeater → Miss Flaxman  
+The Dissolution → Miss Porden  
+The Invisible Cap → Miss Vardill  
+Song Written in 1773 → Mr Porden  
+Epistle → com. Miss Beslee  
+Lines to Miss Porden → Miss F. Richardson  
+Letter to the Editor → Mr Elliott  
+The Recantation → Mr Elliott  
+Romaic Fragment → Mr Flaxman  
+The Attic Chest’s Farewell Address → Miss Porden  
+Letter from Affezionatissima to Editress → Mrs Kay 
