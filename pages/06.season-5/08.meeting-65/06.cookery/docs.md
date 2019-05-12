@@ -25,7 +25,7 @@ With dainties cull’d from every soil and clime;
 Which ransacks Earth and Air, and Seas and Streams,  
 For palate-tickling, eye-delighting cates,  
 And on the genial Board of Hospitality  
-Well-drest doth dish them off — Sing Heavenly Muse!
+Well-drest doth dish them off — Sing Heavenly Muse!  
 Guide me delighted thro’ the mingling maze  
 Of Fish, Flesh, Fowl, Game, Ven’son, Tarts and Tartlets;  
 O! fill my soul with culinary lore,  
