@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Porden</div>  
 
-Obedient now at their <span data-tippy="desire" class="green">decree</span>decree  
+Obedient now at their <span data-tippy="desire" class="green">decree</span>  
 Comes Comfrey Cardamom <span data-tippy="Esquire" class="green">M.D.</span>  
 Before the magic of his eye  
 Spleen, vapours, and blue devils fly;  
