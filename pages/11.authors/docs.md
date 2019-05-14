@@ -994,7 +994,7 @@ Anacreontic →
 
 Kitty Maltravers to the Editor → <span class="name">Miss Vardill</span>  
 Letter from Lady Belle Bluemantle → <span class="name">Miss Vardill</span>  
-The Dissolution Pt 1st → <span class="name">Miss Porden</span> (Euphrosyne)  
+The Dissolution Pt 1st → <span class="name">Miss Porden</span> <span class="alias">(Euphrosyne)</span>  
 Atticus Scriblerus to Editor → <span class="name">Mr Elliott</span>  
 Specimen of Art of Cooking → <span class="name">Mr Elliott</span>  
 Lysander to Hermia → <span class="name">Miss Flaxman</span>  
