@@ -8,8 +8,6 @@ visible: false
 
 <div class="author">Miss Porden</div>  
 
-### The Dissolution Continued → Miss Porden  
-
 Obedient now at their <span data-tippy="desire" class="green">decree</span>decree  
 Comes Comfrey Cardamom <span data-tippy="Esquire" class="green">M.D.</span>  
 Before the magic of his eye  
