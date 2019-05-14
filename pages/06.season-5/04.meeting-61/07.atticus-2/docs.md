@@ -1,5 +1,5 @@
 ---
-title: Mr Scriblerus Proposal
+title: 'Mr Scriblerus Proposal'
 taxonomy:
     category:
         - docs

@@ -1,5 +1,5 @@
 ---
-title: Adieu to My Patrons
+title: 'Adieu to My Patrons'
 taxonomy:
     category:
         - docs

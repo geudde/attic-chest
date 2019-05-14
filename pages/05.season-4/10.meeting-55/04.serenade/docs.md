@@ -1,5 +1,5 @@
 ---
-title: Serenade and Reply
+title: 'Serenade and Reply'
 taxonomy:
     category:
         - docs

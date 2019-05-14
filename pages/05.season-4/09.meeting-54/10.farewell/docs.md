@@ -1,5 +1,5 @@
 ---
-title: The Farewell
+title: 'The Farewell'
 taxonomy:
     category:
         - docs

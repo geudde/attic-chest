@@ -1,5 +1,5 @@
 ---
-title: Written with a Crow Quill
+title: 'Written with a Crow Quill'
 taxonomy:
     category:
         - docs

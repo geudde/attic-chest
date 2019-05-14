@@ -1,5 +1,5 @@
 ---
-title: Christopher Circuit to Tabby Hall
+title: 'Christopher Circuit to Tabby Hall'
 taxonomy:
     category:
         - docs

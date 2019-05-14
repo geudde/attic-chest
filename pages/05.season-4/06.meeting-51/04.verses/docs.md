@@ -1,5 +1,5 @@
 ---
-title: Verses Written for an Album
+title: 'Verses Written for an Album'
 taxonomy:
     category:
         - docs

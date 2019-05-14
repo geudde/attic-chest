@@ -1,5 +1,5 @@
 ---
-title: Atticus Scriblerus to the Editress
+title: 'Atticus Scriblerus to the Editress'
 taxonomy:
     category:
         - docs

@@ -1,5 +1,5 @@
 ---
-title: The Menagerie of the Gods
+title: 'The Menagerie of the Gods'
 taxonomy:
     category:
         - docs

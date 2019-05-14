@@ -1,5 +1,5 @@
 ---
-title: Letter from Barnaby Scratch
+title: 'Letter from Barnaby Scratch'
 taxonomy:
     category:
         - docs

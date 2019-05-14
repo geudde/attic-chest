@@ -1,5 +1,5 @@
 ---
-title: The First of May
+title: 'The First of May'
 taxonomy:
     category:
         - docs

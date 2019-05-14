@@ -1,5 +1,5 @@
 ---
-title: The Butterfly
+title: 'The Butterfly'
 taxonomy:
     category:
         - docs

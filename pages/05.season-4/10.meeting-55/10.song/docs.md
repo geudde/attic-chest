@@ -1,5 +1,5 @@
 ---
-title: Song from the Advertising Lady
+title: 'Song from the Advertising Lady'
 taxonomy:
     category:
         - docs

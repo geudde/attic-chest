@@ -1,5 +1,5 @@
 ---
-title: Letter from the West Indian
+title: 'Letter from the West Indian'
 taxonomy:
     category:
         - docs

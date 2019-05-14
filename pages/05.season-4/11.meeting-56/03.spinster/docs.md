@@ -1,5 +1,5 @@
 ---
-title: Answer to the Unfortunate Spinster
+title: 'Answer to the Unfortunate Spinster'
 taxonomy:
     category:
         - docs

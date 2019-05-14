@@ -1,5 +1,5 @@
 ---
-title: The History of the Garter
+title: 'The History of the Garter'
 taxonomy:
     category:
         - docs

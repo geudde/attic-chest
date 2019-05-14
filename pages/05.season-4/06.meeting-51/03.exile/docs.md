@@ -1,5 +1,5 @@
 ---
-title: An Exile’s Dream
+title: 'An Exile’s Dream'
 taxonomy:
     category:
         - docs

@@ -1,5 +1,5 @@
 ---
-title: Fragment Found in the Hermitage
+title: 'Fragment Found in the Hermitage'
 taxonomy:
     category:
         - docs

@@ -1,5 +1,5 @@
 ---
-title: To Amanda
+title: 'To Amanda'
 taxonomy:
     category:
         - docs

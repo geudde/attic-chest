@@ -1,5 +1,5 @@
 ---
-title: The Advertising Lady’s Rejection
+title: 'The Advertising Lady’s Rejection'
 taxonomy:
     category:
         - docs

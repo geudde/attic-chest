@@ -1,5 +1,5 @@
 ---
-title: To Donald
+title: 'To Donald'
 taxonomy:
     category:
         - docs

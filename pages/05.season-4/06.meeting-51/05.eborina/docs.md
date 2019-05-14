@@ -1,5 +1,5 @@
 ---
-title: To Eborina
+title: 'To Eborina'
 taxonomy:
     category:
         - docs

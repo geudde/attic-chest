@@ -1,5 +1,5 @@
 ---
-title: Lady Belle Bluemantle to the Editor
+title: 'Lady Belle Bluemantle to the Editor'
 taxonomy:
     category:
         - docs

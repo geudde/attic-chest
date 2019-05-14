@@ -1,5 +1,5 @@
 ---
-title: Kitty Maltravers to the Editor
+title: 'Kitty Maltravers to the Editor'
 taxonomy:
     category:
         - docs

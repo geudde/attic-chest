@@ -1,5 +1,5 @@
 ---
-title: Old Joan
+title: 'Old Joan'
 taxonomy:
     category:
         - docs

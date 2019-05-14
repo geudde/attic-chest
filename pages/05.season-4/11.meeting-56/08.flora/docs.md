@@ -1,5 +1,5 @@
 ---
-title: Lady Flora
+title: 'Lady Flora'
 taxonomy:
     category:
         - docs

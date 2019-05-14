@@ -1,5 +1,5 @@
 ---
-title: Letter to the Editor
+title: 'Letter to the Editor'
 taxonomy:
     category:
         - docs

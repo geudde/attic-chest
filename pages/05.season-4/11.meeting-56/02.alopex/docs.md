@@ -1,5 +1,5 @@
 ---
-title: Letter from Alopex to the Editress
+title: 'Letter from Alopex to the Editress'
 taxonomy:
     category:
         - docs

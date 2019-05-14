@@ -1,5 +1,5 @@
 ---
-title: Letter from the Advertising Lady
+title: 'Letter from the Advertising Lady'
 taxonomy:
     category:
         - docs

@@ -1,5 +1,5 @@
 ---
-title: Lines Sent to a Lady
+title: 'Lines Sent to a Lady'
 taxonomy:
     category:
         - docs

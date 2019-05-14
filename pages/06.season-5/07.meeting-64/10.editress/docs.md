@@ -1,5 +1,5 @@
 ---
-title: How d’ye Do
+title: 'How d’ye Do'
 taxonomy:
     category:
         - docs

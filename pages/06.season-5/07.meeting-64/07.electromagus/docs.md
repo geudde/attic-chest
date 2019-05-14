@@ -1,5 +1,5 @@
 ---
-title: Letter from Electromagus
+title: 'Letter from Electromagus'
 taxonomy:
     category:
         - docs

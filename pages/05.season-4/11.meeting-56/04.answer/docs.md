@@ -1,5 +1,5 @@
 ---
-title: Answer from Blue Eye
+title: 'Answer from Blue Eye'
 taxonomy:
     category:
         - docs

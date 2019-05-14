@@ -1,12 +1,12 @@
 ---
-title: The Grot
+title: 'The Grot'
 taxonomy:
     category:
         - docs
 visible: false
 ---
 
-> A Letter to ------ Esq.
+> A Letter to - - - - Esq.
 
 1
 

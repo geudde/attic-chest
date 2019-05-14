@@ -1,5 +1,5 @@
 ---
-title: A Moral Tale
+title: 'A Moral Tale'
 taxonomy:
     category:
         - docs

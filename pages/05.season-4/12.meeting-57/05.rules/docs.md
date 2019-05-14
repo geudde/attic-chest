@@ -1,5 +1,5 @@
 ---
-title: Rules Formed to Promote Regularity
+title: 'Rules Formed to Promote Regularity'
 taxonomy:
     category:
         - docs

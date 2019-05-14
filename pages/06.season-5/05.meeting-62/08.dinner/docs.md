@@ -1,5 +1,5 @@
 ---
-title: Official Dinner
+title: 'Official Dinner'
 taxonomy:
     category:
         - docs

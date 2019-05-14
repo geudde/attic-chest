@@ -1,5 +1,5 @@
 ---
-title: The Art of Driving
+title: 'The Art of Driving'
 taxonomy:
     category:
         - docs

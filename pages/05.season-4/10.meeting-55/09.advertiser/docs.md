@@ -1,5 +1,5 @@
 ---
-title: To the Fair Advertiser
+title: 'To the Fair Advertiser'
 taxonomy:
     category:
         - docs

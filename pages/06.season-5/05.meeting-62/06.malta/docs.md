@@ -1,5 +1,5 @@
 ---
-title: Farewell to Malta
+title: 'Farewell to Malta'
 taxonomy:
     category:
         - docs

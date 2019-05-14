@@ -1,5 +1,5 @@
 ---
-title: Fragment Found in a Skeleton Case
+title: 'Fragment Found in a Skeleton Case'
 taxonomy:
     category:
         - docs

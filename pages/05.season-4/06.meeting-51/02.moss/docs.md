@@ -1,5 +1,5 @@
 ---
-title: The Mountain Moss
+title: 'The Mountain Moss'
 taxonomy:
     category:
         - docs

@@ -1,5 +1,5 @@
 ---
-title: Kitty Maltraves to the Head Eater
+title: 'Kitty Maltravers to the Head Eater'
 taxonomy:
     category:
         - docs

@@ -1,5 +1,5 @@
 ---
-title: To the West Middlesex Water Works Company
+title: 'To the West Middlesex Water Works Company'
 taxonomy:
     category:
         - docs

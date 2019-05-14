@@ -1,5 +1,5 @@
 ---
-title: Lines Spoken Extempore
+title: 'Lines Spoken Extempore'
 taxonomy:
     category:
         - docs

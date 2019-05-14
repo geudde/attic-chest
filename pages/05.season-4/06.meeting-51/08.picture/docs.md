@@ -1,5 +1,5 @@
 ---
-title: The Picture
+title: 'The Picture'
 taxonomy:
     category:
         - docs

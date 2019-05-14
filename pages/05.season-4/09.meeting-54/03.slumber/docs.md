@@ -1,5 +1,5 @@
 ---
-title: What tho’ Soft Slumber
+title: 'What tho’ Soft Slumber'
 taxonomy:
     category:
         - docs

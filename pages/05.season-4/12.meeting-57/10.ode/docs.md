@@ -1,5 +1,5 @@
 ---
-title: Ode for the Concluding Night
+title: 'Ode for the Concluding Night'
 taxonomy:
     category:
         - docs

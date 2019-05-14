@@ -1,5 +1,5 @@
 ---
-title: The Night before the Battle
+title: 'The Night before the Battle'
 taxonomy:
     category:
         - docs

@@ -1,5 +1,5 @@
 ---
-title: Letter from Diana Dainty
+title: 'Letter from Diana Dainty'
 taxonomy:
     category:
         - docs

@@ -1,5 +1,5 @@
 ---
-title: To Friendship
+title: 'To Friendship'
 taxonomy:
     category:
         - docs

@@ -1,5 +1,5 @@
 ---
-title: The Advertising Lady’s Interview
+title: 'The Advertising Lady’s Interview'
 taxonomy:
     category:
         - docs

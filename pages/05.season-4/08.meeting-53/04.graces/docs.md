@@ -1,5 +1,5 @@
 ---
-title: To Two of the Graces
+title: 'To Two of the Graces'
 taxonomy:
     category:
         - docs

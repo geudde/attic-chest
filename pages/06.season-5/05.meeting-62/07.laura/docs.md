@@ -1,5 +1,5 @@
 ---
-title: Laura to Celia
+title: 'Laura to Celia'
 taxonomy:
     category:
         - docs

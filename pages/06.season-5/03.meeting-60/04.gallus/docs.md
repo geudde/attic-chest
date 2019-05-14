@@ -1,5 +1,5 @@
 ---
-title: Gallus to the Society of Vestals
+title: 'Gallus to the Society of Vestals'
 taxonomy:
     category:
         - docs

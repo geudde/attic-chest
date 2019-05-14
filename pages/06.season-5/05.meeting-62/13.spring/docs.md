@@ -1,5 +1,5 @@
 ---
-title: Again Sweet Spring Delights
+title: 'Again Sweet Spring Delights'
 taxonomy:
     category:
         - docs

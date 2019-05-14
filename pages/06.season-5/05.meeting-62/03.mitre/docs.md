@@ -1,5 +1,5 @@
 ---
-title: Letter from Michael Mitre
+title: 'Letter from Michael Mitre'
 taxonomy:
     category:
         - docs

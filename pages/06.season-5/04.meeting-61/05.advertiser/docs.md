@@ -1,5 +1,5 @@
 ---
-title: Letter from the Fair Advertiser
+title: 'Letter from the Fair Advertiser'
 taxonomy:
     category:
         - docs

@@ -1,5 +1,5 @@
 ---
-title: The Wish
+title: 'The Wish'
 taxonomy:
     category:
         - docs

@@ -1,5 +1,5 @@
 ---
-title: Youth and Health
+title: 'Youth and Health'
 taxonomy:
     category:
         - docs

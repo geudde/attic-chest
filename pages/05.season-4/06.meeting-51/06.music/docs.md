@@ -1,5 +1,5 @@
 ---
-title: To Music
+title: 'To Music'
 taxonomy:
     category:
         - docs

@@ -1,5 +1,5 @@
 ---
-title: Imitated from the Greek
+title: 'Imitated from the Greek'
 taxonomy:
     category:
         - docs

@@ -1,5 +1,5 @@
 ---
-title: The Conquest of the Spice Island
+title: 'The Conquest of the Spice Island'
 taxonomy:
     category:
         - docs

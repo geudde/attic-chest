@@ -1,5 +1,5 @@
 ---
-title: To a Gentleman
+title: 'To a Gentleman'
 taxonomy:
     category:
         - docs

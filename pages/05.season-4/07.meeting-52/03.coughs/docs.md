@@ -1,5 +1,5 @@
 ---
-title: Of Coughs and Colds
+title: 'Of Coughs and Colds'
 taxonomy:
     category:
         - docs

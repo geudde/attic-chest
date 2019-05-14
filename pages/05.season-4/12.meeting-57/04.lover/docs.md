@@ -1,5 +1,5 @@
 ---
-title: The Despairing Lover
+title: 'The Despairing Lover'
 taxonomy:
     category:
         - docs

@@ -1,5 +1,5 @@
 ---
-title: Letter from Miss Rebecca Nettletop
+title: 'Letter from Miss Rebecca Nettletop'
 taxonomy:
     category:
         - docs

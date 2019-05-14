@@ -1,5 +1,5 @@
 ---
-title: Lines Composed on a Mail Coach
+title: 'Lines Composed on a Mail Coach'
 taxonomy:
     category:
         - docs

@@ -1,5 +1,5 @@
 ---
-title: To Stella
+title: 'To Stella'
 taxonomy:
     category:
         - docs

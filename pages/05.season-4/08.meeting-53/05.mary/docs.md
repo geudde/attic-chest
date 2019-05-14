@@ -1,5 +1,5 @@
 ---
-title: To Mary
+title: 'To Mary'
 taxonomy:
     category:
         - docs

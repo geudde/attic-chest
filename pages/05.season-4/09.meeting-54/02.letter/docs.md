@@ -1,5 +1,5 @@
 ---
-title: Letter to the Editress
+title: 'Letter to the Editress'
 taxonomy:
     category:
         - docs

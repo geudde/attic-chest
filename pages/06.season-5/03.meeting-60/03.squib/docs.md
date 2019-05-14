@@ -1,5 +1,5 @@
 ---
-title: Letter from Miss Annabella Squib
+title: 'Letter from Miss Annabella Squib'
 taxonomy:
     category:
         - docs

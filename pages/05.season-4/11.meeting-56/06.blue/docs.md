@@ -1,5 +1,5 @@
 ---
-title: The Blue Eye
+title: 'The Blue Eye'
 taxonomy:
     category:
         - docs

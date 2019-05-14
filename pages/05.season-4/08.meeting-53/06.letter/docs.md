@@ -1,5 +1,5 @@
 ---
-title: Letter from Alopex
+title: 'Letter from Alopex'
 taxonomy:
     category:
         - docs

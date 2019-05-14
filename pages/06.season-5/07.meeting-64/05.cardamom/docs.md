@@ -1,5 +1,5 @@
 ---
-title: Dr Cardamom to the Editor
+title: 'Dr Cardamom to the Editor'
 taxonomy:
     category:
         - docs

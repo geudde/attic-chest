@@ -1,5 +1,5 @@
 ---
-title: Mr Julep’s Memorandums
+title: 'Mr Julep’s Memorandums'
 taxonomy:
     category:
         - docs

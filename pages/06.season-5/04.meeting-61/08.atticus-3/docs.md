@@ -1,5 +1,5 @@
 ---
-title: Mr Scriblerus Card
+title: 'Mr Scriblerus Card'
 taxonomy:
     category:
         - docs

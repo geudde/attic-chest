@@ -1,5 +1,5 @@
 ---
-title: The Pleasures of Sentiment
+title: 'The Pleasures of Sentiment'
 taxonomy:
     category:
         - docs

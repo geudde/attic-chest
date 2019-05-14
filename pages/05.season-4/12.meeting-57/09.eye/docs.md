@@ -1,5 +1,5 @@
 ---
-title: Blessed Be the Eye
+title: 'Blessed Be the Eye'
 taxonomy:
     category:
         - docs

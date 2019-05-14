@@ -1,5 +1,5 @@
 ---
-title: Anonymous No. 3
+title: 'Anonymous No. 3'
 taxonomy:
     category:
         - docs
