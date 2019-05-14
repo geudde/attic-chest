@@ -994,29 +994,29 @@ Anacreontic →
 
 Kitty Maltravers to the Editor → <span class="name">Miss Vardill</span>  
 Letter from Lady Belle Bluemantle → <span class="name">Miss Vardill</span>  
-The Dissolution Pt 1st → Miss Porden (Euphrosyne)  
-Atticus Scriblerus to Editor → Mr Elliott  
-Specimen of Art of Cooking → Mr Elliott  
-Lysander to Hermia → Miss Flaxman  
-“Dash from Thy Lip” → Miss Richardson  
-Song for a Festive Occasion → Miss Vardill  
-The Boulanger → com. Mr E. Elliott  
-Liberty → Mr Elliott  
-Critical Trialogue → [withdrawn]  
+The Dissolution Pt 1st → <span class="name">Miss Porden</span> (Euphrosyne)  
+Atticus Scriblerus to Editor → <span class="name">Mr Elliott</span>  
+Specimen of Art of Cooking → <span class="name">Mr Elliott</span>  
+Lysander to Hermia → <span class="name">Miss Flaxman</span>  
+“Dash from Thy Lip” → <span class="name">Miss Richardson</span>  
+Song for a Festive Occasion → <span class="name">Miss Vardill</span>  
+The Boulanger → com. <span class="name">Mr E. Elliott</span>  
+Liberty → <span class="name">Mr Elliott</span>  
+<span class="grey">Critical Trialogue → </span> 
 
 <div class="bottom">
-<span class="meeting">No. 656emsp;(1813-07-14)</span>  
+<span class="meeting">No. 65&emsp;(1813-07-14)</span>  
 </div>
 
-Michael Mitre to the Editor → Mr Flaxman & Miss Vardill  
-Kitty Maltravers to the Headeater → Miss Flaxman  
-The Dissolution → Miss Porden  
-The Invisible Cap → Miss Vardill  
-Song Written in 1773 → Mr Porden  
-Epistle → com. Miss Beslee  
-Lines to Miss Porden → Miss F. Richardson  
-Letter to the Editor → Mr Elliott  
-The Recantation → Mr Elliott  
-Romaic Fragment → Mr Flaxman  
-The Attic Chest’s Farewell Address → Miss Porden  
-Letter from Affezionatissima to Editress → Mrs Kay 
+Michael Mitre to the Editor → <span class="name">Mr Flaxman &amp; Miss Vardill</span>  
+Kitty Maltravers to the Headeater → <span class="name">Miss Flaxman</span>  
+The Dissolution → <span class="name">Miss Porden</span>  
+The Invisible Cap → <span class="name">Miss Vardill</span>  
+Song Written in 1773 → <span class="name">Mr Porden</span>  
+Epistle → <span class="name">com. Miss Beslee</span>  
+Lines to Miss Porden → <span class="name">Miss F. Richardson</span>  
+Letter to the Editor → <span class="name">Mr Elliott</span>  
+The Recantation → <span class="name">Mr Elliott</span>  
+Romaic Fragment → <span class="name">Mr Flaxman</span>  
+The Attic Chest’s Farewell Address → <span class="name">Miss Porden</span>  
+Letter from Affezionatissima to Editress → <span class="name">Mrs Kay</span> 
