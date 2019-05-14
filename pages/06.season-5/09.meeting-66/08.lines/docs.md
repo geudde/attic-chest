@@ -39,4 +39,4 @@ The joy that still springs from your own guileless heart
 And may each coming birthday still find you as gay  
 As I trust this will find you dear Ellen *today*.
 
-[^1]: “And waft a sigh from Indus to the Poles” &emsp; Pope’s *Abelard and Eloise**
+[^1]: “And waft a sigh from Indus to the Poles” &emdash; Pope’s *Abelard and Eloise*
