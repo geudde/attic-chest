@@ -19,8 +19,8 @@ To furnish Odes for the New Year, the opening and closing of the Attic Season, o
 Competition! is the word.  
 
 Ladies and Gentlemen;  
-Mend you pens —   
-Mount your Nags —  
+Mend your pens —   
+Mount your Nags —   
 and Hey for Parnassus!
 
 Laurels are the fashion!
