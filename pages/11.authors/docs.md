@@ -1005,7 +1005,7 @@ Liberty → <span class="name">Mr Elliott</span>
 <span class="grey">Critical Trialogue → </span> 
 
 <div class="bottom">
-<span class="meeting">No. 65&emsp;(1813-07-14)</span>  
+<span class="meeting">No. 66&emsp;(1813-07-14)</span>  
 </div>
 
 Michael Mitre to the Editor → <span class="name">Mr Flaxman &amp; Miss Vardill</span>  
@@ -1020,3 +1020,92 @@ The Recantation → <span class="name">Mr Elliott</span>
 Romaic Fragment → <span class="name">Mr Flaxman</span>  
 The Attic Chest’s Farewell Address → <span class="name">Miss Porden</span>  
 Letter from Affezionatissima to Editress → <span class="name">Mrs Kay</span> 
+
+<div class="bottom">
+<span class="meeting">No. 67&emsp;(1814-02-22) Tuesday</span>  
+</div>
+
+Pseudo Editorial Remarks → Miss Flaxman  
+Advertisement for an Attic Chest Poet Laureate → Miss Flaxman  
+Probationary Ode “A Song of Sixpence” → Miss Flaxman  
+ 〃 signed M.S. Junior → Miss Porden  
+ 〃 signed Moth → Miss Porden  
+ 〃 Introduction to an Ode → Miss Flaxman  
+ 〃 Ode signed Atticus Scriblerus → Miss Porden  
+The Three Things a Good Husband ought to be etc. → Miss J. Cobb → com. Mrs Richardson  
+Letter from Electomagus to the Editor → Miss Porden  
+ 〃 from Atticus Scriblerus Junior → Mr Elliott  
+ 〃 from Sir Pertinax Townly →  Miss Porden  
+The Hermitage → Miss Vardill  
+The First Brother’s Tale → Miss Vardill
+
+<div class="bottom">
+<span class="meeting">No. 68&emsp;(1814-03-09) Tuesday</span>  
+</div>
+
+First Lecture on Natural History → Miss Porden  
+Probationary Ode signed Poeticus Aspirano → Mr Elliott  
+Reply to Anacreon’s 8th Ode → Miss Vardill  
+Baithus to Epicurus → Mr Porden  
+Letter from Sir Pertinax Townly → Miss Porden    
+Letter from Mr Beauclerc → Miss Vardill  
+Fragment of an Old → Miss Vardill  
+To Allen signed Margaret → Miss Flaxman  
+To Margaret signed Allen → Miss Flaxman  
+Exordium of the Pleasures of Poesy → Mr Elliott  
+The 2d Lecture on Natural History → Miss Porden  
+
+<div class="bottom">
+<span class="meeting">No. 69&emsp;(1814-12-07)</span>  
+</div>
+
+Address from the Spirit of the Attic Chest → Miss Porden  
+The Elfin Harp → Miss Flaxman  
+Address to the Spirit of Attic Nights → Miss Vardill  
+Hermes Caduceus → Miss Vardill  
+Traveller of the Summer Night → Miss Flaxman  
+Address of Atticus Scriblerus → Mr Elliott  
+On the Visit of Lord Aircastle → Miss Porden  
+Ode on Lord A.’s visit → Mr Elliott  
+ 〃 by Olivia Gossamer → Miss Vardill  
+ 〃 by Miss Stormont → Miss Vardill  
+Letter from Electomagus → Miss Porden  
+The 2d Brother’s Tale → Miss Vardill  
+The 3d Lecture on Natural History → Miss Porden
+
+<div class="bottom">
+<span class="meeting">No. 70&emsp;(1814-12-21)</span>  
+</div>
+
+St Thomas’ Day → Miss Porden  
+Letter to the Editor → Mr Elliott  
+A Kit Cat Ode → Mr Elliott  
+Memoirs of a Ridicule → Miss F. Richardson  
+Lines from Ensign → Miss Flaxman  
+The Third Brother’s Tale → Miss Vardill  
+Sir P. Townly → Miss Vardill  
+An Attempt → Miss Vardill  
+Electomagus to the Editor → Miss Porden  
+Atticus Scriblerus → Mr Elliott  
+The Skull and the Custom House Officer → Miss Porden  
+The 4th Lecture on Natural History → Miss Porden
+
+<div class="bottom">
+<span class="meeting">No. 71&emsp;(? ? ? ?)</span>  
+</div>
+
+The Lovers Calendar for 1815 → Miss Flaxman  
+A Fairy’s Song → Miss Flaxman  
+Mr Beauclerc → Miss Vardill  
+Sir P. Townly → Miss Porden  
+Sir P. Townly → Miss Vardill  
+Philemon to Olivia → Miss Vardill  
+Valentine → Miss Porden  
+Zaire a Orosmane → Mr Elliott  
+Parody → com. Miss Flaxman  
+Ridicule → Miss Vardill  
+The Sonnetteer No. 1 → Mr Elliott  
+The 4th Brother’s Tale → Miss Vardill  
+A New Epistle → Miss Vardill  
+Music to the Fairy’s Song → Miss Vardill  
+The 5th Lecture on Natural History → Miss Porden
