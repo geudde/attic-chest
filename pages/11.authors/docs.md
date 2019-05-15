@@ -241,103 +241,103 @@ tntsearch:
 <span class="meeting">No. 16&emsp;(1810-01-30)</span>  
 </div>
 
-Rebecca, a Ballad → <span class="name">Sir John Carr</span>  
-Address to a Gentleman on His Birthday → <span class="name">Mr Vignoles</span> <span class="alias">(B.R.)</span>  
-Anacreontic → <span class="name">Mr Flaxman</span> <span class="alias">(Anacreonides)</span>  
-Answer to the Query in Natural History → <span class="name">Mr Vignoles</span>  
-<span class="grey">An Erroneous Answer to the Riddle → Do.</span>    
-Another. *Buss* signed [Greek] → <span class="name">Miss Flaxman</span>  
+[Rebecca, a Ballad](../../season-2/meeting-16/rebecca) → <span class="name">Sir John Carr</span>  
+[Address to a Gentleman on His Birthday](../../season-2/meeting-16/address) → <span class="name">Mr Vignoles</span> <span class="alias">(B.R.)</span>  
+[Anacreontic](../../season-2/meeting-16/anacreontic) → <span class="name">Mr Flaxman</span> <span [class="alias">(Anacreonides)</span>  
+[Answer to the Query in Natural History](../../season-2/meeting-16/answer-1) → <span class="name">Mr Vignoles</span>  
+[An Erroneous Answer to the Riddle](../../season-2/meeting-16/answer-2) → <span class="name">Do.</span>    
+[Another. *Buss*](../../season-2/meeting-16/answer-3) → <span class="name">Miss Flaxman</span>  
 <span class="grey">Another Rebuss → Do.</span>    
-The Miser and the Mouse → <span class="name">com. by Do.</span>  
-Charade: Fortnight → <span class="name">Mr Vignoles</span>  
-A Stray Spark from the Tinder Box → <span class="name">Mr Flaxman</span>  
-Lines to the Author of the Tinder Box → <span class="name">Miss Flaxman</span>  
-Verses → <span class="name">Mr Hoppner</span>  
-A Reproof to Gormandizing Bards → <span class="name">Mr Parkinson</span> <span class="alias">(Fare and Fret)</span>  
-Lauretta → <span class="name">Miss Flaxman</span> <span class="alias">(Peregrine)</span>  
+[The Miser and the Mouse](../../season-2/meeting-16/miser) → <span class="name">com. by Do.</span>  
+[Charade: Fortnight](../../season-2/meeting-16/charade) → <span class="name">Mr Vignoles</span>  
+[A Stray Spark from the Tinder Box](../../season-2/meeting-16/spark) → <span class="name">Mr Flaxman</span>  
+[Lines to the Author of the Tinder Box](../../season-2/meeting-16/author) → <span class="name">Miss Flaxman</span>  
+[Verses](../../season-2/meeting-16/verses) → <span class="name">Mr Hoppner</span>  
+[A Reproof to Gormandizing Bards](../../season-2/meeting-16/reproof) → <span class="name">Mr Parkinson</span> <span class="alias">(Fare and Fret)</span>  
+[Lauretta](../../season-2/meeting-16/lauretta) → <span class="name">Miss Flaxman</span> <span class="alias">(Peregrine)</span>  
 
 <div class="bottom">
 <span class="meeting">No. 17&emsp;(1810-02-13)</span>  
 </div>
 
-Epitaph on General Wolfe → <span class="name">Mr Porden</span>  
-Stanzas on Terror and Pity → <span class="name">com. Mr Vignoles</span>  
-Address to the Muses → <span class="name">com. Mrs Flaxman</span>  
-Song Written on Tempestuous Night → <span class="name">com. Mr Henry Thomson</span>  
-An Invitation to the Reverend Mr Taylor → <span class="name">Mr Porden</span>  
-Translations from the Welsh of Daffyd ap Gwyllym →    
-Petition to Winter → <span class="name">Mr Porden</span>  
-Ambrosine → <span class="name">com. Miss Porden</span>  
-Enigma: Pleasure → <span class="name">Mrs Hutton</span>  
-Charade: Sparkling → <span class="name">Mr Vignoles</span>  
-The Lawyer, A Tale → <span class="name">Do.</span>  
-Lines on the Entrance of Valentine’s Day → <span class="name">Miss Flaxman</span> <span class="alias">(Cynthia)</span>  
+[Epitaph on General Wolfe](../../season-2/meeting-17/epitaph) → <span class="name">Mr Porden</span>  
+[Stanzas on Terror and Pity](../../season-2/meeting-17/stanzas) → <span class="name">com. Mr Vignoles</span>  
+[Address to the Muses](../../season-2/meeting-17/muses) → <span class="name">com. Mrs Flaxman</span>  
+[Song Written on Tempestuous Night](../../season-2/meeting-17/song) → <span class="name">com. Mr Henry Thomson</span>  
+[An Invitation to the Reverend Mr Taylor](../../season-2/meeting-17/taylor) → <span class="name">Mr Porden</span>  
+[Translations from the Welsh of Daffyd ap Gwyllym](../../season-2/meeting-17/welsh) →    
+[Petition to Winter](../../season-2/meeting-17/petition) → <span class="name">Mr Porden</span>  
+[Ambrosine](../../season-2/meeting-17/ambrosine) → <span class="name">com. Miss Porden</span>  
+[Enigma: Pleasure](../../season-2/meeting-17/enigma) → <span class="name">Mrs Hutton</span>  
+[Charade: Sparkling](../../season-2/meeting-17/enigma) → <span class="name">Mr Vignoles</span>  
+[The Lawyer, A Tale](../../season-2/meeting-17/lawyer) → <span class="name">Do.</span>  
+[Lines on the Entrance of Valentine’s Day](../../season-2/meeting-17/valentine) → <span class="name">Miss Flaxman</span> <span class="alias">(Cynthia)</span>  
 
 <div class="bottom">
 <span class="meeting">No. 18&emsp;(1810-02-27)</span>  
 </div>
 
-Valentine to Filo Fillagree → <span class="alias">(Scintilla)</span>  
-Do. to Peregrine → <span class="name">Miss Flaxman</span>  
-Do. to Ictinus → <span class="name">Do.</span> <span class="alias">(Dido)</span>  
-Do. to Hassan → <span class="name">Do.</span> <span class="alias">(Augusta Valentina)</span>   
-Do. to Somebody →   
-Do. to Roberto → <span class="alias">(Phoebe)</span>  
-Do. to An Architect →   
-Do. to Miss Porden →   
-Do. to Stella → <span class="name">Miss Flaxman</span> <span class="alias">(Moth)</span>  
-Do. to Elorina → <span class="name">Miss Porden</span> <span class="alias">(Punch)</span>  
-The Female Emigrations → <span class="name">Mr Vignoles</span>
+[Valentine to Filo Fillagree](../../season-2/meeting-18/scintilla) → <span class="alias">(Scintilla)</span>  
+[Do. to Peregrine](../../season-2/meeting-18/peregrine) → <span class="name">Miss Flaxman</span>  
+[Do. to Ictinus](../../season-2/meeting-18/dido) → <span class="name">Do.</span> <span class="alias">(Dido)</span>  
+[Do. to Hassan](../../season-2/meeting-18/augusta) → <span class="name">Do.</span> <span class="alias">(Augusta Valentina)</span>   
+[Do. to Somebody](../../season-2/meeting-18/somebody) →   
+[Do. to Roberto](../../season-2/meeting-18/phoebe) → <span class="alias">(Phoebe)</span>  
+[Do. to An Architect](../../season-2/meeting-18/miss-porden) →   
+[Do. to Miss Porden](../../season-2/meeting-18/moth) →   
+[Do. to Stella](../../season-2/meeting-18/punch) → <span class="name">Miss Flaxman</span> <span class="alias">(Moth)</span>  
+[Do. to Elorina](../../season-2/meeting-18/wit) → <span class="name">Miss Porden</span> <span class="alias">(Punch)</span>  
+[The Female Emigrations](../../season-2/meeting-18/emigration) → <span class="name">Mr Vignoles</span>
 
 <div class="bottom">
 <span class="meeting">No. 19&emsp;(1810-03-13)</span>  
 </div>
 
-The Moth → <span class="name">Miss Flaxman</span>    
-The Pastor Restored to His Flock → <span class="name">com. Mrs Kay</span> <span class="alias">(Philo Clerico)</span>  
-Ictinus to Dido → <span class="name">Miss Flaxman</span> <span class="alias">(Bond?)</span>  
-Sonnet to a Young Lad → <span class="name">Miss Porden</span> <span class="alias">(Mnemosyneia)</span>  
-To a Bull Finch → <span class="name">Miss Sanders</span> <span class="alias">(C.S.)</span>  
-To Laura → <span class="name">Miss Flaxman</span> <span class="alias">(Peregrine)</span>  
-An Address to the Pen → <span class="name">com. Miss Beslee</span>  
-To the Lady of the Golden Arrow → <span class="name">Miss Flaxman</span> <span class="alias">(Peregrine)</span>  
-Answer to the Charade Fortnight → <span class="name">Do.</span> <span class="alias">(M.)</span>  
-Verses to the Misses D---ns → <span class="name">Mr Porden</span>  
-Doubt and Certainty → <span class="name">Mr Porden</span>  
-Sonnet →  
-Song to the Tune of Four and Twenty Fiddlers → <span class="name">Mr Flaxman</span>  
+[The Moth](../../season-2/meeting-19/moth) → <span class="name">Miss Flaxman</span>    
+[The Pastor Restored to His Flock](../../season-2/meeting-19/pastor) → <span class="name">com. Mrs Kay</span> <span class="alias">(Philo Clerico)</span>  
+[Ictinus to Dido](../../season-2/meeting-19/ictinus) → <span class="name">Miss Flaxman</span> <span class="alias">(Bond?)</span>  
+[Sonnet to a Young Lad](../../season-2/meeting-19/sonnet-1) → <span class="name">Miss Porden</span> <span class="alias">(Mnemosyneia)</span>  
+[To a Bull Finch](../../season-2/meeting-19/bullfinch) → <span class="name">Miss Sanders</span> <span class="alias">(C.S.)</span>  
+[To Laura](../../season-2/meeting-19/laura) → <span class="name">Miss Flaxman</span> <span class="alias">(Peregrine)</span>  
+[An Address to the Pen](../../season-2/meeting-19/pen) → <span class="name">com. Miss Beslee</span>  
+[To the Lady of the Golden Arrow](../../season-2/meeting-19/arrow) → <span class="name">Miss Flaxman</span> <span class="alias">(Peregrine)</span>  
+[Answer to the Charade Fortnight](../../season-2/meeting-19/answer) → <span class="name">Do.</span> <span class="alias">(M.)</span>  
+[Verses to the Misses D---ns](../../season-2/meeting-19/verses) → <span class="name">Mr Porden</span>  
+[Doubt and Certainty](../../season-2/meeting-19/doubt) → <span class="name">Mr Porden</span>  
+[Sonnet →  
+[Song to the Tune of Four and Twenty Fiddlers](../../season-2/meeting-19/song) → <span class="name">Mr Flaxman</span>  
 
 <div class="bottom">
 <span class="meeting">No. 20&emsp;(1810-03-27)</span>  
 </div>
 
-From a Butterfly to Aspasia → <span class="name">Dr Shaw</span>  
-The Cottage → <span class="name">com. Mrs Kay</span> <span class="alias">(S.G.)</span>  
-Tea → <span class="name">Mr Parkinson</span> <span class="alias">(Van-ta-zhin)</span>  
-The Power of Song → <span class="name">com. Mrs Flaxman</span>  
-A German Bacchanalian Song → <span class="name">Mr Campbell</span>  
-Ebor’s Green → <span class="name">Mr Porden</span>  
-An O.P. Dialogue between a Turk and an Englishman → <span class="alias">(Frederica)</span>  
-Westminster Hall on the First Day of Term → <span class="name">Mr Vignoles</span> <span class="alias">(Edward)</span>  
-The Mother’s Song → <span class="name">Miss Flaxman</span> <span class="alias">(Penelope)</span>
+[From a Butterfly to Aspasia](../../season-2/meeting-20/butterfly) → <span class="name">Dr Shaw</span>  
+[The Cottage](../../season-2/meeting-20/cottage) → <span class="name">com. Mrs Kay</span> <span class="alias">(S.G.)</span>  
+[Tea](../../season-2/meeting-20/tea) → <span class="name">Mr Parkinson</span> <span class="alias">(Van-ta-zhin)</span>  
+[The Power of Song](../../season-2/meeting-20/power) → <span class="name">com. Mrs Flaxman</span>  
+[A German Bacchanalian Song](../../season-2/meeting-20/bacchanalia) → <span class="name">Mr Campbell</span>  
+[Ebor’s Green](../../season-2/meeting-20/ebor) → <span class="name">Mr Porden</span>  
+[An O.P. Dialogue between a Turk and an Englishman](../../season-2/meeting-20/dialogue) → <span class="alias">(Frederica)</span>  
+[Westminster Hall on the First Day of Term](../../season-2/meeting-20/westminster) → <span class="name">Mr Vignoles</span> <span class="alias">(Edward)</span>  
+[The Mother’s Song](../../season-2/meeting-20/mothers-song) → <span class="name">Miss Flaxman</span> <span class="alias">(Penelope)</span>  
+[The Voyage of the Muses](../../season-2/meeting-20/muses) → <span class="name">Miss Porden</span>  
 
 <div class="bottom">
 <span class="meeting">No. 21&emsp;(1810-04-10)</span>  
 </div>
 
-The Voyage of the Muses → <span class="name">Miss Porden</span>  
-A Challenge → <span class="name">Miss Flaxman</span> <span class="alias">(Thalestris/Incognita)</span>  
-The Squirrel → <span class="name">Miss Sanders</span>  
-Sonnet to a Little Girl → <span class="name">com. Miss Beslee</span>  
-Sonnet to Samuel William Nicol Esq. → <span class="name">Mr Porden</span>  
-Song “If Ever Prayer of Hapless Love” → <span class="name">Mr Porden</span>  
-Against Life from Posidippus → <span class="name">com. Mrs Flaxman</span>  
-For Life from the Greek of Metrodorus → <span class="name">Do.</span>  
-The New Broom → <span class="name">Reverend Mr Cayley</span>  
-On the Portable Pens → <span class="name">Mr Bon</span>  
-Latin Acrostic: Napoleon Buonaparte →   
-The Latin Gerunds: Di Do Dum → <span class="name">com. Miss Flaxman</span>  
-The Speech of a New Married Man → <span class="name">Do.</span>  
+[A Challenge](../../season-2/meeting-21/challenge) → <span class="name">Miss Flaxman</span> <span class="alias">(Thalestris/Incognita)</span>  
+[The Squirrel](../../season-2/meeting-21/squirrel) → <span class="name">Miss Sanders</span>  
+[Sonnet to a Little Girl](../../season-2/meeting-21/little-girl) → <span class="name">com. Miss Beslee</span>  
+[Sonnet to Samuel William Nicol Esq.](../../season-2/meeting-21/nicol) → <span class="name">Mr Porden</span>  
+[Song “If Ever Prayer of Hapless Love”](../../season-2/meeting-21/song) → <span class="name">Mr Porden</span>  
+[Against Life from Posidippus](../../season-2/meeting-21/against-life) → <span class="name">com. Mrs Flaxman</span>  
+[For Life from the Greek of Metrodorus](../../season-2/meeting-21/for-life) → <span class="name">Do.</span>  
+[The New Broom](../../season-2/meeting-21/broom) → <span class="name">Reverend Mr Cayley</span>  
+[On the Portable Pens](../../season-2/meeting-21/pens) → <span class="name">Mr Bon</span>  
+[Latin Acrostic: Napoleon Buonaparte](../../season-2/meeting-21/acrostic) →   
+[The Latin Gerunds: Di Do Dum](../../season-2/meeting-21/gerunds) → <span class="name">com. Miss Flaxman</span>  
+[The Speech of a New Married Man](../../season-2/meeting-21/married-man) → <span class="name">Do.</span>  
 
 <div class="bottom">
 <span class="meeting">No. 22&emsp;(1810-04-24)</span>  

@@ -15,4 +15,5 @@ taxonomy:
 7. [Ebor’s Green](ebor)
 8. [Dialogue between a Turk and an Englishman](dialogue)
 9. [Westminster Hall on the First Day of Term](westminster)
-10. [The Mother’s Song](mothers-song)
+10. [The Mother’s Song](mothers-song)  
+11. [The Voyage of the Muses](muses)
