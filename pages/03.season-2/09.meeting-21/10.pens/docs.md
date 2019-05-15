@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-<div class="author">Mr Bon</div>
+<div class="author">Mr Bond</div>
 
 > Lines written by the Command of Miss Eleanor Porden on the Evening of the 11th day of March 1806
 

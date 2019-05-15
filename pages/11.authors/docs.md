@@ -334,7 +334,7 @@ tntsearch:
 [Against Life from Posidippus](../../season-2/meeting-21/against-life) → <span class="name">com. Mrs Flaxman</span>  
 [For Life from the Greek of Metrodorus](../../season-2/meeting-21/for-life) → <span class="name">Do.</span>  
 [The New Broom](../../season-2/meeting-21/broom) → <span class="name">Reverend Mr Cayley</span>  
-[On the Portable Pens](../../season-2/meeting-21/pens) → <span class="name">Mr Bon</span>  
+[On the Portable Pens](../../season-2/meeting-21/pens) → <span class="name">Mr Bond</span>  
 [Latin Acrostic: Napoleon Buonaparte](../../season-2/meeting-21/acrostic) →   
 [The Latin Gerunds: Di Do Dum](../../season-2/meeting-21/gerunds) → <span class="name">com. Miss Flaxman</span>  
 [The Speech of a New Married Man](../../season-2/meeting-21/married-man) → <span class="name">Do.</span>  
