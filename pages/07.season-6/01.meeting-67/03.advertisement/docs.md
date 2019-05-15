@@ -1,5 +1,5 @@
 ---
-title: 'Pseudo Editorial'
+title: Advertisement
 taxonomy:
     category:
         - docs
