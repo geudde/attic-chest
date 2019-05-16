@@ -1027,15 +1027,15 @@ Letter from Affezionatissima to Editress → <span class="name">Mrs Kay</span>
 
 Pseudo Editorial Remarks → Miss Flaxman  
 Advertisement for an Attic Chest Poet Laureate → Miss Flaxman  
-Probationary Ode “A Song of Sixpence” → Miss Flaxman  
+Probationary Ode “A Song of Sixpence” → Miss Flaxman (Jenny Wren)  
  〃 signed M.S. Junior → Miss Porden  
  〃 signed Moth → Miss Porden  
- 〃 Introduction to an Ode → Miss Flaxman  
+ 〃 Introduction to an Ode → Miss Flaxman (Fudge)  
  〃 Ode signed Atticus Scriblerus → Miss Porden  
 The Three Things a Good Husband ought to be etc. → Miss J. Cobb → com. Mrs Richardson  
-Letter from Electomagus to the Editor → Miss Porden  
+Letter from Electromagus to the Editor → Miss Porden  
  〃 from Atticus Scriblerus Junior → Mr Elliott  
- 〃 from Sir Pertinax Townly →  Miss Porden  
+ 〃 from Sir Pertinax Townly →  Miss Porden → Miss Vardill  
 The Hermitage → Miss Vardill  
 The First Brother’s Tale → Miss Vardill
 

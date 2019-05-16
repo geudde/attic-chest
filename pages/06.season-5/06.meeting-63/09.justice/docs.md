@@ -75,7 +75,7 @@ And Mr Editor, with leave,
 Lest rivals should again deceive,  
 Your critic eyes, I’ll fix some signs  
 By which you’ll know Scriblerus’ lines.  
-The first and best, that Pindus’ quire  
+The first and best, that Pindus’ choir  
 Fill them with spirit, grace and fire;  
 Next graphic elegance and skill  
 With the same pen my page do fill  

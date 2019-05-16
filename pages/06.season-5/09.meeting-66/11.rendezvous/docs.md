@@ -22,7 +22,7 @@ I rule myself her Attic Chest:
 To-night I go unmask’d — I wor  
 A hundred antic coats before.  
 Once with <span class="small">ANACREON</span>’s festive lyre  
-I join’d our <span class="small">ELLEN</span>’s jocund quire;  
+I join’d our <span class="small">ELLEN</span>’s jocund choir;  
 So well I tun’d its golden string,  
 His darling pigeon spread her wing  
 And hover’d round to hear my sing.  
