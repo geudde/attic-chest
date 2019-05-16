@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Communicated by Mrs Richardson</div>
 
-> The three things a good wife ought to be, and the three things a good wife ought *not* to be.  
+##### The three things a good wife ought to be, and the three things a good wife ought *not* to be.  
 
 A wife, domestic, good, and sure,  
 Like snail should keep within her door;  
@@ -30,7 +30,7 @@ She whom as wife you’d hail,
 Must be just like, and just *not* like,  
 An Echo, Clock, and Snail.
 
-> The three things a husband ought to be, and the three things a good husband ought *not* to be.
+##### The three things a husband ought to be, and the three things a good husband ought *not* to be.
 
 A husband, active, skilful, neat,  
 Like Snail, should form his house complete;  
