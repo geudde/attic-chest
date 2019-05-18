@@ -1037,7 +1037,7 @@ Letter from Electromagus to the Editor → Miss Porden
  〃 from Atticus Scriblerus Junior → Mr Elliott  
  〃 from Sir Pertinax Townly →  Miss Porden → Miss Vardill  
 The Hermitage → Miss Vardill  
-The First Brother’s Tale → Miss Vardill
+The First Brother’s Tale → Miss Vardill  
 <span class="grey">First Lecture on Natural History → Miss Porden</span>
 
 <div class="bottom">
