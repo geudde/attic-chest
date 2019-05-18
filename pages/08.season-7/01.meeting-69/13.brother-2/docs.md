@@ -29,7 +29,7 @@ Prosai Poetico
 one of the Tale-telling Club or  
 Brotherhood of Bioscribes.
 
-&#10033; &#10033; &#10033;
+&#42;&emsp;&#42;&emsp;&#42;
 
 Know ye the town of the turkey and turtle,  
 Fit emblems of deeds that are done in their clime,  
@@ -46,7 +46,7 @@ Can he smile on the deeds by his Editors done
 O! — large as the sigh at a lover’s farewell  
 Are the fees which they take, and the fibs that they tell!
 
-&#42; &#42; &#42;
+&#42;&emsp;&#42;&emsp;&#42;
 
 No breath of air disturbs the march  
 Of waves below Blackfriar’s arch  
@@ -66,7 +66,7 @@ And all its tenfold wrappers sleep
 Among those treasures of the deep,  
 Which ruby finger’d nymphs of Thame  
 From justice and excisemen claim.  
-	The Sheriff from his ware-room flies,  
+&emsp;The Sheriff from his ware-room flies,  
 Nor turns upon the Change his eyes:  
 Not thus he look’d when in his way  
 The precious *ball* from Indus lay  
@@ -94,7 +94,7 @@ Gleam’d thro’ the stains of Lombard Street
 Like lilies of too early birth,  
 That sink beneath the dews of earth.
 
-*&emsp;&emsp;*&emsp;&emsp;*
+&#42;&emsp;&#42;&emsp;&#42;
 
 As in the ball’s capacious room,  
 The glossy pride of Delhi’s loom;  
@@ -111,7 +111,7 @@ Will wear their brightest hues away,
 Till in neglected corners thrown  
 The shawl and lady fade alone.
 
-*&emsp;&emsp;*&emsp;&emsp;*
+&#42;&emsp;&#42;&emsp;&#42;
 
 November’s days have number’d nine  
 And civic chiefs are met to dine:  
@@ -134,7 +134,7 @@ From fish of sea, and fowl of heaven,
 For where is he that hath beheld  
 Their famine at a feast dispell’d?  
 
-*&emsp;&emsp;*&emsp;&emsp;*
+&#42;&emsp;&#42;&emsp;&#42;
 
 “But who is yon whose eager fork  
 Far flashes in its deadly work?  
@@ -148,7 +148,7 @@ And worse than faithless, *drown’d the rest!”*
 The Sheriff spake, and as he said,  
 A bottle whistled by his head. 
 
-*&emsp;&emsp;*&emsp;&emsp;*
+&#42;&emsp;&#42;&emsp;&#42;
 
 With weapon shiver’d to the hilt,  
 Yet dripping with the sauce he spilt;  
@@ -163,7 +163,7 @@ Still pointing at his faithless friend;
 While o’er him stands that friend with brow  
 As bruis’d as his that bled below.
 
-*&emsp;&emsp;*&emsp;&emsp;* Hiatus *&emsp;&emsp;*&emsp;&emsp;*
+&#42;&emsp;&#42;&emsp;&#42; Hiatus &#42;&emsp;&#42;&emsp;&#42;
 
 To cheat the softest hearts are prone  
 But such may cheat themselves alone;  
@@ -195,7 +195,7 @@ By self instruction from his paws — 
 Thus are the meek in spirit lost,  
 Or hid, like Norway’s bears, in frost.
 
-*&emsp;&emsp;*&emsp;&emsp;*
+&#42;&emsp;&#42;&emsp;&#42;
 
 Think not I took thy shawl for gold —   
 No, Sheriff! no — it is not sold,  
@@ -223,7 +223,7 @@ But look, ’tis written on my brow!
 There read of woman’s hand the pow’r  
 In traces lasting to this hour!  
 
-*&emsp;&emsp;*&emsp;&emsp;*
+&#42;&emsp;&#42;&emsp;&#42;
 
 They tell thee, in the waters roll  
 The bale thou hadst — the bale I stole!  
