@@ -9,7 +9,7 @@ visible: false
 <div class="author">Miss Flaxman</div>
 
 The enclosed copies of *authentic papers* are sent to the Attic Chest in consequence of the information conveyed from “Positive House” concerning that too amiable Protheus *”Beauclere”* — if that gentleman has really forgotten *Castle Gowrie* with all its relative circumstances these verses will recall to the recollection of “Allan” the  
-&emsp;&emsp;&emsp;&emsp;forsaken 
+&emsp;&emsp;&emsp;&emsp;forsaken  
 &emsp;&emsp;&emsp;&emsp;&emsp;Margaret
 
 ---
