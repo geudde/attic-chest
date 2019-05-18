@@ -1061,12 +1061,12 @@ Exordium of the Pleasures of Poesy → Mr Elliott
 </div>
 
 Address from the Spirit of the Attic Chest → Miss Porden  
-The Elfin Harp → Miss Flaxman  
-Address to the Spirit of Attic Nights → Miss Vardill  
+The Elfin Harp → Miss Flaxman → Miss Vardill  
+Address to the Spirit of Attic Nights → Miss Vardill (Aulus Gellius)  
 Hermes Caduceus → Miss Vardill  
-Traveller of the Summer Night → Miss Flaxman  
+Traveller of the Summer Night → Miss Flaxman (Gossipia)  
 Address of Atticus Scriblerus → Mr Elliott  
-On the Visit of Lord Aircastle → Miss Porden  
+On the Visit of Lord Aircastle → Miss Porden (Pertinax Townly)  
 Ode on Lord A.’s visit → Mr Elliott  
  〃 by Olivia Gossamer → Miss Vardill  
  〃 by Miss Stormont → Miss Vardill  

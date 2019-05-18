@@ -1,5 +1,5 @@
 ---
-title: Address from the Spirit of the Attic Chest
+title: 'Address from the Spirit of the Attic Chest'
 taxonomy:
     category:
         - docs
