@@ -40,6 +40,6 @@ Fading ink and the passage of centuries have compounded such problems. Every eff
 
 > Illegible text is indicated by question marks. Hover over <span data-tippy="illegible" class="red">[???]</span> to see comment. 
 
-**Authorship:** At the conclusion of each season the editors of the Attic Chest invited contributors to acknowledge their anonymous works, and such acknowledgements were compiled into lists of contributions. Unfortunately these lists exhibit major inconsistencies. For example, Eleanor Anne Porden is often identified as the author of pieces written in a recognisably different hand. In this online archive, the names of acknowledged authors have been added as they appear in the Gell Collection lists.
+**Authorship:** At the conclusion of each season the editors of the Attic Chest invited contributors to acknowledge their anonymous works, and such acknowledgements were compiled into lists of contributions. Unfortunately these lists exhibit major inconsistencies. For example, Eleanor Anne Porden is often identified as the author of pieces written in a recognisably different hand. In this online archive, the names of acknowledged authors have been added as they appear in the Gell Collection.
 
-**Fidelity to Original:** Some Attic Chest members formatted their contributions to imitate printed text or scribbled notes; others added illustrations. With a few exceptions, no attempt has been made to reproduce such embellishments.
+**Fidelity to Original:** Some Attic Chest members formatted their contributions to imitate printed text or scribbled notes, or to disguise their handwriting; others added illustrations. With a few exceptions, no attempt has been made to reproduce such embellishments.

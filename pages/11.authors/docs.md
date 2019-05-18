@@ -343,15 +343,15 @@ tntsearch:
 <span class="meeting">No. 22&emsp;(1810-04-24)</span>  
 </div>
 
-A Query → <span class="name">com. Miss Flaxman</span>  
-Inscription to the Memory of Shenstone → <span class="name">com. Miss Flaxman</span>  
-Hymn to Apollo from the Greek → <span class="name">com. Miss Flaxman</span>  
-To Lycidas on His Forsaking the Lyre → <span class="alias">(Dorea)</span>  
-A Translation of the 2nd Ode of Anacreon → <span class="name">Miss Porden</span> <span class="alias">(Thyrsis)</span>  
-1810 to Incognita → <span class="name">com. Miss Flaxman</span>  
-Tancred to Thalestris → <span class="name">Miss Flaxman</span>  
-The Faults of Womankind → <span class="name">Miss Porden</span> <span class="alias">(Lysander)</span>  
-Woman from the Greek → <span class="name">
+[A Query](../../season-2/meeting-22/query) → <span class="name">com. Miss Flaxman</span>  
+[Inscription to the Memory of Shenstone](../../season-2/meeting-22/inscription) → <span class="name">com. Miss Flaxman</span>  
+[Hymn to Apollo from the Greek](../../season-2/meeting-22/apollo) → <span class="name">com. Miss Flaxman</span>  
+[To Lycidas on His Forsaking the Lyre](../../season-2/meeting-22/lycidas) → <span class="alias">(Dorea)</span>  
+[A Translation of the 2nd Ode of Anacreon](../../season-2/meeting-22/anacreon) → <span class="name">Miss Porden</span> <span class="alias">(Thyrsis)</span>  
+[1810 to Incognita](../../season-2/meeting-22/incognita) → <span class="name">com. Miss Flaxman</span>  
+[Tancred to Thalestris](../../season-2/meeting-22/tancred) → <span class="name">Miss Flaxman</span>  
+[The Faults of Womankind](../../season-2/meeting-22/faults) → <span class="name">Miss Porden</span> <span class="alias">(Lysander)</span>  
+[Woman from the Greek](../../season-2/meeting-22/woman) →  
 
 <div class="bottom">
 <span class="meeting">No. 23&emsp;(1810-05-08)</span>  
