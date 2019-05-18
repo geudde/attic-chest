@@ -28,7 +28,7 @@ The Attic Chest contributions exhibit irregularity of spelling, capitalization, 
 
 > This is an example of missing text. Hover over <span data-tippy="Text missing" class="red">[ . . . ]</span> to see comment. 
 
-Contributions not included in the Gell Collection are coloured grey in the list of authors:
+Contributions not preserved in the Gell Collection are coloured grey in the list of authors:
 
 > <span class="grey">Sonnet to a Friend → Mrs Maxwell</span>
 
