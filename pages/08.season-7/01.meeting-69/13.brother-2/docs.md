@@ -8,10 +8,6 @@ visible: false
 
 <div class="author">Miss Vardill</div>
 
-### The Second Brother’s Tale
-
-Vardill
-
 We live in the vale of St John, because there is water and sod;  
 And limit our number to seven, because we are *wise* men and *odd*;  
 But as hermits of seventy and seven are said to be too fond of prosing  
@@ -33,7 +29,7 @@ Prosai Poetico
 one of the Tale-telling Club or  
 Brotherhood of Bioscribes.
 
-*&emsp;&emsp;*&emsp;&emsp;*
+&#10033; &#10033; &#10033;
 
 Know ye the town of the turkey and turtle,  
 Fit emblems of deeds that are done in their clime,  
@@ -50,7 +46,7 @@ Can he smile on the deeds by his Editors done
 O! — large as the sigh at a lover’s farewell  
 Are the fees which they take, and the fibs that they tell!
 
-*&emsp;&emsp;*&emsp;&emsp;*
+&#42; &#42; &#42;
 
 No breath of air disturbs the march  
 Of waves below Blackfriar’s arch  
