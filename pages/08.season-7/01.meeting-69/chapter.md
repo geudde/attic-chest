@@ -7,4 +7,5 @@ visible: true
 
 # 7 December 1814
 
-1. [Editorial](editorial)
+1. [Editorial](editorial)  
+2. [Address from the Spirit of the Attic Chest](spirit)
