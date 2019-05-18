@@ -1038,12 +1038,13 @@ Letter from Electromagus to the Editor → Miss Porden
  〃 from Sir Pertinax Townly →  Miss Porden → Miss Vardill  
 The Hermitage → Miss Vardill  
 The First Brother’s Tale → Miss Vardill
+<span class="grey">First Lecture on Natural History → Miss Porden</span>
 
 <div class="bottom">
 <span class="meeting">No. 68&emsp;(1814-03-09) Tuesday</span>  
 </div>
 
-First Lecture on Natural History → Miss Porden  
+
 Probationary Ode signed Poeticus Aspirano → Mr Elliott  
 Reply to Anacreon’s 8th Ode → Miss Vardill  
 Baithus to Epicurus → Mr Porden  
@@ -1053,7 +1054,7 @@ Fragment of an Old → Miss Vardill
 To Allen signed Margaret → Miss Flaxman  
 To Margaret signed Allen → Miss Flaxman  
 Exordium of the Pleasures of Poesy → Mr Elliott  
-The 2d Lecture on Natural History → Miss Porden  
+<span class="grey">The 2d Lecture on Natural History → Miss Porden</span>
 
 <div class="bottom">
 <span class="meeting">No. 69&emsp;(1814-12-07)</span>  
@@ -1071,7 +1072,7 @@ Ode on Lord A.’s visit → Mr Elliott
  〃 by Miss Stormont → Miss Vardill  
 Letter from Electomagus → Miss Porden  
 The 2d Brother’s Tale → Miss Vardill  
-The 3d Lecture on Natural History → Miss Porden
+<span class="grey">The 3d Lecture on Natural History → Miss Porden</span>
 
 <div class="bottom">
 <span class="meeting">No. 70&emsp;(1814-12-21)</span>  
@@ -1088,7 +1089,7 @@ An Attempt → Miss Vardill
 Electomagus to the Editor → Miss Porden  
 Atticus Scriblerus → Mr Elliott  
 The Skull and the Custom House Officer → Miss Porden  
-The 4th Lecture on Natural History → Miss Porden
+<span class="grey">The 4th Lecture on Natural History → Miss Porden </span>
 
 <div class="bottom">
 <span class="meeting">No. 71&emsp;(? ? ? ?)</span>  
@@ -1108,4 +1109,4 @@ The Sonnetteer No. 1 → Mr Elliott
 The 4th Brother’s Tale → Miss Vardill  
 A New Epistle → Miss Vardill  
 Music to the Fairy’s Song → Miss Vardill  
-The 5th Lecture on Natural History → Miss Porden
+<span class="grey">The 5th Lecture on Natural History → Miss Porden</span>
