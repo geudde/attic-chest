@@ -163,7 +163,7 @@ Still pointing at his faithless friend;
 While o’er him stands that friend with brow  
 As bruis’d as his that bled below.
 
-&laquo; &laquo; Hiatus &raquo; &raquo;
+&laquo; &laquo;&emsp;&emsp;Hiatus&emsp;&emsp;&raquo; &raquo;
 
 To cheat the softest hearts are prone  
 But such may cheat themselves alone;  
