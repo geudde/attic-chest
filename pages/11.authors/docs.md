@@ -1088,7 +1088,7 @@ Sir P. Townly → Miss Vardill
 An Attempt → Miss Vardill  
 Electomagus to the Editor → Miss Porden  
 Atticus Scriblerus → Mr Elliott  
-The Skull and the Custom House Officer → Miss Porden  
+The Skull and the Custom House Officer → Miss Porden (Philemon)  
 <span class="grey">The 4th Lecture on Natural History → Miss Porden </span>
 
 <div class="bottom">
