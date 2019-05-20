@@ -28,7 +28,7 @@ Or on my vesture’s silken fold
 But like the magic rod that told  
 &emsp;Of hidden streams and mines,  
 Say! turn’st thou but to pearl or gem?  
-&emsp;Does *Memory* but revive with them?
+&emsp;Does *Memory* but revive with them?  
 Oh! Cynthio if thy soul be true  
 &emsp;To words, though half in sport preferr’d  
 That to my heart too swiftly flew,  
