@@ -17,8 +17,6 @@ Yours
 Philo-Attica  
   
 ---  
-
-> <span class="red">Inconsistent spelling of ‘Christabelle’ reproduced in accordance with manuscript.</span>
   
 ##### A Fragment  
   
