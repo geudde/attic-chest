@@ -17,6 +17,8 @@ Yours
 Philo-Attica  
   
 ---  
+
+> <span class="red">Inconsistent spelling of ‘Christabelle’ reproduced in accordance with manuscript.</span>
   
 ##### A Fragment  
   
@@ -105,7 +107,7 @@ She sees her own true knight!
 VII  
 		  
 “Christabell! my task is done!  
- Christabell, my prize is won!  
+Christabell, my prize is won!  
 The stars are smiling, the moon is bright,  
 The bell of our spousal shall toll to-night!”  
 She does not smile, she does not weep;  
@@ -136,7 +138,7 @@ But thou the mirthful dance shalt lead:
 Thy own true knight shall be near thy side,  
 And the matin bell shall proclaim a bride.”   
 		  
-&ensp;&#42;&ensp;&#42;&ensp;&#42;&ensp;&#42;  
+&ensp;&#42;&ensp;&#42;&ensp;&#42;  
   
 They follow — but whence is the taper’s glare  
 That leads them down the lonely stair?  
