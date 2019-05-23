@@ -1,11 +1,11 @@
----  
-title: 'Lady Olivia Gossamer’s Prize Essay'  
-taxonomy:  
-    category:  
-        - docs  
-visible: false  
----  
-  
+---
+title: 'Lady Olivia Gossamer’s Prize Essay'
+taxonomy:
+    category:
+        - docs
+visible: false
+---
+
 <div class="author">Miss Vardill</div>  
     
 Sir,   
