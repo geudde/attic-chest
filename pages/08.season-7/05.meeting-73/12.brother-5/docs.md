@@ -70,7 +70,7 @@ His worn and wasted heart to cheer:
 A thief has found the precious flow’r  
 And torn it from its native bow’r!   
   
-&#42;&ensp;&#42;&ensp;&#42;  
+&ensp;&#42;&ensp;&#42;&ensp;&#42;  
   
 What now avails the golden hoard  
 By fortune’s lavish bounty pour’d  
@@ -106,7 +106,7 @@ The sleeping soul begins to die,
 And death, the body’s welcome doom,  
 Scarce gives a deeper — darker tomb!  
   
-&#42;&ensp;&#42;&ensp;&#42;
+&ensp;&#42;&ensp;&#42;&ensp;&#42;
   
 At lonely Bertram’s silent gates  
 A wan and whitehair’d minstrel waits  
@@ -192,7 +192,7 @@ Thy pity gave his infant years:
 When all the gems of life depart  
 That boon shall sparkle next thy heart.”  
   
-&#42;&ensp;&#42;&ensp;&#42;
+&ensp;&#42;&ensp;&#42;&ensp;&#42;
   
 Still Bertram lives, if life it is  
 To brood on wreck’d and wasted bliss  

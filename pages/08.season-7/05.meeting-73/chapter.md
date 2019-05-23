@@ -19,3 +19,4 @@ visible: true
 10. [The Patron](patron)
 11. [A Lesson for Lovers](lovers)
 12. [The Fifth Brother’s Tale](brother-5)
+13. [Lady Olivia Gossamer’s Prize Essay](olivia)
