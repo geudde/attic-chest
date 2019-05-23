@@ -21,7 +21,7 @@ An Irregular Contributor
 
 ---
 
-![Ruspini](ruspini.png?resize=600)
+![Ruspini](ruspini.png?resize=500)
 
 Esculapius sat at his shop door,  
 &emsp;A customer hoping to find Sir;  
