@@ -1,5 +1,6 @@
 ---
 title: 'The Chevalier Ruspini'
+media_order: ruspini.png
 taxonomy:
     category:
         - docs
@@ -20,7 +21,7 @@ An Irregular Contributor
 
 ---
 
-[[IMAGE]]
+![Ruspini](ruspini.png?resize=400)
 
 Esculapius sat at his shop door,  
 &emsp;A customer hoping to find Sir;  
