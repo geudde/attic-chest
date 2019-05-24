@@ -11,7 +11,7 @@ visible: false
 ##### A Poem
 
 On fam’d Vittoria’s proud but fatal plain  
-Estrella roam’s, the fairest maid of Spain.  
+Estrella roam’d, the fairest maid of Spain.  
 The sun, declining in the western sky,  
 Fixt for a moment’s space her eager eye.  
 Oh! what reflections did that pause contain!  
