@@ -12,4 +12,7 @@ visible: true
 3. [Acrostic to a Young Lady](acrostic)  
 4. [Gormo to Stella](gormo)  
 5. [The Chevalier Ruspini](ruspini)
-6. [Vale](vale)
+6. [Vale](vale)  
+7. [Letter from Pertinax Townly](pertinax)
+8. [Electromagus on Heat](electromagus)
+9. [Estrella](estrella)
