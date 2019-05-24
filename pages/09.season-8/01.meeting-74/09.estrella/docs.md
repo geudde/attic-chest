@@ -81,5 +81,5 @@ Her father’s gardens sloped towards the sea.
 At eve she oft within her jasmine bower,  
 That bears her name reflected in its flower,  
 Would sing so sweetly that the rowers near  
-Have often paus’d upon their oars to hear;
+Have often paus’d upon their oars to hear;  
 <span data-tippy="DRO scan incomplete" class="red">[ . . . ]</span>
