@@ -16,3 +16,8 @@ visible: true
 7. [Letter from Pertinax Townly](pertinax)
 8. [Electromagus on Heat](electromagus)
 9. [Estrella](estrella)
+10. <span class="grey">Letter from Prosai Poetico</span>
+11. <span class="grey">The 6th Brother’s Tale</span>
+12. <span class="grey">Advertisement of the Hermits for the 7th Brother</span>
+13. <span class="grey">Song: For Master Doctoure</span>
+

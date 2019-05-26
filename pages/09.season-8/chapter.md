@@ -7,3 +7,5 @@ taxonomy:
 # 1815–1816
 
 74. [6 December 1815](meeting-74)
+75. <span class="grey">&ensp;Missing</span>
+76. [30 January 1816](meeting-76)
