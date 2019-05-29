@@ -7,7 +7,7 @@ visible: false
 ---
 <div class="author">Miss Vardill</div>
 
-> by Mrs Bustleton  
+###### by Mrs Bustleton  
 
 “What an horrific night!” said Dame Ursuline to her protegée Starchissa as they sat in the oriel window of the still-room in Craggycliff Castle.  
 
