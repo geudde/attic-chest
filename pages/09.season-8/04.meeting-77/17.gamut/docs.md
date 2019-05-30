@@ -19,5 +19,5 @@ The interpretation of the Wreath is enclosed,
 that it may not be liable to such various and  
 contradictory versions as your Hebrew Poem.
 
-![Gamut of Faces](gamut.png?resize=600)
+![Gamut of Faces](gamut.png?resize=400)
 
