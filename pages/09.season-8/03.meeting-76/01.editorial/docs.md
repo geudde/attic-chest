@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-The bounty of our friends not only enables us again to offer a brilliant number for the amusement of our hearers, but has occasioned us much regret at the necessity of deferring many contributions whose excellence strongly called for immediate notice. Among these, we are sorry to be compelled to postpone the 2d number of the Modinha’s or as we have denominated them, The Portuguese Melodies, The Spanish Armada, The Fairies’ Isle &c. &c. &c.
+The bounty of our friends not only enables us again to offer a brilliant number for the amusement of our hearers, but has occasioned us much regret at the necessity of deferring many contributions whose excellence strongly called for immediate notice. Among these, we are sorry to be compelled to postpone the 2d number of the Modinhas or as we have denominated them, The Portuguese Melodies, The Spanish Armada, The Fairies’ Isle &c. &c. &c.
 
 We shall commence the readings of this evening with a beautiful poem called “The Lily of the Valley, addressed to a Lady on her Birthday.” This will be followed by two other little poems which appear in continuation. They all display a highly poetic imagination, and we think we recognize in them the style of one of the oldest and most valued of our members, whose contributions we are sorry to say have not been quite so frequent of late as in former years. We hope that he has not seriously quarrell’d with his muse, and that she has long ere this afforded him better food than stone and water.  
 

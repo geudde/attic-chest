@@ -8,7 +8,7 @@ visible: false
 
 We have in former seasons been indebted to good St Valentine for many a gem that has sparkled on Attic Evenings, and we have now to thank him for several that shine with no common lustre.  
 
-We shall commence our readings with a beautiful poem called “Contemplation” in which an important moral lesson is pleasingly and impressively given. Those of our members who were present at the reading of the Portugueses Melodies, or “words for Modinha’s” on a former evening will be pleases to hear us announce a continuation of them tonight, in which the author does not at all forfeit the high character acquired by the former communication.  
+We shall commence our readings with a beautiful poem called “Contemplation” in which an important moral lesson is pleasingly and impressively given. Those of our members who were present at the reading of the Portugueses Melodies, or “words for Modinhas” on a former evening will be pleases to hear us announce a continuation of them tonight, in which the author does not at all forfeit the high character acquired by the former communication.  
 
 We are pleased to hear again of Mr Peregrine Project; we feared he had perished in the explosion of some of his own bubbles. We hope he will be successful in his plan for forming an inland sea in the neighbourhood of this metropolis. We most readily extend to him our countenance and support, and will do our utmost to procure him a long list of subscribers, stipulating, at the same time, in return for such support and countenance, that when his scheme shall be completely perfected, we shall receive a gratuitous supply of fish from the fishery to be established on this new Mediterranean, for the refection of our friends on every Attic Evening.  
 
