@@ -1,5 +1,6 @@
 ---
 title: 'The Gamut of Faces'
+media_order: gamut.png
 taxonomy:
     category:
         - docs
@@ -17,4 +18,6 @@ PHILOWHIM
 The interpretation of the Wreath is enclosed,  
 that it may not be liable to such various and  
 contradictory versions as your Hebrew Poem.
+
+![Gamut of Faces](gamut.png)
 
