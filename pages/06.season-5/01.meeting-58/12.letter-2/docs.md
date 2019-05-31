@@ -24,7 +24,7 @@ The full liberty of visiting and receiving visitors.
 
 There is a good library, the regulations of which hang of the chimney. (For the laws of the Society at large apply to the secretary.)
 
-###### Ladies of the Society
+<span class="title">Ladies of the Society</span>
 
 First — Miss Rebecca Nettletop
 
