@@ -8,3 +8,4 @@ visible: true
 # 13 March 1816
 
 1. [Editorial](editorial)  
+2. [L’Acerbo No. 1](acerbo)
