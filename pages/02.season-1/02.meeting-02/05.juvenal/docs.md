@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Bond</div>
 
-#### Translation of part of the 15th Satire of Juvenal
+<span class="title">Translation of part of the 15th Satire of Juvenal</span>
 
 Nature on a man, a feeling heart bestows,  
 The gushing tear her pow’r triumphant shows;  
