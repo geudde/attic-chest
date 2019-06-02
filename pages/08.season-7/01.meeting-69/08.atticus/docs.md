@@ -27,7 +27,7 @@ Thou com’st, and ev’ry face fresh joyance wears,
 &emsp;Within our orb electric, genius-fraught;  
 Thou com’st, and to the winds we cast our cares,  
 &emsp;And tune our lyres, and wake heroic thought,  
-For thou, of all the world th’accomplished Peer,  
+For thou, of all the world th’ accomplished Peer,  
 Dost rule our hearts and doubly govern here!
 
 A. S-----S

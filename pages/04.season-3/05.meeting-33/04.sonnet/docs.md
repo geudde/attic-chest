@@ -21,7 +21,7 @@ Now lost is that, which though to either pole
 &emsp;In weary search I roam, I ne’er shall find!  
   
 But if stern destiny’s stern will it be,  
-&emsp;Why flows complaint, why starts th’unbidden tear,  
+&emsp;Why flows complaint, why starts th’ unbidden tear,  
 Oh! life at first what charms in thee appear,  
 &emsp;How gay thou art, how cheerful & how free,  
 &emsp;Yet in one fatal morn, how oft we see  

@@ -47,7 +47,7 @@ Their globe in flames consume away.
 Nay one, so much o’erpowered with dread,  
 Had to a tub of water fled,  
 And there for many an hour she stood  
-Chin deep within th’encircling flood  
+Chin deep within th’ encircling flood  
 And hopeless, rather wish’d to die  
 A wat’ry death, than broil or fry
 
@@ -98,7 +98,7 @@ From whence he draws his store of fire.
 But know, had Nova Zembla’s frost,  
 Now chilled the equatorial coast,  
 Each silly wiseacre had told,  
-The comet caused th’unusual cold.  
+The comet caused th’ unusual cold.  
 
 Then brother, to your charge repair  
 And trust the system to my care

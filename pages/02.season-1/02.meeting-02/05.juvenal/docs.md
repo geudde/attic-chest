@@ -15,7 +15,7 @@ The gushing tear her pow’r triumphant shows;
 Pity peculiar to the human race,  
 Of all the senses holds the highest place:  
 Hence in the sorrows of our friends we share,  
-And mourn the squalid garb th’accused wear;  
+And mourn the squalid garb th’ accused wear;  
 Or when the orphan to regain his rights,  
 To the tribunal his defrauder cites  
 While through his tresses and his streaming tears,  

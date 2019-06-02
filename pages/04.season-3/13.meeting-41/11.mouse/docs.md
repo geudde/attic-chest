@@ -93,9 +93,9 @@ Nor dreamt that *this* was doom’d to be his last!
 For now the time, the destin’d time was sent:  
 So fate ordain’d — and who can fate prevent?  
 Thick shades once more had veil’d the haunted house;  
-Once more from coverts bolts th’adventurous mouse,  
+Once more from coverts bolts th’ adventurous mouse,  
 Sighting in evil hour, in quest of prey  
-Where in a group th’avenging *oysters* lay.  
+Where in a group th’ avenging *oysters* lay.  
 The fish commission’d from the wat’ry throng  
 With tegument of scaly armour, strong,  
 Lay with expanded jaws and gaping shell;  
@@ -106,7 +106,7 @@ The dainty mouse, still craving some new dish,
 Enters the glooming mansion of the fish;  
 With beard exploring, and with luscious lip  
 He longs the pickle of the seas to sip.  
-Rous’d by his tusks th’elastic oyster fell  
+Rous’d by his tusks th’ elastic oyster fell  
 And caught the caitiff’s head in wat’ry cell:  
 In vain the victim labours to get free  
 From ‘durance vile’ and dread captivity:  

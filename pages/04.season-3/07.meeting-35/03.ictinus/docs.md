@@ -19,7 +19,7 @@ The secret meaning of his moral lay.
 With elegance his flowing strains prolong  
 And all the graces picture in his song.  
 
-In vain I sue, th’offended Nine disdain  
+In vain I sue, th’ offended Nine disdain  
 For such a recreant to inspire my strain  
 Who since the Graces from the scene retire  
 To sing refuses, and neglects the lyre  

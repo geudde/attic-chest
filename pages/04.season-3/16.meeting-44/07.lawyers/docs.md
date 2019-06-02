@@ -91,7 +91,7 @@ Tho’ one a crow, the rest may be.”
 
 The settling of this matter brought  
 Our lawyer to the inn he sought,  
-And then, for chill th’autumnal dew,  
+And then, for chill th’ autumnal dew,  
 And rough and rudely Boreas blew,  
 When about food he had enquired,  
 To have a fire he much desired.  

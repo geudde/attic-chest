@@ -71,7 +71,7 @@ Like broom-bestriding witch thro’ troubled skies.
 O Muse of Modern Warfare, list the call!  
 Whether thou fliest o’er Hispania’s fields  
 To mark the deeds of Wellington; or sailst  
-Sublime o’er ocean’s waves to learn th’exploits  
+Sublime o’er ocean’s waves to learn th’ exploits  
 Of Britain’s nautic sons; and bring them home  
 To swell each journal’s columns, and to feed  
 The patriotic wights who live on news;  

@@ -10,7 +10,7 @@ visible: false
 
 ##### Strophe
 
-O thou, th’oppressor of a struggling world!  
+O thou, th’ oppressor of a struggling world!  
 &emsp;Thou by the iron sceptre known  
 &emsp;Who oft hast fix’d thine adamantine throne,  
 &emsp;And, in thy lawless night, a destined day  
@@ -18,7 +18,7 @@ O thou, th’oppressor of a struggling world!
 Till by Almighty vengeance hurled  
 &emsp;&emsp;Down from thy guilty height;  
 &emsp;Then for a space sweet liberty  
-&emsp;Uprises blithe; th’oppress’d go free;  
+&emsp;Uprises blithe; th’ oppress’d go free;  
 &emsp;&emsp;But soon thy sweeping flight  
 &emsp;&emsp;Returns with gather’d might,  
 And o’er the subject air thy standard waves unfurl’d  

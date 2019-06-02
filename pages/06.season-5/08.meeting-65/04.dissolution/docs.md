@@ -91,7 +91,7 @@ A latent warmth still glowing there.
 The germ of vegetation grows)  
 But Nettletop’s, of size complete,  
 &emsp;And well supplied with brisker juices,  
-He found, would at th’approach of heat  
+He found, would at th’ approach of heat  
 &emsp;Melt like the sugar which she uses.
 
 The wily god his darts prepares,  
@@ -130,7 +130,7 @@ Restore again thy sacred light.”
 
 More had he spoke, but trembling view’d  
 Where Cupid’s self before him stood.  
-His accents cheer th’astonish’d youth —   
+His accents cheer th’ astonish’d youth —   
 “Fear not — I know thy worth and truth,  
 And if my dart its pow’r retain,  
 Thy Agnes shall be thine again;  

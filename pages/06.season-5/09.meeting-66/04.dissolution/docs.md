@@ -76,7 +76,7 @@ That spirit ever light and gay
 That “fluttered” life’s best hours away,  
 And, to complete the motley set,  
 Compassion to her marmoset,  
-Now adds th’accomplish’d Pirouette.  
+Now adds th’ accomplish’d Pirouette.  
 
 Poor Pirouette, his heels were light  
 As Merc’ry’s when prepared for flight,  
@@ -159,7 +159,7 @@ Struck in full court opponents dumb,
 And Mars by him was overcome.  
 
 How does romantic Dovedale cease  
-To be th’abode of joy and peace.  
+To be th’ abode of joy and peace.  
 Strife, wrangling, jealousy, cabal  
 Fill ev’ry breast in Tabby Hall.  
 Jars that not Agnes’ self can still  

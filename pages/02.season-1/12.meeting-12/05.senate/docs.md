@@ -26,7 +26,7 @@ There every shrub that does the Earth adorn,
 One day assembled by the Lily fair,  
 &emsp;In consultation all the Flow’rets met;  
 He rising with a mild but stately air,  
-&emsp;Commenced th’important business of debate.  
+&emsp;Commenced th’ important business of debate.  
   
 “Children of Flora now assembled here,  
 &emsp;Ye lovely fav’rites of indulgent heaven,  
@@ -134,7 +134,7 @@ With all their arrogance, & pomp, & pride,
 &emsp;Have always needed us to deck their feast.”  
   
 “The Peacock when he gave his famous rout,  
-&emsp;Implor’d th’assistance of full many a flower  
+&emsp;Implor’d th’ assistance of full many a flower  
 The Rose decked all the bushes round about  
 &emsp;The Woodbine drest the variegated bower.”  
   

@@ -29,7 +29,7 @@ When (Oh the weight of ills and care
 A poet’s doom’d by fate to bear!  
 And oh the various plans to plague us!)  
 Uprose the vile Electrmagus,  
-Denied th’originality  
+Denied th’ originality  
 Of genius’ flame that burns in me,  
 Pretended his electric skill  
 E’en dullness’ self with soul could fill,  
@@ -93,7 +93,7 @@ Where wit, remarks and verse go round.
 The spirit that his Muse sustains;  
 And, did not honor rule my heart,  
 And secrecy I could impart  
-Whose hand th’inspiring cates conveyed  
+Whose hand th’ inspiring cates conveyed  
 This strain vindictive to aid,  
 For oft I’ve gained a mighty power  
 From cate that came in happy hour,  

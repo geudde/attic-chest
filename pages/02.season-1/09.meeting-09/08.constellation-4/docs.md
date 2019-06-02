@@ -131,7 +131,7 @@ They should judge in this case, since their own was the steed
 And as in this case you say I must decide  
 I, Roberto acquit of all blame in the ride;  
 Since ourselves we incited him upwards to fly,  
-And directed his course thro’ th’expanse of the sky  
+And directed his course thro’ th’ expanse of the sky  
 Since we guided whate’er he has said or has done,  
 T’would be hard that a mortal should pay for our fun.  
 And now on his sentence since we are agreed  
@@ -164,7 +164,7 @@ Who hungry and tired, long before had attacked.
 The tongue and the beef that together were packed,  
 The steed as at distance they viewed him seemed well  
 But a Comet <span data-tippy="unkindly had singed off his tail" class="green">had burnt his hind legs and his tail</span>.  
-Meanwhile rising, the seats of th’immortals they gained,  
+Meanwhile rising, the seats of th’ immortals they gained,  
 And Jove’s brazen dome in an instant attained;  
 Where he on his throne of pure diamond sate,  
 Exploring with care the dark records of fate,  

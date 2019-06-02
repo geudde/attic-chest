@@ -109,7 +109,7 @@ Of woods and rocks and lawns and streams between,
 And looks thro’ nature to her great First Cause,  
 Each open’d eye shall see new beauties rise  
 In ev’ry scene beneath its native skies —   
-Each kindling heart shall feel th’immortal strain  
+Each kindling heart shall feel th’ immortal strain  
 And own him best and wisest on the plain.
 
 Ignotus

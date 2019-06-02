@@ -89,6 +89,6 @@ And Aircastle shall give relief
 &emsp;B’ Electromagus’ hand;  
 No more with unavailing woe  
 I rave, but strains pathetic flow  
-&emsp;O’er’ all th’admiring land!
+&emsp;O’er all th’ admiring land!
 
 A:B:

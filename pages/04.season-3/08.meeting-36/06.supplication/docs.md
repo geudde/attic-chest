@@ -28,7 +28,7 @@ But if the favoring gods should deign to treat
 Their famish’d poet with a joint of meat!  
 While the kind Muse the chimney taught to glow  
 He’d be the happiest of men below!  
-(Above, he meant, for th’aspiring climber,  
+(Above, he meant, for th’ aspiring climber,  
 Had lived in Nubibus, since first a rhymer)  
 The Muse of Fire! She who her store unlocks  
 For the famed author of the Tinder Box!  

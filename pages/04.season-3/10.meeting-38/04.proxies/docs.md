@@ -37,7 +37,7 @@ Tho’ habeus there will naught avail.
 In person they cannot attend,  
 But worthy subsitutes will send,  
 And all enriched by gifts divine  
-Fit proxies for th’immortal Nine:  
+Fit proxies for th’ immortal Nine:  
 No strangers they, but all approved,  
 Admired, respected, or beloved.  
 Clio, Melpomone and she  

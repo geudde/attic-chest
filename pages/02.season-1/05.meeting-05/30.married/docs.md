@@ -30,7 +30,7 @@ The form I’ve seen, the mind at distance known,
 That can each long sought, wish’d perfection own,  
 For we have met at scenes of mimic mirth,  
 When conscious diffidence of lesser worth;  
-Repress’d the language of th’aspiring heart,  
+Repress’d the language of th’ aspiring heart,  
 And crushed the hope it labor’d to impart,  
 Yet when a thousand mimic Cupid’s pain  
 A real love surely may complain;  

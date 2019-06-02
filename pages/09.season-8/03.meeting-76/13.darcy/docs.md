@@ -19,7 +19,7 @@ Looks down on Holmsdale, and athwart the plain
 The yellow radiance of his setting beam  
 Glanced on the valley’s pure transparent stream,  
 Or lent the clust’ring woods a mellow glow,  
-Gilding th’imbosom’d spire, or humble cot below;  
+Gilding th’ imbosom’d spire, or humble cot below;  
 When Darcy paus’d upon the upland heath  
 Freely his native air once more to breathe,  
 Each spot well known, tho’ distant long, to trace,  
@@ -31,7 +31,7 @@ The breezy down’s green carpet still is there
 O’er which so oft I chased the timid hare,  
 Yonder the wood beneath whose friendly shade  
 In hours of bliss with Rosalind I stray’d,  
-And there th’embow’ring elms which wont to screen  
+And there th’ embow’ring elms which wont to screen  
 My Father’s house beside the village green.  
 These are the same — but I, alas, how chang’d  
 Since o’er these lovely scenes I careless rang’d!  

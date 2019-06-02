@@ -16,7 +16,7 @@ No tripods here pneumatic altars raise
 With pyro-technic-hydro-static blaze,  
 Wit’s rarest gas sustains our constant lamp,  
 Secure from Folly’s smoke or Envy’s damp!  
-But if too swiftly spreads th’electric fire,  
+But if too swiftly spreads th’ electric fire,  
 Mild Wisdom comes — like *Congreve’s reservoir.*  
 
 Tho’ no “divine Sestettos” triumph here  

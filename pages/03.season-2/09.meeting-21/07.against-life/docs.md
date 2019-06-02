@@ -21,7 +21,7 @@ Eternal terrors sweep the main,
 If rich, we fear to lose our store  
 Need, & distress, await the poor.  
 Sad cares, the bands of hymen give  
-Friendless, forlorn, th’unmarried live,  
+Friendless, forlorn, th’ unmarried live,  
 Are children born? we anxious groan  
 Childless, the want of heirs we moan,  
 Wild, giddy schemes our youth engage,  

@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Sanders</div>
 
-I’ve watch’d th’autumnal foliage falling sear,  
+I’ve watch’d th’ autumnal foliage falling sear,  
 And misty morns that speak November near;  
 November! dreary month by moot confess’d,  
 Save those invited as the Lord Mayor’s guest.  
@@ -63,7 +63,7 @@ A passport to the grove;
 Till reconcil’d by friendship kind  
 No more is urg’d to rove.  
 
-E’en though th’open’d door invited  
+E’en though th’ open’d door invited  
 In Spring’s warm day to roam,  
 The garden bounds his roving flights  
 The cage his cherish’d home.

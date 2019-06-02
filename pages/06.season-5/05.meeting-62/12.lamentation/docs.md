@@ -31,7 +31,7 @@ And the broad sofa yields the Muses room!
 
 Farewell the burnished grate’s reviving blaze,  
 And softer radiance lent by tapers high  
-To eyes whose lustre suns th’enquirer’s gaze,  
+To eyes whose lustre suns th’ enquirer’s gaze,  
 To cheeks whose blushes give a kind reply!  
 
 Ah! who can tell the raptures of the hour  
@@ -56,7 +56,7 @@ While praise and custard mingle on her lip!
 
 Alas! for me that hour returns no more!  
 On me no nymph shall cast a fav’ring glance,  
-When the light Graces tempt th’elastic floor  
+When the light Graces tempt th’ elastic floor  
 And Phoebus quits his lyre to — call a dance!  
 
 Dire was the luckless night when o’er my head  

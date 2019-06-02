@@ -61,7 +61,7 @@ And mirth and cheerfulness are seen
 In each countenance serene.  
  
 &emsp;Fill high the sparkling glass,  
-&emsp;&emsp;And drink th’accustomed toast;  
+&emsp;&emsp;And drink th’ accustomed toast;  
 &emsp;&emsp;Drink deep ye mighty host,  
 &emsp;And let the bottle pass.  
 &emsp;Begin, begin the jovial strain,  

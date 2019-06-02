@@ -75,7 +75,7 @@ If my scornful Valentine
 Shall my humble love decline  
 But what transport will be mine  
 If the stars in square or trine,  
-From th’ethereal chrystalline  
+From th’ ethereal chrystalline  
 Tell that heavens decrees design  
 Me the elm and she the vine  
 Bending then at beauty’s shrine  

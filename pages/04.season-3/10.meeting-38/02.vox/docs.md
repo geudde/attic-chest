@@ -25,7 +25,7 @@ In favour of Mercury’s right to dominion.
 &emsp;Whose genius borne on fancy’s eagle wing,  
 &emsp;Thro’ pathless Æther’s azure realms can spring,  
 &emsp;To where the Sylphids urge their mimic war  
-&emsp;Or thro’ th’expanse pursue some fleeting star.  
+&emsp;Or thro’ th’ expanse pursue some fleeting star.  
 &emsp;Nay even to adventurous bards might shew,  
 &emsp;The hidden wonders of the world below,  
 &emsp;When all the sprites in dreadful fight engage  

@@ -13,7 +13,7 @@ That shine on ocean’s barren strand
 Innumerous are the drops of rain  
 Which April showers upon the plain  
 Innumerous are the flowers that spread  
-When spring commands th’enamelled mead  
+When spring commands th’ enamelled mead  
 But more innumerous still we find  
 The faults that lurk in woman kind.  
   

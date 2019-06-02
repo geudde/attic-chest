@@ -25,7 +25,7 @@ The shadow in space by the moon that was cast
 That the sun would forever unclouded appear  
 And by night uncontrolled, day his journey would cheer.  
   
-His advise likewise was and th’event prov’d it good  
+His advise likewise was and th’ event prov’d it good  
 That he with him should take a small portion of food  
 He agreed, and some beef was put up in a basket  
 With a large piece of tongue, and of wine a full flasket  

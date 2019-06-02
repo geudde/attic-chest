@@ -29,7 +29,7 @@ In lurid air unnumber’d rockets rise
 And brighter stars adorn the wondering skies
 
 &emsp;And not less bright, though gayer was the scene  
-Where youth and beauty throng th’enamell’d green  
+Where youth and beauty throng th’ enamell’d green  
 What! tho’ ere morn a dusky hue it wore,  
 Nor grass was seen where grass had grown before  
 Yet there a thousand bright pavilions blaze,  
@@ -162,7 +162,7 @@ Nor smile ye kings, for though ye soar on high,
 Till half the spacious Earth beneath you lie,  
 Yet all is changing on this fickle ball,  
 Like me alternately ye rise and fall  
-And envious fate may cut th’upholding string,  
+And envious fate may cut th’ upholding string,  
 And hurl ye headlong from your lofty swing — ”  
 
 &emsp;Prophetic thought! the words were scarcely spoke,  

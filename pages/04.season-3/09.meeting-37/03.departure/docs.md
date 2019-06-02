@@ -10,7 +10,7 @@ visible: false
 
 ##### To the Swallows on Their Departure 1809  
 
-Ye Birds that fearful of th’inclement skies  
+Ye Birds that fearful of th’ inclement skies  
 &emsp;Now bid your straw-built summer seats adieu  
 No Summer viewed you with propitious eyes  
 &emsp;No days of warmth and splendour shined on you.  

@@ -7,7 +7,7 @@ visible: false
 ---
 
 Inspire me Lewis, while I sing
-Of th’enamour’d “Water King”
+Of th’ enamour’d “Water King”
 Or rather, do *thou* tell the tale
 Of the lady’s stolen veil,
 *Thou* know’s to mix thy lore terrific,

@@ -39,6 +39,6 @@ But time flies swift, away, away.”
 She spoke, nor Cupid ought replies  
 But with the doves to market flies.  
 Bought by a wealthy monarch there  
-Large price obtains th’immortal pair.  
+Large price obtains th’ immortal pair.  
 To Venus, then her offspring hies  
 And to her hands consigns the prize.

@@ -11,7 +11,7 @@ visible: false
 I mark’d the bright and fervid ray  
 &emsp;The vernal bud enclose  
 Winter’s sunshine flatt’ring day  
-&emsp;Nurse th’embryo rose.  
+&emsp;Nurse th’ embryo rose.  
 
 Cheer’d with genial warmth it grew  
 &emsp;The garden’s early pride  

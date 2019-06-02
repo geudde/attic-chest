@@ -81,7 +81,7 @@ Her English soup to eat was loth,
 And longed to taste the Spartan broth  
 And now a lamprey would delight in  
 More than a haddock or a whiting.  
-And since th’improvement of her charms  
+And since th’ improvement of her charms  
 A lady’s fancy always warms  
 Fain would she now her form enhance  
 By robes of Grecian elegance,  

@@ -19,13 +19,13 @@ Or *Terpsichore*, with livelier verse attend
 And aid the humble tribute of a friend?
 
 But not one Muse alone, the lay can weave  
-From th’ideas which that friend would give.  
+From th’ ideas which that friend would give.  
 Th’aspiring mind invokes thrice triple aid,  
 To greet the birthday of the Attic Maid!
 
 Come then ye Nine! haste on expanded wing,  
 From the gay margin of Piera’s spring;  
-Quit the close bowers of th’Aonian grove,  
+Quit the close bowers of th’ Aonian grove,  
 And the rapt soul with inspiration move.
 
 Your softest notes upon my senses breathe,  

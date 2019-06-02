@@ -24,7 +24,7 @@ Besides I have heard that the saddle inspires,
 The breast of the rider with poetic fires;  
 And as I’m of the Attic Society now,  
 To write for the Chest they’ll expect me, I know;  
-So cost what it may, I’ll th’experiment try  
+So cost what it may, I’ll th’ experiment try  
 But caution shall guide me, I’ll not mount too high.”  
 So saying he got on the saddle with care  
 And Pegasus flew up at once in the air,  

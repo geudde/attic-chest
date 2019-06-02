@@ -27,7 +27,7 @@ Her husband lost, and aggravated woes
 Press heavy on affection’s tender breast  
 That rob the day of joy, and night of rest.  
 The captive o’er its walls its progress eyes,  
-And at th’obstructed sunbeam mournful sighs,  
+And at th’ obstructed sunbeam mournful sighs,  
 The mind associates many a fond idea  
 That sun perhaps in distant climes may cheer,  
 T’abode of all that claims a father’s tear  

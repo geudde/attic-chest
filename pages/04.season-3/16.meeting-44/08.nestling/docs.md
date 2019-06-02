@@ -43,13 +43,13 @@ That those of happier fortune know
 Nor softly sympathetic mourn  
 In all the elegance of woe.
 
-He hardly drags th’unequal load  
+He hardly drags th’ unequal load  
 Through the rough vale of adverse life  
 With unscarred feet, that treads the thorn  
 With gentle heart to bear its strife.  
 
 To meet the shock of fate be yours  
-And rear aloft th’unatten’d brow;  
+And rear aloft th’ unatten’d brow;  
 Though thunders shake the rending Earth  
 And towns and regal towers are low.
 

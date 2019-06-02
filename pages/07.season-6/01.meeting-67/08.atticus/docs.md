@@ -51,7 +51,7 @@ In Berners Street
 Their famed Committee meet  
 Thence, as their common fount in mingled store  
 Pure Attic verse, and crystal water pour.  
-The grateful town deep quaffs th’inspiring tide  
+The grateful town deep quaffs th’ inspiring tide  
 At once with water and with wit supplied,  
 The frigid wave with magic full  
 Enchafes the stupid, warms the dull  

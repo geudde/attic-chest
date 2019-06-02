@@ -172,7 +172,7 @@ Showman:&ensp;Perhaps thou seest him now! perhaps he looks
 
 > Drops his mask. A very loud scream heard. Teapottus leaps upon the counter. Bertram creeps under it and enter — 
 
-Bow Street Officers:&ensp;Seize th’impostor!  
+Bow Street Officers:&ensp;Seize th’ impostor!  
 &emsp;&emsp;His robe is borrow’d and this vehicle  
 &emsp;&emsp;Of painted witchcraft and prismatic light  
 &emsp;&emsp;He filch’d from Sidney’s Alley.  

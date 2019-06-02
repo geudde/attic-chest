@@ -34,7 +34,7 @@ But theirs the *London* spring, which brings to view
 All that of gay or dashing, each can do,
 Which to the world of fashion give the call  
 To fly from rout to rout, from ball to ball,  
-Or show th’admiring park the steeds that draw  
+Or show th’ admiring park the steeds that draw  
 The curricle, barouche, or gay landau.  
 Then shine the Whip Club — then to Cav’ndish Square  
 In order meet the members all repair;  

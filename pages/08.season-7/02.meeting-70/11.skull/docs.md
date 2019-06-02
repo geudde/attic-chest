@@ -73,7 +73,7 @@ Surprise at what he saw, and fear,
 Of what strange thing might next appear.  
 &emsp;The wily traveller, who drew,  
 &emsp;A prosperous omen from his eye,  
-Fail’d not th’advantage to pursue.  
+Fail’d not th’ advantage to pursue.  
 &emsp;But drawing near, made this reply — 
 
 “You seem surprised — I wonder how —   

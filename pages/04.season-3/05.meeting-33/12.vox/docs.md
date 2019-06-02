@@ -65,7 +65,7 @@ When Mars had conclud’d, to banish disorder
 That those next the pole, should the parley commence  
 And the others succeed in their oder from thence.  
   
-But th’events which at this starry council befell  
+But th’ events which at this starry council befell  
 If my strains you approve, the next reading shall tell.  
   
 --- 
@@ -165,7 +165,7 @@ And the <span data-tippy="Attics" class="green">readings</span> ought not to be 
   
 “But Cyllenius who if dire Tisiphone rose,  
 With his magical rod, could the fury compose,  
-Of letters th’inventor, of commerce the friend,  
+Of letters th’ inventor, of commerce the friend,  
 A herald your charge always prompt to attend,  
 Of magic the sire (but no magic they need  
 Whose nymphs can so well in enchantment succeed)  
@@ -357,7 +357,7 @@ But he willed, they ere long an Assembly should hold
 The claims of The Rivals unbiassed to hear,  
 Who by person or proxy, that day should appear  
 When each circumstance known, they should freely decide  
-And th’opponents their judgement were bound to abide.  
+And th’ opponents their judgement were bound to abide.  
 **He nodded!** To <span data-tippy="Hermes" class="green">Jove</span> commission was given,  
 To make known upon Earth, the decision of Heaven.  
   

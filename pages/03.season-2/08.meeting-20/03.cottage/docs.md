@@ -36,7 +36,7 @@ That hospitality in smiles is there
 The friend to welcome and the feast prepare.  
 And would you see what rarely cots bestow  
 And palaces more rare this cot can shew;  
-Three objects yet th’attentive guests invite  
+Three objects yet th’ attentive guests invite  
 To give the friendly heart more full delight,  
 Three happy portraits drawn from real life  
 And two of them O strange! a man and wife,  

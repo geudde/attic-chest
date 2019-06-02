@@ -30,12 +30,12 @@ Perhaps by false appearance tinsel hue
 Almost believe the thing a planet true,  
 And different climes with veneration own,  
 A mighty world to Newton e’en unknown.  
-In such discourse th’ethereal way they clear,  
+In such discourse th’ ethereal way they clear,  
 Till Hermes tells the court of Jove they’re near;  
 Dauntless they onward speed secure of fame,  
 At least thus great Alcides gives his name;  
 And now his satellites in homage wait  
-Their master’s exit from th’Olympian gate;  
+Their master’s exit from th’ Olympian gate;  
 The counsel meet when pure effulgent light  
 Illumes the sable drapery of the night.  
 Forth from Urania’s crest a radiant stream  
@@ -49,7 +49,7 @@ Dar’st thou assume our noble hero’s name,
 Whose valiant deeds recorded in the sky,  
 In yonder starry constellation lie?  
 Deceive no more our truth enquiring eyes  
-As some new planet of th’eastern skies —   
+As some new planet of th’ eastern skies —   
 *Hence!* Where imagination — fiction’s free —   
 *Utopia’s isle* is only worthy thee?  
 Thy punishment be just, altho’ severe,  

@@ -28,9 +28,9 @@ Must many a giddy steep undazzled climb,
 Must learn with taste to cull the choicest flow’rs  
 That deck Pierian meads and Delphi’s bow’rs;  
 Nor, idly wand’ring in those sacred shades,  
-Hold listless dalliance with th’immortal maids;  
+Hold listless dalliance with th’ immortal maids;  
 But boldly dare the winged steed to mount,  
-Drink deep and frequent from th’inspiring fount,  
+Drink deep and frequent from th’ inspiring fount,  
 And, casting ease and pleasure far behind,  
 To virtue’s lore high tune his manly mind.  
 Shall then a bard as yet unknown to fame  

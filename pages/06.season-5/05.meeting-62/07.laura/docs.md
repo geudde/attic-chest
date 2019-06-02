@@ -76,7 +76,7 @@ Each lady fainted with affright
 When the assailants big with rage  
 In sable phalanx stormed the stage  
 And the poor ghosts of Frenchmen dead  
-Before th’avenging *black legs* fled.  
+Before th’ avenging *black legs* fled.  
 Some scene where Laura bore a part  
 Will better please her Celia’s heart.  
 &emsp;Olinda’s fête demands the song  

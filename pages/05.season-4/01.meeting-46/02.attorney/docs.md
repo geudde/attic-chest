@@ -22,7 +22,7 @@ Who never tastes good wine or liquor
 In bottles stowed by wife of vicar  
 But sips the pure Pierian fountain  
 That springs from yon Parnassian mountain.  
-Counsel when th’Attic Meeting gather  
+Counsel when th’ Attic Meeting gather  
 In the warm court in frosty weather  
 Will move said meeting to declare  
 Hermes the tenant of the chair  

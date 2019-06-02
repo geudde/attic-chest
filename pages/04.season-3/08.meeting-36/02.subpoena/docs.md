@@ -20,7 +20,7 @@ Tuesday March the 26th to come, By seven in the afternoon, And tell the Truth of
 
 Upon a certain Cause that’s fixt, For hearing that Day ’pending twixt **Mars** the great Bully of the Sky, Plaintiff, and cunning **Mercury**,
 
-Defendant, in a certain Plea of dire Assault and Battery, For th’Attic Jury on that Day, ’Twixt foresaid Persons on said Plea
+Defendant, in a certain Plea of dire Assault and Battery, For th’ Attic Jury on that Day, ’Twixt foresaid Persons on said Plea
 
 And that you do not dare omit, To do as order’d by this writ, on Pain of losing half your wit:
 

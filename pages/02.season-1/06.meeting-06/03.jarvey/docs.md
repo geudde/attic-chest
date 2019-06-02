@@ -73,7 +73,7 @@ Pillowed his drowsy head upon the seat,
 While dangled from the open door his feet.  
 Here has the frequent dram repell’d the cold,  
 Here have Virginia’s smoky volumes rolled —  
-Here has some lover seized th’occasion fair,  
+Here has some lover seized th’ occasion fair,  
 To the loved nymph his passion to declare.  
 Here has she promised if her friends consent  
 And if her tender parents will assent,  
