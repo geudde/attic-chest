@@ -1,5 +1,5 @@
 ---
-title: 'To Eliz'a
+title: 'To Eliza'
 taxonomy:
     category:
         - docs
