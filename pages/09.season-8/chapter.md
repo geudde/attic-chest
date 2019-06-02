@@ -10,4 +10,5 @@ taxonomy:
 75. <span class="grey">&ensp;Missing</span>
 76. [30 January 1816](meeting-76)
 77. [14 February 1816](meeting-77)
-78. [28 February 1817](meeting-78)
+78. [28 February 1816](meeting-78)
+79. [13 March 1816](meeting-79)
