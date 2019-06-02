@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Elliott</div>
 
-##### Specimen of The Art of Cookery, a Didactic Poem in Ten Books.
+<span class="title">Specimen of The Art of Cookery, a Didactic Poem in Ten Books.</span>
 
 Which is proposed to be respectfully dedicated to Miss Rebecca Nettletop
 

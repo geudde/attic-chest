@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Communicated by Mrs Flaxman</div>
 
-#### The Old Philosophical Enigma Unriddled
+<span class="title">The Old Philosophical Enigma Unriddled</span>
 
 It is a stone, and yet a stone ’tis not,
 In which the all of art consists, I wot,

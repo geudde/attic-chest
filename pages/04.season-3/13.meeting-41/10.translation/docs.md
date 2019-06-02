@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-##### A Free Translation of One of Buondelmonte’s Sonnets
+<span class="title">A Free Translation of One of Buondelmonte’s Sonnets</span>
 
 <div class="author">Mrs Flaxman</div>
 

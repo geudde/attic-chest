@@ -23,11 +23,11 @@ By Atticus Scriblerus, Votary of the Muses, &c. &c. &c.
 > 
 > Sterne
 
-##### Conditions
+<span class="title">Conditions</span>
 
 The volume will be published in the month of May, elegantly printed on wire woven paper, and illustrated with allegorical and elucidatory engravings, price to subscribers fifteen shillings — a few copies will be printed on drawing paper, and done up in extra boards, at one guinea.  
 
-##### Advertisement  
+<span class="title">Advertisement</span>
 
 “The Pleasures of Sentiment” is a title that sufficiently explains to the refined mind the nature of the poem which bears it, and the author will only slightly mention the nature of his general plan.  
 
@@ -37,7 +37,7 @@ He subjoins the opening of the poem as a specimen of the manner in which he has 
 
 ---
 
-##### Part the First
+<span class="title">Part the First</span>
 
 O Sentiment, sweet soother of the soul  
 That hold’st the melting mind in soft control!  

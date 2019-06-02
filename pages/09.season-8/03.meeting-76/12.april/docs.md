@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Vardill</div>
 
-##### A Tale for the Hermits
+<span class="title">A Tale for the Hermits</span>
 
 Sly Love borrow’d April’s new mantle of green,  
 Her white daisied cap and her flow’red pelerine;  

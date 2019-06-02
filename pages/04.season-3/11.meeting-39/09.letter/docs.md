@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Communicated by Miss Beslee</div>
 
-##### From Deal Beach
+<span class="title">From Deal Beach</span>
 
 Immortal *Poesy*! to thee  
 In infant days I bow’d the knee,  

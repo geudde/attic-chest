@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Flaxman</div>
 
-#### Nine lines by way of Apology for not writing eight.  
+<span class="title">Nine lines by way of Apology for not writing eight.  </span>
   
 Oh! if from tuneful Laura’s hand  
 Had fall’n the little truant band,  

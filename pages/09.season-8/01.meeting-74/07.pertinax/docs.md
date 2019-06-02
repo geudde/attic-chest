@@ -18,7 +18,7 @@ You must know, Mr Editor, my muse is as capricious as the rest of her sex, and t
 
 <div class="author">Miss Vardill</div>
 
-##### To the Fairest  
+<span class="title">To the Fairest</span>
 
 (By and Inmate of Positive House)  
 

@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Elliott</div>
 
-##### Advertisement
+<span class="title">Advertisement</span>
 
 Speedily will be published, in one splendid volume in quarto, illustrated by views in the island of Java, and a plan of the Lives of Cornelia, which will be scientifically explained in the notes on the poem
 
@@ -31,9 +31,9 @@ This splendid national work, which as it will be seen was projected and commence
 
 In the meantime, to satisfy in some measure the impatience of the literary, the political, and the military world, Mr Scriblerus makes public the exordium of his already celebrated poem, with the Invocation to the Muse of Modern War
 
-##### The Conquest of the Spice Island  
+<span class="title">The Conquest of the Spice Island</span>
 
-##### Canto First
+<span class="title">Canto First</span>
 
 While in our ears the Tower Guns still roar,  
 While ring melodiously the Bells of Bow,  

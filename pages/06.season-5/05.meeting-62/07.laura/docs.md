@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Porden</div>
 
-##### Epistle the Third  
+<span class="title">Epistle the Third</span>
 
 Oh Celia! fickle, faithless maid,  
 Jest you, or have I falsely read —   

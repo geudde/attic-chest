@@ -6,12 +6,12 @@ taxonomy:
 visible: false
 ---
 
-#### Turk  
+<span class="title">Turk  </span>
   
 I just come from Turkey and fain Sir would know  
 What you English mean by a devilish good row.  
   
-#### Englishman  
+<span class="title">Englishman  </span>
   
 It is bawling O—P— and barking like dogs  
 With sounding of bugles and croaking like frogs  

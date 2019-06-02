@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Flaxman</div>
 
-##### Written the Night Before Battle
+<span class="title">Written the Night Before Battle</span>
 
 How sweet the tired soldier’s rest  
 Whose bosom owns no cruel guest  

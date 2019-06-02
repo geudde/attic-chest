@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Elliott</div>
 
-##### Strophe
+<span class="title">Strophe</span>
 
 O thou, th’ oppressor of a struggling world!  
 &emsp;Thou by the iron sceptre known  
@@ -32,7 +32,7 @@ A heart no plaints can pierce, no woes can move,
 A steady purpose that no change can prove,  
 Feelings self-center’d, dead to social joy and love.  
 
-##### Antistrophe
+<span class="title">Antistrophe</span>
 
 Thee, Tyranny, the elder ages saw  
 &emsp;When the replenish’d earth began,  
@@ -66,7 +66,7 @@ How did thy minions human joys despoil!
 &emsp;The bones of some now unknown king t’inhume,  
 What countless myriads died of never ceasing toil.
 
-##### Epode  
+<span class="title">Epode</span>
 
 &emsp;Yet not alone in barb’rous climes,  
 &emsp;&emsp;Or where the many, slaves by birth,  
@@ -94,7 +94,7 @@ Oppression’s grinding chain enthrall’d the rest.
 With an imperial race of tyrants crown’d  
 And Rome’s dread master rule the world around.  
 
-##### 2nd Strophe  
+<span class="title">2nd Strophe</span>
 
 Mother of Empire! Italy’s fair queen  
 &emsp;What wond’rous changes hast thou known  
@@ -118,7 +118,7 @@ Lo, kings themselves before the papal throne
 Submissive bend, and pow’r superior own,  
 Though by opinion’s force the Pontiff rules alone!
 
-##### 2nd Epode
+<span class="title">2nd Epode</span>
 
 &emsp;Thus, tyranny, thy mighty race  
 &emsp;&emsp;Was seen through ancient times,  

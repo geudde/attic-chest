@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Vignoles</div>
 
-##### Translated from the Italian of Petrarch on the Death of Laura  
+<span class="title">Translated from the Italian of Petrarch on the Death of Laura</span>
   
 Fall’n is the pillar high, the laurel green,  
 &emsp;That to my wearied thought erst gave a shade!  

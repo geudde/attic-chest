@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mrs Staveley</div>
 
-##### To the true object of her hopes and wishes
+<span class="title">To the true object of her hopes and wishes</span>
 
 O! come awa, come awa,  
 Come awa to me Willie!  

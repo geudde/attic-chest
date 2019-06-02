@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-### Woman   
+<span class="title">Woman   </span>
   
 > A Satyr from the Greek  
 > by  

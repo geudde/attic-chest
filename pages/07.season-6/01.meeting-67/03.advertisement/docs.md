@@ -10,7 +10,7 @@ visible: false
 
 <div class="center" markdown="1">
 
-##### Wanted!  
+<span class="title">Wanted!</span>
 
 An Attic Poet Laureate  
 

@@ -9,7 +9,7 @@ visible: false
 
 <div class="author">Miss Flaxman</div>
 
-#### A Cantata for Three Voices
+<span class="title">A Cantata for Three Voices</span>
 
 ![](cupid.jpg?resize=400)
   

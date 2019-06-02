@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-#### While His Nose Was Boring
+<span class="title">While His Nose Was Boring</span>
 
 <div class="author">Communicated by Mr Vignoles</div>
 

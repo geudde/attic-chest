@@ -9,7 +9,7 @@ visible: false
 
 <div class="author">Mr Bond</div>
 
-##### Written for Valentine’s Day and addressed to Thalia, Aglaia, and Euphrosyne  
+<span class="title">Written for Valentine’s Day and addressed to Thalia, Aglaia, and Euphrosyne</span>
 
 ![Muses](muses.jpg?resize=600)
 

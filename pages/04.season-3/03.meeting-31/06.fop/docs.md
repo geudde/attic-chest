@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-#### or *Fashionable* Court Mourning 
+<span class="title">or *Fashionable* Court Mourning </span>
 
 <div class="author">Miss Porden</div> 
   

@@ -10,7 +10,7 @@ visible: false
 
 > A wonderful ancient tradition of a little family who lived in a vinegar cruet, faithfully related by F:R:
 
-#### 1
+<span class="title">1</span>
 
 &emsp;There was a little Man  
 &emsp;(’Twas so the story ran)  
@@ -19,7 +19,7 @@ Who the wonder rais’d of many fold that knew it;
 &emsp;But a dwelling very small.  
 It was nothing but a vinegar cruet.
 
-#### 2
+<span class="title">2</span>
 
 &emsp;His little wife beside  
 &emsp;Did there with him reside  
@@ -28,7 +28,7 @@ And their children (nine in number) squeezed into it;
 &emsp;Yet as all were of a mind,  
 They found they’d room in plenty in the cruet.
 
-#### 3
+<span class="title">3</span>
 
 This very little blade  
 &emsp;Was a fisherman by trade  
@@ -37,7 +37,7 @@ And his skill it was with envy all did view it;
 &emsp;And surnam’d Tippeny  
 Widely famous for his vinegar cruet.
 
-#### 4
+<span class="title">4</span>
 
 Now the story it went on  
 &emsp;That the good Alamon  
@@ -46,7 +46,7 @@ One morning in the sea his net threw it;
 &emsp;Kept all out of the way  
 And he fail’d of his provision for the cruet.
 
-#### 5
+<span class="title">5</span>
 
 When a young eel not aware  
 &emsp;Nor taught to mind the snare  
@@ -55,7 +55,7 @@ Where the net was slyly laid, jump’d into it;
 &emsp;“Half loaf’s better than no bread  
 So I’ll take this little fish home to my cruet.
 
-#### 6
+<span class="title">6</span>
 
 The young fish then in a fright  
 &emsp;When she found her dismal plight  
@@ -64,7 +64,7 @@ Her imprudence began now to rue it;
 &emsp;Ah thou worthy little blade  
 Take me not to your vinegar cruet.
 
-#### 7
+<span class="title">7</span>
 
 Alamon with a sigh  
 &emsp;Thought of his little fry  
@@ -73,7 +73,7 @@ And says he, “We to others should do it
 &emsp;So I’ll spare thee little fish  
 From death in my vinegar cruet.
 
-#### 8
+<span class="title">8</span>
 
 No sooner this he cries  
 &emsp;When lo! to his surprise  
@@ -82,7 +82,7 @@ The young eel her skin quickly slipped through it
 &emsp;Saw arise a fairy maid  
 How he wish’d him in his vinegar cruet.
 
-#### 9
+<span class="title">9</span>
 
 The fairy in her hand  
 &emsp;Wav’d a white coral wand  
@@ -91,7 +91,7 @@ With an air as tho’ the world she could subdue it
 &emsp;Less than Alamon himself  
 Or his own little folk in his cruet.
 
-#### 10
+<span class="title">10</span>
 
 She said, “Be not in a fright  
 &emsp;I’m a young fairy sprite,  
@@ -100,7 +100,7 @@ And my form I can at pleasure renew it
 &emsp;Had your pity not been warm  
 I’d been serv’d up today in your cruet.
 
-#### 11
+<span class="title">11</span>
 
 Now because you have been kind  
 &emsp;And to mercy were inclined  
@@ -109,7 +109,7 @@ Whatsoever you shall wish, will I do it
 &emsp;And bring me the result  
 Of debates in your vinegar cruet.
 
-#### 12
+<span class="title">12</span>
 
 Then home he hurried fast  
 &emsp;His wife told what had passed  
@@ -118,7 +118,7 @@ Then home he hurried fast
 &emsp;They a spacious house should crave  
 And leave the little vinegar cruet.
 
-#### 13
+<span class="title">13</span>
 
 “Wife,” (cried the little blade)  
 &emsp;“You a foolish choice have made”  
@@ -127,7 +127,7 @@ And the fairy said so too, when she knew it.
 &emsp;Cried she, “but you’ll repent  
 And wish you in your vinegar cruet.”
 
-#### 14
+<span class="title">14</span>
 
 She wav’d her wand then thrice  
 &emsp;And a car rose in a trice,  
@@ -136,7 +136,7 @@ And the Tippennys she put all into it
 &emsp;Where they enter with delight  
 And forget the little vinegar cruet.
 
-#### 15
+<span class="title">15</span>
 
 Yet tho’ all was quite enchanting  
 &emsp;Still our wife found something wanting  
@@ -145,7 +145,7 @@ And a wish if once in view would pursue it
 &emsp;And go seek the little fay  
 Who brought usfrom our vinegar cruet.”
 
-#### 16
+<span class="title">16</span>
 
 “Say our dresses are so mean  
 &emsp;I’m ashamed we should be seen;  
@@ -154,7 +154,7 @@ And your own is as bad, when I view it,
 &emsp;As the wearing shabby clothes,  
 They were scarcely good enough for the cruet.
 
-#### 17
+<span class="title">17</span>
 
 Then away the husband went  
 &emsp;And expressed her discontent  
@@ -163,7 +163,7 @@ To the fairy who already will knew it
 &emsp;Said, “You wife her wish shall have  
 Tho’ grown vain since she has quitted the cruet.”
 
-#### 18
+<span class="title">18</span>
 
 Then home the husband hies,  
 &emsp;And on lifting up his eyes  
@@ -172,7 +172,7 @@ Towards his window he saw peeping tho’ it
 &emsp;All dressed out very fine  
 They had never seen such clothes in their cruet.
 
-#### 19
+<span class="title">19</span>
 
 But this pleasure quickly passed  
 &emsp;And prepared as did the last  
@@ -181,7 +181,7 @@ For something which still must ensue it
 &emsp;With all the great and high  
 Times nine changed since she quitted her cruet.
 
-#### 20
+<span class="title">20</span>
 
 “Dear husband,” she exclaimed  
 &emsp;“Pray let me not be blamed  
@@ -190,7 +190,7 @@ If I beg you your suit to renew it
 &emsp;Some wealth to make us go  
 Or we soon must return to our cruet.
 
-#### 21
+<span class="title">21</span>
 
 The little man once more  
 &emsp;Went back to the sea shore  
@@ -199,7 +199,7 @@ Tho’ sorry he again was to do it;
 &emsp;To keep them above water,  
 For sink or swim they’d not return to the cruet.
 
-#### 22
+<span class="title">22</span>
 
 “What still another wish?”  
 &emsp;Replied the fairy fish,  
@@ -208,7 +208,7 @@ For sink or swim they’d not return to the cruet.
 &emsp;Tho’ they’re greatly multiplied  
 Since you left your old abode the snug cruet.
 
-#### 23
+<span class="title">23</span>
 
 Now of wealth our wife possessed  
 &emsp;She might have been quite blessed  
@@ -217,7 +217,7 @@ If content had been added unto it.
 &emsp;With op’ra ball and play  
 She was not half so blithe as in her cruet.
 
-#### 24
+<span class="title">24</span>
 
 Amidst her ample store  
 &emsp;She still pin’d for something more  
@@ -226,7 +226,7 @@ Grudg’d prosperity in others to view it,
 &emsp;As if to her denied  
 Grown so selfish since she quitted her cruet.
 
-#### 25
+<span class="title">25</span>
 
 Not contented then with wealth,  
 &emsp;Domestic peace and health  
@@ -235,7 +235,7 @@ Tho’ envied by every one who knew it;
 &emsp;At fashion now did aim,  
 And to make folk forget the old cruet.
 
-#### 26
+<span class="title">26</span>
 
 So tickets fly about  
 &emsp;For Mrs Tippanny’s grand rout,  
@@ -244,7 +244,7 @@ So tickets fly about
 &emsp;She had scarce more room if any,  
 Than when living in her vinegar cruet.
 
-#### 27
+<span class="title">27</span>
 
 Tho’ her company was gay,  
 &emsp;And very late did stay  
@@ -253,7 +253,7 @@ Yet her pillow she with tears did bedew it;
 &emsp;Had said she was outdone:  
 Such thoughts ne’er broke her out in the cruet.
 
-#### 28
+<span class="title">28</span>
 
 But her discontent to hide  
 &emsp;Mrs Tippenny still tried,  
@@ -262,7 +262,7 @@ With the great who with laughter did view it,
 &emsp;Yet they sneered that she pretended  
 To fashion, who had risen from a cruet.
 
-#### 29
+<span class="title">29</span>
 
 Still for equipage she sigh’d,  
 &emsp;But the fay who wealth supplied  
@@ -271,7 +271,7 @@ Said, “A carriage she should ne’er get into it;
 &emsp;For old remembrance sake  
 Her crest the little vinegar cruet.”
 
-#### 30
+<span class="title">30</span>
 
 This condition hurt her pride  
 &emsp;Yet at last she did decide  
@@ -280,7 +280,7 @@ For the carriage (tho’ much she did rue it)
 &emsp;And in all things so complete  
 She hop’d nobody would think of the cruet.
 
-#### 31
+<span class="title">31</span>
 
 But alas! to her pain  
 &emsp;Came the wind and the rain,  
@@ -289,7 +289,7 @@ And the sun his bright beam he withdrew it,
 &emsp;Lest its beauty it should lose,  
 And look as shabby as the vinegar cruet.
 
-#### 32
+<span class="title">32</span>
 
 Her spouse again she sent  
 &emsp;To give her sorrows vent;  
@@ -298,7 +298,7 @@ Her spouse again she sent
 &emsp;To ride out all together,  
 Or we might as well be still in our cruet.
 
-#### 33
+<span class="title">33</span>
 
 High swell’d the angry wave,  
 &emsp;And deep sighs the wind it gave,  
@@ -307,7 +307,7 @@ Poor Tippanny fear’d ill would ensue it;
 &emsp;For in frowns arose the sprite,  
 Who brought him and all his tribe from the cruet.
 
-#### 34
+<span class="title">34</span>
 
 “I think the more you have  
 &emsp;The more you seem to crave”  
@@ -316,7 +316,7 @@ Said the fay, “but you shortly shall rue it
 &emsp;To every idle want:  
 Wants which ne’er you dreamt upon in your cruet.
 
-#### 35
+<span class="title">35</span>
 
 There little you desir’d,  
 &emsp;And little you requir’d,  
@@ -325,7 +325,7 @@ And your trade you with glee did pursue it;
 &emsp;And if little was your gain  
 Yet a little was enough for the cruet.
 
-#### 36
+<span class="title">36</span>
 
 A great house when you did crave,  
 &emsp;And when great wealth I gave  
@@ -334,7 +334,7 @@ Great increase of your wants did ensue it;
 &emsp;And to your great reproach  
 Were a great deal less content than in your cruet.
 
-#### 37
+<span class="title">37</span>
 
 Since you know not when to stop  
 &emsp;Nor where your suit to drop  
@@ -343,7 +343,7 @@ My power of course I withdraw it
 &emsp;And to no good purpose used,  
 So I’ve vow’d to send you back to your cruet.
 
-#### 38
+<span class="title">38</span>
 
 The fay her wand then wav’d,  
 &emsp;The gay mansion disappear’d,  
@@ -352,7 +352,7 @@ To the wonder of all who did view it;
 &emsp;And from the ruins rose  
 The humble little vinegar cruet.
 
-#### 39
+<span class="title">39</span>
 
 Here a new distress befell,  
 &emsp;For they all had fared so well  
@@ -361,7 +361,7 @@ That hardly could they now squeeze into it;
 &emsp;“Will reduce you to its size,  
 And fit you for your vinegar cruet.
 
-#### 40
+<span class="title">40</span>
 
 Establish’d there once more,  
 &emsp;Not less happy than before  

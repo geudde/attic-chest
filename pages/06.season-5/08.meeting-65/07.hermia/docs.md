@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Flaxman</div>
 
-##### To Hermia Sitting under a Laburnum
+<span class="title">To Hermia Sitting under a Laburnum</span>
 
 What lovely white-robed sylph do I behold  
 Through those gay wreaths of softly waving gold?  

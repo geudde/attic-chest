@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-##### To a lady distinguished by her dutiful attention to an aged parent
+<span class="title">To a lady distinguished by her dutiful attention to an aged parent</span>
 
 &emsp;Ah! why has Nature with a wayward hand  
 Cast on yon pathless rock that blushing rose  

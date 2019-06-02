@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-#### The Spirit of the Attic Chest’s Farewell Address to the Editress  
+<span class="title">The Spirit of the Attic Chest’s Farewell Address to the Editress  </span>
   
 With deep regret I view the season o’er  
 &emsp;Consigning me again to “durance vile;”  

@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Jekyll: Communicated by Mrs Staveley</div>
 
-##### Epitaph on Douglas, Duke of Hamilton
+<span class="title">Epitaph on Douglas, Duke of Hamilton</span>
 
 Here lies reposed beneath this sculptured stone  
 All that remains of princely Hamilton  

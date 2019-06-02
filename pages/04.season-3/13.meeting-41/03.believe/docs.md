@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-#### Song
+<span class="title">Song</span>
 
 <div class="author">Communicated by Miss Richardson L.I.F.</div>
 

@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Kilburn</div>
 
-#### Sonnetto
+<span class="title">Sonnetto</span>
 
 Gli angeli, il sol, la luna erano intorno  
 &emsp;&emsp;Al seggio di Natura in paradiso,  
@@ -27,7 +27,7 @@ Abbian altre begli occhi, e belle ciglia,
 	
 Fracastoro
 
-#### Sonnet
+<span class="title">Sonnet</span>
 
 Th’ Anglic host, the sun, the moon, array’d  
 &emsp;&emsp;In splendid majesty, around the seat  

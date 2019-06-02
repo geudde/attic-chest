@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Porden</div>
 
-##### To the Author of the Acrostic, and other Jeux d'Esprit, to Eliza
+<span class="title">To the Author of the Acrostic, and other Jeux d'Esprit, to Eliza</span>
 
 Oh whence that song, that tender dulcet strain  
 &emsp;That seemed to breathe affection’s purest *fire*,  

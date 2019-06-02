@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-##### Letter Proposing the Decoration of the Attic Chest
+<span class="title">Letter Proposing the Decoration of the Attic Chest</span>
 
 <div class="author">Mrs Kay</div>
 

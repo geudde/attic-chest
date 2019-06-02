@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Parkinson</div>
 
-#### A Long & *True* Story
+<span class="title">A Long & *True* Story</span>
 
 By many a tottering nurse is known  
 &emsp;The legend of the Cock-Lane Ghost;  

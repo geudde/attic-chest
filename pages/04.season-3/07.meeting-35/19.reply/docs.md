@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Porden</div>
 
-#### To “Say Love what master shews thy art”  
+<span class="title">To “Say Love what master shews thy art”  </span>
   
 Let other paint Eliza’s charms,  
 &emsp;With all the art that Love inspires  

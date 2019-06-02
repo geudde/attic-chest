@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Flaxman</div>
 
-#### A new Song to be sung to the old tune of “Four and twenty Fiddlers,” &c.  
+<span class="title">A new Song to be sung to the old tune of “Four and twenty Fiddlers,” &c.  </span>
   
 Four and twenty authors all of a row  
 Four and twenty authors all of a row,  

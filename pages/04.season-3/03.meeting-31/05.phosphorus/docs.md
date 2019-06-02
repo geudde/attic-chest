@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Porden</div>
 
-#### To the Editor of the Attic Chest  
+<span class="title">To the Editor of the Attic Chest  </span>
   
 Sir,  
   

@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Porden</div>
 
-### Or, The Brighton Fracas. A Tale  
+<span class="title">Or, The Brighton Fracas. A Tale  </span>
   
 Daughters of Albion, lend an ear  
 &emsp;While an unvarnished tale I tell  

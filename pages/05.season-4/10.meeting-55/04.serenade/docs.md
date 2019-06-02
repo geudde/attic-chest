@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Porden</div>
 
-##### Serenade
+<span class="title">Serenade</span>
 
 Silence now the air pervading  
 &emsp;Scarce a breath disturbs her reign;  
@@ -60,7 +60,7 @@ Hark! her mellow voice uniting
 Every finer sense delighting,  
 &emsp;Hush — my heart be still and hear.
 
-##### Reply
+<span class="title">Reply</span>
 
 From yon shaded terrace stealing,  
 &emsp;What sweet joys those strains impart,  

@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Communicated by Mr Vignoles</div>
 
-#### A Catholic Story  
+<span class="title">A Catholic Story  </span>
   
 There once was a painter in Catholic days,  
 &emsp;Like Job, who eschewed all evil;  

@@ -22,7 +22,7 @@ B
   
 ---  
   
-#### Lord Edward, a Ballad  
+<span class="title">Lord Edward, a Ballad  </span>
   
 Lord Edward went to his silken bed  
 And laid him down to rest,  
@@ -154,7 +154,7 @@ And gently thro’ the wood,
 To see how the foe lay in the plain,  
 And to make their onset good.  
   
-#### Second Part  
+<span class="title">Second Part  </span>
   
 Lord Edward’s men were fresh and hale  
 And their leader a gallant knight.  

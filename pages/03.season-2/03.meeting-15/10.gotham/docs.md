@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Porden</div>
 
-#### A Tale  
+<span class="title">A Tale  </span>
   
 Through Gotham, famed in days of yore,  
 For wits, and sages, green and hoar,  

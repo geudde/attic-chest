@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Porden</div>
 
-#### On St. Valentine’s Day
+<span class="title">On St. Valentine’s Day</span>
 
 “Forbear, ye clouds, forbear a while,  
 And let the mournful Phoebus smile,  

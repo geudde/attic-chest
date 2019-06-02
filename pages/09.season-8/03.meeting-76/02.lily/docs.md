@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-##### To a Lady on Her Birthday
+<span class="title">To a Lady on Her Birthday</span>
 
 Sweet modest flower, thy drooping head,  
 Doth to my fancy say,  

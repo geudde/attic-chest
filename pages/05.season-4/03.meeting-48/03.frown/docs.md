@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Vardill</div>
 
-##### To Amanda
+<span class="title">To Amanda</span>
 
 When Attic Wit & Mirth preside  
 Amanda! why with scornful pride  

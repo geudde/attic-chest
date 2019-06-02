@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Flaxman</div>
   
-#### A Probationary Ode by Philo Fillagree Jun. Esq.  
+<span class="title">A Probationary Ode by Philo Fillagree Jun. Esq.  </span>
   
 See! the storm begins to lower,  
 Moon beams dart between the clouds,  
@@ -23,7 +23,7 @@ Let all enchantments, powers be there,
 Now Rosa, bring the fatal casket  
 And all the et ceteras in the charmed basket;  
   
-#### Epode  
+<span class="title">Epode  </span>
   
 Down the winding stairs they go  
 To the grand saloon below.  
@@ -44,7 +44,7 @@ Wove by Minerva’s hand,
 To grace the floor is laid  
 A handsome Turkey carpet;  
   
-#### Strophe  
+<span class="title">Strophe  </span>
   
 Now Tinderella moves, with awful grace,  
 Rosa attends her, with obsequious face,  
@@ -93,7 +93,7 @@ Thy sky blue mantle, in a streaming flow;
 Thus veil thy brightness, to weak mortal sight,  
 Which else must darken in thy light!  
   
-#### Antistrophe  
+<span class="title">Antistrophe  </span>
   
 Thy come, they are here,  
 On me they glare,  
@@ -106,7 +106,7 @@ There! fix fair Daphne’s branch full in Apollo’s sight,
 The holly place before the virgin goddess bright,  
 And now, e’en now, I’ll strike a light!  
   
-#### Conclusion of the Tinder Box  
+<span class="title">Conclusion of the Tinder Box  </span>
   
 This rich Daedalian golden casket  
 Was made by Vulcan,  
@@ -142,7 +142,7 @@ Or joyful, calm, or mad.
 Thus Ino gives, as she her store unlocks,  
 The fates straight press it in the tinderbox —  
   
-#### Ode  
+<span class="title">Ode  </span>
   
 ’Tis done, ’tis done,  
 The charms are laid,  

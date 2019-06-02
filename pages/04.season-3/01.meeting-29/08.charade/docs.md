@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-### On a Dead Poet’s Name
+<span class="title">On a Dead Poet’s Name</span>
 
 If condemned by the Fates on my second to feast  
 &emsp;Enclosed in my first with some ravenous beast  

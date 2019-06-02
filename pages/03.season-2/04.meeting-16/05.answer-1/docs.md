@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Flaxman</div>
 
-#### Answer to the Query: In what Country are occasionally found Cherry-coloured Cats with Rose-coloured feet?
+<span class="title">Answer to the Query: In what Country are occasionally found Cherry-coloured Cats with Rose-coloured feet?</span>
 
 In England’s happy land we sometimes find,  
 That curious species of the feline kind;  

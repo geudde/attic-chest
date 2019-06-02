@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mrs Staveley</div>
 
-##### Birchall’s Shop
+<span class="title">Birchall’s Shop</span>
 
 How blythe the swains on May-Day morn  
 As through the streets they hop  

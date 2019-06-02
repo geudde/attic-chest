@@ -467,7 +467,7 @@ The Primrose of December → <span class="name">Miss Sanders</span>
 On Miss Peacock, Lady Mayoress of York → <span class="name">Mr Flaxman</span>  
 On Junius, from Dr. Johnson → <span class="name">com. Mr Porden</span>  
 On Seeing a Mouse Run across the Road → <span class="name">com. Mrs Porden</span>  
-Ode to a Pig, while His nose Was boring → <span class="name">com. Mr Vignoles  </span>  
+Ode to a Pig, while His nose Was boring → <span class="name">com. Mr Vignoles</span>  
 
 <div class="bottom">
 <span class="meeting">No. 32&emsp;(1811-01-15)</span>  
@@ -645,8 +645,8 @@ The Author’s Address to His Muse → <span class="name">com. Miss F. Richardso
 Familiar Epistle to a Daughter → <span class="name">com. Miss Beslee</span> <span class="red">(incomplete)</span>  
 The Hern → <span class="name">com. Mr Porden</span>  
 To a Lady Distinguished by Her Dutiful Attention → <span class="name">com. Mr Porden</span>  
-<span class="grey">The Sylphiad Canto 4th → Mr Vignoles </span>  
-<span class="grey">The Restoration Book 3d Cantos 3 and 4 → Miss Porden </span>  
+<span class="grey">The Sylphiad Canto 4th → Mr Vignoles</span>  
+<span class="grey">The Restoration Book 3d Cantos 3 and 4 → Miss Porden</span>  
 
 <div class="bottom">
 <span class="meeting">No. 43&emsp;(1811-06-18)</span>  
@@ -657,7 +657,7 @@ The Captive Lover’s Epistle → <span class="name">Miss Flaxman</span>
 Days of Yore → <span class="name">Miss F. Richardson</span>  
 Music, Feeling, and Palpitation → <span class="name">Mr Hinckley</span>  
 Alamon Tippenny → <span class="name">Miss F. Richardson</span>  
-<span class="grey">The Sylphiad Canto 5th → Mr Vignoles </span>  
+<span class="grey">The Sylphiad Canto 5th → Mr Vignoles</span>  
 <span class="grey">The Restoration Book 3d Canto 3 and 4 → Miss Porden</span>  
 
 <div class="bottom">
@@ -1002,7 +1002,7 @@ Lysander to Hermia → <span class="name">Miss Flaxman</span>
 Song for a Festive Occasion → <span class="name">Miss Vardill</span>  
 The Boulanger → com. <span class="name">Mr E. Elliott</span>  
 Liberty → <span class="name">Mr Elliott</span>  
-<span class="grey">Critical Trialogue → </span> 
+<span class="grey">Critical Trialogue →</span> 
 
 <div class="bottom">
 <span class="meeting">No. 66&emsp;(1813-07-14)</span>  
@@ -1089,7 +1089,7 @@ An Attempt → Miss Vardill
 Electomagus to the Editor → Miss Porden  
 Atticus Scriblerus → Mr Elliott  
 The Skull and the Custom House Officer → Miss Porden (Philemon)  
-<span class="grey">The 4th Lecture on Natural History → Miss Porden </span>
+<span class="grey">The 4th Lecture on Natural History → Miss Porden</span>
 
 <div class="bottom">
 <span class="meeting">No. 71&emsp;(? ? ? ?)</span>  

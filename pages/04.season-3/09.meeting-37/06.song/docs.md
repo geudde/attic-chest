@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Communicated by Mrs Flaxman</div>
 
-##### Song Written by a Friend to His Wife in 1783
+<span class="title">Song Written by a Friend to His Wife in 1783</span>
 
 I love the jocund dance,  
 The softly-breathing song,  

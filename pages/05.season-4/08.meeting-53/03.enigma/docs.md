@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Hinckley</div>
 
-##### To Laura
+<span class="title">To Laura</span>
 
 A thing there is yet ’tis none —   
 Tho’ sweeter heaven ne’er beamed upon.  

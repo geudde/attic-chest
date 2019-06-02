@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Sir John Carr</div>
 
-#### A Ballad  
+<span class="title">A Ballad  </span>
   
 Rebecca was the fairest maid  
 That on the Danube’s borders play’d;  

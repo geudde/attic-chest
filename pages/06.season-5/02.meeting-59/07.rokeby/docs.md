@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Vardill</div>
 
-##### A New Comic Opera or Melo-drame
+<span class="title">A New Comic Opera or Melo-drame</span>
 
 (The reader must observe my strict adherence to the manners and events of the year 1641, and to the unities of time and place. Even this act comprises the six requisites of a modern comedy: a sentimental heiress, a pert dowager, and a Bond Street fop; a grand spectacle, a chorus of banditti, and a hint at murder.  — Martinus Scriblerus, Junior. March 19)
 
@@ -170,7 +170,7 @@ March 19th, 1813
 
 [^1]: Sir Philip Mortham’s suspected wife.
 
-##### Glee for 3 voices
+<span class="title">Glee for 3 voices</span>
 
 Willfort
 

@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Vardill</div>
 
-##### Translated for the Attic Chest
+<span class="title">Translated for the Attic Chest</span>
 
 Kind Dove, thy silver wings expand,  
 Return and greet thy Master’s hand;  

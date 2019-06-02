@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Elliott</div>
 
-##### To the Attic Society
+<span class="title">To the Attic Society</span>
 
 An Attic Laurel? yes, the glorious prize,  
 The bright distinction glitters in my eyes!  

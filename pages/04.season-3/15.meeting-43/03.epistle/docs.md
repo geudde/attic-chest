@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Flaxman</div>
 
-##### The Captive Lover’s Epistle to his Mistress by the Carrier Pigeon
+<span class="title">The Captive Lover’s Epistle to his Mistress by the Carrier Pigeon</span>
 
 Ah! what to me is spring’s return!  
 Or the soft smile of summer’s morn,  

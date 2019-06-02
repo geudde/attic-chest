@@ -8,9 +8,9 @@ visible: false
 
 <div class="author">Miss Flaxman</div>
 
-##### Epistle the Fourth
+<span class="title">Epistle the Fourth</span>
 
-##### To Laura in Town
+<span class="title">To Laura in Town</span>
 
 Your letter dear Laura, enchanted us all,  
 We Ruralists fancied ourselves at the Ball,  

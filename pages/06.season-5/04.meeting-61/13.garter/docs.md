@@ -10,7 +10,7 @@ visible: false
 
 > Dedicated (without permission) to Mr J.B. of York
 
-##### Part the 1st
+<span class="title">Part the 1st</span>
 
 I do not propose here to trace  
 Whence came the Garter’s ancient race,  
@@ -94,7 +94,7 @@ Hence modern beaux may learn of old
 What honors to the sex was paid,  
 May hear, and blush, as they are told.
 
-##### Part the 2nd
+<span class="title">Part the 2nd</span>
 
 And now I leave the lighted hall  
 The minstrel’s harp, the sprightly ball,  

@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Vignoles</div>
 
-#### Versified and Paraphrased from the German of Góethe  
+<span class="title">Versified and Paraphrased from the German of Góethe  </span>
   
 &emsp;At early morn I climb’d the steep,  
 &emsp;That overhangs the valley deep,  

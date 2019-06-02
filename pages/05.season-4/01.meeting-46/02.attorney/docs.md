@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Vignoles</div>
 
-##### The Worthy Guardian of the Wars
+<span class="title">The Worthy Guardian of the Wars</span>
 
 The issue of the Attic trial,  
 My client gained — nay, no denial!  

@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Richardson</div>
 
-##### To Ellen
+<span class="title">To Ellen</span>
 
 If thou, my Ellen, wilt receive  
 A heart long anxious to be thine;  

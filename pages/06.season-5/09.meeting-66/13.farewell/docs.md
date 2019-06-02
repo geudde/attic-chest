@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Porden</div>  
 
-##### Farewell from the Attic Chest to her Friends on the Close of the Season
+<span class="title">Farewell from the Attic Chest to her Friends on the Close of the Season</span>
 
 Four times when Summer led her smiling train,  
 &emsp;Your Chest has bade her fostering friends adieu,  

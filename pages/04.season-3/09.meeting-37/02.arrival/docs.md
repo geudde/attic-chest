@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Porden</div>
 
-##### To the Swallows on Their Arrival 1809  
+<span class="title">To the Swallows on Their Arrival 1809</span>
   
 Ye social birds that fluttering in the gale  
 Now seek your ancient nests of down and clay,  

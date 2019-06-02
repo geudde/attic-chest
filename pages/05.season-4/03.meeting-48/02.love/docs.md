@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Hinckley</div>
 
-##### Matter and Spirit: The Question Stated
+<span class="title">Matter and Spirit: The Question Stated</span>
 
 Some trace from all we eat or drink,  
 But most from beef the power to think.  
@@ -43,7 +43,7 @@ Not from tea, beef, or sparkling wine,
 Of Heaven’s the ethereal soul divine.
 
 ---
-##### Enigma
+<span class="title">Enigma</span>
 
 ’Tis said that Earth, air, water, fire,  
 To form all worldly things conspire —   

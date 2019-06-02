@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Porden</div>
 
-### Answer to the Unfortunate Spinster → Miss Porden (Antigynes) 
+<span class="title">Answer to the Unfortunate Spinster → Miss Porden (Antigynes) </span>
 
 Miss,
 

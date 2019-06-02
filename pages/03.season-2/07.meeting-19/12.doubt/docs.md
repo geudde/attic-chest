@@ -9,7 +9,7 @@ visible: false
 
 <div class="author">Mr Porden</div>
 
-#### Doubt
+<span class="title">Doubt</span>
 
 ![Doubt](doubt.jpg?resize=350)
 
@@ -33,7 +33,7 @@ And generous wine his heavy heart to cheer
 &emsp;Alas he has no stomach to begin —  
 Sans sleep — Sans drink — sans prog no wonder he’s so thin  
   
-#### Certainty  
+<span class="title">Certainty  </span>
 
 ![Certainty](certainty.jpg?resize=350)
   

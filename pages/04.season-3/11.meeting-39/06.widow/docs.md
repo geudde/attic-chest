@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Communicated by Mr Vignoles</div>
 
-##### A Doctors’ Commons Tale founded on Facts  
+<span class="title">A Doctors’ Commons Tale founded on Facts</span>
  
 Most *lawyers*, in the long vacation  
 Pursue some fav’rite recreation,  

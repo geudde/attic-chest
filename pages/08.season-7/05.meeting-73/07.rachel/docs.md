@@ -17,7 +17,7 @@ Stock Broker, Duke’s Place
   
 12th of the Month Nisam. A:M: 5819  
   
-##### The Translation  
+<span class="title">The Translation</span>
   
 If Bishop Valentine has sway  
 St Nicholas should have his day —   

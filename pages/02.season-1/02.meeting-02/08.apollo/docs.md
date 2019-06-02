@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-#### The Muses Vagaries
+<span class="title">The Muses Vagaries</span>
 
 “News Ladies news!” how lucky I have caught it,  
 ’Tis from Parnassus and Mercurius brought it,  

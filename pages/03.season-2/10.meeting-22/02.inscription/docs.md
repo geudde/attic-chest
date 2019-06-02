@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Communicated by Miss Flaxman</div>
 
-#### Inscription to the memory of Shenstone by M. Girardin
+<span class="title">Inscription to the memory of Shenstone by M. Girardin</span>
 
 This plain stone  
 To William Shenstone,  

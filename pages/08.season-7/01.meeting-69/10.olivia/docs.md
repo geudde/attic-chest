@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Vardill</div>
 
-##### To my Guardian, Lord Aircastle
+<span class="title">To my Guardian, Lord Aircastle</span>
 
 Accept, my Lord, a votive song  
 From one who cannot think it wrong  

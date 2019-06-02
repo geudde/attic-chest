@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Flaxman</div>
 
-##### A Song of Sixpence!  
+<span class="title">A Song of Sixpence!</span>
 
 Have you ne’er read in story old  
 Of birds two dozen (as ’tis told)  

@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Porden</div>
 
-##### Part the 3rd
+<span class="title">Part the 3rd</span>
 
 Nay do not yet, ye Nine ascend  
 Not yet my toil, or yours, must end,  
@@ -98,7 +98,7 @@ A cure for unrequited love.
 But now I see a nobler story  
 In modern days the Garter’s glory
 
-##### Part the 4th
+<span class="title">Part the 4th</span>
 
 In Britain’s Isle there stands a town,  
 And once, ’tis said of high renown  
@@ -246,7 +246,7 @@ And end it, as may like him best.
 
 ---
 
-##### Valentine
+<span class="title">Valentine</span>
 
 In days of yore the damsel fair  
 When forth to fight her hero sending,  

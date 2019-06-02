@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Porden</div>
 
-##### Written for Music at the Request of a Lady
+<span class="title">Written for Music at the Request of a Lady</span>
 
 Oh why when poets strike the lyre,  
 Does love alone their lays inspire,  

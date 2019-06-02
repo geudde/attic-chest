@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Communicated by Mr Flaxman</div>
 
-#### An Epigram upon Dr. Toe of Cambridge, who courted a lady who afterwards married her footman
+<span class="title">An Epigram upon Dr. Toe of Cambridge, who courted a lady who afterwards married her footman</span>
 
 Twixt Doctor Toe & footman Joe,  
 A rivalship befell,  

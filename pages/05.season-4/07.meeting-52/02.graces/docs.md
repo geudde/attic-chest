@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Vardill</div>
 
-##### or, The Fair Advertiser
+<span class="title">or, The Fair Advertiser</span>
 
 When fair ones and gay ones for love advertise  
 ’Tis time for the God to send speedy supplies:  

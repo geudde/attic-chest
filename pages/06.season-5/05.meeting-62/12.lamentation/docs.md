@@ -22,7 +22,7 @@ P.S. If you can do me the favor to obtain prompt payment of the enclosed bill, y
 
 ---
 
-##### An Ex-Members Lamentation & Remonstrance
+<span class="title">An Ex-Members Lamentation & Remonstrance</span>
 
 Farewell the hour to panting poets dear  
 When guests assembled grace the lighted room,  

@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Flaxman</div>
 
-##### In honour of a Knight and a King’s fair Daughter
+<span class="title">In honour of a Knight and a King’s fair Daughter</span>
 
 <span class="pencil">Sir John Carr &amp; Miss *King*</span>
 

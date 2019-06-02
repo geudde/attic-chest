@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Porden</div>
 
-##### Answer to the Enigma published in the Morning Herald  
+<span class="title">Answer to the Enigma published in the Morning Herald</span>
 
 How sweet the rose’s vermil hue  
 &emsp;Its opening at the zephyr’s sigh  

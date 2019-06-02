@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Vardill</div>
 
-##### or, I’m Very Sorry!!  
+<span class="title">or, I’m Very Sorry!!</span>
 <div class="center" markdown="1">
 **A New Tragedy**  
 

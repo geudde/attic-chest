@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Richardson</div>
 
-#### Si le Roi m’avoit donné  
+<span class="title">Si le Roi m’avoit donné  </span>
   
 Mere wealth & power bestowed on me,  
 &emsp;E’en by King Henry’s hand;  

@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Porden</div>
 
-##### On the Expiration of the Mourning
+<span class="title">On the Expiration of the Mourning</span>
 
 Long in sable vest appearing  
 Albion’s nymphs Amelia mourned,  

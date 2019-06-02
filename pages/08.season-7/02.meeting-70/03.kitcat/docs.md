@@ -24,7 +24,7 @@ P.S. I am induced to omit my signature, tho’ fear of being misunderstood and a
 
 To the Attic Society
 
-##### A Kit-cat Ode
+<span class="title">A Kit-cat Ode</span>
 
 Why should not I invoke the nine  
 Since ’tis the lot of race feline  

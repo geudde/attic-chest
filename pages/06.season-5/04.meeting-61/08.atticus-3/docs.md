@@ -8,13 +8,13 @@ visible: false
 
 <div class="author">Mr Elliott</div>
 
-##### A Card
+<span class="title">A Card</span>
 
 Atticus Scriblerus, Votary of the Muses, Member of various Societies and Academies of Belles Lettres in every part of the world, and author of many approved works in different departments of literature, begs leave to offer his services to Ladies and Gentlemen desirous of dabbling a little in Helicon, but whose avocations of Business or Pleasure render it inconvenient for them to write their own verses:
 
 For a moderate remuneration he undertakes to do jobs of this kind in a workmanlike manner. For Pindaric and Heroic flight, he possesses by inheritance a pen-feather plucked from the pinion of Pegasus by a mighty Bard of old; for Elegy and Pastoral he has a quill from the wing of a dying Mantuan Swan; for amatory verses he is possessed of a whole bundle of quills gathered in the Isle of Paphos, the indubitable product of the wing of Venus’ Doves; Satire he writes with Wise’s steel pens. For themes of compliment and nonsense he has an excellent goose quill, and as his Muse is ordinarily willing and prolific, he does not doubt his ability to complete the orders of his Friends with the utmost dispatch. He likewise undertakes to review, correct, and prepare for the press, the works of Amateur Authors, at a moderate charge proportioned to the length and trouble of the business.
 
-##### Scale of Prices
+<span class="title">Scale of Prices</span>
 
 * For turning into decent rhyme an Epigram badly versified — 1s 0d  
 * For versifying a do. ready made in prose — 1s 6d  

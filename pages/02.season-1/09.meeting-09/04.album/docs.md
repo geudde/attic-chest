@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Joseph</div>
 
-##### Written in a Young Lady’s album, who had spoiled a fine complexion by frequenting late assemblies, concerts, etc.
+<span class="title">Written in a Young Lady’s album, who had spoiled a fine complexion by frequenting late assemblies, concerts, etc.</span>
 
 &emsp;See where expos’d to chilling dews  
 Yon night-expanding flow’r[^1] displays  

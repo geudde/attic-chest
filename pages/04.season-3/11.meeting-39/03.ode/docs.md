@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Communicated by Mr Vignoles</div>
 
-##### I  
+<span class="title">I</span>
 
 Hark! heard ye not yon footsteps dread,  
 That shook the hall with thundering tread?  
@@ -17,7 +17,7 @@ That shook the hall with thundering tread?
 &emsp;Each intent on direful work,  
 High lifts his mighty blade, and points his deadly fork.  
  
-##### II  
+<span class="title">II</span>
 
 But hark! the portals sound, and pacing forth,  
 &emsp;&emsp;With steps, alas! too slow,  
@@ -32,7 +32,7 @@ Almighty pudding sheds its sweets around.
 &emsp;&emsp;Unnumber’d heroes in the glorious strife,  
 Thro’ fish, flesh, pies, and puddings, cut their destin’d way.  
 
-##### III  
+<span class="title">III</span>
 
 See beneath the mighty blade,  
 &emsp;Gor’d with many a ghastly wound,  
@@ -49,7 +49,7 @@ Low the fam’d sirloin is laid,
 For swift as thought the pudding, jellies, pies,  
 Contract their giant bulks, and shrink to pygmy size.  
 
-##### IV  
+<span class="title">IV</span>
  
 From the table now retreating,  
 &emsp;All around the fire they meet,  

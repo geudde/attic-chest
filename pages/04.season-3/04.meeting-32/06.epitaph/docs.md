@@ -27,7 +27,7 @@ Veritas
 
 ---
   
-### Inscription of a Tomb-stone in —— Churchyard  
+<span class="title">Inscription of a Tomb-stone in —— Churchyard  </span>
   
 “L’Infortunée, qui git sous ces Tombeaux  
 Ne trouva te repos, qu’on terminant sa vie  

@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">com. Mr Vignoles</div>
 
-##### On the Death of the two famous Chinese Astronomers *Ho* and *Hi*  
+<span class="title">On the Death of the two famous Chinese Astronomers *Ho* and *Hi*</span>
   
 Here rot the bones of *Ho* and *Hi*,  
 Whose fate was sad, but risible,  

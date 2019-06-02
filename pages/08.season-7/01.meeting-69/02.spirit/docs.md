@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Porden</div>
 
-##### On its opening Dec 7th 1814
+<span class="title">On its opening Dec 7th 1814</span>
 
 Dark was the cloud that roll’d in sudden ire  
 A night of sorrow o’er my opening morn,  

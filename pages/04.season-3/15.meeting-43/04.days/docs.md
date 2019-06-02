@@ -6,9 +6,9 @@ taxonomy:
 visible: false
 ---
 
-##### Days of Yore and Modern Times
+<span class="title">Days of Yore and Modern Times</span>
 
-##### 1
+<span class="title">1</span>
 
 In days of yore Orontes came,   
 To pay to fair Statira duty.  
@@ -20,7 +20,7 @@ No damsel was so fair, or nearly,
 She still obdurate long remain’d,  
 And *if* he won, he won her dearly.
 
-##### 2
+<span class="title">2</span>
 
 In modern times Sir Harry came,  
 To offer wealthy Jane his duty,  

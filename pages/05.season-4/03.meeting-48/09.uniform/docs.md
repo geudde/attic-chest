@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Porden</div>
 
-##### Lines on the Projected Alterations in the Uniform of the British Cavalry
+<span class="title">Lines on the Projected Alterations in the Uniform of the British Cavalry</span>
 
 Hail chivalry, whose influence bland,  
 &emsp;Enlightening many a barbarous age,  

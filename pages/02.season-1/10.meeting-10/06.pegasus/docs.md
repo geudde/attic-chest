@@ -8,9 +8,9 @@ visible: false
 
 <div class="author">Mr Flaxman</div>
 
-#### Pegasus Restored to Gods & Men  
+<span class="title">Pegasus Restored to Gods & Men  </span>
   
-#### An Ode  
+<span class="title">An Ode  </span>
   
 Thyestes’ deed, Medea’s rage  
 Hateful! begone! from age to age  

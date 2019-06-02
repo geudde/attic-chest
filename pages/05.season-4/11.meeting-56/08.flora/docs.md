@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Vardill</div>
 
-##### A Scotch Tale
+<span class="title">A Scotch Tale</span>
 
 The enclosed Ballad is founded on a legend of a Scotch Chieftain whose estates were confiscated in his absence by the treachery of his brother. His humble retirement with a beautiful daughter was soon visited by that brother’s only son and heir, who restored the lands of the injured Chief and married his daughter. The versification of this traditionary tale is humbly offered to the Editor of the Attic Chest.
 

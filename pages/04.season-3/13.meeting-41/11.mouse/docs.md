@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Communicated by Mr Vignoles</div>
 
-##### A Tragi-Comic Poem
+<span class="title">A Tragi-Comic Poem</span>
 
 > Divina opici rodebant Carmina mures
 

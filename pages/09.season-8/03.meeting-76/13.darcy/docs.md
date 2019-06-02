@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Elliott</div>
 
-##### Prize Essay
+<span class="title">Prize Essay</span>
 
 By Atticus Scriblerus Esquire Junior
 

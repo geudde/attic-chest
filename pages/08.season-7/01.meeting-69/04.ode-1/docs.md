@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Vardill</div>
 
-##### Ode on Lord Aircastle’s Visit  
+<span class="title">Ode on Lord Aircastle’s Visit</span>
 
 1
 

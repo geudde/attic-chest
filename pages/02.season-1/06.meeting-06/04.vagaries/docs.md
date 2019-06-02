@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-#### Clio’s letter  
+<span class="title">Clio’s letter  </span>
   
 -----  
   
@@ -40,7 +40,7 @@ Clio
   
 ------  
   
-#### Melpomone  
+<span class="title">Melpomone  </span>
   
 My sister Clio, gracious Sir hath prov’d,  
 That if from town we should be now remov’d,  
@@ -71,7 +71,7 @@ Melpomone
   
 -------  
   
-#### Thalia  
+<span class="title">Thalia  </span>
   
 I can’t help laughing Sir upon my word,  
 To think that Hermes should be so absurd,  

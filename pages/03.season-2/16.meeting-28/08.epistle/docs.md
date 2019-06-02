@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-#### Written on the 4th of June 1810  
+<span class="title">Written on the 4th of June 1810  </span>
   
 &emsp;Forgive the limping lines I wrote  
 In answer to your charming note  

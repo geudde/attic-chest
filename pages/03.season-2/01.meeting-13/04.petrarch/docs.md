@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mrs Dobson</div>
 
-#### To the Fountain of Valchinsa  
+<span class="title">To the Fountain of Valchinsa  </span>
   
 &emsp;Ye clear & sparkling streams,  
 &emsp;Warmed by the sunny beams,  

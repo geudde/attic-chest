@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Communicated by Miss Beslee</div>
 
-##### To a Friend
+<span class="title">To a Friend</span>
 
 It starts, it falls — a trembling tear  
 &emsp;Down thy lov’d cheek, Maria, steals,  

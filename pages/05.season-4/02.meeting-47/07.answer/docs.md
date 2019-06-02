@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Flaxman</div>
 
-##### From her ever faithful Moth
+<span class="title">From her ever faithful Moth</span>
 
 Vapours and clouds may sometimes rise  
 In fleecy squadrons to the skies,  

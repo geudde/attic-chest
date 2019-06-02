@@ -6,11 +6,11 @@ taxonomy:
 visible: false
 ---
 
-##### Verses written on the door of a temple, on Plane Hill, Swainston & the seat of Sir John Barrington
-
 <div class="author">Communicated by Mr Porden</div>
 
-##### Original and Extempore
+<span class="title">Verses written on the door of a temple, on Plane Hill, Swainston &amp; the seat of Sir John Barrington</span>
+
+<span class="title">Original and Extempore</span>
 
 Lost in the vale of years I mourn,  
 Those days that never must return,  

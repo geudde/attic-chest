@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Elliott</div>
 
-##### Liberty, a Canzonet to Nysa
+<span class="title">Liberty, a Canzonet to Nysa</span>
 
 > Specimen of translation from Metastasio 
 

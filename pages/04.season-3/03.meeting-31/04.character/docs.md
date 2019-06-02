@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Communicated by Miss Richardson</div>
 
-### Miss ---  
+<span class="title">Miss ---  </span>
   
 She dothe possesse of wit, soe large a share  
 With meak humility soe sweetly blente,  

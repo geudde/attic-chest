@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Vardill</div>
 
-##### To the Patron of Positive House
+<span class="title">To the Patron of Positive House</span>
 
 As to full size the broad balloon distends  
 When thro’ soft tubes phlogistic air ascends,  

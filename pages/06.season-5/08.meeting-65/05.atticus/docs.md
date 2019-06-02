@@ -8,9 +8,9 @@ visible: false
 
 <div class="author">Mr Elliott</div>
 
-##### Justice! Justice!! Justice!!!
+<span class="title">Justice! Justice!! Justice!!!</span>
 
-##### Once more, Justice!!!!
+<span class="title">Once more, Justice!!!!</span>
 
 
 Yes, Sir, once more, compelled by wrong  

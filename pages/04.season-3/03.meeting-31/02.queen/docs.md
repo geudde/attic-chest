@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-#### A Legend  
+<span class="title">A Legend  </span>
   
 “Now say,” quoth the Queen of Sicily,  
 “Now tell me, my darling daughters three,  

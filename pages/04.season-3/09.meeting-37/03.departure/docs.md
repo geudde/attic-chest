@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Porden</div>
 
-##### To the Swallows on Their Departure 1809  
+<span class="title">To the Swallows on Their Departure 1809</span>
 
 Ye Birds that fearful of th’ inclement skies  
 &emsp;Now bid your straw-built summer seats adieu  

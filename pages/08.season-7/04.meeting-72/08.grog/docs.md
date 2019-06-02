@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-##### A Parody “almost impromptu” made at the Dinner Table
+<span class="title">A Parody “almost impromptu” made at the Dinner Table</span>
 
 1
 

@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Porden</div>
 
-##### Thanking the Author for a Valentine
+<span class="title">Thanking the Author for a Valentine</span>
 
 &emsp;In chivalry’s resplendent age  
 When knights with dragons did engage  

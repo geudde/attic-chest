@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Porden</div>
 
-#### On the Death of the Late Princess Amelia  
+<span class="title">On the Death of the Late Princess Amelia  </span>
   
 Farewell *Amelia*, much lamented maid,  
 &emsp;Torn from thy parents in the bloom of years;  

@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mrs Flaxman</div>
 
-#### Song to the Air of “Waly, Waly, Love is bonnie”
+<span class="title">Song to the Air of “Waly, Waly, Love is bonnie”</span>
 
 Sae heavy is this waefu’ heart,  
 Wi’ stifled sighs it soon mun break!  

@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-##### In Prose and Verse  
+<span class="title">In Prose and Verse</span>
   
 Draw! draw your pens, and dip them in the ink  
 Then quick set down whate’er ye list, or think.  

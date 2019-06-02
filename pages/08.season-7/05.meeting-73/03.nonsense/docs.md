@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-##### Wanted immediately  
+<span class="title">Wanted immediately</span>
   
 A *word* for common use, as a substitute for *Nonsense*.  
   

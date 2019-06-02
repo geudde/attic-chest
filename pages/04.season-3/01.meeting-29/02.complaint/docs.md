@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Vignoles</div>
 
-#### The Complaint of the Members of the Attic Chest on the Delay of Opening it this Season
+<span class="title">The Complaint of the Members of the Attic Chest on the Delay of Opening it this Season</span>
 
 Now Brighton ev’ry day grows thinner,  
 The Black-Legs scarce get a dinner,  

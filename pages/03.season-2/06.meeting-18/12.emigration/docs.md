@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Vignoles</div>
 
-#### or The Five Honest Lawyers  
+<span class="title">or The Five Honest Lawyers  </span>
   
 Did you never ye scholars con over in history,  
 Nor ye, to whom reading continues a mystery,  

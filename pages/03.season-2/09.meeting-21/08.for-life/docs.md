@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Communicated by Mrs Flaxman</div>
 
-#### From the Greek of Metrodorus  
+<span class="title">From the Greek of Metrodorus  </span>
   
 Mankind may rove, unvex’d by strife,  
 Thro’ ev’ry road of human life.  

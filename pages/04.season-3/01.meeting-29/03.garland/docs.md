@@ -33,7 +33,7 @@ Appears the mock heroic verse.
 
 PS  
   
-##### To the Fair Attics and the Attics who are not fair  
+<span class="title">To the Fair Attics and the Attics who are not fair</span>
   
 Brothers and Sisters of the Chest,  
 The wreath is yours, I’ve done my best  
@@ -46,7 +46,7 @@ Misa
 
 ---
   
-##### A Vagrant Flower Found:   
+<span class="title">A Vagrant Flower Found:</span>
   
 Me thought I’d lost the eglantine  
 But here it is, a Valentine!  
@@ -66,7 +66,7 @@ Shall spring and flourish ev’ry-where:
 And but I fear the critics keen,  
 Auld Coila’s flower I’d gladly glean.  
   
-#### To the Muses  
+<span class="title">To the Muses  </span>
   
 Thanks gentle ladies for your care  
 Thanks for each fragrant flower  

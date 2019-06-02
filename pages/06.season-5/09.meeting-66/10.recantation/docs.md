@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Elliott</div>  
 
-##### The Recantation, a Canzonet to Nysa
+<span class="title">The Recantation, a Canzonet to Nysa</span>
 
 > Specimen of Translation from Metastasio No. 2  
 

@@ -31,7 +31,7 @@ Shall whisper still not all of pleasure’s lost,
 Tho’ exiled far from what the heart holds dear  
 The bliss remains of *friendship most sincere.*
 
-##### Robin
+<span class="title">Robin</span>
 
 When early sinks the orb of day  
 And hoary mists appear,  

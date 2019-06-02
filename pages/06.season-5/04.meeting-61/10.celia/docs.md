@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Flaxman</div>
 
-##### Epistle the Second  
+<span class="title">Epistle the Second</span>
 
 > To Laura in Town
 

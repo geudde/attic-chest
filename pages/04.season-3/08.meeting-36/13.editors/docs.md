@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Sarah Richardson</div>
 
-##### To my valued Friends, the Editors of the Attic Chest  
+<span class="title">To my valued Friends, the Editors of the Attic Chest</span>
   
 The exile, on a foreign shore,  
 His spirits to compose,  

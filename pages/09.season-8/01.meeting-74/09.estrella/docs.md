@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Porden</div>
 
-##### A Poem
+<span class="title">A Poem</span>
 
 On fam’d Vittoria’s proud but fatal plain  
 Estrella roam’d, the fairest maid of Spain.  

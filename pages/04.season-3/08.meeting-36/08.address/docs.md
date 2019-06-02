@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Communicated by Miss Beslee &amp; Mr Verrals</div>
 
-##### An address to Poetry by a young Gentleman who had just finished his professional education
+<span class="title">An address to Poetry by a young Gentleman who had just finished his professional education</span>
 
 Hail heav’n-descended poetry  
 &emsp;A worthy friend and true  

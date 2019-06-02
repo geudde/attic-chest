@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-##### The Poet to his Love
+<span class="title">The Poet to his Love</span>
 
 Hush! Hush! ye winds, ye zephyr sleep  
 Let nought disturb his soft repose.  

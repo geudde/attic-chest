@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Parkinson</div>
 
-#### On a man of Genius who suddenly became *bald*
+<span class="title">On a man of Genius who suddenly became *bald*</span>
 
 Be consol’d my dear friend, though your fate is so bare,  
 You make up in brains what is wanting in hair,  
@@ -17,7 +17,7 @@ That a rich mine of gold has no without;
 We shall therefore infer your bald nob was design’d  
 As a gnomon, to point out the wealths in your *mind*.  
 
-#### On the late learned Professor
+<span class="title">On the late learned Professor</span>
 
 When P --- n the learned escap’d from the clay,  
 His soul stagger’d up to the bright realms of day  

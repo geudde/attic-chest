@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Bond</div>
 
-##### To the Grasshopper
+<span class="title">To the Grasshopper</span>
 
 Grasshopper how I envy thee!  
 Who from yonder lofty tree  

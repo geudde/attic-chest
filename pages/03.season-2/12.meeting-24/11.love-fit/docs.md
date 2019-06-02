@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Communicated by Mr Henry Thomson</div>
 
-#### A Rhapsody  
+<span class="title">A Rhapsody  </span>
   
 > Love is merely a Madness, and I tell you deserves  
 > As well a dark house, and a whip, as madmen do  

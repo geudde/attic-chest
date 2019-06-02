@@ -27,7 +27,7 @@ When ladies are dressed in their clogs.
 &emsp;Go briskly about  
 But they clatter and rattle and make such a rout.
 
-##### Dialogue
+<span class="title">Dialogue</span>
 
 She:&ensp;“Well now I protest it is charming,  
 &emsp;&emsp;How finely the weather improves,  

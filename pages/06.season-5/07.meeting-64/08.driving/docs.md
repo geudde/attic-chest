@@ -76,7 +76,7 @@ Your devoted servant
 
 Atticus Scriblerus
 
-#### Glossary
+<span class="title">Glossary</span>
 
 [^1]: “Bang up” — a word which has no equivalent in English, the *comme il faut* of the French faintly expresses a similar idea. It may be paraphrased “the tip-top of everything that is gay, admirable, clever, dashing, and as it ought to be”.
 

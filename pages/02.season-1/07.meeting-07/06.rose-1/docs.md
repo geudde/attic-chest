@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Kilburn</div>
 
-##### La Rose  
+<span class="title">La Rose</span>
   
 Tendre fruit des fleurs de l’Aurore,  
 Object des baisiers du Zephyr,  
@@ -19,7 +19,7 @@ Bernard
 
 ---
   
-##### The Rose  
+<span class="title">The Rose</span>
   
 Child of Aurora’s tearful dews,  
 Flora’s gay empress, lovely rose,  

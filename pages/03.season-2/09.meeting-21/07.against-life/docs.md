@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Communicated by Mrs Flaxman</div>
 
-#### From Posidippus  
+<span class="title">From Posidippus  </span>
   
 What tranquil road unvex’d by strife  
 Can mortals chose thro’ human life?  

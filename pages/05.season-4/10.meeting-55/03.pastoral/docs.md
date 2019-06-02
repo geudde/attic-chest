@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Elliott</div>
 
-##### Sylvius, Cittus, & Critickius
+<span class="title">Sylvius, Cittus, & Critickius</span>
 
 Beneath the shade a spreading beech displays,  
 Sylvius and Cittus sung their rival lays;  
@@ -20,7 +20,7 @@ High in the midst the sage Critickius sate
 To judge between them in the sharp debate;  
 And first sung Sylvius, *lover* marked by fate.
 
-##### Sylvius
+<span class="title">Sylvius</span>
 
 Of all the soul-entrancing themes  
 That swell the youthful poet’s dreams,  
@@ -49,7 +49,7 @@ To sing of these my ardent muse aspires,
 But the bright theme a nobler verse requires,  
 &emsp;And lost in dumb despair I close the feeble lay.
 
-##### Cittus  
+<span class="title">Cittus</span>
 
 With aching brains and well-scratch’d pate,  
 With my five wits I ne’er hold long debate,  
@@ -72,7 +72,7 @@ Come taste the dashing pleasures of the town,
 With us in wine these odd vagaries drown,  
 &emsp;And ten to one out of your head we’ll send her!
 
-##### Sylvius
+<span class="title">Sylvius</span>
 
 To my disdainful Fair this strain I sung,  
 And pleas’d she listen’d to my tuneful tongue:  
@@ -99,7 +99,7 @@ And sweetly own’d she pitied Sylvius pain.
 &emsp;With love my hapless heart is beating;  
 &emsp;&emsp;Assuage its pains!!!”
 
-##### Cittus
+<span class="title">Cittus</span>
 
 Once at our Club I quizz’d these waking dreams,  
 The tender languish of these lovesick themes;  
@@ -118,7 +118,7 @@ As I in numbers meet this truth maintain’d — 
 &emsp;&emsp;Who derides his pains —   
 &emsp;&emsp;&emsp;Believe me, that man’s an ass!!!”
 
-##### Critickius
+<span class="title">Critickius</span>
 
 Oh how shall I award the prize?  
 Let both divide the crown;  

@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Porden</div>
 
-### To Timon & Lysander  
+<span class="title">To Timon & Lysander  </span>
   
 <span class="pencil">Timon required the faults of man to be enumerated, at the same time stating them to be few.</span>  
   

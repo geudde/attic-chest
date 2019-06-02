@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-##### A Canzonet
+<span class="title">A Canzonet</span>
 
 1
 

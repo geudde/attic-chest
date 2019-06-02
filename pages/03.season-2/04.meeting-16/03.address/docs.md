@@ -8,9 +8,9 @@ visible: false
 
 <div class="author">Mr Vignoles</div>
 
-#### Lines addressed to a Gentleman on his Birthday with the Return of his Ingenious and Amusing Poems
+<span class="title">Lines addressed to a Gentleman on his Birthday with the Return of his Ingenious and Amusing Poems</span>
   
-#### 1  
+<span class="title">1  </span>
   
 &emsp;Inspir’d by your charming lines,  
 &emsp;Where wit resplendent ever shines,  
@@ -19,7 +19,7 @@ And numerous beauties play;
 &emsp;First call the Muses to my aid,  
 To hail your natal day.  
   
-#### 2  
+<span class="title">2  </span>
   
 &emsp;May ev’ry comfort here below,  
 &emsp;That man can ask or God bestow,  
@@ -28,7 +28,7 @@ Attend throughout your life;
 &emsp;May you ne’er suffer carking cares,  
 Blest too in such a wife.  
   
-#### 3  
+<span class="title">3  </span>
   
 &emsp;Long may your verses pleasure give,  
 &emsp;Increasing always while you live,  

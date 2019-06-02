@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Sanders</div>
 
-#### Addressed to a Friend before leaving the Country  
+<span class="title">Addressed to a Friend before leaving the Country  </span>
   
 Tho’ fogs and <span data-tippy="sleeting" class="green">sleety</span> rains prevail,  
 &emsp;Thou flow’r of humble form,  

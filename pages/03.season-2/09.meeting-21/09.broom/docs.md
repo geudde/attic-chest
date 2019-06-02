@@ -17,14 +17,14 @@ We spent between or flocks and play;
 For thee how pleasing was my toil!  
 All pain was lost in Phoebe’s smile.  
   
-#### Chorus  
+<span class="title">Chorus  </span>
   
 A Cowden-Knows! may your dear broom  
 In everlasting beauty bloom;  
 I first beheld my charmer there,  
 And found my Phoebe kind as fair.  
   
-#### 2 
+<span class="title">2 </span>
   
 I grac’d my songs with Phoebe’s name,  
 My dear, dear love was still the theme;  
@@ -37,7 +37,7 @@ They nought had seen so fair before
   
 O Cowden-Knows! &c.   
   
-#### 3 
+<span class="title">3 </span>
   
 If Phoebe, slighting splendid views,  
 Could nothing to her swain refuse,  
@@ -50,7 +50,7 @@ I without Phoebe still were poor.
   
 O Cowden-Knows! &c.  
   
-#### 4
+<span class="title">4</span>
   
 Our loves, so long involv’d in night,  
 Shall make each future sun more bright;  
@@ -63,7 +63,7 @@ And Phoebe now no more shall mourn.
   
 O Cowden-Knows! &c.  
   
-#### 5
+<span class="title">5</span>
   
 Thy griefs to me were not unknown;  
 I felt thy anguish in my own,  
@@ -74,7 +74,7 @@ And crowns the goodness it inspires,
 At last has given me wealth in store,  
 And Phoebe now to part no more.  
   
-#### Chorus
+<span class="title">Chorus</span>
   
 O Cowden-Knows! may your dear broom  
 In everlasting beauty bloom,  

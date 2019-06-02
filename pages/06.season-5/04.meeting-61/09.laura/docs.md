@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Porden</div>
 
-##### Epistle the 1st  
+<span class="title">Epistle the 1st</span>
 
 > To Celia in the Country  
 

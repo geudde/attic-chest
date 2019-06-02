@@ -10,7 +10,7 @@ visible: false
 
 > A parody on that truly sublime and pathetic elegy entitled  
   
-#### “Fitz-Pieria’s gone to pot.”  
+<span class="title">“Fitz-Pieria’s gone to pot.”  </span>
   
 Let every nymph be melancholy  
 &emsp;And each bystander fret:  

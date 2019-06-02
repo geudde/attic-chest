@@ -20,7 +20,7 @@ Jan<sup>y</sup> 1811
 
 ---
   
-#### Query — to an *ingenious* and *experienced* Friend  
+<span class="title">Query — to an *ingenious* and *experienced* Friend  </span>
   
 Good Sir — inform me (if you can)  
 Why thus to England’s shame,  

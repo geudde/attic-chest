@@ -132,7 +132,7 @@ And now our fairy work is done,
 Around it in a frolic ring,  
 We’ll trip it & our wishes sing.  
   
-#### Song  
+<span class="title">Song  </span>
   
 Long may heavens choicest treasures,  
 Peaceful joys & virtuous pleasures,  

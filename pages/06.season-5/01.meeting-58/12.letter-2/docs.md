@@ -16,7 +16,7 @@ On one of your Attic evenings last winter a poem was read, entitled “The Compl
 
 This, sir, suggested to certain ladies the idea of forming a Society of Vestals on their *Paroles d’honneur.* This has been carried into execution, and there are already five fair inhabitants of the mansion. It is intended to limit their number to nine, consequently, there are four vacancies, and if amongst your friends there should be any lady desirous of withdrawing from the miscellaneous society of the world to be one of a chosen few, she will be received with particular deference if recommended by you, to whom they look up as in some degree the founder of their community and in order that you may be enabled to judge impartially of the Society, the ladies have desired me officially as their secretary to send you a description.
 
-##### List of the Ladies who now form the Party as well as a slight sketch of their plan.
+<span class="title">List of the Ladies who now form the Party as well as a slight sketch of their plan.</span>
 
 Each lady brings her fortune whether large or small to the general fund. When she quits the community she withdraws one half which decrease of property will serve as a touchstone upon which she will prove the good faith and disinterestedness of the <span data-tippy="illegible" class="red">[???]</span>.
 

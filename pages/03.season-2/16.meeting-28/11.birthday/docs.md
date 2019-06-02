@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-#### July 14th 1810  
+<span class="title">July 14th 1810  </span>
   
 By sea, or land, as various fancy strays,  
 We seek renown, and prosperous days;  

@@ -14,7 +14,7 @@ A Rambler
 
 The first extracts are taken from the part entitled
 
-#### Terror
+<span class="title">Terror</span>
 
 (Caused by Anger)
 
@@ -38,7 +38,7 @@ A wretch with jealous brow, and eyes askance,
 &emsp;While conscious pride and shame with rage conspire,  
 And urge the latent spark to flames of torturing fire
 
-#### Pity
+<span class="title">Pity</span>
 
 (Caused by Another’s Grief)
 

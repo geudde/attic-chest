@@ -30,7 +30,7 @@ Your suit with the members I’m bound to befriend
 And propose that we straight convene each constellation  
 To hold in the evening a <span data-tippy="close consultation" class="green">consultation</span>.”   
   
-#### Vox Stellarum  
+<span class="title">Vox Stellarum  </span>
   
 All ye who remember the Vox Planetarum  
 Attend to my verse, ’tis the last Vox Stellarum  

@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Governor Franklin</div>
 
-##### by Phelim O’Flanagan
+<span class="title">by Phelim O’Flanagan</span>
 
 Och! when I came first to this fine London Town  
 I peeped at the show shops and walked up and down  

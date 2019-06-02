@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Bond</div>
 
-#### On his Lyre  
+<span class="title">On his Lyre  </span>
   
 When the deeds of Atreus’ son,  
 Or the Wreaths which Cadmus won,  

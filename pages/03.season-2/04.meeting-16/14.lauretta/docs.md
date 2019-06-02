@@ -76,7 +76,7 @@ He takes his half-forgotten lute;
 And softly running o’er the strings  
 He tries an air then thus he sings:  
   
-#### Song  
+<span class="title">Song  </span>
   
 > “Lady will you hear a story  
 > Of a young and gallant knight  

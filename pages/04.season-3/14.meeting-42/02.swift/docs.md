@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Communicated by Miss Beslee</div>
 
-##### A Sonnet Written in the Favorite Chair of Dean Swift
+<span class="title">A Sonnet Written in the Favorite Chair of Dean Swift</span>
 
 Here seated — erstwhere Swift, oft musing sat  
 &emsp;And formed his Gulliver’s immortal tale,  

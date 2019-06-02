@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Porden</div>
 
-##### A True Story
+<span class="title">A True Story</span>
 
 Eager my mother’s mandate to obey  
 Swift to the verdant lawn I haste away,  

@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Porden</div>
 
-#### A la Grub Street  
+<span class="title">A la Grub Street  </span>
   
 &emsp;Down on my marrow-bones I fall  
 To you, O Muses, one and all  

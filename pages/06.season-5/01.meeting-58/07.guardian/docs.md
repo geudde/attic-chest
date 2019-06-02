@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Porden</div>
 
-##### Address for the Opening of the Attic Chest
+<span class="title">Address for the Opening of the Attic Chest</span>
 
 Dec. 1812
 

@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Sanders</div>
 
-##### Addressed to a Brother
+<span class="title">Addressed to a Brother</span>
 
 In return for the magical ring,  
 Which to me so kindly you proffer,  

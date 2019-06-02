@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Bond</div>
 
-##### To the Priestess of the Attic Chest or Euphrosyne
+<span class="title">To the Priestess of the Attic Chest or Euphrosyne</span>
 
 Once more a voice demands from friendship’s shrine  
 The yearly tribute to my Valentine.  

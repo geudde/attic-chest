@@ -14,21 +14,21 @@ We shall therefore content ourselves with a short argument which may be of servi
 
 The Prelude is a sublimely ludicrous description of a stormy night. Tinderella calls for the powers of enchantment, and commands her handmaid Rosa to bring the Tinder Box, here denominated the fatal casket &c.
 
-#### Epode
+<span class="title">Epode</span>
 
 Tinderella and the servant descend to the saloon, which is described with spirit and humour, as furnished with a mixture of Greek, Egyptian, and modern forms according to the fashion of the day.
 
-#### Strope
+<span class="title">Strope</span>
 
 Tinderella orders Rosa to set down the flint & steel & tinderbox, that she may strike a light. But first she invokes the moon under all her various names, and requests her to bring with her, her brother Phœbus, shrouded in his sky blue mantle lest his splendor should be too great for mortal sight.
 
-#### Antistrophe
+<span class="title">Antistrophe</span>
 
 The deities appear and Tinderella owns their influence and prepares to strike a light.
 
 Then follows a history of the tinder box still denominated the golden casket and how it came into the possession of Tinderella. The flint is a piece broken from the rock by Hercules when he released Prometheus. The steel made from the mass of iron as the mallet of Thor &c. and the Tinder from the veil of Semele collected by Ino from her ashes and given to Tinderella.
 
-#### Ode
+<span class="title">Ode</span>
 
 The charms being perfected after another invocation to the spirits of earth, sea, and air... Tinderella attempts to strike a light, but being in a little trepidation strikes aside which calls up a tumultuous crowd of ancient critics and modern poets and critics of inferior rank denominated a puny race.
 

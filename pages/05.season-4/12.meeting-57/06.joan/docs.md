@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Governor Franklin</div>
 
-##### A Song to the Tune of The Hounds are all out, &c.
+<span class="title">A Song to the Tune of The Hounds are all out, &c.</span>
 
 1
 

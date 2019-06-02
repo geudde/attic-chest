@@ -13,7 +13,7 @@ visible: false
 
 > To the Editor of the Attic Chest  
 
-##### Justice! Justice!! Justice!!!
+<span class="title">Justice! Justice!! Justice!!!</span>
 
 Forgive, dear Sir, an injured poet,  
 Who’s wrong’d — who’d wish the world to know it,  

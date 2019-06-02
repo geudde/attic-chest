@@ -8,7 +8,7 @@ visible: false
 
 > <span class="red">Printed Material</span>
 
-##### From Bernard
+<span class="title">From Bernard</span>
   
 (Charlotte Smith has given an elegant imitation of this little ode, but has erroneously ascribed it to the Cardinal Bernis. E.)  
   

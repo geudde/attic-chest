@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Flaxman</div>
 
-##### Memorandum: Dream the first, April 30th 1811
+<span class="title">Memorandum: Dream the first, April 30th 1811</span>
 
 Went to Lady D’s party last night — very full — Lady Selina exquisitely polite, introduced me to the Algerine, talked of my travels — His Excellency enquired if I had visited Barbary yet — said I promised myself a sight of that fascinating part of the world as I desired infinitely to become acquainted with a people who had afforded us so elegant a specimen — here I bowed — (always paint a compliment with a bow). 
 

@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-##### Part 1st
+<span class="title">Part 1st</span>
 
 Come listen to a tale of old,  
 Of love, and truth, and magic spell  
@@ -103,7 +103,7 @@ Who fleeter in the race;
 What arm like his in equal might  
 This furious bear can face?
 
-##### Part 2d
+<span class="title">Part 2d</span>
 
 Whose eyes are those of softest blue  
 That mournful fix on earth?  

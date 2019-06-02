@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Flaxman</div>
 
-#### Impromptu on board of a Margate Packet
+<span class="title">Impromptu on board of a Margate Packet</span>
 
 Breath softly, gentle zephyr,  
 And hush’d be ev’ry breeze!  
@@ -17,7 +17,7 @@ For Delia’s — going to sneeze!
 
 E.B.
 
-#### The Apotheosis
+<span class="title">The Apotheosis</span>
 
 Nine virgins tried to split a horse  
 Where rump and crapper ceases  

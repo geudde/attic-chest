@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-#### A far famed M.A.S.
+<span class="title">A far famed M.A.S.</span>
 
 <div class="author">Miss Porden</div>
 
