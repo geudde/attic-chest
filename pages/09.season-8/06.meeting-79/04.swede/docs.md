@@ -1,3 +1,10 @@
+---
+taxonomy:
+    category:
+        - docs
+visible: false
+---
+
 ---  
 title: 'The Swede'  
 taxonomy:  
