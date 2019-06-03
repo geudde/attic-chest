@@ -1,10 +1,10 @@
----  
+---
 title: 'Letter from Pertinax Townly'
 taxonomy:
     category:
         - docs
 visible: false
----  
+---
 
 Dear Editor  
 
