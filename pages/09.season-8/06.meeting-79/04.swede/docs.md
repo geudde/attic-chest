@@ -1,4 +1,5 @@
 ---
+title: 'The Swede'
 taxonomy:
     category:
         - docs
