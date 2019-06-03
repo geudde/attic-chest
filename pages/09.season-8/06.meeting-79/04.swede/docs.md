@@ -5,14 +5,6 @@ taxonomy:
 visible: false
 ---
 
----  
-title: 'The Swede'  
-taxonomy:  
-    category:  
-        - docs  
-visible: false  
----  
-
 <span class="title">Tales from Four Nations</span>  
 
 <span class="title">2&#46; The Swede</span>
