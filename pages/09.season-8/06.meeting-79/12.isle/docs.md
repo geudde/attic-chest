@@ -1,10 +1,10 @@
----  
-title: 'The Fairies’ Isle'  
-taxonomy:  
-    category:  
-        - docs  
-visible: false  
----  
+---
+title: 'The Fairies’ Isle'
+taxonomy:
+    category:
+        - docs
+visible: false
+---
 
 <span class="title">An Hiberian Legend</span>
 

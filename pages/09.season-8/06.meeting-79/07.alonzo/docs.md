@@ -1,14 +1,14 @@
----  
-title: 'Alonzo and Estella'  
-taxonomy:  
-    category:  
-        - docs  
-visible: false  
----  
+---
+title: 'Alonzo and Estella'
+taxonomy:
+    category:
+        - docs
+visible: false
+---
 
 1
 
-Slowly wained the moon’s pale lustre,  
+Slowly waned the moon’s pale lustre,  
 &emsp;Faintly blushed the rising morn,  
 As Alonzo groaned in anguish  
 &emsp;Under proud Estalla’s scorn.  

@@ -1,10 +1,10 @@
----  
-title: 'The Chaplet'  
-taxonomy:  
-    category:  
-        - docs  
-visible: false  
----  
+---
+title: 'The Chaplet'
+taxonomy:
+    category:
+        - docs
+visible: false
+---
 
 1
 

@@ -1,10 +1,10 @@
----  
-title: 'Letter from Atticus Scriblerus'  
-taxonomy:  
-    category:  
-        - docs  
-visible: false  
----  
+---
+title: 'Letter from Atticus Scriblerus'
+taxonomy:
+    category:
+        - docs
+visible: false
+---
 
 <div class="author">Miss Vardill</div>
 
