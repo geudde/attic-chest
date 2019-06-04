@@ -1,10 +1,10 @@
----  
-title: 'Absence'  
-taxonomy:  
-    category:  
-        - docs  
-visible: false  
----  
+---
+title: Absence
+taxonomy:
+    category:
+        - docs
+visible: false
+---
 
 1
 
