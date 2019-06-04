@@ -1,10 +1,10 @@
----  
-title: 'Alonzo and Estella'  
-taxonomy:  
-    category:  
-        - docs  
-visible: false  
----  
+---
+title: 'Alonzo and Estella'
+taxonomy:
+    category:
+        - docs
+visible: false
+---
 
 1
 
