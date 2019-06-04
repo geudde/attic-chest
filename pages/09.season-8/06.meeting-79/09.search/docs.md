@@ -1,10 +1,10 @@
----  
-title: 'The Search'  
-taxonomy:  
-    category:  
-        - docs  
-visible: false  
----  
+---
+title: 'The Search'
+taxonomy:
+    category:
+        - docs
+visible: false
+---
 
 1
 
