@@ -1,5 +1,5 @@
 ---
-title: 'Tales of &emsp;: The Jew'
+title: 'The Jew'
 taxonomy:
     category:
         - docs
