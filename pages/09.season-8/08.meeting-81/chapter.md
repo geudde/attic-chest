@@ -8,4 +8,5 @@ visible: true
 # 24 April 1816
 
 1. [Editorial](editorial)  
-2. [Answer to the Sonnet by Dr Gregor](answer)
+2. [Sir Gilbert’s Heiress](heiress)
+3. [Answer to the Sonnet by Dr Gregor](answer)
