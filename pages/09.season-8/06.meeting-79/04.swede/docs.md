@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-<span class="title">Tales from Four Nations</span>  
+<span class="title">Tales of Four Nations</span>  
 
 <span class="title">2&#46; The Swede</span>
  
