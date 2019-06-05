@@ -12,7 +12,7 @@ Positive House, March 14th
 
 ---
 
-<span class="title">Tales from &emsp;</span>  
+<span class="title">Tales of Four Nations</span>  
 
 <span class="title">4&#46; The Jew</span>
 
