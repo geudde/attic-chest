@@ -18,4 +18,4 @@ The Canaries and Azores are still the seat of active volcanoes. It is not four y
 
 It is not my intention here to enter into the origin of the tribes, the languages, and the customs of the New World. To decide whether some of their inscriptions may or may not be Phoenician. From what region the Aztecs emigrated, or what weight is to be given to the affinity which some of the signs of their Zodiac bear to those of the Hindus, or their history of the origin and fall of man to that of Scripture. These are the labours of minuter, and more erudite research, but what has been already said, may produce a most lively regret, that knowledge was reduced to struggle with a second infancy. That the fabric her first morning had constructed was demolished in the night that followed, and that all her labour was to commence again. Such another misfortune she can scarcely fear, her discoveries have been diffused and stabilitated by an art that has perhaps conferred greater benefits on mankind that any other, the discovery of the Art of Printing. 
 
-(S)
+S
