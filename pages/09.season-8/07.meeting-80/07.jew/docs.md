@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Vardill</div>
+
 The Editor of the Legends of Lampidosa has been anticipated by a Brother Antiquarian in his communications to the Attic Chest. As M. Laboree has sent a Tale which should have been the third in the series promised by the Editor, the 4th and last is now enclosed. The “Saxon” and the “Swede” show some resemblance to the “Englishman” and the “Jew” in shape and feature, but none in language and manners to justify the charge of plagiarism. Moral philosophers of *more* than &emsp; agree that knaves are only *parodies* of honest men.
 
 Positive House, March 14th

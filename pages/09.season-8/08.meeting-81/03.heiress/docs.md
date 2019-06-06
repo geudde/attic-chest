@@ -6,6 +6,10 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Vardill</div>
+
+Mr Editor
+
 I am the real Collector of the Legends of Lampidosa, and have been much amused by two interpolations styled the “Englishman” and the “Jew”. Nothing English or Jewish occurs among the genuine legends, except a Fragment in the former language of a very modern date and unconnected with those designed for the Attic Chest: but since fragments are not disdained there, I enclose it.  
 
 The lines so advantageously employed by Mr Atticus Scriblerus on a recent occasion were not his *own*. They were collected from fragments found about the person of an officer whose wound in the left breast was rendered mortal by the broken crystal of a favorite miniature. These reliques were brought from the field of battle; and unless Mr A. C. purchased them, he is a retailer of stolen property. Perhaps he will say, “Nec deficit alter” but that sentence would be more appropriate with two additional letters, thus — “Neck deficit Halter”.

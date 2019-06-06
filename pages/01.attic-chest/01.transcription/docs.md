@@ -48,4 +48,4 @@ Fading ink and the passage of centuries have compounded such problems. Every eff
 
 **Collation:** Comments encouraging the use of standard paper sizes to facilitate sewing of contributions into fascicles indicate that the Pordens collated the contributions soon after each meeting, to be placed ‘on the table’ for perusal by attending members. However, the ordering of such collations is often at variance with both the introductory comments and the end-of-season acknowledgements. Some lists of acknowledgements are missing from the Gell Collection, as are many of the longer serialized poems and lectures. 
 
-In the absence of acknowledgement lists, contributions have been sorted on the basis of incomplete internal evidence, and may need to be revised after further examination of the Gell Collection.
+In the absence of author lists, contributions have been sorted on the basis of incomplete internal evidence, and may need to be revised after further examination of the Gell Collection.
