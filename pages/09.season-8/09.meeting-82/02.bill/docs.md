@@ -33,7 +33,7 @@ visible: false
 	</tr>
 	<tr>
 		<td>The said “Lesson for Lovers” sold to Sir Pertinax for</td>
-		<td class="price">£3 3s&nbsp;0d</td>
+		<td class="price">£3&nbsp;3s&nbsp;0d</td>
 	</tr>
 	<tr>
 		<td>The Glass of Grog by Mrs Bustleton (charged as a Parody)</td>
@@ -41,7 +41,7 @@ visible: false
 	</tr>
 	<tr>
 		<td>The Philosopher at the Fair, written at the request of Sir P.T. to satirize Mr Beauclerc — charged high on account of its classic learning and the books I was forced to borrow in consequence</td>
-		<td class="price">£5 5s&nbsp;0d</td>
+		<td class="price">£5&nbsp;5s&nbsp;0d</td>
 	</tr>
 	<tr>
 		<td>Translation of a Hebrew Valentine signed Erminia</td>
@@ -64,7 +64,7 @@ visible: false
 	</tr>
 	<tr>
 		<td>“The flowers are bright on hill and dale” worth</td>
-		<td class="price">&nbsp;&nbsp;7s&nbsp;0</td>
+		<td class="price">&nbsp;&nbsp;7s&nbsp;0d</td>
 	</tr>
 	<tr>
 		<td>Gratuitous to Philemon for Erminia.</td>
@@ -72,7 +72,7 @@ visible: false
 	</tr>
 	<tr>
 		<td>First Chapter of a Novel for Mrs Bustleton and prospectus for the rest</td>
-		<td class="price">£20 0s&nbsp;0d</td>
+		<td class="price">£20&nbsp;0s&nbsp;0d</td>
 	</tr>
 	<tr>
 		<td>“The Fairies’ Song” by Lady Olivia Gossamer</td>
@@ -84,19 +84,19 @@ visible: false
 	</tr>
 	<tr>
 		<td>The Leyden Jar for Sir Pertinax Townly</td>
-		<td class="price">£2 2s&nbsp;0d</td>
+		<td class="price">£2&nbsp;2s&nbsp;0d</td>
 	</tr>
 	<tr>
 		<td>Ten poetical scraps for Sir Pertinax Townly at 3/6 each, and 4 at five shillings</td>
-		<td class="price">£4 6s&nbsp;6<d/td>
+		<td class="price">£4&nbsp;6s&nbsp;6<d/td>
 	</tr>
 	<tr>
 		<td>Do. occasional poems for Mrs Bustleton 6 amatory 5/6d each, 10 satirical at 7/0 and 15 heroic at 10/6</td>
-		<td class="price">£13 0s&nbsp;6d</td>
+		<td class="price">£13&nbsp;0s&nbsp;6d</td>
 	</tr>
 	<tr>
 		<td>The Aeronautiad for Mrs Bustleton at the usual rate for blank verse 9d per line</td>
-		<td class="price">£9 12s&nbsp;9d</td>
+		<td class="price">£9&nbsp;12s&nbsp;9d</td>
 	</tr>
 	<tr>
 		<td>Do. additional charge for 3 new similes introduced at 1/3d each</td>
@@ -104,6 +104,6 @@ visible: false
 	</tr>
 	<tr>
 		<td></td>
-		<td class="price">£64 7s&nbsp;0d</td>
+		<td class="price">£64&nbsp;7s&nbsp;0d</td>
 	</tr>
 </table>
