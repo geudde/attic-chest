@@ -12,9 +12,9 @@ The Attic Chest contributions exhibit marked irregularity of spelling, capitaliz
 
 **Spelling:** Wherever practical, variant spellings have been replaced with modern equivalents, even where authors have shown a preference for spellings that emphasize rhyme, e.g., ‘soul → controul’ or ‘loud → croud’. Spelling now considered American (e.g. ‘humor’, ‘favor’) has been preserved.
 
-**Capitalization:** Most Attic Chest contributors were prolific but erratic in their capitalization of nouns. The same word can be found capitalized in one line and not in another. Adjectives are often capitalized whilst the nouns they modify are not. Where consistent capitalization is used for emphasis, this has been retained. Otherwise, capitalization has been modified to reflect modern usage. 
+**Capitalization:** Attic Chest contributors were prolific but erratic in their capitalization of nouns. The same word can be found capitalized in one line and not in another. Adjectives are often capitalized whilst the nouns they modify are not. Where consistent capitalization is used for emphasis, this has been retained. Otherwise, capitalization has been modified to reflect modern usage. 
 
-**Punctuation:** Logical punctuation was of minor concern to most Attic Chest contributors, as evinced by the proliferation of redundant commas and dashes. Quotation marks are sometimes used to indicate direct speech, but in a manner unfamiliar to a modern reader. An attempt has been made to standardize such punctuation in accordance with modern practice. 
+**Punctuation:** Logical punctuation was of minor concern to most Attic Chest contributors, as evinced by the plethora of redundant commas and dashes. Quotation marks are sometimes used to indicate direct speech, but in a manner unfamiliar to a modern reader. An attempt has been made to standardize such punctuation in accordance with modern practice. 
 
 **Annotations:** Some contributions are annotated in pencil, usually in William Porden’s hand. Examples of such annotations are sequential numbering and titles. Eleanor Anne Porden often noted acceptance of contributions, or the date on which they were to be read. Notes that add significant information have been formatted in an orange sans-serif typeface, thus: 
 
@@ -46,6 +46,6 @@ Fading ink and the passage of centuries have compounded such problems. Every eff
 
 **Fidelity to Original:** Some Attic Chest members formatted their contributions to imitate printed text or scribbled notes, or to disguise their handwriting; others added illustrations. With a few exceptions, no attempt has been made to reproduce such embellishments.
 
-**Collation:** Comments encouraging the use of standard paper sizes to facilitate sewing of contributions into fascicles indicate that the Pordens collated the contributions soon after each meeting, to be placed ‘on the table’ for reference by attending members. However, the ordering of such collations is often at variance with both the introductory comments and the end-of-season acknowledgements. Some lists of acknowledgements are missing from the Gell Collection, as are many of the longer serialized poems and lectures. 
+**Collation:** Comments encouraging the use of standard paper sizes to facilitate sewing of contributions into fascicles indicate that the Pordens collated the contributions soon after each meeting, to be placed ‘on the table’ for perusal by attending members. However, the ordering of such collations is often at variance with both the introductory comments and the end-of-season acknowledgements. Some lists of acknowledgements are missing from the Gell Collection, as are many of the longer serialized poems and lectures. 
 
-In the absence of acknowledgement lists, contributions have been sorted on the basis of incomplete internal evidence, and may need to be rearranged after further examination of the Gell Collection.
+In the absence of acknowledgement lists, contributions have been sorted on the basis of incomplete internal evidence, and may need to be revised after further examination of the Gell Collection.
