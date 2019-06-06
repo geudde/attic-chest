@@ -14,3 +14,4 @@ taxonomy:
 79. [13 March 1816](meeting-79)
 80. [27 March 1816](meeting-80)
 81. [24 April 1816](meeting-81)
+82. [8 May 1816](meeting-82)
