@@ -6,6 +6,20 @@ taxonomy:
 visible: false
 ---
 
+I am the real Collector of the Legends of Lampidosa, and have been much amused by two interpolations styled the “Englishman” and the “Jew”. Nothing English or Jewish occurs among the genuine legends, except a Fragment in the former language of a very modern date and unconnected with those designed for the Attic Chest: but since fragments are not disdained there, I enclose it.  
+
+The lines so advantageously employed by Mr Atticus Scriblerus on a recent occasion were not his *own*. They were collected from fragments found about the person of an officer whose wound in the left breast was rendered mortal by the broken crystal of a favorite miniature. These reliques were brought from the field of battle; and unless Mr A. C. purchased them, he is a retailer of stolen property. Perhaps he will say, “Nec deficit alter” but that sentence would be more appropriate with two additional letters, thus — “Neck deficit Halter”.
+
+To save M. Laborie and his accomplice farther trouble, I have engaged a waiter at a celebrated Covent Garden Hotel to prepare parodies of the remaining “Tales of Four Nations”; when he is ready, the 3rd and 4th shall be communicated by, Sir,  
+
+Yours &c. &c.
+
+An Unknown Correspondent
+
+---
+
+<span class="title">Sir Gilbert’s Heiress</span>
+
 <span class="title">A Fragment</span>
 
 There is a crevice in a lonely glen  

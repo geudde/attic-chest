@@ -14,3 +14,4 @@ visible: true
 5. [Emma: A Ballad](emma)
 6. [To Celia](celia)
 7. [Four Nations: The Jew](jew)
+8. [The Aëronautiad](aeronautiad)
