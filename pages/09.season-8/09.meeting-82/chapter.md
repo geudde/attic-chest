@@ -1,5 +1,5 @@
 ---
-title: 'Meeting 8e'
+title: 'Meeting 82'
 taxonomy:
     category: docs
 visible: true
