@@ -1,10 +1,24 @@
 ---
-title: Editorial
+title: 'Letter from Pertinax Townly'
 taxonomy:
     category:
         - docs
 visible: false
 ---
+
+Mr Editor! Mr Editor!
+
+“Oh that the Gods had made me poetical!” or at least bit me with the mania of writing romances. Positive House would have been the finest school imaginable — Adventure follows adventure, as swift as the waves of the sea, each stranger than the last. This morning we all assembled in one form, for Lord Aircastle to place the crown of golden laurel on the head of Mrs Bustleton; that is, we did not all assemble, for Atticus and Rodelinda were *found missing*. We supposed they were rambling in the grounds, but as Lord Aircastle was ready, of course they were not to be waited for. But marvel of marvels! When the iron box which ought to have contained the golden one was opened, it was not there! and the papers which appeared in its stead transferred their pale hue to the countenance of Electromagus, and seemed to suggest the idea that sorcery was indeed busy with the affairs of the Positive House. In full sight appeared a note from Atticus, stating that he had espoused the fascinating Rodelinda, and secured the gold box as his legitimate property, having really written the Aeronautiad, and that he felt himself justified in the disclosure as Mrs Bustleton had neglected to discharge that and various other debts, on pretence that her jointure was not duly paid. Besides this, the box contained rough copies of many poems fathered by various members of Positive House with a list of jobs unpaid for (where I appear as a principal creditor) with a short address, soliciting the influence of Lord Aircastle and Electromagus, to obtain their speedy discharge.
+
+Really, Mr Editor, I have no wish to elude his claims, but had (between ourselves) arranged this joke with him, little suspecting Electromagus would feel the matter seriously. I had certainly thought him as much knave as fool, and enjoyed the idea of his detection, but it affects him so deeply to find that his pupils have purchased what he thought he had inspired them to write, that I shall do my best to comfort him, and place him in some more eligible situation. The association of Positive House will of course be immediately dissolved — Our Patron is gone, and Mrs Bustleton, who accompanied him, has perchance ere this, assumed the title of Lady Aircastle. Atticus and Rodelinda are of course disposed of. Philemon, to whom (now all little jealousies are over) I frankly acknowledge many obligations, will soon be happy in the hand of the engaging Lady Olivia, and as you know I was always a votary of fashion. If my fair Erminia be propitious I shall not be backward in following so pleasing a path. By the bye, I find she has accepted Atticus’s assistance in her verses, but I must not be angry. It is half shame apiece.
+
+I was called away just as I had written the above. I have seen Erminia. She cannot resist the example of royalty. This evening will unite us — My barouche is at the door. Excuse so abrupt a conclusion. I have only time to enclose a copy of Atticus’s list found in the box and promise that you shall again hear speedily from
+
+yours ever faithfully 
+
+Pertinax Townly
+
+### Poems unpaid for
 
 <table>
 	<tr>
@@ -83,7 +97,7 @@ visible: false
 		<td class="price"></td>
 	</tr>
 	<tr>
-		<td>The Leyden Jar for Sir Pertinax Townly</td>
+		<td>The Leyden Jar* for Sir Pertinax Townly</td>
 		<td class="price">£2&nbsp;2s&nbsp;0d</td>
 	</tr>
 	<tr>
@@ -107,3 +121,5 @@ visible: false
 		<td class="price">£64&nbsp;7s&nbsp;0d</td>
 	</tr>
 </table>
+
+\* This is Mr Editor I think an exorbitant charge, as the poem is certainly not worth half the money, and has been influenced more by the leaden coating than the electric fire. The next charge is more moderate.
