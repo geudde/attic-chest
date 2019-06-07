@@ -18,7 +18,7 @@ yours ever faithfully
 
 Pertinax Townly
 
-### Poems unpaid for
+<span class="title">Poems unpaid for</span>
 
 <table>
 	<tr>
