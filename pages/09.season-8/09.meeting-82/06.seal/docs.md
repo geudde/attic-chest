@@ -24,7 +24,7 @@ Then Hope shall bless your dreaming eyes
 
 May 2d 1816
 
-E.P. Beauclerc  
+E. P. Beauclerc  
 Pertinax Townly  
 Atticus Scriblerus Jun.
 
