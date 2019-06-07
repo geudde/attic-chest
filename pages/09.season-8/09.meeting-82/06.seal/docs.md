@@ -1,5 +1,6 @@
 ---
 title: 'The Seal'
+media_order: seal.png
 taxonomy:
     category:
         - docs
@@ -26,3 +27,5 @@ May 2d 1816
 E.P. Beauclerc  
 Pertinax Townly  
 Atticus Scriblerus Jun.
+
+![Seal](seal.png)
