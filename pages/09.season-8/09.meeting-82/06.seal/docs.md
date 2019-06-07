@@ -28,4 +28,4 @@ E. P. Beauclerc
 Pertinax Townly  
 Atticus Scriblerus Jun.
 
-![Seal](seal.png)
+![Seal](seal.png?resize=200)
