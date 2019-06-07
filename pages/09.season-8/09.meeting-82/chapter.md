@@ -10,3 +10,6 @@ visible: true
 1. [Editorial](editorial)  
 2. [Letter from Pertinax Townly](pertinax)  
 3. [Letter from Philemon Beauclerc](beauclerc)
+4. [Letter from Electromagus](electromagus)
+5. [Letter from Atticus Scriblerus](atticus)
+6. [The Seal](seal)

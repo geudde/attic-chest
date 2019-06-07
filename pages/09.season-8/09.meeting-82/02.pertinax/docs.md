@@ -66,9 +66,6 @@ Pertinax Townly
 		<td class="price">&nbsp;&nbsp;7s&nbsp;0d</td>
 	</tr>
 	<tr>
-		<td></td>
-	</tr>
-	<tr>
 		<td>Esculapius and Ruspini (Mrs Bustleton charged as commendatory verses)</td>
 		<td class="price">&nbsp;&nbsp;10s&nbsp;6d</td>
 	</tr>
