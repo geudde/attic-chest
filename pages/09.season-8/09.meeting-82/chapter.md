@@ -13,3 +13,6 @@ visible: true
 4. [Letter from Electromagus](electromagus)
 5. [Letter from Atticus Scriblerus](atticus)
 6. [The Seal](seal)
+7. [Letter and Poem from Mopsey](mopsey)
+8. [The Spectre’s Isle](spectre)
+9. [Edwin and Angelina](edwin)
