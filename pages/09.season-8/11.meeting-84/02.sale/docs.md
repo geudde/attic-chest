@@ -19,17 +19,17 @@ visible: false
 	</tr>
 	<tr>
 		<td>252</td>
-		<td>The Brass Kettle thrown by Mrs de Castro at her Husband’s Ghost. <i>Bo<sup>t.</sup> by Mrs Bustleton’s order for</i></td>
+		<td>The Brass Kettle thrown by Mrs de Castro at her Husband’s Ghost. <i>Bo<sup>t.</sup> by Mrs Bustleton’s order for</i></td>
 		<td class="price">£11&nbsp;12s&nbsp;2&frac12;d</td>
 	</tr>
 	<tr>
 		<td>253</td>
-		<td>The First Skewer work in a Lady’s Bodice in England  <i>Bo<sup>t.</sup> by the Antiquarian Society</i></td>
+		<td>The First Skewer work in a Lady’s Bodice in England. <i>Bo<sup>t.</sup> by the Antiquarian Society</i></td>
 		<td class="price">£36&nbsp;0s&nbsp;0d</td>
 	</tr>
 	<tr>
 		<td>254</td>
-		<td>A Cobweb brought from King Pepin’s Palace. <i>Bo<sup>t.</sup> by Ditto</i></td>
+		<td>A Cobweb brought from King Pepin’s Palace. <i>Bo<sup>t.</sup> by Ditto</i></td>
 		<td class="price">£100&nbsp;0s&nbsp;0d</td>
 	</tr>
 	<tr>
@@ -54,7 +54,7 @@ visible: false
 	</tr>
 	<tr>
 		<td>256</td>
-		<td>A Plan to take likenesses by maps of the Longitude and Latitude of Faces A ABC printed by Costar of Haarlem <i>will be given with this lot. <i>(Both bo<sup>t.</sup> for L<sup>d.</sup> A.)</i></td>
+		<td>A Plan to take likenesses by maps of the Longitude and Latitude of Faces<br>A ABC printed by Costar of Haarlem <i>will be given with this lot. <i>(Both bo<sup>t.</sup> for L<sup>d.</sup> A.)</i></td>
 		<td></td>
 	</tr>
 	<tr>
