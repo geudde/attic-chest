@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<span class="title">Fourth Day’s Sale, May 21st</span>
+
 <table>
 	<tr>
 		<td>250</td>
