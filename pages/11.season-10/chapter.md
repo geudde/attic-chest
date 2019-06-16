@@ -1,5 +1,5 @@
 ---
-title: 'Season 9'
+title: 'Season 10'
 taxonomy:
     category: docs
 ---
