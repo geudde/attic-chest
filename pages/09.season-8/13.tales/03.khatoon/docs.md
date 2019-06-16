@@ -28,7 +28,7 @@ Sadi
 With joy a Sultan’s name receives.  
 No joy the royal plumes impart  
 If at the gift my Khatoon grieves.  
-Oh! what to me is Timour’s <span data-tippy=“throne” class="green">crown</span>  
+Oh! what to me is Timour’s <span data-tippy="throne" class="green">crown</span>  
 Despotic o’er a thousand realms!  
 The prince whose heart is all thine own  
 The care, the pomp of power o’erwhelms.  
@@ -80,7 +80,7 @@ To see a thousand regions shower
 Their treasures at my Khatoon’s feet.  
 Yet closer draw thy silken veil,  
 I could not live to hear the tale  
-<span data-tippy=“My proudest” class="green">That my first</span> Ameer dared to spy  
+<span data-tippy="My proudest" class="green">That my first</span> Ameer dared to spy  
 One sparkle of that radiant eye.”
 
 ’Tis morn! in brighter glory dressed  
@@ -144,7 +144,7 @@ In vain each vest with diamonds glows
 More thick than dewdrops on the rose,  
 In vain Sabean odours rare,  
 Are lavished on their jewell’d hair  
-Or purple <span data-tippy=“bismuth’s” class="green">coheel’s</span> artful dyes  
+Or purple <span data-tippy="bismuth’s" class="green">coheel’s</span> artful dyes  
 In softer lustre bathe their eyes.  
 In tedious solitude they wait,  
 No Khulleel opes the harem gate.  
