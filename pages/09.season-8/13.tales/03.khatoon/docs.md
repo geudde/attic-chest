@@ -225,7 +225,7 @@ Lamented Timour’s worthy son.
 In simple gard, but suppliants meet,  
 &emsp;Before Shah Rokh young Khulleel stood.  
 Low kneeling at his uncle’s feet,  
-&emsp;In cautious accents meekly sued.
+&emsp;In cautious accents meekly sued.  
 &emsp;“I do not ask for power or land,  
 The empire I with joy resign.  
 &emsp;The weight that bent my feeble hand  
@@ -235,7 +235,7 @@ More bright, more glorious be its theme!
 May Allah to thy prayers incline,  
 As thy shall stoop to hearken mine!  
 If e’er Circassia’s moon-faced maids,  
-&emsp;If nymphs from sultry India won
+&emsp;If nymphs from sultry India won  
 Whose bloom attests a warmer sun,  
 Or dames from Georgia’s mountain glades,  
 With golden hair and eyes of sleep,  
@@ -294,7 +294,7 @@ That heart, to mine by every tie
 &emsp;“Enough, fond Prince! in peace return,  
 But view my present, ere you spurn.”  
 &emsp;The king retired — a graceful dame  
-In Kashmir shawls close-shrouded came
+In Kashmir shawls close-shrouded came  
 Crossed on her breast her snowy hands  
 And motionless and silent stands.  
 &emsp;“Lady! that veil forbear to raise,  
@@ -325,7 +325,7 @@ Or if that form some demon gave
 &emsp;Which could not five the living breath?
 
 &emsp;If thou hast seen the sudden storm  
-With gloom a smiling scene deform
+With gloom a smiling scene deform  
 Thou knowest how Khatoon’s beauteous face  
 Had lost what lent that beauty grace.  
 If thou hast seen the prince of day  
@@ -349,11 +349,11 @@ And pierce this heart which beats for thee.”
 &emsp;“Nay Khatoon! oh not thus reprove  
 The excess of voluptuous love  
 Had but thy beauty’s lightest part,  
-&emsp;Been but to servile Christian shown,[^3] 
+&emsp;Been but to servile Christian shown,[^3]  
 ’Tis true! my steel had pierced thy heart  
 &emsp;Then mixed my life blood with thine own.  
 But now, I weep thy woes to think,  
-I see thee from their glances shrink,
+I see thee from their glances shrink,  
 ’Tis but while sorrow clouds thy face  
 That there a million eyes I trace,  
 Again thy look of gladness wear,  
