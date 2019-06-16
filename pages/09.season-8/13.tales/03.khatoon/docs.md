@@ -179,9 +179,222 @@ More broad the lake, delusive, spreads,
 While swift before his weary way  
 The promised seat of bliss recedes.
 
+<div class="grey">The melon’s nectar’d juice derives<br>  
+Its sweetness from the hand that gives.</div>
+
+&emsp;Thus lull’d by pleasure’s mimic show  
+Fond Khulleel sees no sands below.  
+&emsp;But while the monarch sleeping lies  
+And still his thoughts with Khatoon stray,  
+The armed bands the youth surprise,  
+And swift to Kashgar’s realm convey.  
+In vain his struggling limbs they bind  
+No bonds can curb th’ unfettered mind,  
+&emsp;Which roams with Khatoon still.  
+Yet nought his tears or prayers avail  
+And flying to the lonely dale,  
+The groves resound his plaintive wail,  
+&emsp;His tears augment the rill.  
+He calls her name in wild despair,  
+He rends his beard and scented hair.  
+No sleep his weary eyelids can know,  
+&emsp;Unless when Khatoon blessed his dreams  
+Till worn by unremitted woe  
+&emsp;A shadow of himself he seems.  
+Thus of her lover reft, the rose  
+Before the amorous sun declines  
+The bulbul, screened by sheltering boughs,  
+&emsp;Shuns the loathed ray and silent pines.  
+Till as the dews of evening shower  
+He perches near his favourite flower  
+And pours his plaintive song again,  
+So sweet that Peries list the strain.  
+With empire fain would Khulleel buy  
+One sight of Khatoon’s full orb’d eye.  
+E’en now perchance, that angel face  
+Is sullied by another’s gaze.  
+He weeps — a happier king the while  
+May revel in her faithless smile.
+
+&emsp;From far Khorassan’s ample realm  
+Shah Rokh repairs to Samarkand,  
+&emsp;He seized the states deserted helm,  
+And swayed it with a powerful hand.  
+While Persia’s subject regions own  
+Lamented Timour’s worthy son.  
+In simple gard, but suppliants meet,  
+&emsp;Before Shah Rokh young Khulleel stood.  
+Low kneeling at his uncle’s feet,  
+&emsp;In cautious accents meekly sued.
+&emsp;“I do not ask for power or land,  
+The empire I with joy resign.  
+&emsp;The weight that bent my feeble hand  
+Is swayed with graceful ease by thine.  
+Yet longer be thy golden dream,  
+More bright, more glorious be its theme!  
+May Allah to thy prayers incline,  
+As thy shall stoop to hearken mine!  
+If e’er Circassia’s moon-faced maids,  
+&emsp;If nymphs from sultry India won
+Whose bloom attests a warmer sun,  
+Or dames from Georgia’s mountain glades,  
+With golden hair and eyes of sleep,  
+Thy sense in sweet delirium steep.  
+Oh hear my prayer! if yet she live,  
+To these fond arms my Khatoon give.”
+
+&emsp;“Unhappy Khulleel, steel thine ear  
+Of injured Khatoon’s woes to hear,  
+And when thou knowst each varied ill,  
+Thou wilt not wish her living still.  
+They stripped her of her silken vest —   
+In robes of hairy sackcloth dressed  
+With lock unbound and naked feet  
+They led her thro’ the public street.  
+Thro’ all Bokhara’s fertile land  
+Thro’ all the streets of Samarkand.  
+The meanest slave has dared to trace  
+The beauties of that houri face.  
+In vain her flowing hair she drew  
+To shroud her from their hateful view,  
+In vain their fringed curtains strove  
+To veil those eyes, the seat of love,  
+Or tears of burning anguish seek  
+To wash the roses from her cheek — ”  
+
+&emsp;“Oh pause! thy slave in mercy spare!  
+&emsp;&emsp;Thy lightest word has power to kill!  
+&emsp;&emsp;Yet, yet, thou sayest not, lives he still?  
+&emsp;Thou hidest thy face — in vain my prayer!”
+
+“Nay, Khulleel! if thy soul can yet  
+Its Khatoon’s houri smile forget,  
+A Grecian maid whose lightest charm,  
+The coldest heart to flame would warm,  
+Whose agile step and winning grace,  
+Bespeak her born of Peri race.  
+Whose charms for mortal eyes too bright,  
+Beam thro’ her veil with dazzling light.  
+If she (so lovely that as far,  
+&emsp;As Night’s pale queen in full orbed pride  
+Surpasses each surrounding star,  
+&emsp;She would excel by Khatoon’s side)  
+Can soothe thy soul this maid divine,  
+And all Khorassan’s realm are thine.”
+
+&emsp;“No, Sultan! were she fairer far,  
+Than purple evening’s virgin star,  
+Or maids that sport in endless bliss  
+Beneath the tree of Paradise,  
+Where were that voice, that smile, that eye  
+&emsp;Of me bereft, that closed for ever,  
+That heart, to mine by every tie  
+&emsp;So linked, it broke but could not sever.”
+
+&emsp;“Enough, fond Prince! in peace return,  
+But view my present, ere you spurn.”  
+&emsp;The king retired — a graceful dame  
+In Kashmir shawls close-shrouded came
+Crossed on her breast her snowy hands  
+And motionless and silent stands.  
+&emsp;“Lady! that veil forbear to raise,  
+I would not see that beauty’s blaze.  
+In vain thy charms a monarch gave  
+My heart is in my Khatoon’s grave.  
+Then lift not here thy silken screen  
+I scorn not what I yield unseen.”
+
+&emsp;He spoke, but ere he closed his tale  
+Quick dropp’d the unsubmissive veil.  
+How like! but oh, how coldly fair!  
+His Khatoon’s smile was wanting there.  
+The rose had left her cheek of snow,  
+Those locks in hyacinthine flow  
+No more with sparkling rubies glow,  
+But loosely twined, in simplest braid  
+A brow of marble whiteness shade.  
+With tears oppressed, her full-orbed eye  
+Has lost its beam of love and joy,   
+And unadorned, her snowy vest  
+The hue of settled grief expressed.  
+He gazes, but his wildered mind,  
+Nor speech nor thought distinct can find,  
+If she have left the silent grave  
+&emsp;To bear him to her bed of death?  
+Or if that form some demon gave  
+&emsp;Which could not five the living breath?
+
+&emsp;If thou hast seen the sudden storm  
+With gloom a smiling scene deform
+Thou knowest how Khatoon’s beauteous face  
+Had lost what lent that beauty grace.  
+If thou hast seen the prince of day  
+Burst the dense clouds with sudden ray  
+And brightening in each varied hue,  
+The landscape seem to live anew,  
+Thou knowest how on her pallid cheeks  
+&emsp;The sudden light of rapture broke.  
+Her face a wavering crimson streaks,  
+&emsp;Her voice grew stronger as she spoke,  
+While thro’ her lover’s quivering frame  
+The sudden thrill of transport came.  
+
+&emsp;“I live, but by thy hand to die!  
+I could not see thy love’s decline!  
+&emsp;Thou saidst by others seen, this eye,  
+Would lose its every charm for thine.  
+Then haste, my wretched spirit free  
+And pierce this heart which beats for thee.”
+
+&emsp;“Nay Khatoon! oh not thus reprove  
+The excess of voluptuous love  
+Had but thy beauty’s lightest part,  
+&emsp;Been but to servile Christian shown,[^3] 
+’Tis true! my steel had pierced thy heart  
+&emsp;Then mixed my life blood with thine own.  
+But now, I weep thy woes to think,  
+I see thee from their glances shrink,
+’Tis but while sorrow clouds thy face  
+That there a million eyes I trace,  
+Again thy look of gladness wear,  
+Smile, and I shall not see them there.  
+And fear not love! the regal plumes  
+No more my turbanned front assumes  
+But fair Khorassan’s shady bowers  
+Are dearer far to love like ours.  
+Yet oh! my glory’s brightest beam  
+Full on our generous monarch stream,  
+A powerful sovereign never knows  
+The charm of safety or repose,  
+And he who barters rest for fame,  
+Too dearly earns a deathless name.”
+
+From pomp estranged, through shady groves,  
+By Khartoon’s side her Khulleel roves,  
+They live, and seemed too blest to die;  
+But Khulleel’s fated hour was nigh,  
+And Azrael, minister of death,  
+From Khatoon’s arms requires his breath,  
+While slowly from his pointed sword,  
+The triple drops of death he poured.[^4]  
+But oh! not fate could now divide,  
+Fond Khatoon from her lover’s side.
+
+She seized his sword, one parting kiss,  
+She joins him in the realms of bliss.  
+How blest to die ere life’s decline,  
+Ere love’s ambrosial roses pine.
+
+In Rhaca’s town a tomb arose,  
+Their joined, their mortal frames repose;  
+And oft as Rhaca’s fragrant groves,  
+Made vocal with their warbled loves.
+
+
 [^1]: Timour died at Otrar, on his way to invade the Empire of China.
 
 [^2]: In the East the ladies usually prepare the viands for their masters. This custom is so well known from the Arabian Tales, as scarcely to require a note.
 
-The melon’s nectar’d juice derives  
-Its sweetness from the hand that gives.
+[^3]: Mahommed permitted women to show themselves very freely to their Christian slaves, and the Turkish ladies are in the habit of treating them with more than the familiarity of European manners.
+
+[^4]: The first causes death, the second putrefaction, the 3d. annihilation of the body.
