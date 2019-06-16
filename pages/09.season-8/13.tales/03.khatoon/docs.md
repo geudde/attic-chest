@@ -1,5 +1,5 @@
 ---
-title: Khatoon
+title: 'Khatoon'
 taxonomy:
     category:
         - docs
