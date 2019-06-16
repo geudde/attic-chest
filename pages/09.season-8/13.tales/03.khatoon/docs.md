@@ -177,11 +177,11 @@ And groves and peopled cities rise.
 As hotter glowed the fervid ray,  
 More broad the lake, delusive, spreads,  
 While swift before his weary way  
-The promised seat of bliss recedes.
+The promised seat of bliss recedes.  
 
-<div class="grey">The melon’s nectar’d juice derives<br>  
-Its sweetness from the hand that gives.</div>
-
+<span class="grey">The melon’s nectar’d juice derives</span>  
+<span class="grey">Its sweetness from the hand that gives.</span>
+  
 &emsp;Thus lull’d by pleasure’s mimic show  
 Fond Khulleel sees no sands below.  
 &emsp;But while the monarch sleeping lies  
