@@ -36,8 +36,8 @@ Let China’s sons in safety now
 Before their dragon-idols bow.[^1]  
 The Ameers sound the trump in vain  
 My music is thy warbled strain.  
-<span class-"grey">Let warriors conquered empires part</span>  
-<span class-"grey">Be mine the empire of thy heart</span>  
+<span class="grey">Let warriors conquered empires part</span>  
+<span class="grey">Be mine the empire of thy heart</span>  
 The liquid azure of thine eyes  
 The sapphire’s brilliant light outvies,  
 Thy hair in clustering ringlets floats,  
@@ -98,7 +98,7 @@ He loves to see the Naptha’s flame
 Where myriads lately blest his name  
 The tribute of spontaneous praise.  
 He seeks, with brighter beam, afar  
-The column’d dome of Istakhar
+The column’d dome of Istakhar  
 And with a warm tho’ mournful ray  
 Gilds lone Palmyra’s swift decay.  
 &emsp;This day, redeemed from northern signs  
