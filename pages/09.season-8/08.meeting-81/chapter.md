@@ -14,3 +14,4 @@ visible: true
 5. [Farewell to Henrietta](farewell)
 6. [Letter from Pertinax Townly](pertinax)
 7. [Letter and Poem from Betty Brush](betty)
+8. <span class="grey">Komalda: An Indian Tale</span> <a href="../season-8/tales/komalda"><i class="fa fa-link" aria-hidden="true"></i></a>

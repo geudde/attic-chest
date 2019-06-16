@@ -6,416 +6,225 @@ taxonomy:
 visible: false
 ---
 
-<span class="title">An American Tale</span>
-
-<span class="pencil">Attic Chest Wednesday May 8th 1816</span>
-
-1
-
-O’er plains where Chile’s warlike race  
-&emsp;Th’ invading Spaniard’s force withstood,  
-And still Aranco bears the trace  
-&emsp;Of stern Valdivia’s noble blood,  
-The fleet Telasco urged the chase,  
-&emsp;He speeds o’er mountain, lake, and wood,  
-Swift fly the birds, for well they know  
-The terrors of his sounding bow.
-
-2
-
-The blood of brave Caupolican   
-&emsp;Flowed freely in his grand-child’s veins  
-Less fleet the agile llama ran  
-&emsp;O’er mountain crags, or naked plains  
-And in the combat, not a man  
-&emsp;Of all the tribes, his arm sustains.  
-Victorious o’er a thousand foes  
-To hunt the youthful chieftain goes.
-
-
-3
-
-No mother’s baneful cares defaced  
-&emsp;The beauty of his ample brows,  
-Or marred that form, by Nature graced  
-&emsp;With all that healthful toil bestows.  
-As o’er the wide uncultured waste  
-&emsp;With godlike energy he goes.  
-A Grecian bard, as swift he strode,  
-Had deemed the youth their archer god.  
-
-4
-
-With poisoned shafts a quiver filled  
-&emsp;A bow of stubborn wood he bore,  
-A tiger which his arm had killed,  
-&emsp;Supplied the only garb he wore.  
-A lance of pointed wood he held,  
-&emsp;Which many a llama shall deplore,  
-And in his slender scrip was seen  
-That powder famed, of potent green.  
-
-5
-
-Where pungent salt and pounded maize  
-&emsp;With sweet angelica unite,  
-Sustained by this, thro’ rugged ways  
-&emsp;He roams for many a day and night,  
-Nor courage fails, nor strength decays,  
-&emsp;Nor calls the craving appetite,  
-While with unerring shafts he slays,  
-Provision for the wintry days.
-
-6
-
-The lofty peak of Tencapel  
-&emsp;In burning pride before him rose  
-And far behind in bolder swell  
-&emsp;Flamed Chillan mid a waste of snows.  
-O’er rugged steep, thro’ woody dell  
-&emsp;With foot untired Telasco goes.  
-He starts not from impending ice,  
-He skirts the desperate precipice.
-
-7
-
-In vain the mild alpaca flies,  
-&emsp;His darts the llama’s speed attain  
-By him th’ unwieldy tapir dies,  
-&emsp;The birds ascend the skies in vain.  
-From rock to rock the hunter hies,  
-&emsp;He springs thro’ thicket, grove and plain,  
-The tiger marked his rapid way,  
-And dared not rush upon his prey.
-
-8
-
-Now plunging in primeval shades  
-&emsp;That scarce admit the light of day  
-Thro’ tangling brakes and trackless glades  
-&emsp;Telasco forced his desperate way.  
-More thick the verdant umbrage spreads  
-&emsp;While dangled from each graceful spray,  
-The clematis of rich perfume,  
-The purple cogul’s scentless bloom.
-
-9
-
-In lilac pride or fragrant white  
-&emsp;The rich magnolia blossomed there  
-And flowers that scent the silent night,  
-&emsp;And pale syringas sweet as pair,  
-And trees that in the pallid light,  
-&emsp;As clothed with silvery scales appear.  
-And there the vermil kalmia vies  
-With the loved rose of Eastern skies.
-
-10
-
-But whence that cry, so loud and near,  
-&emsp;That echoes thro’ the quivering shade?  
-A wandering nation visit there  
-&emsp;The turf that hides the mighty dead  
-And by their honoured bones they swear  
-&emsp;To feed the hate their fathers fed  
-While vengeance mingles with the wail  
-Of filial grief that loads the gale.
-
-11
-
-And well their chief Telasco knows,  
-&emsp;The crimson feathers of his crest  
-The fiery eye and flattened brows  
-&emsp;His deadliest enemy attest.  
-Another day, the furious foes  
-&emsp;His unprotected tribe molest,  
-While heedless he pursues the chase,  
-Destruction hovers o’er his race.
-
-12
-
-But who is she whose sable hair  
-&emsp;A curious wreath of shells entwines?  
-While her short vest of feathers rare  
-&emsp;A band of glittering beads confines.  
-A ring of gold in either ear  
-&emsp;On either polished ankle shines,  
-Her lively smile, her graceful mien,  
-Seemed brighter in so rude a scene.
-
-13
-
-But hark! thro’ all the startled air  
-&emsp;Reverberates low a sullen sound,  
-The screaming birds attest their fear,  
-&emsp;Heaves like the waves the quaking ground.  
-And thro’ the darkened atmosphere,  
-&emsp;The scorching cinders fall around  
-Hark! distant Cotiapo roars  
-His vast eruptions shake the shores.
-
-14
-
-The opening ground a rent displayed,  
-&emsp;Dense fumes and noxious vapours rise,  
-And on its brink the trembling maid  
-&emsp;Stands while her heedless father flies.  
-And all his tribe refuse their aid  
-&emsp;Regardless of her piercing cries.  
-Her dangerous state Telasco viewed,  
-He bore her to the sheltering wood.
-
-15
-
-But woods afford no friendly shade,  
-&emsp;She branches wave, the trunks are riven,  
-Swift from the falling groves they fled  
-&emsp;They seek again the open heaven —   
-The shocks have ceased, the skies are red  
-&emsp;Red with the tranquil light of even  
-But that broad flame in middle air  
-Is that the dread volcano’s glare.
-
-16
-
-“No,” cried the maid, “in that bright blaze  
-&emsp;Telasco’s hated race expires  
-My father’s tribe, by secret ways  
-&emsp;Approach to spread the fatal fires.  
-Perchance amid those sanguine rays  
-&emsp;The savage chieftain’s soul aspires.  
-Then farewell sorrow, doubt alarm,  
-My sire need fear no meaner arm.”
-
-17
-
-Telasco’s hand the hatchet raised —   
-&emsp;It sunk inactive by his side;  
-His eyes with sudden fury blazed —   
-&emsp;In pity’s dew the flashes died.  
-While on the gentle maid he gazed,  
-&emsp;Grief, anger and and revenge subside?  
-In her he less had liked to trace  
-A heart and alien to her race.
-
-18
-
-“Farewell!” he cried, “my duty calls,  
-&emsp;The combat I must seek to share,  
-Due westward and lie thy native walls,  
-&emsp;Its issue wait in safety there.  
-Secure whate’er thy sire befalls  
-&emsp;Telasco’s arm he need not fear.  
-By his if thy preserver die,  
-Give to his fate one passing sigh.”
-
-19
-
-Fleet as the archer’s winged reeds  
-&emsp;Yet silent as the dews of night.  
-Low crouched amid the tangled weeds  
-&emsp;Telasco still pursues the light.  
-Swift as the gliding snake he speeds,  
-&emsp;His blazing huts are full in sight,  
-While standing on their comrades slain,  
-His men a fruitless fight maintain.
-
-20
-
-Concealed behind a spreading tree,  
-&emsp;With fatal aim his javelin flew,  
-While sent by hands they cannot see  
-&emsp;His shafts the foremost foemen slew.  
-&emsp;Some with sudden panic flee  
-Telasco’s rallying friends pursue,  
-While to avenge their comrades’ blood  
-The holder few surround the wood.
-
-21
-
-Now hence now there Telasco goes,  
-&emsp;At every turn he makes his stand,  
-And darts as from a thousand bows.  
-&emsp;Fall thick upon the shrinking band,  
-Again their lives the wood enclose,  
-&emsp;Their Cacique seized a lighted brand.  
-He fires the wood, the crackling blaze,  
-Shoots to the skies its sanguine rays.
-
-22
-
-Now fall primeval groves, and wide  
-&emsp;The devastating fury spread,  
-Trees that in patriarchal pride  
-&emsp;Waned o’er their great forefathers dead,  
-And tender saplings by their side  
-&emsp;Gleam one sad mass of dusky red.  
-They totter, lo! the crashing sound  
-The fiery hail that rises round.  
-
-
-23
-
-Affrighted by the sultry glare  
-&emsp;On high the screaming birds arose  
-The tiger started from his lair,  
-&emsp;And howling sprung upon his foes,  
-From slumber roused the unwieldy bear.  
-&emsp;Swift o’er the blazing branches goes,  
-And followed by the angry boar  
-The nearest of the assailants tore.
-
-24
-
-Still fought Telasco unsubdued,  
-&emsp;His arrows kindle as they fly,  
-And branches from the blazing wood  
-&emsp;His quiver’s failing store supply.  
-And now against a pine he stood  
-&emsp;Whose shady honours flamed on high.  
-His sinewy arms its trunk enclose.  
-It falls, it whelms an hundred foes.
-
-25
-
-With it the brave Telasco fell  
-&emsp;But rose, his hatchet in his hand,  
-And leaping forth, with hideous yell  
-&emsp;He slays the boldest of the band.  
-His force not all their ranks repel.  
-&emsp;They fly, or strew the blazing sand.  
-Their chief alone to combat runs,  
-Their chief alone Telasco shuns.
-
-26
-
-For well Oneyda’s sire, he knows,  
-&emsp;Whose cherish’d life he vowed to shame  
-But while he falls on meaner foes  
-&emsp;The Cacique’s hatchet rose in air.  
-Deep in his naked side it goes.  
-&emsp;He fell, and life had ended there,  
-But vengeance, still unsated saves,  
-For keener woes the life she craves.
-
-27
-
-Far from the burning scene of strife  
-&emsp;They give him to Oneyda’s care,  
-Oh! could he spurn the draught of life  
-&emsp;From heart so kind or hands so fair  
-Tho’ for the hour with tortures rife,  
-&emsp;Those cares his wasted strength repair.  
-Or could she see his sunken eye,  
-And sternly kind those cares deny.
-
-28
-
-Telasco cannot hope for grace  
-&emsp;Nor could his spirit brook to be  
-Adopted offspring of a race  
-&emsp;His arm so oft hat taught to flee,  
-Nor shall his end a chief disgrace  
-&emsp;No sign of pain his foes shall see,  
-In death alone he hopes to prove  
-He might deserve Oneyda’s love.
-
-29
-
-Yet fancy sometimes pictures scenes  
-&emsp;The fairer, that he knows them vain.  
-A gleam of rapture intervenes  
-&emsp;E’en in his darkest hours of pain  
-Now on his arm Oneyda leans,  
-&emsp;For her he seeks the juicy cane.  
-Or lists to the bird that tells,  
-Where bees conceal their honied cells.
-
-30
-
-And now for her with pointed spear  
-&emsp;He wounds the ocean’s finny race,  
-Or bounding high, in full career  
-&emsp;Outstrips the llama in the chase.  
-Or while she sings, assists to rear  
-&emsp;Their field of manioc or of maize  
-to her the mocking bird replies —   
-Alas, the golden vision flies.
-
-31
-
-But time rolls on: the hour is nigh,  
-&emsp;Fixed for Telasco’s sacrifice,  
-Each warrior comes to feast his eye  
-&emsp;With the lost hero’s agonies.  
-Oh, say, does less of mercy lie  
-&emsp;In those by whom a prisoner dies;  
-Who tear his senseless flesh, or those,  
-Who banquet on his living woes.
-
-32  
-
-Yet once Oneyda strove to wake  
-&emsp;Some pity in her stubborn sire,  
-No tears the fires of vengeance slake  
-&emsp;On her she draws his fiercest ire,  
-“Thou alien, pleadst thou for his sake,  
-&emsp;Then thou shalt light the fatal pyre,  
-And learn like me to glut thine eyes  
-While he in lingering torments dies.”
-
-33
-
-The hour is come, the victim placed,  
-&emsp;The gathering crowds each moment swell,  
-And thrice her torch Oneyda raised  
-&emsp;Thrice nerveless at her side it fell.  
-At once her eye more brightly blazed  
-&emsp;Her glowing cheeks new courage tell  
-Telasco with unshrinking frame  
-Beholds her light the fatal flame.
-
-34
-
-But yestermorn those youthful trees  
-&emsp;Spread their green branches to the day  
-Yet now they blaze and vengeance sees  
-&emsp;Half his rich harvest torn away  
-Oneyda from th’ industrious bees  
-&emsp;Had stolen their waxen cells away  
-Haste wretches, glut your savage ire  
-Soon will your helpless prey expire.
-
-35
-
-But pause we here, the Muse delights  
-&emsp;In scenes of horror less o’erbearing  
-When for his country’s weal he fights  
-&emsp;She loves the hero’s matchless daring  
-She follows to his funeral rites  
-&emsp;Where grief with patriot pride is sharing  
-But sickening turns her heavenly eye  
-From brutal coward cruelty
-
-36
-
-Yet still the victims limbs sustain  
-&emsp;Exhausted hatred’s fiercest store,  
-“Fool, fools,” Oneyda cried, “’tis vain  
-&emsp;Desist! your senseless arts give o’er.  
-Tho’ keen your instruments of pain  
-&emsp;This simple dart shall touch him more.”  
-She spoke, she plunged it in her side  
-Gazed on his altered face and died.
-
-37
-
-Oh! then Telasco’s shriek of woe  
-&emsp;Was mingled with her father’s cry  
-His cheeks a deadlier paleness show  
-&emsp;His hands are clenched in agony.  
-Then as the fires more keenly glow  
-&emsp;To end his hour of misery,  
-He smiles to see his wasting frame  
-He sinks amid the hottest flame.
-
+<span class="title">An Tartarian Tale</span>
+
+<span class="pencil">Attic Chest Wednesday May the 22nd 1816</span>
+
+O’er deserts of unvaried green  
+&emsp;Where neither stone nor rock is found  
+Without a hill to change the scene,  
+&emsp;Without a tree to shade the ground,  
+
+Roam’d Kuban, ’tis a weary life.  
+&emsp;Without a friend or kinsman near,  
+With all of human kind at strife,  
+&emsp;With none his houseless lot to cheer.
+
+Yes! he has one, his faithful steed,  
+&emsp;Companion from his earliest years,  
+Who often in the hour of need  
+&emsp;Has saved him from pursuing spears.  
+
+Has borne him thro’ the thickest fight  
+&emsp;To deeds that long shall live in story  
+Rejoicing in the well-known weight,  
+&emsp;And sharing in his master’s glory.
+
+In full career along the waste,  
+&emsp;Would Kuban spring upon his horse,  
+He needs no spur to urge his haste,  
+&emsp;No rein to curb his fiery course.
+
+And tho’ with him no followers stray’d  
+&emsp;His kinsmen guard their chieftain’s right,  
+Nor dared the foe his blood to shed,  
+&emsp;They fear his kinsmen’s force in fight.
+
+They dread th’ hereditary hate,  
+&emsp;The vengeance of each friendly clan  
+The feud unquench’d by blood or date  
+&emsp;On all the murderers of a Khan.
+
+Yet blood has redden’d Kuban’s sword  
+&emsp;Once with neighbouring chief he rode.  
+Their prowess Azop’s tribe deplored.  
+&emsp;The verdant plain was stained with blood    
+
+When for a lovely captive’s charms  
+&emsp;They fought, and Kuban’s rival fell  
+But flying from the dim of arms  
+&emsp;His prize had gain’d some secret cell.  
+
+And Kuban flies, his head to hide,  
+&emsp;From the proud kindred of the slain.  
+Awhile the Khan forgets his pride,  
+&emsp;And wanders lonely o’er the plain,  
+
+Attired in nature’s brightest green,  
+&emsp;While countless flowers perfume the air.  
+Who dreary is th’ unchanging scene,  
+&emsp;How coldly, desolately fair,  
+
+Yet sometimes o’er the plain aspires,  
+&emsp;The wreck of years for ever gone,  
+Barbaric domes and gilded spires,  
+&emsp;Are glittering in the setting sun.  
+
+And sometimes from the deep morass  
+&emsp;The pestilential vapours come,  
+The shining locusts hide the grass,  
+&emsp;In clouds the dark mosquitoes hum.
+
+’Tis morn, and from the rites of prayer,  
+&emsp;As Kuban rose, he sees afar,  
+A band that ranged in order fair,  
+&emsp;Ride in the panoply of war.
+
+He mounts his steed with breathless haste,  
+&emsp;He makes a circuit o’er the plain,  
+Unnoticed to their rear he past,  
+&emsp;And asks from where the warrior train.
+
+“From Balaclava’s lovely vale,  
+&emsp;Sage Zenghi sends us wandering here,  
+Brave Kuban Khan to seek and hail,  
+&emsp;And bid his join his followers there.
+
+His tribe with Zenghi’s friends combine,  
+&emsp;Far distant Azof’s warriors stray.  
+Meanwhile their mares, their lowing kine,  
+&emsp;Their tents are Kuban’s easy prey.”
+
+“Then, warriors! if your words be true,  
+&emsp;I lead you to the wandering man.”  
+They bring him to their Chieftain’s view,  
+&emsp;Who knew and welcomed Kuban Khan.  
+
+To one he gives his turban’s fold,  
+&emsp;To one his belt with silver bright.  
+Round one his costly mantle roll’d  
+&emsp;And bids them guide his steps aright.
+
+All day and thro’ the silent night,  
+&emsp;On fleetest steeds that never fail  
+They speed, and hail with orient light,  
+&emsp;Fair Balaclava’s mountain vale.
+
+Now clothed with trees, now bleakly bare  
+&emsp;On either side the mountains rise,  
+And graceful shrubs are waving there,  
+&emsp;And blossoms of a thousand dyes.
+
+It seemed as in this lovely scene  
+&emsp;The air had more of balmy power,  
+The velvet turf a livelier green,  
+&emsp;A richer scent in every flower.    
+
+Nor could the ocean breezes blight,  
+&emsp;The trees that rose in forest pride,  
+Tho’ sparkling in the golden light,  
+&emsp;Before them roll’d the swelling tide.  
+
+But now amid the rocks they wind,  
+&emsp;And leave the open light of day.  
+The pass appears to close behind,  
+&emsp;Above their heads the branches play.  
+
+They trace a channel long and deep,  
+&emsp;Enclosed with cliffs on every part,  
+Whose sides by Nature rude and steep,  
+&emsp;Are more precipitous from art.  
+
+And now thy enter caves that seem  
+&emsp;Vast mansions for the mighty dead,  
+Which well th’ enthusiast eye might deem,  
+&emsp;Coeval with the rocks they tread. 
+ 
+They pass thro’ galleries deep and wide,  
+&emsp;Thro’ solemn gloom and chilling air.  
+The panels tell on either side  
+&emsp;The names of those who slumber there.
+
+How strangely, ’mid the awful scene  
+&emsp;Resound the jovial sounds of mirth,  
+That seem not shouts of living men,  
+&emsp;But restless demons of the Earth.
+  
+They call — the hidden doors expands.  
+&emsp;At once a thousand torches glare,  
+In every nave a festive band,  
+&emsp;Invites their guests the feast to share.
+  
+And Zenghi comes, with welcome brief  
+&emsp;The stranger to his board he leads.  
+While swiftly, for the honour’d chief,  
+&emsp;His daughter’s hand the banquet spreads.
+
+See! as the tempting cup she bears  
+&emsp;Why heaves her breast with quicker swell.  
+Her cheek a deeper crimson wears,  
+&emsp;Her eyes in sweet disorder fell.
+
+And Kuban starts — the goblet falls —   
+&emsp;“I see my doom, nor fear to die,  
+Yet ere you break at hatred’s calls  
+&emsp;The laws of hospitality,
+
+“Know, when on yonder trackless wild,  
+&emsp;I fought to win that virgin fair,  
+I knew not she was Zenghi’s child,  
+&emsp;I claim’d alone the rights of war.”
+
+Sage Zenghi smiles. “Proud Khan! forbear  
+&emsp;Whence does suspicion taint thy breast,  
+I call no foes my feast to share,  
+&emsp;I mix no poison for a guest.
+
+“By Azof’s chief a captive led,  
+&emsp;My daughter’s loss I long deplored,  
+That now I clasp the duteous maid,  
+&emsp;Is due to Kuban’s conquering sword.
+
+“You loved her, can a father’s heart  
+&emsp;Muse that another thinks her fair?  
+You won her — why that wondering start?  
+&emsp;A soldier own the rights of war.
+
+“Our fathers oft together raised,  
+&emsp;On Azof’s chiefs the thirsty sword,  
+And sung, while plunder’d hamlets blazed  
+&emsp;Their triumphs round the social board.
+
+“Why should our father’s sons be foes?  
+&emsp;For stronger ties our danger calls.  
+With me stern Azof’s Khan oppose,  
+&emsp;And ere the morrow’s eve befalls  
+
+The day on which the chieftain dies,  
+&emsp;The night his camp in flames expires,  
+That day shall see our peaceful ties,  
+&emsp;That night shall light your nuptial fires.”
+
+The conquer’d chief of Azof falls  
+&emsp;Their fate the happy lovers plight,  
+More brightly shine the rocky falls.  
+&emsp;More briskly moves the goblet bright.
+
+They mount her on the fleetest steed,  
+&emsp;Behind her Kuban urged the chase  
+Oh! he has need of all his speed,  
+&emsp;He yields her if he lose the race.  
+
+In vain he spurs the foaming horse,  
+&emsp;That horse so long caressed, in vain.  
+But lo! she stops her rapid course,  
+&emsp;And waits him on the level plain.
+
+“Enough!” exclaimed the blushing maid,  
+&emsp;“Enough our courser’s speed is tried  
+To show that still I could have fled  
+&emsp;That I by choice am Kuban’s bride.”
+
+The author of the National Tales having now completed the series at first proposed, as well as the two which he has added at the request of the Editor, takes his leave of the Attic Society with many thanks for their indulgent attention. To the Tartarian Tale he believes no notes are necessary. Every member is acquainted with the Steppes of Tartary, those immense plains, without a tree, a hill, a rock, or even a pebble; with the beautiful valley of Balaclava in the Crimea; and with those extraordinary ranges of dwellings cut in the mountains, which serve at once for the tombs of the dead, and the habitations of the living; tho’ by far the greater number are yet untenanted. The concluding incident alludes to a Tartarian custom.
+
+Sadi.

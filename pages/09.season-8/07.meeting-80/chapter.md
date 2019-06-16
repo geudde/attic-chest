@@ -15,3 +15,4 @@ visible: true
 6. [To Celia](celia)
 7. [Four Nations: The Jew](jew)
 8. [The Aëronautiad](aeronautiad)
+9. <span class="grey">Khatoon: A Persian Tale</span> <a href="../season-8/tales/khatoon"><i class="fa fa-link" aria-hidden="true"></i></a>

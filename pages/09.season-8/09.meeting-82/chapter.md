@@ -16,3 +16,4 @@ visible: true
 7. [Letter and Poem from Mopsey](mopsey)
 8. [The Spectre’s Isle](spectre)
 9. [Edwin and Angelina](edwin)
+10. <span class="grey">Telasco: An American Tale</span> <a href="../season-8/tales/telasco"><i class="fa fa-link" aria-hidden="true"></i></a>
