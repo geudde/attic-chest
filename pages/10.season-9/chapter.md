@@ -2,6 +2,8 @@
 title: 'Season 8'
 taxonomy:
     category: docs
+admin:
+    children_display_order: collection
 ---
 
 # 1815–1816
