@@ -7,7 +7,7 @@ visible: true
 
 # Undated
 
-1. [National Tales](tales)
+1. [Introductory Note](note)
 2. [Laila: An Arabian Tale](laila)  
 3. [Khatoon: A Persian Tale](khatoon)  
 4. [Komalda: An Indian Tale](komalda)
