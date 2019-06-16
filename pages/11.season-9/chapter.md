@@ -2,6 +2,8 @@
 title: 'Season 9'
 taxonomy:
     category: docs
+admin:
+    children_display_order: collection
 ---
 
 # 1817
