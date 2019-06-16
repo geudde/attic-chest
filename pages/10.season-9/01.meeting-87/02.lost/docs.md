@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Mr Elliott</div>
+
 Mr Editor
 
 As the Spectator did not disdain to receive advertisements, I trust you will not be offended at my sending one to you — its insertion in an early number will much oblige.
@@ -15,8 +17,6 @@ A Faithful Friend
 *Once* a Contributor
 
 ---
-
-<div class="author">Mr Elliott</div>
 
 <span class="title">500 Lines Reward</span>
 
