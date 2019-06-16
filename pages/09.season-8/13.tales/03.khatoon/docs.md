@@ -1,5 +1,5 @@
 ---
-title: 'Khatoon'
+title: Khatoon
 taxonomy:
     category:
         - docs
@@ -20,7 +20,7 @@ It may be as well to observe that a Persian lover must be absolutely distracted 
 
 A small plume in the turban is the sign of royalty in Persia, but their monarchs have sometimes increased their numbers, wearing one for each of the kingdoms under their command. The royal standard of Persia is now a lion couchant with the sun rising behind him, or as it is more commonly called Sol in Leo. This standard seems to have been first adopted by one of the Seljuk princes of Iconium. The antient standard of Persia was the leather apron of Kawah the blacksmith who delivered Persia from the tyranny of Zohauk and placed the virtuous Feridoon on the throne. It had been surrounded by the magnificence of successive princes, with a splendid border of jewel far exceeding itself in size, but it was lost at the battle of Kudseah when the Arabians invaded Persia and subjected it to the religion of Mahommed (see Sir John Malcom’s History of Persia).
 
-Said
+Sadi
 
 ---
 
