@@ -210,6 +210,8 @@ Disarms her wrath, recounts his toils,
 Then bids her take his ample store,  
 And vows to leave his love no more.
 
+---
+
 The story of this Tale and some of the ideas are taken from specimens of Mr Brown’s translations of Hindu poetry in the Monthly Review for Jany. 1816
 
 The Kewra, which forms so principal an object in this little poem is the Pandanus odoratissimus of the class Dioecia Monandria of Linnaeus. Its leaves are rigid and prickly resembling those of the pineapple. It grows to the height of 12 feet. A number of branches, still resembling the leaves of the pineapple in appearance and arrangement, issue from the stem, and at the end of each is a bunch of bright yellow or orange flowers, slightly spiked. The barren flowers, the stem, and the root of this plant have a fragrance which is delightful, but so extremely powerful that the Hindus find it necessary to keep it at a distance from their houses, and when they wish to scent an apartment, a single flower is gathered and brought into it. Even this it it quickly necessary to remove.
