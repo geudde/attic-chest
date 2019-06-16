@@ -20,4 +20,4 @@ visible: true
 	d. [The Chaplet](chaplet)  
 	e. [Message from Author](message)  
 8. [The Fairies’ Isle](isle)
-9. [Laila: An Arabian Tale](laila) <a href="../season-8/tales/laila"><i class="fa fa-link" aria-hidden="true"></i></a>
+9. <span class="grey">Laila: An Arabian Tale</span> <a href="../season-8/tales/laila"><i class="fa fa-link" aria-hidden="true"></i></a>
