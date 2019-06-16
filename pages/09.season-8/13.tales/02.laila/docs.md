@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-<span class="title">And Arabian Tale</span>
+<span class="title">An Arabian Tale</span>
 
 <span class="pencil">Attic Chest Wednesday March 13th 1816</span>
 
