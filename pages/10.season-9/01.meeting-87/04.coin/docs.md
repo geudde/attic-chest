@@ -40,4 +40,4 @@ May Tellers and Auditors find Places here!
 Your coinage shall aid us (tho’ Statesmen forget)  
 To pay to the Muses our National Debt.
 
-Feb<sup>y.</sup> 28th 1817
+Feb<sup>ỵ</sup> 28th 1817
