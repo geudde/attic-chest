@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Vardill</div>
 
-<span class="">To the Attic Society</span>
+<span class="title">To the Attic Society</span>
 
 When Misers and Mendicants mourn for the Nation,  
 Both Bullion and Wit want a fresh circulation;  
