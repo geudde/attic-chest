@@ -1,35 +1,59 @@
 ---
-title: 'Advertisement for a Lost Muse'
+title: 'Lines Sent with a Repeating Watch'
 taxonomy:
     category:
         - docs
 visible: false
 ---
 
-<div class="author">Mr Elliott</div>
+<div class="author">Miss Vardill</div>
 
-Mr Editor
+> Lines Sent with a Repeating Watch & Seal Bearing this Motto:
+> 
+> “Ah! Vous dirai-je?”
 
-As the Spectator did not disdain to receive advertisements, I trust you will not be offended at my sending one to you — its insertion in an early number will much oblige.
+Ah! could it speak! and there are few  
+Old Time would speak so softly to,  
+For years of pain and care have past  
+Yet on thy brow no snowdrops cast;  
+And not a print is there to show  
+&emsp;&emsp;&emsp;&emsp;What Time might tell.
 
-A Faithful Friend
+Ah! would it speak! if then thine ear  
+Should gentle tales incline to hear  
+Thou might’st a secret legend learn  
+Of hope that live without return  
+And whispers to the slow-pac’d year  
+&emsp;&emsp;&emsp;&emsp;“Soon Time shall tell.”
 
-*Once* a Contributor
+The shell upon the sea-rock’s side  
+Still echoes to its native tide;  
+Tho’ motionless and cold it lies  
+The list’ning ear may hear its sighs:  
+So pines a heart in sullen pride  
+&emsp;&emsp;&emsp;&emsp;As Time shall tell.
 
----
+It linger’d in a living grave  
+Then bounded high on Fortune’s wave;  
+But *one* disdain’d the prize, nor knew  
+The rarest pearl is dark in hue.  
+Shall none the slighted wand’rer save?  
+&emsp;&emsp;&emsp;&emsp;Time comes to tell.
 
-<span class="title">500 Lines Reward</span>
+Ah! let the kind adviser teach,  
+Gentle and brief and slow in speech  
+Like Friendship when it speaks in death,  
+Like Love which fears its own soft breath,  
+And leaves the word it cannot reach  
+&emsp;&emsp;&emsp;&emsp;For Time to tell.
 
-**Whereas** a Lady of Grecian extraction and Roman connections, who has long made the happiness of the Advertiser, has lately eloped from him with some person unknown.
+Fair Lady! Time is in thy hand;  
+Use it with touch discreet and bland,  
+And while it moves on diamond feet  
+Its golden tongue shall truth repeat:  
+But if thy heart can understand  
+&emsp;&emsp;&emsp;&emsp;’Tis time to tell!
 
-**This is to give notice**, that whoever will put him in the way of recovering his lost treasure, shall be rewarded with 500 of the best lines he can produce, in any style agreeable to the Claimant.
+Thy Valentine
 
-The said Lady has long been naturalized in this country, and speaks the English Language with fluency and grace: she can assume almost any form at pleasure, and is equally charming in all; whether, under the name of Melpomene, she wraps herself in majesty and sables, or, under that of Thalia, fascinates with “nods and becks and wreathed smiles”, whether she visits the Senate as Calliope or the Ballroom as Terpsichore, her majesty commands respect, her grace kindles admiration; but the fascination of the Advertizer was then most complete when the strains of Euterpe melted his soul to rapture or his Erato breathed responsive sighs within a grove of myrtles.
-
-A further description of this faithless Fair-one is unnecessary, as all must have been acquainted with **The Muse** under some other of her Protean Forms. Suffice it to add, that under a *tenth* name of Attic Chestensia she was well know to an admiring circle in Berners Street.
-
-Alas! in an evil hour her Admirer listened to the call of curiosity and repaired to the French Capital; there while he gazed and wondered and enjoyed, she made her elopement. He has since been condemned to mourn in a gloomy silence, his attempts to rejoin her have been fruitless, and as a last resource he calls on this Attic Friends to aid him in the search.
-
-N.B. No higher terms will be offered. The reward to be paid within six weeks after the recovery of the Lady; and no questions asked.
-
-Communications may be addressed to the care of the Editor.
+Feb<sup>y.</sup> 14th
