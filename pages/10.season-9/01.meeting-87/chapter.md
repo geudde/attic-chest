@@ -10,3 +10,4 @@ visible: true
 1. [Editorial](editorial)  
 2. [Advertisement for a Lost Muse](lost)
 3. [Lines Sent with a Repeating Watch](watch)
+4. [The New Coin of Parnassus](coin)
