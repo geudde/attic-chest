@@ -12,3 +12,8 @@ visible: true
 3. [Answer to Advertisement](answer)
 4. [Lady Byron’s Answer to Lord Byron’s *Farewell*](farewell)
 5. [Letter from France No. 2](lavinia-2)
+6. [The Milk Maid](maid)
+7. [Lines with a Purse](purse)
+8. [Precious Money](money)
+9. [A New Official Style](style)
+10. [The Fête in the Sun](fete)
