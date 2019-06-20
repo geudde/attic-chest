@@ -27,7 +27,7 @@ But to pervert perfection’s laws
 The time approaches fast we see  
 When just or not we all must die  
 So now is the time let us not neglect  
-To hang corruption by the neck
+To hang corruption by the neck  
 If we to God’s levee would fly  
 Do as we would be done by  
 For by faith without restitution  
