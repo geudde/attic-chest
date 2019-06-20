@@ -10,7 +10,7 @@ visible: false
 
 As the Attic Chest admits originals of various kinds, perhaps it may not reject this specimen of a new Official Style, which was copied from the original communication by 
 
-\* * *
+&#42;&emsp;&#42;&emsp;&#42
 
 ---
 
