@@ -8,9 +8,7 @@ visible: false
 
 <div class="author">Mr Elliott</div>
 
-As the Attic Chest admits originals of various kinds, perhaps it may not reject this specimen of a new Official Style, which was copied from the original communication by 
-
-&emsp;&#42;&emsp;&#42;&emsp;&#42;
+As the Attic Chest admits originals of various kinds, perhaps it may not reject this specimen of a new Official Style, which was copied from the original communication by &emsp;&#42;&emsp;&#42;&emsp;&#42;
 
 ---
 
