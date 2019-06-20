@@ -1,5 +1,5 @@
 ---
-title: 'Lady Byron’s Answer to Lord Byron’s *Farewell*'
+title: 'Lady Byron’s Answer'
 taxonomy:
     category:
         - docs
@@ -7,6 +7,8 @@ visible: false
 ---
 
 <div class="author">Communicated by Miss Thomson</div>
+
+<span class="title">Lady Byron’s Answer to Lord Byron’s *Farewell*</span>
 
 Powerless are thy magic numbers  
 To revive affection’s flame,  
