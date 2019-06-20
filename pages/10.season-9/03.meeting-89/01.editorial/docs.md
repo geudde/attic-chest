@@ -30,4 +30,4 @@ The Description of Rosamond’s Chest we can easily perceive to be beautiful, bu
 
 We have received the third Act of Allah ul Dien, but as the two former acts were found rather too long for one reading, we shall only produce a part of it.
 
-Lucy and Mr Granger — with grief we speak it, must again be deferr’d, but we were unwilling to reject other Candidates whose expanding laurels we had already too long confined.
+Lucy and Mr Granger — with grief we speak it, must again be deferr’d, but we were unwilling to reject other Candidates whose expanding laurels we had already too long confined.
