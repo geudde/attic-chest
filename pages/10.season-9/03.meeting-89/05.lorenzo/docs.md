@@ -1,5 +1,5 @@
 ---
-title: 'Lines in the Character of Lorenzo di Medici'
+title: 'Lines in the Character of Lorenzo de Medici'
 taxonomy:
     category:
         - docs
