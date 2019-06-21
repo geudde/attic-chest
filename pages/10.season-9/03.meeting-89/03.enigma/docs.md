@@ -32,4 +32,4 @@ Oh! breathe on it softly, it dies in an hour.
 
 By Lord Byron
 
-<span class=“pencil”>Answer: The Letter H</span>
+<span class="pencil">Answer: The Letter H</span>
