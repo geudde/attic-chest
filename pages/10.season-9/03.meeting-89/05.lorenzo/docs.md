@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Hayley communicated by Mrs Flaxman</div>
 
-<span class="title">The following lines were written in the character of Lorenzo di Medici on a blank leaf, with Roscoe’s Life of that eminent man, presented to a lady in 1796</span>
+<span class="title">The following lines were written in the character of Lorenzo de Medici on a blank leaf, with Roscoe’s Life of that eminent man, presented to a lady in 1796</span>
 
 With Pride in Roscoe’s radiant work I see,  
 That *Art* avows some pleasing debts to me;  
