@@ -7,8 +7,6 @@ visible: true
 
 # 29 April 1817
 
-# <span class="grey">All Items Missing</span>
-
 1. <span class="grey">Mr Solve-Query’s Papyrostatic Experiment</span>
 2. <span class="grey">On Captain Harvey of Battle</span>
 3. <span class="grey">A Muse Found</span>
