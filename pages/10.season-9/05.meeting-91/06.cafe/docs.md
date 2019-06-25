@@ -126,7 +126,7 @@ Quand je serai rigoureux.
 Chantons, Chantons, Présidente,  
 Vive Café!  
 Vive l’Attic Chest,  
-et vivent now attraita!  
+Et vivent now attraita!  
 Je suis tout-à-vous;  
 Vous n’êtes rien sans moi;  
 Vivons toujours ensemble,  
