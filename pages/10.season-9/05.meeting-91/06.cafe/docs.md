@@ -19,7 +19,7 @@ But nought have I.
 Love sings dee song,  
 All laughs for Love,  
 Some kiss dee Boy,  
-Some kiss his dove,
+Some kiss his dove,  
 Vine cracks his joke,  
 And in dee line  
 He tells dee feats,  
@@ -32,7 +32,7 @@ Helas! poor ting,
 Vill Lady say,  
 Vat is your name?  
 Ah Mesdames! — Je m’appelle  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Café**
+&emsp;&emsp;&emsp;&emsp;**Café**
 
 Ven Lady nod  
 Who gives new life?  
@@ -58,7 +58,7 @@ Who points dee smile’s
 Arch force, I pray?  
 Who merveilles vorks  
 Parbleu! Messieurs, c’est moi  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Café**
+&emsp;&emsp;&emsp;&emsp;**Café**
 
 Without me, sure,  
 Dee chest would fall,  
@@ -136,6 +136,6 @@ Vivent George et Louis,
 et vive lad paix!  
 Vive tout le monde!  
 Mais, pour que tout aille bien,  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Vive Café!**
+&emsp;&emsp;&emsp;&emsp;**Vive Café!**
 
 [^1]: Par example: Café des Muses, à Paris.
