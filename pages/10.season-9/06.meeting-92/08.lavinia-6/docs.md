@@ -35,7 +35,9 @@ The country was still unvaried. The magpies as usual almost the only living thin
 		<p>
 			Le Sieur Desmaretz prie la public de ne pas croire les mauvaix bruits que pleusiers de ses confreres font repandre par despostillons qu’ils payent pour leur faire conduire les étrangers et annoncer qu’il ne tient plus Hotel. Messieurs les voyagers trouveront toujours chez lui tous les avantages désirables: ils seront servis comme à l’ordinaire, par des domestiques zélés, attentifs, at logés comme le permet la maison, qui est connue pour la plus belle de la ville et tres bien située à tous égards.
 		</p>
-		Nota. Il part tous les deux jours du dit Hôtel une diligence pour Paris — dont le bureau à Paris est Rue du Jour No. 4</td>
+		<p>Nota. Il part tous les deux jours du dit Hôtel une diligence pour Paris — dont le bureau à Paris est Rue du Jour No. 4
+		</p>
+		</td>
 		<td><p><strong>Moulinet Hotel</strong></p> 
 		<p>
 			Post Horses Office, in face of the gate of the Cathedrale AT REIMS.
