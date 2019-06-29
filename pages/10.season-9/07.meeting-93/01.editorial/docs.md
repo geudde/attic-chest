@@ -31,7 +31,7 @@ must be even worse than
 > In one house  
 > Diddle douse
 
-The ***e***legant ***e***pistle of the ***e***rudite, ***e***laborate and ***e***gotistical letter ***e*** has ***e***nabled us to ***e***njoy an ***e***nlivening laugh at its ***expense***.
+The **e**legant **e**pistle of the **e**rudite, **e**laborate and **e**gotistical letter **e** has **e**nabled us to **e**njoy an **e**nlivening laugh at its **expense**.
 
 Atticus Scriblerus has made the *amende honorable* to Rodelinda’s jealousy of Olivia, but what will she say when she hears he is divided between ten ladies — like the ten stamina of the papilionaceous plants, nine in one bundle, and one in the other.
 
