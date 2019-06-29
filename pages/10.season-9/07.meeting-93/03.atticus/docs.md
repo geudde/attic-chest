@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Vardill</div>
 
-<span data-tippy="page missing" class="red">[...]</span>
+<span data-tippy="page(s) missing" class="red">[...]</span>
 
 Did I say that the violet linger’d the last  
 In the dark hollow bosom of sunshine bereft?  
