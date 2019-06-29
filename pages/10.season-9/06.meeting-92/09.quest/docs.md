@@ -101,7 +101,7 @@ Be wise and take them to the shops
 For Paris is in want of mops.  
 No more mine eye delighted roves  
 The Luxembourg’s befrizzled groves,  
-Or where beside the Tuilleries planted  
+Or where beside the Tuileries planted  
 A thousand Dames like Dames enchanted,  
 Meagre and shivering, white-washed, lone,  
 Catch cold on pedestals of stone.

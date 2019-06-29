@@ -49,7 +49,7 @@ When bright eyes sparkle and kind hearts glow
 ’Tis the nation’s voice where’er I roam,  
 &emsp;&emsp;&emsp;&emsp;If I sway.
 
-Let us be French in the Tuilleries,  
+Let us be French in the Tuileries,  
 Romans in Rome, and Greeks in Greece,  
 But let us when here we sit at ease  
 With Muses and Graces and friends like these  

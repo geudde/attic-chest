@@ -12,3 +12,4 @@ taxonomy:
 90. <span class="grey">29 April 1817</span>
 91. [13 May 1817](meeting-91)
 92. [27 May 1817](meeting-92)
+93. [10 June 1817](meeting-93)
