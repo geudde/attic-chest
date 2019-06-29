@@ -26,7 +26,7 @@ To Braine sur Vesle the country has little change of character but we had on our
 
 The country was still unvaried. The magpies as usual almost the only living things we saw. In one place we saw fourteen together, and in another there was quite a flock. I did not before know that these animals were gregarious, but they seem as plentiful in France as rooks were in England. By the by there is a rookery in the church tower of Saissons, the first we had seen. In one place we saw a few water wagtails, and two pairs of crows. The road continued good till we got within a post of Reines, where the soil was sandy, and it became execrable. It was Sunday, the weather fine, and the town clean. Gay groups were scattered in the favourite promenade under the shade of majestic elms, and we drove thro’ a handsome cast iron archway into a noble street, straight, wide, and well built, at the end of which rose the towers of the Cathedral, which enlarged upon our view as we approached and stopped just opposite to them at the Hotel de Moulinet. And here before other matters divert my attention, let me transcribe for you the card of the inn, half-French, half-English.
 
-<table>
+<table class="small">
 	<tr>
 		<td><p><strong>Hotel du Moulinet</strong></p> 
 		<p>
