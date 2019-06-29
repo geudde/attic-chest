@@ -1,5 +1,5 @@
 ---
-title: 'Speak English Pray!'
+title: 'Speak English, Pray!'
 taxonomy:
     category:
         - docs

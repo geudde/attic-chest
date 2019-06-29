@@ -13,3 +13,6 @@ visible: true
 4. [Atticus Scriblerus to Olivia](olivia)
 5. [King Edward and Fair Agnes](legend)
 6. [John Bull to the Editor](bull)
+7. [A Decima par Blondel](decima)
+8. [Letter from France No. 6](lavinia-6)
+9. [The Quest of the Muse](quest)
