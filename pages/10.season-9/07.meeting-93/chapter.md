@@ -9,4 +9,5 @@ visible: true
 
 1. [Editorial](editorial)   
 2. [Cram to the Editor](cram)
-3. [The Pas Trois](atticus)
+3. [Atticus to Rodelinda](atticus)
+4. [An Eastern Tale](saddac)

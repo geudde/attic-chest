@@ -4,6 +4,7 @@ taxonomy:
     category: docs
 ---
 
-# 1817
+# 1818
 
-87. [4 March 1817](meeting-87)
+94. [19 May 1818](meeting-94)  
+95. [2 June 1818](meeting-95)
