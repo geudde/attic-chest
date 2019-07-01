@@ -94,4 +94,4 @@ The Princess saw a dejected looking female employed in painting. Her eye was sun
 
 “All these, in some degree, are mine,” exclaimed Omara with modest animation. “Then be happy,” said Saddac, “in the possession of blessings which
 
-<span class="missing">MISSING</span> <i class="fa fa-question-circle" aria-hidden="true"></i>
+<span class="missing">MISSING</span> <i class="fa fa-question-circle" aria-hidden="true"></i> [i](../../attic-chest/transcription#missing)
