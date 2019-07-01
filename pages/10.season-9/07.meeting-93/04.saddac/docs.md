@@ -8,8 +8,6 @@ visible: false
 
 <div class="author">Miss Appleton</div>
 
-<span data-tippy="page(s) missing" class="red">[...]</span>
-
 Omara was the daughter of the king, and the fairest maid of Abyssinia. She was fresher than the young water-lily; more engaging than the oldest houri; and of nature, tender as the young matron-dove that nestled and fed her young above the cornice of the royal apartment. But Omara, though so lovely by nature and education, was still a mortal, and felt the press of frailty’s hand. She was, at times, peevish amidst a tumult of happiness, and dull and distracted amongst a thousand exertions of strained faculties to please her. She sighed when she should have smiled; and sometimes rewarded an eager bard, an anxious songster, a panting dancer by marks of fretful impatience. Often did she rise up in the midst of the banquet and send those who looked to her for approbation, abruptly to their homes.
 
 It happened that in a small habitation near her father’s palace there dwelt an Arabian sage, of whom report had said much. He was idolized by the poor, and persons of all ranks consulted him as a physician, a judge, and a teacher of divine things. He was mild and gentle of manner; pleasing in address; simple in speech; frank in opinion; and in virtue he was not esteemed less than in knowledge.
