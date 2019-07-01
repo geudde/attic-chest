@@ -56,7 +56,7 @@ A curtain which had darkened the window, was now drawn aside. Omara looked as sh
 
 In front appeared a young and lovely woman whose face was pale and flushed by turns. She knelt, and rose up, and leaned against the wall of her chamber: then she took and old tattered paper from her bosom and kissed it, and burst into a flood of tears, and read it, and put it away as they trickled down to her bosom. Just then, an old man entered, and going gravely to her, seemed to ask a question of great moment. The female clasped her hands and was at first silent. Then her lips moved. She wept, pleaded
 
-<span class="missing">MISSING</span>
+<span class="missing">MISSING</span> [<i class="fa fa-question-circle" aria-hidden="true"></i>](../../../attic-chest/transcription#missing)
 
 young man stood the length of his chain from her. He said not a word, but looked and looked as a statue, which receives from its master’s hand one attitude — fixed, motionless, unalterable. The Keeper, or Director, now came forward, and having examined the body, ordered it to be removed. The chains were seized to be knocked asunder. At this, a sense of feeling returned. The young man twined his arms in desperation, round and round the chain, and drew up his partner to his breast. He kissed her cheek and forehead; grasped her hand, and acted the wildest states of frenzied affection. Three times did the keeper give the signal to separate him from the corpse, and three times was he disobeyed. At length he was overpowered by numbers, and driven back by stripes of the scourge to his labour.
 
@@ -94,4 +94,4 @@ The Princess saw a dejected looking female employed in painting. Her eye was sun
 
 “All these, in some degree, are mine,” exclaimed Omara with modest animation. “Then be happy,” said Saddac, “in the possession of blessings which
 
-<span class="missing">MISSING</span> <i class="fa fa-question-circle" aria-hidden="true"></i> [<i class="fa fa-question-circle" aria-hidden="true"></i>](../../../attic-chest/transcription#missing)
+<span class="missing">MISSING</span> [<i class="fa fa-question-circle" aria-hidden="true"></i>](../../../attic-chest/transcription#missing)
