@@ -58,7 +58,7 @@ In front appeared a young and lovely woman whose face was pale and flushed by tu
 
 <span data-tippy="page(s) missing" class="red">[...]</span>
 
-<button class="button b-red">MISSING</button>
+<span class="missing">MISSING</span>
 
 young man stood the length of his chain from her. He said not a word, but looked and looked as a statue, which receives from its master’s hand one attitude — fixed, motionless, unalterable. The Keeper, or Director, now came forward, and having examined the body, ordered it to be removed. The chains were seized to be knocked asunder. At this, a sense of feeling returned. The young man twined his arms in desperation, round and round the chain, and drew up his partner to his breast. He kissed her cheek and forehead; grasped her hand, and acted the wildest states of frenzied affection. Three times did the keeper give the signal to separate him from the corpse, and three times was he disobeyed. At length he was overpowered by numbers, and driven back by stripes of the scourge to his labour.
 
