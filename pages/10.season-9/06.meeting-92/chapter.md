@@ -16,3 +16,4 @@ visible: true
 7. [A Decima par Blondel](decima)
 8. [Letter from France No. 6](lavinia-6)
 9. [The Quest of the Muse](quest)
+10. [Acrostic on the Death of a Beloved Child](acrostic)
