@@ -97,7 +97,7 @@ Amour is sweet
 Ah! Pardi! Oui!  
 And vine is good,  
 But not like me.  
-Monsieur Leandre  
+Monsieur Léandre  
 Ma foi! Chante bien,  
 But sans mon aide,  
 He could do rien —   

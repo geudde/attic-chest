@@ -20,7 +20,7 @@ We have indeed in a translation now in the Chest an illustration of the disposit
 
 > “with the same spirit that its author writ.”
 
-as for the eye to distinguish the real hues of objects through a coloured medium. We perhaps were also under the influence of prejudice, but we certainly understood the French Chansonette read in our last number to be of an amatory nature, while one of our correspondents discovers it to be a drinking song; and at the same time proves himself bit by that mania lately so prevalent of deriving everything from the East by declaring it a direct plagiarism from the Persian of Sadi, which we think we can certify for him, the Comte Leandre has never read.
+as for the eye to distinguish the real hues of objects through a coloured medium. We perhaps were also under the influence of prejudice, but we certainly understood the French Chansonette read in our last number to be of an amatory nature, while one of our correspondents discovers it to be a drinking song; and at the same time proves himself bit by that mania lately so prevalent of deriving everything from the East by declaring it a direct plagiarism from the Persian of Sadi, which we think we can certify for him, the Comte Léandre has never read.
 
 The Lines on the different drawers of a lady’s jewel box are neat and well-turned — so are those written in the character of Lorenzo de Medici, which we think the title should have specified, for having read them with the impression that they were merely verses sent with a Copy of His Life, we did not at first rightly understand them.
 

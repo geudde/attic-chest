@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Porden</div>
 
-<span class="title">Translated from the French of the Comte Leandre de &#42;&#42;&#42;&#42; by Anacreon Lovelorn</span>
+<span class="title">Translated from the French of the Comte Léandre de &#42;&#42;&#42;&#42; by Anacreon Lovelorn</span>
 
 If weariness and sorrow  
 Each gloomy day annoy  

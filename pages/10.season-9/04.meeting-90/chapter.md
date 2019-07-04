@@ -15,7 +15,7 @@ visible: true
 6. <span class="grey">Lavinia to Eliza Letter 4 Account of St Maur</span>
 7. <span class="grey">Praise of the Literary Fund</span>
 8. <span class="grey">Impromptu with the Pen of a lady</span>
-9. <span class="grey">Comte Leandre a L’Editresse</span>
+9. <span class="grey">Comte Léandre a L’Editresse</span>
 10. <span class="grey">The Power of Love</span>
 11. <span class="grey">Chanson a Boire</span>
 12. <span class="grey">The Progress of Sculpture</span>

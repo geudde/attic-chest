@@ -13,7 +13,7 @@ From grief — its bitterness is great,
 And when the heart is charg’d with woe  
 The *sigh* may transient ease bestow  
 A “special pleader,” let no lawyer frown  
-But rather smil, and all its influence own,  
+But rather smile, and all its influence own,  
 An inmate of the bosom though it dwells  
 Ne’er issues forth but it some secret tells!  
 It is a *“messenger”* may pass a host,  
