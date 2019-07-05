@@ -47,12 +47,12 @@ But I need not have been alarmed. Instead of walking to the Beach, this modern L
 
 Mordaunt was flying from Acrasia’s bowers of bliss
 
-> Which when the vile Enchaunteresse perceived
-> &emsp;How that my Lord from her I would reprive
-> With cups thus charm’d him parting she deceived
-> &emsp;Sad verse, give death to him that death does give
-> &emsp;And losse of love, to her that loves to live
-> So soone as Bacchus with the Nymphe does lincke:
-> &emsp;So parted we and on our journey drive,
-> Till comming to this welle he stopt to drincke:
+> Which when the vile Enchaunteresse perceived  
+> &emsp;How that my Lord from her I would reprive  
+> With cups thus charm’d him parting she deceived  
+> &emsp;Sad verse, give death to him that death does give  
+> &emsp;And losse of love, to her that loves to live  
+> So soone as Bacchus with the Nymphe does lincke:  
+> &emsp;So parted we and on our journey drive,  
+> Till comming to this welle he stopt to drincke:  
 > The charme fulfild, dead suddenly he downe did sincke
