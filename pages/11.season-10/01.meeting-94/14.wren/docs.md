@@ -193,8 +193,7 @@ Gave him to Glory, but to Grief,
 For scatheless, (tho’ he win the fight,)  
 No man may cope with Fairy might.  
 
-[^1]: Alluding to the old fairy tale of Sir Gawaine’s Marriage. 
-
----
   
-The chase of the Wren is still pursued in the Isle of Man on the anniversary of the day when the fairy is supposed to have taken refuge in that form, and numbers of unfortunate birds have fallen victims to the superstition. 
+> The chase of the Wren is still pursued in the Isle of Man on the anniversary of the day when the fairy is supposed to have taken refuge in that form, and numbers of unfortunate birds have fallen victims to the superstition. 
+
+[^1]: Alluding to the old fairy tale of Sir Gawaine’s Marriage. 

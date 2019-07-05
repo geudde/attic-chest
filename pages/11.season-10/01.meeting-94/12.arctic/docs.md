@@ -1,5 +1,5 @@
 ---
-title: 'To the Authoress of the *Arctic Expeditions*'
+title: 'To the Authoress of the <cite>Arctic Expeditions</cite>'
 taxonomy:
     category:
         - docs
