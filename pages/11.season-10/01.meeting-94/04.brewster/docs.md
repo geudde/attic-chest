@@ -51,7 +51,7 @@ A parallel with Brewster bring?
 Yes, one thing more — our little life  
 Changes as swiftly as a wife —   
 When first the gay optician Hope  
-Presents us her <span class="small">KALEIDOSCOPE</small>,  
+Presents us her <span class="small">KALEIDOSCOPE</span>,  
 How bright before our dazzled eyes  
 The ever-moving pageants rise!  
 As in this toy’s refracting glass  

@@ -37,11 +37,13 @@ He drunk and sang, and sang and drunk again.
 
 “At length with love and wine at once opprest” the hero left the Inn. Well! thought I — he is a philosopher of the New School which maintains that Love does not resemble the Chamelion in its abstinence so much as its changes. But the day is cool, and the sea not very smooth, so at all events he is right to be warm within — Beware, however, I exclaimed involuntarily,
 
-“Lest Bacchus with the Nymph should mix” and they Iris prove a second Acrasia. [^1]
+“Lest Bacchus with the Nymph should mix” and they Iris prove a second Acrasia.  &#42;
 
 But I need not have been alarmed. Instead of walking to the Beach, this modern Leandre took his way to the Church, doubtless thought I, to offer his prayers to St Thomas the patron of maritime adventures. But no! He scarcely bowed to the altar and began to ascend the steeple. Curiosity impelled me to follow, and I offered smiles as he stopped for breath, and breathed a *“sâcre”* or a *“diable”* at the number of steps. Once indeed when his swallow-tailed coat caught on the iron of the winding stairs I thought he exclaimed, “Diable d’Iris” — but I must have been mistaken. However he reached the top, took out a Telescope Stand, fixed his brass tube on it pointing it towards Dover, and seemed intensely occupied in turning and adjusting the screws, exclamining every instant, “Quel charmant objet — quelle belle forme — Ah! que je suis ravi — et la belle teinte — la beauté — la varieté” He laid it down for few moments, and I could not resist the temptation of peeping at his Goddess. I looked into the tube — and behold it was a *Kaleidoscope*.
 
-[^1]: An allusion to the story of Mordaunt and Amaria in the first Canto of the Legend of Sir  Guyon or Temperaunce, being the 2d Book of Spenser’s Faerie Queene. Lest our hearers should not correctly remember it, we will quote the stanza.
+---
+
+&#42; An allusion to the story of Mordaunt and Amaria in the first Canto of the Legend of Sir  Guyon or Temperaunce, being the 2d Book of Spenser’s Faerie Queene. Lest our hearers should not correctly remember it, we will quote the stanza.
 
 Mordaunt was flying from Acrasia’s bowers of bliss
 
