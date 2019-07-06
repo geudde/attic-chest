@@ -25,4 +25,4 @@ When exposed, shall grow bright in the Sun!
   
 > Copied by *Sennacherib’s Rib*  
   
-> From the Needle & Thread Magazine for the year — *1234567890** 
+> From the Needle & Thread Magazine for the year — *1234567890* 
