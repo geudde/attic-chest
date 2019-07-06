@@ -43,13 +43,10 @@ One smile of heavenly light to mine
 They shall be suns to me and I  
 No more your gloomy Valentine.
 
-<div class="pencil">
-<p>Feb. 14. 1808
-</p>
-<p>
-expected to arrive<br> 
-if not attracted by Jupiter
-</p>
-<p>
-Feb. 14. 1818</p>
-</div>
+<span class="pencil">Feb. 14. 1808</span>
+
+<span class="pencil">expected to arrive  
+if not attracted by Jupiter</span>
+
+<span class="pencil">Feb. 14. 1818</span>
+
