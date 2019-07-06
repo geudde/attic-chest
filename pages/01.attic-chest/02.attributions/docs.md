@@ -1110,3 +1110,269 @@ The 4th Brother’s Tale → Miss Vardill
 A New Epistle → Miss Vardill  
 Music to the Fairy’s Song → Miss Vardill  
 <span class="grey">The 5th Lecture on Natural History → Miss Porden</span>
+
+
+<div class="bottom">
+<span class="meeting">No. 72&emsp;(1815-03-08)</span>  
+</div>
+
+Electromagus to the Editor with the “Lunatics” → Miss Porden  
+
+<span class="missing">MISSING</span>
+
+<div class="bottom">
+<span class="meeting">No. 73</span>  
+</div>
+
+<span class="missing">MISSING</span>
+
+<div class="bottom">
+<span class="meeting">No. 74&emsp;(1815-12-06)</span>  
+</div>
+
+“The Phoenix sent Cards” → Miss Vardill  
+Acrostic to a young Lady → Sir J. Barrington  
+Gormo to Stella → Miss Flaxman  
+The Chevalier Ruspini → Messrs Elliotts  
+Vale, by Mr Freemantle → com. Mrs Richardson  
+Sir Pertinax Townly containing → Miss Porden  
+“When Norway’s Monarch knelt to gain” → Miss Vardill  
+Electromagus on Heat → Miss Porden  
+Estrella Mr Beauclerc’s Prize Essay → Miss Porden [[INCOMPLETE]]   
+<span class="grey">Letter from Prosai Poetico → Miss Vardill</span>  
+<span class="grey">The 6th Brother’s Tale → Miss Vardill</span>  
+<span class="grey">Advertisement of the Hermits for the 7th Brother → Miss Vardill</span>  
+<span class="grey">Song: For Master Doctoure → Mr Porden (when tipsy)</span>  
+
+<div class="bottom">
+<span class="meeting">No. 75&emsp;(1815-12-20)</span>  
+</div> 
+
+Address. Ex parte Pocket Handkerchief → Miss Vardill  
+A Riddle. Answer: Glass → Miss Porden  
+Do. Answer: Chrysalis → Miss Porden  
+Lines spoken in the character of Mr Coutts → Mr Empey com. Mrs Richardson  
+Words for Modinha No. 1 → Mr Elliott  
+Electromagus on light → Miss Porden  
+Sir P. Townly The Summer House → Miss Porden  
+Sir P. Townly The Flowers are Bright on hill and dale → Miss Porden  
+Mr Beauclerc to the Editor → Miss Vardill  
+Balance of Opinions on Women → Miss Vardill  
+Plan for a Lottery → Miss Vardill  
+The 7th Brother’s Tale → Miss Vardill  
+Closing address from the Hermitage → Miss Vardill  
+
+<div class="bottom">
+<span class="meeting">No. 76&emsp;(1816-01-30)</span>  
+</div> 
+
+<div class="bottom">
+<span class="meeting">No. 77&emsp;(1816-02-14)</span>  
+</div>
+
+<div class="bottom">
+<span class="meeting">No. 78&emsp;(1816-02-28)</span>  
+</div>
+
+<div class="bottom">
+<span class="meeting">No. 79&emsp;(1816-03-13)</span>  
+</div>
+
+
+<div class="bottom">
+<span class="meeting">No. 80&emsp;(1816-03-27)</span>  
+</div>
+
+
+<div class="bottom">
+<span class="meeting">No. 81&emsp;(1816-04-24)</span>  
+</div>
+
+<div class="bottom">
+<span class="meeting">No. 82&emsp;(1816-05-08)</span>  
+</div>
+
+<div class="bottom">
+<span class="meeting">No. 83&emsp;(1816-05-22)</span>  
+</div>
+
+<div class="bottom">
+<span class="meeting">No. 84&emsp;(1816-06-05)</span>  
+</div>
+
+<div class="bottom">
+<span class="meeting">No. 85&emsp;(1816-07-15)</span>  
+</div>
+
+<div class="bottom">
+<span class="meeting">No. 86&emsp;(???)</span>  
+</div>
+
+
+
+???? [[MISSING]]
+
+The Reading Baker → Miss Porden  
+The 13th of June → Miss Vardill  
+Letter from Mr Prosai Poetico → Miss Vardill  
+“So when we Ellen’s Eulogy would write” → Mrs Richardson
+
+A List of Contributions read from the Attic Chest from Febry 22d 1814 to July 15th 1816 including the 6th, 7th and 8th Seasons
+
+Mr Flaxman	3  
+Mrs Flaxman	3  
+Miss Flaxman	19  
+Miss Vardill	67  
+Mr Porden	2  
+Miss Porden	77  
+Mr Elliott	33  
+Mr E. Elliott	5  
+Mrs Richardson	5  
+Miss Richardson	2  
+Sir J. Barrington	2  
+Mrs Phillips	1  
+Mrs Staveley	1  
+Mr Hayley	2  
+Miss M. A. Kay	1  
+Mr Hinckley	1
+
+<div class="bottom">
+<span class="meeting">No. 87&emsp;(1817-03-04)</span>  
+</div>  
+
+To A.F. Since Tenderness to Age belongs → Mr Hayley com. Mrs Flaxman
+Advertisement for a Lost Muse → Mr Elliott 
+Valentine with a Repeating Watch → Miss Vardill  
+The New Coin of Parnassus → Miss Vardill  
+Verses by Dr Brande in 1802 → com. Miss Kramer
+Valentine to Drawing \[IMAGE\] → Miss and Master Kay  
+Archibald McLeasing to his publisher → Miss Porden  
+Letter from France: Lavinia to Eliza → Miss Porden  
+The 1st Act of the Novice of St Benedict → Miss Vardill 
+The 1st Act of Allah ul Din → com. Mr Porden
+Jeremy Granger to Lucy → Mr Porden  
+
+<div class="bottom">
+<span class="meeting">No. 88&emsp;(1817-03-18)</span>  
+</div>  
+
+The Lost Muse → Miss Vardill  
+Answer to the Advertisement from Atticus Scriblerus → Miss Porden  
+Lady Byron’s Answer to “Fare thee well” → com. Miss Thomson  
+Lavinia to Eliza Letter 2 → Miss Porden  
+Continuation of Allah ul Din → com. Mr Porden
+Comte Leandre to the Editress → Mr Elliott 
+Vive l’Amour by Do. → Mr Elliott
+The Waterloo Button → Miss Vardill  
+Lines with a Purse → Miss Appleton (Phytho)
+Specimen of a New Official Style → com. Mr Elliott  
+The Fete in the Sun → Miss Porden
+
+<div class="bottom">
+<span class="meeting">No. 89&emsp;(1817-04-15)</span>  
+</div>  
+
+The Festival of Nouroz → Miss Vardill
+Enigma: The Letter H → Miss Fanshaw com. Mrs Richardson
+Lines for a Lady’s Jewel Box → Miss Flaxman
+Lines in the Character of Lorenze di Medici → Mr Hayley com. Mrs Flaxman  
+Lavinia to Eliza Letter 3 → Miss Porden
+Part of Allah ul Din → com. Mr Porden
+Rectius Vives of Horace by Dr Brande → com. Miss Kramer
+Persian Verses from Sadi → Miss Vardill
+Translation of Vive l’Amour → Miss Porden (Ignoramus Bibo)
+The Norman Cap → Mr Johnson  
+Petition of Aaron Harebrains → Miss Appleton  
+Epistle from Monsieur Leon →  Mr E. Elliott 
+Rosamond’s Chest → Mr Bayler com Miss Vardill
+
+<div class="bottom">
+<span class="meeting">No. 90&emsp;(1817-04-15)</span>  
+</div>  
+
+Mr Solve Mery’s Papyrostatic Experiment → Miss Appleton
+On Captain Harvey of Battle → com. Mrs Flaxman
+A Muse Found → Miss Vardill
+500 Lines →  Miss Vardill
+Part of Allah ul Din →  com. Mr Porden
+Lavinia to Eliza Letter 4 Account of St Maur → Miss Porden and Mr Elliott  
+Praise of the Literary Fund → 
+Impromptu with the pen of a lady → Mr Elliott
+Comte Leandre a L’Editresse → Mr Elliott
+The Power of Love → Mr Elliott
+Chanson a Boire → Mr Elliott  
+The Progress of Sculpture → Miss Appleton
+
+<div class="bottom">
+<span class="meeting">No. 91&emsp;(1817-05-13)</span>  
+</div>  
+
+Mr Buckskin to the Editor → Mr Elliott  
+The Tyger → Mr Blake com. Mrs Flaxman  
+The Chimney Sweepers song on the 1st May → Mr Blake com. Mrs Flaxman  
+A Lovers Song, translated by Anacreon Lovelorn → Miss Porden  
+Vive Café → Miss Appleton  
+Lavinia to Eliza Letter 5 → Miss Porden  
+An Arabian Anecdote → Miss Porden  
+The Progress of Sculpture Continued → Miss Appleton  
+The Novice of St Benedict Concluded → Miss Vardill
+
+<div class="bottom">
+<span class="meeting">No. 92&emsp;(1817-05-27)</span>  
+</div>  
+
+Epitaph on a Hermit, signed Quiz → com. Miss Appleton  
+Speak English Pray! → Miss Vardill  
+John Bull to the Editor → Miss Porden  
+A Decima par Blondel with a Chorus → Miss Porden  
+Part of Allah Ul Dien → com. Mr Porden   
+Lavinia to Eliza Letter 6 → Miss Porden  
+The Quest of the Muse → Miss Porden  
+Atticus Scriblerus to Olivia → Miss Vardill  
+King Edward and Fair Agnes → Miss Vardill
+
+<div class="bottom">
+<span class="meeting">No. 93&emsp;(1817-06-10)</span>  
+</div>
+
+Cram to the Editor → Miss Appleton  
+The pas trois → Miss Vardill  
+Omara an Eastern Tale → Miss Appleton    
+Farewell ye scenes of past delight → com. Miss Denman  
+Adieu charmantes Bergeres → com. Mrs Flaxman  
+Atticus to Rodelinda → Miss Vardill  
+Allah Ul Dien Concluded → com. Mr Porden  
+Lavinia to Eliza Letter 7 → Miss Porden   
+The Quest of the Muse → Mr Elliott  
+The Quest of the Muse continued signed ER → Miss Porden  
+Lines sent with 2 baskets of fruit →  
+
+<div class="bottom">
+<span class="meeting">No. 94&emsp;(1818-05-19)</span>  
+</div>
+
+Honesty’s Promotion → Miss Vardill  
+The Family Circle No. 1 → Mrs Richardson  
+Dr Brewster to Ellen with his Kaleidoscope → Miss Vardill  
+Count Leandre to the Editress → Mr Elliott  
+The Count’s Adventures at Calais → Miss Porden  
+Euphrosyne to Pomona →  Miss Porden  
+Pomona to Euphrosyne → Miss Appleton  
+Riddle → Miss Porden  
+To the Authoress of the Arctic Expeditions → Miss Vardill  
+Fragment de la Grande Histoire des Genies → Mr Halma  
+Count Leandre à Iris → Mr Elliott  
+The Wren a Manx Legend → Miss Porden
+
+<div class="bottom">
+<span class="meeting">No. 95&emsp;(1818-06-02)</span>  
+</div>
+
+To a Lady with some Lille Thread → Miss Appleton  
+The Quest of the Muse Canto 128 → Mr Elliott  
+The Canal to the Brook → Mrs Kelly Davis  
+The Cairngorm Diamond → Miss Vardill  
+The Family Circle No. 2  → Mrs Richardson  
+A Dream, to the Editor of the Attic Chest → Miss Appleton  
+Hassan a Tale → Miss Porden  
+Count Leandre with some Greek → Com. Miss Vardill & Mrs Flaxman
