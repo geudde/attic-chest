@@ -20,7 +20,4 @@ Among the pieces to be read this evening we shall produce one sent to us sometim
 
 "But seldom that for higher thought he fed." The Reverend Dr. Grant who could descend from objects of great literary importance to contribute to the amusement of the Attic Society and Mrs. Welch, who was not as far as we know, actually a contributor to our collection, yet by her good sense her
 
----
-<span class="red">Page missing or not scanned.</span>
-
----
+<span class="missing">MISSING</span>
