@@ -8,8 +8,8 @@ visible: false
 
 <div class="author">Mr Elliott</div>
 
-<span class="title">By her forsaken Admirer</span>
-<span class="title">Fragment of Canto 128</span>
+<span class="title">By her forsaken Admirer  
+Fragment of Canto 128</span>
   
 &#42;&emsp;&#42;&emsp;&#42;&emsp;&#42;&emsp;  
   
