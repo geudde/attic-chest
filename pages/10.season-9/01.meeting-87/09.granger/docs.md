@@ -24,7 +24,7 @@ She is not like you — yet she is . She is not so tall — she is not
 
 It is not my intention to tell you anything of Dieppe which is said to exhibit a more perfect specimen of the antient Norman manners and costume than any other town in the Province of Normandy, for why should I amuse or inform a woman who has driven me from her presence and whom I am determined never to think of more. Why should I describe to her the straight streets and lofty houses of this antique town, which appears to have preserved its primitive character by the happy circumstance, that it was situated in a nook of France and not in the high road from England to Paris — distant yet near — between Calais and Paris crowds of travellers are perpetually passing, rubbing off as they pass the antient rust of the inhabitants and leaving with them something of the modern polish of London and Paris. But Dieppe, little disturbed by those migrating strangers, like a remote village in Yorkshire or a burg in Switzerland, has continued from age to age the same. I am told that this town was built by the English but by whomsoever built, its lofty stone-fronted houses distinguished by the peculiarity of its upper windows, the <span data-tippy="Illegible" class="green">[???]</span>
 
-<span class="red">Page missing or not scanned.</span>
+<span class="missing">MISSING</span>
 
 as the rosebud glowing in the dew of morn. Altogether lovely as the daughters of paradise, the very image of — of — the fair companion of my voyage — the charming unknown who now calls me to my place in the cabriolet that is to convey us to Rouen.  
 

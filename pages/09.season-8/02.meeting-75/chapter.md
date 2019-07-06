@@ -7,4 +7,4 @@ visible: true
 
 # 20 December 1816
 
-# <span class="grey">Missing</span>
+# <span class="missing">MISSING</span>
