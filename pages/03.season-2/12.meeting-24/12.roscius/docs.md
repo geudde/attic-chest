@@ -40,4 +40,4 @@ Our Roscius shall begin the tale.
 
 ---
 
-<span class="red">Page(s) missing</span>
+<span class="missing">MISSING</span> [<i class="fa fa-question-circle" aria-hidden="true"></i>](../../../attic-chest/transcription#missing)
