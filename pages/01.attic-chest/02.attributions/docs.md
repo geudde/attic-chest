@@ -1217,24 +1217,63 @@ The 13th of June → Miss Vardill
 Letter from Mr Prosai Poetico → Miss Vardill  
 “So when we Ellen’s Eulogy would write” → Mrs Richardson
 
+---
+
 A List of Contributions read from the Attic Chest from Febry 22d 1814 to July 15th 1816 including the 6th, 7th and 8th Seasons
 
-Mr Flaxman	3  
-Mrs Flaxman	3  
-Miss Flaxman	19  
-Miss Vardill	67  
-Mr Porden	2  
-Miss Porden	77  
-Mr Elliott	33  
-Mr E. Elliott	5  
-Mrs Richardson	5  
-Miss Richardson	2  
-Sir J. Barrington	2  
-Mrs Phillips	1  
-Mrs Staveley	1  
-Mr Hayley	2  
-Miss M. A. Kay	1  
-Mr Hinckley	1
+<table>
+	<tr>
+		<td>Mr Flaxman</td> <td class="price">3</td>
+	</tr>
+	<tr>
+		<td>Mrs Flaxman</td> <td class="price">3</td>
+	</tr>
+	<tr>
+		<td>Miss Flaxman</td> <td class="price">19</td>
+	</tr>
+	<tr>
+		<td>Miss Vardill</td> <td class="price">67</td>
+	</tr>
+	<tr>
+		<td>Mr Porden</td> <td class="price">2</td>
+	</tr>
+	<tr>
+		<td>Miss Porden</td> <td class="price">77</td>
+	</tr>
+	<tr>
+		<td>Mr Elliott</td> <td class="price">33</td>
+	</tr>
+	<tr>
+		<td>Mr E. Elliott</td> <td class="price">5</td>
+	</tr>
+	<tr>
+		<td>Mrs Richardson</td> <td class="price">5</td>
+	</tr>
+	<tr>
+		<td>Miss Richardson</td> <td class="price">2</td>
+	</tr>
+	<tr>
+		<td>Sir J. Barrington</td> <td class="price">2</td>
+	</tr>
+	<tr>
+		<td>Mrs Phillips</td> <td class="price">1</td>
+	</tr>
+	<tr>
+		<td>Mrs Staveley</td> <td class="price">1</td>
+	</tr>
+	<tr>
+		<td>Mr Hayley</td> <td class="price">2</td>
+	</tr>
+	<tr>
+		<td>Miss M. A. Kay</td> <td class="price">1</td>
+	</tr>
+	<tr>
+		<td>Mr Hinckley</td> <td class="price">1</td>
+	</tr>
+</table>
+
+
+---
 
 <div class="bottom">
 <span class="meeting">No. 87&emsp;(1817-03-04)</span>  
