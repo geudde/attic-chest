@@ -1165,45 +1165,43 @@ Closing address from the Hermitage → Miss Vardill
 <div class="bottom">
 <span class="meeting">No. 76&emsp;(1816-01-30)</span>  
 </div> 
-
+&emsp;
 <div class="bottom">
 <span class="meeting">No. 77&emsp;(1816-02-14)</span>  
 </div>
-
+&emsp;
 <div class="bottom">
 <span class="meeting">No. 78&emsp;(1816-02-28)</span>  
 </div>
-
+&emsp;
 <div class="bottom">
 <span class="meeting">No. 79&emsp;(1816-03-13)</span>  
 </div>
-
-
+&emsp;
 <div class="bottom">
 <span class="meeting">No. 80&emsp;(1816-03-27)</span>  
 </div>
-
-
+&emsp;
 <div class="bottom">
 <span class="meeting">No. 81&emsp;(1816-04-24)</span>  
 </div>
-
+&emsp;
 <div class="bottom">
 <span class="meeting">No. 82&emsp;(1816-05-08)</span>  
 </div>
-
+&emsp;
 <div class="bottom">
 <span class="meeting">No. 83&emsp;(1816-05-22)</span>  
 </div>
-
+&emsp;
 <div class="bottom">
 <span class="meeting">No. 84&emsp;(1816-06-05)</span>  
 </div>
-
+&emsp;
 <div class="bottom">
 <span class="meeting">No. 85&emsp;(1816-07-15)</span>  
 </div>
-
+&emsp;
 <div class="bottom">
 <span class="meeting">No. 86&emsp;(???)</span>  
 </div>
@@ -1221,7 +1219,7 @@ Letter from Mr Prosai Poetico → Miss Vardill
 
 A List of Contributions read from the Attic Chest from Febry 22d 1814 to July 15th 1816 including the 6th, 7th and 8th Seasons
 
-<table>
+<table style="width:400px">
 	<tr>
 		<td>Mr Flaxman</td> <td class="price">3</td>
 	</tr>
@@ -1279,16 +1277,16 @@ A List of Contributions read from the Attic Chest from Febry 22d 1814 to July 15
 <span class="meeting">No. 87&emsp;(1817-03-04)</span>  
 </div>  
 
-To A.F. Since Tenderness to Age belongs → Mr Hayley com. Mrs Flaxman
-Advertisement for a Lost Muse → Mr Elliott 
-Valentine with a Repeating Watch → Miss Vardill  
+To A.F. Since Tenderness to Age belongs → Mr Hayley com. Mrs Flaxman  
+Advertisement for a Lost Muse → Mr Elliott  
+Valentine with a Repeating Watch → Miss Vardill   
 The New Coin of Parnassus → Miss Vardill  
-Verses by Dr Brande in 1802 → com. Miss Kramer
+Verses by Dr Brande in 1802 → com. Miss Kramer  
 Valentine to Drawing \[IMAGE\] → Miss and Master Kay  
 Archibald McLeasing to his publisher → Miss Porden  
 Letter from France: Lavinia to Eliza → Miss Porden  
-The 1st Act of the Novice of St Benedict → Miss Vardill 
-The 1st Act of Allah ul Din → com. Mr Porden
+The 1st Act of the Novice of St Benedict → Miss Vardill  
+The 1st Act of Allah ul Din → com. Mr Porden  
 Jeremy Granger to Lucy → Mr Porden  
 
 <div class="bottom">
@@ -1299,48 +1297,48 @@ The Lost Muse → Miss Vardill
 Answer to the Advertisement from Atticus Scriblerus → Miss Porden  
 Lady Byron’s Answer to “Fare thee well” → com. Miss Thomson  
 Lavinia to Eliza Letter 2 → Miss Porden  
-Continuation of Allah ul Din → com. Mr Porden
-Comte Leandre to the Editress → Mr Elliott 
-Vive l’Amour by Do. → Mr Elliott
+Continuation of Allah ul Din → com. Mr Porden  
+Comte Leandre to the Editress → Mr Elliott   
+Vive l’Amour by Do. → Mr Elliott  
 The Waterloo Button → Miss Vardill  
-Lines with a Purse → Miss Appleton (Phytho)
-Specimen of a New Official Style → com. Mr Elliott  
+Lines with a Purse → Miss Appleton (Phytho)  
+Specimen of a New Official Style → com. Mr Elliott   
 The Fete in the Sun → Miss Porden
 
 <div class="bottom">
 <span class="meeting">No. 89&emsp;(1817-04-15)</span>  
 </div>  
 
-The Festival of Nouroz → Miss Vardill
-Enigma: The Letter H → Miss Fanshaw com. Mrs Richardson
-Lines for a Lady’s Jewel Box → Miss Flaxman
-Lines in the Character of Lorenze di Medici → Mr Hayley com. Mrs Flaxman  
-Lavinia to Eliza Letter 3 → Miss Porden
-Part of Allah ul Din → com. Mr Porden
-Rectius Vives of Horace by Dr Brande → com. Miss Kramer
-Persian Verses from Sadi → Miss Vardill
-Translation of Vive l’Amour → Miss Porden (Ignoramus Bibo)
-The Norman Cap → Mr Johnson  
-Petition of Aaron Harebrains → Miss Appleton  
-Epistle from Monsieur Leon →  Mr E. Elliott 
+The Festival of Nouroz → Miss Vardill  
+Enigma: The Letter H → Miss Fanshaw com. Mrs Richardson  
+Lines for a Lady’s Jewel Box → Miss Flaxman  
+Lines in the Character of Lorenze di Medici → Mr Hayley com. Mrs Flaxman   
+Lavinia to Eliza Letter 3 → Miss Porden  
+Part of Allah ul Din → com. Mr Porden  
+Rectius Vives of Horace by Dr Brande → com. Miss Kramer  
+Persian Verses from Sadi → Miss Vardill  
+Translation of Vive l’Amour → Miss Porden (Ignoramus Bibo)  
+The Norman Cap → Mr Johnson    
+Petition of Aaron Harebrains → Miss Appleton    
+Epistle from Monsieur Leon →  Mr E. Elliott   
 Rosamond’s Chest → Mr Bayler com Miss Vardill
 
 <div class="bottom">
 <span class="meeting">No. 90&emsp;(1817-04-15)</span>  
 </div>  
 
-Mr Solve Mery’s Papyrostatic Experiment → Miss Appleton
-On Captain Harvey of Battle → com. Mrs Flaxman
-A Muse Found → Miss Vardill
-500 Lines →  Miss Vardill
-Part of Allah ul Din →  com. Mr Porden
-Lavinia to Eliza Letter 4 Account of St Maur → Miss Porden and Mr Elliott  
-Praise of the Literary Fund → 
-Impromptu with the pen of a lady → Mr Elliott
-Comte Leandre a L’Editresse → Mr Elliott
-The Power of Love → Mr Elliott
-Chanson a Boire → Mr Elliott  
-The Progress of Sculpture → Miss Appleton
+Mr Solve Mery’s Papyrostatic Experiment → Miss Appleton  
+On Captain Harvey of Battle → com. Mrs Flaxman  
+A Muse Found → Miss Vardill  
+500 Lines →  Miss Vardill  
+Part of Allah ul Din →  com. Mr Porden  
+Lavinia to Eliza Letter 4 Account of St Maur → Miss Porden and Mr Elliott   
+Praise of the Literary Fund →   
+Impromptu with the pen of a lady → Mr Elliott  
+Comte Leandre a L’Editresse → Mr Elliott  
+The Power of Love → Mr Elliott  
+Chanson a Boire → Mr Elliott    
+The Progress of Sculpture → Miss Appleton 
 
 <div class="bottom">
 <span class="meeting">No. 91&emsp;(1817-05-13)</span>  
