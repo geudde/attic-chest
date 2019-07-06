@@ -47,7 +47,7 @@ No more your gloomy Valentine.
 <p>Feb. 14. 1808
 </p>
 <p>
-expected to arrive</br> 
+expected to arrive<br> 
 if not attracted by Jupiter
 </p>
 <p>
