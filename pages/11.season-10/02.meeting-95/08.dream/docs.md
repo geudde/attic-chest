@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Appleton</div>
 
-<span class="title">Sent to the Editor of The Attic Chest for acceptance or refusal</span>
+<span class="title">Sent to the Editor of the Attic Chest for acceptance or refusal</span>
   
 Sir  
   

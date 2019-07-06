@@ -10,7 +10,7 @@ tntsearch:
 
 The Attic Chest was a literary circle hosted by William Porden and his daughter Eleanor Anne at their home in Berners Street, London. From 1808 to 1818 the circle met twice monthly during the winter season. 
 
-Anonymous contributions from members were stored in the Grecian cedarwood chest that gave the circle its name. From contributions sent by post or delivered by hand, the Pordens selected those to be read at each meeting and wrote introductory comments. Eleanor Anne chaired the meetings and read out the contributions.
+Anonymous contributions from members were stored in the Grecian cedarwood chest from which the circle derived its name. The Pordens selected those to be read at each meeting and wrote editorial comments. Eleanor Anne chaired the meetings and read out the contributions.
 
 At the end of each season contributors were invited to acknowledge their works. 
 
