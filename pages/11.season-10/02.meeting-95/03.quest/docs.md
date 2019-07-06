@@ -57,9 +57,7 @@ Swelled out the Arctic Expedition’s sails.
   
 &#42;&emsp;&#42;&emsp;&#42;&emsp; 
   
-\[Hiatus in M.S.  
-  
-not to be supplied till the Author has learned how much of the voyage and its adventures will be sung in better verse than his by the ingenious and venerable Mistress E.A.P., and what materials for his historical illustrations may be afforded by the S. to the A — y in his next Arctic Article. The description is now resumed at a period when the ship had long beaten about in the great Polar Basin beyond the ice.\]  
+\[Hiatus in M.S. — not to be supplied till the Author has learned how much of the voyage and its adventures will be sung in better verse than his by the ingenious and venerable Mistress E.A.P., and what materials for his historical illustrations may be afforded by the S. to the A — y in his next Arctic Article. The description is now resumed at a period when the ship had long beaten about in the great Polar Basin beyond the ice.\]  
   
 Thus held they on their dread-environed way  
 Till well-nigh spent the one long polar day;  
@@ -100,7 +98,7 @@ Of unborn earths lie in metallic ores,
 And rose combustion’s elemental war  
 Which three thee forth at length to upper air.  
 Then let these cares attest my constant love,  
-For thou ungrateful, disobedient, prove —  
+For thou ungrateful, disobedient, prove —   
 Pour not thy invocations on my ear,  
 Leave me to watch with undivided care  
 O’er one in whom my tuneful soul delights,  
