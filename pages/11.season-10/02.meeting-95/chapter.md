@@ -2,7 +2,7 @@
 title: 'Meeting 95'
 taxonomy:
     category: docs
-visible: false
+visible: true
 ---
 
 # 2 June 1818

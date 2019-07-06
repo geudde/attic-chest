@@ -2,7 +2,7 @@
 title: 'Meeting 94'
 taxonomy:
     category: docs
-visible: false
+visible: true
 ---
 
 # 19 May 1818
