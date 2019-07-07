@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Flaxman</div>
 
-<span class="title">The Rose of Eden  </span>
+<span class="title">The Rose of Eden</span>
   
 When all was perfect, all serene,  
 This lovely blossom first was seen,  

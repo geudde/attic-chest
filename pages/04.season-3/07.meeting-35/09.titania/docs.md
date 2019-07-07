@@ -13,4 +13,4 @@ The wittiest little girl in town — 
 A *six-line* Valentine — to prove  
 Her friendship, estimation, love —   
 And just to hint that she is loathe  
-***All** Ellen’s love* should go to *Moth*
+***All*** *Ellen’s love* should go to *Moth*

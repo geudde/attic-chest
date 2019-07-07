@@ -20,4 +20,4 @@ Then ask her if ’tis pow’rful Love
 Such ever varying feelings move?  
   
 Quick from her heart, the purple tide will rush  
-The consciousmaid will answer with a *blush!*
+The conscious maid will answer with a *blush!*

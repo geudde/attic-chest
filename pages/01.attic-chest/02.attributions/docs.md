@@ -24,7 +24,7 @@ tntsearch:
 <span class="meeting">No. 2&emsp;(1809-01-10)</span>  
 </div>
 
-[Nor let soft slumber &amp;c](../../season-1/meeting-02/slumbers) →   
+[Nor let soft slumber &amp;c](../../season-1/meeting-02/slumbers) → <span class="grey">&ensp;?</span>    
 [Impromptu on a man of Genius](../../season-1/meeting-02/impromptu) → <span class="name">Mr Parkinson</span>  
 [On Professor Person](../../season-1/meeting-02/impromptu) → <span class="name">Do.</span>   
 [Charades by Person](../../season-1/meeting-02/charades) → <span class="name">Professor Person</span>  
@@ -39,10 +39,10 @@ tntsearch:
 </div>
 
 [Sonnet to a Nightingale](../../season-1/meeting-03/nightingale) → <span class="name">C. Sanders</span>  
-[To St Andrew](../../season-1/meeting-03/andrew) → <span class="name">A. Bower <span class="name">com. Mr. Flaxman</span>  
+[To St Andrew](../../season-1/meeting-03/andrew) → <span class="name">A. Bower, com. Mr. Flaxman</span>  
 [On Hearing a Lady Sing](../../season-1/meeting-03/amiable) → <span class="name">Mr Joseph</span> <span class="alias">(Timanthes)</span>  
 [To Sir John Barrington on His Birthday](../../season-1/meeting-03/barrington) → <span class="name">Mr Porden</span>  
-[The Muses Vagaries cont.](../../season-1/meeting-03/muses) →   
+[The Muses Vagaries cont.](../../season-1/meeting-03/muses) → <span class="grey">&ensp;?</span>    
 [A Riddle](../../season-1/meeting-03/riddle) → <span class="name">com. Mr. Flaxman</span>  
 
 <div class="bottom">
@@ -53,7 +53,7 @@ tntsearch:
 [The Three Kisses](../../season-1/meeting-04/kisses) → <span class="name">Mr Joseph</span>  
 <span class="grey">A Description of Monkey Island → Mr Porden</span>    
 [The Queen Anne St. Ghost](../../season-1/meeting-04/ghost) → <span class="name">Mr Parkinson</span>  
-[The Violet](../../season-1/meeting-04/violet) → <span class="name"> <span class="alias">(Violetta)</span>    
+[The Violet](../../season-1/meeting-04/violet) → <span class="alias">(Violetta)</span>    
 
 <div class="bottom">
 <span class="meeting">No. 5&emsp;(1809-02-21)</span>  
@@ -75,26 +75,26 @@ tntsearch:
 [  &#12291; Under the Queen of Hearts](../../season-1/meeting-05/denman-3) → <span class="name">Miss Porden</span>  
 [  &#12291; Miss Porden “Aid me all ye powers divine”](../../season-1/meeting-05/eleanor) → <span class="name">Mr Porden</span>  
 [  &#12291; Miss Porden “On Ezla’s pleasant banks reclined”](../../season-1/meeting-05/porden-1) → <span class="name">Mr Bond</span>  
-[  &#12291; From Manchester](../../season-1/meeting-05/rosebuds) → <span class="name">&nbsp;</span>  
-[  &#12291; “Though the sweetest vermilion adorn”](../../season-1/meeting-05/vermilion) → <span class="name">&nbsp;</span>  
+[  &#12291; From Manchester](../../season-1/meeting-05/rosebuds) → <span class="grey">&ensp;?</span>    
+[  &#12291; “Though the sweetest vermilion adorn”](../../season-1/meeting-05/vermilion) → <span class="grey">&ensp;?</span>    
 [  &#12291; “An ardent admirer of the Muses”](../../season-1/meeting-05/admirer) → <span class="name">Mr Kay</span>  
-[  &#12291; “See how the feather’d blossoms”](../../season-1/meeting-05/blossoms) → <span class="name">&nbsp;</span>  
+[  &#12291; “See how the feather’d blossoms”](../../season-1/meeting-05/blossoms) → <span class="grey">&ensp;?</span>    
 [  &#12291; “In grim array”](../../season-1/meeting-05/array) → <span class="name">Miss Maria Denman</span>  
 <span class="grey">&#12291; Ellen → Mr Bond</span>  
 <span class="grey">&#12291; Greek → Mr Flaxman</span>  
 [  &#12291; Cupid's Lament](../../season-1/meeting-05/cupids) → <span class="name">Miss Flaxman</span>  
 [  &#12291; With a Pancake](../../season-1/meeting-05/porden-2) → <span class="name">Mr Kay</span>  
-[  &#12291; Account of St Valentine](../../season-1/meeting-05/st-valentine) → <span class="name">&nbsp;</span>  
+[  &#12291; Account of St Valentine](../../season-1/meeting-05/st-valentine) → <span class="grey">&ensp;?</span>    
 [  &#12291; A Tale](../../season-1/meeting-05/tale) → <span class="name">Mr Flaxman and Co.</span>  
-[  &#12291; from Zephyrus](../../season-1/meeting-05/buds) → <span class="name">&nbsp;</span>  
-[  &#12291; from Euphemia](../../season-1/meeting-05/mr-porden-1) → <span class="name">&nbsp;</span>  
+[  &#12291; from Zephyrus](../../season-1/meeting-05/buds) → <span class="grey">&ensp;?</span>    
+[  &#12291; from Euphemia](../../season-1/meeting-05/mr-porden-1) → <span class="grey">&ensp;?</span>    
 [  &#12291; from Dido](../../season-1/meeting-05/mr-porden-2) → <span class="name">Mr Flaxman</span>  
 <span class="grey">&#12291; French → Miss Porden</span>  
-[  &#12291; “The lofty Lily”](../../season-1/meeting-05/lily) → <span class="name"></span>  
-[  &#12291; “Love is a burthen”](../../season-1/meeting-05/care) → <span class="name"></span>  
+[  &#12291; “The lofty Lily”](../../season-1/meeting-05/lily) → <span class="grey">&ensp;?</span>    
+[  &#12291; “Love is a burthen”](../../season-1/meeting-05/care) → <span class="grey">&ensp;?</span>    
 [  &#12291; “Convinced a Married”](../../season-1/meeting-05/married) → <span class="name">com. Miss M’donald</span>  
-[  &#12291; “And canst thou say”](../../season-1/meeting-05/thou-say) → <span class="name">&nbsp;</span>  
-[  &#12291; “Awake sweet girl awake"](../../season-1/meeting-05/sweet-girl) → <span class="name">&nbsp;</span>  
+[  &#12291; “And canst thou say”](../../season-1/meeting-05/thou-say) → <span class="grey">&ensp;?</span>    
+[  &#12291; “Awake sweet girl awake"](../../season-1/meeting-05/sweet-girl) → <span class="grey">&ensp;?</span>    
 [Bellamira Barnacles](../../season-1/meeting-05/eliza) → <span class="name">D. Grant</span>  
 [Valentine Morning](../../season-1/meeting-05/morning) → <span class="name">Mr Kay</span>  
 
@@ -102,7 +102,7 @@ tntsearch:
 <span class="meeting">No. 6&emsp;(1809-03-07)</span>  
 </div>
 
-[The Jarvey](../../season-1/meeting-06/jarvey) → <span class="name">A young Lady</span>  
+[The Jarvey](../../season-1/meeting-06/jarvey) → <span class="alias">(A Young Lady)</span>  
 [The Muses Vagaries No. 3](../../season-1/meeting-06/vagaries) →   
 [Constellation No. 1](../../season-1/meeting-06/constellation-1) → <span class="name">Miss Porden</span>  
 
@@ -166,7 +166,7 @@ tntsearch:
 <span class="meeting">No. 11&emsp;(1809-05-30)</span>  
 </div>
 
-[Impromptu written on the Margate Packet](../../season-1/meeting-11/impromptu) →   
+[Impromptu written on the Margate Packet](../../season-1/meeting-11/impromptu) → <span class="grey">&ensp;?</span>  
 <span class="grey">The Apotheosis → Mr Flaxman</span>  
 [Address to the Clouds on St. Valentine’s Day](../../season-1/meeting-11/clouds) → <span class="name">Miss Porden</span>  
 [Anacreon Ode 1](../../season-1/meeting-11/anacreon-1) → <span class="name">Mr Parkinson</span>  
@@ -212,7 +212,7 @@ tntsearch:
 [History of the Attic Chest](../../season-2/meeting-14/history) → <span class="name">Miss Porden</span>  
 [Christmas Gambols](../../season-2/meeting-14/gambols) → <span class="name">com. Mrs Flaxman</span>  
 [The Fairy’s Wish](../../season-2/meeting-14/wish) → <span class="name">Do.</span> <span class="alias">(Gossamer)</span>  
-[Riddle “Four people sat down at a Tavern to play”](../../season-2/meeting-14/riddle) →    
+[Riddle “Four people sat down at a Tavern to play”](../../season-2/meeting-14/riddle) → <span class="grey">&ensp;?</span>   
 [Dulce Domum](../../season-2/meeting-14/dulce) → <span class="name">Miss Flaxman</span> <span class="alias">(Peregrine)</span>  
 [To a Lost Friend](../../season-2/meeting-14/friend) → <span class="name">Miss Ludlow, com. by Miss Richardson</span>  
 [Anacreontic](../../season-2/meeting-14/anacreontic) → <span class="name">Mr Flaxman</span> <span class="alias">(Anacreonides)</span>  
@@ -234,7 +234,7 @@ tntsearch:
 [Answer to Do.](../../season-2/meeting-15/answer-1) → <span class="name">Mr Porden</span>  
 [Do. by Brownee to Lady Charlotte Durham](../../season-2/meeting-15/answer-2) → <span class="name">Do.</span>  
 [The Wise men of Gotham](../../season-2/meeting-15/gotham) → <span class="name">Do.</span>  
-[Charade: A Kiss](../../season-2/meeting-15/charade) →    
+[Charade: A Kiss](../../season-2/meeting-15/charade) → <span class="grey">&ensp;?</span>   
 [Cupid as Landscape Painter](../../season-2/meeting-15/cupid) → <span class="name">Mr Vignoles</span> <span class="alias">(B.R.)</span>  
 
 <div class="bottom">
@@ -265,7 +265,7 @@ tntsearch:
 [Address to the Muses](../../season-2/meeting-17/muses) → <span class="name">com. Mrs Flaxman</span>  
 [Song Written on Tempestuous Night](../../season-2/meeting-17/song) → <span class="name">com. Mr Henry Thomson</span>  
 [An Invitation to the Reverend Mr Taylor](../../season-2/meeting-17/taylor) → <span class="name">Mr Porden</span>  
-[Translations from the Welsh of Daffyd ap Gwyllym](../../season-2/meeting-17/welsh) →    
+[Translations from the Welsh of Daffyd ap Gwyllym](../../season-2/meeting-17/welsh) → <span class="grey">&ensp;?</span>   
 [Petition to Winter](../../season-2/meeting-17/petition) → <span class="name">Mr Porden</span>  
 [Ambrosine](../../season-2/meeting-17/ambrosine) → <span class="name">com. Miss Porden</span>  
 [Enigma: Pleasure](../../season-2/meeting-17/enigma) → <span class="name">Mrs Hutton</span>  
@@ -281,10 +281,10 @@ tntsearch:
 [Do. to Peregrine](../../season-2/meeting-18/peregrine) → <span class="name">Miss Flaxman</span>  
 [Do. to Ictinus](../../season-2/meeting-18/dido) → <span class="name">Do.</span> <span class="alias">(Dido)</span>  
 [Do. to Hassan](../../season-2/meeting-18/augusta) → <span class="name">Do.</span> <span class="alias">(Augusta Valentina)</span>   
-[Do. to Somebody](../../season-2/meeting-18/somebody) →   
+[Do. to Somebody](../../season-2/meeting-18/somebody) → <span class="grey">&ensp;?</span>  
 [Do. to Roberto](../../season-2/meeting-18/phoebe) → <span class="alias">(Phoebe)</span>  
-[Do. to An Architect](../../season-2/meeting-18/miss-porden) →   
-[Do. to Miss Porden](../../season-2/meeting-18/moth) →   
+[Do. to An Architect](../../season-2/meeting-18/miss-porden) → <span class="grey">&ensp;?</span>  
+[Do. to Miss Porden](../../season-2/meeting-18/moth) → <span class="grey">&ensp;?</span>  
 [Do. to Stella](../../season-2/meeting-18/punch) → <span class="name">Miss Flaxman</span> <span class="alias">(Moth)</span>  
 [Do. to Elorina](../../season-2/meeting-18/wit) → <span class="name">Miss Porden</span> <span class="alias">(Punch)</span>  
 [The Female Emigrations](../../season-2/meeting-18/emigration) → <span class="name">Mr Vignoles</span>
@@ -335,7 +335,7 @@ tntsearch:
 [For Life from the Greek of Metrodorus](../../season-2/meeting-21/for-life) → <span class="name">Do.</span>  
 [The New Broom](../../season-2/meeting-21/broom) → <span class="name">Reverend Mr Cayley</span>  
 [On the Portable Pens](../../season-2/meeting-21/pens) → <span class="name">Mr Bond</span>  
-[Latin Acrostic: Napoleon Buonaparte](../../season-2/meeting-21/acrostic) →   
+[Latin Acrostic: Napoleon Buonaparte](../../season-2/meeting-21/acrostic) → <span class="grey">&ensp;?</span>  
 [The Latin Gerunds: Di Do Dum](../../season-2/meeting-21/gerunds) → <span class="name">com. Miss Flaxman</span>  
 [The Speech of a New Married Man](../../season-2/meeting-21/married-man) → <span class="name">Do.</span>  
 
@@ -357,30 +357,30 @@ tntsearch:
 <span class="meeting">No. 23&emsp;(1810-05-08)</span>  
 </div>
 
-Aruns to Thalestris → <span class="name">com. Mr Vignoles</span>  
-Incognita to 1810 → <span class="name">Miss Flaxman</span>  
-The Dowry → <span class="name">Mr Flaxman</span> <span class="alias">(Fitz Hesiod)</span>  
-The Fop → <span class="name">com. Miss Beslee</span>  
-A Charade: Wanton → <span class="name">Do.</span> <span class="alias">(C.B.)</span>  
-A Fairy Favour for Ellen → <span class="name">Miss Flaxman</span> <span class="alias">(Sprite)</span>  
-Greenwich Hill → <span class="name">Mr Gifford</span> <span class="alias">(Cesareo)</span>  
-The Challenge of Timon → <span class="name">Mr Vignoles</span>
+[Aruns to Thalestris](../../season-2/meeting-23/thalestris) → <span class="name">com. Mr Vignoles</span>  
+[Incognita to 1810](../../season-2/meeting-23/1810) → <span class="name">Miss Flaxman</span>  
+[The Dowry](../../season-2/meeting-23/dowry) → <span class="name">Mr Flaxman</span> <span class="alias">(Fitz Hesiod)</span>  
+[The Fop](../../season-2/meeting-23/fop) → <span class="name">com. Miss Beslee</span>  
+[A Charade: Wanton](../../season-2/meeting-23/charade) → <span class="name">Do.</span> <span class="alias">(C.B.)</span>  
+[A Fairy Favour for Ellen](../../season-2/meeting-23/favour) → <span class="name">Miss Flaxman</span> <span class="alias">(Sprite)</span>  
+[Greenwich Hill](../../season-2/meeting-23/greenwich) → <span class="name">Mr Gifford</span> <span class="alias">(Cesareo)</span>  
+<span class="grey">The Challenge of Timon → Mr Vignoles</span>  
 
 <div class="bottom">
 <span class="meeting">No. 24&emsp;(1810-05-22)</span>  
 </div>
 
-Address to Opis → <span class="name">Miss Flaxman</span> <span class="alias">(Carina)</span>  
-After seeing Florio at a Masquerade → <span class="name">Miss Flaxman</span> <span class="alias">(Clytia)</span>  
-To Lysander → <span class="name">com. by Do.</span> <span class="alias">(Maude)</span>  
-To Incognita by 1810 → <span class="name">com. by Miss Flaxman</span>  
-An Answer to the Challenge of Timon → <span class="name">Miss Flaxman</span>  
-A poetical reply Valiant to Timon and Lysander → <span class="name">Miss Porden</span> <span class="alias">(Camilla)</span>  
-Charade: Waterman → <span class="name">com. Miss Flaxman</span> <span class="alias">(C.J.F.)</span>  
-Enigma → <span class="name">com. Mr Vignoles</span> <span class="alias">(S.A.W.)</span>  
-To Her I Love → <span class="name">com. Miss Richardson</span>  
-The Love Fit, a Rhapsody → <span class="name">com. Mr Henry Thomson</span>  
-Roscius, the Peer, and His Taylor → <span class="name">Do.</span>  
+[Address to Opis](../../season-2/meeting-24/address) → <span class="name">Miss Flaxman</span> <span class="alias">(Carina)</span>  
+[After seeing Florio at a Masquerade](../../season-2/meeting-24/florio) → <span class="name">Miss Flaxman</span> <span class="alias">(Clytia)</span>  
+[To Lysander](../../season-2/meeting-24/lysander) → <span class="name">com. by Do.</span> <span class="alias">(Maude)</span>  
+[To Incognita by 1810](../../season-2/meeting-24/incognita) → <span class="name">com. by Miss Flaxman</span>  
+[An Answer to the Challenge of Timon](../../season-2/meeting-24/timon) → <span class="name">Miss Flaxman</span>  
+[A poetical reply Valiant to Timon and Lysander](../../season-2/meeting-24/reply) → <span class="name">Miss Porden</span> <span class="alias">(Camilla)</span>  
+[Charade: Waterman](../../season-2/meeting-24/charade) → <span class="name">com. Miss Flaxman</span> <span class="alias">(C.J.F.)</span>  
+[Enigma](../../season-2/meeting-24/eniga) → <span class="name">com. Mr Vignoles</span> <span class="alias">(S.A.W.)</span>  
+[To Her I Love](../../season-2/meeting-24/to-her) → <span class="name">com. Miss Richardson</span>  
+[The Love Fit, a Rhapsody](../../season-2/meeting-24/love-fit) → <span class="name">com. Mr Henry Thomson</span>  
+[Roscius, the Peer, and His Tailor](../../season-2/meeting-24/roscius) → <span class="name">Do.</span>  
 
 <div class="bottom">
 <span class="meeting">No. 25&emsp;(1810-06-05)</span>  
@@ -389,235 +389,236 @@ Roscius, the Peer, and His Taylor → <span class="name">Do.</span>
 <span class="grey">A melting Effusion to a Candle snuffer too low → com. Mr Flaxman</span>  
 <span class="grey">Farewell to Anna → Miss Flaxman</span>  
 
-<span class="red">[missing]</span>
+<span class="missing">MISSING</span>
 
 <div class="bottom">
 <span class="meeting">No. 26&emsp;(1810-06-19)</span>  
 </div>
 
-<span class="red">[missing]</span>
+<span class="missing">MISSING</span>
     
 <div class="bottom">
 <span class="meeting">No. 27&emsp;(1810-07-03)</span>  
 </div>
 
-The Sequel →   
-A Dialogue →  
-Answer to a Riddle →  
-Charade by C.J.F. Answered →  
-Lines Given to a Young Lady →  
-On Wit and Humor →  
-The Plighted Lady →    
-The Rape of the Veil →   
-Announcement →  
+[The Sequel](../../season-2/meeting-27/sequel) → <span class="grey">&ensp;?</span>  
+[A Dialogue](../../season-2/meeting-27/dialogue) → <span class="grey">&ensp;?</span>   
+[Answer to a Riddle](../../season-2/meeting-27/answer) → <span class="grey">&ensp;?</span>   
+[Charade by C.J.F. Answered](../../season-2/meeting-27/charade-answered) → <span class="grey">&ensp;?</span>   
+[Lines Given to a Young Lady](../../season-2/meeting-27/lines) → <span class="grey">&ensp;?</span>   
+[On Wit and Humor](../../season-2/meeting-27/wit) → <span class="grey">&ensp;?</span>   
+[The Plighted Lady](../../season-2/meeting-27/plighted-lady) → <span class="grey">&ensp;?</span>   
+[The Rape of the Veil](../../season-2/meeting-27/rape) → <span class="grey">&ensp;?</span>  
+[Announcement](../../season-2/meeting-27/announcement) → <span class="grey">&ensp;?</span>   
 
 <div class="bottom">
 <span class="meeting">No. 28&emsp;(1810-07-14)</span>  
 </div>
 
-Editorial →   
-Woman’s Last Word →   
-Song →   
-A Simple and Pathetic Tale →   
-Taper Soup →   
-The Lady’s Lament →   
-The Complaint of the Sylphs →   
-Epistle to a Lady →   
-The Attic Chest to Her Respected Friends →   
-The Spirit’s Farewell →   
-To Miss Porden on Her Birthday →   
-No Sign Portentous →   
-Acknowledgements →   
+[Woman’s Last Word](../../season-2/meeting-28/word) → <span class="grey">&ensp;?</span>  
+[Song](../../season-2/meeting-28/song) → <span class="grey">&ensp;?</span>  
+[A Simple and Pathetic Tale](../../season-2/meeting-28/tale) → <span class="grey">&ensp;?</span>  
+[Taper Soup](../../season-2/meeting-28/taper) → <span class="grey">&ensp;?</span>  
+[The Lady’s Lament](../../season-2/meeting-28/lament) → <span class="grey">&ensp;?</span>  
+[The Complaint of the Sylphs](../../season-2/meeting-28/complaint) → <span class="grey">&ensp;?</span>  
+[Epistle to a Lady](../../season-2/meeting-28/epistle) → <span class="grey">&ensp;?</span>  
+[The Attic Chest to Her Respected Friends](../../season-2/meeting-28/attic-chest) → <span class="grey">&ensp;?</span>  
+[The Spirit’s Farewell](../../season-2/meeting-28/spirit) → <span class="grey">&ensp;?</span>  
+[To Miss Porden on Her Birthday](../../season-2/meeting-28/birthday) → <span class="grey">&ensp;?</span>  
+[No Sign Portentous](../../season-2/meeting-28/sign) → <span class="grey">&ensp;?</span>  
+[Acknowledgements](../../season-2/meeting-28/acknowledgements) → <span class="grey">&ensp;?</span>  
 
 <div class="bottom">
 <span class="meeting">No. 29&emsp;(1810-11-20)</span>  
 </div>
 
-The Complaint of the Members  → <span class="name">Mr Vignoles</span>  
-An Attic Garland → <span class="name">Miss Flaxman</span>  
-Invocation to the Muses → <span class="name">Miss Porden</span>  
-Vox Planetarum → <span class="name">Mrs Flaxman</span>  
-Acrostic, on the Death of Princess Amelia → <span class="name">Mr Vignoles</span>  
-Elegy, on the Death of Princess Amelia → <span class="name">Miss Porden</span>  
-Charade: Denham →    
-Specimens of Elegant Writing → <span class="name">Mr Flaxman</span>  
+[The Complaint of the Members](../../season-3/meeting-29/complaint) → <span class="name">Mr Vignoles</span>  
+[An Attic Garland](../../season-3/meeting-29/garland) → <span class="name">Miss Flaxman</span>  
+[Invocation to the Muses](../../season-3/meeting-29/invocation) → <span class="name">Miss Porden</span>  
+[Vox Planetarum](../../season-3/meeting-29/vox) → <span class="name">Mrs Flaxman</span>  
+[Acrostic, on the Death of Princess Amelia](../../season-3/meeting-29/acrostic) → <span class="name">Mr Vignoles</span>  
+[Elegy, on the Death of Princess Amelia](../../season-3/meeting-29/elegy) → <span class="name">Miss Porden</span>  
+[Charade: Denham](../../season-3/meeting-29/charade) → <span class="grey">&ensp;?</span>   
+[Specimens of Elegant Writing](../../season-3/meeting-29/specimens) → <span class="name">Mr Flaxman</span>  
 
 <div class="bottom">
 <span class="meeting">No. 30&emsp;(1810-12-05)</span>  
 </div>
 
-Love and a Cottage  → <span class="name">com. Miss Flaxman</span>  
-An Anagrammatical Charade: Porden → <span class="name">Miss Flaxman</span>  
-Nine Lines in Apology for Eight → <span class="name">Miss Flaxman</span>  
-Song to the Air Waly, Waly → <span class="name">Mrs Flaxman</span>  
-The Old Philosophical Enigma Unriddled → <span class="name">com. Mrs Flaxman</span>  
-The Foxes Caught in Their Own Trap → <span class="name">Miss Porden</span>  
-Extract from the Preface to the Chronicle of the Cid → <span class="name">com. Mr Porden</span>  
+[Love and a Cottage](../../season-3/meeting-30/cottage)  → <span class="name">com. Miss Flaxman</span>  
+[An Anagrammatical Charade: Porden](../../season-3/meeting-30/charade) → <span class="name">Miss Flaxman</span>  
+[Nine Lines in Apology for Eight](../../season-3/meeting-30/lines) → <span class="name">Miss Flaxman</span>  
+[Song to the Air Waly, Waly](../../season-3/meeting-30/song) → <span class="name">Mrs Flaxman</span>  
+[The Old Philosophical Enigma Unriddled](../../season-3/meeting-30/enigma) → <span class="name">com. Mrs Flaxman</span>  
+[The Foxes Caught in Their Own Trap](../../season-3/meeting-30/foxes) → <span class="name">Miss Porden</span>  
+[Extract from the Preface to the Chronicle of the Cid](../../season-3/meeting-30/chronicle) → <span class="name">com. Mr Porden</span>  
 
 <div class="bottom">
 <span class="meeting">No. 31&emsp;(1810-12-18)</span>  
 </div>
 
-The Queen and Her Three Daughters  →    
-On the Summary of Alchemy → <span class="name">com. Mrs Flaxman</span>  
-An Attempt to Delineate a Character → <span class="name">com. Miss Richardson</span>  
-On Phosphorus → <span class="name">Miss Porden</span>  
-The Fop’s Distress → <span class="name">Miss Porden</span>  
-The Primrose of December → <span class="name">Miss Sanders</span>  
-On Miss Peacock, Lady Mayoress of York → <span class="name">Mr Flaxman</span>  
-On Junius, from Dr. Johnson → <span class="name">com. Mr Porden</span>  
-On Seeing a Mouse Run across the Road → <span class="name">com. Mrs Porden</span>  
-Ode to a Pig, while His nose Was boring → <span class="name">com. Mr Vignoles</span>  
+[The Queen and Her Three Daughters](../../season-3/meeting-31/queen) → <span class="grey">&ensp;?</span>   
+[On the Summary of Alchemy](../../season-3/meeting-31/alchemy) → <span class="name">com. Mrs Flaxman</span>  
+[An Attempt to Delineate a Character](../../season-3/meeting-31/character) → <span class="name">com. Miss Richardson</span>  
+[On Phosphorus](../../season-3/meeting-31/phosphorus) → <span class="name">Miss Porden</span>  
+[The Fop’s Distress](../../season-3/meeting-31/fop) → <span class="name">Miss Porden</span>  
+[The Primrose of December](../../season-3/meeting-31/primrose) → <span class="name">Miss Sanders</span>  
+[On Miss Peacock, Lady Mayoress of York](../../season-3/meeting-31/peacock) → <span class="name">Mr Flaxman</span>  
+[On Junius, from Dr. Johnson](../../season-3/meeting-31/junius) → <span class="name">com. Mr Porden</span>  
+[On Seeing a Mouse Run across the Road](../../season-3/meeting-31/mouse) → <span class="name">com. Mrs Porden</span>  
+[Ode to a Pig, while his nose was boring](../../season-3/meeting-31/pig) → <span class="name">com. Mr Vignoles</span>  
 
 <div class="bottom">
 <span class="meeting">No. 32&emsp;(1811-01-15)</span>  
 </div>
 
-Elegy, on the Death of 1810 → <span class="name">Miss Porden</span>  
-Lord Edward, a Ballad → <span class="name">Mr Flaxman</span>  
-Query, to an Ingenious and Experienced Friend → <span class="name">Miss Flaxman</span>  
-Reply → <span class="name">com. Miss Flaxman</span>  
-French Epitaph and Letter → <span class="name">Mrs Kay</span>  
-To Memory → <span class="name">Miss F. Richardson</span>  
-Cauld Kale → <span class="name">Mrs Staveley</span>  
-Description of a Conversazione → <span class="name">Mr Vignoles</span>  
-The Tapster → <span class="name">com. Mr Vignoles</span>  
-Introduction to a Lady's Poetical Miscellany → <span class="name">com. Miss Beslee</span>  
+[Elegy, on the Death of 1810](../../season-3/meeting-32/elegy) → <span class="name">Miss Porden</span>  
+[Lord Edward, a Ballad](../../season-3/meeting-32/edward) → <span class="name">Mr Flaxman</span>  
+[Query, to an Ingenious and Experienced Friend](../../season-3/meeting-32/query) → <span class="name">Miss Flaxman</span>  
+[Reply](../../season-3/meeting-32/reply) → <span class="name">com. Miss Flaxman</span>  
+[French Epitaph and Letter](../../season-3/meeting-32/epitaph) → <span class="name">Mrs Kay</span>  
+[To Memory](../../season-3/meeting-32/memory) → <span class="name">Miss F. Richardson</span>  
+[Cauld Kale](../../season-3/meeting-32/kale) → <span class="name">Mrs Staveley</span>  
+[Description of a Conversazione](../../season-3/meeting-32/conversazione) → <span class="name">Mr Vignoles</span>  
+[The Tapster](../../season-3/meeting-32/tapster) → <span class="name">com. Mr Vignoles</span>  
+[Introduction to a Lady's Poetical Miscellany](../../season-3/meeting-32/introduction) → <span class="name">com. Miss Beslee</span>  
 
 <div class="bottom">
 <span class="meeting">No. 33&emsp;(1811-01-30)</span>  
 </div>
 
-First Attic Meeting in the Year 1811 → <span class="name">Miss Flaxman</span>  
-The New Year → <span class="name">Mrs Richardson</span>  
-Sonnet from Petrarch, on the Death of Laura → <span class="name">Mr Vignoles</span>  
-Cupid Turned Shepherd, from Tasso’s Amynta → <span class="name">Mr Vignoles</span>  
-The Pious Painter, a Catholic Story → <span class="name">com. Mr Vignoles</span>  
-To the Author of the Stanzas to Memory → <span class="name">Miss Porden</span>  
-Translation from Alcaeus → <span class="name">Mr Flaxman</span>  
-Since Phosphorus was the Name of Yore → <span class="name">Miss Porden</span>  
-Grecian Anecdotes → <span class="name">com. Mrs Flaxman</span>  
-Ornaments of Dress → <span class="name">Miss Porden</span>  
-Vox Stellarum concluded → <span class="name">Miss Porden</span>  
+[First Attic Meeting in the Year 1811](../../season-3/meeting-33/first) → <span class="name">Miss Flaxman</span>  
+[The New Year](../../season-3/meeting-33/new-year) → <span class="name">Mrs Richardson</span>  
+[Sonnet from Petrarch, on the Death of Laura](../../season-3/meeting-33/sonnet) → <span class="name">Mr Vignoles</span>  
+[Cupid Turned Shepherd, from Tasso’s Amynta](../../season-3/meeting-33/cupid) → <span class="name">Mr Vignoles</span>  
+[The Pious Painter, a Catholic Story](../../season-3/meeting-33/painter) → <span class="name">com. Mr Vignoles</span>  
+[To the Author of the Stanzas to Memory](../../season-3/meeting-33/author) → <span class="name">Miss Porden</span>  
+[Translation from Alcaeus](../../season-3/meeting-33/alcaeus) → <span class="name">Mr Flaxman</span>  
+[Since Phosphorus was the Name of Yore](../../season-3/meeting-33/phosphorus) → <span class="name">Miss Porden</span>  
+[Grecian Anecdotes](../../season-3/meeting-33/anecdotes) → <span class="name">com. Mrs Flaxman</span>  
+[Ornaments of Dress](../../season-3/meeting-33/ornaments) → <span class="name">Miss Porden</span>  
+[Vox Stellarum concluded](../../season-3/meeting-33/vox) → <span class="name">Miss Porden</span>  
 <span class="grey">The Sylphiad Canto 1st → Mr Vignoles</span>  
 
 <div class="bottom">
 <span class="meeting">No. 34&emsp;(1811-02-12)</span>  
 </div>
 
-Sunrise → <span class="name">Miss Sanders</span>  
-Tell Me Sweet One, Tell Me Why → <span class="name">Miss Flaxman</span>  
-Say Love, What Master Shows Thy Art → <span class="name"> com. Mr Vignoles</span>  
-You Ask Me Why with So Much Care → <span class="name">Miss Flaxman</span>  
-To Miranda → <span class="name">Miss Porden</span>  
-Antique at Paris → <span class="name">com. Mrs F. Mellish</span>  
-Epigram on the Chinese Astronomers Ho and Hi → <span class="name">com. Mr Vignoles</span>  
-Valentine’s Day Anticipated → <span class="name">Miss Richardson</span> <span class="alias">(L.I.F.)</span>  
-Prose and Verse, signed Jess Macfarland → <span class="name">Mrs Staveley</span>  
-Charade: Housewife → <span class="name">com. Miss Beslee</span>  
+[Sunrise](../../season-3/meeting-34/sunrise) → <span class="name">Miss Sanders</span>  
+[Tell Me Sweet One, Tell Me Why](../../season-3/meeting-34/sweet) → <span class="name">Miss Flaxman</span>  
+[Say Love, What Master Shows Thy Art](../../season-3/meeting-34/love) → <span class="name"> com. Mr Vignoles</span>  
+[You Ask Me Why with So Much Care](../../season-3/meeting-34/ask) → <span class="name">Miss Flaxman</span>  
+[To Miranda](../../season-3/meeting-34/miranda) → <span class="name">Miss Porden</span>  
+[Antiques at Paris](../../season-3/meeting-34/antiques) → <span class="name">com. Mrs F. Mellish</span>  
+[Epigram on the Chinese Astronomers Ho and Hi](../../season-3/meeting-34/epigram) → <span class="name">com. Mr Vignoles</span>  
+[Valentine’s Day Anticipated](../../season-3/meeting-34/valentine) → <span class="name">Miss Richardson</span> <span class="alias">(L.I.F.)</span>  
+[Prose and Verse](../../season-3/meeting-34/prose) → <span class="name">Mrs Staveley</span> <span class="alias">Jess Macfarland</span> 
+[Charade: Housewife](../../season-3/meeting-34/charade) → <span class="name">com. Miss Beslee</span>  
 <span class="grey">The Restoration Cantos 1 and 2 → Miss Porden</span>   
 
 <div class="bottom">
 <span class="meeting">No. 35&emsp;(1811-02-26)</span>  
 </div>
 
-The Graces → <span class="name"> Mr Bond</span> <span class="alias">(Ictinus)</span>  
-To Ictinus → <span class="name">Miss Porden</span> <span class="alias">(Euphrosyne)</span>  
-To Euphrosyne → <span class="name"> Mr Bond</span> <span class="alias">(Ictinus)</span>  
-The Pencil and the Pen → <span class="name">com. Miss Denman</span> <span class="alias">(Pencilina)</span>  
-The Pen’s Remonstrance → <span class="name">Miss Porden</span> <span class="alias">(Plumina)</span>  
-To Plumina → <span class="name">com. Miss Denman</span> <span class="alias">(Pencilina)</span>  
-To Miss E.A.P. → <span class="name">com. Miss Denman</span>  
-To Ellen → <span class="name">Mrs Flaxman</span> <span class="alias">(Titania)</span>  
-To Titania from Ellen → <span class="name">Miss Porden</span>  
-To Stella → <span class="name">Miss Flaxman</span> <span class="alias">(Moth)</span>  
-To Moth → <span class="name">Mrs F. and Miss P.</span> <span class="alias">(Stella)</span>  
-To Maria, on the expiration of the mourning Feb 14 1811 → <span class="name">Miss Porden</span>  
-The Oyster to His Valentine → <span class="name">Mr Bond</span>  
-To Miss M. D. → <span class="name">Miss Porden</span>  
-On a Young Lady’s Thanking the Author for a Valentine → <span class="name">Miss Porden</span>  
-The Linnets, an Elegy for Valentines Day → <span class="name">Miss Sanders</span>  
-The Fiery Element Personified → <span class="name">com. Mr Vignoles & Mr Sheridan</span>  
-The Reply to “Say Love What Master” → <span class="name">Miss Porden</span>  
+[The Graces](../../season-3/meeting-35/graces) → <span class="name"> Mr Bond</span> <span class="alias">(Ictinus)</span>  
+[To Ictinus](../../season-3/meeting-35/ictinus) → <span class="name">Miss Porden</span> <span class="alias">(Euphrosyne)</span>  
+[To Euphrosyne](../../season-3/meeting-35/priestess) → <span class="name"> Mr Bond</span> <span class="alias">(Ictinus)</span>  
+[The Pencil and the Pen](../../season-3/meeting-35/pencil) → <span class="name">com. Miss Denman</span> <span class="alias">(Pencilina)</span>  
+[The Pen’s Remonstrance](../../season-3/meeting-35/plumina) → <span class="name">Miss Porden</span> <span class="alias">(Plumina)</span>  
+[To Plumina](../../season-3/meeting-35/eap) → <span class="name">com. Miss Denman</span> <span class="alias">(Pencilina)</span>  
+[To Miss E.A.P.](../../season-3/meeting-35/graces) → <span class="name">com. Miss Denman</span>  
+[To Ellen](../../season-3/meeting-35/titania) → <span class="name">Mrs Flaxman</span> <span class="alias">(Titania)</span>  
+[To Titania from Ellen](../../season-3/meeting-35/ellen) → <span class="name">Miss Porden</span>  
+[To Stella](../../season-3/meeting-35/stella) → <span class="name">Miss Flaxman</span> <span class="alias">(Moth)</span>  
+[To Moth](../../season-3/meeting-35/moth) → <span class="name">Mrs F. and Miss P.</span> <span class="alias">(Stella)</span>  
+[To Maria, on the expiration of the mourning Feb 14 1811](../../season-3/meeting-35/maria) → <span class="name">Miss Porden</span>  
+[The Oyster to His Valentine](../../season-3/meeting-35/oyster) → <span class="name">Mr Bond</span>  
+[To Miss M. D.](../../season-3/meeting-35/miss-md) → <span class="name">Miss Porden</span>  
+[On a Young Lady’s Thanking the Author for a Valentine](../../season-3/meeting-35/lady) → <span class="name">Miss Porden</span>  
+[The Linnets, an Elegy for Valentines Day](../../season-3/meeting-35/linnets) → <span class="name">Miss Sanders</span>  
+[The Fiery Element Personified](../../season-3/meeting-35/fiery) → <span class="name">com. Mr Vignoles & Mr Sheridan</span>  
+[The Reply to “Say Love What Master”](../../season-3/meeting-35/reply) → <span class="name">Miss Porden</span>  
 <span class="grey">The Sylphiad Canto 2nd → Mr Vignoles</span>  
 <span class="grey">The Restoration Canto 3rd → Miss Porden</span>  
-To Miss F. “Where anything abounds” →   
+[To Miss F. “Where anything abounds”](../../season-3/meeting-35/miss-f) → <span class="grey">&ensp;?</span>  
 
 <div class="bottom">
 <span class="meeting">No. 36&emsp;(1811-03-12)</span>  
 </div>
 
-The Subpoena of the Muses → <span class="name">Mr Vignoles</span>  
-The Claim Withdrawn → <span class="name">Miss Flaxman</span>  
-Epistle from a Baker → <span class="name">com. Mr Porden</span>  
-Acrostic to Eliza → <span class="name"> Mr Vignoles</span>  
-Supplication of Timothy Couplet Esq. → <span class="name">Miss Flaxman</span>  
-Attic Nomenclature → <span class="name">Miss Flaxman</span>  
-Address to Poetry → <span class="name">com. Miss Beslee Mr Verralls</span>  
-The Restoration Canto 4th, Canto 1st Book 2nd → <span class="name">Miss Porden</span>  
-Solution of an Enigma → <span class="name">Miss Flaxman</span>  
-Answer to the Morning Herald → <span class="name">Miss Flaxman</span>  
-The Rose of Eden → <span class="name">Miss Flaxman</span>  
-Answer to the Enigma → <span class="name">Miss Porden</span>  
+[The Subpoena of the Muses](../../season-3/meeting-36/subpoena) → <span class="name">Mr Vignoles</span>  
+[The Claim Withdrawn](../../season-3/meeting-36/claim) → <span class="name">Miss Flaxman</span>  
+[Epistle from a Baker](../../season-3/meeting-36/baker) → <span class="name">com. Mr Porden</span>  
+[Acrostic to Eliza](../../season-3/meeting-36/acrostic) → <span class="name"> Mr Vignoles</span>  
+[Supplication of Timothy Couplet Esq.](../../season-3/meeting-36/supplication) → <span class="name">Miss Flaxman</span>  
+[Attic Nomenclature](../../season-3/meeting-36/nomenclature) → <span class="name">Miss Flaxman</span>  
+[Address to Poetry](../../season-3/meeting-36/address) → <span class="name">com. Miss Beslee Mr Verralls</span>  
+<span class="grey">The Restoration Canto 4th, Canto 1st Book 2nd → Miss Porden</span>  
+[Solution of an Enigma](../../season-3/meeting-36/solution) → <span class="name">Miss Flaxman</span>  
+[Answer to the Morning Herald](../../season-3/meeting-36/answer-1) → <span class="name">Miss Flaxman</span>  
+[The Rose of Eden](../../season-3/meeting-36/subpoena) → <span class="name">Miss Flaxman</span>  
+[Answer to the Enigma](../../season-3/meeting-36/answer-2) → <span class="name">Miss Porden</span>  
+[To the Editors](../../season-3/meeting-36/editors) → <span class="name">Sarah Richardson</span>
 
 <div class="bottom">
 <span class="meeting">No. 37&emsp;(1811-03-26)</span>  
 </div>
 
-The Lazy Foot → <span class="name">Mrs Richardson</span>  
-<span class="grey">The Protestation  → Miss Flaxman</span>  
-Sonnets to the Swallows of 1809 → <span class="name">Miss Porden</span>  
-Verses to a Young Lady → <span class="name">Mr Combe</span>  
-To the Author of the Acrostic, to Eliza → <span class="name">Miss Porden</span>  
-Song from a Friend to His Wife → <span class="name">com. Mrs Flaxman</span>  
-To Celia → <span class="name">Miss Porden</span>  
-A New Pot Pourri → <span class="name">Miss Richardson</span> <span class="alias">(L.I.F.)</span>  
-Expectation → <span class="name">Miss Sanders</span>  
-The Cambrian Advertisement → <span class="name">com. Miss Porden</span>  
+<span class="grey">The Lazy Foot → Mrs Richardson</span>  
+<span class="grey">The Protestation → Miss Flaxman</span>  
+[Swallows on their Arrival 1809](../../season-3/meeting-37/arrival) → <span class="name">Miss Porden</span>  
+[Swallows on their Departure 1809](../../season-3/meeting-37/departure) → <span class="name">Miss Porden</span>
+[Verses to a Young Lady](../../season-3/meeting-37/lady) → <span class="name">Mr Combe</span>  
+[To the Author of the Acrostic, to Eliza](../../season-3/meeting-37/serl) → <span class="name">Miss Porden</span>  
+[Song from a Friend to His Wife](../../season-3/meeting-37/song) → <span class="name">com. Mrs Flaxman</span>  
+[To Celia](../../season-3/meeting-37/celia) → <span class="name">Miss Porden</span>  
+[A New Pot Pourri](../../season-3/meeting-37/pourri) → <span class="name">Miss Richardson</span> <span class="alias">(L.I.F.)</span>  
+[Expectation](../../season-3/meeting-37/expectation) → <span class="name">Miss Sanders</span>  
+[The Cambrian Advertisement](../../season-3/meeting-37/cambrian) → <span class="name">com. Miss Porden</span>  
 <span class="grey">The Restoration Book 2d Canto 2d → Miss Porden</span>  
 
 <div class="bottom">
 <span class="meeting">No. 38&emsp;(1811-04-09)</span>  
 </div>
 
-Vox Musarum → <span class="name">Miss Sanders</span>  
-“When the Cause Has Been Heard” → <span class="name">Mr Vignoles</span>  
-The Proxies → <span class="name">Miss Flaxman</span>  
-Mercury to Mars → <span class="name"> Miss Richardson</span> <span class="alias">(L.I.F.)</span>  
-To Celia → <span class="name">Miss Porden</span>  
-The Fall of Hercules → <span class="name">Miss Sanders</span>  
-The Three Suitors → <span class="name">Miss Porden</span>  
-The Restoration Book 2d Canto 3d → <span class="name">Miss Porden</span>  
+[Vox Musarum](../../season-3/meeting-38/vox) → <span class="name">Miss Sanders</span>  
+[“When the Cause Has Been Heard”](../../season-3/meeting-38/cause) → <span class="name">Mr Vignoles</span>  
+[The Proxies](../../season-3/meeting-38/proxies) → <span class="name">Miss Flaxman</span>  
+[Mercury to Mars](../../season-3/meeting-38/mercury) → <span class="name"> Miss Richardson</span> <span class="alias">(L.I.F.)</span>  
+[To Celia](../../season-3/meeting-38/celia) → <span class="name">Miss Porden</span>  
+[The Fall of Hercules](../../season-3/meeting-38/hercules) → <span class="name">Miss Sanders</span>  
+[The Three Suitors](../../season-3/meeting-38/suitors) → <span class="name">Miss Porden</span>  
+<span class="grey">The Restoration Book 2d Canto 3d → Miss Porden</span>  
 
 <div class="bottom">
 <span class="meeting">No. 39&emsp;(1811-04-23)</span>  
 </div>
 
-The Convict → <span class="name">com. Mr Vignoles</span>  
-Ode on a College Feast Day → <span class="name">com. Mr Vignoles</span>  
-To Maria → <span class="name">Miss Porden</span>  
-The Resolve → <span class="name">Mr Vignoles</span>  
-The Widow → <span class="name">com. Mr Vignoles</span>  
+[The Convict](../../season-3/meeting-39/convict) → <span class="name">com. Mr Vignoles</span>  
+[Ode on a College Feast Day](../../season-3/meeting-39/ode) → <span class="name">com. Mr Vignoles</span>  
+[To Maria](../../season-3/meeting-39/maria) → <span class="name">Miss Porden</span>  
+[The Resolve](../../season-3/meeting-39/resolve) → <span class="name">Mr Vignoles</span>  
+[The Widow](../../season-3/meeting-39/widow) → <span class="name">com. Mr Vignoles</span>  
 <span class="grey">On Hearing the Proxies Read → Miss Porden</span>  
-Cupid’s Birthday → <span class="name">Miss Porden</span>  
-Shelton Oak → <span class="name">com. Mr Vignoles</span>  
-Letter to My Wife → <span class="name">com. Miss Beslee</span>  
-The Restoration Book 2d Canto 4th → <span class="name">Miss Porden</span>  
-Enigma to be Solved by the Ladies → <span class="name">com. Miss E. Richardson</span>  
-Do Not Swear at All → <span class="alias">(H.)</span>
+[Cupid’s Birthday](../../season-3/meeting-39/cupid) → <span class="name">Miss Porden</span>  
+[Shelton Oak](../../season-3/meeting-39/oak) → <span class="name">com. Mr Vignoles</span>  
+[Letter to My Wife](../../season-3/meeting-39/letter) → <span class="name">com. Miss Beslee</span>  
+<span class="grey">The Restoration Book 2d Canto 4th → Miss Porden</span>  
+[Enigma to be Solved by the Ladies](../../season-3/meeting-39/enigma) → <span class="name">com. Miss E. Richardson</span>  
+[Do Not Swear at All](../../season-3/meeting-39/swear) → <span class="alias">(H.)</span>
 
 <div class="bottom">
 <span class="meeting">No. 40&emsp;(1811-05-07)</span>  
 </div>
 
-To May → <span class="name">Miss Porden</span>  
-Description of a River → <span class="name">com. Mrs Flaxman</span>  
-Mira’s Despair → <span class="name">com. Mr Vignoles</span>  
-Epitaph on Douglas Duke of Hamilton → <span class="name">Mr Jekyll, com. Mrs Staveley</span>  
-Graeme of Balgowan, The Hero of Barrosa → <span class="name">com. Mrs Staveley</span>  
-Most Haste, Worst Speed → <span class="name">Miss Porden</span>  
-The Dream → <span class="name">Miss Flaxman</span>  
-“The Day Draws Near” → <span class="name">Mrs Flaxman</span>  
+[To May](../../season-3/meeting-40/may) → <span class="name">Miss Porden</span>  
+[Description of a River](../../season-3/meeting-40/river) → <span class="name">com. Mrs Flaxman</span>  
+[Mira’s Despair](../../season-3/meeting-40/mira) → <span class="name">com. Mr Vignoles</span>  
+[Epitaph on Douglas Duke of Hamilton](../../season-3/meeting-40/epitaph) → <span class="name">Mr Jekyll, com. Mrs Staveley</span>  
+<span class="grey">Graeme of Balgowan, The Hero of Barrosa → com. Mrs Staveley</span>  
+[Most Haste, Worst Speed](../../season-3/meeting-40/haste) → <span class="name">Miss Porden</span>  
+[The Dream](../../season-3/meeting-40/dream) → <span class="name">Miss Flaxman</span>  
+[“The Day Draws Near”](../../season-3/meeting-40/day) → <span class="name">Mrs Flaxman</span>  
 <span class="grey">The Sylphiad Canto 3d → Mr Vignoles</span>  
 <span class="grey">Translation from the Greek → Miss Porden</span>  
 <span class="grey">“Believe Me Love” → com. Miss Richardson</span>  
@@ -626,25 +627,27 @@ The Dream → <span class="name">Miss Flaxman</span>
 <span class="meeting">No. 41&emsp;(1811-05-21)</span>  
 </div>
 
-To Moth, from Stella → <span class="name">Miss Porden</span>  
-To Stella, from Moth → <span class="name">Miss Flaxman</span>  
-Effusions on My Husband’s Birthday → <span class="name">com. Miss F. Richardson</span>  
-Charade: Farewell → <span class="name">Lord Palmerston, com. Mrs. S</span>  
-“If Hope Is to Gild Future Days” → <span class="name">Miss Richardson</span>  
-On the 1st May, Lord Wellington’s Birthday → <span class="name">com. Mrs Flaxman & Mr Hayley</span>  
-A Free Translation of One of Buondelmonte’s Sonnets → <span class="name">Mrs Flaxman</span>  
-The Mouse and the Oyster → <span class="name">com. Mr Vignoles</span>  
-The Restoration Book 3d Cantos 1st and 2d → <span class="name">Miss Porden</span>  
+[From the Greek of Oudeis](../../season-3/meeting-41/oudeis) → <span class="name">Miss Porden</span> <span data-tippy="omitted from original list" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[Believe Me Love](../../season-3/meeting-41/believe) → <span class="name">com. Miss Richardson</span> <span data-tippy="omitted from original list" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[To Moth, from Stella](../../season-3/meeting-41/moth) → <span class="name">Miss Porden</span>  
+[To Stella, from Moth](../../season-3/meeting-41/stella) → <span class="name">Miss Flaxman</span>  
+[Effusions on My Husband’s Birthday](../../season-3/meeting-41/husband) → <span class="name">com. Miss F. Richardson</span>  
+[Charade: Farewell](../../season-3/meeting-41/charade) → <span class="name">Lord Palmerston, com. Mrs. S</span>  
+[“If Hope Is to Gild Future Days”](../../season-3/meeting-41/hope) → <span class="name">Miss Richardson</span>  
+[On the 1st May, Lord Wellington’s Birthday](../../season-3/meeting-41/wellington) → <span class="name">com. Mrs Flaxman & Mr Hayley</span>  
+[A Free Translation of One of Buondelmonte’s Sonnets](../../season-3/meeting-41/translation) → <span class="name">Mrs Flaxman</span>  
+[The Mouse and the Oyster](../../season-3/meeting-41/mouse) → <span class="name">com. Mr Vignoles</span>  
+<span class="grey">The Restoration Book 3d Cantos 1st and 2d → Miss Porden</span>  
 
 <div class="bottom">
 <span class="meeting">No. 42&emsp;(1811-06-04)</span>  
 </div>
 
-Sonnet Written in the Favorite Chair of Dean Swift → <span class="name">com. Miss Beslee</span>  
-The Author’s Address to His Muse → <span class="name">com. Miss F. Richardson</span>  
-Familiar Epistle to a Daughter → <span class="name">com. Miss Beslee</span> <span class="red">(incomplete)</span>  
-The Hern → <span class="name">com. Mr Porden</span>  
-To a Lady Distinguished by Her Dutiful Attention → <span class="name">com. Mr Porden</span>  
+[Sonnet Written in the Favorite Chair of Dean Swift](../../season-3/meeting-42/swift) → <span class="name">com. Miss Beslee</span>  
+[The Author’s Address to His Muse](../../season-3/meeting-42/address) → <span class="name">com. Miss F. Richardson</span>  
+[Familiar Epistle to a Daughter](../../season-3/meeting-42/epistle) → <span class="name">com. Miss Beslee</span> <span class="red">(incomplete)</span>  
+[The Hern](../../season-3/meeting-42/hern) → <span class="name">com. Mr Porden</span>  
+[To a Lady Distinguished by Her Dutiful Attention](../../season-3/meeting-42/lady) → <span class="name">com. Mr Porden</span>  
 <span class="grey">The Sylphiad Canto 4th → Mr Vignoles</span>  
 <span class="grey">The Restoration Book 3d Cantos 3 and 4 → Miss Porden</span>  
 
@@ -652,11 +655,11 @@ To a Lady Distinguished by Her Dutiful Attention → <span class="name">com. Mr 
 <span class="meeting">No. 43&emsp;(1811-06-18)</span>  
 </div>
 
-The Morning Was Fine → <span class="name">Miss Porden</span>  
-The Captive Lover’s Epistle → <span class="name">Miss Flaxman</span>  
-Days of Yore → <span class="name">Miss F. Richardson</span>  
-Music, Feeling, and Palpitation → <span class="name">Mr Hinckley</span>  
-Alamon Tippenny → <span class="name">Miss F. Richardson</span>  
+[The Morning Was Fine](../../season-3/meeting-43/morning) → <span class="name">Miss Porden</span>  
+[The Captive Lover’s Epistle](../../season-3/meeting-43/epistle) → <span class="name">Miss Flaxman</span>  
+[Days of Yore](../../season-3/meeting-43/days) → <span class="name">Miss F. Richardson</span>  
+[Music, Feeling, and Palpitation](../../season-3/meeting-43/music) → <span class="name">Mr Hinckley</span>  
+[Alamon Tippenny](../../season-3/meeting-43/alamon) → <span class="name">Miss F. Richardson</span>  
 <span class="grey">The Sylphiad Canto 5th → Mr Vignoles</span>  
 <span class="grey">The Restoration Book 3d Canto 3 and 4 → Miss Porden</span>  
 
@@ -664,49 +667,49 @@ Alamon Tippenny → <span class="name">Miss F. Richardson</span>
 <span class="meeting">No. 44&emsp;(1811-07-02)</span>  
 </div>
 
-A Few Rules for Becoming a Popular Writer → <span class="name">com. Miss Flaxman</span>  
-A Nursery Song → <span class="name">Mr Porden</span>  
-Verses Written on the Door of a Rustic Temple → <span class="name">com. Mr Porden</span>  
-A Nuptial Song → <span class="name">Miss Flaxman</span>  
-To Anna “Forget Me Not” → <span class="name">Miss Flaxman</span>  
-The Lawyer’s Ramble → <span class="name">Miss Porden</span>  
-“Nestling on the Barren Cliffs” → <span class="name">Mr Watson</span>  
-Sonnet to Expression → <span class="name">com. Mr Vignoles</span>  
+[A Few Rules for Becoming a Popular Writer](../../season-3/meeting-44/rules) → <span class="name">com. Miss Flaxman</span>  
+[A Nursery Song](../../season-3/meeting-44/nursery) → <span class="name">Mr Porden</span>  
+[Verses Written on the Door of a Rustic Temple](../../season-3/meeting-44/door) → <span class="name">com. Mr Porden</span>  
+[A Nuptial Song](../../season-3/meeting-44/nuptial) → <span class="name">Miss Flaxman</span>  
+[To Anna “Forget Me Not”](../../season-3/meeting-44/anna) → <span class="name">Miss Flaxman</span>  
+[The Lawyer’s Ramble](../../season-3/meeting-44/lawyers) → <span class="name">Miss Porden</span>  
+[“Nestling on the Barren Cliffs”](../../season-3/meeting-44/nestling) → <span class="name">Mr Watson</span>  
+[Sonnet to Expression](../../season-3/meeting-44/sonnet) → <span class="name">com. Mr Vignoles</span>  
 <span class="grey">The Restoration Book 4 Canto 3 → Miss Porden</span>
 
 <div class="bottom">
 <span class="meeting">No. 45&emsp;(1811-07-16)</span>  
 </div>
  
-To Miss Porden → <span class="name">Mr Vignoles</span> <span class="alias">(Amicusa)</span>  
-“When Stella Waves This Little Wand”  → <span class="name">Miss Flaxman</span>  
-“Let Others Sing of Deeds of Arms” → <span class="name">Mrs Staveley</span>  
-“The Norland Lassies’ Lament” → <span class="name">Mrs Staveley</span>  
-“Oft I’ve Implored” → <span class="name">Mrs Flaxman</span> <span class="alias">(Amica)</span>  
-“When Ammon’s Mighty Son Arose” → <span class="name">Mr Flaxman</span>  
-“Said Hymen to Cupid” → <span class="name">Miss Vardill</span>  
-To Moth, on Her Birthday → <span class="name">Miss Porden</span>  
-Au Revoir → <span class="name">Miss Flaxman</span>  
-Blue Beard → <span class="name">Miss F. Richardson</span>  
-“Hail to the Nymph” → <span class="name">Mr Kay</span>  
-Letter Proposing the Decoration of the Attic Chest → <span class="name">Mrs Kay</span>  
+[To Miss Porden](../../season-3/meeting-45/eleanor) → <span class="name">Mr Vignoles</span> <span class="alias">(Amicusa)</span>  
+[“When Stella Waves This Little Wand”](../../season-3/meeting-45/wand)  → <span class="name">Miss Flaxman</span>  
+[“Let Others Sing of Deeds of Arms”](../../season-3/meeting-45/deeds) → <span class="name">Mrs Staveley</span>  
+[“The Norland Lassies’ Lament”](../../season-3/meeting-45/norland) → <span class="name">Mrs Staveley</span>  
+[“Oft I’ve Implored”](../../season-3/meeting-45/implored) → <span class="name">Mrs Flaxman</span> <span class="alias">(Amica)</span>  
+[“When Ammon’s Mighty Son Arose”](../../season-3/meeting-45/ammon) → <span class="name">Mr Flaxman</span>  
+[“Said Hymen to Cupid”](../../season-3/meeting-45/hymen) → <span class="name">Miss Vardill</span>  
+[To Moth, on Her Birthday](../../season-3/meeting-45/moth) → <span class="name">Miss Porden</span>  
+[Au Revoir](../../season-3/meeting-45/au-revoir) → <span class="name">Miss Flaxman</span>  
+[Blue Beard](../../season-3/meeting-45/bluebeard) → <span class="name">Miss F. Richardson</span>  
+[“Hail to the Nymph”](../../season-3/meeting-45/nymph) → <span class="name">Mr Kay</span>  
+[Letter Proposing the Decoration of the Attic Chest](../../season-3/meeting-45/letter) → <span class="name">Mrs Kay</span>  
 <span class="grey">Restoration Book 4th Canto 4 → Miss Porden</span>  
 
 <div class="bottom">
 <span class="meeting">No. 46&emsp;(1812-01-08)</span>  
 </div>
 
-To the Attorney of God Mars → <span class="name">Mr Vignoles</span>  
-Now Ruddy Autumn → <span class="name">Miss Porden</span>  
-To Amanda → <span class="name">Miss Porden</span> <span class="alias">(Donald)</span>  
-To Papilia → <span class="name">Miss Porden</span> <span class="alias">(Chrysalis)</span>  
-Verses on the New Year → <span class="name">Mr Vignoles</span>  
-The Comet → <span class="name">Miss Porden</span>  
-The Fairest Blossom of the North → <span class="name">Miss Porden</span> <span class="alias">(Orlando)</span>  
-Alas What Tale → <span class="name">Miss Porden</span>  
-The Meeting → <span class="name">Miss Vardill</span>  
-Letter to the Editor → <span class="name">Miss Porden</span>  
-The First Book of the Restoration → <span class="name">Miss Porden</span>  
+[To the Attorney of God Mars](../../season-4/meeting-46/attorney) → <span class="name">Mr Vignoles</span>  
+[Now Ruddy Autumn](../../season-4/meeting-46/autumn) → <span class="name">Miss Porden</span>  
+[To Amanda](../../season-4/meeting-46/amanda) → <span class="name">Miss Porden</span> <span class="alias">(Donald)</span>  
+[To Papilia](../../season-4/meeting-46/papilia) → <span class="name">Miss Porden</span> <span class="alias">(Chrysalis)</span>  
+[Verses on the New Year](../../season-4/meeting-46/verses) → <span class="name">Mr Vignoles</span>  
+[The Comet](../../season-4/meeting-46/comet) → <span class="name">Miss Porden</span>  
+[The Fairest Blossom of the North](../../season-4/meeting-46/blossom) → <span class="name">Miss Porden</span> <span class="alias">(Orlando)</span>  
+[Alas What Tale](../../season-4/meeting-46/tale) → <span class="name">Miss Porden</span>  
+[The Meeting](../../season-4/meeting-46/meeting) → <span class="name">Miss Vardill</span>  
+[Letter to the Editor](../../season-4/meeting-46/letter) → <span class="name">Miss Porden</span>  
+<span class="grey">The First Book of the Restoration → Miss Porden</span>  
 
 
 <div class="bottom">
@@ -910,7 +913,7 @@ Fredrick Ledger Scamper do. → <span class="name">Mr Elliott</span>
 <span class="grey">Enigma → Miss Vardill</span>
 To my Husband → <span class="name">Miss Vardill</span>  
 Remorse → <span class="name">Miss Vardill</span>  
-Rebus → com. <span class="name">Miss Flaxman</span> <span class="alias">(Sphinx)</span>  
+Rebus → <span class="name">com. Miss Flaxman</span> <span class="alias">(Sphinx)</span>  
 To Miss Porden → <span class="name">Mrs Richardson</span> <span class="alias">(S.R.)</span>  
 For the Album of a Friend → <span class="name">Miss Sanders</span> <span class="alias">(Recluse)</span>  
 The Distressed Traveller → <span class="name">com. Miss F. Richardson</span>  
@@ -964,9 +967,9 @@ Lines to a Young Friend → <span class="name">Miss Richardson</span>
 Do. spoken extempore → <span class="name">com. Miss Beslee</span>  
 <span data-tippy="Page Missing: Tentative Attributions" class="red">[&ensp;.&ensp;.&ensp;.&ensp;]</span>  
 Jeffrey Julep to the Editor → <span class="grey">Miss Vardill</span>  
-Spring →   
+Spring → <span class="grey">&ensp;?</span>  
 Justice → <span class="grey">Mr Porden</span> <span class="alias">(Atticus Scriblerus)</span>  
-The Grot → 
+The Grot → <span class="grey">&ensp;?</span>  
 
 <div class="bottom">
 <span class="meeting">No. 64&emsp;(1813-06-09)</span>  
@@ -980,13 +983,13 @@ Dr Cardamom to the Editor → <span class="grey">Miss Vardill</span>
 Anonymous No. 3 → <span class="grey">Mr Vignoles</span>  
 Letter from Electromagus → <span class="grey">Mr Vignoles</span>  
 The Art of Driving → <span class="grey">Mr Elliott</span>  
-The Menagerie of the Gods →   
+The Menagerie of the Gods → <span class="grey">&ensp;?</span>  
 How d’ye Do → <span class="grey">Miss Richardson</span>  
-Goblet → 
+Goblet → <span class="grey">&ensp;?</span>  
 The Night before the Battle → <span class="grey">Miss Vardill</span>  
 To Eliza → <span class="grey">Miss Porden</span>  
-Lines Composed on a Mail Coach →   
-Anacreontic →  
+Lines Composed on a Mail Coach → <span class="grey">&ensp;?</span>  
+Anacreontic → <span class="grey">&ensp;?</span>    
 
 <div class="bottom">
 <span class="meeting">No. 65&emsp;(1813-06-23)</span>  
@@ -1138,7 +1141,7 @@ Vale, by Mr Freemantle → com. Mrs Richardson
 Sir Pertinax Townly containing → Miss Porden  
 “When Norway’s Monarch knelt to gain” → Miss Vardill  
 Electromagus on Heat → Miss Porden  
-Estrella Mr Beauclerc’s Prize Essay → Miss Porden [[INCOMPLETE]]   
+Estrella Mr Beauclerc’s Prize Essay → Miss Porden <span class="red">(incomplete)</span>   
 <span class="grey">Letter from Prosai Poetico → Miss Vardill</span>  
 <span class="grey">The 6th Brother’s Tale → Miss Vardill</span>  
 <span class="grey">Advertisement of the Hermits for the 7th Brother → Miss Vardill</span>  
@@ -1208,8 +1211,7 @@ Closing address from the Hermitage → Miss Vardill
 
 
 
-???? [[MISSING]]
-
+<span data-tippy="text missing" class="red">[...]</span>
 The Reading Baker → Miss Porden  
 The 13th of June → Miss Vardill  
 Letter from Mr Prosai Poetico → Miss Vardill  
@@ -1333,7 +1335,7 @@ A Muse Found → Miss Vardill
 500 Lines →  Miss Vardill  
 Part of Allah ul Din →  com. Mr Porden  
 Lavinia to Eliza Letter 4 Account of St Maur → Miss Porden and Mr Elliott   
-Praise of the Literary Fund →   
+Praise of the Literary Fund → <span class="grey">&ensp;?</span>  
 Impromptu with the pen of a lady → Mr Elliott  
 Comte Leandre a L’Editresse → Mr Elliott  
 The Power of Love → Mr Elliott  
