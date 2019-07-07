@@ -19,4 +19,4 @@ As common sense and fashion (still more powerfully) forbid ceremony and complime
 Your most faithful, humble  
 and devoted servant.
 
-A.&hairsp;G.&hairsp;Pxxxx
+A.&hairsp;G.&hairsp;P<sup>xxxx</sup>
