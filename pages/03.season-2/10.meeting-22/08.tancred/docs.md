@@ -27,6 +27,4 @@ Is woman’s love of *universal sway!!*
 If I might *venture* to approach so near  
 To whisper *softly* in the fair-one’s ear,  
 
----
-
-<span class="red">Page(s) missing</span>
+<span class="missing">MISSING</span> [<i class="fa fa-question-circle" aria-hidden="true"></i>](../../../attic-chest/transcription#missing)

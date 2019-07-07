@@ -139,4 +139,4 @@ And science mourns her martyrs. Love too weeps
 For not her lonely lamp Pilatre’s breast  
 Illumin’d wholly; other flames aspired
 
-<span class="red">Page(s) Missing</span>
+<span class="missing">MISSING</span>

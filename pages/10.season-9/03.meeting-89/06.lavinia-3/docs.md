@@ -58,7 +58,7 @@ I like the arrangements of the tombs under this church tho’ I could not feel m
 
 We returned to Notre Dame for the procession, making our way with some difficulty thro’ the crowd, and the National Guard. We were indeed indebted
 
-<span data-tippy="corrupt image file" class="red">Text Missing</span>
+<span class="missing">MISSING</span>
 
 for the birth of Rousseau. Next came the bodyguard of Monsieur who followed and after him the whole of the Royal Family except the King — but the anxiety to see the Duchesse de Berri was so great we could hardly get a peep. After these came what appears to answer to our law and city officers &c. We got out as soon as we could, not wishing to wait the return of the procession and made our way with great difficulty thro’ a solid mass of people, streaming on both sides of the Quay. Some of these gave us great proofs of the politeness of Parisian mobs. We saw plenty of Gens d’Armerie, a sort of mounted Bow Street Officers. I do not much like their looks nor those of the National Guard. The uniforms of the Body Guard of the King and of Monsieur are very handsome and they look like what they are — gentlemen noblesse. All the others have something farouche about them.  
 

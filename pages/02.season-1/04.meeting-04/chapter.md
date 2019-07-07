@@ -16,6 +16,6 @@ visible: true
 6. [The Muses Vagaries Continued](muses)
 7. [A Riddle](riddle)
 8. [The Three Kisses](kisses)
-9. <span data-tippy="Missing" class="red">A Description of Monkey Island</span>
+9. <span data-tippy="Missing" class="grey">A Description of Monkey Island</span>
 10. [The Queen Ann Street Ghost](ghost)
 11. [The Violet](violet)
