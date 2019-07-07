@@ -716,14 +716,14 @@ tntsearch:
 <span class="meeting">No. 47&emsp;(1812-01-22)</span>  
 </div>
 
-To Complaint → <span class="name">Mrs Flaxman</span> <span class="alias">(A Novitiate)</span>  
-The Lamentation of the Alderman → <span class="name">Miss Porden</span> <span class="alias">(Phagophilus)</span>  
-The Unhappy Soldier’s Last Watch → <span class="name">Miss Flaxman</span>  
-Annie’s Bower → <span class="name">Miss Flaxman</span>  
-To Moth → <span class="name">Miss Porden</span> <span class="alias">(Stella)</span>  
-To Stella → <span class="name">Miss Flaxman</span> <span class="alias">(Moth)</span>  
-From Brighton to London → <span class="name">Miss Vardill</span>  
-The Second Book of the Restoration → <span class="name">Miss Porden</span>
+[The Complaint](../../season-4/meeting-47/complaint) → <span class="name">Mrs Flaxman</span> <span class="alias">(A Novitiate)</span>  
+[The Lamentation of the Aldermen](../../season-4/meeting-47/aldermen) → <span class="name">Miss Porden</span> <span class="alias">(Phagophilus)</span>  
+[The Unhappy Soldier’s Last Watch](../../season-4/meeting-47/soldier) → <span class="name">Miss Flaxman</span>  
+[Annie’s Bower](../../season-4/meeting-47/annie) → <span class="name">Miss Flaxman</span>  
+[To Moth](../../season-4/meeting-47/moth) → <span class="name">Miss Porden</span> <span class="alias">(Stella)</span>  
+[To Stella](../../season-4/meeting-47/answer) → <span class="name">Miss Flaxman</span> <span class="alias">(Moth)</span>  
+[From Brighton to London](../../season-4/meeting-47/brighton) → <span class="name">Miss Vardill</span>  
+<span class="grey">The Second Book of the Restoration → Miss Porden</span>
 
 <div class="bottom">
 <span class="meeting">No. 48&emsp;(1812-02-08)</span>  
