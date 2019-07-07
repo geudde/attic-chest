@@ -17,5 +17,6 @@ visible: true
 7. [Not in a Lover’s Humble Strains](strains)
 8. [To Stella](stella)
 9. [Enigmatical Valentine](enigmatical)
-10. [Answer to the Advertisement](answer-1)
-11. [Answer to the Advertisement](answer-2)
+10. [Valentine](valentine)
+11. [Answer to the Advertisement No. 1](answer-1)
+12. [Answer to the Advertisement No. 2](answer-2)

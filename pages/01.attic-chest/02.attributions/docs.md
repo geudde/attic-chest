@@ -729,31 +729,32 @@ tntsearch:
 <span class="meeting">No. 48&emsp;(1812-02-08)</span>  
 </div>
 
-Love and Wine → <span class="name">Mr Hinckley</span>  
-The Frown and the Smile → <span class="name">Miss Vardill</span> <span class="alias">(Donald)</span>  
-The Receipt in Full → <span class="name">Miss Flaxman</span>  
-Yes Once I Met Her Downcast Eyes → <span class="alias">(J.P.L.)</span>  
-Wanted Immediately → <span class="name">Miss Porden</span> <span class="alias">(Miss Brown)</span>  
-Rondeau → <span class="name">com. Mr Vignoles</span> <span class="alias">(Anti-Fisty)</span>  
-The Remonstrance → <span class="name">Miss Thomson</span>  
-Alterations in the Uniform → <span class="name">Miss Porden</span>  
-Letter to the Editor → <span class="name">Miss Porden</span> <span class="alias">(Alopex)</span>  
+[Love and Wine](../../season-4/meeting-48/love) → <span class="name">Mr Hinckley</span>  
+[The Frown and the Smile](../../season-4/meeting-48/frown) → <span class="name">Miss Vardill</span> <span class="alias">(Donald)</span>  
+[The Receipt in Full](../../season-4/meeting-48/receipt) → <span class="name">Miss Flaxman</span>  
+[Yes Once I Met Her Downcast Eyes](../../season-4/meeting-48/song) → <span class="alias">(J.P.L.)</span>  
+[Wanted Immediately](../../season-4/meeting-48/wanted) → <span class="name">Miss Porden</span> <span class="alias">(Miss Brown)</span>  
+[Rondeau](../../season-4/meeting-48/rondeau) → <span class="name">com. Mr Vignoles</span> <span class="alias">(Anti-Fisty)</span>  
+[The Remonstrance](../../season-4/meeting-48/remonstrance) → <span class="name">Miss Thomson</span>  
+[Alterations in the Uniform](../../season-4/meeting-48/uniform) → <span class="name">Miss Porden</span>  
+[Letter to the Editor](../../season-4/meeting-48/letter) → <span class="name">Miss Porden</span> <span class="alias">(Alopex)</span>  
 <span class="grey">The Third Book of the Restoration → Miss Porden</span>
 
 <div class="bottom">
 <span class="meeting">No. 49&emsp;(1812-02-19)</span>  
 </div>
 
-When First by Gentle Ouse → <span class="name">Miss Vardill</span> <span class="alias">(Thief)</span>  
-To Mary → <span class="name">Miss Porden</span> <span class="alias">(Amyntor)</span>  
-Forgive Sweet Maid → <span class="name">Miss Porden</span>  
-A New Song to an Old Tune → <span class="name">Govr Franklin</span>  
-When My Bright Ellen → <span class="name">com. Miss Brown</span>  
-Not in a Lover’s Humble Strains → <span class="name">com. Miss Vardill</span>  
-To Stella → <span class="name">Miss Flaxman</span> <span class="alias">(Moth)</span>  
-Enigmatical Valentine → <span class="name">Miss Vardill</span>  
-Valentine → <span class="name">Miss Porden</span>  
-Answer to the Advertisement → <span class="name">Miss Vardill</span> <span class="alias">(A.G.P.)</span>  
+[When First by Gentle Ouse](../../season-4/meeting-49/ouse) → <span class="name">Miss Vardill</span> <span class="alias">(Thief)</span>  
+[To Mary](../../season-4/meeting-49/mary) → <span class="name">Miss Porden</span> <span class="alias">(Amyntor)</span>  
+[Forgive Sweet Maid](../../season-4/meeting-49/maid) → <span class="name">Miss Porden</span>  
+[A New Song to an Old Tune](../../season-4/meeting-49/song) → <span class="name">Govr Franklin</span>  
+[When My Bright Ellen](../../season-4/meeting-49/ellen) → <span class="name">com. Miss Brown</span>  
+[Not in a Lover’s Humble Strains](../../season-4/meeting-49/strains) → <span class="name">com. Miss Vardill</span>  
+[To Stella](../../season-4/meeting-49/stella) → <span class="name">Miss Flaxman</span> <span class="alias">(Moth)</span>  
+[Enigmatical Valentine](../../season-4/meeting-49/enigmatical) → <span class="name">Miss Vardill</span>  
+[Valentine](../../season-4/meeting-49/valentine) → <span class="name">Miss Porden</span>  
+[Answer to the Advertisement No. 1](../../season-4/meeting-49/answer-1) → <span class="name">Miss Vardill</span> <span class="alias">(A.G.P.)</span>  
+[Answer to the Advertisement No. 2](../../season-4/meeting-49/answer-2) → <span class="name">Miss Porden</span> <span class="alias">(Alopex)</span> 
 <span class="grey">The Fourth Book of the Restoration → Miss Porden</span>
 
 <div class="bottom">
