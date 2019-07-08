@@ -627,8 +627,8 @@ tntsearch:
 <span class="meeting">No. 41&emsp;(1811-05-21)</span>  
 </div>
 
-[From the Greek of Oudeis](../../season-3/meeting-41/oudeis) → <span class="name">Miss Porden</span> <span data-tippy="omitted from original list" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
-[Believe Me Love](../../season-3/meeting-41/believe) → <span class="name">com. Miss Richardson</span> <span data-tippy="omitted from original list" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[From the Greek of Oudeis](../../season-3/meeting-41/oudeis) → <span class="name">Miss Porden</span> <span data-tippy="Not included in original list" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[Believe Me Love](../../season-3/meeting-41/believe) → <span class="name">com. Miss Richardson</span> <span data-tippy="Not included in original list" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [To Moth, from Stella](../../season-3/meeting-41/moth) → <span class="name">Miss Porden</span>  
 [To Stella, from Moth](../../season-3/meeting-41/stella) → <span class="name">Miss Flaxman</span>  
 [Effusions on My Husband’s Birthday](../../season-3/meeting-41/husband) → <span class="name">com. Miss F. Richardson</span>  
@@ -752,7 +752,7 @@ tntsearch:
 [Not in a Lover’s Humble Strains](../../season-4/meeting-49/strains) → <span class="name">com. Miss Vardill</span>  
 [To Stella](../../season-4/meeting-49/stella) → <span class="name">Miss Flaxman</span> <span class="alias">(Moth)</span>  
 [Enigmatical Valentine](../../season-4/meeting-49/enigmatical) → <span class="name">Miss Vardill</span>  
-[Valentine](../../season-4/meeting-49/valentine) → <span class="name">Miss Porden</span> <span data-tippy="omitted from original list" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[Valentine](../../season-4/meeting-49/valentine) → <span class="name">Miss Porden</span> <span data-tippy="Not included in original list" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [Answer to the Advertisement](../../season-4/meeting-49/answer-1) → <span class="name">Miss Vardill</span> <span class="alias">(A.G.P.)</span>  
 [Answer to the Advertisement](../../season-4/meeting-49/answer-2) → <span class="name">Miss Porden</span> <span class="alias">(Alopex)</span> 
 <span class="grey">The Fourth Book of the Restoration → Miss Porden</span>
@@ -868,7 +868,7 @@ tntsearch:
 [Blessed be the Eye](../../season-4/meeting-57/eye) → <span class="name">Miss Vardill</span>  
 [Ode for the Concluding Night](../../season-4/meeting-57/ode) → <span class="name">Mr Elliott</span>  
 [Adieu my Patrons](../../season-4/meeting-57/patrons) → <span class="name">Miss Porden</span>  
-[To the Editress](../../season-4/meeting-57/filiosa) → <span class="alias">(Filiosa)</span> <span data-tippy="omitted from original list" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+[To the Editress](../../season-4/meeting-57/filiosa) → <span class="alias">(Filiosa)</span> <span data-tippy="Not included in original list" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
 <div class="bottom">
 <span class="meeting">No. 58&emsp;(1813-03-17)</span>  
@@ -913,7 +913,7 @@ tntsearch:
 [Allcourt Anyside to the Associated Spinsters do.](../../season-5/meeting-60/allcourt)  → <span class="name">Governor Franklin</span>  
 [Croesus Custody to the Editress](../../season-5/meeting-60/croesus) → <span class="name">Mr Elliott</span>  
 [Fredrick Ledger Scamper do.](../../season-5/meeting-60/scamper) → <span class="name">Mr Elliott</span>  
-<span class="grey">Enigma](../../season-5/meeting-60/nettletop) → Miss Vardill</span>
+<span class="grey">Enigma → Miss Vardill</span>
 [To my Husband](../../season-5/meeting-60/husband) → <span class="name">Miss Vardill</span>  
 [Remorse](../../season-5/meeting-60/remorse) → <span class="name">Miss Vardill</span>  
 [Rebus](../../season-5/meeting-60/rebus) → <span class="name">com. Miss Flaxman</span> <span class="alias">(Sphinx)</span>  
@@ -980,53 +980,54 @@ tntsearch:
 
 <span class="missing">MISSING</span> <span data-tippy="Acknowledgement page not scanned. Tentative attributions" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
-Kitty Maltravers to the Editor → <span class="grey">Miss Vardill</span>  
-Mr Julep’s Memorandums → <span class="grey">Miss Vardill</span>  
-Fragment Found in the Hermitage → <span class="grey">Miss Vardill</span>  
-Dr Cardamom to the Editor → <span class="grey">Miss Vardill</span>  
-Anonymous No. 3 → <span class="grey">Mr Vignoles</span>  
-Letter from Electromagus → <span class="grey">Mr Vignoles</span>  
-The Art of Driving → <span class="grey">Mr Elliott</span>  
-The Menagerie of the Gods → <span class="grey">&ensp;?</span>  
-How d’ye Do → <span class="grey">Miss Richardson</span>  
-Goblet → <span class="grey">&ensp;?</span>  
-The Night before the Battle → <span class="grey">Miss Vardill</span>  
-To Eliza → <span class="grey">Miss Porden</span>  
-Lines Composed on a Mail Coach → <span class="grey">&ensp;?</span>  
-Anacreontic → <span class="grey">&ensp;?</span>    
+[Kitty Maltravers to the Editor](../../season-5/meeting-64/kitty) → <span class="grey">Miss Vardill</span>  
+[Mr Julep’s Memorandums](../../season-5/meeting-64/julep) → <span class="grey">Miss Vardill</span>  
+[Fragment Found in the Hermitage](../../season-5/meeting-64/fragment) → <span class="grey">Miss Vardill</span>  
+[Dr Cardamom to the Editor](../../season-5/meeting-64/cardamom) → <span class="grey">Miss Vardill</span>  
+[Anonymous No. 3](../../season-5/meeting-64/anonymous) → <span class="grey">Mr Vignoles</span>  
+[Letter from Electromagus](../../season-5/meeting-64/electromagus) → <span class="grey">Mr Vignoles</span>  
+[The Art of Driving](../../season-5/meeting-64/driving) → <span class="grey">Mr Elliott</span>  
+[The Menagerie of the Gods](../../season-5/meeting-64/menagerie) → <span class="grey">&ensp;?</span>  
+[How d’ye Do](../../season-5/meeting-64/editress) → <span class="grey">Miss Richardson</span>  
+[Goblet](../../season-5/meeting-64/goblet) → <span class="grey">&ensp;?</span>  
+[The Night before the Battle](../../season-5/meeting-64/battle) → <span class="grey">Miss Vardill</span>  
+[To Eliza](../../season-5/meeting-64/eliza) → <span class="grey">Miss Porden</span>  
+[Lines Composed on a Mail Coach](../../season-5/meeting-64/coach) → <span class="grey">&ensp;?</span>  
+[Anacreontic](../../season-5/meeting-64/anacreontic) → <span class="grey">&ensp;?</span>    
 
 <div class="bottom">
 <span class="meeting">No. 65&emsp;(1813-06-23)</span>  
 </div>
 
-Kitty Maltravers to the Editor → <span class="name">Miss Vardill</span>  
-Letter from Lady Belle Bluemantle → <span class="name">Miss Vardill</span>  
-The Dissolution Pt 1st → <span class="name">Miss Porden</span> <span class="alias">(Euphrosyne)</span>  
-Atticus Scriblerus to Editor → <span class="name">Mr Elliott</span>  
-Specimen of Art of Cooking → <span class="name">Mr Elliott</span>  
-Lysander to Hermia → <span class="name">Miss Flaxman</span>  
-“Dash from Thy Lip” → <span class="name">Miss Richardson</span>  
-Song for a Festive Occasion → <span class="name">Miss Vardill</span>  
-The Boulanger → com. <span class="name">Mr E. Elliott</span>  
-Liberty → <span class="name">Mr Elliott</span>  
-<span class="grey">Critical Trialogue →</span> 
+[Kitty Maltravers to the Editor](../../season-5/meeting-65/kitty) → <span class="name">Miss Vardill</span>  
+[Letter from Lady Belle Bluemantle](../../season-5/meeting-65/belle) → <span class="name">Miss Vardill</span>  
+[The Dissolution Pt 1st](../../season-5/meeting-65/dissolution) → <span class="name">Miss Porden</span> <span class="alias">(Euphrosyne)</span>  
+[Atticus Scriblerus to Editor](../../season-5/meeting-65/atticus) → <span class="name">Mr Elliott</span>  
+[Specimen of Art of Cooking](../../season-5/meeting-65/cookery) → <span class="name">Mr Elliott</span>  
+[Lysander to Hermia](../../season-5/meeting-65/hermia) → <span class="name">Miss Flaxman</span>  
+[“Dash from Thy Lip”](../../season-5/meeting-65/answer) → <span class="name">Miss Richardson</span>  
+[Song for a Festive Occasion](../../season-5/meeting-65/song) → <span class="name">Miss Vardill</span>  
+[The Boulanger](../../season-5/meeting-65/boulanger) → <span class="name">com. Mr E. Elliott</span>  
+[Liberty](../../season-5/meeting-65/liberty) → <span class="name">Mr Elliott</span>  
+<span class="grey">Critical Trialogue → ?</span> 
 
 <div class="bottom">
 <span class="meeting">No. 66&emsp;(1813-07-14)</span>  
 </div>
 
-Michael Mitre to the Editor → <span class="name">Mr Flaxman &amp; Miss Vardill</span>  
-Kitty Maltravers to the Headeater → <span class="name">Miss Flaxman</span>  
-The Dissolution → <span class="name">Miss Porden</span>  
-The Invisible Cap → <span class="name">Miss Vardill</span>  
-Song Written in 1773 → <span class="name">Mr Porden</span>  
-Epistle → <span class="name">com. Miss Beslee</span>  
-Lines to Miss Porden → <span class="name">Miss F. Richardson</span>  
-Letter to the Editor → <span class="name">Mr Elliott</span>  
-The Recantation → <span class="name">Mr Elliott</span>  
-Romaic Fragment → <span class="name">Mr Flaxman</span>  
-The Attic Chest’s Farewell Address → <span class="name">Miss Porden</span>  
-Letter from Affezionatissima to Editress → <span class="name">Mrs Kay</span> 
+[Michael Mitre to the Editor](../../season-5/meeting-66/mitre) → <span class="name">Mr Flaxman &amp; Miss Vardill</span>  
+[Kitty Maltravers to the Headeater](../../season-5/meeting-66/kitty) → <span class="name">Miss Flaxman</span>  
+[The Dissolution](../../season-5/meeting-66/dissolution) → <span class="name">Miss Porden</span>  
+[The Invisible Cap](../../season-5/meeting-66/cap) → <span class="name">Miss Vardill</span>  
+[Song Written in 1773](../../season-5/meeting-66/song) → <span class="name">Mr Porden</span>  
+[Epistle](../../season-5/meeting-66/epistle) → <span class="name">com. Miss Beslee</span>  
+[Lines to Miss Porden](../../season-5/meeting-66/lines) → <span class="name">Miss F. Richardson</span>  
+[Letter to the Editor](../../season-5/meeting-66/letter) → <span class="name">Mr Elliott</span>  
+[The Recantation](../../season-5/meeting-66/recantation) → <span class="name">Mr Elliott</span>  
+[The Rendezvous](../../season-5/meeting-66/rendezvous) → <span class="name">Miss Vardill</span> <span data-tippy="Not included in original list" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span> 
+[Romaic Fragment](../../season-5/meeting-66/fragment) → <span class="name">Mr Flaxman</span>  
+[The Attic Chest’s Farewell Address](../../season-5/meeting-66/farewell) → <span class="name">Miss Porden</span>  
+[Letter from Affezionatissima to Editress](../../season-5/meeting-66/editress) → <span class="name">Mrs Kay</span> 
 
 <div class="bottom">
 <span class="meeting">No. 67&emsp;(1814-02-22) Tuesday</span>  
