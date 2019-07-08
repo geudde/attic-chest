@@ -12,19 +12,19 @@ tntsearch:
 <span class="meeting">No. 1&emsp;(1808-12-27)</span>
 </div>
 
-[On the Study of Ancient Architecture &amp;c.](../../season-1/meeting-01/architecture) → <span class="name">com. Mr Flaxman</span>  
+[On the Study of Ancient Architecture &c.](../../season-1/meeting-01/architecture) → <span class="name">com. Mr Flaxman</span>  
 [To Maria](../../season-1/meeting-01/maria) → <span class="grey">&ensp;?</span>  
 [On the Conscription of the Student of Gottingen](../../season-1/meeting-01/gottingen) → <span class="name">Miss Porden</span>  
 [Love and the Nymphs](../../season-1/meeting-01/nymphs) → <span class="name">Mr Kilburn</span> <span class="alias">(Hassan)</span>   
 [An Apology for a Valentine](../../season-1/meeting-01/apology) → <span class="name">Miss Flaxman</span>  
 [Anacreontic Valentine](../../season-1/meeting-01/anacreontic) → <span class="name">Mr Bond</span>  
-[Goodby &amp; how d’ye do](../../season-1/meeting-01/goodbye) → <span class="name">com. Mr. Flaxman</span>
+[Goodby & how d’ye do](../../season-1/meeting-01/goodbye) → <span class="name">com. Mr. Flaxman</span>
   
 <div class="bottom">
 <span class="meeting">No. 2&emsp;(1809-01-10)</span>  
 </div>
 
-[Nor let soft slumber &amp;c](../../season-1/meeting-02/slumbers) → <span class="grey">&ensp;?</span>    
+[Nor let soft slumber &c](../../season-1/meeting-02/slumbers) → <span class="grey">&ensp;?</span>    
 [Impromptu on a man of Genius](../../season-1/meeting-02/impromptu) → <span class="name">Mr Parkinson</span>  
 [On Professor Person](../../season-1/meeting-02/impromptu) → <span class="name">Do.</span>   
 [Charades by Person](../../season-1/meeting-02/charades) → <span class="name">Professor Person</span>  
@@ -154,7 +154,7 @@ tntsearch:
 
 [Sonnet on the Cicada](../../season-1/meeting-10/cicada) → <span class="name">com. Mr Porden</span>  
 [Anacreon Ode 43](../../season-1/meeting-10/anacreon-43) → <span class="name">Mr Bond</span>  
-[Story Zeladai &amp; Alcidon](../../season-1/meeting-10/zeladai) → <span class="name">Mr Porden</span>  
+[Story Zeladai & Alcidon](../../season-1/meeting-10/zeladai) → <span class="name">Mr Porden</span>  
 [Elegy on Fitz Pieria](../../season-1/meeting-10/elegy) → <span class="name">Miss Flaxman</span>  
 [Pegasus restored to the Gods](../../season-1/meeting-10/pegasus) → <span class="name">Mr Flaxman</span>  
 [The Mob Cap](../../season-1/meeting-10/mob-cap) → <span class="name">Mr Kennion</span>  
@@ -243,7 +243,7 @@ tntsearch:
 
 [Rebecca, a Ballad](../../season-2/meeting-16/rebecca) → <span class="name">Sir John Carr</span>  
 [Address to a Gentleman on His Birthday](../../season-2/meeting-16/address) → <span class="name">Mr Vignoles</span> <span class="alias">(B.R.)</span>  
-[Anacreontic](../../season-2/meeting-16/anacreontic) → <span class="name">Mr Flaxman</span> <span [class="alias">(Anacreonides)</span>  
+[Anacreontic](../../season-2/meeting-16/anacreontic) → <span class="name">Mr Flaxman</span> <span class="alias">(Anacreonides)</span>  
 [Answer to the Query in Natural History](../../season-2/meeting-16/answer-1) → <span class="name">Mr Vignoles</span>  
 [An Erroneous Answer to the Riddle](../../season-2/meeting-16/answer-2) → <span class="name">Do.</span>    
 [Another. *Buss*](../../season-2/meeting-16/answer-3) → <span class="name">Miss Flaxman</span>  
@@ -512,7 +512,7 @@ tntsearch:
 [Antiques at Paris](../../season-3/meeting-34/antiques) → <span class="name">com. Mrs F. Mellish</span>  
 [Epigram on the Chinese Astronomers Ho and Hi](../../season-3/meeting-34/epigram) → <span class="name">com. Mr Vignoles</span>  
 [Valentine’s Day Anticipated](../../season-3/meeting-34/valentine) → <span class="name">Miss Richardson</span> <span class="alias">(L.I.F.)</span>  
-[Prose and Verse](../../season-3/meeting-34/prose) → <span class="name">Mrs Staveley</span> <span class="alias">Jess Macfarland</span> 
+[Prose and Verse](../../season-3/meeting-34/prose) → <span class="name">Mrs Staveley</span> <span class="alias">(Jess Macfarland)</span>  
 [Charade: Housewife](../../season-3/meeting-34/charade) → <span class="name">com. Miss Beslee</span>  
 <span class="grey">The Restoration Cantos 1 and 2 → Miss Porden</span>   
 
@@ -552,7 +552,7 @@ tntsearch:
 [Acrostic to Eliza](../../season-3/meeting-36/acrostic) → <span class="name"> Mr Vignoles</span>  
 [Supplication of Timothy Couplet Esq.](../../season-3/meeting-36/supplication) → <span class="name">Miss Flaxman</span>  
 [Attic Nomenclature](../../season-3/meeting-36/nomenclature) → <span class="name">Miss Flaxman</span>  
-[Address to Poetry](../../season-3/meeting-36/address) → <span class="name">com. Miss Beslee Mr Verralls</span>  
+[Address to Poetry](../../season-3/meeting-36/address) → <span class="name">com. Miss Beslee & Mr Verralls</span>  
 <span class="grey">The Restoration Canto 4th, Canto 1st Book 2nd → Miss Porden</span>  
 [Solution of an Enigma](../../season-3/meeting-36/solution) → <span class="name">Miss Flaxman</span>  
 [Answer to the Morning Herald](../../season-3/meeting-36/answer-1) → <span class="name">Miss Flaxman</span>  
@@ -567,7 +567,7 @@ tntsearch:
 <span class="grey">The Lazy Foot → Mrs Richardson</span>  
 <span class="grey">The Protestation → Miss Flaxman</span>  
 [Swallows on their Arrival 1809](../../season-3/meeting-37/arrival) → <span class="name">Miss Porden</span>  
-[Swallows on their Departure 1809](../../season-3/meeting-37/departure) → <span class="name">Miss Porden</span>
+[Swallows on their Departure 1809](../../season-3/meeting-37/departure) → <span class="name">Miss Porden</span>  
 [Verses to a Young Lady](../../season-3/meeting-37/lady) → <span class="name">Mr Combe</span>  
 [To the Author of the Acrostic, to Eliza](../../season-3/meeting-37/serl) → <span class="name">Miss Porden</span>  
 [Song from a Friend to His Wife](../../season-3/meeting-37/song) → <span class="name">com. Mrs Flaxman</span>  
@@ -614,7 +614,7 @@ tntsearch:
 [To May](../../season-3/meeting-40/may) → <span class="name">Miss Porden</span>  
 [Description of a River](../../season-3/meeting-40/river) → <span class="name">com. Mrs Flaxman</span>  
 [Mira’s Despair](../../season-3/meeting-40/mira) → <span class="name">com. Mr Vignoles</span>  
-[Epitaph on Douglas Duke of Hamilton](../../season-3/meeting-40/epitaph) → <span class="name">Mr Jekyll, com. Mrs Staveley</span>  
+[Epitaph on Douglas Duke of Hamilton](../../season-3/meeting-40/epitaph) → Mr Jekyll → <span class="name"com. Mrs Staveley</span>  
 <span class="grey">Graeme of Balgowan, The Hero of Barrosa → com. Mrs Staveley</span>  
 [Most Haste, Worst Speed](../../season-3/meeting-40/haste) → <span class="name">Miss Porden</span>  
 [The Dream](../../season-3/meeting-40/dream) → <span class="name">Miss Flaxman</span>  
@@ -632,7 +632,7 @@ tntsearch:
 [To Moth, from Stella](../../season-3/meeting-41/moth) → <span class="name">Miss Porden</span>  
 [To Stella, from Moth](../../season-3/meeting-41/stella) → <span class="name">Miss Flaxman</span>  
 [Effusions on My Husband’s Birthday](../../season-3/meeting-41/husband) → <span class="name">com. Miss F. Richardson</span>  
-[Charade: Farewell](../../season-3/meeting-41/charade) → <span class="name">Lord Palmerston, com. Mrs. S</span>  
+[Charade: Farewell](../../season-3/meeting-41/charade) → Lord Palmerston → <span class="name">com. Mrs. S</span>  
 [“If Hope Is to Gild Future Days”](../../season-3/meeting-41/hope) → <span class="name">Miss Richardson</span>  
 [On the 1st May, Lord Wellington’s Birthday](../../season-3/meeting-41/wellington) → <span class="name">com. Mrs Flaxman & Mr Hayley</span>  
 [A Free Translation of One of Buondelmonte’s Sonnets](../../season-3/meeting-41/translation) → <span class="name">Mrs Flaxman</span>  
@@ -754,7 +754,7 @@ tntsearch:
 [Enigmatical Valentine](../../season-4/meeting-49/enigmatical) → <span class="name">Miss Vardill</span>  
 [Valentine](../../season-4/meeting-49/valentine) → <span class="name">Miss Porden</span> <span data-tippy="Not included in original list" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [Answer to the Advertisement](../../season-4/meeting-49/answer-1) → <span class="name">Miss Vardill</span> <span class="alias">(A.G.P.)</span>  
-[Answer to the Advertisement](../../season-4/meeting-49/answer-2) → <span class="name">Miss Porden</span> <span class="alias">(Alopex)</span> 
+[Answer to the Advertisement](../../season-4/meeting-49/answer-2) → <span class="name">Miss Porden</span> <span class="alias">(Alopex)</span>  
 <span class="grey">The Fourth Book of the Restoration → Miss Porden</span>
 
 <div class="bottom">
@@ -822,7 +822,7 @@ tntsearch:
 [Reply to Amanda](../../season-4/meeting-54/amanda) → <span class="name">Miss Porden</span> <span class="alias">(Donald)</span>  
 [The Advertising Lady’s Interview](../../season-4/meeting-54/interview) → <span class="name">Miss Porden</span> <span class="alias">(Miss Brown)</span>  
 [Written with a Crow Quill](../../season-4/meeting-54/quill) → <span class="name">Miss Vardill</span>  
-[The Remonstrance](../../season-4/meeting-54/remonstrance) → <span class="grey">Governor Franklin</span> → <span class="name">Miss Vardill</span>  
+[The Remonstrance](../../season-4/meeting-54/remonstrance) → Governor Franklin → <span class="name">Miss Vardill</span>  
 [The Farewell](../../season-4/meeting-54/farewell) → <span class="name">Mr Elliott</span>  
 
 <div class="bottom">
@@ -833,7 +833,7 @@ tntsearch:
 [Pastoral](../../season-4/meeting-55/pastoral) → <span class="name">Mr Elliott</span> 
 [Serenade and Reply](../../season-4/meeting-55/serenade) → <span class="name">Miss Porden</span>  
 [To Emma](../../season-4/meeting-55/emma) → <span class="name">Miss Porden</span>  
-[To Amanda](../../season-4/meeting-55/amanda) → <span class="grey">Miss Porden</span> → <span class="name">Miss Vardill</span> <span class="alias">(Donald)</span>  
+[To Amanda](../../season-4/meeting-55/amanda) → Miss Porden → <span class="name">Miss Vardill</span> <span class="alias">(Donald)</span> <span data-tippy="Author listed as EAP, but handwriting that of AJV" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>   
 [Account of the Interview](../../season-4/meeting-55/interview) → <span class="name">Miss Porden</span> <span class="alias">(T.S.)</span>  
 [The Advertising Lady’s Rejection](../../season-4/meeting-55/rejection) → <span class="name">Miss Porden</span> <span class="alias">(Miss Brown)</span>  
 [To the Fair Advertiser](../../season-4/meeting-55/advertiser) → <span class="name">Miss Porden</span>  
@@ -881,8 +881,8 @@ tntsearch:
 [Address “When Rains Have Ceased”](../../season-5/meeting-58/address-3) → <span class="name">Miss Richardson</span>  
 [The Guardian Spirit’s Address](../../season-5/meeting-58/guardian) → <span class="name">Miss Porden</span>  
 [Written for the Opening of the A.C.](../../season-5/meeting-58/opening) → <span class="name">Miss Vardill</span>  
-[On Proud Britannia’s Rocky Seat](../../season-5/meeting-58/letter-1) → <span class="name">Miss Vardill</span>  
-[Address, from the Spirit of the Attic Chest](../../season-5/meeting-58/address-4) → <span class="name">Miss Porden</span> → Vardill  
+[On Proud Britannia’s Rocky Seat](../../season-5/meeting-58/opening) → <span class="name">Miss Vardill</span> <span data-tippy="Duplicate listing for previous contribution" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[Address, from the Spirit of the Attic Chest](../../season-5/meeting-58/address-4) → Miss Porden → <span class="name">Vardill</span> <span data-tippy="Attributed to EAP but handwriting is that of AJV" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [An Address that is not an Address](../../season-5/meeting-58/address-5) → <span class="name">Miss Flaxman</span>  
 [Anonymous No. 1](../../season-5/meeting-58/anonymous) → <span class="name">Mr Vignoles</span>  
 [Letter from Barnaby Scratch](../../season-5/meeting-58/letter-2) → <span class="name">Miss Flaxman</span>  
@@ -1015,7 +1015,7 @@ tntsearch:
 <span class="meeting">No. 66&emsp;(1813-07-14)</span>  
 </div>
 
-[Michael Mitre to the Editor](../../season-5/meeting-66/mitre) → <span class="name">Mr Flaxman &amp; Miss Vardill</span>  
+[Michael Mitre to the Editor](../../season-5/meeting-66/mitre) → <span class="name">Mr Flaxman & Miss Vardill</span>  
 [Kitty Maltravers to the Headeater](../../season-5/meeting-66/kitty) → <span class="name">Miss Flaxman</span>  
 [The Dissolution](../../season-5/meeting-66/dissolution) → <span class="name">Miss Porden</span>  
 [The Invisible Cap](../../season-5/meeting-66/cap) → <span class="name">Miss Vardill</span>  
@@ -1070,13 +1070,13 @@ tntsearch:
 </div>
 
 [Address from the Spirit of the Attic Chest](../../season-7/meeting-69/spirit) → <span class="name">Miss Porden</span>  
-[The Elfin Harp](../../season-7/meeting-69/harp) → Miss Flaxman → <span class="name">Miss Vardill</span>  <span data-tippy="Author listed as Miss Flaxman, but handwriting that of AJV" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+[The Elfin Harp](../../season-7/meeting-69/harp) → Miss Flaxman → <span class="name">Miss Vardill</span>  <span data-tippy="Author listed as Miss Flaxman, but handwriting that of AJV" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [Address to the Spirit of Attic Nights](../../season-7/meeting-69/aulus) → <span class="name">Miss Vardill</span> <span class="alias">(Aulus Gellius)</span>  
 [Hermes Caduceus](../../season-7/meeting-69/hermes) → <span class="name">Miss Vardill</span>  
 [Traveller of the Summer Night](../../season-7/meeting-69/traveller) → <span class="name">Miss Flaxman</span> <span class="alias">(Gossipia)</span>  
 [Address of Atticus Scriblerus](../../season-7/meeting-69/atticus) → <span class="name">Mr Elliott</span>  
 [On the Visit of Lord Aircastle](../../season-7/meeting-69/pertinax) → <span class="name">Miss Porden</span> <span class="alias">(Pertinax Townly)</span>  
-<span class="grey">Ode on Lord A.’s visit → Mr Elliott</span>  <span data-tippy="Mistaken duplication of earlier contribution." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+<span class="grey">Ode on Lord A.’s visit → Mr Elliott</span>  <span data-tippy="Mistaken duplication of earlier contribution." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [ 〃 by Olivia Gossamer](../../season-7/meeting-69/olivia) → <span class="name">Miss Vardill</span>  
 [ 〃 by Miss Stormont](../../season-7/meeting-69/rodelinda) → <span class="name">Miss Vardill</span>  
 [Letter from Electomagus](../../season-7/meeting-69/electromagus) → <span class="name">Miss Porden</span>  
