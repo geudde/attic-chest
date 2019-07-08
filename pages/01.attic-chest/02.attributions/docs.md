@@ -833,7 +833,7 @@ tntsearch:
 [Pastoral](../../season-4/meeting-55/pastoral) → <span class="name">Mr Elliott</span> 
 [Serenade and Reply](../../season-4/meeting-55/serenade) → <span class="name">Miss Porden</span>  
 [To Emma](../../season-4/meeting-55/emma) → <span class="name">Miss Porden</span>  
-[To Amanda](../../season-4/meeting-55/amanda) → Miss Porden → <span class="name">Miss Vardill</span> <span class="alias">(Donald)</span> <span data-tippy="Author listed as EAP, but handwriting that of AJV" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>   
+[To Amanda](../../season-4/meeting-55/amanda) → Miss Porden → <span class="name">Miss Vardill</span> <span class="alias">(Donald)</span> <span data-tippy="Attributed to EAP but handwriting that of AJV" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>   
 [Account of the Interview](../../season-4/meeting-55/interview) → <span class="name">Miss Porden</span> <span class="alias">(T.S.)</span>  
 [The Advertising Lady’s Rejection](../../season-4/meeting-55/rejection) → <span class="name">Miss Porden</span> <span class="alias">(Miss Brown)</span>  
 [To the Fair Advertiser](../../season-4/meeting-55/advertiser) → <span class="name">Miss Porden</span>  
@@ -1070,7 +1070,7 @@ tntsearch:
 </div>
 
 [Address from the Spirit of the Attic Chest](../../season-7/meeting-69/spirit) → <span class="name">Miss Porden</span>  
-[The Elfin Harp](../../season-7/meeting-69/harp) → Miss Flaxman → <span class="name">Miss Vardill</span>  <span data-tippy="Author listed as Miss Flaxman, but handwriting that of AJV" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[The Elfin Harp](../../season-7/meeting-69/harp) → Miss Flaxman → <span class="name">Miss Vardill</span>  <span data-tippy="Attributed to Miss Flaxman but handwriting that of AJV" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [Address to the Spirit of Attic Nights](../../season-7/meeting-69/aulus) → <span class="name">Miss Vardill</span> <span class="alias">(Aulus Gellius)</span>  
 [Hermes Caduceus](../../season-7/meeting-69/hermes) → <span class="name">Miss Vardill</span>  
 [Traveller of the Summer Night](../../season-7/meeting-69/traveller) → <span class="name">Miss Flaxman</span> <span class="alias">(Gossipia)</span>  
@@ -1227,7 +1227,7 @@ Letter from Mr Prosai Poetico → Miss Vardill
 
 A List of Contributions read from the Attic Chest from Febry 22d 1814 to July 15th 1816 including the 6th, 7th and 8th Seasons
 
-<table style="width:300px">
+<table style="width:250px; margin-right: auto; margin-left: auto; font-family: "Noto Sans";">
 	<tr>
 		<td>Mr Flaxman</td> <td class="price">3</td>
 	</tr>
@@ -1290,7 +1290,7 @@ Advertisement for a Lost Muse → Mr Elliott
 Valentine with a Repeating Watch → Miss Vardill   
 The New Coin of Parnassus → Miss Vardill  
 Verses by Dr Brande in 1802 → com. Miss Kramer  
-Valentine to Drawing <i class="fa fa-picture-o" aria-hidden="true"></i> → Miss and Master Kay  
+Valentine to Drawing <span data-tippy="Full page children’s drawing"><i class="fa fa-picture-o" aria-hidden="true"></i></span> → Miss and Master Kay  
 Archibald McLeasing to his publisher → Miss Porden  
 Letter from France: Lavinia to Eliza → Miss Porden  
 The 1st Act of the Novice of St Benedict → Miss Vardill  
