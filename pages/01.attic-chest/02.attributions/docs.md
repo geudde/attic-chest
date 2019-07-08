@@ -752,9 +752,9 @@ tntsearch:
 [Not in a Lover’s Humble Strains](../../season-4/meeting-49/strains) → <span class="name">com. Miss Vardill</span>  
 [To Stella](../../season-4/meeting-49/stella) → <span class="name">Miss Flaxman</span> <span class="alias">(Moth)</span>  
 [Enigmatical Valentine](../../season-4/meeting-49/enigmatical) → <span class="name">Miss Vardill</span>  
-[Valentine](../../season-4/meeting-49/valentine) → <span class="name">Miss Porden</span>  
-[Answer to the Advertisement No. 1](../../season-4/meeting-49/answer-1) → <span class="name">Miss Vardill</span> <span class="alias">(A.G.P.)</span>  
-[Answer to the Advertisement No. 2](../../season-4/meeting-49/answer-2) → <span class="name">Miss Porden</span> <span class="alias">(Alopex)</span> 
+[Valentine](../../season-4/meeting-49/valentine) → <span class="name">Miss Porden</span> <span data-tippy="omitted from original list" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[Answer to the Advertisement](../../season-4/meeting-49/answer-1) → <span class="name">Miss Vardill</span> <span class="alias">(A.G.P.)</span>  
+[Answer to the Advertisement](../../season-4/meeting-49/answer-2) → <span class="name">Miss Porden</span> <span class="alias">(Alopex)</span> 
 <span class="grey">The Fourth Book of the Restoration → Miss Porden</span>
 
 <div class="bottom">
@@ -762,11 +762,11 @@ tntsearch:
 </div>
 
 <span class="grey">Account of Mr Bakewell’s first lecture on Geology → Miss Porden</span>  
-The Exchange of Hearts → <span class="name">Miss Porden</span>  
-The Blighted Rosebud → <span class="name">Miss Sanders</span>  
-To Hope → <span class="name">Miss Porden</span>  
-Answer to the Advertisement → <span class="name">Mr Vignoles</span>  
-Answer to the Advertisement → <span class="name">Miss Porden</span> <span class="alias">(Dives)</span>  
+[The Exchange of Hearts](../../season-4/meeting-50/exchange) → <span class="name">Miss Porden</span>  
+[The Blighted Rosebud](../../season-4/meeting-50/rosebud) → <span class="name">Miss Sanders</span>  
+<span class="grey">To Hope → Miss Porden</span>  
+[Answer to the Advertisement](../../season-4/meeting-50/answer-1) → <span class="name">Mr Vignoles</span>  
+[Answer to the Advertisement](../../season-4/meeting-50/answer-2) → <span class="name">Miss Porden</span> <span class="alias">(Dives)</span>  
 <span class="grey">The Fifth Book of the Restoration → Miss Porden</span>
 
 <div class="bottom">
@@ -774,15 +774,15 @@ Answer to the Advertisement → <span class="name">Miss Porden</span> <span clas
 </div>
 
 <span class="grey">Account of Mr Bakewell’s second lecture on Geology → Miss Porden</span>  
-The Mountain Moss → <span class="name">Miss Sanders</span> <span class="alias">(Recluse)</span>  
-And Exile’s Dream → <span class="name">Miss Vardill</span> <span class="alias">(A Stranger)</span>  
-Verses Written for an Album → <span class="name">com. Miss Flaxman</span>  
-To Music → <span class="name">Miss Vardill</span> <span class="alias">(M.H.F.)</span>  
-To Eborina → <span class="name">Miss Porden</span> <span class="alias">(Lothario)</span>  
-Letter from Alopex → <span class="name">Miss Porden</span>  
-The Picture → <span class="name">Miss Sanders</span> <span class="alias">(Juliett)</span>  
-Addressed to a Brother → <span class="name">Miss Sanders</span> <span class="alias">(Eliza)</span>  
-Letter from the Advertizing Lady → <span class="name">Miss Porden</span> <span class="alias">(Miss Brown)</span>  
+[The Mountain Moss](../../season-4/meeting-51/moss) → <span class="name">Miss Sanders</span> <span class="alias">(Recluse)</span>  
+[And Exile’s Dream](../../season-4/meeting-51/exile) → <span class="name">Miss Vardill</span> <span class="alias">(A Stranger)</span>  
+[Verses Written for an Album](../../season-4/meeting-51/verses) → <span class="name">com. Miss Flaxman</span>  
+[To Music](../../season-4/meeting-51/music) → <span class="name">Miss Vardill</span> <span class="alias">(M.H.F.)</span>  
+[To Eborina](../../season-4/meeting-51/eborina) → <span class="name">Miss Porden</span> <span class="alias">(Lothario)</span>  
+[Letter from Alopex](../../season-4/meeting-51/alopex) → <span class="name">Miss Porden</span>  
+[The Picture](../../season-4/meeting-51/picture) → <span class="name">Miss Sanders</span> <span class="alias">(Juliett)</span>  
+[Addressed to a Brother](../../season-4/meeting-51/brother) → <span class="name">Miss Sanders</span> <span class="alias">(Eliza)</span>  
+[Letter from the Advertizing Lady](../../season-4/meeting-51/letter) → <span class="name">Miss Porden</span> <span class="alias">(Miss Brown)</span>  
 <span class="grey">The Last Book of the Restoration → Miss Porden</span>
 
 <div class="bottom">
@@ -790,10 +790,10 @@ Letter from the Advertizing Lady → <span class="name">Miss Porden</span> <span
 </div>
 
 <span class="grey">Account of Mr Bakewell’s third lecture on Geology → Miss Porden</span>  
-To One of the Graces → <span class="name">Miss Vardill</span>  
-Of Coughs and Colds → <span class="name">Mr Hinckley</span>  
+[To One of the Graces](../../season-4/meeting-52/graces) → <span class="name">Miss Vardill</span>  
+[Of Coughs and Colds](../../season-4/meeting-52/coughs) → <span class="name">Mr Hinckley</span>  
 <span class="grey">To Mary → >Miss Porden (Alfred)</span>   
-To Ellen → <span class="name">Miss Vardill</span>  
+[To Ellen](../../season-4/meeting-52/ellen) → <span class="name">Miss Vardill</span>  
 <span class="grey">The Four First Cantos of the Sylphiad → Mr Vignoles</span>
 
 <div class="bottom">
@@ -801,13 +801,13 @@ To Ellen → <span class="name">Miss Vardill</span>
 </div>
 
 <span class="grey">Account of Mr Bakewell’s third lecture on Geology → Miss Porden</span>   
-Charade: Rebellion → <span class="name">Mr Hinckley</span>  
-Enigma: A Kiss → <span class="name">Mr Hinckley</span>  
-To Two of the Graces → <span class="name">Miss Vardill</span>  
-To Mary → <span class="name">Miss Flaxman</span>  
-Letter from Alopex → <span class="name">Miss Porden</span>  
-Lines to the West Middlesex Water Company → <span class="name">Miss Porden</span>  
-Answer to the Advertisement → <span class="name">Miss Porden</span> <span class="alias">(Damon)</span>  
+[Charade: Rebellion](../../season-4/meeting-53/charade) → <span class="name">Mr Hinckley</span>  
+[Enigma: A Kiss](../../season-4/meeting-53/enigma) → <span class="name">Mr Hinckley</span>  
+[To Two of the Graces](../../season-4/meeting-53/graces) → <span class="name">Miss Vardill</span>  
+[To Mary](../../season-4/meeting-53/mary) → <span class="name">Miss Flaxman</span>  
+[Letter from Alopex](../../season-4/meeting-53/letter) → <span class="name">Miss Porden</span>  
+[Lines to the West Middlesex Water Company](../../season-4/meeting-53/water) → <span class="name">Miss Porden</span>  
+[Answer to the Advertisement](../../season-4/meeting-53/answer) → <span class="name">Miss Porden</span> <span class="alias">(Damon)</span>  
 <span class="grey">The Four Last Cantos of the Sylphiad → Mr Vignoles</span>
 
 <div class="bottom">
@@ -815,168 +815,171 @@ Answer to the Advertisement → <span class="name">Miss Porden</span> <span clas
 </div>
 
 <span class="grey">Geological Notes on the Rock Salt of Cheshire → Mr Porden</span>  
-Letter from Alopex → <span class="name">Miss Porden</span>  
-What tho’ Soft Slumber → <span class="name">Miss Porden</span>  
-Imitated from the Greek → <span class="name">com. Mr Vignoles</span>  
-To Friendship → <span class="name">Miss Vardill</span> <span class="alias">(Amanda)</span>  
-Reply to Amanda → <span class="name">Miss Porden</span> <span class="alias">(Donald)</span>  
-The Advertising Lady’s Interview → <span class="name">Miss Porden</span> <span class="alias">(Miss Brown)</span>  
-Written with a Crow Quill → <span class="name">Miss Vardill</span>  
-The Remonstrance → <span class="grey">Governor Franklin</span> → <span class="name">Miss Vardill</span>  
-The Farewell → <span class="name">Mr Elliott</span>  
+[Letter from Alopex](../../season-4/meeting-54/letter) → <span class="name">Miss Porden</span>  
+[What tho’ Soft Slumber](../../season-4/meeting-54/slumber) → <span class="name">Miss Porden</span>  
+[Imitated from the Greek](../../season-4/meeting-54/greek) → <span class="name">com. Mr Vignoles</span>  
+[To Friendship](../../season-4/meeting-54/friendship) → <span class="name">Miss Vardill</span> <span class="alias">(Amanda)</span>  
+[Reply to Amanda](../../season-4/meeting-54/amanda) → <span class="name">Miss Porden</span> <span class="alias">(Donald)</span>  
+[The Advertising Lady’s Interview](../../season-4/meeting-54/interview) → <span class="name">Miss Porden</span> <span class="alias">(Miss Brown)</span>  
+[Written with a Crow Quill](../../season-4/meeting-54/quill) → <span class="name">Miss Vardill</span>  
+[The Remonstrance](../../season-4/meeting-54/remonstrance) → <span class="grey">Governor Franklin</span> → <span class="name">Miss Vardill</span>  
+[The Farewell](../../season-4/meeting-54/farewell) → <span class="name">Mr Elliott</span>  
 
 <div class="bottom">
 <span class="meeting">No. 55&emsp;(1812-05-13)</span>  
 </div>
 
-To the Editor of the Attic Chest → <span class="name">Mr Elliott</span>  
-Serenade and Reply → <span class="name">Miss Porden</span>  
-To Emma → <span class="name">Miss Porden</span>  
-To Amanda → <span class="grey">Miss Porden</span> → <span class="name">Miss Vardill</span> <span class="alias">(Donald)</span>  
-Account of the Interview → <span class="name">Miss Porden</span> <span class="alias">(T.S.)</span>  
-The Advertising Lady’s Rejection → <span class="name">Miss Porden</span> <span class="alias">(Miss Brown)</span>  
-To the Fair Advdertiser → <span class="name">Miss Porden</span>  
-Song from the Advertising Lady → <span class="name">Mrs Staveley</span>  
-The First of May → <span class="name"> Mrs Staveley</span>  
-To Donald → <span class="name">Miss Vardill</span> <span class="alias">(Amanda)</span>
+[To the Editor of the Attic Chest](../../season-4/meeting-55/letter) → <span class="name">Mr Elliott</span>  
+[Pastoral](../../season-4/meeting-55/pastoral) → <span class="name">Mr Elliott</span> 
+[Serenade and Reply](../../season-4/meeting-55/serenade) → <span class="name">Miss Porden</span>  
+[To Emma](../../season-4/meeting-55/emma) → <span class="name">Miss Porden</span>  
+[To Amanda](../../season-4/meeting-55/amanda) → <span class="grey">Miss Porden</span> → <span class="name">Miss Vardill</span> <span class="alias">(Donald)</span>  
+[Account of the Interview](../../season-4/meeting-55/interview) → <span class="name">Miss Porden</span> <span class="alias">(T.S.)</span>  
+[The Advertising Lady’s Rejection](../../season-4/meeting-55/rejection) → <span class="name">Miss Porden</span> <span class="alias">(Miss Brown)</span>  
+[To the Fair Advertiser](../../season-4/meeting-55/advertiser) → <span class="name">Miss Porden</span>  
+[Song from the Advertising Lady](../../season-4/meeting-55/song) → <span class="name">Mrs Staveley</span>  
+[The First of May](../../season-4/meeting-55/may) → <span class="name"> Mrs Staveley</span>  
+[To Donald](../../season-4/meeting-55/donald) → <span class="name">Miss Vardill</span> <span class="alias">(Amanda)</span>
 
 <div class="bottom">
 <span class="meeting">No. 56&emsp;(1812-05-27)</span>  
 </div>
 
-Letter from Alopex to the Editress → <span class="name">Miss Porden</span>  
-Answer to the Unfortunate Spinster → <span class="name">Miss Porden</span> <span class="alias">(Antigynes)</span>    
-Answer to the Advertisement from Blue Eye → <span class="name">Mrs Staveley</span>  
-Letter from the West Indian → <span class="name">Miss Vardill</span>  
-The Blue Eye → <span class="name">Miss Porden</span>  
-Answer from Donald → <span class="name">Miss Porden</span>  
-Lady Flora → <span class="name">Miss Vardill</span>  
-To Anna on Her Birthday → <span class="name">Miss Porden</span>
+[Letter from Alopex to the Editress](../../season-4/meeting-56/alopex) → <span class="name">Miss Porden</span>  
+[Answer to the Unfortunate Spinster](../../season-4/meeting-56/spinster) → <span class="name">Miss Porden</span> <span class="alias">(Antigynes)</span>    
+[Answer to the Advertisement from Blue Eye](../../season-4/meeting-56/answer) → <span class="name">Mrs Staveley</span>  
+[Letter from the West Indian](../../season-4/meeting-56/west) → <span class="name">Miss Vardill</span>  
+[The Blue Eye](../../season-4/meeting-56/blue) → <span class="name">Miss Porden</span>  
+[Answer from Donald](../../season-4/meeting-56/donald) → <span class="name">Miss Porden</span>  
+[Lady Flora](../../season-4/meeting-56/flora) → <span class="name">Miss Vardill</span>  
+[To Anna on Her Birthday](../../season-4/meeting-56/anna) → <span class="name">Miss Porden</span>
 
 <div class="bottom">
 <span class="meeting">No. 57&emsp;(1812-06-17)</span>  
 </div>
 
-The Wish → <span class="name">com. Mr Vignoles</span>  
-To the Butterfly → <span class="name">Miss Flaxman</span>  
-Amid this Festive Scene → <span class="name">Miss Porden</span>  
-Rules Formed to Promote Regularity → <span class="name">com. Mrs Staveley</span>  
-Old Joan → <span class="grey">Governor Franklin</span> → <span class="name">Miss Vardill</span>  
-Adieu → <span class="name">Mr Vignoles</span>  
-To Stella → <span class="name">Miss Flaxman</span>  
-Blessed be the Eye → <span class="name">Miss Vardill</span>  
-Ode for the Concluding Night → <span class="name">Mr Elliott</span>  
-Adieu my Patrons → <span class="name">Miss Porden</span>
+[The Wish](../../season-4/meeting-57/wish) → <span class="name">com. Mr Vignoles</span>  
+[To the Butterfly](../../season-4/meeting-57/butterfly) → <span class="name">Miss Flaxman</span>  
+[Amid this Festive Scene](../../season-4/meeting-57/lover) → <span class="name">Miss Porden</span>  
+[Rules Formed to Promote Regularity](../../season-4/meeting-57/rules) → <span class="name">com. Mrs Staveley</span>  
+[Old Joan](../../season-4/meeting-57/joan) → <span class="grey">Governor Franklin</span> → <span class="name">Miss Vardill</span>  
+[Adieu](../../season-4/meeting-57/adieu) → <span class="name">Mr Vignoles</span>  
+[To Stella](../../season-4/meeting-57/stella) → <span class="name">Miss Flaxman</span>  
+[Blessed be the Eye](../../season-4/meeting-57/eye) → <span class="name">Miss Vardill</span>  
+[Ode for the Concluding Night](../../season-4/meeting-57/ode) → <span class="name">Mr Elliott</span>  
+[Adieu my Patrons](../../season-4/meeting-57/patrons) → <span class="name">Miss Porden</span>  
+[To the Editress](../../season-4/meeting-57/filiosa) → <span class="alias">(Filiosa)</span> <span data-tippy="omitted from original list" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
 <div class="bottom">
 <span class="meeting">No. 58&emsp;(1813-03-17)</span>  
 </div>
 
-Letter from Martinus Scriblerus Junior respecting Addresses on the Opening of the Attic Chest → <span class="name">Miss Vardill</span>  
-Circular on the Same Subject → <span class="name">Miss Vardill</span>  
-Address for the Opening of the Chest → <span class="name">Miss Vardill</span> <span class="alias">(Martinus Scriblerus)</span>  
-Address “Farewell to Blue Devils” → <span class="name">Miss Porden</span>  
-Address “When Rains Have Ceased” → <span class="name">Miss Richardson</span>  
-The Guardian Spirit’s Address → <span class="name">Miss Porden</span>  
-Written for the Opening of the A.C. → <span class="name">Miss Vardill</span>  
-On Proud Britannia’s Rocky Seat → <span class="name">Miss Vardill</span>  
-Address, from the Spirit of the Attic Chest → <span class="name">Miss Porden</span> → Vardill  
-An Address that is not an Address → <span class="name">Miss Flaxman</span>  
-Anonymous No. 1 → <span class="name">Mr Vignoles</span>  
-Letter from Barnaby Scratch → <span class="name">Miss Flaxman</span>  
+[Letter from Martinus Scriblerus Jr. respecting Addresses on the Opening of the Attic Chest](../../season-5/meeting-58/letter-1) → <span class="name">Miss Vardill</span>  
+[Circular on the Same Subject](../../season-5/meeting-58/circular) → <span class="name">Miss Vardill</span>  
+[Address for the Opening of the Chest](../../season-5/meeting-58/address-1) → <span class="name">Miss Vardill</span> <span class="alias">(Martinus Scriblerus)</span>  
+[Address “Farewell to Blue Devils”](../../season-5/meeting-58/address-2) → <span class="name">Miss Porden</span>  
+[Address “When Rains Have Ceased”](../../season-5/meeting-58/address-3) → <span class="name">Miss Richardson</span>  
+[The Guardian Spirit’s Address](../../season-5/meeting-58/guardian) → <span class="name">Miss Porden</span>  
+[Written for the Opening of the A.C.](../../season-5/meeting-58/opening) → <span class="name">Miss Vardill</span>  
+[On Proud Britannia’s Rocky Seat](../../season-5/meeting-58/letter-1) → <span class="name">Miss Vardill</span>  
+[Address, from the Spirit of the Attic Chest](../../season-5/meeting-58/address-4) → <span class="name">Miss Porden</span> → Vardill  
+[An Address that is not an Address](../../season-5/meeting-58/address-5) → <span class="name">Miss Flaxman</span>  
+[Anonymous No. 1](../../season-5/meeting-58/anonymous) → <span class="name">Mr Vignoles</span>  
+[Letter from Barnaby Scratch](../../season-5/meeting-58/letter-2) → <span class="name">Miss Flaxman</span>  
 
 <div class="bottom">
 <span class="meeting">No. 59&emsp;(1813-03-31)</span>  
 </div>
 
-Letter from Miss Prudentia Quickset → <span class="name">Miss Flaxman</span>  
-Do. from Miss Annabella Squib → <span class="name">Miss Flaxman</span>  
-To my Wife → <span class="name">Miss Flaxman</span>  
-A “Cockney Pastoral” → <span class="name">Mr Elliott</span>  
-“When over fair natures’ face” → <span class="alias">(W. Wordsworth)</span>  
-Rokeby, a new comic opera → <span class="name">Miss Vardill</span>  
-Ode to Tyranny → <span class="name">Mr Elliott</span>  
-The Pen’s Address → <span class="name">Miss Vardill</span>  
-Recluse to Miss P. → <span class="name">Miss Sanders</span>  
-Valentine to Eborina → <span class="name">Miss Porden</span> <span class="alias">(Orlando)</span> 
+[Letter from Miss Prudentia Quickset](../../season-5/meeting-59/prudentia) → <span class="name">Miss Flaxman</span>  
+[Do. from Miss Annabella Squib](../../season-5/meeting-59/annabella) → <span class="name">Miss Flaxman</span>  
+[To my Wife](../../season-5/meeting-59/wife) → <span class="name">Miss Flaxman</span>  
+[A “Cockney Pastoral”](../../season-5/meeting-59/cockney) → <span class="name">Mr Elliott</span>  
+[“When over fair natures’ face”](../../season-5/meeting-59/nature) → <span class="alias">(W. Wordsworth)</span>  
+[Rokeby, a new comic opera](../../season-5/meeting-59/rokeby) → <span class="name">Miss Vardill</span>  
+[Ode to Tyranny](../../season-5/meeting-59/tyranny) → <span class="name">Mr Elliott</span>  
+[The Pen’s Address](../../season-5/meeting-59/pen) → <span class="name">Miss Vardill</span>  
+[Recluse to Miss P.](../../season-5/meeting-59/recluse) → <span class="name">Miss Sanders</span>  
+[Valentine to Eborina](../../season-5/meeting-59/eborina) → <span class="name">Miss Porden</span> <span class="alias">(Orlando)</span> 
 
 <div class="bottom">
 <span class="meeting">No. 60&emsp;(1813-04-14)</span>  
 </div>
 
-Letter from Miss Rebecca Nettletop → <span class="name">Mrs Flaxman</span>  
-Letter from Miss Annabella Squib → <span class="name">Miss Flaxman</span>  
-Gallus to the Society of Vestals → <span class="name">Mr Vignoles</span>  
-Capias Latitat to Miss Prudentia Quickset do. → <span class="name">Miss Porden</span>  
-Allcourt Anyside to the Associated Spinsters do.  → <span class="name">Governor Franklin</span>  
-Croesus Custody to the Editress → <span class="name">Mr Elliott</span>  
-Fredrick Ledger Scamper do. → <span class="name">Mr Elliott</span>  
-<span class="grey">Enigma → Miss Vardill</span>
-To my Husband → <span class="name">Miss Vardill</span>  
-Remorse → <span class="name">Miss Vardill</span>  
-Rebus → <span class="name">com. Miss Flaxman</span> <span class="alias">(Sphinx)</span>  
-To Miss Porden → <span class="name">Mrs Richardson</span> <span class="alias">(S.R.)</span>  
-For the Album of a Friend → <span class="name">Miss Sanders</span> <span class="alias">(Recluse)</span>  
-The Distressed Traveller → <span class="name">com. Miss F. Richardson</span>  
+[Letter from Miss Rebecca Nettletop](../../season-5/meeting-60/nettletop) → <span class="name">Mrs Flaxman</span>  
+[Letter from Miss Annabella Squib](../../season-5/meeting-60/squib) → <span class="name">Miss Flaxman</span>  
+[Gallus to the Society of Vestals](../../season-5/meeting-60/gallus) → <span class="name">Mr Vignoles</span>  
+[Capias Latitat to Miss Prudentia Quickset do.](../../season-5/meeting-60/capia) → <span class="name">Miss Porden</span>  
+[Allcourt Anyside to the Associated Spinsters do.](../../season-5/meeting-60/allcourt)  → <span class="name">Governor Franklin</span>  
+[Croesus Custody to the Editress](../../season-5/meeting-60/croesus) → <span class="name">Mr Elliott</span>  
+[Fredrick Ledger Scamper do.](../../season-5/meeting-60/scamper) → <span class="name">Mr Elliott</span>  
+<span class="grey">Enigma](../../season-5/meeting-60/nettletop) → Miss Vardill</span>
+[To my Husband](../../season-5/meeting-60/husband) → <span class="name">Miss Vardill</span>  
+[Remorse](../../season-5/meeting-60/remorse) → <span class="name">Miss Vardill</span>  
+[Rebus](../../season-5/meeting-60/rebus) → <span class="name">com. Miss Flaxman</span> <span class="alias">(Sphinx)</span>  
+[To Miss Porden](../../season-5/meeting-60/porden) → <span class="name">Mrs Richardson</span> <span class="alias">(S.R.)</span>  
+[For the Album of a Friend](../../season-5/meeting-60/album) → <span class="name">Miss Sanders</span> <span class="alias">(Recluse)</span>  
+[The Distressed Traveller](../../season-5/meeting-60/traveller) → <span class="name">com. Miss F. Richardson</span>  
 
 <div class="bottom">
 <span class="meeting">No. 61&emsp;(1813-04-28)</span>  
 </div>
 
-
-Lady Belle Bluemantle to the Editor → <span class="name">Miss Vardill</span>  
-Kitty Maltraves to the Head Eater → <span class="name">Miss Flaxman</span>  
-Christopher Circuit to Tabby Hall → <span class="name">Mr Vignoles</span>  
-Letter from the Fair Advertiser → <span class="name">Miss Porden</span>  
-Atticus Scriblerus to the Editress → <span class="name">Mr Elliott</span>  
-Mr Scriblerus Proposal → <span class="name">Mr Elliott</span>  
-Mr Scriblerus Card → <span class="name">Mr Elliott</span>  
-Laura to Celia Epistle No. 1 → <span class="name">Miss Porden</span>  
-Celia to Laura Epistle No. 2 → <span class="name">Miss Flaxman</span>  
-Anonymous No. 2 → <span class="name">Mr Vignoles</span>  
-A Moral Tale → <span class="name">Miss Vardill</span>  
-The History of the Garter → <span class="name">Miss Porden
+[Lady Belle Bluemantle to the Editor](../../season-5/meeting-61/bluemantle) → <span class="name">Miss Vardill</span>  
+[Kitty Maltraves to the Head Eater](../../season-5/meeting-61/kitty) → <span class="name">Miss Flaxman</span>  
+[Christopher Circuit to Tabby Hall](../../season-5/meeting-61/circuit) → <span class="name">Mr Vignoles</span>  
+[Letter from the Fair Advertiser](../../season-5/meeting-61/advertiser) → <span class="name">Miss Porden</span>  
+[Atticus Scriblerus to the Editress](../../season-5/meeting-61/atticus-1) → <span class="name">Mr Elliott</span>  
+[Mr Scriblerus Proposal](../../season-5/meeting-61/atticus-2) → <span class="name">Mr Elliott</span>  
+[Mr Scriblerus Card](../../season-5/meeting-61/atticus-3) → <span class="name">Mr Elliott</span>  
+[Laura to Celia Epistle No. 1](../../season-5/meeting-61/laura) → <span class="name">Miss Porden</span>  
+[Celia to Laura Epistle No. 2](../../season-5/meeting-61/celia) → <span class="name">Miss Flaxman</span>  
+[Anonymous No. 2](../../season-5/meeting-61/anonymous) → <span class="name">Mr Vignoles</span>  
+[A Moral Tale](../../season-5/meeting-61/moral) → <span class="name">Miss Vardill</span>  
+[The History of the Garter](../../season-5/meeting-61/garter) → <span class="name">Miss Porden</span>
 
 <div class="bottom">
 <span class="meeting">No. 62&emsp;(1813-05-12)</span>  
 </div>
 
-
-Letter from Diana Dainty to the Editor → <span class="name">Mrs Rough</span>  
-Do. from Michael Mitre → <span class="name">Mr Flaxman</span>  
-Do. from Barnaby Scratch → <span class="name">Miss Vardill</span> [Porden]  
-The Farewell → <span class="name">Miss Vardill</span>  
-Farewell to Malta → Lord Byron → <span class="name">com. Miss C. Richardson</span>  
-Laura to Celia Epistle No. 3 → <span class="name">Miss Porden</span>  
-Official Dinner → <span class="name">Mr Kay</span>  
-Mr Atticus Scriblerus to the Editress → <span class="name">Mr Elliott</span>  
-His Proposal and Specimen of Pleasures of Sentiment → <span class="name">Mr Elliott</span>  
-Do. Do. The Conquest of the Spice Islands →  <span class="name">Mr Elliott</span>  
-An ex-Members Lamentation → <span class="name">Miss Vardill</span> <span class="alias">(Atticus Scriblerus)</span>  
-“Again Sweet Spring Delights” → <span class="name">Miss Porden</span> <span class="alias">(Philemon)</span>  
-The History of the Garter Parts 3 and 4 → <span class="name">Miss Porden</span>  
+[Letter from Diana Dainty to the Editor](../../season-5/meeting-62/dainty) → <span class="name">Mrs Rough</span>  
+[Do. from Michael Mitre](../../season-5/meeting-62/mitre) → <span class="name">Mr Flaxman</span>  
+[Do. from Barnaby Scratch](../../season-5/meeting-62/scratch) → <span class="name">Miss Vardill</span> <span data-tippy="Attributed to Vardill but written in another hand" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[The Farewell](../../season-5/meeting-62/farewell) → <span class="name">Miss Vardill</span>  
+[Farewell to Malta](../../season-5/meeting-62/malta) → Lord Byron → <span class="name">com. Miss C. Richardson</span>  
+[Laura to Celia Epistle No. 3](../../season-5/meeting-62/laura) → <span class="name">Miss Porden</span>  
+[Official Dinner](../../season-5/meeting-62/dinner) → <span class="name">Mr Kay</span>  
+[Mr Atticus Scriblerus to the Editress](../../season-5/meeting-62/atticus) → <span class="name">Mr Elliott</span>  
+[His Proposal and Specimen of Pleasures of Sentiment](../../season-5/meeting-62/pleasures) → <span class="name">Mr Elliott</span>  
+[Do. Do. The Conquest of the Spice Islands](../../season-5/meeting-62/spice) →  <span class="name">Mr Elliott</span>  
+[An ex-Members Lamentation](../../season-5/meeting-62/lamentation) → <span class="name">Miss Vardill</span> <span class="alias">(Atticus Scriblerus)</span>  
+[“Again Sweet Spring Delights”](../../season-5/meeting-62/spring) → <span class="name">Miss Porden</span> <span class="alias">(Philemon)</span>  
+[The History of the Garter Parts 3 and 4](../../season-5/meeting-62/garter) → <span class="name">Miss Porden</span>  
 
 <div class="bottom">s
 <span class="meeting">No. 63&emsp;(1813-05-26)</span>  
 </div>
 
-Lines sent to a Lady → <span class="name">com. Miss Beslee</span>  
-“Yes while Youth and Health are mine” → <span class="name">Miss Porden</span>  
-An Antient Fragment found in a Skeleton Case → <span class="name">Miss Vardill</span>  
-Celia to Laura Epistle No. 4 → <span class="name">Miss Flaxman</span>  
-Lines to a Young Friend → <span class="name">Miss Richardson</span>  
-Do. spoken extempore → <span class="name">com. Miss Beslee</span>  
-<span data-tippy="Page Missing: Tentative Attributions" class="red">[&ensp;.&ensp;.&ensp;.&ensp;]</span>  
-Jeffrey Julep to the Editor → <span class="grey">Miss Vardill</span>  
-Spring → <span class="grey">&ensp;?</span>  
-Justice → <span class="grey">Mr Porden</span> <span class="alias">(Atticus Scriblerus)</span>  
-The Grot → <span class="grey">&ensp;?</span>  
+[Lines sent to a Lady](../../season-5/meeting-63/lines) → <span class="name">com. Miss Beslee</span>  
+[“Yes while Youth and Health are mine”](../../season-5/meeting-63/youth) → <span class="name">Miss Porden</span>  
+[An Antient Fragment found in a Skeleton Case](../../season-5/meeting-63/fragment) → <span class="name">Miss Vardill</span>  
+[Celia to Laura Epistle No. 4](../../season-5/meeting-63/celia) → <span class="name">Miss Flaxman</span>  
+[Lines to a Young Friend](../../season-5/meeting-63/lines) → <span class="name">Miss Richardson</span>  
+[Do. spoken extempore](../../season-5/meeting-63/extempore) → <span class="name">com. Miss Beslee</span>
+  
+<span class="missing">MISSING</span> <span data-tippy="Bottom half of acknowledgement page not scanned. Tentative attributions" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+
+[Jeffrey Julep to the Editor](../../season-5/meeting-63/letter) → <span class="grey">Miss Vardill</span>  
+[Spring](../../season-5/meeting-63/spring) → <span class="grey">&ensp;?</span>  
+[Justice](../../season-5/meeting-63/justice) → <span class="grey">Mr Porden</span> <span class="alias">(Atticus Scriblerus)</span>  
+[The Grot](../../season-5/meeting-63/grot) → <span class="grey">&ensp;?</span>  
 
 <div class="bottom">
 <span class="meeting">No. 64&emsp;(1813-06-09)</span>  
 </div>
 
-<span data-tippy="Page Missing: Tentative Attributions" class="red">[&ensp;.&ensp;.&ensp;.&ensp;]</span>  
+<span class="missing">MISSING</span> <span data-tippy="Acknowledgement page not scanned. Tentative attributions" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+
 Kitty Maltravers to the Editor → <span class="grey">Miss Vardill</span>  
 Mr Julep’s Memorandums → <span class="grey">Miss Vardill</span>  
 Fragment Found in the Hermitage → <span class="grey">Miss Vardill</span>  
@@ -1285,7 +1288,7 @@ Advertisement for a Lost Muse → Mr Elliott
 Valentine with a Repeating Watch → Miss Vardill   
 The New Coin of Parnassus → Miss Vardill  
 Verses by Dr Brande in 1802 → com. Miss Kramer  
-Valentine to Drawing \[IMAGE\] → Miss and Master Kay  
+Valentine to Drawing <i class="fa fa-picture-o" aria-hidden="true"></i> → Miss and Master Kay  
 Archibald McLeasing to his publisher → Miss Porden  
 Letter from France: Lavinia to Eliza → Miss Porden  
 The 1st Act of the Novice of St Benedict → Miss Vardill  
