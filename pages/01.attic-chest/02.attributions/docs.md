@@ -1059,7 +1059,7 @@ tntsearch:
 [Letter from Mr Beauclerc](../../season-6/meeting-68/beauclerc) → Miss Vardill  
 [Fragment of an Odd](../../season-6/meeting-68/fragment) → Miss Vardill  
 [Letter from Electromagus](../../season-6/meeting-68/electromagus) → <span class="name">Miss Porden</span> <span data-tippy="Not included in original list" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
-[To Allen signed Margaret 1](../../season-6/meeting-68/margaret-1) → Miss Flaxman
+[To Allen signed Margaret 1](../../season-6/meeting-68/margaret-1) → Miss Flaxman  
 [To Margaret signed Allen](../../season-6/meeting-68/allan) → Miss Flaxman  
 [To Allen signed Margaret 2](../../season-6/meeting-68/margaret-2) → Miss Flaxman  
 [Exordium of the Pleasures of Poesy](../../season-6/meeting-68/poesy) → Mr Elliott  
