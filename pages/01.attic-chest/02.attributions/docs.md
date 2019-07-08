@@ -1227,7 +1227,7 @@ Letter from Mr Prosai Poetico → Miss Vardill
 
 A List of Contributions read from the Attic Chest from Febry 22d 1814 to July 15th 1816 including the 6th, 7th and 8th Seasons
 
-<table style="width:250px; margin-right: auto; margin-left: auto; font-family: "Noto Sans";">
+<table style="width: 250px;">
 	<tr>
 		<td>Mr Flaxman</td> <td class="price">3</td>
 	</tr>
