@@ -882,7 +882,7 @@ tntsearch:
 [The Guardian Spirit’s Address](../../season-5/meeting-58/guardian) → <span class="name">Miss Porden</span>  
 [Written for the Opening of the A.C.](../../season-5/meeting-58/opening) → <span class="name">Miss Vardill</span>  
 [On Proud Britannia’s Rocky Seat](../../season-5/meeting-58/opening) → <span class="name">Miss Vardill</span> <span data-tippy="Duplicate listing for previous contribution" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
-[Address, from the Spirit of the Attic Chest](../../season-5/meeting-58/address-4) → Miss Porden → <span class="name">Vardill</span> <span data-tippy="Attributed to EAP but handwriting is that of AJV" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[Address, from the Spirit of the Attic Chest](../../season-5/meeting-58/address-4) → Miss Porden → <span class="name">Miss Vardill</span> <span data-tippy="Attributed to EAP but handwriting is that of AJV" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [An Address that is not an Address](../../season-5/meeting-58/address-5) → <span class="name">Miss Flaxman</span>  
 [Anonymous No. 1](../../season-5/meeting-58/anonymous) → <span class="name">Mr Vignoles</span>  
 [Letter from Barnaby Scratch](../../season-5/meeting-58/letter-2) → <span class="name">Miss Flaxman</span>  
@@ -913,7 +913,7 @@ tntsearch:
 [Allcourt Anyside to the Associated Spinsters do.](../../season-5/meeting-60/allcourt)  → <span class="name">Governor Franklin</span>  
 [Croesus Custody to the Editress](../../season-5/meeting-60/croesus) → <span class="name">Mr Elliott</span>  
 [Fredrick Ledger Scamper do.](../../season-5/meeting-60/scamper) → <span class="name">Mr Elliott</span>  
-<span class="grey">Enigma → Miss Vardill</span>
+<span class="grey">Enigma → Miss Vardill</span>  
 [To my Husband](../../season-5/meeting-60/husband) → <span class="name">Miss Vardill</span>  
 [Remorse](../../season-5/meeting-60/remorse) → <span class="name">Miss Vardill</span>  
 [Rebus](../../season-5/meeting-60/rebus) → <span class="name">com. Miss Flaxman</span> <span class="alias">(Sphinx)</span>  
