@@ -1043,8 +1043,8 @@ tntsearch:
 [The Three Things a Good Husband ought to be etc.](../../season-6/meeting-67/cobb) → Miss J. Cobb → <span class="name">com. Mrs Richardson</span>  
 [Letter from Electromagus to the Editor](../../season-6/meeting-67/electromagus) → <span class="name">Miss Porden</span>  
 [ 〃 from Atticus Scriblerus Junior](../../season-6/meeting-67/junior) → <span class="name">Mr Elliott</span>  
-[ 〃 from Sir Pertinax Townly](../../season-6/meeting-67/pertinax) →  Miss Porden → <span class="name">Miss Vardill</span>  
-[The Hermitage](../../season-6/meeting-67/hermitage) → <span class="name">Miss Vardill</span>  
+[ 〃 from Sir Pertinax Townly](../../season-6/meeting-67/pertinax) →  Miss Porden → <span class="name">Miss Vardill</span> <span data-tippy="Attributed to EAP but handwriting is that of AJV" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+  [The Hermitage](../../season-6/meeting-67/hermitage) → <span class="name">Miss Vardill</span>  
 [The First Brother’s Tale](../../season-6/meeting-67/brother-1) → <span class="name">Miss Vardill</span>  
 <span class="grey">First Lecture on Natural History → Miss Porden</span>
 
