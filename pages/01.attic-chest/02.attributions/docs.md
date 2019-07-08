@@ -1033,19 +1033,19 @@ tntsearch:
 <span class="meeting">No. 67&emsp;(1814-02-22) Tuesday</span>  
 </div>
 
-Pseudo Editorial Remarks → Miss Flaxman  
-Advertisement for an Attic Chest Poet Laureate → Miss Flaxman  
-Probationary Ode “A Song of Sixpence” → Miss Flaxman (Jenny Wren)  
- 〃 signed M.S. Junior → Miss Porden  
- 〃 signed Moth → Miss Porden  
- 〃 Introduction to an Ode → Miss Flaxman (Fudge)  
- 〃 Ode signed Atticus Scriblerus → Miss Porden  
-The Three Things a Good Husband ought to be etc. → Miss J. Cobb → com. Mrs Richardson  
-Letter from Electromagus to the Editor → Miss Porden  
- 〃 from Atticus Scriblerus Junior → Mr Elliott  
- 〃 from Sir Pertinax Townly →  Miss Porden → Miss Vardill  
-The Hermitage → Miss Vardill  
-The First Brother’s Tale → Miss Vardill  
+[Pseudo Editorial Remarks](../../season-6/meeting-67/pseudo) → <span class="name">Miss Flaxman</span>  
+[Advertisement for an Attic Chest Poet Laureate](../../season-6/meeting-67/advertisement) → <span class="name">Miss Flaxman</span>  
+[Probationary Ode “A Song of Sixpence”](../../season-6/meeting-67/jenny) → <span class="name">Miss Flaxman</span> <span class="alias">(Jenny Wren)</span>  
+[ 〃 signed M.S. Junior](../../season-6/meeting-67/junior) → <span class="name">Miss Porden</span>  
+[ 〃 signed Moth](../../season-6/meeting-67/moth) → <span class="name">Miss Porden</span>  
+[ 〃 Introduction to an Ode](../../season-6/meeting-67/fudge) → <span class="name">Miss Flaxman</span> <span class="alias">(Fudge)</span>  
+[ 〃 Ode signed Atticus Scriblerus](../../season-6/meeting-67/atticus) → <span class="name">Miss Porden</span>  
+[The Three Things a Good Husband ought to be etc.](../../season-6/meeting-67/cobb) → Miss J. Cobb → <span class="name">com. Mrs Richardson</span>  
+[Letter from Electromagus to the Editor](../../season-6/meeting-67/electromagus) → <span class="name">Miss Porden</span>  
+[ 〃 from Atticus Scriblerus Junior](../../season-6/meeting-67/junior) → <span class="name">Mr Elliott</span>  
+[ 〃 from Sir Pertinax Townly](../../season-6/meeting-67/pertinax) →  Miss Porden → <span class="name">Miss Vardill</span>  
+[The Hermitage](../../season-6/meeting-67/hermitage) → <span class="name">Miss Vardill</span>  
+[The First Brother’s Tale](../../season-6/meeting-67/brother-1) → <span class="name">Miss Vardill</span>  
 <span class="grey">First Lecture on Natural History → Miss Porden</span>
 
 <div class="bottom">
