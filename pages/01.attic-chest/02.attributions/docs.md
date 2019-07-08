@@ -1290,7 +1290,7 @@ Advertisement for a Lost Muse → Mr Elliott
 Valentine with a Repeating Watch → Miss Vardill   
 The New Coin of Parnassus → Miss Vardill  
 Verses by Dr Brande in 1802 → com. Miss Kramer  
-Valentine to Drawing <span data-tippy="Full page children’s drawing"><i class="fa fa-picture-o" aria-hidden="true"></i></span> → Miss and Master Kay  
+Valentine to Drawing → Miss and Master Kay <span data-tippy="Full page children’s drawing" class="green"><i class="fa fa-picture-o" aria-hidden="true"></i></span>  
 Archibald McLeasing to his publisher → Miss Porden  
 Letter from France: Lavinia to Eliza → Miss Porden  
 The 1st Act of the Novice of St Benedict → Miss Vardill  
