@@ -1052,17 +1052,17 @@ tntsearch:
 <span class="meeting">No. 68&emsp;(1814-03-09)</span>  
 </div>
 
-[Probationary Ode signed Poeticus Aspirano](../../season-6/meeting-68/address) → Mr Elliott  
-[Reply to Anacreon’s 8th Ode](../../season-6/meeting-68/reply) → Miss Vardill  
-[Baithus to Epicurus](../../season-6/meeting-68/baithus) → Mr Porden  
-[Letter from Sir Pertinax Townly](../../season-6/meeting-68/pertinax) → Miss Porden    
-[Letter from Mr Beauclerc](../../season-6/meeting-68/beauclerc) → Miss Vardill  
-[Fragment of an Odd](../../season-6/meeting-68/fragment) → Miss Vardill  
+[Probationary Ode signed Poeticus Aspirano](../../season-6/meeting-68/address) → <span class="name">Mr Elliott</span>  
+[Reply to Anacreon’s 8th Ode](../../season-6/meeting-68/reply) → <span class="name">Miss Vardill</span>  
+[Baithus to Epicurus](../../season-6/meeting-68/baithus) → <span class="name">Mr Porden</span>  
+[Letter from Sir Pertinax Townly](../../season-6/meeting-68/pertinax) → <span class="name">Miss Porden</span>    
+[Letter from Mr Beauclerc](../../season-6/meeting-68/beauclerc) → <span class="name">Miss Vardill</span>  
+[Fragment of an Odd](../../season-6/meeting-68/fragment) → <span class="name">Miss Vardill</span>  
 [Letter from Electromagus](../../season-6/meeting-68/electromagus) → <span class="name">Miss Porden</span> <span data-tippy="Not included in original list" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
-[To Allen signed Margaret 1](../../season-6/meeting-68/margaret-1) → Miss Flaxman  
-[To Margaret signed Allen](../../season-6/meeting-68/allan) → Miss Flaxman  
-[To Allen signed Margaret 2](../../season-6/meeting-68/margaret-2) → Miss Flaxman  
-[Exordium of the Pleasures of Poesy](../../season-6/meeting-68/poesy) → Mr Elliott  
+[To Allen signed Margaret 1](../../season-6/meeting-68/margaret-1) → <span class="name">Miss Flaxman</span>  
+[To Margaret signed Allen](../../season-6/meeting-68/allan) → <span class="name">Miss Flaxman</span>  
+[To Allen signed Margaret 2](../../season-6/meeting-68/margaret-2) → <span class="name">Miss Flaxman</span>  
+[Exordium of the Pleasures of Poesy](../../season-6/meeting-68/poesy) → <span class="name">Mr Elliott</span>  
 <span class="grey">The 2d Lecture on Natural History → Miss Porden</span>
 
 <div class="bottom">
