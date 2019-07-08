@@ -1024,7 +1024,7 @@ tntsearch:
 [Lines to Miss Porden](../../season-5/meeting-66/lines) → <span class="name">Miss F. Richardson</span>  
 [Letter to the Editor](../../season-5/meeting-66/letter) → <span class="name">Mr Elliott</span>  
 [The Recantation](../../season-5/meeting-66/recantation) → <span class="name">Mr Elliott</span>  
-[The Rendezvous](../../season-5/meeting-66/rendezvous) → <span class="name">Miss Vardill</span> <span data-tippy="Not included in original list" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span> 
+[The Rendezvous](../../season-5/meeting-66/rendezvous) → <span class="name">Miss Vardill</span> <span data-tippy="Not included in original list" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [Romaic Fragment](../../season-5/meeting-66/fragment) → <span class="name">Mr Flaxman</span>  
 [The Attic Chest’s Farewell Address](../../season-5/meeting-66/farewell) → <span class="name">Miss Porden</span>  
 [Letter from Affezionatissima to Editress](../../season-5/meeting-66/editress) → <span class="name">Mrs Kay</span> 
