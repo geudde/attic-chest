@@ -1069,18 +1069,18 @@ tntsearch:
 <span class="meeting">No. 69&emsp;(1814-12-07)</span>  
 </div>
 
-Address from the Spirit of the Attic Chest → Miss Porden  
-The Elfin Harp → Miss Flaxman → Miss Vardill  
-Address to the Spirit of Attic Nights → Miss Vardill (Aulus Gellius)  
-Hermes Caduceus → Miss Vardill  
-Traveller of the Summer Night → Miss Flaxman (Gossipia)  
-Address of Atticus Scriblerus → Mr Elliott  
-On the Visit of Lord Aircastle → Miss Porden (Pertinax Townly)  
-Ode on Lord A.’s visit → Mr Elliott  
- 〃 by Olivia Gossamer → Miss Vardill  
- 〃 by Miss Stormont → Miss Vardill  
-Letter from Electomagus → Miss Porden  
-The 2d Brother’s Tale → Miss Vardill  
+[Address from the Spirit of the Attic Chest](../../season-7/meeting-69/spirit) → <span class="name">Miss Porden</span>  
+[The Elfin Harp](../../season-7/meeting-69/harp) → Miss Flaxman → <span class="name">Miss Vardill</span>  <span data-tippy="Author listed as Miss Flaxman, but handwriting that of AJV" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+[Address to the Spirit of Attic Nights](../../season-7/meeting-69/aulus) → <span class="name">Miss Vardill</span> <span class="alias">(Aulus Gellius)</span>  
+[Hermes Caduceus](../../season-7/meeting-69/hermes) → <span class="name">Miss Vardill</span>  
+[Traveller of the Summer Night](../../season-7/meeting-69/traveller) → <span class="name">Miss Flaxman</span> <span class="alias">(Gossipia)</span>  
+[Address of Atticus Scriblerus](../../season-7/meeting-69/atticus) → <span class="name">Mr Elliott</span>  
+[On the Visit of Lord Aircastle](../../season-7/meeting-69/pertinax) → <span class="name">Miss Porden</span> <span class="alias">(Pertinax Townly)</span>  
+<span class="grey">Ode on Lord A.’s visit → Mr Elliott</span>  <span data-tippy="Mistaken duplication of earlier contribution." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+[ 〃 by Olivia Gossamer](../../season-7/meeting-69/olivia) → <span class="name">Miss Vardill</span>  
+[ 〃 by Miss Stormont](../../season-7/meeting-69/rodelinda) → <span class="name">Miss Vardill</span>  
+[Letter from Electomagus](../../season-7/meeting-69/electromagus) → <span class="name">Miss Porden</span>  
+[The 2d Brother’s Tale](../../season-7/meeting-69/brother-2) → <span class="name">Miss Vardill</span>  
 <span class="grey">The 3d Lecture on Natural History → Miss Porden</span>
 
 <div class="bottom">
