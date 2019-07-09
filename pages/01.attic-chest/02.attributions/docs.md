@@ -1427,7 +1427,7 @@ A List of Contributions read from the Attic Chest from Febry 22d 1814 to July 15
 		<td>Mr Hinckley</td> <td class="price">1</td>
 	</tr>
 </table>
-
+<p>&nbsp;</p>
 
 <div class="bottom">
 <span class="meeting">No. 87&emsp;(1817-03-04)</span>  
