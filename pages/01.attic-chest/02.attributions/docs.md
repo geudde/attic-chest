@@ -389,13 +389,13 @@ tntsearch:
 <span class="grey">A melting Effusion to a Candle snuffer too low → com. Mr Flaxman</span>  
 <span class="grey">Farewell to Anna → Miss Flaxman</span>  
 
-<span class="missing">MISSING</span>
+<span class="missing">MISSING</span> <span data-tippy="The DRO directory for this meeting contains no files." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
 <div class="bottom">
 <span class="meeting">No. 26&emsp;(1810-06-19)</span>  
 </div>
 
-<span class="missing">MISSING</span>
+<span class="missing">MISSING</span> <span data-tippy="The DRO directory for this meeting contains no files." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
     
 <div class="bottom">
 <span class="meeting">No. 27&emsp;(1810-07-03)</span>  
@@ -1127,7 +1127,7 @@ tntsearch:
 <span class="meeting">No. 72&emsp;(1815-03-08)</span>  
 </div>
 
-<span class="missing">ATTRIBUTIONS MISSING</span> <span data-tippy="List of acknowledgements missing. Tentative attributions." class="green"><i class="fa fa-picture-o" aria-hidden="true"></i></span>
+<span class="missing">MISSING</span> <span data-tippy="List of acknowledgements missing. Tentative attributions." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
 [Letter from Electromagus](../../season-7/meeting-72/electromagus) → <span class="grey">Miss Porden</span>  
 [Letter from Sir Pertinax Townly](../../season-7/meeting-72/pertinax) → <span class="grey">&ensp;?</span>  
@@ -1142,7 +1142,7 @@ tntsearch:
 <span class="meeting">No. 73&emsp;(1815-03-22)</span>  
 </div>
 
-<span class="missing">ATTRIBUTIONS MISSING</span> <span data-tippy="List of acknowledgements missing. Tentative attributions." class="green"><i class="fa fa-picture-o" aria-hidden="true"></i></span>
+<span class="missing">MISSING</span> <span data-tippy="List of acknowledgements missing. Tentative attributions." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
 [Translation of a Hebrew Valentine](../../season-7/meeting-73/erminia) → <span class="alias">(Erminia)</span>  
 [A Substitute for Nonsense](../../season-7/meeting-73/nonsense) → <span class="grey">&ensp;?</span>  
@@ -1170,16 +1170,16 @@ tntsearch:
 [“When Norway’s Monarch knelt to gain”](../../season-8/meeting-74/pertinax#norway) → <span class="name">Miss Vardill</span>  
 [Electromagus on Heat](../../season-8/meeting-74/electromagus) → <span class="name">Miss Porden</span>  
 [Estrella Mr Beauclerc’s Prize Essay](../../season-8/meeting-74/estrella) → <span class="name">Miss Porden <span class="red">(incomplete)</span>   
-<span class="grey">Letter from Prosai Poetico → Miss Vardill</span> <span data-tippy="Missing or not scanned." class="green"><i class="fa fa-picture-o" aria-hidden="true"></i></span>  
-<span class="grey">The 6th Brother’s Tale → Miss Vardill</span> <span data-tippy="Missing or not scanned." class="green"><i class="fa fa-picture-o" aria-hidden="true"></i></span>    
-<span class="grey">Advertisement of the Hermits for the 7th Brother → Miss Vardill</span> <span data-tippy="Missing or not scanned." class="green"><i class="fa fa-picture-o" aria-hidden="true"></i></span>    
-<span class="grey">Song: For Master Doctoure → Mr Porden (when tipsy)</span> <span data-tippy="Missing or not scanned." class="green"><i class="fa fa-picture-o" aria-hidden="true"></i></span>    
+<span class="grey">Letter from Prosai Poetico → Miss Vardill</span> <span data-tippy="Missing or not scanned." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+<span class="grey">The 6th Brother’s Tale → Miss Vardill</span> <span data-tippy="Missing or not scanned." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>    
+<span class="grey">Advertisement of the Hermits for the 7th Brother → Miss Vardill</span> <span data-tippy="Missing or not scanned." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>    
+<span class="grey">Song: For Master Doctoure → Mr Porden (when tipsy)</span> <span data-tippy="Missing or not scanned." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>    
 
 <div class="bottom">
 <span class="meeting">No. 75&emsp;(1815-12-20)</span>  
 </div> 
 
-<span class="missing">MISSING</span> <span data-tippy="Contributions missing or not scanned." class="green"><i class="fa fa-picture-o" aria-hidden="true"></i></span>
+<span class="missing">MISSING</span> <span data-tippy="Contributions missing or not scanned." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
 <span class="grey">Address. Ex parte Pocket Handkerchief → Miss Vardill</span>  
 <span class="grey">A Riddle. Answer: Glass → Miss Porden</span>  
