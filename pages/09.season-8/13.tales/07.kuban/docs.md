@@ -1,5 +1,5 @@
 ---
-title: 'Telasco'
+title: 'Kuban Khan'
 taxonomy:
     category:
         - docs
