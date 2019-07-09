@@ -1087,37 +1087,39 @@ tntsearch:
 <span class="meeting">No. 70&emsp;(1814-12-21)</span>  
 </div>
 
-St Thomas’ Day → Miss Porden  
-Letter to the Editor → Mr Elliott  
-A Kit Cat Ode → Mr Elliott  
-Memoirs of a Ridicule → Miss F. Richardson  
-Lines from Ensign → Miss Flaxman  
-The Third Brother’s Tale → Miss Vardill  
-Sir P. Townly → Miss Vardill  
-An Attempt → Miss Vardill  
-Electomagus to the Editor → Miss Porden  
-Atticus Scriblerus → Mr Elliott  
-The Skull and the Custom House Officer → Miss Porden (Philemon)  
+[St Thomas’ Day](../../season-7/meeting-70/thomas) → <span class="name">Miss Porden</span>  
+[Letter to the Editor](../../season-7/meeting-70/kitcat) → <span class="name">Mr Elliott</span>  
+[A Kit Cat Ode](../../season-7/meeting-70/kitcat) → <span class="name">Mr Elliott</span>  
+[Memoirs of a Ridicule](../../season-7/meeting-70/ridicule) → <span class="name">Miss F. Richardson</span>  
+[Lines from Ensign](../../season-7/meeting-70/ensign) → <span class="name">Miss Flaxman</span>  
+[The Third Brother’s Tale](../../season-7/meeting-70/brother-3) → <span class="name">Miss Vardill</span>  
+[Sir P. Townly](../../season-7/meeting-70/pertinax) → <span class="name">Miss Vardill</span>  
+[An Attempt](../../season-7/meeting-70/attempt) → <span class="name">Miss Vardill  
+[Electromagus to the Editor](../../season-7/meeting-70/electromagus) → <span class="name">Miss Porden</span>  
+[Atticus Scriblerus](../../season-7/meeting-70/atticus) → <span class="name">Mr Elliott</span>  
+[The Skull and the Custom House Officer](../../season-7/meeting-70/skull) → <span class="name">Miss Porden</span> <span class="alias">(Philemon)</span>  
 <span class="grey">The 4th Lecture on Natural History → Miss Porden</span>
 
 <div class="bottom">
-<span class="meeting">No. 71&emsp;(? ? ? ?)</span>  
+<span class="meeting">No. 71</span>  
 </div>
 
-The Lovers Calendar for 1815 → Miss Flaxman  
-A Fairy’s Song → Miss Flaxman  
-Mr Beauclerc → Miss Vardill  
-Sir P. Townly → Miss Porden  
-Sir P. Townly → Miss Vardill  
-Philemon to Olivia → Miss Vardill  
-Valentine → Miss Porden  
-Zaire a Orosmane → Mr Elliott  
-Parody → com. Miss Flaxman  
-Ridicule → Miss Vardill  
-The Sonnetteer No. 1 → Mr Elliott  
-The 4th Brother’s Tale → Miss Vardill  
-A New Epistle → Miss Vardill  
-Music to the Fairy’s Song → Miss Vardill  
+<span class="missing">MISSING</span> <span data-tippy="The DRO directory for this meeting contains no files. Date of meeting unknown." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span> 
+
+<span class="grey">The Lovers Calendar for 1815 → Miss Flaxman</span>  
+<span class="grey">A Fairy’s Song → Miss Flaxman</span>  
+<span class="grey">Mr Beauclerc → Miss Vardill</span>  
+<span class="grey">Sir P. Townly → Miss Porden</span>  
+<span class="grey">Sir P. Townly → Miss Vardill</span>  
+<span class="grey">Philemon to Olivia → Miss Vardill</span>  
+<span class="grey">Valentine → Miss Porden</span>  
+<span class="grey">Zaire a Orosmane → Mr Elliott</span>  
+<span class="grey">Parody → com. Miss Flaxman</span>  
+<span class="grey">Ridicule → Miss Vardill</span>  
+<span class="grey">The Sonnetteer No. 1 → Mr Elliott</span>  
+<span class="grey">The 4th Brother’s Tale → Miss Vardill</span>  
+<span class="grey">A New Epistle → Miss Vardill</span>  
+<span class="grey">Music to the Fairy’s Song → Miss Vardill</span>  
 <span class="grey">The 5th Lecture on Natural History → Miss Porden</span>
 
 
@@ -1125,51 +1127,73 @@ Music to the Fairy’s Song → Miss Vardill
 <span class="meeting">No. 72&emsp;(1815-03-08)</span>  
 </div>
 
-Electromagus to the Editor with the “Lunatics” → Miss Porden  
+<span class="missing">ATTRIBUTIONS MISSING</span> <span data-tippy="List of acknowledgements missing. Tentative attributions." class="green"><i class="fa fa-picture-o" aria-hidden="true"></i></span>
 
-<span class="missing">MISSING</span>
+[Letter from Electromagus](../../season-7/meeting-72/electromagus) → <span class="grey">Miss Porden</span>  
+[Letter from Sir Pertinax Townly](../../season-7/meeting-72/pertinax) → <span class="grey">&ensp;?</span>  
+[Le Coeur Fidel](../../season-7/meeting-72/coeur) → <span class="alias">(T.H.)</span>   
+[Translation Attempted](../../season-7/meeting-72/translation) → <span class="alias">(S.P. Jr)</span>  
+[Address from Philemon Beauclerc](../../season-7/meeting-72/address) → <span class="grey">&ensp;?</span>  
+[To Olivia](../../season-7/meeting-72/olivia) → <span class="grey">Miss Vardill</span>  
+[The Glass of Grog](../../season-7/meeting-72/grog) → <span class="grey">&ensp;?</span>  
+[The Philosopher at the Fair](../../season-7/meeting-72/philosopher) → <span class="grey">&ensp;?</span>  
 
 <div class="bottom">
-<span class="meeting">No. 73</span>  
+<span class="meeting">No. 73&emsp;(1815-03-22)</span>  
 </div>
 
-<span class="missing">MISSING</span>
+<span class="missing">ATTRIBUTIONS MISSING</span> <span data-tippy="List of acknowledgements missing. Tentative attributions." class="green"><i class="fa fa-picture-o" aria-hidden="true"></i></span>
+
+[Translation of a Hebrew Valentine](../../season-7/meeting-73/erminia) → <span class="alias">(Erminia)</span>  
+[A Substitute for Nonsense](../../season-7/meeting-73/nonsense) → <span class="grey">&ensp;?</span>  
+[A Hebrew Valentine](../../season-7/meeting-73/hebrew) → <span class="grey">&ensp;?</span>  
+[Translation from the Hebrew](../../season-7/meeting-73/jessica) → <span class="alias">(Jessica)</span>  
+[A Hebrew Song](../../season-7/meeting-73/song) → <span class="grey">&ensp;?</span>  
+[Translation by Rachel Periera](../../season-7/meeting-73/rachel) → <span class="grey">&ensp;?</span>  
+[Letter from Electromagus](../../season-7/meeting-73/electromagus) → <span class="grey">&ensp;?</span>  
+[Letter from Pertinax Townly](../../season-7/meeting-73/pertinax) → <span class="grey">&ensp;?</span>  
+[The Patron](../../season-7/meeting-73/patron) → <span class="grey">&ensp;?</span>  
+[A Lesson for Lovers](../../season-7/meeting-73/lovers) → <span class="grey">&ensp;?</span>  
+[The Fifth Brother’s Tale](../../season-7/meeting-73/brother-5) → <span class="grey">Miss Vardill</grey>  
+[Lady Olivia Gossamer’s Prize Essay](../../season-7/meeting-73/olivia) → <span class="grey">&ensp;?</span>  
 
 <div class="bottom">
 <span class="meeting">No. 74&emsp;(1815-12-06)</span>  
 </div>
 
-“The Phoenix sent Cards” → Miss Vardill  
-Acrostic to a young Lady → Sir J. Barrington  
-Gormo to Stella → Miss Flaxman  
-The Chevalier Ruspini → Messrs Elliotts  
-Vale, by Mr Freemantle → com. Mrs Richardson  
-Sir Pertinax Townly containing → Miss Porden  
-“When Norway’s Monarch knelt to gain” → Miss Vardill  
-Electromagus on Heat → Miss Porden  
-Estrella Mr Beauclerc’s Prize Essay → Miss Porden <span class="red">(incomplete)</span>   
-<span class="grey">Letter from Prosai Poetico → Miss Vardill</span>  
-<span class="grey">The 6th Brother’s Tale → Miss Vardill</span>  
-<span class="grey">Advertisement of the Hermits for the 7th Brother → Miss Vardill</span>  
-<span class="grey">Song: For Master Doctoure → Mr Porden (when tipsy)</span>  
+[“The Phoenix sent Cards”](../../season-8/meeting-74/phoenix) → <span class="name">Miss Vardill</span>  
+[Acrostic to a young Lady](../../season-8/meeting-74/acrostic) → <span class="name">Sir J. Barrington</span>  
+[Gormo to Stella](../../season-8/meeting-74/gormo) → <span class="name">Miss Flaxman</span>  
+[The Chevalier Ruspini](../../season-8/meeting-74/ruspini) → <span class="name">Messrs Elliotts</span>  
+[Vale, by Mr Freemantle](../../season-8/meeting-74/vale) → <span class="name">com. Mrs Richardson</span>  
+[Letter from Sir Pertinax Townly](../../season-8/meeting-74/pertinax) → <span class="name">Miss Porden</span>  
+[“When Norway’s Monarch knelt to gain”](../../season-8/meeting-74/pertinax#norway) → <span class="name">Miss Vardill</span>  
+[Electromagus on Heat](../../season-8/meeting-74/electromagus) → <span class="name">Miss Porden</span>  
+[Estrella Mr Beauclerc’s Prize Essay](../../season-8/meeting-74/estrella) → <span class="name">Miss Porden <span class="red">(incomplete)</span>   
+<span class="grey">Letter from Prosai Poetico → Miss Vardill</span> <span data-tippy="Missing or not scanned." class="green"><i class="fa fa-picture-o" aria-hidden="true"></i></span>  
+<span class="grey">The 6th Brother’s Tale → Miss Vardill</span> <span data-tippy="Missing or not scanned." class="green"><i class="fa fa-picture-o" aria-hidden="true"></i></span>    
+<span class="grey">Advertisement of the Hermits for the 7th Brother → Miss Vardill</span> <span data-tippy="Missing or not scanned." class="green"><i class="fa fa-picture-o" aria-hidden="true"></i></span>    
+<span class="grey">Song: For Master Doctoure → Mr Porden (when tipsy)</span> <span data-tippy="Missing or not scanned." class="green"><i class="fa fa-picture-o" aria-hidden="true"></i></span>    
 
 <div class="bottom">
 <span class="meeting">No. 75&emsp;(1815-12-20)</span>  
 </div> 
 
-Address. Ex parte Pocket Handkerchief → Miss Vardill  
-A Riddle. Answer: Glass → Miss Porden  
-Do. Answer: Chrysalis → Miss Porden  
-Lines spoken in the character of Mr Coutts → Mr Empey com. Mrs Richardson  
-Words for Modinha No. 1 → Mr Elliott  
-Electromagus on light → Miss Porden  
-Sir P. Townly The Summer House → Miss Porden  
-Sir P. Townly The Flowers are Bright on hill and dale → Miss Porden  
-Mr Beauclerc to the Editor → Miss Vardill  
-Balance of Opinions on Women → Miss Vardill  
-Plan for a Lottery → Miss Vardill  
-The 7th Brother’s Tale → Miss Vardill  
-Closing address from the Hermitage → Miss Vardill  
+<span class="missing">MISSING</span> <span data-tippy="Contributions missing or not scanned." class="green"><i class="fa fa-picture-o" aria-hidden="true"></i></span>
+
+<span class="grey">Address. Ex parte Pocket Handkerchief → Miss Vardill</span>  
+<span class="grey">A Riddle. Answer: Glass → Miss Porden</span>  
+<span class="grey">Do. Answer: Chrysalis → Miss Porden</span>  
+<span class="grey">Lines spoken in the character of Mr Coutts → Mr Empey com. Mrs Richardson</span>  
+<span class="grey">Words for Modinha No. 1 → Mr Elliott</span>  
+<span class="grey">Electromagus on light → Miss Porden</span>  
+<span class="grey">Sir P. Townly The Summer House → Miss Porden</span>  
+<span class="grey">Sir P. Townly The Flowers are Bright on hill and dale → Miss Porden</span>  
+<span class="grey">Mr Beauclerc to the Editor → Miss Vardill</span>  
+<span class="grey">Balance of Opinions on Women → Miss Vardill</span>  
+<span class="grey">Plan for a Lottery → Miss Vardill</span>  
+<span class="grey">The 7th Brother’s Tale → Miss Vardill</span>  
+<span class="grey">Closing address from the Hermitage → Miss Vardill</span>  
 
 <div class="bottom">
 <span class="meeting">No. 76&emsp;(1816-01-30)</span>  

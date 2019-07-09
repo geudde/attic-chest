@@ -5,4 +5,4 @@ taxonomy:
 visible: true
 ---
 
-# <span class="grey">Missing</span>
+# <span class="grey">All contributions missing</span>

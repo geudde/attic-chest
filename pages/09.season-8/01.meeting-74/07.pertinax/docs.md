@@ -16,6 +16,8 @@ Do you remember a tree in the Arabian Nights which has all its leaves black on o
 
 You must know, Mr Editor, my muse is as capricious as the rest of her sex, and though ready enough with her smiles when unsolicited, has a most repulsive frown at the very idea of compulsion. She was, the day before yesterday, in one of these froward humours, yet Lady Olivia’s complimentary fragment required an answer, so after spoiling a quarter of a hundred of pens, and half a quire of gilt-edged paper, I at length had recourse to the steel pen of Atticus, who soon, for value received, accommodated me with the following fragment which I produced yesterday morning after my accustomed visit to the Machine; for I thought it was as well on a principle of economy, to make them serve two purposes.
 
+<a name="norway"></a>
+
 <div class="author">Miss Vardill</div>
 
 <span class="title">To the Fairest</span>
