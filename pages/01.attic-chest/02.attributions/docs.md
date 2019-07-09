@@ -1429,8 +1429,6 @@ A List of Contributions read from the Attic Chest from Febry 22d 1814 to July 15
 </table>
 
 
----
-
 <div class="bottom">
 <span class="meeting">No. 87&emsp;(1817-03-04)</span>  
 </div>  
