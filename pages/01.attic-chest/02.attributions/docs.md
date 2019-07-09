@@ -1198,54 +1198,160 @@ tntsearch:
 <div class="bottom">
 <span class="meeting">No. 76&emsp;(1816-01-30)</span>  
 </div> 
-&emsp;
+
+[The Lily of the Valley](../../season-8/meeting-76/lily) → <span class="grey">&ensp;?</span>    
+[The Muse’s Reproof](../../season-8/meeting-76/reproof) → <span class="grey">&ensp;?</span>    
+[The Poet Quarrels with His Muse](../../season-8/meeting-76/quarrel) → <span class="grey">&ensp;?</span>    
+[The Escape and Capture of Dapple](../../season-8/meeting-76/dapple) → <span class="grey">&ensp;?</span>    
+[Electromagus on Electricity](../../season-8/meeting-76/electromagus) → <span class="grey">&ensp;?</span>    
+[Letter from Pertinax Townly](../../season-8/meeting-76/pertinax) → <span class="grey">&ensp;?</span>    
+[First Chapter of a Novel](../../season-8/meeting-76/novel) → <span class="grey">&ensp;?</span>    
+[Biorno: a Ballad Romance](../../season-8/meeting-76/biorno) → <span class="grey">&ensp;?</span>    
+[The Two Herveys](../../season-8/meeting-76/herveys) → <span class="grey">&ensp;?</span>    
+[Address of Winter to Timour](../../season-8/meeting-76/winter) → <span class="grey">&ensp;?</span>    
+[Love in April](../../season-8/meeting-76/april) → <span class="grey">&ensp;?</span>    
+[Darcy](../../season-8/meeting-76/darcy) → <span class="grey">&ensp;?</span>    
+
 <div class="bottom">
 <span class="meeting">No. 77&emsp;(1816-02-14)</span>  
 </div>
-&emsp;
+
+[Contemplation](../../season-8/meeting-77/contemplation) → <span class="grey">&ensp;?</span>  
+[The Maids of Portugal](../../season-8/meeting-77/maids) → <span class="grey">&ensp;?</span>    
+[Pity](../../season-8/meeting-77/pity) → <span class="grey">&ensp;?</span>    
+[My Loved Country](../../season-8/meeting-77/country) → <span class="grey">&ensp;?</span>    
+[The Fair Penitent](../../season-8/meeting-77/penitent) → <span class="grey">&ensp;?</span>    
+[The Invitation](../../season-8/meeting-77/invitation) → <span class="grey">&ensp;?</span>    
+[Lottery Announcement](../../season-8/meeting-77/lottery) → <span class="grey">&ensp;?</span>  
+[To Ellen](../../season-8/meeting-77/ellen) → <span class="grey">&ensp;?</span>  
+[To Miss Mary Anne King](../../season-8/meeting-77/mary) → <span class="grey">&ensp;?</span>  
+[To Maria](../../season-8/meeting-77/maria) → <span class="grey">&ensp;?</span>  
+[Letter from Pertinax Townly](../../season-8/meeting-77/pertinax) → <span class="grey">&ensp;?</span>  
+[Letter from Peregrine Project](../../season-8/meeting-77/project) → <span class="grey">&ensp;?</span>  
+[Sketch of the Plan](../../season-8/meeting-77/plan) → <span class="grey">&ensp;?</span>  
+[Letter from Peregrine Project](../../season-8/meeting-77/peregrine) → <span class="grey">&ensp;?</span>  
+[The Wreath](../../season-8/meeting-77/wreath) → <span class="grey">&ensp;?</span>  
+[The Gamut of Faces](../../season-8/meeting-77/gamut) → <span class="grey">&ensp;?</span>  
+
 <div class="bottom">
 <span class="meeting">No. 78&emsp;(1816-02-28)</span>  
 </div>
-&emsp;
+
+[Essay on Science](../../season-8/meeting-78/beauclerc) → <span class="grey">&ensp;?</span>  
+[To Zara](../../season-8/meeting-78/zara) → <span class="grey">&ensp;?</span>  
+[Valentine](../../season-8/meeting-78/Valentine) → <span class="grey">&ensp;?</span>  
+[Answer to the Wreath](../../season-8/meeting-78/wreath) → <span class="grey">&ensp;?</span>  
+[The Leyden Jar](../../season-8/meeting-78/leyden) → <span class="grey">&ensp;?</span>  
+[Acrostic to Miss Porden on Her Poem](../../season-8/meeting-78/acrostic) → <span class="grey">&ensp;?</span>  
+[Letter from Prosai-Poetico](../../season-8/meeting-78/poetico) → <span class="grey">&ensp;?</span>  
+[Documents from Prosai-Poetico](../../season-8/meeting-78/documents) → <span class="grey">&ensp;?</span>  
+[Letter from Pertinax Townly](../../season-8/meeting-78/pertinax) → <span class="grey">&ensp;?</span>  
+[Anonymous Letter](../../season-8/meeting-78/anonymous) → <span class="grey">&ensp;?</span>  
+[The Spanish Armada](../../season-8/meeting-78/armada) → <span class="grey">&ensp;?</span>  
+[Four Nations: The Saxon](../../season-8/meeting-78/saxon) → <span class="grey">&ensp;?</span>  
+
 <div class="bottom">
 <span class="meeting">No. 79&emsp;(1816-03-13)</span>  
 </div>
-&emsp;
+ 
+[L’Acerbo No. 1](../../season-8/meeting-79/acerbo) → <span class="grey">&ensp;?</span>  
+[The Englishman](../../season-8/meeting-79/englishman) → <span class="grey">&ensp;?</span>  
+[Four Nations: The Swede](../../season-8/meeting-79/swede) → <span class="grey">&ensp;?</span>  
+[Letter from Pertinax Townly](../../season-8/meeting-79/pertinax) → <span class="grey">&ensp;?</span>  
+[Letter from Atticus Scriblerus](../../season-8/meeting-79/atticus) → <span class="grey">&ensp;?</span>   
+[Alonzo and Estella](../../season-8/meeting-79/alonzo) → <span class="grey">&ensp;?</span>    
+[Absence](../../season-8/meeting-79/absence) → <span class="grey">&ensp;?</span>    
+[The Search](../../season-8/meeting-79/search) → <span class="grey">&ensp;?</span>    
+[The Chaplet](../../season-8/meeting-79/chaplet) → <span class="grey">&ensp;?</span>    
+[Message from Author](../../season-8/meeting-79/message) → <span class="grey">&ensp;?</span>    
+[The Fairies’ Isle](../../season-8/meeting-79/isle) → <span class="grey">&ensp;?</span>  
+<span class="grey">Laila: An Arabian Tale</span> <a href="../season-8/tales/laila"><i class="fa fa-link" aria-hidden="true"></i></a>
+
+
 <div class="bottom">
 <span class="meeting">No. 80&emsp;(1816-03-27)</span>  
 </div>
-&emsp;
+ 
+[L’Acerbo No. 2](../../season-8/meeting-80/acerbo) → <span class="grey">&ensp;?</span>  
+[Letter from Pertinax Townly](../../season-8/meeting-80/pertinax) → <span class="grey">&ensp;?</span>  
+[On Snuff](../../season-8/meeting-80/snuff) → <span class="grey">&ensp;?</span>  
+[Emma: A Ballad](../../season-8/meeting-80/emma) → <span class="grey">&ensp;?</span>  
+[To Celia](../../season-8/meeting-80/celia) → <span class="grey">&ensp;?</span>  
+[Four Nations: The Jew](../../season-8/meeting-80/jew) → <span class="grey">&ensp;?</span>  
+[The Aëronautiad](../../season-8/meeting-80/aeronautiad) → <span class="grey">&ensp;?</span>  
+<span class="grey">Khatoon: A Persian Tale</span> <a href="../season-8/tales/khatoon"><i class="fa fa-link" aria-hidden="true"></i></a>
+
 <div class="bottom">
 <span class="meeting">No. 81&emsp;(1816-04-24)</span>  
 </div>
-&emsp;
+ 
+[L’Acerbo No. 3](../../season-8/meeting-81/acerbo) → <span class="grey">&ensp;?</span>  
+[Sir Gilbert’s Heiress](../../season-8/meeting-81/heiress) → <span class="grey">&ensp;?</span>  
+[Answer to the Sonnet by Dr Gregor](../../season-8/meeting-81/answer) → <span class="grey">&ensp;?</span>  
+[Farewell to Henrietta](../../season-8/meeting-81/farewell) → <span class="grey">&ensp;?</span>  
+[Letter from Pertinax Townly](../../season-8/meeting-81/pertinax) → <span class="grey">&ensp;?</span>  
+[Letter and Poem from Betty Brush](../../season-8/meeting-81/betty) → <span class="grey">&ensp;?</span>  
+<span class="grey">Komalda: An Indian Tale</span> <a href="../season-8/tales/komalda"><i class="fa fa-link" aria-hidden="true"></i></a>
+
 <div class="bottom">
 <span class="meeting">No. 82&emsp;(1816-05-08)</span>  
 </div>
-&emsp;
+
+[Letter from Pertinax Townly](../../season-8/meeting-82/pertinax) → <span class="grey">&ensp;?</span>    
+[Letter from Philemon Beauclerc](../../season-8/meeting-82/beauclerc) → <span class="grey">&ensp;?</span>  
+[Letter from Electromagus](../../season-8/meeting-82/electromagus) → <span class="grey">&ensp;?</span>  
+[Letter from Atticus Scriblerus](../../season-8/meeting-82/atticus) → <span class="grey">&ensp;?</span>  
+[The Seal](../../season-8/meeting-82/seal) → <span class="grey">&ensp;?</span>  
+[Letter and Poem from Mopsey](../../season-8/meeting-82/mopsey) → <span class="grey">&ensp;?</span>  
+[The Spectre’s Isle](../../season-8/meeting-82/spectre) → <span class="grey">&ensp;?</span>  
+[Edwin and Angelina](../../season-8/meeting-82/edwin) → <span class="grey">&ensp;?</span>  
+<span class="grey">Telasco: An American Tale</span> <a href="../season-8/tales/telasco"><i class="fa fa-link" aria-hidden="true"></i></a>
+
 <div class="bottom">
 <span class="meeting">No. 83&emsp;(1816-05-22)</span>  
 </div>
-&emsp;
+ 
+[Waterloo](../../season-8/meeting-83/waterloo) → <span class="grey">&ensp;?</span>  
+[To Miss Porden](../../season-8/meeting-83/adieu) → <span class="grey">&ensp;?</span>  
+[Humorous Fragments](../../season-8/meeting-83/humour) → <span class="grey">&ensp;?</span>  
+[Letter from Pertinax Townly](../../season-8/meeting-83/pertinax) → <span class="grey">&ensp;?</span>  
+[Memorial to a Favorite Dog](../../season-8/meeting-83/dog) → <span class="grey">&ensp;?</span>  
+[Charade](../../season-8/meeting-83/charade) → <span class="grey">&ensp;?</span>  
+[Two Poems from an Editor](../../season-8/meeting-83/editor) → <span class="grey">&ensp;?</span>    
+<span class="grey">Kuban Khan: A Tartarian Tale</span> <a href="../season-8/tales/kuban"><i class="fa fa-link" aria-hidden="true"></i></a>
+
 <div class="bottom">
 <span class="meeting">No. 84&emsp;(1816-06-05)</span>  
 </div>
-&emsp;
+ 
+[To EAP on Her Birthday](../../season-8/meeting-84/birthday) → <span class="grey">&ensp;?</span>  
+[Sales by Auction](../../season-8/meeting-84/auction) → <span class="grey">&ensp;?</span>  
+[Letter from Pertinax Townly](../../season-8/meeting-84/pertinax) → <span class="grey">&ensp;?</span>  
+[An Attic Bard to His Bride](../../season-8/meeting-84/bread) → <span class="grey">&ensp;?</span>  
+[Fourth Day’s Sale](../../season-8/meeting-84/sale) → <span class="grey">&ensp;?</span>  
+[A Translation from the Persian](../../season-8/meeting-84/persian) → <span class="grey">&ensp;?</span>  
+[Gleanings](../../season-8/meeting-84/gleanings) → <span class="grey">&ensp;?</span>  
+[A Morean Tale](../../season-8/meeting-84/morean) → <span class="grey">&ensp;?</span>  
+[Charade](../../season-8/meeting-84/charade) → <span class="grey">&ensp;?</span>  
+[Sonnet to a Tea Kettle](../../season-8/meeting-84/kettle) → <span class="grey">&ensp;?</span>  
+
 <div class="bottom">
 <span class="meeting">No. 85&emsp;(1816-07-15)</span>  
 </div>
-&emsp;
+  
+[Sweet Hope](../../season-8/meeting-85/hope) → <span class="grey">&ensp;?</span>  
+[A Felpham Song](../../season-8/meeting-85/felpham) → <span class="grey">&ensp;?</span>  
+[The Reading Baker](../../season-8/meeting-85/baker) → <span class="name">Miss Porden</span>  
+[From Prosai-Poetico to Beauclerc](../../season-8/meeting-85/prosai) → <span class="name">Miss Vardill</span>  
+[The Thirteenth of June](../../season-8/meeting-85/june) → <span class="name">Miss Vardill</span>  
+[A Curious Experiment](../../season-8/meeting-85/experiment) → Belfast News Letter
+[Ellen’s Eulogy](../../season-8/meeting-85/eulogy) → <span class="name">Mrs Richardson</span>  
+
 <div class="bottom">
-<span class="meeting">No. 86&emsp;(???)</span>  
+<span class="meeting">No. 86</span>  
 </div>
 
-
-
-<span data-tippy="text missing" class="red">[...]</span>
-The Reading Baker → Miss Porden  
-The 13th of June → Miss Vardill  
-Letter from Mr Prosai Poetico → Miss Vardill  
-“So when we Ellen’s Eulogy would write” → Mrs Richardson
+<span class="missing">MISSING</span> <span data-tippy="All files and attributions missing. Date of meeting unknown. This fascicle contains National Tales collated from previous meetings." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
 ---
 
