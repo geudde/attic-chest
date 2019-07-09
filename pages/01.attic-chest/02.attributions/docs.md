@@ -1573,7 +1573,7 @@ A List of Contributions read from the Attic Chest from Febry 22d 1814 to July 15
 [The Canal to the Brook](../../season-10/meeting-95/canal) → Mrs Kelly Davis → <span class="name">Miss Vardill</span>  
 [The Cairngorm Diamond](../../season-10/meeting-95/cairngorm) → <span class="name">Miss Vardill</span>  
 [The Family Circle No. 2 ](../../season-10/meeting-95/circle-2) → <span class="name">Mrs Richardson</span>  
-[Count Leandre to the Editress](../../season-10/meeting-95/leandre-1)<span class="grey">&ensp;?</span>  
+[Count Leandre to the Editress](../../season-10/meeting-95/leandre-1) → <span class="grey">&ensp;?</span>  
 [A Dream, to the Editor of the Attic Chest](../../season-10/meeting-95/dream) → <span class="name">Miss Appleton</span>  
 <span class="grey">Hassan a Tale → Miss Porden</span>  
 [Count Leandre with some Greek](../../season-10/meeting-95/leandre-2) → <span class="name">com. Miss Vardill & Mrs Flaxman</span>
