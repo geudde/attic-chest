@@ -614,7 +614,7 @@ tntsearch:
 [To May](../../season-3/meeting-40/may) → <span class="name">Miss Porden</span>  
 [Description of a River](../../season-3/meeting-40/river) → <span class="name">com. Mrs Flaxman</span>  
 [Mira’s Despair](../../season-3/meeting-40/mira) → <span class="name">com. Mr Vignoles</span>  
-[Epitaph on Douglas Duke of Hamilton](../../season-3/meeting-40/epitaph) → Mr Jekyll → <span class="name"com. Mrs Staveley</span>  
+[Epitaph on Douglas Duke of Hamilton](../../season-3/meeting-40/epitaph) → Mr Jekyll → <span class="name">com. Mrs Staveley</span>  
 <span class="grey">Graeme of Balgowan, The Hero of Barrosa → com. Mrs Staveley</span>  
 [Most Haste, Worst Speed](../../season-3/meeting-40/haste) → <span class="name">Miss Porden</span>  
 [The Dream](../../season-3/meeting-40/dream) → <span class="name">Miss Flaxman</span>  
