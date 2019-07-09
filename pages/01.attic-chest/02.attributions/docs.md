@@ -1199,6 +1199,8 @@ tntsearch:
 <span class="meeting">No. 76&emsp;(1816-01-30)</span>  
 </div> 
 
+<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;85 missing." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+
 [The Lily of the Valley](../../season-8/meeting-76/lily) → <span class="grey">&ensp;?</span>    
 [The Muse’s Reproof](../../season-8/meeting-76/reproof) → <span class="grey">&ensp;?</span>    
 [The Poet Quarrels with His Muse](../../season-8/meeting-76/quarrel) → <span class="grey">&ensp;?</span>    
@@ -1215,6 +1217,8 @@ tntsearch:
 <div class="bottom">
 <span class="meeting">No. 77&emsp;(1816-02-14)</span>  
 </div>
+
+<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;85 missing." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
 [Contemplation](../../season-8/meeting-77/contemplation) → <span class="grey">&ensp;?</span>  
 [The Maids of Portugal](../../season-8/meeting-77/maids) → <span class="grey">&ensp;?</span>    
@@ -1237,6 +1241,8 @@ tntsearch:
 <span class="meeting">No. 78&emsp;(1816-02-28)</span>  
 </div>
 
+<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;85 missing." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+
 [Essay on Science](../../season-8/meeting-78/beauclerc) → <span class="grey">&ensp;?</span>  
 [To Zara](../../season-8/meeting-78/zara) → <span class="grey">&ensp;?</span>  
 [Valentine](../../season-8/meeting-78/Valentine) → <span class="grey">&ensp;?</span>  
@@ -1253,7 +1259,9 @@ tntsearch:
 <div class="bottom">
 <span class="meeting">No. 79&emsp;(1816-03-13)</span>  
 </div>
- 
+
+<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;85 missing." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+
 [L’Acerbo No. 1](../../season-8/meeting-79/acerbo) → <span class="grey">&ensp;?</span>  
 [The Englishman](../../season-8/meeting-79/englishman) → <span class="grey">&ensp;?</span>  
 [Four Nations: The Swede](../../season-8/meeting-79/swede) → <span class="grey">&ensp;?</span>  
@@ -1271,6 +1279,8 @@ tntsearch:
 <div class="bottom">
 <span class="meeting">No. 80&emsp;(1816-03-27)</span>  
 </div>
+
+<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;85 missing." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
  
 [L’Acerbo No. 2](../../season-8/meeting-80/acerbo) → <span class="grey">&ensp;?</span>  
 [Letter from Pertinax Townly](../../season-8/meeting-80/pertinax) → <span class="grey">&ensp;?</span>  
@@ -1284,6 +1294,8 @@ tntsearch:
 <div class="bottom">
 <span class="meeting">No. 81&emsp;(1816-04-24)</span>  
 </div>
+
+<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;85 missing." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
  
 [L’Acerbo No. 3](../../season-8/meeting-81/acerbo) → <span class="grey">&ensp;?</span>  
 [Sir Gilbert’s Heiress](../../season-8/meeting-81/heiress) → <span class="grey">&ensp;?</span>  
@@ -1296,6 +1308,8 @@ tntsearch:
 <div class="bottom">
 <span class="meeting">No. 82&emsp;(1816-05-08)</span>  
 </div>
+
+<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;85 missing." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
 [Letter from Pertinax Townly](../../season-8/meeting-82/pertinax) → <span class="grey">&ensp;?</span>    
 [Letter from Philemon Beauclerc](../../season-8/meeting-82/beauclerc) → <span class="grey">&ensp;?</span>  
@@ -1310,6 +1324,8 @@ tntsearch:
 <div class="bottom">
 <span class="meeting">No. 83&emsp;(1816-05-22)</span>  
 </div>
+
+<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;85 missing." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
  
 [Waterloo](../../season-8/meeting-83/waterloo) → <span class="grey">&ensp;?</span>  
 [To Miss Porden](../../season-8/meeting-83/adieu) → <span class="grey">&ensp;?</span>  
@@ -1323,6 +1339,8 @@ tntsearch:
 <div class="bottom">
 <span class="meeting">No. 84&emsp;(1816-06-05)</span>  
 </div>
+
+<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;85 missing." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
  
 [To EAP on Her Birthday](../../season-8/meeting-84/birthday) → <span class="grey">&ensp;?</span>  
 [Sales by Auction](../../season-8/meeting-84/auction) → <span class="grey">&ensp;?</span>  
@@ -1338,20 +1356,22 @@ tntsearch:
 <div class="bottom">
 <span class="meeting">No. 85&emsp;(1816-07-15)</span>  
 </div>
+
+<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;85 missing." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
   
 [Sweet Hope](../../season-8/meeting-85/hope) → <span class="grey">&ensp;?</span>  
 [A Felpham Song](../../season-8/meeting-85/felpham) → <span class="grey">&ensp;?</span>  
 [The Reading Baker](../../season-8/meeting-85/baker) → <span class="name">Miss Porden</span>  
 [From Prosai-Poetico to Beauclerc](../../season-8/meeting-85/prosai) → <span class="name">Miss Vardill</span>  
 [The Thirteenth of June](../../season-8/meeting-85/june) → <span class="name">Miss Vardill</span>  
-[A Curious Experiment](../../season-8/meeting-85/experiment) → Belfast News Letter
+[A Curious Experiment](../../season-8/meeting-85/experiment) → Belfast News Letter  
 [Ellen’s Eulogy](../../season-8/meeting-85/eulogy) → <span class="name">Mrs Richardson</span>  
 
 <div class="bottom">
 <span class="meeting">No. 86</span>  
 </div>
 
-<span class="missing">MISSING</span> <span data-tippy="All files and attributions missing. Date of meeting unknown. This fascicle contains National Tales collated from previous meetings." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+<span class="missing">MISSING</span> <span data-tippy="All files and lists of attributions missing. Date of meeting unknown. Fascicle No. 86 contains National Tales collated from previous meetings." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
 ---
 
