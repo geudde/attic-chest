@@ -1455,13 +1455,13 @@ A List of Contributions read from the Attic Chest from Febry 22d 1814 to July 15
 [Answer to the Advertisement from Atticus Scriblerus](../../season-9/meeting-88/answer) → <span class="name">Miss Porden</span>  
 [Lady Byron’s Answer to “Fare thee well”](../../season-9/meeting-88/farewell) → <span class="name">com. Miss Thomson</span>  
 [Lavinia to Eliza Letter 2](../../season-9/meeting-88/lavinia-2) → <span class="name">Miss Porden</span>  
-[The Milk Maid](../../season-9/meeting-88/milk) → <span class="grey">&ensp;?</span>
+[The Milk Maid](../../season-9/meeting-88/milk) → <span class="grey">&ensp;?</span>  
 <span class="grey">Continuation of Allah ul Din → com. Mr Porden</span>  
 <span class="grey">Comte Leandre to the Editress → Mr Elliott</span>  
-[Lines with a Purse](../../season-9/meeting-88/purse) → <span class="name">Miss Appleton</span> <span  class="alias">(Phytho)</span> 
+[Lines with a Purse](../../season-9/meeting-88/purse) → <span class="name">Miss Appleton</span> <span  class="alias">(Phytho)</span>  
 [Vive l’Amour by Do.](../../season-9/meeting-88/amour) → <span class="name">Mr Elliott</span>  
-[Money](../../season-9/meeting-88/money) → <span class="grey">&ensp;?</span>
-<span class="grey">The Waterloo Button → Miss Vardill</span> <a href="https://vardill.org/relic.html"><i class="fa fa-link" aria-hidden="true"></i></a>  
+[Money](../../season-9/meeting-88/money) → <span class="grey">&ensp;?</span>  
+<span class="grey">The Waterloo Button → Miss Vardill</span> <a href="https://vardill.org/relic.html"><i class="fa fa-external-link" aria-hidden="true"></i></a>  
 [Specimen of a New Official Style](../../season-9/meeting-88/style) → <span class="name">com. Mr Elliott</span>  
 [The Fete in the Sun](../../season-9/meeting-88/fete) → <span class="name">Miss Porden</span>  
 
