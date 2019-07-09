@@ -39,7 +39,7 @@ tntsearch:
 </div>
 
 [Sonnet to a Nightingale](../../season-1/meeting-03/nightingale) → <span class="name">C. Sanders</span>  
-[To St Andrew](../../season-1/meeting-03/andrew) → <span class="name">A. Bower, com. Mr. Flaxman</span>  
+[To St Andrew](../../season-1/meeting-03/andrew) → <span class="name">A. Bower com. Mr. Flaxman</span>  
 [On Hearing a Lady Sing](../../season-1/meeting-03/amiable) → <span class="name">Mr Joseph</span> <span class="alias">(Timanthes)</span>  
 [To Sir John Barrington on His Birthday](../../season-1/meeting-03/barrington) → <span class="name">Mr Porden</span>  
 [The Muses Vagaries cont.](../../season-1/meeting-03/muses) → <span class="grey">&ensp;?</span>    
@@ -131,7 +131,7 @@ tntsearch:
 [The Jealous Lover](../../season-1/meeting-08/jealous-lover) → <span class="name">Mr Porden</span>  
 [The Lamentation of Pegasus](../../season-1/meeting-08/lamentation) → <span class="name">Miss Porden</span>  
 [The Chest of Eleanora](../../season-1/meeting-08/chest) → <span class="name">Miss Parkinson</span>  
-<span class="grey">The Fete de la Rose → Mrs. Hoole, com. by Mrs. Kay</span>  
+<span class="grey">The Fete de la Rose → Mrs. Hoole com. Mrs. Kay</span>  
 [Constellation No. 3](../../season-1/meeting-08/constellation-3) → <span class="name">Miss Porden</span>  
 <span class="grey">A Riddle on Buonaparte</span> →  
 
@@ -214,7 +214,7 @@ tntsearch:
 [The Fairy’s Wish](../../season-2/meeting-14/wish) → <span class="name">Do.</span> <span class="alias">(Gossamer)</span>  
 [Riddle “Four people sat down at a Tavern to play”](../../season-2/meeting-14/riddle) → <span class="grey">&ensp;?</span>   
 [Dulce Domum](../../season-2/meeting-14/dulce) → <span class="name">Miss Flaxman</span> <span class="alias">(Peregrine)</span>  
-[To a Lost Friend](../../season-2/meeting-14/friend) → <span class="name">Miss Ludlow, com. by Miss Richardson</span>  
+[To a Lost Friend](../../season-2/meeting-14/friend) → <span class="name">Miss Ludlow com. by Miss Richardson</span>  
 [Anacreontic](../../season-2/meeting-14/anacreontic) → <span class="name">Mr Flaxman</span> <span class="alias">(Anacreonides)</span>  
 [Monsieur L’Abbé de Grenthe’s Academy](../../season-2/meeting-14/grenthe) → <span class="name">com. Sir John Barrington</span>  
 [Verses spoken at His Ball](../../season-2/meeting-14/grenthe) → <span class="name">Do.</span>  
@@ -1438,11 +1438,11 @@ A List of Contributions read from the Attic Chest from Febry 22d 1814 to July 15
 [Valentine with a Repeating Watch](../../season-9/meeting-87/watch) → <span class="name">Miss Vardill </span>  
 [The New Coin of Parnassus](../../season-9/meeting-87/coin) → <span class="name">Miss Vardill</span>  
 [Verses by Dr Brande in 1802](../../season-9/meeting-87/brande) → <span class="name">com. Miss Kramer</span>  
-<span class="grey">Valentine to Drawing → Miss and Master Kay</span> <span data-tippy="Full page children’s drawing" class="green"><i class="fa fa-picture-o" aria-hidden="true"></i></span>  
+<span class="grey">Valentine to Drawing → Miss and Master Kay</span> <span data-tippy="Full page children’s drawing. Not reproduced here." class="green"><i class="fa fa-picture-o" aria-hidden="true"></i></span>  
 [Archibald McLeasing to his publisher](../../season-9/meeting-87/macleesing) → <span class="name">Miss Porden</span>  
 [Letter from France: Lavinia to Eliza](../../season-9/meeting-87/lavinia-1) → <span class="name">Miss Porden</span>  
 [The 1st Act of the Novice of St Benedict](../../season-9/meeting-87/novice) → <span class="name">Miss Vardill</span>  
-[The 1st Act of Allah ul Din](../../season-9/meeting-87/boobs) → <span class="name">com. Mr Porden</span>  
+<span class="grey">The 1st Act of Allah ul Din → com. Mr Porden</span>  
 [Jeremy Granger to Lucy](../../season-9/meeting-87/granger) → <span class="name">Mr Porden</span>  
 
 <div class="bottom">
@@ -1468,107 +1468,112 @@ A List of Contributions read from the Attic Chest from Febry 22d 1814 to July 15
 <span class="meeting">No. 89&emsp;(1817-04-15)</span>  
 </div>  
 
-[The Festival of Nouroz](../../season-9/meeting-89/boobs) → <span class="name">Miss Vardill</span>  
-[Enigma: The Letter H](../../season-9/meeting-89/boobs) → <span class="name">Miss Fanshaw com. Mrs Richardson</span>  
-[Lines for a Lady’s Jewel Box](../../season-9/meeting-89/boobs) → <span class="name">Miss Flaxman</span>  
-[Lines in the Character of Lorenze di Medici](../../season-9/meeting-89/boobs) → <span class="name">Mr Hayley com. Mrs Flaxman </span>  
-[Lavinia to Eliza Letter 3](../../season-9/meeting-89/boobs) → <span class="name">Miss Porden</span>  
-[Part of Allah ul Din](../../season-9/meeting-89/boobs) → <span class="name">com. Mr Porden</span>  
-[Rectius Vives of Horace by Dr Brande](../../season-9/meeting-89/boobs) → <span class="name">com. Miss Kramer</span>  
-[Persian Verses from Sadi](../../season-9/meeting-89/boobs) → <span class="name">Miss Vardill</span>  
-[Translation of Vive l’Amour](../../season-9/meeting-89/boobs) → <span class="name">Miss Porden</span> <span class="alias">(Ignoramus Bibo)</span>  
-[The Norman Cap](../../season-9/meeting-89/boobs) → <span class="name">Mr Johnson</span>  
-[Petition of Aaron Harebrains](../../season-9/meeting-89/boobs) → <span class="name">Miss Appleton</span>  
-[Epistle from Monsieur Leon](../../season-9/meeting-89/boobs) → <span class="name">Mr E. Elliott </span>  
-[Rosamond’s Chest](../../season-9/meeting-89/boobs) → <span class="name">Mr Bayler com. Miss Vardill</span>
+[The Festival of Nauruz](../../season-9/meeting-89/nauruz) → <span class="name">Miss Vardill</span>  
+[Enigma: The Letter H](../../season-9/meeting-89/enigma) → <span class="name">Miss Fanshaw com. Mrs Richardson</span>  
+[Lines for a Lady’s Jewel Box](../../season-9/meeting-89/jewel) → <span class="name">Miss Flaxman</span>  
+[Lines in the Character of Lorenzo di Medici](../../season-9/meeting-89/lorenzo) → <span class="name">Mr Hayley com. Mrs Flaxman </span>  
+[Lavinia to Eliza Letter 3](../../season-9/meeting-89/lavinia-3) → <span class="name">Miss Porden</span>  
+<span class="grey">Part of Allah ul Din → com. Mr Porden</span>  
+<span class="grey">Rectius Vives of Horace by Dr Brande → com. Miss Kramer</span>  
+<span class="grey">Persian Verses from Sadi → Miss Vardill</span>  
+<span class="grey">Translation of Vive l’Amour → Miss Porden (Ignoramus Bibo)</span>  
+<span class="grey">The Norman Cap → Mr Johnson</span>  
+<span class="grey">Petition of Aaron Harebrains → Miss Appleton</span>  
+<span class="grey">Epistle from Monsieur Leon → Mr E. Elliott </span>  
+<span class="grey">Rosamond’s Chest → Mr Bayler com. Miss Vardill</span>
 
 <div class="bottom">
 <span class="meeting">No. 90&emsp;(1817-04-15)</span>  
 </div>  
 
-[Mr Solve Mery’s Papyrostatic Experiment](../../season-9/meeting-90/boobs) → <span class="name">Miss Appleton</span>  
-[On Captain Harvey of Battle](../../season-9/meeting-90/boobs) → <span class="name">com. Mrs Flaxman</span>  
-[A Muse Found](../../season-9/meeting-90/boobs) → <span class="name">Miss Vardill</span>  
-[500 Lines](../../season-9/meeting-90/boobs) → <span class="name">Miss Vardill</span>  
-[Part of Allah ul Din](../../season-9/meeting-90/boobs) → <span class="name">com. Mr Porden</span>  
-[Lavinia to Eliza Letter 4 Account of St Maur](../../season-9/meeting-90/boobs) → <span class="name">Miss Porden and Mr Elliott </span>  
-[Praise of the Literary Fund](../../season-9/meeting-90/boobs) → <span class="name"><span class="grey">&ensp;?</span></span>  
-[Impromptu with the pen of a lady](../../season-9/meeting-90/boobs) → <span class="name">Mr Elliott</span>  
-[Comte Leandre a L’Editresse](../../season-9/meeting-90/boobs) → <span class="name">Mr Elliott</span>  
-[The Power of Love](../../season-9/meeting-90/boobs) → <span class="name">Mr Elliott</span>  
-[Chanson a Boire](../../season-9/meeting-90/boobs) → <span class="name">Mr Elliott  </span>  
-[The Progress of Sculpture](../../season-9/meeting-90/boobs) → <span class="name">Miss Appleton</span> 
+<span class="missing">MISSING</span> <span data-tippy="Files either missing or not scanned." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+
+<span class="grey">Mr Solve Mery’s Papyrostatic Experiment → Miss Appleton</span>  
+<span class="grey">On Captain Harvey of Battle → com. Mrs Flaxman</span>  
+<span class="grey">A Muse Found → Miss Vardill</span>  
+<span class="grey">500 Lines → Miss Vardill</span>  
+<span class="grey">Part of Allah ul Din → com. Mr Porden</span>  
+<span class="grey">Lavinia to Eliza Letter 4 Account of St Maur → Miss Porden and Mr Elliott </span>  
+<span class="grey">Praise of the Literary Fund → &ensp;?</span>  
+<span class="grey">Impromptu with the pen of a lady → Mr Elliott</span>  
+<span class="grey">Comte Leandre a L’Editresse → Mr Elliott</span>  
+<span class="grey">The Power of Love → Mr Elliott</span>  
+<span class="grey">Chanson a Boire → Mr Elliott</span>  
+<span class="grey">The Progress of Sculpture → Miss Appleton</span> 
 
 <div class="bottom">
 <span class="meeting">No. 91&emsp;(1817-05-13)</span>  
 </div>  
 
-[Mr Buckskin to the Editor](../../season-9/meeting-91/boobs) → <span class="name">Mr Elliott</span>  
-[The Tyger](../../season-9/meeting-91/boobs) → <span class="name">Mr Blake com. Mrs Flaxman</span>  
-[The Chimney Sweepers song on the 1st May](../../season-9/meeting-91/boobs) → <span class="name">Mr Blake com. Mrs Flaxman</span>  
-[A Lovers Song, translated by Anacreon Lovelorn](../../season-9/meeting-91/boobs) → <span class="name">Miss Porden</span>  
-[Vive Café](../../season-9/meeting-91/boobs) → <span class="name">Miss Appleton</span>  
-[Lavinia to Eliza Letter 5](../../season-9/meeting-91/boobs) → <span class="name">Miss Porden</span>  
-[An Arabian Anecdote](../../season-9/meeting-91/boobs) → <span class="name">Miss Porden</span>  
-[The Progress of Sculpture Continued](../../season-9/meeting-91/boobs) → <span class="name">Miss Appleton</span>  
-[The Novice of St Benedict Concluded](../../season-9/meeting-91/boobs) → <span class="name">Miss Vardill</span>
+[Mr Buckskin to the Editor](../../season-9/meeting-91/buckskin) → <span class="name">Mr Elliott</span>  
+[The Tyger](../../season-9/meeting-91/tyger) → <span class="name">Mr Blake com. Mrs Flaxman</span>  
+[The Chimney Sweepers song on the 1st May](../../season-9/meeting-91/sweep) → <span class="name">Mr Blake com. Mrs Flaxman</span>  
+[A Lovers Song, translated by Anacreon Lovelorn](../../season-9/meeting-91/lovelorn) → <span class="name">Miss Porden</span>  
+[Vive Café](../../season-9/meeting-91/cafe) → <span class="name">Miss Appleton</span>  
+[Lavinia to Eliza Letter 5](../../season-9/meeting-91/lavinia-5) → <span class="name">Miss Porden</span>  
+[An Arabian Anecdote](../../season-9/meeting-91/arabian) → <span class="name">Miss Porden</span>  
+[The Progress of Sculpture Continued](../../season-9/meeting-91/sculpture) → <span class="name">Miss Appleton</span>  
+[The Novice of St Benedict Concluded](../../season-9/meeting-91/novice) → <span class="name">Miss Vardill</span>
 
 <div class="bottom">
 <span class="meeting">No. 92&emsp;(1817-05-27)</span>  
 </div>  
 
-[Epitaph on a Hermit, signed Quiz](../../season-9/meeting-92/boobs) → <span class="name">com. Miss Appleton</span>  
-[Speak English Pray!](../../season-9/meeting-92/boobs) → <span class="name">Miss Vardill</span>  
-[John Bull to the Editor](../../season-9/meeting-92/boobs) → <span class="name">Miss Porden</span>  
-[A Decima par Blondel with a Chorus](../../season-9/meeting-92/boobs) → <span class="name">Miss Porden</span>  
-[Part of Allah Ul Dien](../../season-9/meeting-92/boobs) → <span class="name">com. Mr Porden</span>  
-[Lavinia to Eliza Letter 6](../../season-9/meeting-92/boobs) → <span class="name">Miss Porden</span>  
-[The Quest of the Muse](../../season-9/meeting-92/boobs) → <span class="name">Miss Porden</span>  
-[Atticus Scriblerus to Olivia](../../season-9/meeting-92/boobs) → <span class="name">Miss Vardill</span>  
-[King Edward and Fair Agnes](../../season-9/meeting-92/boobs) → <span class="name">Miss Vardill</span>
+[Epitaph on a Hermit, signed Quiz](../../season-9/meeting-92/epitaph) → <span class="name">com. Miss Appleton</span>  
+[Speak English Pray!](../../season-9/meeting-92/english) → <span class="name">Miss Vardill</span>  
+[John Bull to the Editor](../../season-9/meeting-92/bull) → <span class="name">Miss Porden</span>  
+[A Decima par Blondel with a Chorus](../../season-9/meeting-92/decima) → <span class="name">Miss Porden</span>  
+<span class="grey">Part of Allah Ul Dien → com. Mr Porden</span>  
+[Lavinia to Eliza Letter 6](../../season-9/meeting-92/lavinia-6) → <span class="name">Miss Porden</span>  
+[The Quest of the Muse](../../season-9/meeting-92/quest) → <span class="name">Miss Porden</span>  
+<span class="grey">Atticus Scriblerus to Olivia → Miss Vardill</span>  
+[King Edward and Fair Agnes](../../season-9/meeting-92/legend) → <span class="name">Miss Vardill</span>
+[Acrostic on the Death of a Beloved Child](../../season-9/meeting-92/acrostic) → <span class="grey">&ensp;?</span> <span data-tippy="Not included in original list" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 
 <div class="bottom">
 <span class="meeting">No. 93&emsp;(1817-06-10)</span>  
 </div>
 
-[Cram to the Editor](../../season-9/meeting-93/boobs) → <span class="name">Miss Appleton</span>  
-[The pas trois](../../season-9/meeting-93/boobs) → <span class="name">Miss Vardill</span>  
-[Omara an Eastern Tale](../../season-9/meeting-93/boobs) → <span class="name">Miss Appleton</span>  
-[Farewell ye scenes of past delight](../../season-9/meeting-93/boobs) → <span class="name">com. Miss Denman</span>  
-[Adieu charmantes Bergeres](../../season-9/meeting-93/boobs) → <span class="name">com. Mrs Flaxman</span>  
-[Atticus to Rodelinda](../../season-9/meeting-93/boobs) → <span class="name">Miss Vardill</span>  
-[Allah Ul Dien Concluded](../../season-9/meeting-93/boobs) → <span class="name">com. Mr Porden</span>  
-[Lavinia to Eliza Letter 7](../../season-9/meeting-93/boobs) → <span class="name">Miss Porden </span>  
-[The Quest of the Muse](../../season-9/meeting-93/boobs) → <span class="name">Mr Elliott</span>  
-[The Quest of the Muse continued signed ER](../../season-9/meeting-93/boobs) → <span class="name">Miss Porden</span>  
-[Lines sent with 2 baskets of fruit](../../season-9/meeting-93/boobs) →  
+[Cram to the Editor](../../season-9/meeting-93/cram) → <span class="name">Miss Appleton</span>  
+[The pas trois](../../season-9/meeting-93/pas-trois) → <span class="name">Miss Vardill</span>  
+[Omara an Eastern Tale](../../season-9/meeting-93/omara) → <span class="name">Miss Appleton</span>  
+[Farewell ye scenes of past delight](../../season-9/meeting-93/farewell) → <span class="name">com. Miss Denman</span>  
+[Adieu charmantes Bergeres](../../season-9/meeting-93/adieu) → <span class="name">com. Mrs Flaxman</span>  
+[Atticus to Rodelinda](../../season-9/meeting-93/atticus) → <span class="name">Miss Vardill</span>  
+<span class="grey">Allah Ul Dien Concluded → com. Mr Porden</span>  
+[Lavinia to Eliza Letter 7](../../season-9/meeting-93/lavinia-7) → <span class="name">Miss Porden </span>  
+[The Quest of the Muse](../../season-9/meeting-93/quest-1) → <span class="name">Mr Elliott</span>  
+[The Quest of the Muse continued signed ER](../../season-9/meeting-93/quest-2) → <span class="name">Miss Porden</span>  
+[Lines sent with 2 baskets of fruit](../../season-9/meeting-93/fruit) → <span class="grey">&ensp;?</span> 
 
 <div class="bottom">
 <span class="meeting">No. 94&emsp;(1818-05-19)</span>  
 </div>
 
-[Honesty’s Promotion](../../season-10/meeting-94/boobs) → <span class="name">Miss Vardill</span>  
-[The Family Circle No. 1](../../season-10/meeting-94/boobs) → <span class="name">Mrs Richardson</span>  
-[Dr Brewster to Ellen with his Kaleidoscope](../../season-10/meeting-94/boobs) → <span class="name">Miss Vardill</span>  
-[Count Leandre to the Editress](../../season-10/meeting-94/boobs) → <span class="name">Mr Elliott</span>  
-[The Count’s Adventures at Calais](../../season-10/meeting-94/boobs) → <span class="name">Miss Porden</span>  
-[Euphrosyne to Pomona](../../season-10/meeting-94/boobs) → <span class="name">Miss Porden</span>  
-[Pomona to Euphrosyne](../../season-10/meeting-94/boobs) → <span class="name">Miss Appleton</span>  
-[Riddle](../../season-10/meeting-94/boobs) → <span class="name">Miss Porden</span>  
-[To the Authoress of the Arctic Expeditions](../../season-10/meeting-94/boobs) → <span class="name">Miss Vardill</span>  
-[Fragment de la Grande Histoire des Genies](../../season-10/meeting-94/boobs) → <span class="name">Mr Halma</span>  
-[Count Leandre à Iris](../../season-10/meeting-94/boobs) → <span class="name">Mr Elliott</span>  
-[The Wren a Manx Legend](../../season-10/meeting-94/boobs) → <span class="name">Miss Porden</span>
+[Honesty’s Promotion](../../season-10/meeting-94/honesty) → <span class="name">Miss Vardill</span>  
+[The Family Circle No. 1](../../season-10/meeting-94/circle-1) → <span class="name">Mrs Richardson</span>  
+[Dr Brewster to Ellen with his Kaleidoscope](../../season-10/meeting-94/brewster) → <span class="name">Miss Vardill</span>  
+[Count Leandre to the Editress](../../season-10/meeting-94/leandre-1) → <span class="name">Mr Elliott</span>  
+[The Count’s Adventures at Calais](../../season-10/meeting-94/calais) → <span class="name">Miss Porden</span>  
+[Euphrosyne to Pomona](../../season-10/meeting-94/pomona) → <span class="name">Miss Porden</span>  
+[Pomona to Euphrosyne](../../season-10/meeting-94/euphrosyne) → <span class="name">Miss Appleton</span>  
+[Valentine to a Young Lady](../../season-9/meeting-92/valentine) → <span class="alias">Ouranos</span> <span data-tippy="Not included in original list" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[Riddle](../../season-10/meeting-94/enigma) → <span class="name">Miss Porden</span>  
+[To the Authoress of the Arctic Expeditions](../../season-10/meeting-94/arctic) → <span class="name">Miss Vardill</span>  
+[Fragment de la Grande Histoire des Genies](../../season-10/meeting-94/halma) → <span class="name">Mr Halma</span>  
+[Count Leandre à Iris](../../season-10/meeting-94/leandre-2) → <span class="name">Mr Elliott</span>  
+[The Wren a Manx Legend](../../season-10/meeting-94/wren) → <span class="name">Miss Porden</span>
 
 <div class="bottom">
 <span class="meeting">No. 95&emsp;(1818-06-02)</span>  
 </div>
 
-[To a Lady with some Lille Thread](../../season-10/meeting-95/boobs) → <span class="name">Miss Appleton</span>  
-[The Quest of the Muse Canto 128](../../season-10/meeting-95/boobs) → <span class="name">Mr Elliott</span>  
-[The Canal to the Brook](../../season-10/meeting-95/boobs) → Mrs Kelly Davis → <span class="name">Miss Vardill</span>  
-[The Cairngorm Diamond](../../season-10/meeting-95/boobs) → <span class="name">Miss Vardill</span>  
-[The Family Circle No. 2 ](../../season-10/meeting-95/boobs) → <span class="name">Mrs Richardson</span>  
-[A Dream, to the Editor of the Attic Chest](../../season-10/meeting-95/boobs) → <span class="name">Miss Appleton</span>  
-[Hassan a Tale](../../season-10/meeting-95/boobs) → <span class="name">Miss Porden</span>  
-[Count Leandre with some Greek](../../season-10/meeting-95/boobs) → <span class="name">com. Miss Vardill & Mrs Flaxman</span>
+[To a Lady with some Lille Thread](../../season-10/meeting-95/lille) → <span class="name">Miss Appleton</span>  
+[The Quest of the Muse Canto 128](../../season-10/meeting-95/quest) → <span class="name">Mr Elliott</span>  
+[The Canal to the Brook](../../season-10/meeting-95/canal) → Mrs Kelly Davis → <span class="name">Miss Vardill</span>  
+[The Cairngorm Diamond](../../season-10/meeting-95/cairngorm) → <span class="name">Miss Vardill</span>  
+[The Family Circle No. 2 ](../../season-10/meeting-95/circle-2) → <span class="name">Mrs Richardson</span>  
+[Count Leandre to the Editress](../../season-10/meeting-95/leandre-1)<span class="grey">&ensp;?</span>  
+[A Dream, to the Editor of the Attic Chest](../../season-10/meeting-95/dream) → <span class="name">Miss Appleton</span>  
+<span class="grey">Hassan a Tale → Miss Porden</span>  
+[Count Leandre with some Greek](../../season-10/meeting-95/leandre-2) → <span class="name">com. Miss Vardill & Mrs Flaxman</span>
