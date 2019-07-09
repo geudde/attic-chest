@@ -1527,7 +1527,7 @@ A List of Contributions read from the Attic Chest from Febry 22d 1814 to July 15
 [Lavinia to Eliza Letter 6](../../season-9/meeting-92/lavinia-6) → <span class="name">Miss Porden</span>  
 [The Quest of the Muse](../../season-9/meeting-92/quest) → <span class="name">Miss Porden</span>  
 <span class="grey">Atticus Scriblerus to Olivia → Miss Vardill</span>  
-[King Edward and Fair Agnes](../../season-9/meeting-92/legend) → <span class="name">Miss Vardill</span>
+[King Edward and Fair Agnes](../../season-9/meeting-92/legend) → <span class="name">Miss Vardill</span>  
 [Acrostic on the Death of a Beloved Child](../../season-9/meeting-92/acrostic) → <span class="grey">&ensp;?</span> <span data-tippy="Not included in original list" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 
 <div class="bottom">
@@ -1557,7 +1557,7 @@ A List of Contributions read from the Attic Chest from Febry 22d 1814 to July 15
 [The Count’s Adventures at Calais](../../season-10/meeting-94/calais) → <span class="name">Miss Porden</span>  
 [Euphrosyne to Pomona](../../season-10/meeting-94/pomona) → <span class="name">Miss Porden</span>  
 [Pomona to Euphrosyne](../../season-10/meeting-94/euphrosyne) → <span class="name">Miss Appleton</span>  
-[Valentine to a Young Lady](../../season-9/meeting-92/valentine) → <span class="alias">Ouranos</span> <span data-tippy="Not included in original list" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[Valentine to a Young Lady](../../season-9/meeting-92/valentine) → <span class="alias">(Ouranos)</span> <span data-tippy="Not included in original list" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [Riddle](../../season-10/meeting-94/enigma) → <span class="name">Miss Porden</span>  
 [To the Authoress of the Arctic Expeditions](../../season-10/meeting-94/arctic) → <span class="name">Miss Vardill</span>  
 [Fragment de la Grande Histoire des Genies](../../season-10/meeting-94/halma) → <span class="name">Mr Halma</span>  
