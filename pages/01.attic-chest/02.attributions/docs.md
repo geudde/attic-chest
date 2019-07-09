@@ -1377,7 +1377,7 @@ tntsearch:
 
 A List of Contributions read from the Attic Chest from Febry 22d 1814 to July 15th 1816 including the 6th, 7th and 8th Seasons
 
-<table style="width: 250px; font-size: 0.8em; margin-left: 5em;">
+<table style="width: 250px; font-size: 0.8em; margin-left: 5em; margin-bottom: 2em;">
 	<tr>
 		<td>Mr Flaxman</td> <td class="price">3</td>
 	</tr>
@@ -1427,7 +1427,7 @@ A List of Contributions read from the Attic Chest from Febry 22d 1814 to July 15
 		<td>Mr Hinckley</td> <td class="price">1</td>
 	</tr>
 </table>
-<p>&nbsp;</p>
+
 
 <div class="bottom">
 <span class="meeting">No. 87&emsp;(1817-03-04)</span>  
