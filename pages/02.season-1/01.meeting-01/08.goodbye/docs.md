@@ -63,7 +63,7 @@ Since time, there’s no denying,
 One half in how d’ye doing goes,  
 And t’other in good by’ing.  
   
-Without my prior influence
+Without my prior influence  
 Cou’d your’s have ever flourish’d  
 And can your hand one flower dispense  
 But those my fears have nourished?

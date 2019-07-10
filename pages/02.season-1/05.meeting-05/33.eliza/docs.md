@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">D. Grant</div>
 
-> Given to Eliza, on Valentine’s Day    
+<span class="title">>Given to Eliza, on Valentine’s Day</span>    
     
 Hear me Eliza! while I pray    
 On Venus’ fav’rite holiday —    

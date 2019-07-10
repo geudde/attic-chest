@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Porden</div>
 
-> On His Birthday  —  Dec 8th 1808
+<span class="title">On His Birthday — Dec 8th 1808</span>
   
 That ghastly being long and spare  
 (So Parnel paints the villain care)  

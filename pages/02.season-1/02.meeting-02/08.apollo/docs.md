@@ -106,8 +106,8 @@ You’re out I’m sure, says one, for by his heels,
 He’s some fine messenger from the Brazils.  
 &emsp;&emsp;As you may guess our trav’ller rested well,  
 And not till ten, next morning rang his bell,  
-He drank his coffee, ale his butter’d toast,  
-And pen’d an advertisement for the Post.  
+He drank his coffee, ate his butter’d toast,  
+And penn’d an advertisement for the Post.  
   
 Stray’d lately from Pierean Shades,  
 Nine fair accomplished beautious maids,  
@@ -126,4 +126,4 @@ Who lodges at the sign of the White Filly.
   
 Fitz-Pieria  
   
-> To be continued  
+To be continued  

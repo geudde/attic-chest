@@ -34,4 +34,6 @@ With opening beauties meets their eyes
 And blest is he oh nymph divine  
 Who drew you for my Valentine  
 
-> EAP Feb 14 1809
+EAP
+
+Feb 14 1809

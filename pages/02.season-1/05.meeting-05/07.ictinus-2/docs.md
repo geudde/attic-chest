@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Porden</div>
 
-> With a drawing of a heart changing from red in consequence of being pierced by an arrow of colour
+With a drawing of a heart changing from red in consequence of being pierced by an arrow of colour
 
 Do not refuse to read one line  
 From your forsaken Valentine  

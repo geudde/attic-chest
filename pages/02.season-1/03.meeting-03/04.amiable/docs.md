@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Joseph</div>
 
-> Written on hearing an amiable young lady who sang with taste & feeling but who wanted strength of voice.
+Written on hearing an amiable young lady who sang with taste & feeling but who wanted strength of voice.
 
 When Sappho — fair enthusiast! sung  
 &emsp;&emsp;To Lesbian youth their groves among  

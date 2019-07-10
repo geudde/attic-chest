@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Mr Flaxman and Co.</div>
 
-> Impromptu  
+<span class="title">Impromptu</span>  
   
 There was little Jack Horner  
 Once sat in a corner,  

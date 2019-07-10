@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Communicated by Mr Flaxman</div>
 
-> Written on contemplating a Pile of splendid Ruins
+<span class="title">Written on contemplating a Pile of splendid Ruins</span>
 
 “Say, *Time*, whose, once, yon stately pile, (I cried)  
 Which, now, thou crumbled ruthless with the soil?”  

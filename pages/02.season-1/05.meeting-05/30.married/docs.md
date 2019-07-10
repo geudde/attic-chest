@@ -39,5 +39,5 @@ And hope that you’ll not doom him to despair.
   
 Pensorius  
   
-Feb^y</sup> 14<sup>th^  
+Feb<sup>y</sup> 14<sup>th</sup>  
 Stockwell
