@@ -1,5 +1,5 @@
 ---
-title: Author Attributions
+title: 'Author Attributions'
 taxonomy:
     category:
         - docs
@@ -1357,7 +1357,7 @@ tntsearch:
 <span class="meeting">No. 85&emsp;(1816-07-15)</span>  
 </div>
 
-<span class="missing">MISSING</span> <span data-tippy="Attributions for first half of meeting missing or not scanned" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+<span class="missing">MISSING</span> <span data-tippy="Attributions for first half of Meeting No. 85 missing or not scanned" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
   
 [Sweet Hope](../../season-8/meeting-85/hope) → <span class="grey">&ensp;?</span>  
 [A Felpham Song](../../season-8/meeting-85/felpham) → <span class="grey">&ensp;?</span>  
@@ -1435,7 +1435,7 @@ tntsearch:
 
 [To A.F. Since Tenderness to Age belongs](../../season-9/meeting-87/tenderness) → <span class="name">Mr Hayley com. Mrs Flaxman</span>  
 [Advertisement for a Lost Muse](../../season-9/meeting-87/lost) → <span class="name">Mr Elliott</span>  
-[Valentine with a Repeating Watch](../../season-9/meeting-87/watch) → <span class="name">Miss Vardill </span>  
+[Valentine with a Repeating Watch](../../season-9/meeting-87/watch) → <span class="name">Miss Vardill</span>  
 [The New Coin of Parnassus](../../season-9/meeting-87/coin) → <span class="name">Miss Vardill</span>  
 [Verses by Dr Brande in 1802](../../season-9/meeting-87/brande) → <span class="name">com. Miss Kramer</span>  
 <span class="grey">Valentine to Drawing → Miss and Master Kay</span> <span data-tippy="Children’s drawing. No text." class="info"><i class="fa fa-picture-o" aria-hidden="true"></i></span>  
@@ -1471,7 +1471,7 @@ tntsearch:
 [The Festival of Nauruz](../../season-9/meeting-89/nauruz) → <span class="name">Miss Vardill</span>  
 [Enigma: The Letter H](../../season-9/meeting-89/enigma) → <span class="name">Miss Fanshaw com. Mrs Richardson</span>  
 [Lines for a Lady’s Jewel Box](../../season-9/meeting-89/jewel) → <span class="name">Miss Flaxman</span>  
-[Lines in the Character of Lorenzo di Medici](../../season-9/meeting-89/lorenzo) → <span class="name">Mr Hayley com. Mrs Flaxman </span>  
+[Lines in the Character of Lorenzo di Medici](../../season-9/meeting-89/lorenzo) → <span class="name">Mr Hayley com. Mrs Flaxman</span>  
 [Lavinia to Eliza Letter 3](../../season-9/meeting-89/lavinia-3) → <span class="name">Miss Porden</span>  
 <span class="grey">Part of Allah ul Din → com. Mr Porden</span>  
 <span class="grey">Rectius Vives of Horace by Dr Brande → com. Miss Kramer</span>  
@@ -1479,7 +1479,7 @@ tntsearch:
 <span class="grey">Translation of Vive l’Amour → Miss Porden (Ignoramus Bibo)</span>  
 <span class="grey">The Norman Cap → Mr Johnson</span>  
 <span class="grey">Petition of Aaron Harebrains → Miss Appleton</span>  
-<span class="grey">Epistle from Monsieur Leon → Mr E. Elliott </span>  
+<span class="grey">Epistle from Monsieur Leon → Mr E. Elliott</span>  
 <span class="grey">Rosamond’s Chest → Mr Bayler com. Miss Vardill</span>
 
 <div class="bottom">
@@ -1493,7 +1493,7 @@ tntsearch:
 <span class="grey">A Muse Found → Miss Vardill</span>  
 <span class="grey">500 Lines → Miss Vardill</span>  
 <span class="grey">Part of Allah ul Din → com. Mr Porden</span>  
-<span class="grey">Lavinia to Eliza Letter 4 Account of St Maur → Miss Porden and Mr Elliott </span>  
+<span class="grey">Lavinia to Eliza Letter 4 Account of St Maur → Miss Porden and Mr Elliott</span>  
 <span class="grey">Praise of the Literary Fund → &ensp;?</span>  
 <span class="grey">Impromptu with the pen of a lady → Mr Elliott</span>  
 <span class="grey">Comte Leandre a L’Editresse → Mr Elliott</span>  
@@ -1541,7 +1541,7 @@ tntsearch:
 [Adieu charmantes Bergeres](../../season-9/meeting-93/adieu) → <span class="name">com. Mrs Flaxman</span>  
 [Atticus to Rodelinda](../../season-9/meeting-93/atticus) → <span class="name">Miss Vardill</span>  
 <span class="grey">Allah Ul Dien Concluded → com. Mr Porden</span>  
-[Lavinia to Eliza Letter 7](../../season-9/meeting-93/lavinia-7) → <span class="name">Miss Porden </span>  
+[Lavinia to Eliza Letter 7](../../season-9/meeting-93/lavinia-7) → <span class="name">Miss Porden</span>  
 [The Quest of the Muse](../../season-9/meeting-93/quest-1) → <span class="name">Mr Elliott</span>  
 [The Quest of the Muse continued signed ER](../../season-9/meeting-93/quest-2) → <span class="name">Miss Porden</span>  
 [Lines sent with 2 baskets of fruit](../../season-9/meeting-93/fruit) → <span class="grey">&ensp;?</span> 
