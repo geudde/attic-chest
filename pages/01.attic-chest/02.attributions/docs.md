@@ -1371,11 +1371,11 @@ tntsearch:
 <span class="meeting">No. 86</span>  
 </div>
 
-<span class="missing">MISSING</span> <span data-tippy="Empty DRO directory. Date of meeting unknown. Fascicle No. 86 contains [National Tales](../../season-8/tales) collated from previous meetings." class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+<span class="missing">MISSING</span> <span data-tippy="Empty DRO directory. Date of meeting unknown. Fascicle No. 86 contains National Tales collated from previous meetings." class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
 ---
 
-A List of Contributions read from the Attic Chest from Febry 22d 1814 to July 15th 1816 including the 6th, 7th and 8th Seasons
+<span class="title">A List of Contributions read from the Attic Chest from Febry 22d 1814 to July 15th 1816 including the 6th, 7th and 8th Seasons</span>
 
 <table style="width: 250px; font-size: 0.8em; margin-left: 5em; margin-bottom: 2em;">
 	<tr>
