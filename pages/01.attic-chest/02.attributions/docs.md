@@ -1357,7 +1357,7 @@ tntsearch:
 <span class="meeting">No. 85&emsp;(1816-07-15)</span>  
 </div>
 
-<span class="missing">MISSING</span> <span data-tippy="Attributions for first half of Meeting No. 84 missing" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+<span class="missing">MISSING</span> <span data-tippy="Attributions for first half of meeting missing or not scanned" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
   
 [Sweet Hope](../../season-8/meeting-85/hope) → <span class="grey">&ensp;?</span>  
 [A Felpham Song](../../season-8/meeting-85/felpham) → <span class="grey">&ensp;?</span>  
