@@ -1375,7 +1375,7 @@ tntsearch:
 
 ---
 
-<span class="title">A List of Contributions read from the Attic Chest from Febry 22d 1814 to July 15th 1816 including the 6th, 7th and 8th Seasons</span>
+<span class="title-small">A List of Contributions read from the Attic Chest from Febry 22d 1814 to July 15th 1816 including the 6th, 7th and 8th Seasons</span>
 
 <table style="width: 250px; font-size: 0.8em; margin-left: 5em; margin-bottom: 2em;">
 	<tr>
@@ -1438,7 +1438,7 @@ tntsearch:
 [Valentine with a Repeating Watch](../../season-9/meeting-87/watch) → <span class="name">Miss Vardill </span>  
 [The New Coin of Parnassus](../../season-9/meeting-87/coin) → <span class="name">Miss Vardill</span>  
 [Verses by Dr Brande in 1802](../../season-9/meeting-87/brande) → <span class="name">com. Miss Kramer</span>  
-<span class="grey">Valentine to Drawing → Miss and Master Kay</span> <span data-tippy="Full page children’s drawing. No text." class="info"><i class="fa fa-picture-o" aria-hidden="true"></i></span>  
+<span class="grey">Valentine to Drawing → Miss and Master Kay</span> <span data-tippy="Children’s drawing. No text." class="info"><i class="fa fa-picture-o" aria-hidden="true"></i></span>  
 [Archibald McLeasing to his publisher](../../season-9/meeting-87/macleesing) → <span class="name">Miss Porden</span>  
 [Letter from France: Lavinia to Eliza](../../season-9/meeting-87/lavinia-1) → <span class="name">Miss Porden</span>  
 [The 1st Act of the Novice of St Benedict](../../season-9/meeting-87/novice) → <span class="name">Miss Vardill</span>  
