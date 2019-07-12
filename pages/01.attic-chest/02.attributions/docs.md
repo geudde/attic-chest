@@ -304,7 +304,7 @@ tntsearch:
 [Answer to the Charade Fortnight](../../season-2/meeting-19/answer) → <span class="name">Do.</span> <span class="alias">(M.)</span>  
 [Verses to the Misses D---ns](../../season-2/meeting-19/verses) → <span class="name">Mr Porden</span>  
 [Doubt and Certainty](../../season-2/meeting-19/doubt) → <span class="name">Mr Porden</span>  
-[Sonnet →  
+[Sonnet](../../season-2/meeting-19/sonnet-2) → <span class="grey">&ensp;?</span>   
 [Song to the Tune of Four and Twenty Fiddlers](../../season-2/meeting-19/song) → <span class="name">Mr Flaxman</span>  
 
 <div class="bottom">
@@ -389,13 +389,13 @@ tntsearch:
 <span class="grey">A melting Effusion to a Candle snuffer too low → com. Mr Flaxman</span>  
 <span class="grey">Farewell to Anna → Miss Flaxman</span>  
 
-<span class="missing">MISSING</span> <span data-tippy="The DRO directory for this meeting contains no files." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+<span class="missing">MISSING</span> <span data-tippy="Empty DRO directory" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
 <div class="bottom">
 <span class="meeting">No. 26&emsp;(1810-06-19)</span>  
 </div>
 
-<span class="missing">MISSING</span> <span data-tippy="The DRO directory for this meeting contains no files." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+<span class="missing">MISSING</span> <span data-tippy="Empty DRO directory" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
     
 <div class="bottom">
 <span class="meeting">No. 27&emsp;(1810-07-03)</span>  
@@ -627,8 +627,8 @@ tntsearch:
 <span class="meeting">No. 41&emsp;(1811-05-21)</span>  
 </div>
 
-[From the Greek of Oudeis](../../season-3/meeting-41/oudeis) → <span class="name">Miss Porden</span> <span data-tippy="Not included in acknowledgements" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
-[Believe Me Love](../../season-3/meeting-41/believe) → <span class="name">com. Miss Richardson</span> <span data-tippy="Not included in acknowledgements" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[From the Greek of Oudeis](../../season-3/meeting-41/oudeis) → <span class="name">Miss Porden</span> <span data-tippy="Not included in acknowledgements" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[Believe Me Love](../../season-3/meeting-41/believe) → <span class="name">com. Miss Richardson</span> <span data-tippy="Not included in acknowledgements" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [To Moth, from Stella](../../season-3/meeting-41/moth) → <span class="name">Miss Porden</span>  
 [To Stella, from Moth](../../season-3/meeting-41/stella) → <span class="name">Miss Flaxman</span>  
 [Effusions on My Husband’s Birthday](../../season-3/meeting-41/husband) → <span class="name">com. Miss F. Richardson</span>  
@@ -645,7 +645,7 @@ tntsearch:
 
 [Sonnet Written in the Favorite Chair of Dean Swift](../../season-3/meeting-42/swift) → <span class="name">com. Miss Beslee</span>  
 [The Author’s Address to His Muse](../../season-3/meeting-42/address) → <span class="name">com. Miss F. Richardson</span>  
-[Familiar Epistle to a Daughter](../../season-3/meeting-42/epistle) → <span class="name">com. Miss Beslee</span> <span class="red">(incomplete)</span>  
+[Familiar Epistle to a Daughter](../../season-3/meeting-42/epistle) → <span class="name">com. Miss Beslee</span>  <span data-tippy="Incomplete scan" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [The Hern](../../season-3/meeting-42/hern) → <span class="name">com. Mr Porden</span>  
 [To a Lady Distinguished by Her Dutiful Attention](../../season-3/meeting-42/lady) → <span class="name">com. Mr Porden</span>  
 <span class="grey">The Sylphiad Canto 4th → Mr Vignoles</span>  
@@ -752,7 +752,7 @@ tntsearch:
 [Not in a Lover’s Humble Strains](../../season-4/meeting-49/strains) → <span class="name">com. Miss Vardill</span>  
 [To Stella](../../season-4/meeting-49/stella) → <span class="name">Miss Flaxman</span> <span class="alias">(Moth)</span>  
 [Enigmatical Valentine](../../season-4/meeting-49/enigmatical) → <span class="name">Miss Vardill</span>  
-[Valentine](../../season-4/meeting-49/valentine) → <span class="name">Miss Porden</span> <span data-tippy="Not included in acknowledgements" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[Valentine](../../season-4/meeting-49/valentine) → <span class="name">Miss Porden</span> <span data-tippy="Not included in acknowledgements" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [Answer to the Advertisement](../../season-4/meeting-49/answer-1) → <span class="name">Miss Vardill</span> <span class="alias">(A.G.P.)</span>  
 [Answer to the Advertisement](../../season-4/meeting-49/answer-2) → <span class="name">Miss Porden</span> <span class="alias">(Alopex)</span>  
 <span class="grey">The Fourth Book of the Restoration → Miss Porden</span>
@@ -833,7 +833,7 @@ tntsearch:
 [Pastoral](../../season-4/meeting-55/pastoral) → <span class="name">Mr Elliott</span> 
 [Serenade and Reply](../../season-4/meeting-55/serenade) → <span class="name">Miss Porden</span>  
 [To Emma](../../season-4/meeting-55/emma) → <span class="name">Miss Porden</span>  
-[To Amanda](../../season-4/meeting-55/amanda) → Miss Porden → <span class="name">Miss Vardill</span> <span class="alias">(Donald)</span> <span data-tippy="Attributed to EAP but handwriting that of AJV" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>   
+[To Amanda](../../season-4/meeting-55/amanda) → Miss Porden → <span class="name">Miss Vardill</span> <span class="alias">(Donald)</span> <span data-tippy="Attributed to EAP but handwriting that of AJV" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>   
 [Account of the Interview](../../season-4/meeting-55/interview) → <span class="name">Miss Porden</span> <span class="alias">(T.S.)</span>  
 [The Advertising Lady’s Rejection](../../season-4/meeting-55/rejection) → <span class="name">Miss Porden</span> <span class="alias">(Miss Brown)</span>  
 [To the Fair Advertiser](../../season-4/meeting-55/advertiser) → <span class="name">Miss Porden</span>  
@@ -868,7 +868,7 @@ tntsearch:
 [Blessed be the Eye](../../season-4/meeting-57/eye) → <span class="name">Miss Vardill</span>  
 [Ode for the Concluding Night](../../season-4/meeting-57/ode) → <span class="name">Mr Elliott</span>  
 [Adieu my Patrons](../../season-4/meeting-57/patrons) → <span class="name">Miss Porden</span>  
-[To the Editress](../../season-4/meeting-57/filiosa) → <span class="alias">(Filiosa)</span> <span data-tippy="Not included in acknowledgements" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+[To the Editress](../../season-4/meeting-57/filiosa) → <span class="alias">(Filiosa)</span> <span data-tippy="Not included in acknowledgements" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
 <div class="bottom">
 <span class="meeting">No. 58&emsp;(1813-03-17)</span>  
@@ -881,8 +881,8 @@ tntsearch:
 [Address “When Rains Have Ceased”](../../season-5/meeting-58/address-3) → <span class="name">Miss Richardson</span>  
 [The Guardian Spirit’s Address](../../season-5/meeting-58/guardian) → <span class="name">Miss Porden</span>  
 [Written for the Opening of the A.C.](../../season-5/meeting-58/opening) → <span class="name">Miss Vardill</span>  
-[On Proud Britannia’s Rocky Seat](../../season-5/meeting-58/opening) → <span class="name">Miss Vardill</span> <span data-tippy="Duplicate listing for previous contribution" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
-[Address, from the Spirit of the Attic Chest](../../season-5/meeting-58/address-4) → Miss Porden → <span class="name">Miss Vardill</span> <span data-tippy="Attributed to EAP but handwriting is that of AJV" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[On Proud Britannia’s Rocky Seat](../../season-5/meeting-58/opening) → <span class="name">Miss Vardill</span> <span data-tippy="Duplicate listing for previous contribution" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[Address, from the Spirit of the Attic Chest](../../season-5/meeting-58/address-4) → Miss Porden → <span class="name">Miss Vardill</span> <span data-tippy="Attributed to EAP but handwriting is that of AJV" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [An Address that is not an Address](../../season-5/meeting-58/address-5) → <span class="name">Miss Flaxman</span>  
 [Anonymous No. 1](../../season-5/meeting-58/anonymous) → <span class="name">Mr Vignoles</span>  
 [Letter from Barnaby Scratch](../../season-5/meeting-58/letter-2) → <span class="name">Miss Flaxman</span>  
@@ -944,7 +944,7 @@ tntsearch:
 
 [Letter from Diana Dainty to the Editor](../../season-5/meeting-62/dainty) → <span class="name">Mrs Rough</span>  
 [Do. from Michael Mitre](../../season-5/meeting-62/mitre) → <span class="name">Mr Flaxman</span>  
-[Do. from Barnaby Scratch](../../season-5/meeting-62/scratch) → <span class="name">Miss Vardill</span> <span data-tippy="Attributed to Vardill but written in another hand" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[Do. from Barnaby Scratch](../../season-5/meeting-62/scratch) → <span class="name">Miss Vardill</span> <span data-tippy="Attributed to Vardill but written in another hand" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [The Farewell](../../season-5/meeting-62/farewell) → <span class="name">Miss Vardill</span>  
 [Farewell to Malta](../../season-5/meeting-62/malta) → Lord Byron → <span class="name">com. Miss C. Richardson</span>  
 [Laura to Celia Epistle No. 3](../../season-5/meeting-62/laura) → <span class="name">Miss Porden</span>  
@@ -967,7 +967,7 @@ tntsearch:
 [Lines to a Young Friend](../../season-5/meeting-63/lines) → <span class="name">Miss Richardson</span>  
 [Do. spoken extempore](../../season-5/meeting-63/extempore) → <span class="name">com. Miss Beslee</span>
   
-<span class="missing">MISSING</span> <span data-tippy="Bottom half of acknowledgement page not scanned. Tentative attributions" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+<span class="missing">MISSING</span> <span data-tippy="Lower half of acknowledgement page not scanned. Tentative attributions." class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 
 [Jeffrey Julep to the Editor](../../season-5/meeting-63/letter) → <span class="grey">Miss Vardill</span>  
 [Spring](../../season-5/meeting-63/spring) → <span class="grey">&ensp;?</span>  
@@ -978,7 +978,7 @@ tntsearch:
 <span class="meeting">No. 64&emsp;(1813-06-09)</span>  
 </div>
 
-<span class="missing">MISSING</span> <span data-tippy="Acknowledgement page not scanned. Tentative attributions" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+<span class="missing">MISSING</span> <span data-tippy="Acknowledgement page not scanned. Tentative attributions" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
 [Kitty Maltravers to the Editor](../../season-5/meeting-64/kitty) → <span class="grey">Miss Vardill</span>  
 [Mr Julep’s Memorandums](../../season-5/meeting-64/julep) → <span class="grey">Miss Vardill</span>  
@@ -1024,7 +1024,7 @@ tntsearch:
 [Lines to Miss Porden](../../season-5/meeting-66/lines) → <span class="name">Miss F. Richardson</span>  
 [Letter to the Editor](../../season-5/meeting-66/letter) → <span class="name">Mr Elliott</span>  
 [The Recantation](../../season-5/meeting-66/recantation) → <span class="name">Mr Elliott</span>  
-[The Rendezvous](../../season-5/meeting-66/rendezvous) → <span class="name">Miss Vardill</span> <span data-tippy="Not included in acknowledgements" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[The Rendezvous](../../season-5/meeting-66/rendezvous) → <span class="name">Miss Vardill</span> <span data-tippy="Not included in acknowledgements" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [Romaic Fragment](../../season-5/meeting-66/fragment) → <span class="name">Mr Flaxman</span>  
 [The Attic Chest’s Farewell Address](../../season-5/meeting-66/farewell) → <span class="name">Miss Porden</span>  
 [Letter from Affezionatissima to Editress](../../season-5/meeting-66/editress) → <span class="name">Mrs Kay</span> 
@@ -1043,7 +1043,7 @@ tntsearch:
 [The Three Things a Good Husband ought to be etc.](../../season-6/meeting-67/cobb) → Miss J. Cobb → <span class="name">com. Mrs Richardson</span>  
 [Letter from Electromagus to the Editor](../../season-6/meeting-67/electromagus) → <span class="name">Miss Porden</span>  
 [ 〃 from Atticus Scriblerus Junior](../../season-6/meeting-67/junior) → <span class="name">Mr Elliott</span>  
-[ 〃 from Sir Pertinax Townly](../../season-6/meeting-67/pertinax) →  Miss Porden → <span class="name">Miss Vardill</span> <span data-tippy="Attributed to EAP but handwriting is that of AJV" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[ 〃 from Sir Pertinax Townly](../../season-6/meeting-67/pertinax) →  Miss Porden → <span class="name">Miss Vardill</span> <span data-tippy="Attributed to EAP but handwriting is that of AJV" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
   [The Hermitage](../../season-6/meeting-67/hermitage) → <span class="name">Miss Vardill</span>  
 [The First Brother’s Tale](../../season-6/meeting-67/brother-1) → <span class="name">Miss Vardill</span>  
 <span class="grey">First Lecture on Natural History → Miss Porden</span>
@@ -1058,7 +1058,7 @@ tntsearch:
 [Letter from Sir Pertinax Townly](../../season-6/meeting-68/pertinax) → <span class="name">Miss Porden</span>    
 [Letter from Mr Beauclerc](../../season-6/meeting-68/beauclerc) → <span class="name">Miss Vardill</span>  
 [Fragment of an Odd](../../season-6/meeting-68/fragment) → <span class="name">Miss Vardill</span>  
-[Letter from Electromagus](../../season-6/meeting-68/electromagus) → <span class="name">Miss Porden</span> <span data-tippy="Not included in acknowledgements" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[Letter from Electromagus](../../season-6/meeting-68/electromagus) → <span class="name">Miss Porden</span> <span data-tippy="Not included in acknowledgements" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [To Allen signed Margaret 1](../../season-6/meeting-68/margaret-1) → <span class="name">Miss Flaxman</span>  
 [To Margaret signed Allen](../../season-6/meeting-68/allan) → <span class="name">Miss Flaxman</span>  
 [To Allen signed Margaret 2](../../season-6/meeting-68/margaret-2) → <span class="name">Miss Flaxman</span>  
@@ -1070,13 +1070,13 @@ tntsearch:
 </div>
 
 [Address from the Spirit of the Attic Chest](../../season-7/meeting-69/spirit) → <span class="name">Miss Porden</span>  
-[The Elfin Harp](../../season-7/meeting-69/harp) → Miss Flaxman → <span class="name">Miss Vardill</span>  <span data-tippy="Attributed to Miss Flaxman but handwriting that of AJV" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[The Elfin Harp](../../season-7/meeting-69/harp) → Miss Flaxman → <span class="name">Miss Vardill</span>  <span data-tippy="Attributed to Miss Flaxman but handwriting that of AJV" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [Address to the Spirit of Attic Nights](../../season-7/meeting-69/aulus) → <span class="name">Miss Vardill</span> <span class="alias">(Aulus Gellius)</span>  
 [Hermes Caduceus](../../season-7/meeting-69/hermes) → <span class="name">Miss Vardill</span>  
 [Traveller of the Summer Night](../../season-7/meeting-69/traveller) → <span class="name">Miss Flaxman</span> <span class="alias">(Gossipia)</span>  
 [Address of Atticus Scriblerus](../../season-7/meeting-69/atticus) → <span class="name">Mr Elliott</span>  
 [On the Visit of Lord Aircastle](../../season-7/meeting-69/pertinax) → <span class="name">Miss Porden</span> <span class="alias">(Pertinax Townly)</span>  
-<span class="grey">Ode on Lord A.’s visit → Mr Elliott</span>  <span data-tippy="Mistaken duplication of earlier contribution." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+<span class="grey">Ode on Lord A.’s visit → Mr Elliott</span>  <span data-tippy="Mistaken duplication of earlier contribution" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [ 〃 by Olivia Gossamer](../../season-7/meeting-69/olivia) → <span class="name">Miss Vardill</span>  
 [ 〃 by Miss Stormont](../../season-7/meeting-69/rodelinda) → <span class="name">Miss Vardill</span>  
 [Letter from Electomagus](../../season-7/meeting-69/electromagus) → <span class="name">Miss Porden</span>  
@@ -1104,7 +1104,7 @@ tntsearch:
 <span class="meeting">No. 71</span>  
 </div>
 
-<span class="missing">MISSING</span> <span data-tippy="The DRO directory for this meeting contains no files. Date of meeting unknown." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span> 
+<span class="missing">MISSING</span> <span data-tippy="Empty DRO directory. Date of meeting unknown." class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span> 
 
 <span class="grey">The Lovers Calendar for 1815 → Miss Flaxman</span>  
 <span class="grey">A Fairy’s Song → Miss Flaxman</span>  
@@ -1127,7 +1127,7 @@ tntsearch:
 <span class="meeting">No. 72&emsp;(1815-03-08)</span>  
 </div>
 
-<span class="missing">MISSING</span> <span data-tippy="List of acknowledgements missing. Tentative attributions." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+<span class="missing">MISSING</span> <span data-tippy="List of acknowledgements missing. Tentative attributions." class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
 [Letter from Electromagus](../../season-7/meeting-72/electromagus) → <span class="grey">Miss Porden</span>  
 [Letter from Sir Pertinax Townly](../../season-7/meeting-72/pertinax) → <span class="grey">&ensp;?</span>  
@@ -1142,7 +1142,7 @@ tntsearch:
 <span class="meeting">No. 73&emsp;(1815-03-22)</span>  
 </div>
 
-<span class="missing">MISSING</span> <span data-tippy="List of acknowledgements missing. Tentative attributions." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+<span class="missing">MISSING</span> <span data-tippy="List of acknowledgements missing. Tentative attributions." class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
 [Translation of a Hebrew Valentine](../../season-7/meeting-73/erminia) → <span class="alias">(Erminia)</span>  
 [A Substitute for Nonsense](../../season-7/meeting-73/nonsense) → <span class="grey">&ensp;?</span>  
@@ -1169,17 +1169,17 @@ tntsearch:
 [Letter from Sir Pertinax Townly](../../season-8/meeting-74/pertinax) → <span class="name">Miss Porden</span>  
 [“When Norway’s Monarch knelt to gain”](../../season-8/meeting-74/pertinax#norway) → <span class="name">Miss Vardill</span>  
 [Electromagus on Heat](../../season-8/meeting-74/electromagus) → <span class="name">Miss Porden</span>  
-[Estrella Mr Beauclerc’s Prize Essay](../../season-8/meeting-74/estrella) → <span class="name">Miss Porden <span class="red">(incomplete)</span>   
-<span class="grey">Letter from Prosai Poetico → Miss Vardill</span> <span data-tippy="Missing or not scanned." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
-<span class="grey">The 6th Brother’s Tale → Miss Vardill</span> <span data-tippy="Missing or not scanned." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>    
-<span class="grey">Advertisement of the Hermits for the 7th Brother → Miss Vardill</span> <span data-tippy="Missing or not scanned." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>    
-<span class="grey">Song: For Master Doctoure → Mr Porden (when tipsy)</span> <span data-tippy="Missing or not scanned." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>    
+[Estrella Mr Beauclerc’s Prize Essay](../../season-8/meeting-74/estrella) → <span class="name">Miss Porden</span> <span data-tippy="Incomplete scan incomplete" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span> 
+<span class="grey">Letter from Prosai Poetico → Miss Vardill</span> <span data-tippy="Missing or not scanned" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+<span class="grey">The 6th Brother’s Tale → Miss Vardill</span> <span data-tippy="Missing or not scanned" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>    
+<span class="grey">Advertisement of the Hermits for the 7th Brother → Miss Vardill</span> <span data-tippy="Missing or not scanned" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>    
+<span class="grey">Song: For Master Doctoure → Mr Porden (when tipsy)</span> <span data-tippy="Missing or not scanned" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>    
 
 <div class="bottom">
 <span class="meeting">No. 75&emsp;(1815-12-20)</span>  
 </div> 
 
-<span class="missing">MISSING</span> <span data-tippy="Contributions missing or not scanned." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+<span class="missing">MISSING</span> <span data-tippy="Contributions missing or not scanned" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
 <span class="grey">Address. Ex parte Pocket Handkerchief → Miss Vardill</span>  
 <span class="grey">A Riddle. Answer: Glass → Miss Porden</span>  
@@ -1199,7 +1199,7 @@ tntsearch:
 <span class="meeting">No. 76&emsp;(1816-01-30)</span>  
 </div> 
 
-<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;85 missing." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;85 missing" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
 [The Lily of the Valley](../../season-8/meeting-76/lily) → <span class="grey">&ensp;?</span>    
 [The Muse’s Reproof](../../season-8/meeting-76/reproof) → <span class="grey">&ensp;?</span>    
@@ -1218,7 +1218,7 @@ tntsearch:
 <span class="meeting">No. 77&emsp;(1816-02-14)</span>  
 </div>
 
-<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;85 missing." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;85 missing" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
 [Contemplation](../../season-8/meeting-77/contemplation) → <span class="grey">&ensp;?</span>  
 [The Maids of Portugal](../../season-8/meeting-77/maids) → <span class="grey">&ensp;?</span>    
@@ -1241,7 +1241,7 @@ tntsearch:
 <span class="meeting">No. 78&emsp;(1816-02-28)</span>  
 </div>
 
-<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;85 missing." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;85 missing" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
 [Essay on Science](../../season-8/meeting-78/beauclerc) → <span class="grey">&ensp;?</span>  
 [To Zara](../../season-8/meeting-78/zara) → <span class="grey">&ensp;?</span>  
@@ -1260,7 +1260,7 @@ tntsearch:
 <span class="meeting">No. 79&emsp;(1816-03-13)</span>  
 </div>
 
-<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;85 missing." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;85 missing" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
 [L’Acerbo No. 1](../../season-8/meeting-79/acerbo) → <span class="grey">&ensp;?</span>  
 [The Englishman](../../season-8/meeting-79/englishman) → <span class="grey">&ensp;?</span>  
@@ -1280,7 +1280,7 @@ tntsearch:
 <span class="meeting">No. 80&emsp;(1816-03-27)</span>  
 </div>
 
-<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;85 missing." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;85 missing" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
  
 [L’Acerbo No. 2](../../season-8/meeting-80/acerbo) → <span class="grey">&ensp;?</span>  
 [Letter from Pertinax Townly](../../season-8/meeting-80/pertinax) → <span class="grey">&ensp;?</span>  
@@ -1295,7 +1295,7 @@ tntsearch:
 <span class="meeting">No. 81&emsp;(1816-04-24)</span>  
 </div>
 
-<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;85 missing." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;85 missing" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
  
 [L’Acerbo No. 3](../../season-8/meeting-81/acerbo) → <span class="grey">&ensp;?</span>  
 [Sir Gilbert’s Heiress](../../season-8/meeting-81/heiress) → <span class="grey">&ensp;?</span>  
@@ -1309,7 +1309,7 @@ tntsearch:
 <span class="meeting">No. 82&emsp;(1816-05-08)</span>  
 </div>
 
-<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;85 missing." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;85 missing" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
 [Letter from Pertinax Townly](../../season-8/meeting-82/pertinax) → <span class="grey">&ensp;?</span>    
 [Letter from Philemon Beauclerc](../../season-8/meeting-82/beauclerc) → <span class="grey">&ensp;?</span>  
@@ -1325,7 +1325,7 @@ tntsearch:
 <span class="meeting">No. 83&emsp;(1816-05-22)</span>  
 </div>
 
-<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;85 missing." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;85 missing" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
  
 [Waterloo](../../season-8/meeting-83/waterloo) → <span class="grey">&ensp;?</span>  
 [To Miss Porden](../../season-8/meeting-83/adieu) → <span class="grey">&ensp;?</span>  
@@ -1340,7 +1340,7 @@ tntsearch:
 <span class="meeting">No. 84&emsp;(1816-06-05)</span>  
 </div>
 
-<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;85 missing." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;85 missing" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
  
 [To EAP on Her Birthday](../../season-8/meeting-84/birthday) → <span class="grey">&ensp;?</span>  
 [Sales by Auction](../../season-8/meeting-84/auction) → <span class="grey">&ensp;?</span>  
@@ -1357,7 +1357,7 @@ tntsearch:
 <span class="meeting">No. 85&emsp;(1816-07-15)</span>  
 </div>
 
-<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;85 missing." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;85 missing" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
   
 [Sweet Hope](../../season-8/meeting-85/hope) → <span class="grey">&ensp;?</span>  
 [A Felpham Song](../../season-8/meeting-85/felpham) → <span class="grey">&ensp;?</span>  
@@ -1371,7 +1371,7 @@ tntsearch:
 <span class="meeting">No. 86</span>  
 </div>
 
-<span class="missing">MISSING</span> <span data-tippy="All files and lists of attributions missing. Date of meeting unknown. Fascicle No. 86 contains National Tales collated from previous meetings." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+<span class="missing">MISSING</span> <span data-tippy="Empty DRO directory. Date of meeting unknown. Fascicle No. 86 contains [National Tales](../../season-8/tales) collated from previous meetings." class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
 ---
 
@@ -1438,7 +1438,7 @@ A List of Contributions read from the Attic Chest from Febry 22d 1814 to July 15
 [Valentine with a Repeating Watch](../../season-9/meeting-87/watch) → <span class="name">Miss Vardill </span>  
 [The New Coin of Parnassus](../../season-9/meeting-87/coin) → <span class="name">Miss Vardill</span>  
 [Verses by Dr Brande in 1802](../../season-9/meeting-87/brande) → <span class="name">com. Miss Kramer</span>  
-<span class="grey">Valentine to Drawing → Miss and Master Kay</span> <span data-tippy="Full page children’s drawing. Not reproduced here." class="green"><i class="fa fa-picture-o" aria-hidden="true"></i></span>  
+<span class="grey">Valentine to Drawing → Miss and Master Kay</span> <span data-tippy="Full page children’s drawing. No text." class="info"><i class="fa fa-picture-o" aria-hidden="true"></i></span>  
 [Archibald McLeasing to his publisher](../../season-9/meeting-87/macleesing) → <span class="name">Miss Porden</span>  
 [Letter from France: Lavinia to Eliza](../../season-9/meeting-87/lavinia-1) → <span class="name">Miss Porden</span>  
 [The 1st Act of the Novice of St Benedict](../../season-9/meeting-87/novice) → <span class="name">Miss Vardill</span>  
@@ -1486,7 +1486,7 @@ A List of Contributions read from the Attic Chest from Febry 22d 1814 to July 15
 <span class="meeting">No. 90&emsp;(1817-04-15)</span>  
 </div>  
 
-<span class="missing">MISSING</span> <span data-tippy="Files either missing or not scanned." class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+<span class="missing">MISSING</span> <span data-tippy="Empty DRO directory" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
 <span class="grey">Mr Solve Mery’s Papyrostatic Experiment → Miss Appleton</span>  
 <span class="grey">On Captain Harvey of Battle → com. Mrs Flaxman</span>  
@@ -1528,7 +1528,7 @@ A List of Contributions read from the Attic Chest from Febry 22d 1814 to July 15
 [The Quest of the Muse](../../season-9/meeting-92/quest) → <span class="name">Miss Porden</span>  
 <span class="grey">Atticus Scriblerus to Olivia → Miss Vardill</span>  
 [King Edward and Fair Agnes](../../season-9/meeting-92/legend) → <span class="name">Miss Vardill</span>  
-[Acrostic on the Death of a Beloved Child](../../season-9/meeting-92/acrostic) → <span class="grey">&ensp;?</span> <span data-tippy="Not included in acknowledgements" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[Acrostic on the Death of a Beloved Child](../../season-9/meeting-92/acrostic) → <span class="grey">&ensp;?</span> <span data-tippy="Not included in acknowledgements" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 
 <div class="bottom">
 <span class="meeting">No. 93&emsp;(1817-06-10)</span>  
@@ -1557,7 +1557,7 @@ A List of Contributions read from the Attic Chest from Febry 22d 1814 to July 15
 [The Count’s Adventures at Calais](../../season-10/meeting-94/calais) → <span class="name">Miss Porden</span>  
 [Euphrosyne to Pomona](../../season-10/meeting-94/pomona) → <span class="name">Miss Porden</span>  
 [Pomona to Euphrosyne](../../season-10/meeting-94/euphrosyne) → <span class="name">Miss Appleton</span>  
-[Valentine to a Young Lady](../../season-9/meeting-92/valentine) → <span class="alias">(Ouranos)</span> <span data-tippy="Not included in acknowledgements" class="green"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[Valentine to a Young Lady](../../season-9/meeting-92/valentine) → <span class="alias">(Ouranos)</span> <span data-tippy="Not included in acknowledgements" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [Riddle](../../season-10/meeting-94/enigma) → <span class="name">Miss Porden</span>  
 [To the Authoress of the Arctic Expeditions](../../season-10/meeting-94/arctic) → <span class="name">Miss Vardill</span>  
 [Fragment de la Grande Histoire des Genies](../../season-10/meeting-94/halma) → <span class="name">Mr Halma</span>  
