@@ -3,7 +3,7 @@ title: 'Meeting 05'
 taxonomy:
     category: docs
 child_type: docs
-visible: true
+visible: false
 ---
 
 ## 21 February 1809

@@ -2,6 +2,8 @@
 title: 'Meeting 11'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 ## 30 May 1809

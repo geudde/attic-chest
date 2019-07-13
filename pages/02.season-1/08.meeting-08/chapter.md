@@ -3,6 +3,7 @@ title: 'Meeting 08'
 taxonomy:
     category: docs
 child_type: docs
+visible: false
 ---
 
 ## 4 April 1809

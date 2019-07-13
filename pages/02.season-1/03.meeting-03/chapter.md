@@ -3,7 +3,7 @@ title: 'Meeting 03'
 taxonomy:
     category: docs
 child_type: docs
-visible: true
+visible: false
 ---
 
 ## 24 January 1809

@@ -3,6 +3,7 @@ title: 'Meeting 07'
 taxonomy:
     category: docs
 child_type: docs
+visible: false
 ---
 
 ## 25 March 1809

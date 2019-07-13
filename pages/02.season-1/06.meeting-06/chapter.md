@@ -2,6 +2,8 @@
 title: 'Meeting 06'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 ## 7 March 1809

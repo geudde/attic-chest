@@ -2,6 +2,8 @@
 title: 'Meeting 10'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 ## 16 May 1809
