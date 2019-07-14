@@ -2,6 +2,8 @@
 title: 'Meeting 35'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 # 26 February 1811

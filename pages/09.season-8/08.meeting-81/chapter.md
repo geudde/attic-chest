@@ -2,7 +2,8 @@
 title: 'Meeting 81'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 24 April 1816

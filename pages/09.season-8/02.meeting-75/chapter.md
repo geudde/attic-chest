@@ -2,7 +2,8 @@
 title: 'Meeting 75'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 20 December 1816

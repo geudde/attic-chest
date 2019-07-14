@@ -2,6 +2,8 @@
 title: 'Meeting 28'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 # 14 July 1810

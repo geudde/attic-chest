@@ -2,7 +2,8 @@
 title: 'Meeting 85'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 15 July 1816

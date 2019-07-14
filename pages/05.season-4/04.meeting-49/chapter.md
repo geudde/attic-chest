@@ -3,7 +3,7 @@ title: 'Meeting 49'
 taxonomy:
     category: docs
 child_type: docs
-visible: true
+visible: false
 ---
 
 # 19 February 1812

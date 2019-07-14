@@ -2,6 +2,8 @@
 title: 'Meeting 42'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 # 4 June 1811

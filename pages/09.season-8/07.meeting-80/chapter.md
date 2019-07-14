@@ -2,7 +2,8 @@
 title: 'Meeting 80'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 27 March 1816

@@ -2,7 +2,8 @@
 title: 'National Tales'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # Undated

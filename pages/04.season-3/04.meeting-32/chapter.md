@@ -2,6 +2,8 @@
 title: 'Meeting 32'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 # 15 January 1811

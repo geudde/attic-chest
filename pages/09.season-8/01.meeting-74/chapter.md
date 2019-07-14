@@ -2,7 +2,8 @@
 title: 'Meeting 74'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 6 December 1815

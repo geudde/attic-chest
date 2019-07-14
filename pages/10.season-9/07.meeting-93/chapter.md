@@ -2,7 +2,8 @@
 title: 'Meeting 93'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 10 June 1817

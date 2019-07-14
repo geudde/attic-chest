@@ -2,7 +2,8 @@
 title: 'Meeting 62'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 12 May 1813

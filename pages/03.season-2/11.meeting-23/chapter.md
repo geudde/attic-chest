@@ -2,6 +2,8 @@
 title: 'Meeting 23'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 # 6 May 1810

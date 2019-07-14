@@ -2,7 +2,8 @@
 title: 'Meeting 89'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 15 April 1817

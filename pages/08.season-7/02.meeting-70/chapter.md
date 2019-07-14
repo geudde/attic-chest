@@ -2,7 +2,8 @@
 title: 'Meeting 70'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 21 December 1814

@@ -2,6 +2,8 @@
 title: 'Meeting 34'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 # 12 February 1811

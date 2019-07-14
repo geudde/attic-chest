@@ -2,6 +2,8 @@
 title: 'Meeting 55'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 # 13 May 1812

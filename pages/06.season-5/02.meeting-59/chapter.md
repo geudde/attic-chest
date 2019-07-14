@@ -2,7 +2,8 @@
 title: 'Meeting 59'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 31 March 1813

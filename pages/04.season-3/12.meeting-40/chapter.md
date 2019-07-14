@@ -2,6 +2,8 @@
 title: 'Meeting 40'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 # 7 May 1811

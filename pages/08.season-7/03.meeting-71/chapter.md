@@ -2,7 +2,8 @@
 title: 'Meeting 71'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # <span class="grey">All contributions missing</span>

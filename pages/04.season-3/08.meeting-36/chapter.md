@@ -2,6 +2,8 @@
 title: 'Meeting 36'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 # 12 March 1811

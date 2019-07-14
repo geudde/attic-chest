@@ -2,6 +2,8 @@
 title: 'Meeting 24'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 # 22 May 1810

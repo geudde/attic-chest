@@ -2,6 +2,8 @@
 title: 'Meeting 44'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 # 2 July 1811

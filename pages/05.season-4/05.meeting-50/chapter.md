@@ -2,6 +2,8 @@
 title: 'Meeting 50'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 # 4 March 1812

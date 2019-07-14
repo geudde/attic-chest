@@ -2,6 +2,8 @@
 title: 'Meeting 18'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 # 27 February 1810

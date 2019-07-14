@@ -2,7 +2,8 @@
 title: 'Meeting 77'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 14 February 1816

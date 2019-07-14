@@ -2,7 +2,8 @@
 title: 'Meeting 82'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 8 May 1816

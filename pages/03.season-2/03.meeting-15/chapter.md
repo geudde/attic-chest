@@ -2,7 +2,8 @@
 title: 'Meeting 15'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 16 January 1810

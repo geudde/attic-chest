@@ -2,7 +2,8 @@
 title: 'Meeting 48'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 5 February 1812

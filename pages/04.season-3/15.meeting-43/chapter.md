@@ -2,6 +2,8 @@
 title: 'Meeting 43'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 # 18 June 1811

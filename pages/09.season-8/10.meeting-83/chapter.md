@@ -2,7 +2,8 @@
 title: 'Meeting 83'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 22 May 1816

@@ -2,7 +2,8 @@
 title: 'Meeting 61'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 28 April 1813

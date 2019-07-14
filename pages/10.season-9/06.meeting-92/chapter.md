@@ -2,7 +2,8 @@
 title: 'Meeting 92'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 27 May 1817

@@ -2,6 +2,8 @@
 title: 'Meeting 20'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 # 27 March 1810

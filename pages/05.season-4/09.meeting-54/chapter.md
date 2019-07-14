@@ -2,6 +2,8 @@
 title: 'Meeting 54'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 # 29 April 1812

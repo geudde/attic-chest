@@ -2,6 +2,8 @@
 title: 'Meeting 41'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 # 21 May 1811

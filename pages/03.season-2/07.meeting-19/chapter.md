@@ -2,6 +2,8 @@
 title: 'Meeting 19'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 # 13 March 1810

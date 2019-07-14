@@ -2,6 +2,8 @@
 title: 'Meeting 22'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 # 24 April 1810

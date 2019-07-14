@@ -2,6 +2,8 @@
 title: 'Meeting 51'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 # 18 March 1812

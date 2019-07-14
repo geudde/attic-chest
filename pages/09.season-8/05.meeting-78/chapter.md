@@ -2,7 +2,8 @@
 title: 'Meeting 78'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 28 February 1816

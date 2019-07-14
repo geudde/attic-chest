@@ -2,6 +2,8 @@
 title: 'Meeting 57'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 # 27 May 1812

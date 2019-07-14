@@ -2,6 +2,8 @@
 title: 'Meeting 31'
 taxonomy:
     category: docs
+    child_type: docs
+visible: false
 ---
 
 # 18 December 1810

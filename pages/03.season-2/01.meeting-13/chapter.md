@@ -2,7 +2,8 @@
 title: 'Meeting 13'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 19 December 1809

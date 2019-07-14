@@ -2,6 +2,8 @@
 title: 'Meeting 45'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 # 16 July 1811

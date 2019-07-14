@@ -2,6 +2,8 @@
 title: 'Meeting 33'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 # 30 January 1811

@@ -2,7 +2,8 @@
 title: 'Meeting 64'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 9 June 1813

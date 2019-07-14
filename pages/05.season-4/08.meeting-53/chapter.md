@@ -2,6 +2,8 @@
 title: 'Meeting 53'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 # 15 April 1812

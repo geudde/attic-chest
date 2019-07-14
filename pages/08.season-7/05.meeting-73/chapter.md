@@ -2,7 +2,8 @@
 title: 'Meeting 73'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 22 March 1815

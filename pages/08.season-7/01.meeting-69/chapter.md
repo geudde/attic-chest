@@ -2,7 +2,8 @@
 title: 'Meeting 69'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 7 December 1814

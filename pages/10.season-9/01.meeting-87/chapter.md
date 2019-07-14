@@ -2,7 +2,8 @@
 title: 'Meeting 87'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 4 March 1817

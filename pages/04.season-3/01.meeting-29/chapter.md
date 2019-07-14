@@ -2,7 +2,8 @@
 title: 'Meeting 29'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 20 November 1810

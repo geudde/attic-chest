@@ -2,7 +2,8 @@
 title: 'Meeting 84'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 5 June 1816

@@ -2,7 +2,8 @@
 title: 'Meeting 90'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 29 April 1817

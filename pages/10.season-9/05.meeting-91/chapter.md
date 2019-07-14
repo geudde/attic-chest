@@ -2,7 +2,8 @@
 title: 'Meeting 91'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 13 May 1817

@@ -2,7 +2,8 @@
 title: 'Meeting 72'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 8 March 1815

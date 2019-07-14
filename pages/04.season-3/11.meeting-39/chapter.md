@@ -2,6 +2,8 @@
 title: 'Meeting 39'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 # 23 April 1811

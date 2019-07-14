@@ -2,7 +2,8 @@
 title: 'Meeting 65'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 23 June 1813

@@ -2,6 +2,8 @@
 title: 'Meeting 52'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 # 1 April 1812

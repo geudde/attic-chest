@@ -2,7 +2,8 @@
 title: 'Meeting 58'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 17 March 1813

@@ -2,7 +2,8 @@
 title: 'Meeting 14'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 2 January 1810

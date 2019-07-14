@@ -2,6 +2,8 @@
 title: 'Meeting 21'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 # 10 April 1810

@@ -2,7 +2,8 @@
 title: 'Meeting 60'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
+visible: false
 ---
 
 # 14 April 1813

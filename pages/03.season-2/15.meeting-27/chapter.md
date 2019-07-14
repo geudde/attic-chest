@@ -2,6 +2,8 @@
 title: 'Meeting 27'
 taxonomy:
     category: docs
+child_type: docs
+visible: false
 ---
 
 # 3 July 1810
