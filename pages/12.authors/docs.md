@@ -1,5 +1,5 @@
 ---
-title: 'Author Attributions'
+title: 'Authors'
 taxonomy:
     category:
         - docs
