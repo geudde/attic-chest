@@ -5,7 +5,7 @@ taxonomy:
         - docs
 visible: false
 ---
-<span class="red">D8760/F/FEP/5/1</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f1&pos=8" target="_blank"><i class="fa fa-external-link"></i></a>
+<span class="dro">D8760/F/FEP/5/1</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f1&pos=8" target="_blank"><i class="fa fa-external-link"></i></a>
 
 The Editor and Editress of the Attic Chest congratulate the Attic Society on the recommencement of their periodical recreations and on the number and elegance of the effusions with which during the long recess this repository of the Muses has been replenished. They are indeed so numerous that it is found necessary to reserve a considerable part of them for future amusements, as a provision against frost, which sometimes destroys the fluidity, or fogs, which chill the fervour of genius. Our kind contributors therefore will not suppose their productions are rejected, or relax in their pursuit after excellence because they do not appear in the front rank of our exhibition. A good poet always contrives that his subject shall rise as it advances; a good general that his reserve shall consist of staunch troops and a good caterer that the feast shall conclude with the most delicate viands. Those who may not hear their productions this evening will therefore believe the literary caterer has reserved them for a Bonne Bouche.
         
