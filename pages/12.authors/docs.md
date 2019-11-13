@@ -137,10 +137,6 @@ tntsearch:
 <span class="grey">A Riddle on Buonaparte</span> →  
 
 <div class="bottom">
-<span class="meeting">No. 9&emsp;(1809-05-02)</span>  
-</div>
-
-<div class="bottom">
 <span class="meeting">No. 9&emsp;(1809-05-02)</span><span class="dro">D8760/F/FEP/5/3</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f3" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
@@ -154,7 +150,7 @@ tntsearch:
 [Constellation No. 4](../../season-1/meeting-09/constellation-4) → <span class="name">Miss Porden</span>  
 
 <div class="bottom">
-<span class="meeting">No. 10&emsp;(1809-05-16)</span>  
+<span class="meeting">No. 10&emsp;(1809-05-16)</span><span class="dro">D8760/F/FEP/5/4</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f4" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
 [Sonnet on the Cicada](../../season-1/meeting-10/cicada) → <span class="name">com. Mr Porden</span>  
@@ -168,7 +164,7 @@ tntsearch:
 [To Roberto again](../../season-1/meeting-10/roberto-3) → <span class="name">Miss Porden</span>  
 
 <div class="bottom">
-<span class="meeting">No. 11&emsp;(1809-05-30)</span>  
+<span class="meeting">No. 11&emsp;(1809-05-30)</span><span class="dro">D8760/F/FEP/5/4</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f4" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
 [Impromptu written on the Margate Packet](../../season-1/meeting-11/impromptu) → <span class="grey">&ensp;?</span>  
@@ -181,7 +177,7 @@ tntsearch:
 <span class="grey">Answer → Mr Porden</span>     
 
 <div class="bottom">
-<span class="meeting">No. 12&emsp;(1809-07-14)</span>  
+<span class="meeting">No. 12&emsp;(1809-07-14)</span><span class="dro">D8760/F/FEP/5/4</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f4" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
 [Burlesque Elegy](../../season-1/meeting-12/fitz-piera) → <span class="name">Miss Porden</span>  
