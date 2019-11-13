@@ -9,7 +9,7 @@ tntsearch:
 ---
 
 <div class="bottom">
-<span class="meeting">No. 1&emsp;(1808&hairsp;-&hairsp;12-27)</span><span class="dro">D8760/F/FEP/5/1</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f1&pos=8" target="_blank"><i class="fa fa-external-link"></i></a>
+<span class="meeting">No. 1&emsp;(1808&#8202;-&#8202;12-27)</span><span class="dro">D8760/F/FEP/5/1</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f1&pos=8" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
 [On the Study of Ancient Architecture &c.](../../season-1/meeting-01/architecture) → <span class="name">com. Mr Flaxman</span>  
