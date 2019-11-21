@@ -73,7 +73,7 @@ A cure for *Aitches* howsoe’er distressing,
 As blest emollient for a stubborn *bird*  
 &emsp;In frosty weather —  
 Ah! No — together —  
-Were *birds and Aitches* given to the Wind,  
+Were *birds and aitches* given to the wind,  
 Even the black letter friend, who ran away,  
 When sorely pressed by bailiffs t’other day,  
 With unique copy of my oldest play,  
@@ -82,9 +82,9 @@ With unique copy of my oldest play,
 Who made the black-plush breeches,  
 That Lord Willoughby de Broke,  
 &emsp;Had bespoke.  
-&emsp;*I* longed to see.”  
+&emsp;*I* longed to see.  
 
-“At last to Chandos Street we came in spite of weather,  
+At last to Chandos Street we came in spite of weather,  
 And when Lord Willoughby de Broke  
 &emsp;Had re-bespoke  
 &emsp;The breeches,  
@@ -94,7 +94,7 @@ I said to myself, Kemble!
 Thou Man of Erudition, eloquence, and riches  
 At whose frown many tremble,  
 Why may’st not thou too have a pair of black plush breeches  
-And I said to the tailor, Ho!  
+And I said to the tailor, “Ho!  
 Perhaps, Sir, you do not know  
 &emsp;Who I am;  
 Of Kemble, Mister Kemble, have you heard?  
@@ -138,14 +138,14 @@ Were I each varying costume to display.”
 
 Our Roscius now was fairly run aground,  
 &emsp;For lack of breath;  
-But what he last they say the Tailor found —  
+But what he lost they say the Tailor found —  
 With wonderment the orator he ey’d,  
 At length, “Oh! Sir,” in ecstasy he cried  
 &emsp;“You are too good —   
 &emsp;Here Boy! put on more wood —  
 I fear you’re cold, Sir, and I blush to death  
 To think how you have spent your precious breath  
-&emsp;On such a thing as I,”  
+&emsp;On such a thing as I.”  
 “Nay, friend, ’twas necessary to explain,  
 I hope I have not talked in vain  
 You’ll study each costume (How hard it freezes!)”  
