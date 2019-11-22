@@ -18,6 +18,6 @@ visible: false
 8. [Epitaph for a Young Lady](epitaph-2)
 9. [To Eliza](eliza)  
 10. [Sonnet on York Minster](york)  
-11. [Incognita to 1810](incognita)  
+11. [From Incognita to 1810](incognita)  
 12. [The Reconciliation](reconciliation)
 13. [From Timon](timon)

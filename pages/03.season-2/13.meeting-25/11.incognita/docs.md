@@ -1,5 +1,5 @@
 ---
-title: 'To 1810'
+title: 'From Incognita To 1810'
 taxonomy:
     category:
         - docs

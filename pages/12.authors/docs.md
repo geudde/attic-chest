@@ -386,10 +386,19 @@ tntsearch:
 <span class="meeting">No. 25&emsp;(1810-06-05)</span><span class="dro">D8760/F/FEP/5/9</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f9" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
-<span class="grey">A melting Effusion to a Candle snuffer too low → com. Mr Flaxman</span>  
-<span class="grey">Farewell to Anna → Miss Flaxman</span>  
+[A melting Effusion to a Candle snuffed too low](../../season-2/meeting-24/candle) → <span class="name">com. Mr Flaxman</span>  
+[Farewell to Anna](../../season-2/meeting-24/anna) → <span class="name">Miss Flaxman</span>
+[What You Will](../../season-2/meeting-24/what) → <span class="grey">&ensp;?</span>  
+[To a Lady](../../season-2/meeting-24/lady) → <span class="grey">&ensp;?</span>  
+[Epitaph](../../season-2/meeting-24/epitaph-1) → <span class="grey">&ensp;?</span>  
+[Spring](../../season-2/meeting-24/spring) → <span class="grey">&ensp;?</span>  
+[Epitaph for a Young Lady](../../season-2/meeting-24/epitaph-2) → <span class="grey">&ensp;?</span>  
+[To Eliza](../../season-2/meeting-24/eliza) → <span class="grey">&ensp;?</span>  
+[Sonnet on York Minster](../../season-2/meeting-24/york) → <span class="grey">&ensp;?</span>  
+[From Incognita to 1810](../../season-2/meeting-24/incognita) → <span class="grey">&ensp;?</span>  
+[The Reconciliation](../../season-2/meeting-24/reconciliation) → <span class="grey">&ensp;?</span>  
+[From Timon](../../season-2/meeting-24/timon) → <span class="grey">&ensp;?</span>  
 
-<span class="missing">MISSING</span> <span data-tippy="Empty DRO directory" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
 <div class="bottom">
 <span class="meeting">No. 26&emsp;(1810-06-19)</span><span class="dro">D8760/F/FEP/5/9</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f9" target="_blank"><i class="fa fa-external-link"></i></a>
