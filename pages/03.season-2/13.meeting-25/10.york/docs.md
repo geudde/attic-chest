@@ -8,9 +8,7 @@ visible: false
 
 <div class="author">???</div>
 
-> Written on the great steeple of York Minster  
-
-Sept 1792
+> Written on the great steeple of York Minster. Sept 1792
 
 While from this height sublime in prospect wide  
 &emsp;Old Ebor’s vales and streets and streets appear,  

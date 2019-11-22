@@ -13,7 +13,7 @@ So infinitely many
 Are all compris’d within the space  
 Of one small silver penny!”
 
-Can this be deem’d a riddle, Sir by you  
+Can this be deem’d a riddle, Sir, by you  
 A thing so evident, so plain, so true!  
 Only Sir Knight bear this plain fact in mind  
 That “Female Virtues” are of softer kind  
