@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">???</div>
 
-ow sweet the morning’s vernal flowers  
+How sweet the morning’s vernal flowers  
 &emsp;How sweet at sultry noon the gale  
 How sweet to trace in evening hours  
 &emsp;That stream that winds thro’ Ebor’s vale.  
