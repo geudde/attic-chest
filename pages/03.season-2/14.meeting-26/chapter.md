@@ -8,4 +8,5 @@ visible: false
 
 # 19 June 1810
 
-<span class="title"><span class="red">Unavailable</span></span>
+1. [Editorial](editorial)
+2. [To Eborina](eborina)

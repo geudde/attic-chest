@@ -404,7 +404,7 @@ tntsearch:
 <span class="meeting">No. 26&emsp;(1810-06-19)</span><span class="dro">D8760/F/FEP/5/9</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f9" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
-<span class="missing">MISSING</span> <span data-tippy="Empty DRO directory" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+[To Eborina](../../season-2/meeting-25/eborina) → <span class="grey">&ensp;?</span>  
     
 <div class="bottom">
 <span class="meeting">No. 27&emsp;(1810-07-03)</span><span class="dro">D8760/F/FEP/5/10</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f10" target="_blank"><i class="fa fa-external-link"></i></a>
