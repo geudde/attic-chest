@@ -45,7 +45,7 @@ Could rude Affliction see her worth
 No pain of her would e’er call forth  
 &emsp;A child’s or husband’s tears  
 
-O thou[^*] who with unfeeling heart  
+O thou[^1] who with unfeeling heart  
 &emsp;Chastisest human crimes  
 Recall, recall that erring dart  
 &emsp;And give her happier times  
@@ -107,4 +107,4 @@ And there with all that we’ve call’d ours
 
 June 19th 1810
 
-[^*]: Affliction   
+[^1]: Affliction   
