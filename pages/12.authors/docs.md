@@ -387,7 +387,7 @@ tntsearch:
 </div>
 
 [A melting Effusion to a Candle snuffed too low](../../season-2/meeting-25/candle) → <span class="name">com. Mr Flaxman</span>  
-[Farewell to Anna](../../season-2/meeting-25/anna) → <span class="name">Miss Flaxman</span>
+[Farewell to Anna](../../season-2/meeting-25/anna) → <span class="name">Miss Flaxman</span>  
 [What You Will](../../season-2/meeting-25/what) → <span class="grey">&ensp;?</span>  
 [To a Lady](../../season-2/meeting-25/lady) → <span class="grey">&ensp;?</span>  
 [Epitaph](../../season-2/meeting-25/epitaph-1) → <span class="grey">&ensp;?</span>  
