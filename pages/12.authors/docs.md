@@ -386,25 +386,35 @@ tntsearch:
 <span class="meeting">No. 25&emsp;(1810-06-05)</span><span class="dro">D8760/F/FEP/5/9</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f9" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
-[A melting Effusion to a Candle snuffed too low](../../season-2/meeting-24/candle) → <span class="name">com. Mr Flaxman</span>  
-[Farewell to Anna](../../season-2/meeting-24/anna) → <span class="name">Miss Flaxman</span>
-[What You Will](../../season-2/meeting-24/what) → <span class="grey">&ensp;?</span>  
-[To a Lady](../../season-2/meeting-24/lady) → <span class="grey">&ensp;?</span>  
-[Epitaph](../../season-2/meeting-24/epitaph-1) → <span class="grey">&ensp;?</span>  
-[Spring](../../season-2/meeting-24/spring) → <span class="grey">&ensp;?</span>  
-[Epitaph for a Young Lady](../../season-2/meeting-24/epitaph-2) → <span class="grey">&ensp;?</span>  
-[To Eliza](../../season-2/meeting-24/eliza) → <span class="grey">&ensp;?</span>  
-[Sonnet on York Minster](../../season-2/meeting-24/york) → <span class="grey">&ensp;?</span>  
-[From Incognita to 1810](../../season-2/meeting-24/incognita) → <span class="grey">&ensp;?</span>  
-[The Reconciliation](../../season-2/meeting-24/reconciliation) → <span class="grey">&ensp;?</span>  
-[From Timon](../../season-2/meeting-24/timon) → <span class="grey">&ensp;?</span>  
+[A melting Effusion to a Candle snuffed too low](../../season-2/meeting-25/candle) → <span class="name">com. Mr Flaxman</span>  
+[Farewell to Anna](../../season-2/meeting-25/anna) → <span class="name">Miss Flaxman</span>
+[What You Will](../../season-2/meeting-25/what) → <span class="grey">&ensp;?</span>  
+[To a Lady](../../season-2/meeting-25/lady) → <span class="grey">&ensp;?</span>  
+[Epitaph](../../season-2/meeting-25/epitaph-1) → <span class="grey">&ensp;?</span>  
+[Spring](../../season-2/meeting-25/spring) → <span class="grey">&ensp;?</span>  
+[Epitaph for a Young Lady](../../season-2/meeting-25/epitaph-2) → <span class="grey">&ensp;?</span>  
+[To Eliza](../../season-2/meeting-25/eliza) → <span class="grey">&ensp;?</span>  
+[Sonnet on York Minster](../../season-2/meeting-25/york) → <span class="grey">&ensp;?</span>  
+[From Incognita to 1810](../../season-2/meeting-25/incognita) → <span class="grey">&ensp;?</span>  
+[The Reconciliation](../../season-2/meeting-25/reconciliation) → <span class="grey">&ensp;?</span>  
+[From Timon](../../season-2/meeting-25/timon) → <span class="grey">&ensp;?</span>  
 
 
 <div class="bottom">
 <span class="meeting">No. 26&emsp;(1810-06-19)</span><span class="dro">D8760/F/FEP/5/9</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f9" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
-[To Eborina](../../season-2/meeting-25/eborina) → <span class="grey">&ensp;?</span>  
+[To Eborina](../../season-2/meeting-26/eborina) → <span class="grey">&ensp;?</span>  
+[What You Will](../../season-2/meeting-25/what) → <span class="grey">&ensp;?</span> <span data-tippy="Filed incorrectly under Meeting 25" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[Translation from Greek](../../season-2/meeting-26/greek) → <span class="grey">&ensp;?</span>   
+[A Riddle](../../season-2/meeting-26/riddle) → <span class="grey">&ensp;?</span>  
+[Moth to Stella](../../season-2/meeting-26/moth) → <span class="grey">&ensp;?</span>  
+[Damon to Delia](../../season-2/meeting-26/damon) → <span class="grey">&ensp;?</span>    
+[Invocation to Sleep](../../season-2/meeting-26/sleep) → <span class="grey">&ensp;?</span>    
+[Dido to Ictinus](../../season-2/meeting-26/dido) → <span class="grey">&ensp;?</span>   
+[Song](../../season-2/meeting-26/song) → <span class="grey">&ensp;?</span>   
+[Fairy Land](../../season-2/meeting-26/fairy) → <span class="grey">&ensp;?</span>  
+[Lines on John Palmer](../../season-2/meeting-26/lines) → <span class="grey">&ensp;?</span>  
     
 <div class="bottom">
 <span class="meeting">No. 27&emsp;(1810-07-03)</span><span class="dro">D8760/F/FEP/5/10</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f10" target="_blank"><i class="fa fa-external-link"></i></a>
