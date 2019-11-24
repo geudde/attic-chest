@@ -1187,7 +1187,7 @@ tntsearch:
 [Letter from Sir Pertinax Townly](../../season-8/meeting-74/pertinax) → <span class="name">Miss Porden</span>  
 [“When Norway’s Monarch knelt to gain”](../../season-8/meeting-74/pertinax#norway) → <span class="name">Miss Vardill</span>  
 [Electromagus on Heat](../../season-8/meeting-74/electromagus) → <span class="name">Miss Porden</span>  
-[Estrella: Mr Beauclerc’s Prize Essay](../../season-8/meeting-74/estrella) → <span class="name">Miss Porden</span>
+[Estrella: Mr Beauclerc’s Prize Essay](../../season-8/meeting-74/estrella) → <span class="name">Miss Porden</span>  
 <span class="grey">Letter from Prosai Poetico → Miss Vardill</span> <span data-tippy="Missing or not scanned" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 <span class="grey">The 6th Brother’s Tale → Miss Vardill</span> <span data-tippy="Missing or not scanned" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>    
 <span class="grey">Advertisement of the Hermits for the 7th Brother → Miss Vardill</span> <span data-tippy="Missing or not scanned" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>    
