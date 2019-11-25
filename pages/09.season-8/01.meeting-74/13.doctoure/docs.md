@@ -42,7 +42,7 @@ Sweet love, and the Graces, who smile in her train.
 Old Time sees our frolics, He shares in our joy  
 And laments that his duty compels him to fly  
 Yes he flies and our wine give new speed to his wings  
-Yet while he forsakes us in Chorus he sings
+Yet while he forsakes us in Chorus he sings  
 ’Tis the season of Mirth &c.  
 
 [^1]: A Physician who flourished 300 years ago, celebrated in the annals of that age for his convivial talents, and the sonorous intonation of his songs after supper which fame says was louder than a chorus of Trombones, double drums, and thunder.

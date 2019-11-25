@@ -1,5 +1,5 @@
 ---
-title: 'The Sixth Brother’s Tale'
+title: 'Advertisement of the Hermits'
 taxonomy:
     category:
         - docs
