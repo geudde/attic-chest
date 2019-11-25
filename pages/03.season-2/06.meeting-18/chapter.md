@@ -17,6 +17,6 @@ visible: false
 7. [Phoebe to Roberto](phoebe)
 8. [To Miss Porden](miss-porden)
 9. [Moth to Stella](moth)
-10. [Punch to Elorina](punch)
+10. [Punch to Eborina](punch)
 11. [To Wit](wit)
 12. [Female Emigration](emigration)

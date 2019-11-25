@@ -286,7 +286,7 @@ tntsearch:
 [Do. to An Architect](../../season-2/meeting-18/miss-porden) → <span class="grey">&ensp;?</span>  
 [Do. to Miss Porden](../../season-2/meeting-18/moth) → <span class="grey">&ensp;?</span>  
 [Do. to Stella](../../season-2/meeting-18/punch) → <span class="name">Miss Flaxman</span> <span class="alias">(Moth)</span>  
-[Do. to Elorina](../../season-2/meeting-18/wit) → <span class="name">Miss Porden</span> <span class="alias">(Punch)</span>  
+[Do. to Eborina](../../season-2/meeting-18/wit) → <span class="name">Miss Porden</span> <span class="alias">(Punch)</span>  
 [The Female Emigrations](../../season-2/meeting-18/emigration) → <span class="name">Mr Vignoles</span>
 
 <div class="bottom">
@@ -1188,10 +1188,10 @@ tntsearch:
 [“When Norway’s Monarch knelt to gain”](../../season-8/meeting-74/pertinax#norway) → <span class="name">Miss Vardill</span>  
 [Electromagus on Heat](../../season-8/meeting-74/electromagus) → <span class="name">Miss Porden</span>  
 [Estrella: Mr Beauclerc’s Prize Essay](../../season-8/meeting-74/estrella) → <span class="name">Miss Porden</span>  
-<span class="grey">Letter from Prosai Poetico → Miss Vardill</span> <span data-tippy="Missing or not scanned" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
-<span class="grey">The 6th Brother’s Tale → Miss Vardill</span> <span data-tippy="Missing or not scanned" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>    
-<span class="grey">Advertisement of the Hermits for the 7th Brother → Miss Vardill</span> <span data-tippy="Missing or not scanned" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>    
-<span class="grey">Song: For Master Doctoure → Mr Porden (when tipsy)</span> <span data-tippy="Missing or not scanned" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>    
+[Letter from Prosai Poetico](../../season-8/meeting-74/prosai) → <span class="name">Miss Vardill  
+[The 6th Brother’s Tale](../../season-8/meeting-74/brother-6) → <span class="name">Miss Vardill</span>  
+[Advertisement of the Hermits for the 7th Brother](../../season-8/meeting-74/hermits) → <span class="name">Miss Vardill</span>  
+[Song: For Master Doctoure](../../season-8/meeting-74/doctoure) → <span class="name">Mr Porden</span> (when tipsy)   
 
 <div class="bottom">
 <span class="meeting">No. 75&emsp;(1815-12-20)</span><span class="dro">D8760/F/FEP/5/30</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f30" target="_blank"><i class="fa fa-external-link"></i></a>
