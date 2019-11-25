@@ -1197,7 +1197,7 @@ tntsearch:
 <span class="meeting">No. 75&emsp;(1815-12-20)</span><span class="dro">D8760/F/FEP/5/30</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f30" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
-[Address. Ex parte Pocket Handkerchief](../../season-8/meeting-75/handkerchief) → <span class="name">Miss Vardill</span> <span data-tippy="Incomplete" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+[Address. Ex parte Pocket Handkerchief](../../season-8/meeting-75/handkerchief) → <span class="name">Miss Vardill</span> <span data-tippy="Incomplete" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [Riddle: Glass](../../season-8/meeting-75/riddle-1) → <span class="name">Miss Porden</span>  
 [Ditto: Chrysalis](../../season-8/meeting-75/riddle-2) → <span class="name">Miss Porden</span>  
 <span class="grey">Lines spoken in the character of Mr Coutts → Mr Empey com. Mrs Richardson</span>  
