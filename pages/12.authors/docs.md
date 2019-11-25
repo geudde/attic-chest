@@ -1197,21 +1197,19 @@ tntsearch:
 <span class="meeting">No. 75&emsp;(1815-12-20)</span><span class="dro">D8760/F/FEP/5/30</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f30" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
-<span class="missing">MISSING</span> <span data-tippy="Contributions missing or not scanned" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
-
-<span class="grey">Address. Ex parte Pocket Handkerchief → Miss Vardill</span>  
-<span class="grey">A Riddle. Answer: Glass → Miss Porden</span>  
-<span class="grey">Do. Answer: Chrysalis → Miss Porden</span>  
+[Address. Ex parte Pocket Handkerchief](../../season-8/meeting-75/handkerchief) → <span class="name">Miss Vardill</span> <span data-tippy="Incomplete" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+[Riddle: Glass](../../season-8/meeting-75/riddle-1) → <span class="name">Miss Porden</span>  
+[Ditto: Chrysalis](../../season-8/meeting-75/riddle-2) → <span class="name">Miss Porden</span>  
 <span class="grey">Lines spoken in the character of Mr Coutts → Mr Empey com. Mrs Richardson</span>  
 <span class="grey">Words for Modinha No. 1 → Mr Elliott</span>  
 <span class="grey">Electromagus on light → Miss Porden</span>  
 <span class="grey">Sir P. Townly The Summer House → Miss Porden</span>  
-<span class="grey">Sir P. Townly The Flowers are Bright on hill and dale → Miss Porden</span>  
+<span class="grey">Sir P. Townly The Flowers are Bright on Hill and Dale → Miss Porden</span>  
 <span class="grey">Mr Beauclerc to the Editor → Miss Vardill</span>  
 <span class="grey">Balance of Opinions on Women → Miss Vardill</span>  
 <span class="grey">Plan for a Lottery → Miss Vardill</span>  
 <span class="grey">The 7th Brother’s Tale → Miss Vardill</span>  
-<span class="grey">Closing address from the Hermitage → Miss Vardill</span>  
+<span class="grey">Closing Address from the Hermitage → Miss Vardill</span>  
 
 <div class="bottom">
 <span class="meeting">No. 76&emsp;(1816-01-30)</span><span class="dro">D8760/F/FEP/5/31</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f31" target="_blank"><i class="fa fa-external-link"></i></a>

@@ -8,4 +8,4 @@ visible: false
 
 # 20 December 1816
 
-# <span class="missing">MISSING</span>
+1. [Editorial](editorial)
