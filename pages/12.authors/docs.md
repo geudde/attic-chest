@@ -1203,8 +1203,8 @@ tntsearch:
 <span class="grey">Lines spoken in the character of Mr Coutts → Mr Empey com. Mrs Richardson</span>  
 <span class="grey">Words for Modinha No. 1 → Mr Elliott</span>  
 <span class="grey">Electromagus on light → Miss Porden</span>  
-<span class="grey">Sir P. Townly The Summer House → Miss Porden</span>  
-<span class="grey">Sir P. Townly The Flowers are Bright on Hill and Dale → Miss Porden</span>  
+<span class="grey">Sir P. Townly: The Summer House → Miss Porden</span>  
+<span class="grey">Sir P. Townly: The Flowers are Bright on Hill and Dale → Miss Porden</span>  
 <span class="grey">Mr Beauclerc to the Editor → Miss Vardill</span>  
 <span class="grey">Balance of Opinions on Women → Miss Vardill</span>  
 <span class="grey">Plan for a Lottery → Miss Vardill</span>  
