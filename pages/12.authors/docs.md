@@ -1200,7 +1200,7 @@ tntsearch:
 [Address. Ex parte Pocket Handkerchief](../../season-8/meeting-75/handkerchief) → <span class="name">Miss Vardill</span>    
 [Riddle: Glass](../../season-8/meeting-75/riddle-1) → <span class="name">Miss Porden</span>  
 [Ditto: Chrysalis](../../season-8/meeting-75/riddle-2) → <span class="name">Miss Porden</span>  
-<span class="grey">Lines spoken in the character of Mr Coutts → Mr Empey com. Mrs Richardson</span>  
+<span class="grey">Lines spoken in the character of Mr Coutts → Mr Impey com. Mrs Richardson</span>  
 <span class="grey">Words for Modinha No. 1 → Mr Elliott</span>  
 <span class="grey">Electromagus on light → Miss Porden</span>  
 <span class="grey">Sir P. Townly: The Summer House → Miss Porden</span>  
