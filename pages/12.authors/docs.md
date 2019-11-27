@@ -1200,16 +1200,16 @@ tntsearch:
 [Address. Ex parte Pocket Handkerchief](../../season-8/meeting-75/handkerchief) → <span class="name">Miss Vardill</span>    
 [Riddle: Glass](../../season-8/meeting-75/riddle-1) → <span class="name">Miss Porden</span>  
 [Ditto: Chrysalis](../../season-8/meeting-75/riddle-2) → <span class="name">Miss Porden</span>  
-[Lines spoken in the character of Mr Coutts](../../season-8/meeting-75/impey) → Mr Impey com. Mrs Richardson</span>  
-[Words for Modinha No. 1] → Mr Elliott</span>  
-[Electromagus on light] → Miss Porden</span>  
-[Sir P. Townly: The Summer House] → Miss Porden</span>  
-[Sir P. Townly: The Flowers are Bright on Hill and Dale] → Miss Porden</span>  
-[Mr Beauclerc to the Editor] → Miss Vardill</span>  
-[Balance of Opinions on Women] → Miss Vardill</span>  
-[Plan for a Lottery] → Miss Vardill</span>  
-[The 7th Brother’s Tale] → Miss Vardill</span>  
-[Closing Address from the Hermitage] → Miss Vardill</span>  
+[Lines spoken in the character of Mr Coutts](../../season-8/meeting-75/impey) → <span class="name">Mr Impey com. Mrs Richardson</span>  
+[Words for Modinha No. 1](../../season-8/meeting-75/modinha) → <span class="name">Mr Elliott</span>  
+[Electromagus on light](../../season-8/meeting-75/electromagus) → <span class="name">Miss Porden</span>  
+[Sir P. Townly: The Summer House](../../season-8/meeting-75/pertinax) → <span class="name">Miss Porden</span>  
+[Sir P. Townly: The Flowers are Bright on Hill and Dale](../../season-8/meeting-75/pertinax) → <span class="name">Miss Porden</span> <span data-tippy="Included in previous item" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span> 
+[Mr Beauclerc to the Editor](../../season-8/meeting-75/beauclerc) → <span class="name">Miss Vardill</span>  
+[Balance of Opinions on Women](../../season-8/meeting-75/procon) → <span class="name">Miss Vardill</span>  
+[Plan for a Lottery](../../season-8/meeting-75/lottery) → <span class="name">Miss Vardill</span>  
+[The 7th Brother’s Tale](../../season-8/meeting-75/brother-7) → <span class="name">Miss Vardill</span>  
+[Closing Address from the Hermitage](../../season-8/meeting-75/hermitage) → <span class="name">Miss Vardill</span>  
 
 <div class="bottom">
 <span class="meeting">No. 76&emsp;(1816-01-30)</span><span class="dro">D8760/F/FEP/5/31</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f31" target="_blank"><i class="fa fa-external-link"></i></a>
