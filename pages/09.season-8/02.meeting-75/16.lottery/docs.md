@@ -8,7 +8,7 @@ visible: false
 
 <div class="author">Miss Vardill</div>
 
-#### Plan for 1816 of a New State Lottery under Government Security  
+### Plan for 1816 of a New State Lottery under Government Security  
 
 Ladies’ and Gentlemen’s Tickets to Be Drawn Separately  
 
