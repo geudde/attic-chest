@@ -1200,16 +1200,16 @@ tntsearch:
 [Address. Ex parte Pocket Handkerchief](../../season-8/meeting-75/handkerchief) → <span class="name">Miss Vardill</span>    
 [Riddle: Glass](../../season-8/meeting-75/riddle-1) → <span class="name">Miss Porden</span>  
 [Ditto: Chrysalis](../../season-8/meeting-75/riddle-2) → <span class="name">Miss Porden</span>  
-<span class="grey">Lines spoken in the character of Mr Coutts → Mr Impey com. Mrs Richardson</span>  
-<span class="grey">Words for Modinha No. 1 → Mr Elliott</span>  
-<span class="grey">Electromagus on light → Miss Porden</span>  
-<span class="grey">Sir P. Townly: The Summer House → Miss Porden</span>  
-<span class="grey">Sir P. Townly: The Flowers are Bright on Hill and Dale → Miss Porden</span>  
-<span class="grey">Mr Beauclerc to the Editor → Miss Vardill</span>  
-<span class="grey">Balance of Opinions on Women → Miss Vardill</span>  
-<span class="grey">Plan for a Lottery → Miss Vardill</span>  
-<span class="grey">The 7th Brother’s Tale → Miss Vardill</span>  
-<span class="grey">Closing Address from the Hermitage → Miss Vardill</span>  
+[Lines spoken in the character of Mr Coutts](../../season-8/meeting-75/impey) → Mr Impey com. Mrs Richardson</span>  
+[Words for Modinha No. 1] → Mr Elliott</span>  
+[Electromagus on light] → Miss Porden</span>  
+[Sir P. Townly: The Summer House] → Miss Porden</span>  
+[Sir P. Townly: The Flowers are Bright on Hill and Dale] → Miss Porden</span>  
+[Mr Beauclerc to the Editor] → Miss Vardill</span>  
+[Balance of Opinions on Women] → Miss Vardill</span>  
+[Plan for a Lottery] → Miss Vardill</span>  
+[The 7th Brother’s Tale] → Miss Vardill</span>  
+[Closing Address from the Hermitage] → Miss Vardill</span>  
 
 <div class="bottom">
 <span class="meeting">No. 76&emsp;(1816-01-30)</span><span class="dro">D8760/F/FEP/5/31</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f31" target="_blank"><i class="fa fa-external-link"></i></a>
