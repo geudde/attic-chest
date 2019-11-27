@@ -19,3 +19,6 @@ visible: false
 	d. [Exile](exile)  
 	e. [Young Willy](willy)  
 6. [Electromagus on Light](light)
+7. [The Summer House](pertinax)
+8. [Mr Beauclerc to the Editor](beauclerc)
+9. [Balance of Opinions on Women](procon)
