@@ -1204,7 +1204,7 @@ tntsearch:
 [Words for Modinha No. 1](../../season-8/meeting-75/modinha) → <span class="name">Mr Elliott</span>  
 [Electromagus on light](../../season-8/meeting-75/electromagus) → <span class="name">Miss Porden</span>  
 [Sir P. Townly: The Summer House](../../season-8/meeting-75/pertinax) → <span class="name">Miss Porden</span>  
-[Sir P. Townly: The Flowers are Bright on Hill and Dale](../../season-8/meeting-75/pertinax) → <span class="name">Miss Porden</span> <span data-tippy="Included in previous item" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span> 
+[Sir P. Townly: The Flowers are Bright on Hill and Dale](../../season-8/meeting-75/pertinax) → <span class="name">Miss Porden</span> <span data-tippy="Included in previous item" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [Mr Beauclerc to the Editor](../../season-8/meeting-75/beauclerc) → <span class="name">Miss Vardill</span>  
 [Balance of Opinions on Women](../../season-8/meeting-75/procon) → <span class="name">Miss Vardill</span>  
 [Plan for a Lottery](../../season-8/meeting-75/lottery) → <span class="name">Miss Vardill</span>  
