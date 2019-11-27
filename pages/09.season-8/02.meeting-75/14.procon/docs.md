@@ -22,7 +22,7 @@ CON
 <tr>
 <td style="width=50%;vertical-align: top;">
 <p>
-Man was the first *gossip*, for he told tales of his wife. 
+Man was the first <em>gossip</em>, for he told tales of his wife. 
 </p>
 <p>
 A wise woman is the crown of her husband. 
