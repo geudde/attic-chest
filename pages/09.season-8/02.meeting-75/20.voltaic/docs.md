@@ -27,30 +27,26 @@ Positive House — March 1815
 </div>
 
 ---
-
-The Voltaic Battery
-
-Book the First
-
+<div class="center">
+<p>
 Argument
+</p>
+<p>
+Book the First
+</p>
+</div>
 
 Invocation to Electricity — Volta superior to Newton — Connubial Love the origin of the Battery — Galvani — wife washing — prepares dinner himself — electric phenomena — Volta — discovery of the Battery — Its progress — Couronne des Tasses — Babington — Davy — Powers of the Battery — Chemical and Electric action — De Luc — His Electric Bells.
 
+<div class="center">
+<p>
 Book the Second
+</p>
+</div>
 
 The Royal Institution — Davy — his lectures — decomposition of water — of the fixed alkalis — Sodium Potassium — not acknowledged as brothers by the old metals. Metals of the Earths — Ammonium — comparison with Sir H. Davy — The new Corrine — artificial diamonds. Professor Davy’s promise. A gleam of future triumphs of electric science — Bodies range themselves at the opposite poles — appropriate morality — Electromagus — His superiority to all Sages — Power of Electricity on the Mind. Spurzheim *dessous*. Lord Aircastle. His patronage of Electromagus — Conclusion.
 
 ---
-
-The Voltaic Battery  
-
-A Poem in Two Books
-
-Book the 1st  
-
-by Atticus Scriblerus Junr. a pupil of  
-
-Electromagus
 
 Oh thou unseen yet all-pervading power  
 Source of the blast, the meteor and the shower  
