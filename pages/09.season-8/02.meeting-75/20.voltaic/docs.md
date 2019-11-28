@@ -8,7 +8,8 @@ visible: false
 
 <div class="author">Miss Porden</div>
 
-### The Voltaic Battery
+<div class="center">
+The Voltaic Battery
 
 A Poem in Two Books
 
@@ -17,6 +18,8 @@ by Atticus Scriblerus Junr. a pupil of
 Electromagus
 
 Positive House — March 1815
+
+</div>
 
 ---
 
