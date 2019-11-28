@@ -35,14 +35,10 @@ Two Hundred Blanks!
 </p>
 </div>
 
-<table style="width: 80%;margin: auto;">
+<table style="width: 70%;margin: auto; font-family: 'Noto Serif'">
 <tr>
 <td colspan="3" style="text-align: center;font-weight: bold;">
 First Day’s Drawing
-</td>
-</tr>
-<tr>
-<td>
 </td>
 </tr>
 <tr>
