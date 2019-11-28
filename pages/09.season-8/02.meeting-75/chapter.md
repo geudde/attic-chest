@@ -26,3 +26,5 @@ visible: false
 11. [Plan for a Lottery](lottery)
 12. [The Seventh Brother’s Tale](brother-7)
 13. [Closing Address from the Hermitage](address)
+14. [A Christmas Carol](carol)  
+15. [The Voltaic Battery](voltaic)
