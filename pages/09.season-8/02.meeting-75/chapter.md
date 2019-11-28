@@ -24,3 +24,5 @@ visible: false
 9. [Mr Beauclerc to the Editor](beauclerc)
 10. [Balance of Opinions on Women](procon)
 11. [Plan for a Lottery](lottery)
+12. [The Seventh Brother’s Tale](brother-7)
+13. [Closing Address from the Hermitage](address)
