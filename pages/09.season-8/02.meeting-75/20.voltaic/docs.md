@@ -9,16 +9,21 @@ visible: false
 <div class="author">Miss Porden</div>
 
 <div class="center">
+<p>
 The Voltaic Battery
-
+</p>
+<p>
 A Poem in Two Books
-
+</p>
+<p>
 by Atticus Scriblerus Junr. a pupil of  
-
+</p>
+<p>
 Electromagus
-
+</p>
+<p>
 Positive House — March 1815
-
+</p>
 </div>
 
 ---
