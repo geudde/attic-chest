@@ -10,9 +10,6 @@ visible: false
 
 <div class="center">
 <p>
-The Voltaic Battery
-</p>
-<p>
 A Poem in Two Books
 </p>
 <p>
@@ -245,4 +242,4 @@ And drops a tear to mar their silver light.[^9]
 
 [^8]: The phenomena of attraction and repulsion, the brilliant light, the deflagration of metals, and that peculiar numbing sensation which can rather be felt than described, are owing to the electricity, and are much more powerfully displayed in a few alternations of large plates than in a great number of small ones. While the decomposition of bodies, and the violent heat produced by a battery consisting of a great number of small plates are the effects of its chemical power. Large plates are necessary for operating on conductors, where chemical power is required, the size is immaterial, and the number only of importance. From recent experiment it appears however that electric power does not increase uniformly with the size of the plates, nor chemical force with their number.
 
-[^9]: The large battery at the Royal Institution, consisting
+[^9]: The large battery at the Royal Institution, consisting of 4,000 plates of four inches diameter, when the troughs are filled with a strong acid solutions, and it is in high power for chemical decomposition, produces even less electrical effect, than a battery of twenty plates charged with water, or even the contact and separation of a single pair; on the contrary in the Voltaic columns of M. de Luc, the effect is entirely electrical. In the former instance, the fumes which arise from the chemical action of the acid on the metals, destroys the insulation, and consequently the electrical effect. In the Voltaic column, on the other hand, the electrical effects are perfect, as long only as the whole apparatus is kept dry, that is, as long as there is no chemical action on the metals. A sunbeam is composed of three parts: light, heat, and some invisible rays producing chemical effects, possibly by some electrical actions. When the ray is divided by the prism, the heat is found to be greater in the red rays, and in certain invisible rays beyond them, but here no chemical effects are observable, while on the contrary, in the violet rays, and in certain invisible rays beyond the coloured spectrum, little heat is detected, and the chemical effects are strong. In the red rays metallic oxides are unaltered, but they soon tarnish in the violet lights or the invisible rays beyond.
