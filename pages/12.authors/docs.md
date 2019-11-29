@@ -1209,7 +1209,7 @@ tntsearch:
 [Balance of Opinions on Women](../../season-8/meeting-75/procon) → <span class="name">Miss Vardill</span>  
 [Plan for a Lottery](../../season-8/meeting-75/lottery) → <span class="name">Miss Vardill</span>  
 [The 7th Brother’s Tale](../../season-8/meeting-75/brother-7) → <span class="name">Miss Vardill</span>  
-[Closing Address from the Hermitage](../../season-8/meeting-75/hermitage) → <span class="name">Miss Vardill</span> 
+[Closing Address from the Hermitage](../../season-8/meeting-75/hermitage) → <span class="name">Miss Vardill</span>  
 [A Christmas Carol to Mince Pies](../../season-8/meeting-75/carol) → <span class="grey">&ensp;?</span> <span data-tippy="Not listed in attributions" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [The Voltaic Battery](../../season-8/meeting-75/voltaic) → <span class="name">Miss Porden</span> <span data-tippy="Not listed in attributions" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
