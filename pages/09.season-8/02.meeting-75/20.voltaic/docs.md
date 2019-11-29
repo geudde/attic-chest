@@ -443,7 +443,7 @@ Finis
 
 [^10]: The Royal Institution.
 
-[^11]: Iodine, so called from, Ion, a violet. “A substance producing a violet coloured gas when heated.”
+[^11]: Iodine, so called from *Ion*, a violet. “A substance producing a violet coloured gas when heated.”
 
 [^12]: Water consists of one volume of oxygen combined with two of hydrogen. In its decomposition the oxygen, being negative, is evolved at the positive pole, and the hydrogen, being positive, at the negative.
 
@@ -459,7 +459,7 @@ Finis
 
 [^18]: The fair lady who afterwards so fully *appreciated* the merits of Davy, was very generally known by the appellation of the “New Corinne”, though she assured her friends that notwithstanding the universal supposition, and her great intimacy with Mme. De Stael at the time, she really was not the Corinne of that illustrious writer.
 
-[^19]: Mrs Apreece used to receive chemical lessons from Professor Day in her dressing room at 6 o’clock in the morning.
+[^19]: Mrs Apreece used to receive chemical lessons from Professor Davy in her dressing room at 6 o’clock in the morning.
 
 [^20]: Feb. 19th 1810 At an evening lecture Professor Davy made this promise.
 

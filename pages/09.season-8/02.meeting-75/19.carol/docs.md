@@ -8,8 +8,7 @@ visible: false
 
 <div class="author">Unknown</div>
 
-> The Poets’ Address to Their Inspiring Muse
-> 
+> The Poets’ Address to Their Inspiring Muse  
 > Written after a luxurious luncheon, upon Mince Pies
 
 Anacreon, fired with rosy wine,  
