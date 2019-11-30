@@ -706,7 +706,7 @@ tntsearch:
 [“The Norland Lassies’ Lament”](../../season-3/meeting-45/norland) → <span class="name">Mrs Staveley</span>  
 [“Oft I’ve Implored”](../../season-3/meeting-45/implored) → <span class="name">Mrs Flaxman</span> <span class="alias">(Amica)</span>  
 [“When Ammon’s Mighty Son Arose”](../../season-3/meeting-45/ammon) → <span class="name">Mr Flaxman</span>  
-[“Said Hymen to Cupid”](../../season-3/meeting-45/hymen) → <span class="name"><a href="../doc.md">Miss Vardill</a></span>  
+[“Said Hymen to Cupid”](../../season-3/meeting-45/hymen) → [Miss Vardill](../vardill)</span>  
 [To Moth, on Her Birthday](../../season-3/meeting-45/moth) → <span class="name">Miss Porden</span>  
 [Au Revoir](../../season-3/meeting-45/au-revoir) → <span class="name">Miss Flaxman</span>  
 [Blue Beard](../../season-3/meeting-45/bluebeard) → <span class="name">Miss F. Richardson</span>  
@@ -1292,7 +1292,7 @@ tntsearch:
 [The Chaplet](../../season-8/meeting-79/chaplet) → <span class="grey">&ensp;?</span>    
 [Message from Author](../../season-8/meeting-79/message) → <span class="grey">&ensp;?</span>    
 [The Fairies’ Isle](../../season-8/meeting-79/isle) → <span class="grey">&ensp;?</span>  
-<span class="grey">Laila: An Arabian Tale</span> <a href="../season-8/tales/laila"><i class="fa fa-link" aria-hidden="true"></i></a>
+<span class="grey">Laila: An Arabian Tale</span> [Laila](../season-8/tales/laila) <i class="fa fa-link" aria-hidden="true"></i></a>
 
 <div class="bottom">
 <span class="meeting">No. 80&emsp;(1816-03-27)</span><span class="dro">D8760/F/FEP/5/33</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f33" target="_blank"><i class="fa fa-external-link"></i></a>
@@ -1307,7 +1307,7 @@ tntsearch:
 [To Celia](../../season-8/meeting-80/celia) → <span class="grey">&ensp;?</span>  
 [Four Nations: The Jew](../../season-8/meeting-80/jew) → <span class="grey">&ensp;?</span>  
 [The Aëronautiad](../../season-8/meeting-80/aeronautiad) → <span class="grey">&ensp;?</span>  
-<span class="grey">Khatoon: A Persian Tale</span> <a href="../season-8/tales/khatoon"><i class="fa fa-link" aria-hidden="true"></i></a>
+<span class="grey">Khatoon: A Persian Tale</span> [Katton](../season-8/tales/khatoon) <i class="fa fa-link" aria-hidden="true"></i></a>
 
 <div class="bottom">
 <span class="meeting">No. 81&emsp;(1816-04-24)</span><span class="dro">D8760/F/FEP/5/33</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f33" target="_blank"><i class="fa fa-external-link"></i></a>
@@ -1321,7 +1321,7 @@ tntsearch:
 [Farewell to Henrietta](../../season-8/meeting-81/farewell) → <span class="grey">&ensp;?</span>  
 [Letter from Pertinax Townly](../../season-8/meeting-81/pertinax) → <span class="grey">&ensp;?</span>  
 [Letter and Poem from Betty Brush](../../season-8/meeting-81/betty) → <span class="grey">&ensp;?</span>  
-<span class="grey">Komalda: An Indian Tale</span> <a href="../season-8/tales/komalda"><i class="fa fa-link" aria-hidden="true"></i></a>
+<span class="grey">Komalda: An Indian Tale</span> [Komalda](../season-8/tales/komalda) <i class="fa fa-link" aria-hidden="true"></i></a>
 
 <div class="bottom">
 <span class="meeting">No. 82&emsp;(1816-05-08)</span><span class="dro">D8760/F/FEP/5/34</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f34" target="_blank"><i class="fa fa-external-link"></i></a>
@@ -1337,7 +1337,7 @@ tntsearch:
 [Letter and Poem from Mopsey](../../season-8/meeting-82/mopsey) → <span class="grey">&ensp;?</span>  
 [The Spectre’s Isle](../../season-8/meeting-82/spectre) → <span class="grey">&ensp;?</span>  
 [Edwin and Angelina](../../season-8/meeting-82/edwin) → <span class="grey">&ensp;?</span>  
-<span class="grey">Telasco: An American Tale</span> <a href="../season-8/tales/telasco"><i class="fa fa-link" aria-hidden="true"></i></a>
+<span class="grey">Telasco: An American Tale</span> [Telasco](../season-8/tales/telasco) <i class="fa fa-link" aria-hidden="true"></i></a>
 
 <div class="bottom">
 <span class="meeting">No. 83&emsp;(1816-05-22)</span><span class="dro">D8760/F/FEP/5/34</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f34" target="_blank"><i class="fa fa-external-link"></i></a>
@@ -1352,7 +1352,7 @@ tntsearch:
 [Memorial to a Favorite Dog](../../season-8/meeting-83/dog) → <span class="grey">&ensp;?</span>  
 [Charade](../../season-8/meeting-83/charade) → <span class="grey">&ensp;?</span>  
 [Two Poems from an Editor](../../season-8/meeting-83/editor) → <span class="grey">&ensp;?</span>    
-<span class="grey">Kuban Khan: A Tartarian Tale</span> <a href="../season-8/tales/kuban"><i class="fa fa-link" aria-hidden="true"></i></a>
+<span class="grey">Kuban Khan: A Tartarian Tale</span> [Kuban](../../season-8/tales/kuban) <i class="fa fa-link" aria-hidden="true"></i></a>
 
 <div class="bottom">
 <span class="meeting">No. 84&emsp;(1816-06-05)</span><span class="dro">D8760/F/FEP/5/35</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f35" target="_blank"><i class="fa fa-external-link"></i></a>
