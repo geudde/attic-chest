@@ -26,7 +26,7 @@ tntsearch:
 [Written with a Crow Quill](../../season-4/meeting-54/quill) → <span class="name">Miss Vardill</span>  
 [The Remonstrance](../../season-4/meeting-54/remonstrance) → Governor Franklin → <span class="name">Miss Vardill</span>  
 [To Amanda](../../season-4/meeting-55/amanda) → Miss Porden → <span class="name">Miss Vardill</span> <span class="alias">(Donald)</span> <span data-tippy="Attributed to EAP but handwriting that of AJV" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>   
-[To Donald](../../season-4/meeting-55/donald) → <span class="name">Miss Vardill</span> <span class="alias">(Amanda)</span>
+[To Donald](../../season-4/meeting-55/donald) → <span class="name">Miss Vardill</span> <span class="alias">(Amanda)</span>  
 [Letter from the West Indian](../../season-4/meeting-56/west) → <span class="name">Miss Vardill</span>  
 [Lady Flora](../../season-4/meeting-56/flora) → <span class="name">Miss Vardill</span>  
 [Old Joan](../../season-4/meeting-57/joan) → <span class="grey">Governor Franklin</span> → <span class="name">Miss Vardill</span>  
@@ -97,7 +97,6 @@ tntsearch:
 [Closing Address from the Hermitage](../../season-8/meeting-75/hermitage) → <span class="name">Miss Vardill</span>  
 [From Prosai-Poetico to Beauclerc](../../season-8/meeting-85/prosai) → <span class="name">Miss Vardill</span>  
 [The Thirteenth of June](../../season-8/meeting-85/june) → <span class="name">Miss Vardill</span>  
-		<td>Miss Vardill</td> <td class="price">67</td>
 [Valentine with a Repeating Watch](../../season-9/meeting-87/watch) → <span class="name">Miss Vardill</span>  
 [The New Coin of Parnassus](../../season-9/meeting-87/coin) → <span class="name">Miss Vardill</span>  
 [The 1st Act of the Novice of St Benedict](../../season-9/meeting-87/novice) → <span class="name">Miss Vardill</span>  
@@ -105,10 +104,10 @@ tntsearch:
 <span class="grey">The Waterloo Button → Miss Vardill</span> <a href="https://vardill.org/relic.html"><i class="fa fa-external-link" aria-hidden="true"></i></a>  
 [The Festival of Nauruz](../../season-9/meeting-89/nauruz) → <span class="name">Miss Vardill</span>  
 <span class="grey">Persian Verses from Sadi → Miss Vardill</span>  
-<span class="grey">Rosamond’s Chest → Mr Bayler com. Miss Vardill</span>
+<span class="grey">Rosamond’s Chest → Mr Bayler com. Miss Vardill</span>  
 <span class="grey">A Muse Found → Miss Vardill</span>  
 <span class="grey">500 Lines → Miss Vardill</span>  
-[The Novice of St Benedict Concluded](../../season-9/meeting-91/novice) → <span class="name">Miss Vardill</span>
+[The Novice of St Benedict Concluded](../../season-9/meeting-91/novice) → <span class="name">Miss Vardill</span>  
 [Speak English Pray!](../../season-9/meeting-92/english) → <span class="name">Miss Vardill</span>  
 <span class="grey">Atticus Scriblerus to Olivia → Miss Vardill</span>  
 [King Edward and Fair Agnes](../../season-9/meeting-92/legend) → <span class="name">Miss Vardill</span>  
