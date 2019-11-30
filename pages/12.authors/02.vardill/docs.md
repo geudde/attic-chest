@@ -9,7 +9,7 @@ tntsearch:
 ---
 
 
-[“Said Hymen to Cupid”](../vardill) → <span class="name">Miss Vardill</span>  
+[“Said Hymen to Cupid”](../../vardill) → <span class="name">Miss Vardill</span>  
 [The Meeting](../../season-4/meeting-46/meeting) → <span class="name">Miss Vardill</span>  
 [From Brighton to London](../../season-4/meeting-47/brighton) → <span class="name">Miss Vardill</span>  
 [The Frown and the Smile](../../season-4/meeting-48/frown) → <span class="name">Miss Vardill</span> <span class="alias">(Donald)</span>  
