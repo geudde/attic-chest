@@ -706,7 +706,7 @@ tntsearch:
 [“The Norland Lassies’ Lament”](../../season-3/meeting-45/norland) → <span class="name">Mrs Staveley</span>  
 [“Oft I’ve Implored”](../../season-3/meeting-45/implored) → <span class="name">Mrs Flaxman</span> <span class="alias">(Amica)</span>  
 [“When Ammon’s Mighty Son Arose”](../../season-3/meeting-45/ammon) → <span class="name">Mr Flaxman</span>  
-[“Said Hymen to Cupid”](../../season-3/meeting-45/hymen) → <span class="name">Miss Vardill</span>  
+[“Said Hymen to Cupid”](../../season-3/meeting-45/hymen) → <span class="name"><a href="../doc.md">Miss Vardill</a></span>  
 [To Moth, on Her Birthday](../../season-3/meeting-45/moth) → <span class="name">Miss Porden</span>  
 [Au Revoir](../../season-3/meeting-45/au-revoir) → <span class="name">Miss Flaxman</span>  
 [Blue Beard](../../season-3/meeting-45/bluebeard) → <span class="name">Miss F. Richardson</span>  
