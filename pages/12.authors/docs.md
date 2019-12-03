@@ -428,7 +428,7 @@ tntsearch:
 [On Wit and Humor](../../season-2/meeting-27/wit) → <span class="grey">&ensp;?</span>   
 [The Plighted Lady](../../season-2/meeting-27/plighted-lady) → <span class="name">Miss Flaxman</span>   
 [The Rape of the Veil](../../season-2/meeting-27/rape) → <span class="name">Miss Porden</span>  
-[Announcement](../../season-2/meeting-27/announcement) → <span class="grey">Miss Porden</span>   
+[Announcement](../../season-2/meeting-27/announcement) → <span class="name">Miss Porden</span>   
 
 <div class="bottom">
 <span class="meeting">No. 28&emsp;(1810-07-14)</span><span class="dro">D8760/F/FEP/5/10</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f10" target="_blank"><i class="fa fa-external-link"></i></a>
