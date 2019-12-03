@@ -404,7 +404,7 @@ tntsearch:
 <span class="meeting">No. 26&emsp;(1810-06-19)</span><span class="dro">D8760/F/FEP/5/9</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f9" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
-[To Eborina](../../season-2/meeting-26/eborina) → <span class="name">Mr Porden</span> <span class="alias">(Lothario)</span   
+[To Eborina](../../season-2/meeting-26/eborina) → <span class="name">Mr Porden</span> <span class="alias">(Lothario)</span>   
 [What You Will](../../season-2/meeting-25/what) → <span class="name">Mr Vignoles</span> <span data-tippy="Filed incorrectly under Meeting 25" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [Translation from Greek](../../season-2/meeting-26/greek) → <span class="name">Mr Bond</span> <span class="alias">(Ictinus)</span>   
 [A Riddle: Sigh](../../season-2/meeting-26/riddle) → <span class="name">Miss Flaxman</span> <span class="alias">(Amintor)</span>  
