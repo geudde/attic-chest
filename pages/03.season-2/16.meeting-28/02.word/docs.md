@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Flaxman</div>
+
 I thought my good Sir, but I find I was wrong,  
 And my inference truly absurd,  
 That you hoped I had come to the end of my Song  

@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-<div class="author">???</div>
+<div class="author">Mr Vignoles</div>
 
 &emsp;Now while the Dewdrop “glistens on the thorn,”  
 &emsp;And crimson tinted clouds announce the morn,  

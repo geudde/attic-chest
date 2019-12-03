@@ -6,7 +6,9 @@ taxonomy:
 visible: false
 ---
 
-<span class="title">In the most admired modern taste </span>
+<div class="author">Communicated by Mrs Flaxman</div>
+
+> In the most admired modern taste
 
 As I walk’d out the other evening late  
 My mind in thoughtful serious state,  

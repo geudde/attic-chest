@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Flaxman</div>
+
 The Order of Peace and Friendship for Ladies only, instituted by King James after his reconciliation with the Douglas. Ellen was invested with it on her birthday at Stirling Castle. The colours attached to it are those by which both the King and the Knight of Snowdoun are signified.  
   
 No sign portentous, Ellen dear  

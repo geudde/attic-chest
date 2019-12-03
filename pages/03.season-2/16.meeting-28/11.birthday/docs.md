@@ -6,7 +6,9 @@ taxonomy:
 visible: false
 ---
 
-<span class="title">July 14th 1810  </span>
+<div class="author">Mr Flaxman</div>
+
+> July 14th 1810
   
 By sea, or land, as various fancy strays,  
 We seek renown, and prosperous days;  

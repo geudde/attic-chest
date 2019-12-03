@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-<div class="author">???</div>
+<div class="author"></div>
 
 Beneath this stone, that vies with snows pure white,  
 &emsp;Reclines a maid of beauty, virtue rare,  

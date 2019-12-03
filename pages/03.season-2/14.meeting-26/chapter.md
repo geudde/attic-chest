@@ -18,5 +18,5 @@ visible: false
 8. [Invocation to Sleep](sleep)
 9. [Dido to Ictinus](dido)
 10. [Song](song)
-11. [Fairy Land](fairy)
-12. [Lines on John Palmer](lines)
+11. [Philomel and Rosa](fairy)
+12. [Lines by Mr Roscoe](lines)

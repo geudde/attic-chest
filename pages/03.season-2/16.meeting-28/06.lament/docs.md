@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Flaxman</div>
+
 Oh luckless maid! Oh cruel fate  
 &emsp;Would I might run away  
 And shun ere it may be too late  

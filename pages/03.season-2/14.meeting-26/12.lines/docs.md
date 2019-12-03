@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-<div class="author">???</div>
+<div class="author">Communicated by Miss Beslee</div>
 
 > Lines, written by Mr Roscoe and spoken by Mr Holmes, before a play acted, at Liverpool, for the benefit of the family of Mr John Palmer, who died suddenly while performing the part of the Stranger in the play of that name, and immediately after repeating the words “Oh God, Oh God! there is another and a better world.”
 

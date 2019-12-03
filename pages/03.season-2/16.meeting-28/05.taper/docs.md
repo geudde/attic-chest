@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author"></div>
+
 Young Dolly was a famous cook,  
 Well skill’d in all your sorts of dishes,  
 For she cou’d dress you, by the book,  

@@ -7,6 +7,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Communicated by Miss Flaxman</div>
+
 If Sheba’s gay queen gave the point up so smooth,  
 *Her* Example can ne’er by inferr’d;  
 For she — good lady-like — held out while she had breath,  

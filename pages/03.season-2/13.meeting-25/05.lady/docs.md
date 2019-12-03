@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-<div class="author">???</div>
+<div class="author"></div>
 
 Oh! pluck that rose and prop its drooping head  
 Thy bosom, be its stay till it be dead;   

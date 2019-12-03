@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-<div class="author">???</div>
+<div class="author">Miss Flaxman</div>
 
 “That female virtues great and small  
 So infinitely many  

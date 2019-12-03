@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Flaxman</div>
+
 “A plain gold ring’s a serious thing,  
 What think you lady fair?”  
   

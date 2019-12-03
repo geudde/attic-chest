@@ -6,7 +6,9 @@ taxonomy:
 visible: false
 ---
 
-<span class="title">The Spirit of the Attic Chest’s Farewell Address to the Editress  </span>
+<div class="author">Mr Vignoles</div>
+
+> The Spirit of the Attic Chest’s Farewell Address to the Editress 
   
 With deep regret I view the season o’er  
 &emsp;Consigning me again to “durance vile;”  

@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-<div class="author">???</div>
+<div class="author">Communicated by Mr Jackson &amp; Mr Vignoles</div>
 
 > A Free Imitation of the Earl of Surrey’s Description of Spring, wherein each thing renews, save only the lover.
 

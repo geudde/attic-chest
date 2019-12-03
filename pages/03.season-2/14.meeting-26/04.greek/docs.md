@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-<div class="author">???</div>
+<div class="author">Mr Bond</div>
 
 In a myrtle bough conceal’d  
 The sacred sword I’ll dare to wield  

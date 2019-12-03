@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Flaxman</div>
+
 When the proud galley down the Cydnus moved  
 And bore the queen of Antony beloved  
 A lovely syren did the vessel guide  

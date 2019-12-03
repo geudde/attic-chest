@@ -19,5 +19,5 @@ visible: false
 9. [The Attic Chest to Her Respected Friends](attic-chest)
 10. [The Spirit’s Farewell](spirit)
 11. [To Miss Porden on Her Birthday](birthday)
-12. [No Sign Portentous](sign)
+12. [The Order of the Cross](sign)
 13. [Acknowledgements](acknowledgements)

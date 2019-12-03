@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-<div class="author">???</div>
+<div class="author">Miss Flaxman</div>
 
 Since Stella hides her from my sight  
 No guides my wonted ev’ning flight  

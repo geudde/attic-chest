@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author"></div>
+
 ’Twixt wit and humor, pretty Miss  
 The difference, I opine, is this,  
 &emsp;Bright as the sun, and light as air  

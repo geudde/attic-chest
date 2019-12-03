@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Flaxman</div>
+
 May ev’ry link that forms this slender chain  
 Some guardian sylph in gentle bonds retain,  
 To hover near thee, and to shield thee still  

@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-<div class="author">???</div>
+<div class="author">Communicated by Miss Flaxman</div>
 
 Is it anger, Maiden, speak  
 That glows upon that redd’ning cheek  

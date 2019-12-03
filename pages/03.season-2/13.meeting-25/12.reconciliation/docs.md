@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-<div class="author">???</div>
+<div class="author">Mr Flaxman</div>
 
 One morning in May, when all nature was gay  
 Merry Momus and Mercury met,  

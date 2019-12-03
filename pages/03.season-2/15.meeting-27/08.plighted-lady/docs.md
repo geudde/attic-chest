@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Flaxman</div>
+
 Inspire me Lewis, while I sing
 Of th’ enamour’d “Water King”
 Or rather, do *thou* tell the tale

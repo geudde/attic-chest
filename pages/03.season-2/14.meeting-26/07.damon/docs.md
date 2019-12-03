@@ -6,9 +6,9 @@ taxonomy:
 visible: false
 ---
 
-<div class="author">???</div>
+<div class="author">Rev Mr Cayley</div>
 
-Damon to Delia, in a declining state of health, and upon a visit to her friends at a distance.
+> Damon to Delia, in a declining state of health, and upon a visit to her friends at a distance.
 
 Haste, lazy time; come on, blest hour  
 &emsp;That brings her to my arms  

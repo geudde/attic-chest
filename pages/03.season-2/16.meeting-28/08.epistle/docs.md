@@ -6,7 +6,9 @@ taxonomy:
 visible: false
 ---
 
-<span class="title">Written on the 4th of June 1810  </span>
+<div class="author">Miss Porden</div>
+
+> Written on the 4th of June 1810 
   
 &emsp;Forgive the limping lines I wrote  
 In answer to your charming note  

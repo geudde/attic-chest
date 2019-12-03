@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Communicated by Mrs Flaxman</div>
+
 Let Homer’s deep majestic lyre,  
 To sing of gods and men aspire,  
 And thundering flash poetic fire,  

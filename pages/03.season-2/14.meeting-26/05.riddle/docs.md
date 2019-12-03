@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-<div class="author">???</div>
+<div class="author">Miss Flaxman</div>
 
 ’Tis sweet, tho better, ’tis both joy and grief  
 ’Tis subtle poison, yet it gives relief  
