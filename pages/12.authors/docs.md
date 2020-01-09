@@ -1129,7 +1129,7 @@ tntsearch:
 <span class="grey">Sir P. Townly → Miss Porden</span>  
 [Sir P. Townly](../../season-7/meeting-71/townly) → <span class="name">Miss Vardill</span>  
 [Philemon to Olivia](../../season-7/meeting-71/philemon) → Miss Vardill → <span class="name">Miss Flaxman</span> <span data-tippy="Attributed to AJV but handwriting that of Maria Flaxman" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
-[Orosmane à Zaire](../../season-7/meeting-71/zaire)Valentine → Miss Porden</span>  
+[Orosmane à Zaire](../../season-7/meeting-71/zaire) → <span class="name">Miss Porden</span>  
 [Zaire à Orosmane](../../season-7/meeting-71/orosmane) → <span class="name">Mr Elliott</span>  
 [Parody](../../season-7/meeting-71/parody) → <span class="name">com. Miss Flaxman</span>  
 [Ridicule](../../season-7/meeting-71/ridicule)Ridicule → <span class="name">Miss Vardill</span>  
