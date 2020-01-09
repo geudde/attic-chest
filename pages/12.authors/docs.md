@@ -1123,18 +1123,16 @@ tntsearch:
 <span class="meeting">No. 71&emsp;(1815-02-22)</span><span class="dro">D8760/F/FEP/5/27</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f27" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
-<span class="missing">MISSING</span> <span data-tippy="Empty DRO directory" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span> 
-
-<span class="grey">The Lovers Calendar for 1815 → Miss Flaxman</span>  
-<span class="grey">A Fairy’s Song → Miss Flaxman</span>  
-<span class="grey">Mr Beauclerc → Miss Vardill</span>  
+[The Lovers Calendar for 1815](../../season-7/meeting-71/calendar) → <span class="name">Miss Flaxman</span>  
+[The Lovers Calendar for 1815](../../season-7/meeting-71/fairy) → Miss Flaxman → <span class="name">Miss Vardill</span> <span data-tippy="Attributed to Miss Flaxman but handwriting that of AJV" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span> 
+[Mr Beauclerc](../../season-7/meeting-71/beauclerc) → <span class="name">Miss Vardill</span>  
 <span class="grey">Sir P. Townly → Miss Porden</span>  
-<span class="grey">Sir P. Townly → Miss Vardill</span>  
-<span class="grey">Philemon to Olivia → Miss Vardill</span>  
+[Sir P. Townly](../../season-7/meeting-71/townly) → <span class="name">Miss Vardill</span>  
+[Philemon to Olivia](../../season-7/meeting-71/philemon) → Miss Vardill → <span class="name">Miss Flaxman</span> <span data-tippy="Attributed to AJV but handwriting that of Miss Flaxman" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 <span class="grey">Valentine → Miss Porden</span>  
-<span class="grey">Zaire a Orosmane → Mr Elliott</span>  
-<span class="grey">Parody → com. Miss Flaxman</span>  
-<span class="grey">Ridicule → Miss Vardill</span>  
+[Zaire à Orosmane](../../season-7/meeting-71/zaire) → <span class="name">Mr Elliott</span>  
+[Parody](../../season-7/meeting-71/parody) → <span class="name">com. Miss Flaxman</span>  
+[Ridicule](../../season-7/meeting-71/ridicule)Ridicule → <span class="name">Miss Vardill</span>  
 <span class="grey">The Sonnetteer No. 1 → Mr Elliott</span>  
 <span class="grey">The 4th Brother’s Tale → Miss Vardill</span>  
 <span class="grey">A New Epistle → Miss Vardill</span>  
