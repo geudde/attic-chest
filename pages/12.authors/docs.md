@@ -1132,10 +1132,10 @@ tntsearch:
 [Orosmane à Zaire](../../season-7/meeting-71/zaire) → <span class="name">Miss Porden</span>  
 [Zaire à Orosmane](../../season-7/meeting-71/orosmane) → <span class="name">Mr Elliott</span>  
 [Parody](../../season-7/meeting-71/parody) → <span class="name">com. Miss Flaxman</span>  
-[Ridicule](../../season-7/meeting-71/ridicule)Ridicule → <span class="name">Miss Vardill</span>  
+[Ridicule](../../season-7/meeting-71/ridicule) → <span class="name">Miss Vardill</span>  
 [The Sonnetteer No. 1](../../season-7/meeting-71/sonnetteer) → <span class="name">Mr Elliott</span>  
 [The 4th Brother’s Tale](../../season-7/meeting-71/brother-4) → <span class="name">Miss Vardill</span>  
-[New Epistle](../../season-7/meeting-71/epistle)A New Epistle → <span class="name">Miss Vardill</span>  
+[New Epistle](../../season-7/meeting-71/epistle) → <span class="name">Miss Vardill</span>  
 [Music to the Fairy’s Song](../../season-7/meeting-71/music) → <span class="name">Miss Vardill</span>  
 <span class="grey">The 5th Lecture on Natural History → Miss Porden</span>
 
