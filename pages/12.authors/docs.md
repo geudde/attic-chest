@@ -1123,7 +1123,8 @@ tntsearch:
 <span class="meeting">No. 71&emsp;(1815-02-22)</span><span class="dro">D8760/F/FEP/5/27</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f27" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
   
-[The Lovers Calendar for 1815](../../season-7/meeting-71/fairy) → Miss Flaxman → <span class="name">Miss Vardill</span> <span data-tippy="Attributed to Maria Flaxman but handwriting that of AJV" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[The Lovers Calendar for 1815](../../season-7/meeting-71/calendar) → Miss Flaxman → <span class="name">Miss Vardill</span> <span data-tippy="Attributed to Maria Flaxman but handwriting that of AJV" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span> 
+[A Fairy’s Song](../../season-7/meeting-71/fairy) → <span class="name">Miss Vardill</span> 
 [Mr Beauclerc](../../season-7/meeting-71/beauclerc) → <span class="name">Miss Vardill</span>  
 <span class="grey">Sir P. Townly → Miss Porden</span>  
 [Sir P. Townly](../../season-7/meeting-71/townly) → <span class="name">Miss Vardill</span>  
