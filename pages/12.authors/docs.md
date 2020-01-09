@@ -1124,7 +1124,7 @@ tntsearch:
 </div>
 
 [The Lovers Calendar for 1815](../../season-7/meeting-71/calendar) → <span class="name">Miss Flaxman</span>  
-[The Lovers Calendar for 1815](../../season-7/meeting-71/fairy) → Miss Flaxman → <span class="name">Miss Vardill</span> <span data-tippy="Attributed to Miss Flaxman but handwriting that of AJV" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span> 
+[The Lovers Calendar for 1815](../../season-7/meeting-71/fairy) → Miss Flaxman → <span class="name">Miss Vardill</span> <span data-tippy="Attributed to Maria Flaxman but handwriting that of AJV" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [Mr Beauclerc](../../season-7/meeting-71/beauclerc) → <span class="name">Miss Vardill</span>  
 <span class="grey">Sir P. Townly → Miss Porden</span>  
 [Sir P. Townly](../../season-7/meeting-71/townly) → <span class="name">Miss Vardill</span>  
