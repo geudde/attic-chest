@@ -9,7 +9,7 @@ visible: false
 
 <div class="author">Miss Vardill</div>
 
-![Rose](rose.jpg?resize=400)
+![Rose](rose.jpg?resize=300)
 
 I drink the dew from the cup of the flow’r,  
 I sport in the sunbeam that follows the show’r:  
