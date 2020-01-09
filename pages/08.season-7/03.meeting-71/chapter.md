@@ -17,3 +17,8 @@ visible: false
 7. [Parody](parody)
 8. [A Zaire](zaire)  
 9. [A Orosmane](orosmane)
+10. [Ridicule versus Pocket](ridicule)
+11. [The Sonnetteer](sonnetteer)
+12. [The Fourth Brother’s Tale](brother-4)
+13. [A New Epistle](epistle)
+14. [Music to the Fairy’s Song](music)
