@@ -1485,7 +1485,7 @@ tntsearch:
 <span class="grey">Part of Allah ul Din → com. Mr Porden</span>  
 [Rectius Vives of Horace by Dr Brande](../../season-9/meeting-89/brande) → <span class="name">com. Miss Kramer</span>  
 [Persian Verses from Sadi](../../season-9/meeting-89/sadi) → <span class="name">Miss Vardill</span>  
-[Translation of Vive l’Amour](../../season-9/meeting-89/bibo) → Miss Porden (Ignoramus Bibo)</span> → <span class="name">Miss Vardill</span> <span data-tippy="Attributed to EAP but handwriting that of AJV" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[Translation of Vive l’Amour](../../season-9/meeting-89/bibo) → Miss Porden <span class="alias">(Ignoramus Bibo)</span> → <span class="name">Miss Vardill</span> <span data-tippy="Attributed to EAP but handwriting that of AJV" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [The Norman Cap](../../season-9/meeting-89/cap) → <span class="name">Mr Johnson</span>  
 <span class="grey">Petition of Aaron Harebrains → Miss Appleton</span>  
 <span class="grey">Epistle from Monsieur Leon → Mr E. Elliott</span>  
