@@ -16,7 +16,7 @@ visible: false
 6. [Letter from France No. 3](lavinia-3)
 7. <span class="grey">Part of Allah ul Din</span>
 8. [Rectius Vives of Horace](brande)
-9. [Persian Verses from Sadi](said)
+9. [Persian Verses from Sadi](sadi)
 10. [Translation of Vive l’Amour](bibo)
 11. [The Norman Cap](cap)
 12. <span class="grey">Petition of Aaron Harebrains</span>
