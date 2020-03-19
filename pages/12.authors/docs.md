@@ -1483,8 +1483,8 @@ tntsearch:
 [Lines in the Character of Lorenzo di Medici](../../season-9/meeting-89/lorenzo) → <span class="name">Mr Hayley com. Mrs Flaxman</span>  
 [Lavinia to Eliza Letter 3](../../season-9/meeting-89/lavinia-3) → <span class="name">Miss Porden</span>  
 <span class="grey">Part of Allah ul Din → com. Mr Porden</span>  
-<span class="grey">Rectius Vives of Horace by Dr Brande → com. Miss Kramer</span>  
-<span class="grey">Persian Verses from Sadi → Miss Vardill</span>  
+[Rectius Vives of Horace by Dr Brande](../../season-9/meeting-89/brande) → <span class="name">com. Miss Kramer</span>  
+[Persian Verses from Sadi](../../season-9/meeting-89/sadi) → <span class="name">Miss Vardill</span>  
 <span class="grey">Translation of Vive l’Amour → Miss Porden (Ignoramus Bibo)</span>  
 <span class="grey">The Norman Cap → Mr Johnson</span>  
 <span class="grey">Petition of Aaron Harebrains → Miss Appleton</span>  
