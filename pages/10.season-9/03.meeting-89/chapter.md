@@ -17,8 +17,8 @@ visible: false
 7. <span class="grey">Part of Allah ul Din</span>
 8. [Rectius Vives of Horace](brande)
 9. [Persian Verses from Sadi](said)
-10. <span class="grey">Translation of Vive l’Amour</span>
-11. <span class="grey">The Norman Cap</span>
+10. [Translation of Vive l’Amour](bibo)
+11. [The Norman Cap](cap)
 12. <span class="grey">Petition of Aaron Harebrains</span>
 13. <span class="grey">Epistle from Monsieur Leon</span>
 14. <span class="grey">Rosamond’s Chest</span>
