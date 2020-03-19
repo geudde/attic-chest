@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Communicated by Miss Beslee</div>
+
 > Lines composed on a Mail Coach in a stormy night addressed to a young lady
 
 From those we love “’tis death to part”  

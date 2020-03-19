@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Communicated by Mr Elliott</div>
+
 > Lines on drinking out of a goblet, which a lady had previously used.  
 
 Where the goblet’s crystal lip  

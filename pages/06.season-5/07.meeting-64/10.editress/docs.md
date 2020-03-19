@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Richardson</div>
+
 Edinburgh March 1813
 
 Written by S.R. Jun<sup>r.</sup>

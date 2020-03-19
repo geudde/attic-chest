@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Communicated by Mrs Flaxman</div>
+
 > A Letter to - - - - Esq.
 
 1

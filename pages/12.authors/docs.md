@@ -984,34 +984,29 @@ tntsearch:
 [Celia to Laura Epistle No. 4](../../season-5/meeting-63/celia) → <span class="name">Miss Flaxman</span>  
 [Lines to a Young Friend](../../season-5/meeting-63/lines) → <span class="name">Miss Richardson</span>  
 [Do. spoken extempore](../../season-5/meeting-63/extempore) → <span class="name">com. Miss Beslee</span>
-  
-<span class="missing">MISSING</span> <span data-tippy="Lower half of acknowledgement page not scanned. Tentative attributions." class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
-
-[Jeffrey Julep to the Editor](../../season-5/meeting-63/letter) → <span class="grey">Miss Vardill</span>  
-[Spring](../../season-5/meeting-63/spring) → <span class="grey">&ensp;?</span>  
-[Justice](../../season-5/meeting-63/justice) → <span class="grey">Mr Porden</span> <span class="alias">(Atticus Scriblerus)</span>  
-[The Grot](../../season-5/meeting-63/grot) → <span class="grey">&ensp;?</span>  
+[Jeffrey Julep to the Editor](../../season-5/meeting-63/letter) → <span class="name">Miss Vardill</span>  
+[Spring](../../season-5/meeting-63/spring) → <span class="name">Mr Elliott</span>  
+[Justice](../../season-5/meeting-63/justice) → <span class="name">Mr Elliott</span> <span class="alias">(Atticus Scriblerus)</span>  
+[The Grot](../../season-5/meeting-63/grot) → <span class="name">com. Mrs Flaxman</span>  
 
 <div class="bottom">
 <span class="meeting">No. 64&emsp;(1813-06-09)</span><span class="dro">D8760/F/FEP/5/21</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f21" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
-<span class="missing">MISSING</span> <span data-tippy="Acknowledgement page not scanned. Tentative attributions" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
-
-[Kitty Maltravers to the Editor](../../season-5/meeting-64/kitty) → <span class="grey">Miss Vardill</span>  
-[Mr Julep’s Memorandums](../../season-5/meeting-64/julep) → <span class="grey">Miss Vardill</span>  
-[Fragment Found in the Hermitage](../../season-5/meeting-64/fragment) → <span class="grey">Miss Vardill</span>  
-[Dr Cardamom to the Editor](../../season-5/meeting-64/cardamom) → <span class="grey">Miss Vardill</span>  
-[Anonymous No. 3](../../season-5/meeting-64/anonymous) → <span class="grey">Mr Vignoles</span>  
-[Letter from Electromagus](../../season-5/meeting-64/electromagus) → <span class="grey">Mr Vignoles</span>  
-[The Art of Driving](../../season-5/meeting-64/driving) → <span class="grey">Mr Elliott</span>  
+[Kitty Maltravers to the Editor](../../season-5/meeting-64/kitty) → <span class="name">Miss Vardill</span>  
+[Mr Julep’s Memorandums](../../season-5/meeting-64/julep) → <span class="name">Miss Vardill</span>  
+[Fragment Found in the Hermitage](../../season-5/meeting-64/fragment) → <span class="name">Miss Vardill</span>  
+[Dr Cardamom to the Editor](../../season-5/meeting-64/cardamom) → <span class="name">Miss Vardill</span>  
+[Anonymous No. 3](../../season-5/meeting-64/anonymous) → <span class="name">Mr Vignoles</span>  
+[Letter from Electromagus](../../season-5/meeting-64/electromagus) → <span class="name">Miss Porden</span>  
+[The Art of Driving](../../season-5/meeting-64/driving) → <span class="name">Mr Elliott</span>  
 [The Menagerie of the Gods](../../season-5/meeting-64/menagerie) → <span class="grey">&ensp;?</span>  
-[How d’ye Do](../../season-5/meeting-64/editress) → <span class="grey">Miss Richardson</span>  
-[Goblet](../../season-5/meeting-64/goblet) → <span class="grey">&ensp;?</span>  
-[The Night before the Battle](../../season-5/meeting-64/battle) → <span class="grey">Miss Vardill</span>  
-[To Eliza](../../season-5/meeting-64/eliza) → <span class="grey">Miss Porden</span>  
-[Lines Composed on a Mail Coach](../../season-5/meeting-64/coach) → <span class="grey">&ensp;?</span>  
-[Anacreontic](../../season-5/meeting-64/anacreontic) → <span class="grey">&ensp;?</span>    
+[How d’ye Do](../../season-5/meeting-64/editress) → <span class="name">Miss Richardson</span>  
+[Goblet](../../season-5/meeting-64/goblet) → <span class="name">com. Mr Elliott</span>  
+[The Night before the Battle](../../season-5/meeting-64/battle) → <span class="name">Miss Vardill</span>  
+[To Eliza](../../season-5/meeting-64/eliza) → <span class="name">Miss Porden</span>  
+[Lines Composed on a Mail Coach](../../season-5/meeting-64/coach) → <span class="name">com. Miss Beslee</span>  
+[Anacreontic](../../season-5/meeting-64/anacreontic) → <span class="name">com. Mr Porden</span>    
 
 <div class="bottom">
 <span class="meeting">No. 65&emsp;(1813-06-23)</span><span class="dro">D8760/F/FEP/5/22</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f22" target="_blank"><i class="fa fa-external-link"></i></a>

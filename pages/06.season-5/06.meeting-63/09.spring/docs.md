@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Vardill</div>
+
 <span class="title">A Canzonet</span>
 
 1

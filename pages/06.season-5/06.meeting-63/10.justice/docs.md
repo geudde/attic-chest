@@ -7,7 +7,7 @@ taxonomy:
 visible: false
 ---
 
-<div class="author">Mr Porden</div>
+<div class="author">Mr Elliott</div>
 
 > Epistle the 1st
 

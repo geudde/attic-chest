@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Communicated by Mr Porden</div>
+
 Come reach me old Anacreon’s lyre  
 &emsp;For wintery storms are hovering near,  
 And soon shall chill the autumnal fire  
