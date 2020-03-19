@@ -18,6 +18,35 @@ The Tinder Box, which lately engaged so much of our attention, appears to have o
 
 Among the pieces to be read this evening we shall produce one sent to us sometime ago by an artist of great and merited celebrity, whose ill health prevented him from honouring us again with his attention — and now he is gone to that bourn from whence no traveller returns. It will give our auditors some idea of that playful spirit frequently displayed by him when metted down to sociality with his friends. This production, with the answer, were both formerly read from the Tea Chest and are now brought forward again that they may be inserted in the Attic Album when his recent loss may make them the more interesting. For the same reason we shall in a future number read other pieces connected with the same artist. And here we have to lament that in the short time that our Society has been embodied we have lost three of its members that have afforded us in different ways both instruction and delight. The eminent artist alluded to above, whose talents as an author, had they been more frequently displayed, would perhaps have distinguished him as highly as the art his professed.
 
-“But seldom that for higher thought he fed.” The Reverend Dr. Grant who could descend from objects of great literary importance to contribute to the amusement of the Attic Society and Mrs. Welch, who was not as far as we know, actually a contributor to our collection, yet by her good sense her
+“But seldom that for higher thought he fed.” The Reverend Dr. Grant who could descend from objects of great literary importance to contribute to the amusement of the Attic Society and Mrs. Welch, who was not as far as we know, actually a contributor to our collection, yet by her good sense, her long acquaintance with many men highly distinguished in the last century, and her various information, never failed to delight us with her conversation. So pass away our pleasures and our friendships.
 
-<span class="missing">MISSING</span> [<i class="fa fa-question-circle" aria-hidden="true"></i>](../../../attic-chest/transcription#missing)
+We shall commence this night’s entertainments with a ballad from a collection of poems lately published which we have selected for its simplicity out of a number that have higher claims to our regards. We shall next read lines addressed to a Gentleman on his birthday which we are not certain are original but we shall request the friend to whom we are indebted for them to mention at some future time the name of the author and whether it hath appeared in print.
+
+We shall be obliged to our correspondents if they will always notice when their communications are selections that we may not when they are found in our Album be stigmatized as the receivers of stolen goods.
+
+No. 3 A Pome by Anacreonides written with the genuine Spirit of the Bard of Teos but we wish that he had restricted his verse to lines of seven syllables as they are nearest in length and cadence to the lines of Anacreon and the practice of the English Poets have almost appropriated them to Anacreontic Effusions.
+
+4 The Answer to the Feline Query
+
+5 The Lawyer’s Answer to the Last
+
+6 & 7 Buss and Rebuss
+
+8 A Neat Versification of the Fable of the Miser and the Mouse
+
+9 A Charade by a Lawyer
+
+10 A Rebuss by a new Correspondent
+
+11 A (saucy) Stray Spark from the Tinder Box
+
+12 Verses to the Author of the Tinder Box
+
+13 Lines by the late John Hoppner Esqre R.A.
+
+14 A reproof to Gormandizing Bards in answer to the above
+
+and lastly, Lauretta, a tale by Peregrine, of which we think highly but must defer our observations upon it to a future Evening.
+
+We are obliged to postpone several other pieces.
+
