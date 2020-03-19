@@ -19,6 +19,6 @@ visible: false
 9. [Persian Verses from Sadi](sadi)
 10. [Translation of Vive l’Amour](bibo)
 11. [The Norman Cap](cap)
-12. <span class="grey">Petition of Aaron Harebrains</span>
+12. [Petition of Aaron Harebrains](petition)
 13. <span class="grey">Epistle from Monsieur Leon</span>
 14. <span class="grey">Rosamond’s Chest</span>
