@@ -47,7 +47,7 @@ That furnish’d forth these metals’ azure shine;
 Strange fuel gave the stubborn mass the heat  
 That brought it ductile to the forge’s beat  
 And the parch’d rocks, from haunts of man remote,  
-Groan’d as cursed hands upon the anvil smote.
+Groan’d as cursed hands upon the anvil smote.  
 Man may not hear (and live) the words of pow’r  
 That bound the workers in that fearful hour  
 And when their task was done arose a spell  
@@ -85,3 +85,4 @@ Now one by one their souls in music spending
 Now in full harmony their voices blending  
 In ev’ry skirmish of sweet sound contending —
 
+&emsp;&emsp;•&emsp;&emsp;•&emsp;&emsp;•

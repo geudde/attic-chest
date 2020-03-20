@@ -1480,7 +1480,7 @@ tntsearch:
 [The Festival of Nauruz](../../season-9/meeting-89/nauruz) → <span class="name">Miss Vardill</span>  
 [Enigma: The Letter H](../../season-9/meeting-89/enigma) → <span class="name">Miss Fanshaw com. Mrs Richardson</span>  
 [Lines for a Lady’s Jewel Box](../../season-9/meeting-89/jewel) → <span class="name">Miss Flaxman</span>  
-[Lines in the Character of Lorenzo di Medici](../../season-9/meeting-89/lorenzo) → <span class="name">Mr Hayley com. Mrs Flaxman</span>  
+[Lines in the Character of Lorenzo di Medici](../../season-9/meeting-89/lorenzo) → Mr Hayley <span class="name">com. Mrs Flaxman</span>  
 [Lavinia to Eliza Letter 3](../../season-9/meeting-89/lavinia-3) → <span class="name">Miss Porden</span>  
 <span class="grey">Part of Allah ul Din → com. Mr Porden</span>  
 [Rectius Vives of Horace by Dr Brande](../../season-9/meeting-89/brande) → <span class="name">com. Miss Kramer</span>  
