@@ -1497,8 +1497,8 @@ tntsearch:
 
 <span class="missing">MISSING</span> <span data-tippy="Empty DRO directory" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
-<span class="grey">Mr Solve Mery’s Papyrostatic Experiment → Miss Appleton</span>  
-<span class="grey">On Captain Harvey of Battle → com. Mrs Flaxman</span>  
+[Mr Solve-Query’s Papyrostatic Experiment](../../season-9/meeting-90/experiment) → <span class="name">Miss Appleton</span>  
+[On Captain Harvey of Battle](../../season-9/meeting-90/harvey) → <span class="name">com. Mrs Flaxman</span>  
 <span class="grey">A Muse Found → Miss Vardill</span>  
 <span class="grey">500 Lines → Miss Vardill</span>  
 <span class="grey">Part of Allah ul Din → com. Mr Porden</span>  

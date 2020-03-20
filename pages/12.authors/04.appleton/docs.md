@@ -10,7 +10,7 @@ tntsearch:
 
 [Lines with a Purse](../../season-9/meeting-88/purse) → <span class="name">Miss Appleton</span> <span  class="alias">(Phytho)</span>  
 <span class="grey">Petition of Aaron Harebrains → Miss Appleton</span>  
-<span class="grey">Mr Solve Mery’s Papyrostatic Experiment → Miss Appleton</span>  
+<span class="grey">Mr Solve-query’s Papyrostatic Experiment → Miss Appleton</span>  
 <span class="grey">The Progress of Sculpture → Miss Appleton</span>  
 [Vive Café](../../season-9/meeting-91/cafe) → <span class="name">Miss Appleton</span>  
 [The Progress of Sculpture Continued](../../season-9/meeting-91/sculpture) → <span class="name">Miss Appleton</span>  
