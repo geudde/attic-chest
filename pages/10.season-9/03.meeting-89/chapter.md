@@ -20,5 +20,5 @@ visible: false
 10. [Translation of Vive l’Amour](bibo)
 11. [The Norman Cap](cap)
 12. [Petition of Aaron Harebrains](petition)
-13. <span class="grey">Epistle from Monsieur Leon</span>
-14. <span class="grey">Rosamond’s Chest</span>
+13. [Epistle from Monsieur Leon](leon)
+14. [Rosamond’s Chest](rosamond)

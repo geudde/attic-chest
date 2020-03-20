@@ -1488,8 +1488,8 @@ tntsearch:
 [Translation of Vive l’Amour](../../season-9/meeting-89/bibo) → Miss Porden <span class="alias">(Ignoramus Bibo)</span> → <span class="name">Miss Vardill</span> <span data-tippy="Attributed to EAP but handwriting that of AJV" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [The Norman Cap](../../season-9/meeting-89/cap) → <span class="name">Mr Johnson</span>  
 [Petition of Aaron Harebrains](../../season-9/meeting-89/petition) → <span class="name">Miss Appleton</span>  
-<span class="grey">Epistle from Monsieur Leon → Mr E. Elliott</span>  
-<span class="grey">Rosamond’s Chest → Mr Bayler com. Miss Vardill</span>
+[Epistle from Monsieur Leon](../../season-9/meeting-89/leon) → <span class="name">Mr E. Elliott</span>  
+[Rosamond’s Chest](../../season-9/meeting-89/rosamond) → Mr Bayler → <span class="name">com. Miss Vardill</span>
 
 <div class="bottom">
 <span class="meeting">No. 90&emsp;(1817-04-29)</span><span class="dro">D8760/F/FEP/5/38</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f38" target="_blank"><i class="fa fa-external-link"></i></a>
