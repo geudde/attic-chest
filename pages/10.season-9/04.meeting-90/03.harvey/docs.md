@@ -5,9 +5,9 @@ taxonomy:
         - docs
 visible: false
 ---
+<div class="author">Communicated by Mrs Flaxman</div>
 
 > On Capt. Harvey of Battle in Sussex, who perished with his young Brother and Sister.
-
 
 While gallant Harvey, thro’ deep water, tried  
 To save two kindred Darlings at his side,  

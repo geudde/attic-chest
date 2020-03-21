@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Appleton</div>
+
 Mr Editor
 
 I beg to lay before your worthy Society the enclosed strange billet from a friend, with the reply.

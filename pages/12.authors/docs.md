@@ -1499,10 +1499,10 @@ tntsearch:
 
 [Mr Solve-Query’s Papyrostatic Experiment](../../season-9/meeting-90/experiment) → <span class="name">Miss Appleton</span>  
 [On Captain Harvey of Battle](../../season-9/meeting-90/harvey) → <span class="name">com. Mrs Flaxman</span>  
-<span class="grey">A Muse Found → Miss Vardill</span>  
-<span class="grey">500 Lines → Miss Vardill</span>  
+[A Muse Found](../../season-9/meeting-90/muse) → <span class="name">Miss Vardill</span>  
+[500 Lines](../../season-9/meeting-90/lines) → <span class="name">Miss Vardill</span>  
 <span class="grey">Part of Allah ul Din → com. Mr Porden</span>  
-<span class="grey">Lavinia to Eliza Letter 4 Account of St Maur → Miss Porden and Mr Elliott</span>  
+[Lavinia to Eliza Letter 4 Account of St Maur](../../season-9/meeting-90/lavinia-4) → <span class="name">Miss Porden and Mr Elliott</span>  
 <span class="grey">Praise of the Literary Fund → &ensp;?</span>  
 <span class="grey">Impromptu with the pen of a lady → Mr Elliott</span>  
 <span class="grey">Comte Leandre a L’Editresse → Mr Elliott</span>  

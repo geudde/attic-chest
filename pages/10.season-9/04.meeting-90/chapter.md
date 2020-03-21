@@ -11,8 +11,8 @@ visible: false
 1. [Editorial](editorial)
 2. [Mr Solve-Query’s Papyrostatic Experiment](experiment)  
 3. [On Captain Harvey of Battle](harvey)  
-4. <span class="grey">A Muse Found</span>
-5. <span class="grey">500 Lines</span>
+4. [A Muse Found](muse)
+5. [500 Lines](lines)
 6. <span class="grey">Part of Allah ul Din</span>
 7. <span class="grey">Lavinia to Eliza Letter 4 Account of St Maur</span>
 8. <span class="grey">Praise of the Literary Fund</span>
