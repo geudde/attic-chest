@@ -9,4 +9,4 @@ visible: false
 
 <span class="title">500 Lines Reward</span>
 
-![petition](petition.jpg?resize=500)
+![petition](lines.jpg?resize=500)

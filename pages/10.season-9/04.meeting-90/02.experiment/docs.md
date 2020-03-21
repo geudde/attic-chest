@@ -38,8 +38,7 @@ I reply to thy question with a great deal of pleasure, because it hath led me in
 
 As touching what thou said’st concerning the fishes, I have nought to do with that, and so leave it. But the second question is pleasant enough; moreover, I wished to oblige thee, and to work I immediately went with my experiments, since as thou knowest, or mayest have heard, experience is the test of all wisdom.
 
-I began by weighing a quire of charmed paper; then took one of the four and twenty sheets, and weighed it in a pair of my friends Merlin’s magical value-scales. I proceeded with the others, and clipped and pared till I brought them to a nice and exact weight with the pattern. Then I distributed them amongst four and twenty men and women, and requested them to indite, or copy, each, a letter, one page in length upon the subject most familiar to them, individually.  
-In these days, the whole quire was returned, and I immediately began my calculations; some of which I enclose for thy satisfaction.
+I began by weighing a quire of charmed paper; then took one of the four and twenty sheets, and weighed it in a pair of my friends Merlin’s magical value-scales. I proceeded with the others, and clipped and pared till I brought them to a nice and exact weight with the pattern. Then I distributed them amongst four and twenty men and women, and requested them to indite, or copy, each, a letter, one page in length upon the subject most familiar to them, individually. In three days, the whole quire was returned, and I immediately began my calculations; some of which I enclose for thy satisfaction.
 
 Thy friend,
 
