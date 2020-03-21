@@ -1480,7 +1480,7 @@ tntsearch:
 [The Festival of Nauruz](../../season-9/meeting-89/nauruz) → <span class="name">Miss Vardill</span>  
 [Enigma: The Letter H](../../season-9/meeting-89/enigma) → <span class="name">Miss Fanshaw com. Mrs Richardson</span>  
 [Lines for a Lady’s Jewel Box](../../season-9/meeting-89/jewel) → <span class="name">Miss Flaxman</span>  
-[Lines in the Character of Lorenzo di Medici](../../season-9/meeting-89/lorenzo) → Mr Hayley <span class="name">com. Mrs Flaxman</span>  
+[Lines in the Character of Lorenzo di Medici](../../season-9/meeting-89/lorenzo) → Mr Hayley → <span class="name">com. Mrs Flaxman</span>  
 [Lavinia to Eliza Letter 3](../../season-9/meeting-89/lavinia-3) → <span class="name">Miss Porden</span>  
 <span class="grey">Part of Allah ul Din → com. Mr Porden</span>  
 [Rectius Vives of Horace by Dr Brande](../../season-9/meeting-89/brande) → <span class="name">com. Miss Kramer</span>  
@@ -1502,21 +1502,22 @@ tntsearch:
 [A Muse Found](../../season-9/meeting-90/muse) → <span class="name">Miss Vardill</span>  
 [500 Lines](../../season-9/meeting-90/lines) → <span class="name">Miss Vardill</span>  
 <span class="grey">Part of Allah ul Din → com. Mr Porden</span>  
-[Lavinia to Eliza Letter 4 Account of St Maur](../../season-9/meeting-90/lavinia-4) → <span class="name">Miss Porden and Mr Elliott</span>  
-<span class="grey">Praise of the Literary Fund → &ensp;?</span>  
-<span class="grey">Impromptu with the pen of a lady → Mr Elliott</span>  
-<span class="grey">Comte Leandre a L’Editresse → Mr Elliott</span>  
-<span class="grey">The Power of Love → Mr Elliott</span>  
-<span class="grey">Chanson a Boire → Mr Elliott</span>  
-<span class="grey">The Progress of Sculpture → Miss Appleton</span>  
+[Lavinia to Eliza Letter 4](../../season-9/meeting-90/lavinia-4) → <span class="name">Miss Porden and Mr Elliott</span>  
+[Praise of the Literary Fund](../../season-9/meeting-90/fund) → <span class="grey">&ensp;?</span>  
+[Impromptu with the pen of a lady](../../season-9/meeting-90/impromptu) → <span class="name">Mr Elliott</span>  
+[Comte Leandre à L’Editresse](../../season-9/meeting-90/leandre) → <span class="name">Mr Elliott</span>  
+[The Progress of Sculpture](../../season-9/meeting-90/sculpture) → <span class="name">Miss Appleton</span>   
+[The Power of Love](../../season-9/meeting-90/love) → <span class="name">Mr Elliott</span>  
+[Chanson à Boire](../../season-9/meeting-90/chanson) → <span class="name">Mr Elliott</span>  
+
 
 <div class="bottom">
 <span class="meeting">No. 91&emsp;(1817-05-13)</span><span class="dro">D8760/F/FEP/5/39</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f39" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
 [Mr Buckskin to the Editor](../../season-9/meeting-91/buckskin) → <span class="name">Mr Elliott</span>  
-[The Tyger](../../season-9/meeting-91/tyger) → <span class="name">Mr Blake com. Mrs Flaxman</span>  
-[The Chimney Sweepers song on the 1st May](../../season-9/meeting-91/sweep) → <span class="name">Mr Blake com. Mrs Flaxman</span>  
+[The Tyger](../../season-9/meeting-91/tyger) → Mr Blake → <span class="name">com. Mrs Flaxman</span>  
+[The Chimney Sweepers song on the 1st May](../../season-9/meeting-91/sweep) → Mr Blake → <span class="name">com. Mrs Flaxman</span>  
 [A Lovers Song, translated by Anacreon Lovelorn](../../season-9/meeting-91/lovelorn) → <span class="name">Miss Porden</span>  
 [Vive Café](../../season-9/meeting-91/cafe) → <span class="name">Miss Appleton</span>  
 [Lavinia to Eliza Letter 5](../../season-9/meeting-91/lavinia-5) → <span class="name">Miss Porden</span>  
