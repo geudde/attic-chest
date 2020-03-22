@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Mr E. Elliott</div>
+
 1
 
 Thro’ a night of darkest sorrow  

@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-<span class="name">Mr E. Elliott</span>
+<div class="author">Mr E. Elliott</div>
 
 1
 

@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-<span class="author">Miss Porden</span>
+<div class="author">Miss Porden</div>
 
 Tho’ they frown may be keen as the blast of the sky  
 Tho’ the ice is less cold than the glance of thine eye  

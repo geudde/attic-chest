@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Mr E. Elliott</div>
+
 1
 
 Come, my love, the twilight star  

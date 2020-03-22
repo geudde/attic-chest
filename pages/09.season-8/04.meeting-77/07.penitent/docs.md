@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Mr E. Elliott</div>
+
 1
 
 Oh why did he go!  

@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-<span class="name">Communicated by Mrs Flaxman</span>
+<div class="author">Communicated by Mrs Flaxman</div>
 
 Calm contemplation! oh descend,  
 And make my mind serene;  

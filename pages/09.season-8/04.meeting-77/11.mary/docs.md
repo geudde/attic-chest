@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-<span class="author">Miss Porden</span>
+<div class="author">Miss Porden</div>
 
 Sweet Babe! whose yes just opening on the day  
 Scarce yet reveal the intellectual ray  

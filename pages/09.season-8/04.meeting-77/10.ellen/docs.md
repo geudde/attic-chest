@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-<span class="author">Mrs Flaxman</span>
+<div class="author">Mrs Flaxman</div>
 
 Feby 14th 1815
 

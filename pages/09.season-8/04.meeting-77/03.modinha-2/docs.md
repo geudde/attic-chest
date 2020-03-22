@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Mr E. Elliott</div>
+
 1. [The Maids of Portugal](../maids)  
 2. [Pity](../pity)  
 3. [My Loved Country](../country)  
