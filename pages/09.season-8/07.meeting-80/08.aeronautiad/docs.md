@@ -138,5 +138,134 @@ A new machine with Romaine’s help he tries,
 And science mourns her martyrs. Love too weeps  
 For not her lonely lamp Pilatre’s breast  
 Illumin’d wholly; other flames aspired
+To rule; and had not grosser, deadlier fires  
+Hurled him from present glory, future bliss,  
+Soon saffron light had beamed from Hymen’s torch.  
+Hark, as he mounts the car his Susan breathes  
+Her tender wishes forth to all the winds!  
+For, this his last emprize in safety passed,    
+Like Errant Knights of old, his toils should end  
+In nuptial feasts and matrimonial joys.  
+Alas, that old Olympus’ pow’rs no more  
+With ready metamorphose heal each woe!  
+Else, when his fiery car had whirled from heav’n  
+The modern Phaēton, fair Susan’s woe  
+Not slowly had consumed her ling’ring life,  
+But in a waving poplar had she sighed,  
+Or in a flowing fount of tears dissolved.
 
-<span class="missing">MISSING</span>
+Still rose Philosophers of dauntless mind  
+And skilful hand, and rose more safely soon;  
+For soon had Charles and Robert found a pow’r  
+That swelled the light machine to buoyancy  
+Without the dan’grous doubtful aid of fire.  
+With air inflammable (which chemists now  
+More learned grown, call “Hydrogen” and “Gas”,)  
+They filled their ample sphere, exulting sailed  
+Above all human ken, and quickly found  
+Dense clouds surrounding close, obscure the earth  
+And blot the light of heaven, and whirlwind twirled  
+Three times their vast machine like spinning top,  
+Shatter’d its cords, and tore their silken helm.  
+And ocean now of shapeless cloud on clour  
+Beneath them rolled in dark chaotic mass,  
+And seemed to bar all passage for return;  
+While ev’ry moment shook with ruder bound  
+Their agitated bark half-wreck’d in air.  
+Yet dauntless still they kept their onward course,  
+Surely upheld by trusty hydrogen.  
+Driv’n by a friendly gust the clouds above,  
+At length they revel in the solar blaze,  
+And scenes too bright for pencil compensate  
+For hands benumbed, for aching ear and jaw;  
+Till heat’s expansive pow’r that swelled their globe  
+A yawning rent compells, and down they plunge  
+So rapidly upon the lake beneath  
+That scarce their car stays at the water’s edge.
+
+Nor could the Muse pursue her much-lov’d theme  
+Thro’ untrod paths, and sing the union rare  
+Of lore pneumatic, chemic, and mechanic,  
+But time would fail — attention’s self would tire.  
+Therefore she lets to tell of ev’ry scheme  
+For sailing thro’ the trackless paths of air  
+With spread umbrellas, flutt’ring wings, or oars.
+
+Yet must thy name, O Blanchard, grace the verse,  
+Readiest of all who sailed with oars or wings,  
+And first who dared to fly across the sea!  
+From the famed cliff which lives in Shakespeare’s Song,  
+Made more illustrious by this high emprize,  
+Thou and thy bold compeer pushed off for France.  
+Lovely beneath thee lay the southern coast  
+Of Merry England, and thy raptured eye  
+Full thirty-seven villages did count.  
+Beneath thee scudded o’er the dark-blue wave  
+The wond’ring Mariners, who well might deem  
+Great Jove had sent his eagle down to steal  
+A vessel freighted all with Ganymedes.  
+What deemed they then, when as thy glist’ning eye  
+Enchanted viewed th’ approaching Coast of France,  
+Thy downward course compelled thee to cast out  
+Ballast and Books, Provisions, yea e’en Wings?  
+No friendly bark was near to save thee then  
+From plunge Icarian in the fatal wave.  
+And scarce those Straits ’scaped an illustrious name,  
+Which France and England might have joined to give,  
+But ’twas not Fate’s decree — anchors and cords  
+Cast out, and vestments stripped, and travellers slung,  
+Ready to part e’en with their buoyant care,  
+They rose majestic over Calais’ heights,  
+And in Guienne’s tall wood alighted safe.  
+
+Sages all hail! all hail Aëronauts!  
+Ye countless Heroes of the famed Balloon!  
+Lunardi and Italia’s dauntless Chiefs!  
+Thou, Garnerin and thy advent’rous spouse,  
+With all that soar among the sons of France!  
+Last ye who boast your birth on British soil,  
+And chiefest ye, O Sadler, old and young!  
+Great are your deeds, and all too weak my voice  
+To give them duly to the song of fame.  
+How shall it then proclaim, in trembling sounds,  
+Great Aircastle, the last or rather first  
+Of all who write or think or sail or fly?  
+No huge Montgolfier e’er could match his globes,  
+Blanchard’s machinery is nought to his,  
+Nor Sadler e’en, tho’ chose to adorn    
+The Fête that charmed all London in the park,  
+Can equal him in wild advent’rous flight.  
+This now — but when his latest best design,  
+The wondrous Fish, which Knightsbridge in amaze  
+Shrouded beholds in a stupendous barn,  
+Shall swell with hydrogen, and dart thro’ air  
+Guided by pliant fins and flexible tail,  
+What wonder then shall fill th’ astonished crowd!  
+Soon London’s Aldermen from slanting planes  
+Shall launch the aërial bark, o’er subject clouds    
+Display their bloody dagger, and with dance  
+And mirthful song primeval silence charm,  
+While, steered by mighty sails, elate they go,  
+Swanhopping thro’ the air to catch a meteor.  
+Soon graceful maidens on the dolphin’s back  
+Shall rise like Ampitrite, spread their locks  
+Of waving amber to the wondering winds,  
+And, with fresh beauties drawn from purer gales,  
+Shall charm th’ enamoured Deities of air.  
+Arabian Coursers shall no more be prized,  
+Stanhopes and Tilburies in dust shall moulder,  
+And Poets, doomed no more to trudge on foot  
+By horse-tax, farriers and corn-chandler’s bills,  
+On many a Pegasus shall fan the air  
+With wings melodious, beating joyous time  
+To lyres that fill th’ empyreal vault with music.  
+
+Fair would my Muse defer th’ unfinished theme  
+And swell the general chorus with her song,  
+But time steals onward, and my anxious heart  
+Throbs to obtain from thy loved hand the prize.  
+Accept then, matchless Peer, th’ imperfect lay,  
+That strives to celebrate they loved pursuit;  
+And gently blame the errors of a path  
+Thus devious traced thro’ an untrodden field.
+

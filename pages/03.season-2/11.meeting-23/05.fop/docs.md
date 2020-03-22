@@ -30,5 +30,33 @@ And t’other always was employ’d
 &emsp;In twirling its watch chain  
 Whene’er the female train appeared  
 &emsp;The creature was on duty  
-
-<span class="missing">MISSING</span> [<i class="fa fa-question-circle" aria-hidden="true"></i>](../../../attic-chest/transcription#missing)
+And whispered soft things in their ears  
+&emsp;About true Love and Beauty  
+Each word as soft as *Butter* flows  
+&emsp;And sweet as honey too  
+And quite as harmless heaven well knows  
+&emsp;As three times skimm’d sky blue  
+To all alike it told its tales  
+&emsp;And followed Stanhope’s rules  
+Who bids us when our small talk fails  
+&emsp;To sit and grin (like fools)  
+It various Novels reads full oft  
+&emsp;And many a tuneful lay  
+From silence it steals its speeches soft  
+&emsp;And compliments so gay  
+And when it wishes most to shine  
+&emsp;’Twill sit at home and write  
+A thousand speeches superfine  
+&emsp;To spark away at Night  
+Once at a rout it chanced to take  
+&emsp;Its speeches from its Poke  
+And found a Set Oh! dire mistake  
+&emsp;Which it before had spoke  
+The dire mistake the Ladies rue  
+&emsp;For not one tale it told  
+It could not think of one thing new  
+&emsp;And *these* were all too old  
+And so alas poor luckless wight  
+&emsp;Alack and well aday  
+It sat in silence all the night  
+&emsp;And grinn’d the hours away.

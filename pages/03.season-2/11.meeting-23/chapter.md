@@ -16,4 +16,4 @@ visible: false
 6. [A Charade](charade)
 7. [The Fairy Favour for Ellen](favour)
 8. [Greenwich Hill](greenwich)
-9. <span class="grey">The Challenge of Timon</span>
+9. [The Challenge of Timon](challenge)

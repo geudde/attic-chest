@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Mr Elliott</div>
+
 <span class="title">Part 1st</span>
 
 Come listen to a tale of old,  

@@ -6,6 +6,7 @@ taxonomy:
 visible: false
 ---
 
+<span class="author">Mr Elliott</span>
 
 Sketch of the Plan of the Grand Imperial Neptunium, or New Salutiferous, Piscatory, and Saline Company, for forming an artificial Sea in the neighbourhood of the Metropolis
 

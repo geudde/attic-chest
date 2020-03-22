@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<span class="author">Mrs Flaxman</span>
+
 Feby 14th 1815
 
 Welcome, thrice welcome is this day,  

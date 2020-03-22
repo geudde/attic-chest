@@ -8,8 +8,6 @@ visible: false
 
 <div class="author">Miss Vardill</div>
 
-<span class="missing">MISSING</span>
-
 Did I say that the violet linger’d the last  
 In the dark hollow bosom of sunshine bereft?  
 O no! still unshrunk and unsear’d by the blast  

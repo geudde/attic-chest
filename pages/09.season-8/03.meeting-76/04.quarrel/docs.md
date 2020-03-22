@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Mr Flaxman</div>
+
 Get hence you Jade, you me torment  
 With freaks and fancies every moment  
 And keep me in continual ferment  

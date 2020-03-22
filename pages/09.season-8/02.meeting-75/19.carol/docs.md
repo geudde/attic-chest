@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-<div class="author">Unknown</div>
+<div class="author">Mr Elliott</div>
 
 > The Poets’ Address to Their Inspiring Muse  
 > Written after a luxurious luncheon, upon Mince Pies

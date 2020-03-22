@@ -13,7 +13,7 @@ visible: false
 3. [A Riddle: Glass](riddle-1)  
 4. [A Riddle: Chrysalis](riddle-2)
 5. [Lines Spoken by Mr Impey](impey)
-6. [Modinhas No. 1](modinha)  
+6. [Modinhas No. 1](modinha-1)  
 	a. [Edward](edward)  
 	b. [The Serenade](serenade)  
 	c. [Captivity](captivity)  

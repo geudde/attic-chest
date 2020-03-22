@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<span class="name">Communicated by Mrs Flaxman</span>
+
 Calm contemplation! oh descend,  
 And make my mind serene;  
 Thy heavenly presence deign to lend,  

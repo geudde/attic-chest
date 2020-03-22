@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Mr E. Elliott</div>
+
 The real occurrence which occasioned the following little jeu d’esprit (which is offered with some diffidence for the Attic Chest) was the escape of its hero, who was usually kept tied for the service of some young ladies, near their cottage, and who was brought home as will be seen in the sequel.
 
 <span class="title">On a late Remarkable Event</span>

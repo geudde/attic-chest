@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Communicated by Mrs Richardson</div>
+
 Two Herveys had a mutual wish,  
 To shine in separate stations;  
 The one invented sauce for fish,  

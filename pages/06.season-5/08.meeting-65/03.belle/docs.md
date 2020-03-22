@@ -26,7 +26,7 @@ Our clerk having read the resolution and called for votes, Miss Botherem rose 
 
 “I should have voted for the continuance of this establishment,” said Miss Prudentia Quickset, elevating her chin above the points of her tenfold frill, “if alarming innovations had not been attempted. Miss Croaker’s infirmities and my weak nerves induced me to acquiesce in the admission of our medical and clerical advisers; but the attempt to *domiciliate a barrister* has determined me to fly from contagion.”  
 
-“Really, Miss Quickset (interrupted our Vice-President Nettletop) as poor old Dr Cheyne used to say —(good man! he gave my godmother an excellent recipe of plum-broth) men are all naturally knaves or fools, so we may as well have the law on our side. And as Counsellor is a comely gentleman about my age, there can be no harm in his living her as we have Fordyce’s Sermons in the library. Besides I have just finished the fable of the fox and geese in tent-stitch, which will be a very useful warning when it is hung over the mantle-piece.”
+“Really, Miss Quickset (interrupted our Vice-President Nettletop) as poor old Dr Cheyne used to say — (good man! he gave my godmother an excellent recipe of plum-broth) men are all naturally knaves or fools, so we may as well have the law on our side. And as Counsellor is a comely gentleman about my age, there can be no harm in his living her as we have Fordyce’s Sermons in the library. Besides I have just finished the fable of the fox and geese in tent-stitch, which will be a very useful warning when it is hung over the mantle-piece.”
 
 “Indeed,” said the gentle Saccarissa, “the subject is unworthy your needle and our saloon! You might have represented the nymph Echo bewailing Narcissus or the forsaken Ariadne comforted by Bacchus.”
 
@@ -44,9 +44,17 @@ All these orators spoke at once, and a full concerto of tongues was proceeding, 
 
 “I vote for its continuance,” said the Chaplain with a gracious smile. “One of my order has maliciously compared celibacy to a fly in the heart of an apple which lives and dies unknown; but I consider it an useful bee, busied in collecting *only* the *honey* of life, and provided with a powerful sting to revenge insults.”
 
-<span data-tippy="Page Missing" class="red">[&ensp;.&ensp;.&ensp;.&ensp;]</span>
+“For myself,” said Dr Cardamom, “I brave the sarcasms levelled at *me* because I have attached myself to this institution, whose champion I remain. Many who ride in the full-loaded stage-waggon of wedlock, would prefer the light untaxed cart of celibacy, which pays no tolls at the turn-pike of care.”
 
-the rest of the scene. You will guess all that was said, or rather, all that was *not said*; for more tears than words were spent on this occasion. The Chaplain, who seems to have been Dr Balvenie’s accomplice, produced a special license, and in two hours we saluted St Agnes by a new name. Never were seven gayer brides-maids. Even the grins of Messrs Julep and Scratch were natural. In my careless mirth I said to Willoughby Woodbine, “We, whose hearts are made of cork or elastic rubber, know nothing of these romantic affections.” 
+“Our machine would have travelled very smoothly on,” retorted Sister Squib looking askance at our male dependants, “if we had not hired *four supernumerary mules!”*
+
+“Truly,” added Mrs Nettletop, “I dare say these gentlemen would have Tabby Hall managed like the little town abroad where the four greatest dunces are chosen to govern. And I must say we should not have got into such disgrace if some people had minded poor Mr Scratch’s confluescence instead of dropping love songs among my cabbages, and writing long tell-tale letters to the Attic Chest.”
+
+Dr Cardamom rose instantly, with a Ciceronian air — “I plead guilty,” said he, “to the Vice-President’s first charge. The fragment found in the hermitage is *mine*. I had once a lover’s hopes, which I determined to conceal till my fortune equalled my ambition. After an absence of twenty years, I found the object of those hopes, blind, infirm, and buried in the nunnery of her own creation. But it seemed not impossible to unclose the eye whose light was once so beautiful, and to preserve the life which still seems a part of mine. For this purpose, I accepted the office of physician to this sisterhood, and disguised my name, my voice, and even my manners. Cynical buffoonery is the most convenient mask; but I now feel that real affection cannot wear one.”  
+
+St Agnes started, and for the first time, lifted the bandeau from her eyes. They seemed to have recovered all their brightness, and all her soul shone in them as she exclaimed, “William Balvenie!” 
+
+But why should I proceed? If your heart, Mr Editor is as well-filled as your Chest, you will imagine the rest of the scene. You will guess all that was said, or rather, all that was *not said*; for more tears than words were spent on this occasion. The Chaplain, who seems to have been Dr Balvenie’s accomplice, produced a special license, and in two hours we saluted St Agnes by a new name. Never were seven gayer brides-maids. Even the grins of Messrs Julep and Scratch were natural. In my careless mirth I said to Willoughby Woodbine, “We, whose hearts are made of cork or elastic rubber, know nothing of these romantic affections.” 
 
 “True,” he replied, “but as a heart composed of elastic rubber can wipe out all mistakes, I give you mine!” 
 

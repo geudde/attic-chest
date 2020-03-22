@@ -6,7 +6,7 @@ taxonomy:
 visible: false
 ---
 
-<div class="author">Mr Porden</div>
+<div class="author">Miss Porden</div>
 
 Timour or Tamerlane, the conqueror of Russia, of Hindostan, of Persia, Egypt, Syria, and Turkey, unsated with conquest, assembled, at the age of seventy-one, an immense army to invade China. This empire had formerly been subject to Ghengis, from whom Timour loved to trace his descent, and he said that he felt it a duty to re-establish the Tartar power, and expel idolatry from a country which had formed part of the dominions of his great ancestor. He commenced his march in the depth of winter, and passed the Jaxartes on the ice, but illness stopped him at Otrar and his forces were soon deprived of their leader.
 

@@ -40,37 +40,51 @@ For my passions were ardent, were true and sincere
 And I loved far, far more sensibility’s tear  
 &emsp;Than splendour and riches, and mirth.
 
-Thus app’d, as life had commenced its bright day  
-With Maria was coupled each joy;  
+Thus biass’d, as life had commenced its bright day  
+&emsp;With Maria was coupled each joy;  
 To my every happiness she led the way  
 Without her, e’en *Nature* herself look’d not gay  
-And with her there was not alloy.
+&emsp;And with her there was not alloy.
 
 Say then my loved girl bearing this dearest name  
-My daughter, my boast and my pride  
+&emsp;My daughter, my boast and my pride  
 To my comfort thus link’d, to my joy and my fame  
 How *doubly* thou hast to my bosom a claim  
-Thus by sympathy fondly allied.
+&emsp;Thus by sympathy fondly allied.
 
 At this moment O! how would thy presence delight  
-While on Freedown’s delicious assent  
+&emsp;While on Freedown’s delicious assent  
 The gay coast of Gallia gladdens the sight  
 And boldly the Fareland extends to the sight  
-To the left, all the beauties of Kent.
+&emsp;To the left, all the beauties of Kent.
 
 Below in the Downs a forest behold  
-Of ships, from each climate and land  
+&emsp;Of ships, from each climate and land  
 While alternately tinged with azure and gold  
 The Channel rolls sparkling, extensive and bold  
-
-And the spreading sail glides ’long the strand.  
+&emsp;And the spreading sail glides ’long the strand.
+  
 The sun is declining, the glad shepherd boy   
-To the valley is driving his sheep  
+&emsp;To the valley is driving his sheep  
 To pen them secure from attack or annoy  
 And around us is heard the cricketer’s joy  
-As skillful their stations they keep.
+&emsp;As skillful their stations they keep.
 
-At a distance beneath, the spire ’bove the  
-And the farm at the bottom appear
+At a distance beneath, the spire ’bove the trees  
+&emsp;And the farm at the bottom appear  
+While the loaded team bounds o’er the grattan with ease  
+And the farmer returning, exultingly sees  
+&emsp;His Harvest Lane now very near.  
 
-<span data-tippy="Incomplete scan" class="red">(missing)</span>
+Thus as every beauty by sea and by land  
+&emsp;Enraptures this bosom of mine;  
+I pour out my soul, lov’d Maria to *thee*  
+Regretting alone thou art not here to see  
+&emsp;All that’s beautiful, grand and sublime.  
+
+Farewell! to your Brothers and Sisters so dear  
+&emsp;All that’s kind and affectionate say  
+And to her, whom he cannot but ever severe  
+To our Mother, our Wife, and our Friend, most sincere,  
+For amid all our pleasure is still mix’d a tear  
+&emsp;That the best belov’d is away.

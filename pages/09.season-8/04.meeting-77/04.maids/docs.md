@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<span class="name">Mr E. Elliott</span>
+
 1
 
 The sun gleams on Lisbon’s tow’rs,  

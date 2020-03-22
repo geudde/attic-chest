@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Mr Flaxman</div>
+
 <span class="title">The Poet to his Love</span>
 
 Hush! Hush! ye winds, ye zephyr sleep  

@@ -364,7 +364,7 @@ tntsearch:
 [A Charade: Wanton](../../season-2/meeting-23/charade) → <span class="name">Do.</span> <span class="alias">(C.B.)</span>  
 [A Fairy Favour for Ellen](../../season-2/meeting-23/favour) → <span class="name">Miss Flaxman</span> <span class="alias">(Sprite)</span>  
 [Greenwich Hill](../../season-2/meeting-23/greenwich) → <span class="name">Mr Gifford</span> <span class="alias">(Cesareo)</span>  
-<span class="grey">The Challenge of Timon → Mr Vignoles</span>  
+[The Challenge of Timon](../../season-2/meeting-23/challenge) → <span class="name">Mr Vignoles</span>  
 
 <div class="bottom">
 <span class="meeting">No. 24&emsp;(1810-05-22)</span><span class="dro">D8760/F/FEP/5/9</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f9" target="_blank"><i class="fa fa-external-link"></i></a>
@@ -1203,27 +1203,25 @@ tntsearch:
 [Plan for a Lottery](../../season-8/meeting-75/lottery) → <span class="name">Miss Vardill</span>  
 [The 7th Brother’s Tale](../../season-8/meeting-75/brother-7) → <span class="name">Miss Vardill</span>  
 [Closing Address from the Hermitage](../../season-8/meeting-75/hermitage) → <span class="name">Miss Vardill</span>  
-[A Christmas Carol to Mince Pies](../../season-8/meeting-75/carol) → <span class="grey">&ensp;?</span> <span data-tippy="Not listed in attributions" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
-[The Voltaic Battery](../../season-8/meeting-75/voltaic) → <span class="name">Miss Porden</span> <span data-tippy="Not listed in attributions" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
+[A Christmas Carol to Mince Pies](../../season-8/meeting-75/carol) → <span class="name">Elliott & Co. Pimlico</span> 
+[The Voltaic Battery](../../season-8/meeting-75/voltaic) → <span class="name">Miss Porden</span> 
 
 <div class="bottom">
 <span class="meeting">No. 76&emsp;(1816-01-30)</span><span class="dro">D8760/F/FEP/5/31</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f31" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
-<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;84 missing" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
-
-[The Lily of the Valley](../../season-8/meeting-76/lily) → <span class="grey">&ensp;?</span>    
-[The Muse’s Reproof](../../season-8/meeting-76/reproof) → <span class="grey">&ensp;?</span>    
-[The Poet Quarrels with His Muse](../../season-8/meeting-76/quarrel) → <span class="grey">&ensp;?</span>    
-[The Escape and Capture of Dapple](../../season-8/meeting-76/dapple) → <span class="grey">&ensp;?</span>    
-[Electromagus on Electricity](../../season-8/meeting-76/electromagus) → <span class="grey">&ensp;?</span>    
-[Letter from Pertinax Townly](../../season-8/meeting-76/pertinax) → <span class="grey">&ensp;?</span>    
-[First Chapter of a Novel](../../season-8/meeting-76/novel) → <span class="grey">&ensp;?</span>    
-[Biorno: a Ballad Romance](../../season-8/meeting-76/biorno) → <span class="grey">&ensp;?</span>    
-[The Two Herveys](../../season-8/meeting-76/herveys) → <span class="grey">&ensp;?</span>    
-[Address of Winter to Timour](../../season-8/meeting-76/winter) → <span class="grey">&ensp;?</span>    
-[Love in April](../../season-8/meeting-76/april) → <span class="grey">&ensp;?</span>    
-[Darcy](../../season-8/meeting-76/darcy) → <span class="grey">&ensp;?</span>    
+[The Lily of the Valley](../../season-8/meeting-76/lily) → <span class="name">Mr Flaxman</span>    
+[The Muse’s Reproof](../../season-8/meeting-76/reproof) → <span class="name">Mr Flaxman</span>    
+[The Poet Quarrels with His Muse](../../season-8/meeting-76/quarrel) → <span class="name">Mr Flaxman</span>    
+[The Escape and Capture of Dapple (The Truant Donkey)](../../season-8/meeting-76/dapple) → <span class="name">Mr E. Elliott</span>    
+[Electromagus on Electricity](../../season-8/meeting-76/electromagus) → <span class="name">Miss Porden</span>    
+[Letter from Pertinax Townly](../../season-8/meeting-76/pertinax) → Miss Porden → <span class="name">Miss Vardill</span> <span data-tippy="Attributed to EAP but handwriting that of AJV" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[First Chapter of a Novel](../../season-8/meeting-76/novel) → <span class="name">Miss Vardill</span>    
+[Biorno: a Ballad Romance](../../season-8/meeting-76/biorno) → <span class="name">Mr Elliott</span>    
+[The Two Herveys](../../season-8/meeting-76/herveys) → Mr J. Smith → <span class="name">com. Mrs Richardson</span>    
+[Address of Winter to Timour](../../season-8/meeting-76/winter) → <span class="name">Miss Porden</span>    
+[Love in April](../../season-8/meeting-76/april) → <span class="name">Miss Vardill</span>    
+[Darcy](../../season-8/meeting-76/darcy) → <span class="grey">Mr Elliott</span>    
 
 <div class="bottom">
 <span class="meeting">No. 77&emsp;(1816-02-14)</span><span class="dro">D8760/F/FEP/5/31</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f31" target="_blank"><i class="fa fa-external-link"></i></a>
@@ -1231,22 +1229,22 @@ tntsearch:
 
 <span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;84 missing" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
-[Contemplation](../../season-8/meeting-77/contemplation) → <span class="grey">&ensp;?</span>  
-[The Maids of Portugal](../../season-8/meeting-77/maids) → <span class="grey">&ensp;?</span>    
-[Pity](../../season-8/meeting-77/pity) → <span class="grey">&ensp;?</span>    
-[My Loved Country](../../season-8/meeting-77/country) → <span class="grey">&ensp;?</span>    
-[The Fair Penitent](../../season-8/meeting-77/penitent) → <span class="grey">&ensp;?</span>    
-[The Invitation](../../season-8/meeting-77/invitation) → <span class="grey">&ensp;?</span>    
+[Contemplation](../../season-8/meeting-77/contemplation) → <span class="name">com. Mrs Flaxman</span>  
+[The Maids of Portugal](../../season-8/meeting-77/maids) → <span class="name">Mr E. Elliott</span>    
+[Pity](../../season-8/meeting-77/pity) → <span class="name">Mr E. Elliott</span>    
+[My Loved Country](../../season-8/meeting-77/country) → <span class="name">Mr E. Elliott</span>    
+[The Fair Penitent](../../season-8/meeting-77/penitent) → <span class="name">Mr E. Elliott</span>    
+[The Invitation](../../season-8/meeting-77/invitation) → <span class="name">Mr E. Elliott</span>    
 [Lottery Announcement](../../season-8/meeting-77/lottery) → <span class="grey">&ensp;?</span>  
-[To Ellen](../../season-8/meeting-77/ellen) → <span class="grey">&ensp;?</span>  
-[To Miss Mary Anne King](../../season-8/meeting-77/mary) → <span class="grey">&ensp;?</span>  
-[To Maria](../../season-8/meeting-77/maria) → <span class="grey">&ensp;?</span>  
-[Letter from Pertinax Townly](../../season-8/meeting-77/pertinax) → <span class="grey">&ensp;?</span>  
-[Letter from Peregrine Project](../../season-8/meeting-77/project) → <span class="grey">&ensp;?</span>  
-[Sketch of the Plan](../../season-8/meeting-77/plan) → <span class="grey">&ensp;?</span>  
-[Letter from Peregrine Project](../../season-8/meeting-77/peregrine) → <span class="grey">&ensp;?</span>  
-[The Wreath](../../season-8/meeting-77/wreath) → <span class="grey">&ensp;?</span>  
-[The Gamut of Faces](../../season-8/meeting-77/gamut) → <span class="grey">&ensp;?</span>  
+[To Ellen](../../season-8/meeting-77/ellen) → <span class="name">Mrs Flaxman</span>  
+[To Miss Mary Anne King](../../season-8/meeting-77/mary) → <span class="name">Miss Porden</span>  
+[To Maria](../../season-8/meeting-77/maria) → <span class="grey">Miss Porden</span>  
+[Letter from Pertinax Townly](../../season-8/meeting-77/pertinax) → <span class="name">Miss Porden</span>  
+[Letter from Peregrine Project](../../season-8/meeting-77/project) → <span class="name">Mr Elliott</span>  
+[Sketch of the Plan](../../season-8/meeting-77/plan) → <span class="grey">Mr Elliott</span>  
+[Letter from Peregrine Project](../../season-8/meeting-77/peregrine) → <span class="name">Miss Vardill</span>  
+[The Wreath](../../season-8/meeting-77/wreath) → <span class="name">Miss Vardill</span>  
+[The Gamut of Faces](../../season-8/meeting-77/gamut) → <span class="grey">Miss Vardill</span>  
 
 <div class="bottom">
 <span class="meeting">No. 78&emsp;(1816-02-28)</span><span class="dro">D8760/F/FEP/5/32</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f32" target="_blank"><i class="fa fa-external-link"></i></a>

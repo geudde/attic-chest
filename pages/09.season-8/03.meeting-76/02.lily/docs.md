@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Mr Flaxman</div>
+
 <span class="title">To a Lady on Her Birthday</span>
 
 Sweet modest flower, thy drooping head,  
