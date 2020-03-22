@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Porden</div>
+
 The song of the birds has awakened the day,  
 But what tempts fair Emma thus early to stray,  
 Why that long robe of satin more white than the snow,  

@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Mrs J. Cobb</div>
+
 Ye Muses ’mong Adonis who dwell  
 &emsp;And have noses of tangible stuff  
 Come, succour a poor puzzled Belle  

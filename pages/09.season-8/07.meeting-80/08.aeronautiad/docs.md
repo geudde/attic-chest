@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Mr Elliott</div>
+
 <span class="title">An Historic-Scientifico-Didactic Sketch</span>
 
 <span class="title">Prize Poem by Artemisia Bustleton</span>

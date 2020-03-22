@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Vardill</div>
+
 Dear Editor
 
 We have had a set of the strangest adventures imaginable. I rose early this morning, meditating a sonnet to my Erminia’s eyebrow, but as I reached the shrubbery, was surprised to see the figure of an old woman in her night-cap and cloak running briskly across the lawn, and climbing the walls of Positive House (by the aid of its veranda) with catlike agility. I hastened back to give an alarm of thieves to Electromagus and secure my own dressing-plate, when crossing the passage from Mr Beauclerc’s room, I saw the witch again! Beauclerc himself, in more evident consternation than is consistent with his professed philosophy, came forth and complained of an apparition that had just made its way into his chamber down the chimney, bringing with it a cloud of soot which prevented him from distinguishing its shape. On the stairs we found Lady Olivia’s abigail on her knees, praying most devoutly and protesting that she had been only seeking for her lady’s marmalade when Satan leaped over her head and vanished in black smoke. A certain sulphurous scent led us to Atticus’s room which we entered but found him quietly asleep without any symptom of either earthly or infernal visitors. He rose with great expressions of amazement and assisted Beauclerc, Electromagus and myself in a search throughout the house, but in vain. The spectre, I suppose, had resolved itself into thin air; and our sage, affecting to believe it a jest, threatened us with punishment if such vagaries disturbed his rest again.

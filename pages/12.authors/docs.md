@@ -983,7 +983,7 @@ tntsearch:
 [An Antient Fragment found in a Skeleton Case](../../season-5/meeting-63/fragment) → <span class="name">Miss Vardill</span>  
 [Celia to Laura Epistle No. 4](../../season-5/meeting-63/celia) → <span class="name">Miss Flaxman</span>  
 [Lines to a Young Friend](../../season-5/meeting-63/lines) → <span class="name">Miss Richardson</span>  
-[Do. spoken extempore](../../season-5/meeting-63/extempore) → <span class="name">com. Miss Beslee</span>
+[Do. spoken extempore](../../season-5/meeting-63/extempore) → <span class="name">com. Miss Beslee</span>  
 [Jeffrey Julep to the Editor](../../season-5/meeting-63/letter) → <span class="name">Miss Vardill</span>  
 [Spring](../../season-5/meeting-63/spring) → <span class="name">Mr Elliott</span>  
 [Justice](../../season-5/meeting-63/justice) → <span class="name">Mr Elliott</span> <span class="alias">(Atticus Scriblerus)</span>  
@@ -1268,22 +1268,20 @@ tntsearch:
 [Letter from Atticus Scriblerus](../../season-8/meeting-79/atticus) → <span class="name">Miss Vardill</span>   
 [English Words for Modinhas No. 3](../../season-8/meeting-79/modinha-3) → <span class="name">Mr E. Elliott</span>      
 [The Fairies’ Isle](../../season-8/meeting-79/isle) → <span class="name">Miss Porden</span>  
-[Laila: An Arabian Tale](../season-8/tales/laila) → <span class="name">Miss Porden</span> <i class="fa fa-link" aria-hidden="true"></i>
+[Laila: An Arabian Tale](../season-8/tales/laila) → <span class="name">Miss Porden</span> <span data-tippy="Filed under Tales" class="info"><i class="fa fa-link" aria-hidden="true"></i></span>
 
 <div class="bottom">
 <span class="meeting">No. 80&emsp;(1816-03-27)</span><span class="dro">D8760/F/FEP/5/33</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f33" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
-
-<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;84 missing" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
  
-[L’Acerbo No. 2](../../season-8/meeting-80/acerbo) → <span class="grey">&ensp;?</span>  
-[Letter from Pertinax Townly](../../season-8/meeting-80/pertinax) → <span class="grey">&ensp;?</span>  
-[On Snuff](../../season-8/meeting-80/snuff) → <span class="grey">&ensp;?</span>  
-[Emma: A Ballad](../../season-8/meeting-80/emma) → <span class="grey">&ensp;?</span>  
-[To Celia](../../season-8/meeting-80/celia) → <span class="grey">&ensp;?</span>  
-[Four Nations: The Jew](../../season-8/meeting-80/jew) → <span class="grey">&ensp;?</span>  
-[The Aëronautiad](../../season-8/meeting-80/aeronautiad) → <span class="grey">&ensp;?</span>  
-<span class="grey">Khatoon: A Persian Tale</span> [Katton](../season-8/tales/khatoon) <i class="fa fa-link" aria-hidden="true"></i></a>
+[L’Acerbo No. 2](../../season-8/meeting-80/acerbo) → <span class="name">Miss Porden</span>  
+[Letter from Pertinax Townly](../../season-8/meeting-80/pertinax) → <span class="name">Miss Vardill</span>  
+[On Snuff](../../season-8/meeting-80/snuff) → <span class="name">Mrs J. Cobb</span>  
+[Emma: A Ballad](../../season-8/meeting-80/emma) → <span class="name">Miss Porden</span>  
+[To Celia](../../season-8/meeting-80/celia) → <span class="name">Mr Elliott</span> <span  class="alias">(Hippolytus)</span>
+[Four Nations: The Jew](../../season-8/meeting-80/jew) → <span class="name">Miss Vardill</span>  
+[The Aëronautiad](../../season-8/meeting-80/aeronautiad) → <span class="name">Mr Elliott</span> <span  class="alias">(Mrs Bustleton)</span> 
+[Khatoon: A Persian Tale](../season-8/tales/khatoon)  <span data-tippy="Filed under Tales" class="info"><i class="fa fa-link" aria-hidden="true"></i></span>
 
 <div class="bottom">
 <span class="meeting">No. 81&emsp;(1816-04-24)</span><span class="dro">D8760/F/FEP/5/33</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f33" target="_blank"><i class="fa fa-external-link"></i></a>

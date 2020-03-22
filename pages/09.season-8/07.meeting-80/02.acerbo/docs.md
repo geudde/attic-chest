@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Porden</div>
+
 > “There is nothing new, under the sun”
 
 How true is this apophthegm! Yet how often has it been admired or ridiculed without being properly understood! I am far from wishing to exalt the antients at the expense of the moderns, nor do I mean here to discuss a subject alluded to in a former paper, how far the sages of other years may have been acquainted with many of the facts recently developed by Modern Science, yet how many of the boasted discoveries of later times in every walk of knowledge, seem to have been suspected if not perfectly known by the philosophers of elder days. How often have popular traditions long neglected or despised, been eagerly seized on, as affording the only plausible explication of phenomena, whose cause has been the subject of eager contest. The philosophers of Greece, like the alchemists of the Middle Ages, were fond of shrouding their knowledge in a veil impenetrable to the uninitiated — a veil which all the light of the most recent and brilliant discoveries has been requisite to pierce. In my opinion, a man who is anxious to investigate the real history of a country, will never reject with disdain the traditions of its inhabitants.
