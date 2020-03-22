@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Communicated by Miss Vardill</div>
+
 **E**&hairsp;re the world was created and order began,    
 **L**&hairsp;aws enacted to rule and to civilize man;    
 **E**&hairsp;ngulf’d and entomb’d in an unfathom’d deep,    

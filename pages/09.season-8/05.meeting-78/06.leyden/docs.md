@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Porden</div>
+
 Ere Learning’s sacred beam expanded far,    
 &emsp;Shone like the sun diffused o’er every clime,    
 Beamed thro’ the darkness many a scatter’d star.  

@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Mr Elliott</div>
+
 Dear Sir    
   
 As the Attic Society, I am told, received favorable some letters of Electromagus, founded on his late lecture; I am induced to submit to them the inclosed Essay, which is a kind of corollary to those lectures. It is a mode of writing that is new to me, and the reception if may meet with may serve to guide me in future attempts.    

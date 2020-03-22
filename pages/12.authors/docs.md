@@ -1203,7 +1203,7 @@ tntsearch:
 [Plan for a Lottery](../../season-8/meeting-75/lottery) → <span class="name">Miss Vardill</span>  
 [The 7th Brother’s Tale](../../season-8/meeting-75/brother-7) → <span class="name">Miss Vardill</span>  
 [Closing Address from the Hermitage](../../season-8/meeting-75/hermitage) → <span class="name">Miss Vardill</span>  
-[A Christmas Carol to Mince Pies](../../season-8/meeting-75/carol) → <span class="name">Elliott & Co. Pimlico</span> 
+[A Christmas Carol to Mince Pies](../../season-8/meeting-75/carol) → <span class="name">Elliott & Co. Pimlico</span>  
 [The Voltaic Battery](../../season-8/meeting-75/voltaic) → <span class="name">Miss Porden</span> 
 
 <div class="bottom">
@@ -1221,65 +1221,54 @@ tntsearch:
 [The Two Herveys](../../season-8/meeting-76/herveys) → Mr J. Smith → <span class="name">com. Mrs Richardson</span>    
 [Address of Winter to Timour](../../season-8/meeting-76/winter) → <span class="name">Miss Porden</span>    
 [Love in April](../../season-8/meeting-76/april) → <span class="name">Miss Vardill</span>    
-[Darcy](../../season-8/meeting-76/darcy) → <span class="grey">Mr Elliott</span>    
+[Darcy](../../season-8/meeting-76/darcy) → <span class="name">Mr Elliott</span>    
 
 <div class="bottom">
 <span class="meeting">No. 77&emsp;(1816-02-14)</span><span class="dro">D8760/F/FEP/5/31</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f31" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
-
-<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;84 missing" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
 [Contemplation](../../season-8/meeting-77/contemplation) → <span class="name">com. Mrs Flaxman</span>  
 [English Words for Modinhas No. 2](../../season-8/meeting-77/modinha-2) → <span class="name">Mr E. Elliott</span>       
 [Lottery Announcement](../../season-8/meeting-77/lottery) → <span class="grey">&ensp;?</span>  
 [To Ellen](../../season-8/meeting-77/ellen) → <span class="name">Mrs Flaxman</span>  
 [To Miss Mary Anne King](../../season-8/meeting-77/mary) → <span class="name">Miss Porden</span>  
-[To Maria](../../season-8/meeting-77/maria) → <span class="grey">Miss Porden</span>  
+[To Maria](../../season-8/meeting-77/maria) → <span class="name">Miss Porden</span>  
 [Letter from Pertinax Townly](../../season-8/meeting-77/pertinax) → <span class="name">Miss Porden</span>  
 [Letter from Peregrine Project](../../season-8/meeting-77/project) → <span class="name">Mr Elliott</span>  
-[Sketch of the Plan](../../season-8/meeting-77/plan) → <span class="grey">Mr Elliott</span>  
+[Sketch of the Plan](../../season-8/meeting-77/plan) → <span class="name">Mr Elliott</span>  
 [Letter from Peregrine Project](../../season-8/meeting-77/peregrine) → <span class="name">Miss Vardill</span>  
 [The Wreath](../../season-8/meeting-77/wreath) → <span class="name">Miss Vardill</span>  
-[The Gamut of Faces](../../season-8/meeting-77/gamut) → <span class="grey">Miss Vardill</span>  
+[The Gamut of Faces](../../season-8/meeting-77/gamut) → <span class="name">Miss Vardill</span>  
 
 <div class="bottom">
 <span class="meeting">No. 78&emsp;(1816-02-28)</span><span class="dro">D8760/F/FEP/5/32</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f32" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
-
-<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;84 missing" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
-
-[Essay on Science](../../season-8/meeting-78/beauclerc) → <span class="grey">&ensp;?</span>  
-[To Zara](../../season-8/meeting-78/zara) → <span class="grey">&ensp;?</span>  
-[Valentine](../../season-8/meeting-78/Valentine) → <span class="grey">&ensp;?</span>  
-[Answer to the Wreath](../../season-8/meeting-78/wreath) → <span class="grey">&ensp;?</span>  
-[The Leyden Jar](../../season-8/meeting-78/leyden) → <span class="grey">&ensp;?</span>  
-[Acrostic to Miss Porden on Her Poem](../../season-8/meeting-78/acrostic) → <span class="grey">&ensp;?</span>  
-[Letter from Prosai-Poetico](../../season-8/meeting-78/poetico) → <span class="grey">&ensp;?</span>  
+[Essay on Science](../../season-8/meeting-78/beauclerc) → <span class="name">Mr Elliott</span>  
+[To Zara](../../season-8/meeting-78/zara) → <span class="name">Miss Porden</span>  
+[Valentine](../../season-8/meeting-78/Valentine) → <span class="name">Miss Porden</span>  
+[Answer to the Wreath](../../season-8/meeting-78/wreath) → <span class="name">Miss Vardill</span>  
+[The Leyden Jar](../../season-8/meeting-78/leyden) → <span class="name">Miss Porden</span>  
+[Acrostic to Miss Porden on Her Poem](../../season-8/meeting-78/acrostic) → <span class="name">com. Miss Vardill</span>  
+[Letter from Prosai-Poetico](../../season-8/meeting-78/poetico) → <span class="name">Miss Vardill</span>  
 [Documents from Prosai-Poetico](../../season-8/meeting-78/documents) → <span class="grey">&ensp;?</span>  
 [Letter from Pertinax Townly](../../season-8/meeting-78/pertinax) → <span class="grey">&ensp;?</span>  
 [Anonymous Letter](../../season-8/meeting-78/anonymous) → <span class="grey">&ensp;?</span>  
-[The Spanish Armada](../../season-8/meeting-78/armada) → <span class="grey">&ensp;?</span>  
-[Four Nations: The Saxon](../../season-8/meeting-78/saxon) → <span class="grey">&ensp;?</span>  
+[The Spanish Armada](../../season-8/meeting-78/armada) → <span class="name">Mr Elliott</span>  
+[Four Nations: The Saxon](../../season-8/meeting-78/saxon) → <span class="name">Miss Vardill</span>  
 
 <div class="bottom">
 <span class="meeting">No. 79&emsp;(1816-03-13)</span><span class="dro">D8760/F/FEP/5/32</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f32" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
-<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;84 missing" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
-
-[L’Acerbo No. 1](../../season-8/meeting-79/acerbo) → <span class="grey">&ensp;?</span>  
-[The Englishman](../../season-8/meeting-79/englishman) → <span class="grey">&ensp;?</span>  
-[Four Nations: The Swede](../../season-8/meeting-79/swede) → <span class="grey">&ensp;?</span>  
-[Letter from Pertinax Townly](../../season-8/meeting-79/pertinax) → <span class="grey">&ensp;?</span>  
-[Letter from Atticus Scriblerus](../../season-8/meeting-79/atticus) → <span class="grey">&ensp;?</span>   
-[Alonzo and Estella](../../season-8/meeting-79/alonzo) → <span class="grey">&ensp;?</span>    
-[Absence](../../season-8/meeting-79/absence) → <span class="grey">&ensp;?</span>    
-[The Search](../../season-8/meeting-79/search) → <span class="grey">&ensp;?</span>    
-[The Chaplet](../../season-8/meeting-79/chaplet) → <span class="grey">&ensp;?</span>    
-[Message from Author](../../season-8/meeting-79/message) → <span class="grey">&ensp;?</span>    
-[The Fairies’ Isle](../../season-8/meeting-79/isle) → <span class="grey">&ensp;?</span>  
-<span class="grey">Laila: An Arabian Tale</span> [Laila](../season-8/tales/laila) <i class="fa fa-link" aria-hidden="true"></i></a>
+[L’Acerbo No. 1](../../season-8/meeting-79/acerbo) → <span class="name">Miss Porden</span>  
+[The Englishman](../../season-8/meeting-79/englishman) → <span class="name">Mr Elliott/span>  
+[Four Nations: The Swede](../../season-8/meeting-79/swede) → <span class="name">Miss Vardill</span>  
+[Letter from Pertinax Townly](../../season-8/meeting-79/pertinax) → <span class="name">Miss Porden</span>  
+[Letter from Atticus Scriblerus](../../season-8/meeting-79/atticus) → <span class="name">Miss Vardill</span>   
+[English Words for Modinhas No. 3](../../season-8/meeting-79/modinha-3) → <span class="name">Mr E. Elliott</span>      
+[The Fairies’ Isle](../../season-8/meeting-79/isle) → <span class="name">Miss Porden</span>  
+[Laila: An Arabian Tale](../season-8/tales/laila) → <span class="name">Miss Porden</span> <i class="fa fa-link" aria-hidden="true"></i>
 
 <div class="bottom">
 <span class="meeting">No. 80&emsp;(1816-03-27)</span><span class="dro">D8760/F/FEP/5/33</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f33" target="_blank"><i class="fa fa-external-link"></i></a>

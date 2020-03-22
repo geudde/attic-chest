@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Mr Elliott</div>
+
 <span class="title">An Epic Poem in twenty-four books</span>  
   
 Argument of the 1st Book  

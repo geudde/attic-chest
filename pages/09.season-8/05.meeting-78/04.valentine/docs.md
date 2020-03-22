@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Porden</div>
+
 Dear Editress  
   
 As you are a connoisseur in Valentines, I cannot help sending you the enclosed beautiful lines, which I have accidentally discovered to have been addressed last year to my sister Sarah. In offering these M.S. lines for the amusement of the Attic Society, I am guilty of no break of confidence, as the shy girl never would own the real cause of her predilection for everything Eastern.

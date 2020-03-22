@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Vardill</div>
+
 Time will not stay, for myrtle leaves    
 Nor for the garland Fancy weaves    
 Tho’ fairy hands the pencil bring    
