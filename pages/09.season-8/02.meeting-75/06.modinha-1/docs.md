@@ -16,8 +16,8 @@ dear Madam,
 
 your &c. &c. &c
 
-1. [Edward](edward)  
-2. [The Serenade](serenade)  
+1. [Edward](../edward)  
+2. [The Serenade](../../serenade)  
 3. [Captivity](captivity)  
 4. [Exile](exile)  
 5. [Young Willy](willy) 
