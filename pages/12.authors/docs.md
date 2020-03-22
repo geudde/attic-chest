@@ -1230,11 +1230,7 @@ tntsearch:
 <span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;84 missing" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
 [Contemplation](../../season-8/meeting-77/contemplation) → <span class="name">com. Mrs Flaxman</span>  
-[The Maids of Portugal](../../season-8/meeting-77/maids) → <span class="name">Mr E. Elliott</span>    
-[Pity](../../season-8/meeting-77/pity) → <span class="name">Mr E. Elliott</span>    
-[My Loved Country](../../season-8/meeting-77/country) → <span class="name">Mr E. Elliott</span>    
-[The Fair Penitent](../../season-8/meeting-77/penitent) → <span class="name">Mr E. Elliott</span>    
-[The Invitation](../../season-8/meeting-77/invitation) → <span class="name">Mr E. Elliott</span>    
+[English Words for Modinhas No. 2](../../season-8/meeting-77/modinha-2) → <span class="name">Mr E. Elliott</span>       
 [Lottery Announcement](../../season-8/meeting-77/lottery) → <span class="grey">&ensp;?</span>  
 [To Ellen](../../season-8/meeting-77/ellen) → <span class="name">Mrs Flaxman</span>  
 [To Miss Mary Anne King](../../season-8/meeting-77/mary) → <span class="name">Miss Porden</span>  
