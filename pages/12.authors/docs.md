@@ -1504,7 +1504,7 @@ tntsearch:
 <span class="grey">Part of Allah Ul Dien → com. Mr Porden</span>  
 [Lavinia to Eliza Letter 6](../../season-9/meeting-92/lavinia-6) → <span class="name">Miss Porden</span>  
 [The Quest of the Muse](../../season-9/meeting-92/quest) → <span class="name">Miss Porden</span>  
-<span class="grey">Atticus Scriblerus to Olivia → Miss Vardill</span>  
+[Atticus Scriblerus to Olivia](../../season-9/meeting-92/olivia) → <span class="name">Miss Vardill</span>  
 [King Edward and Fair Agnes](../../season-9/meeting-92/legend) → <span class="name">Miss Vardill</span>  
 [Acrostic on the Death of a Beloved Child](../../season-9/meeting-92/acrostic) → <span class="grey">&ensp;?</span> <span data-tippy="Not included in acknowledgements" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 
