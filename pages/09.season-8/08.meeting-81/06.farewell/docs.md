@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Porden</div>
+
 “Fare thee well” — no artful numbers,  
 &emsp;Here dissembled feelings tell,  
 Grief my faltering strain encumbers,  

@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Porden</div>
+
 &emsp;Ere Greece was known, or Britain had a name,  
 My princely first might vie with Britain’s fame.  
 On every sea she saw her navies sail,  

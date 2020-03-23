@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Mr E. Elliott</div>
+
 Pozitif house  
 Sunday nite
 

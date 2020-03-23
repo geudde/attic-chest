@@ -7,6 +7,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Vardill</div>
+
 The seal with awful silence lift  
 &emsp;Which guards the spell of plums and spicing!  
 Three smiling Graces carv’d the gift,  

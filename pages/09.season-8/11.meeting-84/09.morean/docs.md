@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Mr Elliott</div>
+
 <span class="title">Stepanopoli and Dimitri</span>
 
 “Golden treasury of charms  

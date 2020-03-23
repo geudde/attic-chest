@@ -1278,72 +1278,66 @@ tntsearch:
 [Letter from Pertinax Townly](../../season-8/meeting-80/pertinax) → <span class="name">Miss Vardill</span>  
 [On Snuff](../../season-8/meeting-80/snuff) → <span class="name">Mrs J. Cobb</span>  
 [Emma: A Ballad](../../season-8/meeting-80/emma) → <span class="name">Miss Porden</span>  
-[To Celia](../../season-8/meeting-80/celia) → <span class="name">Mr Elliott</span> <span  class="alias">(Hippolytus)</span>
+[To Celia](../../season-8/meeting-80/celia) → <span class="name">Mr Elliott</span> <span  class="alias">(Hippolytus)</span>  
 [Four Nations: The Jew](../../season-8/meeting-80/jew) → <span class="name">Miss Vardill</span>  
-[The Aëronautiad](../../season-8/meeting-80/aeronautiad) → <span class="name">Mr Elliott</span> <span  class="alias">(Mrs Bustleton)</span> 
-[Khatoon: A Persian Tale](../season-8/tales/khatoon)  <span data-tippy="Filed under Tales" class="info"><i class="fa fa-link" aria-hidden="true"></i></span>
+[The Aëronautiad](../../season-8/meeting-80/aeronautiad) → <span class="name">Mr Elliott</span> <span  class="alias">(Mrs Bustleton)</span>  
+[Khatoon: A Persian Tale](../season-8/tales/khatoon) → <span class="name">Miss Porden</span> <span data-tippy="Filed under Tales" class="info"><i class="fa fa-link" aria-hidden="true"></i></span>
 
 <div class="bottom">
 <span class="meeting">No. 81&emsp;(1816-04-24)</span><span class="dro">D8760/F/FEP/5/33</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f33" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
-
-<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;84 missing" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
  
-[L’Acerbo No. 3](../../season-8/meeting-81/acerbo) → <span class="grey">&ensp;?</span>  
-[Sir Gilbert’s Heiress](../../season-8/meeting-81/heiress) → <span class="grey">&ensp;?</span>  
+[L’Acerbo No. 3](../../season-8/meeting-81/acerbo) → <span class="name">Miss Porden</span>  
+[Letter with Sir Gilbert’s Heiress](../../season-8/meeting-81/heiress) → <span class="name">Miss Vardill</span>  
+[A Parting Song](../../season-8/meeting-81/parting) → <span class="name">Mr Hayley</span>  
 [Answer to the Sonnet by Dr Gregor](../../season-8/meeting-81/answer) → <span class="grey">&ensp;?</span>  
-[Farewell to Henrietta](../../season-8/meeting-81/farewell) → <span class="grey">&ensp;?</span>  
-[Letter from Pertinax Townly](../../season-8/meeting-81/pertinax) → <span class="grey">&ensp;?</span>  
-[Letter and Poem from Betty Brush](../../season-8/meeting-81/betty) → <span class="grey">&ensp;?</span>  
-<span class="grey">Komalda: An Indian Tale</span> [Komalda](../season-8/tales/komalda) <i class="fa fa-link" aria-hidden="true"></i></a>
+[Farewell to Henrietta](../../season-8/meeting-81/farewell) → <span class="name">Miss Porden</span>  
+[Letter from Pertinax Townly](../../season-8/meeting-81/pertinax) → <span class="name">Miss Porden</span>  
+[Letter and Poem from Betty Brush](../../season-8/meeting-81/betty) → <span class="name">Mr E. Elliott</span>  
+[Komalda: An Indian Tale](../season-8/tales/komalda) → <span class="name">Miss Porden</span> <span data-tippy="Filed under Tales" class="info"><i class="fa fa-link" aria-hidden="true"></i></span>  
+<span class="grey">Omnia vincit Honor! → com. Mrs Phillips</span>
 
 <div class="bottom">
 <span class="meeting">No. 82&emsp;(1816-05-08)</span><span class="dro">D8760/F/FEP/5/34</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f34" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
-<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;84 missing" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
-
-[Letter from Pertinax Townly](../../season-8/meeting-82/pertinax) → <span class="grey">&ensp;?</span>    
-[Letter from Philemon Beauclerc](../../season-8/meeting-82/beauclerc) → <span class="grey">&ensp;?</span>  
-[Letter from Electromagus](../../season-8/meeting-82/electromagus) → <span class="grey">&ensp;?</span>  
-[Letter from Atticus Scriblerus](../../season-8/meeting-82/atticus) → <span class="grey">&ensp;?</span>  
-[The Seal](../../season-8/meeting-82/seal) → <span class="grey">&ensp;?</span>  
-[Letter and Poem from Mopsey](../../season-8/meeting-82/mopsey) → <span class="grey">&ensp;?</span>  
-[The Spectre’s Isle](../../season-8/meeting-82/spectre) → <span class="grey">&ensp;?</span>  
-[Edwin and Angelina](../../season-8/meeting-82/edwin) → <span class="grey">&ensp;?</span>  
-<span class="grey">Telasco: An American Tale</span> [Telasco](../season-8/tales/telasco) <i class="fa fa-link" aria-hidden="true"></i></a>
+[Letter from Pertinax Townly](../../season-8/meeting-82/pertinax) → <span class="name">Miss Porden</span>    
+[Letter from Philemon Beauclerc](../../season-8/meeting-82/beauclerc) → <span class="name">Miss Vardill</span>  
+[Letter from Electromagus](../../season-8/meeting-82/electromagus) → <span class="name">Miss Porden</span>  
+[Letter from Atticus Scriblerus](../../season-8/meeting-82/atticus) → <span class="name">Mr Elliott</span>  
+[Address of the Bridegrooms](../../season-8/meeting-82/seal) → <span class="name">Miss Vardill</span>  
+[Letter and Poem from Mopsey](../../season-8/meeting-82/mopsey) → <span class="name">Mr Elliott</span>  
+[The Spectre’s Isle](../../season-8/meeting-82/spectre) → <span class="name">Miss Vardill</span>  
+[Edwin and Angelina](../../season-8/meeting-82/edwin) → <span class="name">Miss Vardill</span> <span class="alias">(Mrs Brush)</span>  
+[Telasco: An American Tale](../season-8/tales/telasco) → <span class="name">Miss Porden</span> <span data-tippy="Filed under Tales" class="info"><i class="fa fa-link" aria-hidden="true"></i></span>
 
 <div class="bottom">
 <span class="meeting">No. 83&emsp;(1816-05-22)</span><span class="dro">D8760/F/FEP/5/34</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f34" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
-
-<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;84 missing" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
  
-[Waterloo](../../season-8/meeting-83/waterloo) → <span class="grey">&ensp;?</span>  
+[Waterloo](../../season-8/meeting-83/waterloo) → <span class="name">Mr Elliott</span>  
 [To Miss Porden](../../season-8/meeting-83/adieu) → <span class="grey">&ensp;?</span>  
-[Humorous Fragments](../../season-8/meeting-83/humour) → <span class="grey">&ensp;?</span>  
-[Letter from Pertinax Townly](../../season-8/meeting-83/pertinax) → <span class="grey">&ensp;?</span>  
-[Memorial to a Favorite Dog](../../season-8/meeting-83/dog) → <span class="grey">&ensp;?</span>  
-[Charade](../../season-8/meeting-83/charade) → <span class="grey">&ensp;?</span>  
+[Humorous Fragments](../../season-8/meeting-83/humour) → <span class="name">com. Miss Flaxman</span>  
+[Letter from Pertinax Townly](../../season-8/meeting-83/pertinax) → <span class="name">Miss Porden</span>  
+[Memorial to a Favorite Dog](../../season-8/meeting-83/dog) → <span class="name">Miss Flaxman</span>  
+[Charade: Rebellion](../../season-8/meeting-83/charade) → <span class="name">Mr Hinckley</span>  
 [Two Poems from an Editor](../../season-8/meeting-83/editor) → <span class="grey">&ensp;?</span>    
-<span class="grey">Kuban Khan: A Tartarian Tale</span> [Kuban](../../season-8/tales/kuban) <i class="fa fa-link" aria-hidden="true"></i></a>
+[Kuban Khan: A Tartarian Tale](../../season-8/tales/kuban) → <span class="name">Miss Porden</span> <span data-tippy="Filed under Tales" class="info"><i class="fa fa-link" aria-hidden="true"></i></span>
 
 <div class="bottom">
 <span class="meeting">No. 84&emsp;(1816-06-05)</span><span class="dro">D8760/F/FEP/5/35</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f35" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
-
-<span class="missing">MISSING</span> <span data-tippy="Attributions for Meetings Nos. 76&ndash;84 missing" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
  
-[To EAP on Her Birthday](../../season-8/meeting-84/birthday) → <span class="grey">&ensp;?</span>  
-[Sales by Auction](../../season-8/meeting-84/auction) → <span class="grey">&ensp;?</span>  
-[Letter from Pertinax Townly](../../season-8/meeting-84/pertinax) → <span class="grey">&ensp;?</span>  
-[An Attic Bard to His Bride](../../season-8/meeting-84/bread) → <span class="grey">&ensp;?</span>  
-[Fourth Day’s Sale](../../season-8/meeting-84/sale) → <span class="grey">&ensp;?</span>  
-[A Translation from the Persian](../../season-8/meeting-84/persian) → <span class="grey">&ensp;?</span>  
-[Gleanings](../../season-8/meeting-84/gleanings) → <span class="grey">&ensp;?</span>  
-[A Morean Tale](../../season-8/meeting-84/morean) → <span class="grey">&ensp;?</span>  
-[Charade](../../season-8/meeting-84/charade) → <span class="grey">&ensp;?</span>  
-[Sonnet to a Tea Kettle](../../season-8/meeting-84/kettle) → <span class="grey">&ensp;?</span>  
+[To EAP on Her Birthday](../../season-8/meeting-84/birthday) → <span class="name">Miss Vardill</span> <span class="alias">(Chronos)</span>  
+[Sales by Auction](../../season-8/meeting-84/auction) → <span class="name">Miss Vardill</span>  
+[Letter from Pertinax Townly](../../season-8/meeting-84/pertinax) → <span class="name">Miss Vardill</span>  
+[An Attic Bard to His Bride](../../season-8/meeting-84/bread) → <span class="name">Miss Vardill</span>  
+[Fourth Day’s Sale](../../season-8/meeting-84/sale) → <span class="grey">Miss Vardill</span>  
+[A Translation from the Persian](../../season-8/meeting-84/persian) → <span class="name">Miss Vardill</span>  
+[Gleanings](../../season-8/meeting-84/gleanings) → <span class="name">Miss Vardill</span>  
+[A Morean Tale](../../season-8/meeting-84/morean) → <span class="name">Mr Elliott</span>  
+[Charade: Tyrant](../../season-8/meeting-84/charade) → <span class="name">Miss Porden</span>  
+[Sonnet to a Tea Kettle](../../season-8/meeting-84/kettle) → <span class="name">Miss Vardill</span> <span class="alias">(Miss Stormont)</span> 
 
 <div class="bottom">
 <span class="meeting">No. 85&emsp;(1816-07-15)</span><span class="dro">D8760/F/FEP/5/35</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f35" target="_blank"><i class="fa fa-external-link"></i></a>

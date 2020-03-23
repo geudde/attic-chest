@@ -1,5 +1,6 @@
 ---
 title: 'Petition of Aaron Harebrains'
+media_order: petition.jpg
 taxonomy:
     category:
         - docs

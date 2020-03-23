@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Mr Elliott</div>
+
 When darkly rose the louring morn,  
 Tall waved the thickly-ripening corn,  
 By Soignies’ Wood, as yet untorn  

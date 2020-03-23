@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Communicated by Miss Flaxman</div>
+
 <span class="title">One way of raising the wind</span>
 
 Captain Peale of Antigua, black’d his face and sold himself for a negro!  
@@ -13,6 +15,8 @@ Captain Peale of Antigua, black’d his face and sold himself for a negro!
 Then wash’d the soot off, and escap’d with the money.
 
 ---
+
+<div class="author">Sir J. Barrington</div>
 
 A half-hearted sweep, sans stockings, hat or shoes,  
 Caught by the fragrance of spring-garden stews,  

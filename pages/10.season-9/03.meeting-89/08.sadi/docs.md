@@ -1,5 +1,6 @@
 ---
 title: 'Persian Verses from Sadi'
+media_order: sadi.jpg
 taxonomy:
     category:
         - docs

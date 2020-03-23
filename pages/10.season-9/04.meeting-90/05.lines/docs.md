@@ -1,5 +1,6 @@
 ---
 title: '500 Lines'
+media_order: lines.jpg
 taxonomy:
     category:
         - docs
@@ -9,4 +10,4 @@ visible: false
 
 <span class="title">500 Lines Reward</span>
 
-![petition](lines.jpg?resize=500)
+![lines](lines.jpg?resize=500)

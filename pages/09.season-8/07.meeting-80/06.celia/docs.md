@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Mr Elliott</div>
+
 > Amo te solo, te solo amai;  
 > Tu fosti il primo, tu pur sarai,  
 > L’ultimo ogetto che adorero

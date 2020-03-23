@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Mr Elliott</div>
+
 Love Lane  
 near Addle Street  
 May 4th 1816

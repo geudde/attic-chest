@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Porden</div>
+
 It is a long time, Mr Editor, since I have been able to snatch a few moments to write to you, and when I remember the presumptuous tone of my former epistles, it only augments my deep feeling of self-humiliation. Yet this letter is a duty, and however painful I will perform it. I feel it due to the world to undeceive it, if indeed I have ever deceived any but myself, and it is due to my own character, that I should vindicate myself from a charge but too likely to be brought against me, that of being one of those impostors who endeavour to enrich themselves by the credulity of others.
 
 Wrapt in the study of science, and above all attracted by the wonderful effects and brilliant phenomena of electricity, I attributed its operations to the world of mind, and elate with my fancied discovery applied to Lord Aircastle, long celebrated as the patron of science. Had I fallen into the hands of a person of more knowledge and stronger sense, I might possibly have been earlier roused from my dream, but his credulity and bounty were equally fatal to me, and by placing me in so conspicuous a situation as that of Positive House, have consigned me to public and permanent ridicule.  

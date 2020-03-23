@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Vardill</div>
+
 <span class="title">Fourth Day’s Sale, May 21st</span>
 
 <table>

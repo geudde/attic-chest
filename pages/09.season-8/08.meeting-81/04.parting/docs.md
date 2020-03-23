@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Mr Hayley</div>
+
 Gentle Friends, whose sweet songs have enlivened by cell,  
 Are you come but to bid your old Hermit farewell?  
 Yet you must not depart from a health-breathing shore,  
