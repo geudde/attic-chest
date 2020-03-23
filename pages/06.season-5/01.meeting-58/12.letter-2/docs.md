@@ -18,7 +18,7 @@ This, sir, suggested to certain ladies the idea of forming a Society of Vestals 
 
 <span class="title">List of the Ladies who now form the Party as well as a slight sketch of their plan.</span>
 
-Each lady brings her fortune whether large or small to the general fund. When she quits the community she withdraws one half which decrease of property will serve as a touchstone upon which she will prove the good faith and disinterestedness of the <span data-tippy="illegible" class="red">[???]</span>.
+Each lady brings her fortune whether large or small to the general fund. When she quits the community she withdraws one half which decrease of property will serve as a touchstone upon which she will prove the good faith and disinterestedness of the leaver.
 
 The full liberty of visiting and receiving visitors.  
 

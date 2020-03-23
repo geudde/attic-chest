@@ -30,7 +30,7 @@ When up a lawyer rose!
 &emsp;He lodg’d him in a spacious place:  
 &emsp;That it might wear a holy trace  
 He call’d the spot “The Temple”:  
-&emsp;And rather than a <span data-tippy="Illegible" class="red">[???]</span> for sign,  
+&emsp;And rather than a wolf for sign,  
 &emsp;Plac’d on the door a lamb divine [^2]  
 As of his trade a sample.  
   

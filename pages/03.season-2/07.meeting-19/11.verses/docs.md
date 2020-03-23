@@ -33,7 +33,7 @@ To chase the deer with hound and horn,
 While you regardless of my pain  
 &emsp;Benumbed with cold, with hunger dying  
 Regardless of sagacious Jane  
-&emsp;And prattling Charles for <span data-tippy="Illegible" class="red">[???]</span> crying  
+&emsp;And prattling Charles for pity crying  
 Forgetful too, that lazy maids  
 &emsp;Are self-condemned to wear the willow  
 You sleep and snore as if your heads  

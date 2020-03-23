@@ -45,7 +45,7 @@ With heavenly radiance bursts upon their eyes,
 At length it has attained the happy goal,  
 &emsp;In purest bliss eternally to dwell.”  
   
-“Condemned to <span data-tippy="Illegible" class="red">[???]</span> my life in lingering pain,  
+“Condemned to waste my life in lingering pain,  
 &emsp;Condemned to see my loved companion weep,  
 To heal your wounds, or burst my <span data-tippy="galling" class="green">mortal</span> chain  
 &emsp;I should have welcomed an eternal sleep.”  

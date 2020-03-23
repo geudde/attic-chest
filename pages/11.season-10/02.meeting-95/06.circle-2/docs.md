@@ -14,7 +14,7 @@ Mr. Philip Mordaunt and his brother James were the sons of a wealthy country gen
   
 *“Why should they take the trouble of fitting themselves for any? After all, there was nothing like being an independent English Country Gentleman.”*
   
-His three daughters had the same kind of sentiments addressed to them — “*His* girls would hardly give their hands to a *military coxcomb*, a *knave of a lawyer*, A *pedant of a church man*.” <span data-tippy="illegible" class="red">[???]</span> — “No — he hoped to see them married to the only order to whom no imputation could attach, that of *the English Country Gentry.”  
+His three daughters had the same kind of sentiments addressed to them — “*His* girls would hardly give their hands to a *military coxcomb*, a *knave of a lawyer*, A *pedant of a church man*.” &c. &c. “No — he hoped to see them married to the only order to whom no imputation could attach, that of *the English Country Gentry.”  
   
 The young Ladies a little dissented from this opinion. Miss Mordaunt could not see any reason why the *military* were not to be full as much respected — Men who ventured their lives for the protection of the Country, and on whose exertions the safety of the gentry themselves, greatly depended. — And in Major Sydney, who frequently visited in the neighborhood, *she* saw the first of military men.  
   

@@ -35,7 +35,7 @@ Alas! I find, as Quixote found
 Castles are levelled to the ground  
 While inns, and dear ones too, abound  
 So, for I scorn all false pretences  
-I’ll print my <span data-tippy="illegible" class="red">[???]</span> to pay expenses  
+I’ll print my tour to pay expenses  
 The Muse — oh how shall I declare  
 Her form or features — eyes or hair —   
 My heart, my head, her fire has warmed  
@@ -173,7 +173,7 @@ Secure that none will seek you there.
 
 Hail happy England! oh once more  
 With what delight I tread thy shore.  
-Avaunt then uncouth <span data-tippy="illegible" class="red">[???]</span> strains  
+Avaunt these uncouth scrannel strains  
 A rhyme to loose my soul disdains,  
 Such novel warmth my fancy fires  
 Methinks the Muse again inspires,  
