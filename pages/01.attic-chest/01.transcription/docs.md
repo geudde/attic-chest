@@ -16,7 +16,7 @@ The Attic Chest contributions exhibit marked irregularity of spelling, capitaliz
 
 **Punctuation:** Logical punctuation was of minor concern to most Attic Chest contributors, as evinced by the plethora of redundant commas and dashes. Quotation marks are often used to indicate direct speech, but in a manner unfamiliar to a modern reader. An attempt has been made to standardize such punctuation in accordance with modern practice.
 
-**Abbreviation:** Contributors were consistent in their preference for `tho’` and `thro’` as abbreviations that, presumably, facilitated speedy writing. The reasons for wide adoption of abbreviations such as `glanc’d` or `gaz’d` are less clear. It is possible that this use was intended to remove ambiguity in the scansion of poetry but, without a closer study of reading conventions of the period, it is difficult to reach a conclusion. Consequently these abbreviations have been preserved.
+**Abbreviation:** Contributors were consistent in their preference for `tho’` and `thro’` as abbreviations that, presumably, facilitated speedy writing. The reasons for wide adoption of abbreviations such as `pow’r` or `gaz’d` are less clear. It is possible that this use was intended to remove ambiguity in intonation. Consequently such abbreviations have been preserved.
 
 **Annotations:** Some contributions are annotated in pencil, usually in William Porden’s hand. Examples of such annotations are sequential numbering and provisional titles. Notes that add significant information have been formatted in an orange sans-serif typeface, thus: 
 
