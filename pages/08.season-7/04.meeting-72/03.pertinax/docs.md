@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Porden</div>
+
 Positive House
 
 What will you say, Mr Editor, when I tell you that I have really been too much engaged to give you an account of our play till now, but I suppose Electromagus has told you all he thinks fit on the subject and you have imagination enough to heighten his sober colouring. Really it was a chef d’œuvre. I had a considerable share of the scene painting, and I assure you it was much appreciated, and the blue light was admirably managed by a very simple process, the surrounding all the stagelights with a globe of blue glass; and this was so contrived that where the lamps were seen, the colour of the glass appeared the effect rather than the cause. Our heroine Rodelinda dressed herself to great advantage, and really appeared lovely, but when I saw her complexion changed to such a livid hue, I did not wonder at Misander’s inconstancy, nor can I say that I thought Lady Olivia over-charming — indeed, a brighter luminary has eclipsed her in my eyes, but more of this hereafter. Mrs Bustleton was quite majestic in Aspasia, and of course I was obliged to pay her some compliments at the expense of he Athenian namesake. As for the gentlemen, we were all admirable, and I have the vanity to believe I was not the worst among them.  

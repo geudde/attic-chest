@@ -1138,35 +1138,32 @@ tntsearch:
 <span class="meeting">No. 72&emsp;(1815-03-08)</span><span class="dro">D8760/F/FEP/5/28</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f28" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
-<span class="missing">MISSING</span> <span data-tippy="List of acknowledgements missing. Tentative attributions." class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
-
-[Letter from Electromagus](../../season-7/meeting-72/electromagus) → <span class="grey">Miss Porden</span>  
-[Letter from Sir Pertinax Townly](../../season-7/meeting-72/pertinax) → <span class="grey">&ensp;?</span>  
-[Le Coeur Fidel](../../season-7/meeting-72/coeur) → <span class="alias">(T.H.)</span>   
-[Translation Attempted](../../season-7/meeting-72/translation) → <span class="alias">(S.P. Jr)</span>  
-[Address from Philemon Beauclerc](../../season-7/meeting-72/address) → <span class="grey">&ensp;?</span>  
-[To Olivia](../../season-7/meeting-72/olivia) → <span class="grey">Miss Vardill</span>  
-[The Glass of Grog](../../season-7/meeting-72/grog) → <span class="grey">&ensp;?</span>  
-[The Philosopher at the Fair](../../season-7/meeting-72/philosopher) → <span class="grey">&ensp;?</span>  
+[Letter from Electromagus](../../season-7/meeting-72/electromagus) → <span class="name">Miss Porden</span>  
+[Letter from Sir Pertinax Townly](../../season-7/meeting-72/pertinax) → <span class="name">Miss Porden</span>  
+[Le Coeur Fidel](../../season-7/meeting-72/coeur) → <span class="name">Miss Flaxman</span> <span class="alias">(T.H.)</span>   
+[Translation Attempted](../../season-7/meeting-72/translation) → <span class="name">Miss Richardson</span> <span class="alias">(S.P. Jr)</span>  
+[Address from Philemon Beauclerc](../../season-7/meeting-72/address) → <span class="name">Miss Vardill</span>  
+[To Olivia](../../season-7/meeting-72/olivia) → <span class="name">Miss Vardill</span>  
+[The Glass of Grog](../../season-7/meeting-72/grog) → <span class="name">Mr Elliott</span>  
+[The Philosopher at the Fair](../../season-7/meeting-72/philosopher) → <span class="name">Miss Porden</span>   
+<span class="grey">The Lunatics: a Drama in Three Acts → Miss Vardill, Mr Elliott, Miss Porden</span>
 
 <div class="bottom">
 <span class="meeting">No. 73&emsp;(1815-03-22)</span><span class="dro">D8760/F/FEP/5/29</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f29" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
-<span class="missing">MISSING</span> <span data-tippy="List of acknowledgements missing. Tentative attributions." class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
-
-[Translation of a Hebrew Valentine](../../season-7/meeting-73/erminia) → <span class="alias">(Erminia)</span>  
-[A Substitute for Nonsense](../../season-7/meeting-73/nonsense) → <span class="grey">&ensp;?</span>  
-[A Hebrew Valentine](../../season-7/meeting-73/hebrew) → <span class="grey">&ensp;?</span>  
-[Translation from the Hebrew](../../season-7/meeting-73/jessica) → <span class="alias">(Jessica)</span>  
-[A Hebrew Song](../../season-7/meeting-73/song) → <span class="grey">&ensp;?</span>  
-[Translation by Rachel Periera](../../season-7/meeting-73/rachel) → <span class="grey">&ensp;?</span>  
-[Letter from Electromagus](../../season-7/meeting-73/electromagus) → <span class="grey">&ensp;?</span>  
-[Letter from Pertinax Townly](../../season-7/meeting-73/pertinax) → <span class="grey">&ensp;?</span>  
-[The Patron](../../season-7/meeting-73/patron) → <span class="grey">&ensp;?</span>  
-[A Lesson for Lovers](../../season-7/meeting-73/lovers) → <span class="grey">&ensp;?</span>  
-[The Fifth Brother’s Tale](../../season-7/meeting-73/brother-5) → <span class="grey">Miss Vardill</grey>  
-[Lady Olivia Gossamer’s Prize Essay](../../season-7/meeting-73/olivia) → <span class="grey">&ensp;?</span>  
+[Translation of a Hebrew Valentine](../../season-7/meeting-73/erminia) → <span class="name">Miss Vardill</span> <span class="alias">(Erminia)</span>  
+[A Substitute for Nonsense](../../season-7/meeting-73/nonsense) → <span class="name">Miss Flaxman</span>  
+[A Hebrew Valentine](../../season-7/meeting-73/hebrew) → <span class="name">Miss Vardill</span>  
+[Translation from the Hebrew](../../season-7/meeting-73/jessica) → <span class="name">Miss Flaxman</span> <span class="alias">(Jessica)</span>  
+[A Hebrew Song Paraphrased](../../season-7/meeting-73/song) → <span class="name">Miss Vardill</span>  
+[Translation by Rachel Periera](../../season-7/meeting-73/rachel) → <span class="name">Miss Vardill</span>  
+[Letter from Electromagus](../../season-7/meeting-73/electromagus) → <span class="name">Miss Porden</span>  
+[Letter from Pertinax Townly](../../season-7/meeting-73/pertinax) → <span class="name">Miss Porden</span>  
+[The Patron](../../season-7/meeting-73/patron) → <span class="name">com. Mrs Staveley</span>  
+[A Lesson for Lovers](../../season-7/meeting-73/lovers) → <span class="name">Miss Vardill</span>  
+[The Fifth Brother’s Tale](../../season-7/meeting-73/brother-5) → <span class="name">Miss Vardill</grey>  
+[Lady Olivia Gossamer’s Prize Essay](../../season-7/meeting-73/olivia) → <span class="name">Miss Vardill</span>  
 
 <div class="bottom">
 <span class="meeting">No. 74&emsp;(1815-12-06)</span><span class="dro">D8760/F/FEP/5/30</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f30" target="_blank"><i class="fa fa-external-link"></i></a>
@@ -1332,7 +1329,7 @@ tntsearch:
 [Sales by Auction](../../season-8/meeting-84/auction) → <span class="name">Miss Vardill</span>  
 [Letter from Pertinax Townly](../../season-8/meeting-84/pertinax) → <span class="name">Miss Vardill</span>  
 [An Attic Bard to His Bride](../../season-8/meeting-84/bread) → <span class="name">Miss Vardill</span>  
-[Fourth Day’s Sale](../../season-8/meeting-84/sale) → <span class="grey">Miss Vardill</span>  
+[Fourth Day’s Sale](../../season-8/meeting-84/sale) → <span class="name">Miss Vardill</span>  
 [A Translation from the Persian](../../season-8/meeting-84/persian) → <span class="name">Miss Vardill</span>  
 [Gleanings](../../season-8/meeting-84/gleanings) → <span class="name">Miss Vardill</span>  
 [A Morean Tale](../../season-8/meeting-84/morean) → <span class="name">Mr Elliott</span>  
@@ -1342,11 +1339,9 @@ tntsearch:
 <div class="bottom">
 <span class="meeting">No. 85&emsp;(1816-07-15)</span><span class="dro">D8760/F/FEP/5/35</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f35" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
-
-<span class="missing">MISSING</span> <span data-tippy="Attributions for first half of Meeting No. 85 missing or not scanned" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
   
 [Sweet Hope](../../season-8/meeting-85/hope) → <span class="grey">&ensp;?</span>  
-[A Felpham Song](../../season-8/meeting-85/felpham) → <span class="grey">&ensp;?</span>  
+[A Felpham Song](../../season-8/meeting-85/felpham) → <span class="name">Mr Hayley</span>  
 [The Reading Baker](../../season-8/meeting-85/baker) → <span class="name">Miss Porden</span>  
 [From Prosai-Poetico to Beauclerc](../../season-8/meeting-85/prosai) → <span class="name">Miss Vardill</span>  
 [The Thirteenth of June](../../season-8/meeting-85/june) → <span class="name">Miss Vardill</span>  
@@ -1453,7 +1448,7 @@ tntsearch:
 </div>
 
 [The Festival of Nauruz](../../season-9/meeting-89/nauruz) → <span class="name">Miss Vardill</span>  
-[Enigma: The Letter H](../../season-9/meeting-89/enigma) → <span class="name">Miss Fanshaw com. Mrs Richardson</span>  
+[Enigma: The Letter H](../../season-9/meeting-89/enigma) → Miss Fanshaw → <span class="name">com. Mrs Richardson</span>  
 [Lines for a Lady’s Jewel Box](../../season-9/meeting-89/jewel) → <span class="name">Miss Flaxman</span>  
 [Lines in the Character of Lorenzo di Medici](../../season-9/meeting-89/lorenzo) → Mr Hayley → <span class="name">com. Mrs Flaxman</span>  
 [Lavinia to Eliza Letter 3](../../season-9/meeting-89/lavinia-3) → <span class="name">Miss Porden</span>  
@@ -1469,8 +1464,6 @@ tntsearch:
 <div class="bottom">
 <span class="meeting">No. 90&emsp;(1817-04-29)</span><span class="dro">D8760/F/FEP/5/38</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f38" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
-
-<span class="missing">MISSING</span> <span data-tippy="Empty DRO directory" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>
 
 [Mr Solve-Query’s Papyrostatic Experiment](../../season-9/meeting-90/experiment) → <span class="name">Miss Appleton</span>  
 [On Captain Harvey of Battle](../../season-9/meeting-90/harvey) → <span class="name">com. Mrs Flaxman</span>  

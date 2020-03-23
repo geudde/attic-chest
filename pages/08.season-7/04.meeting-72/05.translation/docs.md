@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Richardson</div>
+
 M.S. Translation attempted from the Italian of Carlo Maggi, by S.P. Junr
 
 When iron grief the bosom rends  

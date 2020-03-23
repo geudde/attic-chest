@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Porden</div>
+
 &emsp;Upon the vast Pacific’s tranquil tide  
 The last faint glow of evening crimson died  
 Yet still an hundred cannon blaze and roar  

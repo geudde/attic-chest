@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Flaxman</div>
+
 Good sage Philemon thou hast read  
 Huge tomes in languages call’d dead,  
 And therefore ’tis, you overlook  

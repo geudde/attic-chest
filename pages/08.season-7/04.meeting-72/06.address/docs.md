@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Vardill</div> 
+
 Positive House  
 March 4th 15
 

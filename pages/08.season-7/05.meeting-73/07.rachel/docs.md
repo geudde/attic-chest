@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Vardill</div>
+
 Master,  
   
 I have taken manifold pains to decipher the fragment sent thee by Pertinax Townly (whom I have grievous reason to know) and falsely ascribed to our Rabi Jacob Rodriguez Moreira, who never published any book in Portugal except our Kehilath or Vocabulary. With the help of my daughter Rachel I send thee a true version of this forgery which is full of vowels unknown to our pure and ancient tongue, and I ask no payment except a direction to Positive House, having sundry unredeemed securities in my hands. I shall be glad to serve thee in my way if thou hast any business at the Exchange for  

@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Mr Elliott</div> 
+
 <span class="title">A Parody “almost impromptu” made at the Dinner Table</span>
 
 1

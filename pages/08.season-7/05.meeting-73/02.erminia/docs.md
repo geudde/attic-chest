@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Vardill</div>
+
 > Translated from a Hebrew Valentine  
 > Address’d to Mr J----- otherwise S.P.T  
   

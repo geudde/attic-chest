@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Flaxman</div>
+
 <span class="title">Wanted immediately</span>
   
 A *word* for common use, as a substitute for *Nonsense*.  

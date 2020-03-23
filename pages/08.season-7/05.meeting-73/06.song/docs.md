@@ -6,6 +6,8 @@ taxonomy:
 visible: false
 ---
 
+<div class="author">Miss Vardill</div>
+
 > Paraphrased  
   
 Thy gaze and thy approach I shun,  
