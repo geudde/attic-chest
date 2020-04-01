@@ -16,7 +16,7 @@ The Attic Chest contributions exhibit marked irregularity of spelling, capitaliz
 
 **Punctuation:** Logical punctuation was of minor concern to most Attic Chest contributors, as evinced by the plethora of redundant commas and dashes. Quotation marks are used to indicate direct speech, but in a manner unfamiliar to a modern reader. An attempt has been made to standardize such punctuation in accordance with modern practice.
 
-**Abbreviation:** Contributors were consistent in their preference for `tho’` and `thro’` as abbreviations that, presumably, facilitated handwriting. The reasons for wide adoption of abbreviations such as `pow’r` or `gaz’d` are less clear. Perhaps this use was intended to remove ambiguity in intonation. Such abbreviations have been preserved.
+**Abbreviation:** Contributors were consistent in their preference for `tho’` and `thro’` as abbreviations that, presumably, facilitated handwriting. The reasons for wide adoption of abbreviations such as `pow’r` or `ling'ring` are less clear. Perhaps this use was intended to remove ambiguity in intonation. Such abbreviations have been preserved.
 
 **Annotations:** Many of the early contributions are annotated in pencil, usually in William Porden’s hand. Examples of such annotations are sequential numbering and provisional titles. They are indicated by an orange sans-serif typeface, thus: 
 
@@ -45,7 +45,9 @@ Fading ink and the passage of centuries have compounded such problems. Every eff
 
 > Illegible text is indicated by question marks. Hover over <span data-tippy="illegible text" class="red">[???]</span> to see comment. 
 
-**Authorship:** At the conclusion of each season the editors of the Attic Chest invited contributors to acknowledge their anonymous works, and such acknowledgements were compiled into lists of contributions. Unfortunately these lists exhibit major inconsistencies. For example, Eleanor Anne Porden is often identified as the author of pieces written in a recognisably different hand. The names of acknowledged authors have been added as they appear in the Gell Collection.
+**Authorship:** At the conclusion of each season the editors of the Attic Chest invited contributors to acknowledge their anonymous works, and such acknowledgements were compiled into lists of contributions. Unfortunately these lists exhibit major inconsistencies. For example, Eleanor Anne Porden is often identified as the author of pieces written in a recognisably different hand. The names of acknowledged authors have been added as they appear in the Gell Collection. Where the attribution is in error, and the author can be reliably identified from handwriting, style, or internal evidence, this has been indicated thus:
+
+[Translation of Vive l’Amour](../../season-9/meeting-89/bibo) → Miss Porden <span class="alias">(Ignoramus Bibo)</span> → <span class="name">Miss Vardill</span> <span data-tippy="Attributed to EAP but handwriting that of AJV" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span> 
 
 **Fidelity to Original:** Some Attic Chest members formatted their contributions to imitate printed text or scribbled notes, or to disguise their handwriting; others added illustrations. With a few exceptions, no attempt has been made to reproduce such embellishments.
 
