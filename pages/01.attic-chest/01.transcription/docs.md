@@ -10,7 +10,7 @@ tntsearch:
 
 The Attic Chest contributions exhibit marked irregularity of spelling, capitalization, and punctuation. Any attempt to reproduce these inconsistencies would render the transcriptions unreadable. Content has been edited in accordance with the following guidelines.
 
-**Spelling:** Wherever practical, variant spellings have been replaced with modern equivalents, even where authors have shown a preference for spellings that emphasize rhyme, e.g., soul → controul or loud → croud. Spelling now considered American (e.g. favorite, humor) has been preserved.
+**Spelling:** Wherever practical, variant spellings have been replaced with modern equivalents, even where authors have shown a preference for spellings that emphasize rhyme, e.g., `soul` → `controul` or `loud` → `croud`. Spelling now considered American (e.g. `favorite`, `humor`) has been preserved.
 
 **Capitalization:** Attic Chest contributors were prolific but erratic in their capitalization. The same word can be found capitalized in one line and not in another. Where consistent capitalization is used for emphasis, this has been retained. Otherwise, capitalization has been modified to reflect modern usage. 
 
@@ -35,7 +35,7 @@ The Attic Chest contributions exhibit marked irregularity of spelling, capitaliz
 
 Contributions not preserved in the Gell Collection are coloured grey in the list of authors:
 
-> <span class="grey">Sonnet to a Friend → Mrs Maxwell</span>
+> <span class="grey">A Description of Monkey Island → Mr Porden</span>
 
 **Illegibility:** The editors of the Attic Chest were often troubled by illegibility, as noted by William Porden’s editorial comment at the 28 April 1813 meeting:  
 
@@ -52,3 +52,5 @@ Fading ink and the passage of centuries have compounded such problems. Every eff
 **Fidelity to Original:** Some Attic Chest members formatted their contributions to imitate printed text or scribbled notes, or to disguise their handwriting; others added illustrations. With a few exceptions, no attempt has been made to reproduce such embellishments.
 
 **Collation:** Comments encouraging the use of standard paper sizes to facilitate sewing of contributions into fascicles indicate that the Pordens collated the contributions soon after each meeting, to be placed ‘on the table’ for perusal by attending members. However, the ordering of such collations is often at variance with both the editorial comments and the end-of-season acknowledgements. Many of the longer serialized poems and lectures were removed in their entirety after the acknowledgement lists were compiled. Such missing contributions are indicated by grey text.
+
+> <span class="grey">The Sylphiad Canto 1st → Mr Vignoles</span> 
