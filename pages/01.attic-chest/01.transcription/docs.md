@@ -16,7 +16,7 @@ The Attic Chest contributions exhibit marked irregularity of spelling, capitaliz
 
 **Punctuation:** Logical punctuation was of minor concern to most Attic Chest contributors, as evinced by the plethora of redundant commas and dashes. Quotation marks are used to indicate direct speech, but in a manner unfamiliar to a modern reader. An attempt has been made to standardize such punctuation in accordance with modern practice.
 
-**Abbreviation:** Contributors were consistent in their preference for `tho’` and `thro’` as abbreviations that, presumably, facilitated handwriting. The reasons for wide adoption of abbreviations such as `pow’r` or <pre>ling'ring</pre> are less clear. Perhaps this use was intended to remove ambiguity in intonation. Such abbreviations have been preserved.
+**Abbreviation:** Contributors were consistent in their preference for `tho’` and `thro’` as abbreviations that, presumably, facilitated handwriting. The reasons for wide adoption of abbreviations such as `pow’r` or `ling'ring` are less clear. Perhaps this use was intended to remove ambiguity in intonation. Such abbreviations have been preserved.
 
 **Annotations:** Many of the early contributions are annotated in pencil, usually in William Porden’s hand. Examples of such annotations are sequential numbering and provisional titles. They are indicated by an orange sans-serif typeface, thus: 
 
