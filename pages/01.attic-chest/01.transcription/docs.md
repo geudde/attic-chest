@@ -10,7 +10,7 @@ tntsearch:
 
 The Attic Chest contributions exhibit marked irregularity of spelling, capitalization, and punctuation. Any attempt to reproduce these inconsistencies would render the transcriptions unreadable. Content has been edited in accordance with the following guidelines.
 
-**Spelling:** Wherever practical, variant spellings have been replaced with modern equivalents, even where authors have shown a preference for spellings that emphasize rhyme, e.g., ‘soul → controul’ or ‘loud → croud’. Spelling now considered American (e.g. ‘favorite’, ‘humor’) has been preserved.
+**Spelling:** Wherever practical, variant spellings have been replaced with modern equivalents, even where authors have shown a preference for spellings that emphasize rhyme, e.g., soul → controul or loud → croud. Spelling now considered American (e.g. favorite, humor) has been preserved.
 
 **Capitalization:** Attic Chest contributors were prolific but erratic in their capitalization. The same word can be found capitalized in one line and not in another. Where consistent capitalization is used for emphasis, this has been retained. Otherwise, capitalization has been modified to reflect modern usage. 
 
@@ -45,9 +45,9 @@ Fading ink and the passage of centuries have compounded such problems. Every eff
 
 > Illegible text is indicated by question marks. Hover over <span data-tippy="illegible text" class="red">[???]</span> to see comment. 
 
-**Authorship:** At the conclusion of each season the editors of the Attic Chest invited contributors to acknowledge their anonymous works, and such acknowledgements were compiled into lists of contributions. Unfortunately these lists exhibit major inconsistencies. For example, Eleanor Anne Porden is often identified as the author of pieces written in a recognisably different hand. The names of acknowledged authors have been added as they appear in the Gell Collection. Where the attribution is in error, and the author can be reliably identified from handwriting, style, or internal evidence, this has been indicated thus:
+**Authorship:** At the conclusion of each season the editors of the Attic Chest invited contributors to acknowledge their anonymous works, and such acknowledgements were compiled into lists of contributions. Unfortunately these lists exhibit major inconsistencies. For example, Eleanor Anne Porden is often identified as the author of pieces written in a recognisably different hand. The names of acknowledged authors have been added as they appear in the Gell Collection. Where the attribution is clearly mistaken, and the author can be readily identified from handwriting, style, or internal evidence, this has been indicated thus:
 
-[Translation of Vive l’Amour](../../season-9/meeting-89/bibo) → Miss Porden <span class="alias">(Ignoramus Bibo)</span> → <span class="name">Miss Vardill</span> <span data-tippy="Attributed to EAP but handwriting that of AJV" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span> 
+[Translation of Vive l’Amour](../../season-9/meeting-89/bibo) → Miss Porden → <span class="name">Miss Vardill</span> <span data-tippy="Attributed to EAP but handwriting that of AJV" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span> 
 
 **Fidelity to Original:** Some Attic Chest members formatted their contributions to imitate printed text or scribbled notes, or to disguise their handwriting; others added illustrations. With a few exceptions, no attempt has been made to reproduce such embellishments.
 
