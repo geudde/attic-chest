@@ -141,7 +141,7 @@ tntsearch:
 [The Festival of Nauruz](../../season-9/meeting-89/nauruz) → <span class="name">Miss Vardill</span>  
 [Persian Verses from Sadi](../../season-9/meeting-89/sadi) → <span class="name">Miss Vardill</span>  
 [Translation of Vive l’Amour](../../season-9/meeting-89/bibo) → Miss Porden → <span class="name">Miss Vardill</span> <span class="alias">(Ignoramus Bibo)</span> <span data-tippy="Attributed to EAP but handwriting that of AJV" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
-[Rosamond’s Chest](../../season-9/meeting-89/rosamond) → Mr Bayler → <span class="name">com. Miss Vardill</span>
+[Rosamond’s Chest](../../season-9/meeting-89/rosamond) → Mr Bayler → <span class="name">com. Miss Vardill</span>  
 [A Muse Found](../../season-9/meeting-90/muse) → <span class="name">Miss Vardill</span>  
 [500 Lines](../../season-9/meeting-90/lines) → <span class="name">Miss Vardill</span>  
 [The Novice of St Benedict Concluded](../../season-9/meeting-91/novice) → <span class="name">Miss Vardill</span>

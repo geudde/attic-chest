@@ -1258,7 +1258,7 @@ tntsearch:
 </div>
 
 [L’Acerbo No. 1](../../season-8/meeting-79/acerbo) → <span class="name">Miss Porden</span>  
-[The Englishman](../../season-8/meeting-79/englishman) → <span class="name">Mr Elliott/span>  
+[The Englishman](../../season-8/meeting-79/englishman) → <span class="name">Mr Elliott</span>  
 [Four Nations: The Swede](../../season-8/meeting-79/swede) → <span class="name">Miss Vardill</span>  
 [Letter from Pertinax Townly](../../season-8/meeting-79/pertinax) → <span class="name">Miss Porden</span>  
 [Letter from Atticus Scriblerus](../../season-8/meeting-79/atticus) → <span class="name">Miss Vardill</span>   
