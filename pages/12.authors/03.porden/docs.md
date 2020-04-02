@@ -227,5 +227,5 @@ S[Letter from Sir Pertinax Townly](../../season-6/meeting-68/pertinax) → <span
 [The Count’s Adventures at Calais](../../season-10/meeting-94/calais) → <span class="name">Miss Porden</span>  
 [Euphrosyne to Pomona](../../season-10/meeting-94/pomona) → <span class="name">Miss Porden</span>  
 [Riddle](../../season-10/meeting-94/enigma) → <span class="name">Miss Porden</span>  
-[The Wren a Manx Legend](../../season-10/meeting-94/wren) → <span class="name">Miss Porden</span>
+[The Wren a Manx Legend](../../season-10/meeting-94/wren) → <span class="name">Miss Porden</span>  
 <span class="grey">Hassan a Tale → Miss Porden</span>  
