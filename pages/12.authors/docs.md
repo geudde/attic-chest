@@ -103,8 +103,7 @@ tntsearch:
 </div>
 
 [The Jarvey](../../season-1/meeting-06/jarvey) → <span class="alias">(A Young Lady)</span>  
-[The Muses Vagaries No. 3](../../season-1/meeting-06/vagaries) →   
-[Constellation No. 1](../../season-1/meeting-06/constellation-1) → <span class="name">Miss Porden</span>  
+[The Muses Vagaries No. 3](../../season-1/meeting-06/vagaries) → <span class="grey">&ensp;?</span>    [Constellation No. 1](../../season-1/meeting-06/constellation-1) → <span class="name">Miss Porden</span>  
 
 <div class="bottom">
 <span class="meeting">No. 7&emsp;(1809-03-25)</span><span class="dro">D8760/F/FEP/5/3</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f3" target="_blank"><i class="fa fa-external-link"></i></a>
@@ -112,9 +111,8 @@ tntsearch:
 
 [The Age of Wonders](../../season-1/meeting-07/wonders) → <span class="name">Miss Porden</span>  
 [An Author’s address to His First Work](../../season-1/meeting-07/address) → <span class="name">Mr Parkinson</span>  
-[To a Pianoforte](../../season-1/meeting-07/pianoforte) →    
-[Anacreon Ode 23](../../season-1/meeting-07/anacreon-23) → <span class="name">Mrs Kay</span>  
-[My choice](../../season-1/meeting-07/my-choice) →  
+[To a Pianoforte](../../season-1/meeting-07/pianoforte) → <span class="grey">&ensp;?</span>    [Anacreon Ode 23](../../season-1/meeting-07/anacreon-23) → <span class="name">Mrs Kay</span>  
+[My choice](../../season-1/meeting-07/my-choice) <span class="grey">&ensp;?</span>    
 [The Rose](../../season-1/meeting-07/rose-1) → <span class="name">Mr Kilburn</span> <span class="alias">(Hassan)</span>  
 [The Bee from Anacreon](../../season-1/meeting-07/anacreon) → <span class="name">Mr Bond</span>  
 [Constellation No. 2](../../season-1/meeting-07/constellation-2) → <span class="name">Miss Porden</span>  
@@ -133,7 +131,7 @@ tntsearch:
 [The Chest of Eleanora](../../season-1/meeting-08/chest) → <span class="name">Miss Parkinson</span>  
 <span class="grey">The Fete de la Rose → Mrs. Hoole com. Mrs. Kay</span>  
 [Constellation No. 3](../../season-1/meeting-08/constellation-3) → <span class="name">Miss Porden</span>  
-<span class="grey">A Riddle on Buonaparte</span> →  
+<span class="grey">A Riddle on Buonaparte</span> <span class="grey">&ensp;?</span>    
 
 <div class="bottom">
 <span class="meeting">No. 9&emsp;(1809-05-02)</span><span class="dro">D8760/F/FEP/5/3</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f3" target="_blank"><i class="fa fa-external-link"></i></a>
@@ -350,7 +348,7 @@ tntsearch:
 [1810 to Incognita](../../season-2/meeting-22/incognita) → <span class="name">com. Miss Flaxman</span>  
 [Tancred to Thalestris](../../season-2/meeting-22/tancred) → <span class="name">Miss Flaxman</span>  
 [The Faults of Womankind](../../season-2/meeting-22/faults) → <span class="name">Miss Porden</span> <span class="alias">(Lysander)</span>  
-[Woman from the Greek](../../season-2/meeting-22/woman) →  
+[Woman from the Greek](../../season-2/meeting-22/woman) <span class="grey">&ensp;?</span>    
 
 <div class="bottom">
 <span class="meeting">No. 23&emsp;(1810-05-08)</span><span class="dro">D8760/F/FEP/5/8</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f8" target="_blank"><i class="fa fa-external-link"></i></a>
@@ -1454,7 +1452,7 @@ tntsearch:
 <span class="grey">Part of Allah ul Din → com. Mr Porden</span>  
 [Rectius Vives of Horace by Dr Brande](../../season-9/meeting-89/brande) → <span class="name">com. Miss Kramer</span>  
 [Persian Verses from Sadi](../../season-9/meeting-89/sadi) → <span class="name">Miss Vardill</span>  
-[Translation of Vive l’Amour](../../season-9/meeting-89/bibo) → Miss Porden <span class="alias">(Ignoramus Bibo)</span> → <span class="name">Miss Vardill</span> <span data-tippy="Attributed to EAP but handwriting that of AJV" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[Translation of Vive l’Amour](../../season-9/meeting-89/bibo) → Miss Porden → <span class="name">Miss Vardill</span> <span class="alias">(Ignoramus Bibo)</span> <span data-tippy="Attributed to EAP but handwriting that of AJV" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [The Norman Cap](../../season-9/meeting-89/cap) → <span class="name">Mr Johnson</span>  
 [Petition of Aaron Harebrains](../../season-9/meeting-89/petition) → <span class="name">Miss Appleton</span>  
 [Epistle from Monsieur Leon](../../season-9/meeting-89/leon) → <span class="name">Mr E. Elliott</span>  
