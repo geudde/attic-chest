@@ -85,7 +85,7 @@ tntsearch:
 [Music to the Fairy’s Song](../../season-7/meeting-71/music) → <span class="name">Miss Vardill</span>  
 [Address from Philemon Beauclerc](../../season-7/meeting-72/address) → <span class="name">Miss Vardill</span>  
 [To Olivia](../../season-7/meeting-72/olivia) → <span class="name">Miss Vardill</span>  
-<span class="grey">The Lunatics: a Drama in Three Acts → Miss Vardill, Mr Elliott, Miss Porden</span>
+<span class="grey">The Lunatics: a Drama in Three Acts → Miss Vardill, Mr Elliott, Miss Porden</span>  
 [Translation of a Hebrew Valentine](../../season-7/meeting-73/erminia) → <span class="name">Miss Vardill</span> <span class="alias">(Erminia)</span>  
 [A Hebrew Valentine](../../season-7/meeting-73/hebrew) → <span class="name">Miss Vardill</span>  
 [A Hebrew Song Paraphrased](../../season-7/meeting-73/song) → <span class="name">Miss Vardill</span>  
@@ -130,10 +130,9 @@ tntsearch:
 [Fourth Day’s Sale](../../season-8/meeting-84/sale) → <span class="name">Miss Vardill</span>  
 [A Translation from the Persian](../../season-8/meeting-84/persian) → <span class="name">Miss Vardill</span>  
 [Gleanings](../../season-8/meeting-84/gleanings) → <span class="name">Miss Vardill</span>  
-[Sonnet to a Tea Kettle](../../season-8/meeting-84/kettle) → <span class="name">Miss Vardill</span> <span class="alias">(Miss Stormont)</span> 
+[Sonnet to a Tea Kettle](../../season-8/meeting-84/kettle) → <span class="name">Miss Vardill</span> <span class="alias">(Miss Stormont)</span>  
 [From Prosai-Poetico to Beauclerc](../../season-8/meeting-85/prosai) → <span class="name">Miss Vardill</span>  
 [The Thirteenth of June](../../season-8/meeting-85/june) → <span class="name">Miss Vardill</span>  
-		<td>Miss Vardill</td> <td class="price">67</td>
 [Valentine with a Repeating Watch](../../season-9/meeting-87/watch) → <span class="name">Miss Vardill</span>  
 [The New Coin of Parnassus](../../season-9/meeting-87/coin) → <span class="name">Miss Vardill</span>  
 [The 1st Act of the Novice of St Benedict](../../season-9/meeting-87/novice) → <span class="name">Miss Vardill</span>  
@@ -141,7 +140,7 @@ tntsearch:
 <span class="grey">The Waterloo Button → Miss Vardill</span> <a href="https://vardill.org/relic.html"><i class="fa fa-external-link" aria-hidden="true"></i></a>  
 [The Festival of Nauruz](../../season-9/meeting-89/nauruz) → <span class="name">Miss Vardill</span>  
 [Persian Verses from Sadi](../../season-9/meeting-89/sadi) → <span class="name">Miss Vardill</span>  
-[Translation of Vive l’Amour](../../season-9/meeting-89/bibo) → Miss Porden <span class="alias">(Ignoramus Bibo)</span> → <span class="name">Miss Vardill</span> <span data-tippy="Attributed to EAP but handwriting that of AJV" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[Translation of Vive l’Amour](../../season-9/meeting-89/bibo) → Miss Porden → <span class="name">Miss Vardill</span> <span class="alias">(Ignoramus Bibo)</span> <span data-tippy="Attributed to EAP but handwriting that of AJV" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [Rosamond’s Chest](../../season-9/meeting-89/rosamond) → Mr Bayler → <span class="name">com. Miss Vardill</span>
 [A Muse Found](../../season-9/meeting-90/muse) → <span class="name">Miss Vardill</span>  
 [500 Lines](../../season-9/meeting-90/lines) → <span class="name">Miss Vardill</span>  
