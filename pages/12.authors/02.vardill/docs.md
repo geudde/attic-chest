@@ -8,8 +8,7 @@ tntsearch:
     index: false
 ---
 
-
-[“Said Hymen to Cupid”](../../../season-3/meeting-45/hymen) → <span class="name">Miss Vardill</span>  
+[“Said Hymen to Cupid”](../../season-3/meeting-45/hymen) → [Miss Vardill](../vardill)</span>  
 [The Meeting](../../season-4/meeting-46/meeting) → <span class="name">Miss Vardill</span>  
 [From Brighton to London](../../season-4/meeting-47/brighton) → <span class="name">Miss Vardill</span>  
 [The Frown and the Smile](../../season-4/meeting-48/frown) → <span class="name">Miss Vardill</span> <span class="alias">(Donald)</span>  
@@ -26,7 +25,7 @@ tntsearch:
 [Written with a Crow Quill](../../season-4/meeting-54/quill) → <span class="name">Miss Vardill</span>  
 [The Remonstrance](../../season-4/meeting-54/remonstrance) → Governor Franklin → <span class="name">Miss Vardill</span>  
 [To Amanda](../../season-4/meeting-55/amanda) → Miss Porden → <span class="name">Miss Vardill</span> <span class="alias">(Donald)</span> <span data-tippy="Attributed to EAP but handwriting that of AJV" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>   
-[To Donald](../../season-4/meeting-55/donald) → <span class="name">Miss Vardill</span> <span class="alias">(Amanda)</span>  
+[To Donald](../../season-4/meeting-55/donald) → <span class="name">Miss Vardill</span> <span class="alias">(Amanda)</span>
 [Letter from the West Indian](../../season-4/meeting-56/west) → <span class="name">Miss Vardill</span>  
 [Lady Flora](../../season-4/meeting-56/flora) → <span class="name">Miss Vardill</span>  
 [Old Joan](../../season-4/meeting-57/joan) → <span class="grey">Governor Franklin</span> → <span class="name">Miss Vardill</span>  
@@ -48,12 +47,12 @@ tntsearch:
 [The Farewell](../../season-5/meeting-62/farewell) → <span class="name">Miss Vardill</span>  
 [An ex-Members Lamentation](../../season-5/meeting-62/lamentation) → <span class="name">Miss Vardill</span> <span class="alias">(Atticus Scriblerus)</span>  
 [An Antient Fragment found in a Skeleton Case](../../season-5/meeting-63/fragment) → <span class="name">Miss Vardill</span>  
-[Jeffrey Julep to the Editor](../../season-5/meeting-63/letter) → <span class="grey">Miss Vardill</span>  
-[Kitty Maltravers to the Editor](../../season-5/meeting-64/kitty) → <span class="grey">Miss Vardill</span>  
-[Mr Julep’s Memorandums](../../season-5/meeting-64/julep) → <span class="grey">Miss Vardill</span>  
-[Fragment Found in the Hermitage](../../season-5/meeting-64/fragment) → <span class="grey">Miss Vardill</span>  
-[Dr Cardamom to the Editor](../../season-5/meeting-64/cardamom) → <span class="grey">Miss Vardill</span>  
-[The Night before the Battle](../../season-5/meeting-64/battle) → <span class="grey">Miss Vardill</span>  
+[Jeffrey Julep to the Editor](../../season-5/meeting-63/letter) → <span class="name">Miss Vardill</span>  
+[Kitty Maltravers to the Editor](../../season-5/meeting-64/kitty) → <span class="name">Miss Vardill</span>  
+[Mr Julep’s Memorandums](../../season-5/meeting-64/julep) → <span class="name">Miss Vardill</span>  
+[Fragment Found in the Hermitage](../../season-5/meeting-64/fragment) → <span class="name">Miss Vardill</span>  
+[Dr Cardamom to the Editor](../../season-5/meeting-64/cardamom) → <span class="name">Miss Vardill</span>  
+[The Night before the Battle](../../season-5/meeting-64/battle) → <span class="name">Miss Vardill</span>  
 [Kitty Maltravers to the Editor](../../season-5/meeting-65/kitty) → <span class="name">Miss Vardill</span>  
 [Letter from Lady Belle Bluemantle](../../season-5/meeting-65/belle) → <span class="name">Miss Vardill</span>  
 [Song for a Festive Occasion](../../season-5/meeting-65/song) → <span class="name">Miss Vardill</span>  
@@ -75,15 +74,25 @@ tntsearch:
 [The Third Brother’s Tale](../../season-7/meeting-70/brother-3) → <span class="name">Miss Vardill</span>  
 [Sir P. Townly](../../season-7/meeting-70/pertinax) → <span class="name">Miss Vardill</span>  
 [An Attempt](../../season-7/meeting-70/attempt) → <span class="name">Miss Vardill  
-<span class="grey">Mr Beauclerc → Miss Vardill</span>  
-<span class="grey">Sir P. Townly → Miss Vardill</span>  
-<span class="grey">Philemon to Olivia → Miss Vardill</span>  
-<span class="grey">Ridicule → Miss Vardill</span>  
-<span class="grey">The 4th Brother’s Tale → Miss Vardill</span>  
-<span class="grey">A New Epistle → Miss Vardill</span>  
-<span class="grey">Music to the Fairy’s Song → Miss Vardill</span>  
-[To Olivia](../../season-7/meeting-72/olivia) → <span class="grey">Miss Vardill</span>  
-[The Fifth Brother’s Tale](../../season-7/meeting-73/brother-5) → <span class="grey">Miss Vardill</grey>  
+[The Lovers Calendar for 1815](../../season-7/meeting-71/calendar) → Miss Flaxman → <span class="name">Miss Vardill</span> <span data-tippy="Attributed to Maria Flaxman but handwriting that of AJV" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[A Fairy’s Song](../../season-7/meeting-71/fairy) → <span class="name">Miss Vardill</span>  
+[Mr Beauclerc](../../season-7/meeting-71/beauclerc) → <span class="name">Miss Vardill</span>  
+[Sir P. Townly](../../season-7/meeting-71/townly) → <span class="name">Miss Vardill</span>  
+[Philemon to Olivia](../../season-7/meeting-71/philemon) → Miss Vardill → <span class="name">Miss Flaxman</span> <span data-tippy="Attributed to AJV but handwriting that of Maria Flaxman" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[Ridicule](../../season-7/meeting-71/ridicule) → <span class="name">Miss Vardill</span>  
+[The 4th Brother’s Tale](../../season-7/meeting-71/brother-4) → <span class="name">Miss Vardill</span>  
+[New Epistle](../../season-7/meeting-71/epistle) → <span class="name">Miss Vardill</span>  
+[Music to the Fairy’s Song](../../season-7/meeting-71/music) → <span class="name">Miss Vardill</span>  
+[Address from Philemon Beauclerc](../../season-7/meeting-72/address) → <span class="name">Miss Vardill</span>  
+[To Olivia](../../season-7/meeting-72/olivia) → <span class="name">Miss Vardill</span>  
+<span class="grey">The Lunatics: a Drama in Three Acts → Miss Vardill, Mr Elliott, Miss Porden</span>
+[Translation of a Hebrew Valentine](../../season-7/meeting-73/erminia) → <span class="name">Miss Vardill</span> <span class="alias">(Erminia)</span>  
+[A Hebrew Valentine](../../season-7/meeting-73/hebrew) → <span class="name">Miss Vardill</span>  
+[A Hebrew Song Paraphrased](../../season-7/meeting-73/song) → <span class="name">Miss Vardill</span>  
+[Translation by Rachel Periera](../../season-7/meeting-73/rachel) → <span class="name">Miss Vardill</span>  
+[A Lesson for Lovers](../../season-7/meeting-73/lovers) → <span class="name">Miss Vardill</span>  
+[The Fifth Brother’s Tale](../../season-7/meeting-73/brother-5) → <span class="name">Miss Vardill</grey>  
+[Lady Olivia Gossamer’s Prize Essay](../../season-7/meeting-73/olivia) → <span class="name">Miss Vardill</span>  
 [“The Phoenix sent Cards”](../../season-8/meeting-74/phoenix) → <span class="name">Miss Vardill</span>  
 [“When Norway’s Monarch knelt to gain”](../../season-8/meeting-74/pertinax#norway) → <span class="name">Miss Vardill</span>  
 [Letter from Prosai Poetico](../../season-8/meeting-74/prosai) → <span class="name">Miss Vardill  
@@ -95,21 +104,50 @@ tntsearch:
 [Plan for a Lottery](../../season-8/meeting-75/lottery) → <span class="name">Miss Vardill</span>  
 [The 7th Brother’s Tale](../../season-8/meeting-75/brother-7) → <span class="name">Miss Vardill</span>  
 [Closing Address from the Hermitage](../../season-8/meeting-75/hermitage) → <span class="name">Miss Vardill</span>  
+[Letter from Pertinax Townly](../../season-8/meeting-76/pertinax) → Miss Porden → <span class="name">Miss Vardill</span> <span data-tippy="Attributed to EAP but handwriting that of AJV" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[First Chapter of a Novel](../../season-8/meeting-76/novel) → <span class="name">Miss Vardill</span>    
+[Love in April](../../season-8/meeting-76/april) → <span class="name">Miss Vardill</span>    
+[Letter from Peregrine Project](../../season-8/meeting-77/peregrine) → <span class="name">Miss Vardill</span>  
+[The Wreath](../../season-8/meeting-77/wreath) → <span class="name">Miss Vardill</span>  
+[The Gamut of Faces](../../season-8/meeting-77/gamut) → <span class="name">Miss Vardill</span>  
+[Answer to the Wreath](../../season-8/meeting-78/wreath) → <span class="name">Miss Vardill</span>  
+[Acrostic to Miss Porden on Her Poem](../../season-8/meeting-78/acrostic) → <span class="name">com. Miss Vardill</span>  
+[Letter from Prosai-Poetico](../../season-8/meeting-78/poetico) → <span class="name">Miss Vardill</span>  
+[Four Nations: The Saxon](../../season-8/meeting-78/saxon) → <span class="name">Miss Vardill</span>  
+[Four Nations: The Swede](../../season-8/meeting-79/swede) → <span class="name">Miss Vardill</span>  
+[Letter from Atticus Scriblerus](../../season-8/meeting-79/atticus) → <span class="name">Miss Vardill</span>   
+[Letter from Pertinax Townly](../../season-8/meeting-80/pertinax) → <span class="name">Miss Vardill</span>  
+[Four Nations: The Jew](../../season-8/meeting-80/jew) → <span class="name">Miss Vardill</span>  
+[Letter with Sir Gilbert’s Heiress](../../season-8/meeting-81/heiress) → <span class="name">Miss Vardill</span>  
+[Letter from Philemon Beauclerc](../../season-8/meeting-82/beauclerc) → <span class="name">Miss Vardill</span>  
+[Address of the Bridegrooms](../../season-8/meeting-82/seal) → <span class="name">Miss Vardill</span>  
+[The Spectre’s Isle](../../season-8/meeting-82/spectre) → <span class="name">Miss Vardill</span>  
+[Edwin and Angelina](../../season-8/meeting-82/edwin) → <span class="name">Miss Vardill</span> <span class="alias">(Mrs Brush)</span>  
+[To EAP on Her Birthday](../../season-8/meeting-84/birthday) → <span class="name">Miss Vardill</span> <span class="alias">(Chronos)</span>  
+[Sales by Auction](../../season-8/meeting-84/auction) → <span class="name">Miss Vardill</span>  
+[Letter from Pertinax Townly](../../season-8/meeting-84/pertinax) → <span class="name">Miss Vardill</span>  
+[An Attic Bard to His Bride](../../season-8/meeting-84/bread) → <span class="name">Miss Vardill</span>  
+[Fourth Day’s Sale](../../season-8/meeting-84/sale) → <span class="name">Miss Vardill</span>  
+[A Translation from the Persian](../../season-8/meeting-84/persian) → <span class="name">Miss Vardill</span>  
+[Gleanings](../../season-8/meeting-84/gleanings) → <span class="name">Miss Vardill</span>  
+[Sonnet to a Tea Kettle](../../season-8/meeting-84/kettle) → <span class="name">Miss Vardill</span> <span class="alias">(Miss Stormont)</span> 
 [From Prosai-Poetico to Beauclerc](../../season-8/meeting-85/prosai) → <span class="name">Miss Vardill</span>  
 [The Thirteenth of June](../../season-8/meeting-85/june) → <span class="name">Miss Vardill</span>  
+		<td>Miss Vardill</td> <td class="price">67</td>
 [Valentine with a Repeating Watch](../../season-9/meeting-87/watch) → <span class="name">Miss Vardill</span>  
 [The New Coin of Parnassus](../../season-9/meeting-87/coin) → <span class="name">Miss Vardill</span>  
 [The 1st Act of the Novice of St Benedict](../../season-9/meeting-87/novice) → <span class="name">Miss Vardill</span>  
 [The Lost Muse](../../season-9/meeting-88/muse) → <span class="name">Miss Vardill</span>  
 <span class="grey">The Waterloo Button → Miss Vardill</span> <a href="https://vardill.org/relic.html"><i class="fa fa-external-link" aria-hidden="true"></i></a>  
 [The Festival of Nauruz](../../season-9/meeting-89/nauruz) → <span class="name">Miss Vardill</span>  
-<span class="grey">Persian Verses from Sadi → Miss Vardill</span>  
-<span class="grey">Rosamond’s Chest → Mr Bayler com. Miss Vardill</span>  
-<span class="grey">A Muse Found → Miss Vardill</span>  
-<span class="grey">500 Lines → Miss Vardill</span>  
-[The Novice of St Benedict Concluded](../../season-9/meeting-91/novice) → <span class="name">Miss Vardill</span>  
+[Persian Verses from Sadi](../../season-9/meeting-89/sadi) → <span class="name">Miss Vardill</span>  
+[Translation of Vive l’Amour](../../season-9/meeting-89/bibo) → Miss Porden <span class="alias">(Ignoramus Bibo)</span> → <span class="name">Miss Vardill</span> <span data-tippy="Attributed to EAP but handwriting that of AJV" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[Rosamond’s Chest](../../season-9/meeting-89/rosamond) → Mr Bayler → <span class="name">com. Miss Vardill</span>
+[A Muse Found](../../season-9/meeting-90/muse) → <span class="name">Miss Vardill</span>  
+[500 Lines](../../season-9/meeting-90/lines) → <span class="name">Miss Vardill</span>  
+[The Novice of St Benedict Concluded](../../season-9/meeting-91/novice) → <span class="name">Miss Vardill</span>
 [Speak English Pray!](../../season-9/meeting-92/english) → <span class="name">Miss Vardill</span>  
-<span class="grey">Atticus Scriblerus to Olivia → Miss Vardill</span>  
+[Atticus Scriblerus to Olivia](../../season-9/meeting-92/olivia) → <span class="name">Miss Vardill</span>  
 [King Edward and Fair Agnes](../../season-9/meeting-92/legend) → <span class="name">Miss Vardill</span>  
 [The pas trois](../../season-9/meeting-93/pas-trois) → <span class="name">Miss Vardill</span>  
 [Atticus to Rodelinda](../../season-9/meeting-93/atticus) → <span class="name">Miss Vardill</span>  
