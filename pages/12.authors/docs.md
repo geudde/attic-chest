@@ -110,7 +110,6 @@ tntsearch:
 <span class="meeting">No. 7&emsp;(1809-03-25)</span><span class="dro">D8760/F/FEP/5/3</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f3" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
-
 [The Age of Wonders](../../season-1/meeting-07/wonders) → <span class="name">Miss Porden</span>  
 [An Author’s address to His First Work](../../season-1/meeting-07/address) → <span class="name">Mr Parkinson</span>  
 [To a Pianoforte](../../season-1/meeting-07/pianoforte) →    
