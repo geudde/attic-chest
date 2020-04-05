@@ -11,7 +11,7 @@ visible: false
 1. [Editorial](editorial)  
 2. [Essay on Science](beauclerc)
 3. [To Zara](zara)
-4. [Valentine](Valentine)
+4. [Valentine](valentine)
 5. [Answer to the Wreath](wreath)
 6. [The Leyden Jar](leyden)
 7. [Acrostic to Miss Porden on Her Poem](acrostic)

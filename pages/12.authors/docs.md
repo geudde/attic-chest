@@ -924,7 +924,7 @@ tntsearch:
 [Letter from Miss Rebecca Nettletop](../../season-5/meeting-60/nettletop) → <span class="name">Mrs Flaxman</span>  
 [Letter from Miss Annabella Squib](../../season-5/meeting-60/squib) → <span class="name">Miss Flaxman</span>  
 [Gallus to the Society of Vestals](../../season-5/meeting-60/gallus) → <span class="name">Mr Vignoles</span>  
-[Capias Latitat to Miss Prudentia Quickset do.](../../season-5/meeting-60/capia) → <span class="name">Miss Porden</span>  
+[Capias Latitat to Miss Prudentia Quickset do.](../../season-5/meeting-60/capias) → <span class="name">Miss Porden</span>  
 [Allcourt Anyside to the Associated Spinsters do.](../../season-5/meeting-60/allcourt)  → <span class="name">Governor Franklin</span>  
 [Croesus Custody to the Editress](../../season-5/meeting-60/croesus) → <span class="name">Mr Elliott</span>  
 [Fredrick Ledger Scamper do.](../../season-5/meeting-60/scamper) → <span class="name">Mr Elliott</span>  
@@ -1189,14 +1189,14 @@ tntsearch:
 [Ditto: Chrysalis](../../season-8/meeting-75/riddle-2) → <span class="name">Miss Porden</span>  
 [Lines spoken in the character of Mr Coutts](../../season-8/meeting-75/impey) → <span class="name">Mr Impey com. Mrs Richardson</span>  
 [Words for Modinha No. 1](../../season-8/meeting-75/modinha-1) → <span class="name">Mr Elliott</span>  
-[Electromagus on light](../../season-8/meeting-75/electromagus) → <span class="name">Miss Porden</span>  
+[Electromagus on light](../../season-8/meeting-75/light) → <span class="name">Miss Porden</span>  
 [Sir P. Townly: The Summer House](../../season-8/meeting-75/pertinax) → <span class="name">Miss Porden</span>  
 [Sir P. Townly: The Flowers are Bright on Hill and Dale](../../season-8/meeting-75/pertinax) → <span class="name">Miss Porden</span> <span data-tippy="Included in previous item" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [Mr Beauclerc to the Editor](../../season-8/meeting-75/beauclerc) → <span class="name">Miss Vardill</span>  
 [Balance of Opinions on Women](../../season-8/meeting-75/procon) → <span class="name">Miss Vardill</span>  
 [Plan for a Lottery](../../season-8/meeting-75/lottery) → <span class="name">Miss Vardill</span>  
 [The 7th Brother’s Tale](../../season-8/meeting-75/brother-7) → <span class="name">Miss Vardill</span>  
-[Closing Address from the Hermitage](../../season-8/meeting-75/hermitage) → <span class="name">Miss Vardill</span>  
+[Closing Address from the Hermitage](../../season-8/meeting-75/address) → <span class="name">Miss Vardill</span>  
 [A Christmas Carol to Mince Pies](../../season-8/meeting-75/carol) → <span class="name">Elliott & Co. Pimlico</span>  
 [The Voltaic Battery](../../season-8/meeting-75/voltaic) → <span class="name">Miss Porden</span> 
 
@@ -1240,7 +1240,7 @@ tntsearch:
 
 [Essay on Science](../../season-8/meeting-78/beauclerc) → <span class="name">Mr Elliott</span>  
 [To Zara](../../season-8/meeting-78/zara) → <span class="name">Miss Porden</span>  
-[Valentine](../../season-8/meeting-78/Valentine) → <span class="name">Miss Porden</span>  
+[Valentine](../../season-8/meeting-78/valentine) → <span class="name">Miss Porden</span>  
 [Answer to the Wreath](../../season-8/meeting-78/wreath) → <span class="name">Miss Vardill</span>  
 [The Leyden Jar](../../season-8/meeting-78/leyden) → <span class="name">Miss Porden</span>  
 [Acrostic to Miss Porden on Her Poem](../../season-8/meeting-78/acrostic) → <span class="name">com. Miss Vardill</span>  
@@ -1262,7 +1262,7 @@ tntsearch:
 [Letter from Atticus Scriblerus](../../season-8/meeting-79/atticus) → <span class="name">Miss Vardill</span>   
 [English Words for Modinhas No. 3](../../season-8/meeting-79/modinha-3) → <span class="name">Mr E. Elliott</span>      
 [The Fairies’ Isle](../../season-8/meeting-79/isle) → <span class="name">Miss Porden</span>  
-[Laila: An Arabian Tale](../season-8/tales/laila) → <span class="name">Miss Porden</span> <span data-tippy="Filed under Tales" class="info"><i class="fa fa-link" aria-hidden="true"></i></span>
+[Laila: An Arabian Tale](../../season-8/tales/laila) → <span class="name">Miss Porden</span> <span data-tippy="Filed under Tales" class="info"><i class="fa fa-link" aria-hidden="true"></i></span>
 
 <div class="bottom">
 <span class="meeting">No. 80&emsp;(1816-03-27)</span><span class="dro">D8760/F/FEP/5/33</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f33" target="_blank"><i class="fa fa-external-link"></i></a>
@@ -1275,7 +1275,7 @@ tntsearch:
 [To Celia](../../season-8/meeting-80/celia) → <span class="name">Mr Elliott</span> <span  class="alias">(Hippolytus)</span>  
 [Four Nations: The Jew](../../season-8/meeting-80/jew) → <span class="name">Miss Vardill</span>  
 [The Aëronautiad](../../season-8/meeting-80/aeronautiad) → <span class="name">Mr Elliott</span> <span  class="alias">(Mrs Bustleton)</span>  
-[Khatoon: A Persian Tale](../season-8/tales/khatoon) → <span class="name">Miss Porden</span> <span data-tippy="Filed under Tales" class="info"><i class="fa fa-link" aria-hidden="true"></i></span>
+[Khatoon: A Persian Tale](../../season-8/tales/khatoon) → <span class="name">Miss Porden</span> <span data-tippy="Filed under Tales" class="info"><i class="fa fa-link" aria-hidden="true"></i></span>
 
 <div class="bottom">
 <span class="meeting">No. 81&emsp;(1816-04-24)</span><span class="dro">D8760/F/FEP/5/33</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f33" target="_blank"><i class="fa fa-external-link"></i></a>
@@ -1288,7 +1288,7 @@ tntsearch:
 [Farewell to Henrietta](../../season-8/meeting-81/farewell) → <span class="name">Miss Porden</span>  
 [Letter from Pertinax Townly](../../season-8/meeting-81/pertinax) → <span class="name">Miss Porden</span>  
 [Letter and Poem from Betty Brush](../../season-8/meeting-81/betty) → <span class="name">Mr E. Elliott</span>  
-[Komalda: An Indian Tale](../season-8/tales/komalda) → <span class="name">Miss Porden</span> <span data-tippy="Filed under Tales" class="info"><i class="fa fa-link" aria-hidden="true"></i></span>  
+[Komalda: An Indian Tale](../../season-8/tales/komalda) → <span class="name">Miss Porden</span> <span data-tippy="Filed under Tales" class="info"><i class="fa fa-link" aria-hidden="true"></i></span>  
 <span class="grey">Omnia vincit Honor! → com. Mrs Phillips</span>
 
 <div class="bottom">
@@ -1303,7 +1303,7 @@ tntsearch:
 [Letter and Poem from Mopsey](../../season-8/meeting-82/mopsey) → <span class="name">Mr Elliott</span>  
 [The Spectre’s Isle](../../season-8/meeting-82/spectre) → <span class="name">Miss Vardill</span>  
 [Edwin and Angelina](../../season-8/meeting-82/edwin) → <span class="name">Miss Vardill</span> <span class="alias">(Mrs Brush)</span>  
-[Telasco: An American Tale](../season-8/tales/telasco) → <span class="name">Miss Porden</span> <span data-tippy="Filed under Tales" class="info"><i class="fa fa-link" aria-hidden="true"></i></span>
+[Telasco: An American Tale](../../season-8/tales/telasco) → <span class="name">Miss Porden</span> <span data-tippy="Filed under Tales" class="info"><i class="fa fa-link" aria-hidden="true"></i></span>
 
 <div class="bottom">
 <span class="meeting">No. 83&emsp;(1816-05-22)</span><span class="dro">D8760/F/FEP/5/34</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f34" target="_blank"><i class="fa fa-external-link"></i></a>

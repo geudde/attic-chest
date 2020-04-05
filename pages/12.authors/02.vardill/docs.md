@@ -103,7 +103,7 @@ tntsearch:
 [Balance of Opinions on Women](../../season-8/meeting-75/procon) → <span class="name">Miss Vardill</span>  
 [Plan for a Lottery](../../season-8/meeting-75/lottery) → <span class="name">Miss Vardill</span>  
 [The 7th Brother’s Tale](../../season-8/meeting-75/brother-7) → <span class="name">Miss Vardill</span>  
-[Closing Address from the Hermitage](../../season-8/meeting-75/hermitage) → <span class="name">Miss Vardill</span>  
+[Closing Address from the Hermitage](../../season-8/meeting-75/address) → <span class="name">Miss Vardill</span>  
 [Letter from Pertinax Townly](../../season-8/meeting-76/pertinax) → Miss Porden → <span class="name">Miss Vardill</span> <span data-tippy="Attributed to EAP but handwriting that of AJV" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [First Chapter of a Novel](../../season-8/meeting-76/novel) → <span class="name">Miss Vardill</span>    
 [Love in April](../../season-8/meeting-76/april) → <span class="name">Miss Vardill</span>    

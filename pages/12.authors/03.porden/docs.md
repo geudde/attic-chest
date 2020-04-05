@@ -170,7 +170,7 @@ tntsearch:
 [The Guardian Spirit’s Address](../../season-5/meeting-58/guardian) → <span class="name">Miss Porden</span>  
 [Address, from the Spirit of the Attic Chest](../../season-5/meeting-58/address-4) → Miss Porden → <span class="name">Miss Vardill</span> <span data-tippy="Attributed to EAP but handwriting is that of AJV" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [Valentine to Eborina](../../season-5/meeting-59/eborina) → <span class="name">Miss Porden</span> <span class="alias">(Orlando)</span> 
-[Capias Latitat to Miss Prudentia Quickset do.](../../season-5/meeting-60/capia) → <span class="name">Miss Porden</span>  
+[Capias Latitat to Miss Prudentia Quickset do.](../../season-5/meeting-60/capias) → <span class="name">Miss Porden</span>  
 [To Miss Porden](../../season-5/meeting-60/porden) → <span class="name">Mrs Richardson</span> <span class="alias">(S.R.)</span>  
 [Letter from the Fair Advertiser](../../season-5/meeting-61/advertiser) → <span class="name">Miss Porden</span>  
 [Laura to Celia Epistle No. 1](../../season-5/meeting-61/laura) → <span class="name">Miss Porden</span>  
@@ -216,7 +216,7 @@ tntsearch:
 [Estrella: Mr Beauclerc’s Prize Essay](../../season-8/meeting-74/estrella) → <span class="name">Miss Porden</span>  
 [Riddle: Glass](../../season-8/meeting-75/riddle-1) → <span class="name">Miss Porden</span>  
 [Ditto: Chrysalis](../../season-8/meeting-75/riddle-2) → <span class="name">Miss Porden</span>  
-[Electromagus on light](../../season-8/meeting-75/electromagus) → <span class="name">Miss Porden</span>  
+[Electromagus on light](../../season-8/meeting-75/light) → <span class="name">Miss Porden</span>  
 [Sir P. Townly: The Summer House](../../season-8/meeting-75/pertinax) → <span class="name">Miss Porden</span>  
 [Sir P. Townly: The Flowers are Bright on Hill and Dale](../../season-8/meeting-75/pertinax) → <span class="name">Miss Porden</span> <span data-tippy="Included in previous item" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [The Voltaic Battery](../../season-8/meeting-75/voltaic) → <span class="name">Miss Porden</span> 
@@ -227,23 +227,23 @@ tntsearch:
 [To Maria](../../season-8/meeting-77/maria) → <span class="name">Miss Porden</span>  
 [Letter from Pertinax Townly](../../season-8/meeting-77/pertinax) → <span class="name">Miss Porden</span>  
 [To Zara](../../season-8/meeting-78/zara) → <span class="name">Miss Porden</span>  
-[Valentine](../../season-8/meeting-78/Valentine) → <span class="name">Miss Porden</span>  
+[Valentine](../../season-8/meeting-78/valentine) → <span class="name">Miss Porden</span>  
 [The Leyden Jar](../../season-8/meeting-78/leyden) → <span class="name">Miss Porden</span>  
 [Acrostic to Miss Porden on Her Poem](../../season-8/meeting-78/acrostic) → <span class="name">com. Miss Vardill</span>  
 [L’Acerbo No. 1](../../season-8/meeting-79/acerbo) → <span class="name">Miss Porden</span>  
 [Letter from Pertinax Townly](../../season-8/meeting-79/pertinax) → <span class="name">Miss Porden</span>  
 [The Fairies’ Isle](../../season-8/meeting-79/isle) → <span class="name">Miss Porden</span>  
-[Laila: An Arabian Tale](../season-8/tales/laila) → <span class="name">Miss Porden</span> <span data-tippy="Filed under Tales" class="info"><i class="fa fa-link" aria-hidden="true"></i></span>
+[Laila: An Arabian Tale](../../season-8/tales/laila) → <span class="name">Miss Porden</span> <span data-tippy="Filed under Tales" class="info"><i class="fa fa-link" aria-hidden="true"></i></span>
 [L’Acerbo No. 2](../../season-8/meeting-80/acerbo) → <span class="name">Miss Porden</span>  
 [Emma: A Ballad](../../season-8/meeting-80/emma) → <span class="name">Miss Porden</span>  
-[Khatoon: A Persian Tale](../season-8/tales/khatoon) → <span class="name">Miss Porden</span> <span data-tippy="Filed under Tales" class="info"><i class="fa fa-link" aria-hidden="true"></i></span>
+[Khatoon: A Persian Tale](../../season-8/tales/khatoon) → <span class="name">Miss Porden</span> <span data-tippy="Filed under Tales" class="info"><i class="fa fa-link" aria-hidden="true"></i></span>
 [L’Acerbo No. 3](../../season-8/meeting-81/acerbo) → <span class="name">Miss Porden</span>  
 [Farewell to Henrietta](../../season-8/meeting-81/farewell) → <span class="name">Miss Porden</span>  
 [Letter from Pertinax Townly](../../season-8/meeting-81/pertinax) → <span class="name">Miss Porden</span>  
-[Komalda: An Indian Tale](../season-8/tales/komalda) → <span class="name">Miss Porden</span> <span data-tippy="Filed under Tales" class="info"><i class="fa fa-link" aria-hidden="true"></i></span>  
+[Komalda: An Indian Tale](../../season-8/tales/komalda) → <span class="name">Miss Porden</span> <span data-tippy="Filed under Tales" class="info"><i class="fa fa-link" aria-hidden="true"></i></span>  
 [Letter from Pertinax Townly](../../season-8/meeting-82/pertinax) → <span class="name">Miss Porden</span>    
 [Letter from Electromagus](../../season-8/meeting-82/electromagus) → <span class="name">Miss Porden</span>  
-[Telasco: An American Tale](../season-8/tales/telasco) → <span class="name">Miss Porden</span> <span data-tippy="Filed under Tales" class="info"><i class="fa fa-link" aria-hidden="true"></i></span>
+[Telasco: An American Tale](../../season-8/tales/telasco) → <span class="name">Miss Porden</span> <span data-tippy="Filed under Tales" class="info"><i class="fa fa-link" aria-hidden="true"></i></span>
 [To Miss Porden](../../season-8/meeting-83/adieu) → <span class="grey">&ensp;?</span>  
 [Letter from Pertinax Townly](../../season-8/meeting-83/pertinax) → <span class="name">Miss Porden</span>  
 [Kuban Khan: A Tartarian Tale](../../season-8/tales/kuban) → <span class="name">Miss Porden</span> <span data-tippy="Filed under Tales" class="info"><i class="fa fa-link" aria-hidden="true"></i></span>
