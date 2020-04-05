@@ -11,7 +11,7 @@ visible: false
 1. [Editorial](editorial)   
 2. [Cram to the Editor](cram)
 3. [Atticus to Rodelinda](atticus)
-4. [An Eastern Tale](saddac)
+4. [An Eastern Tale](omara)
 5. [The Pas Trois](pas-trois)
 6. [Adieu Charmante Bergere](adieu)
 7. [Farewell Ye Scenes of Past Delight](farewell)

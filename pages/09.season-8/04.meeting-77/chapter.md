@@ -10,7 +10,7 @@ visible: false
 
 1. [Editorial](editorial)  
 2. [Contemplation](contemplation)
-3. [Modinhas  No. 2](modinhas-2)  
+3. [Modinhas  No. 2](modinha-2)  
 	a. [The Maids of Portugal](maids)  
 	b. [Pity](pity)  
 	c. [My Loved Country](country)  

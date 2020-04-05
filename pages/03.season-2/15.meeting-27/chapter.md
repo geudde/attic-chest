@@ -12,7 +12,7 @@ visible: false
 2. [The Sequel](sequel)
 3. [A Dialogue](dialogue)
 4. [Answer to a Riddle](answer)
-5. [Charade by C.J.F. Answered](charade-answer)
+5. [Charade by C.J.F. Answered](charade-answered)
 6. [Lines Given to a Young Lady](lines)
 7. [On Wit and Humor](wit)
 8. [The Plighted Lady](plighted-lady)

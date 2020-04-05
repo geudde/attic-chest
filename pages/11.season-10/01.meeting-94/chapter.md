@@ -19,7 +19,7 @@ visible: false
 9. [Valentine to Pomona](euphrosyne)
 10. [Valentine to a Young Lady](valentine)
 11. [Enigma](enigma)
-12. [To the Authoress of the *Arctic Expeditions*](artic)
+12. [To the Authoress of the *Arctic Expeditions*](arctic)
 13. [Fragment de la Grande Histoire](halma)
 14. [The Wren](wren)
 

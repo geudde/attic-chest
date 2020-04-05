@@ -13,7 +13,7 @@ visible: false
 3. [Christmas Gambols](gambols)
 4. [The Fairy’s Wish](wish)
 5. [A Riddle](riddle)
-6. [Dulce Domum](domum)
+6. [Dulce Domum](dulce)
 7. [To a Lost Friend](friend)
 8. [Anacreontic](anacreontic)
 9. [Monsieur L’Abbé de Grenthe’s Ball](grenthe)

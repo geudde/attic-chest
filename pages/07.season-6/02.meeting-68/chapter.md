@@ -8,7 +8,7 @@ visible: true
 # 9 March 1814
 
 1. [Editorial](editorial)
-2. [Probationary Ode](ode)
+2. [Probationary Address](address)
 3. [Reply to Anacreon’s 8th Ode](reply)
 4. [Baithus to Epicurus](baithus)
 5. [Letter from Sir Pertinax Townly](pertinax)

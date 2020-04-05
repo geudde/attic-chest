@@ -374,7 +374,7 @@ tntsearch:
 [An Answer to the Challenge of Timon](../../season-2/meeting-24/timon) → <span class="name">Miss Flaxman</span>  
 [A poetical reply Valiant to Timon and Lysander](../../season-2/meeting-24/reply) → <span class="name">Miss Porden</span> <span class="alias">(Camilla)</span>  
 [Charade: Waterman](../../season-2/meeting-24/charade) → <span class="name">com. Miss Flaxman</span> <span class="alias">(C.J.F.)</span>  
-[Enigma](../../season-2/meeting-24/eniga) → <span class="name">com. Mr Vignoles</span> <span class="alias">(S.A.W.)</span>  
+[Enigma](../../season-2/meeting-24/enigma) → <span class="name">com. Mr Vignoles</span> <span class="alias">(S.A.W.)</span>  
 [To Her I Love](../../season-2/meeting-24/to-her) → <span class="name">com. Miss Richardson</span>  
 [The Love Fit, a Rhapsody](../../season-2/meeting-24/love-fit) → <span class="name">com. Mr Henry Thomson</span>  
 [Roscius, the Peer, and His Tailor](../../season-2/meeting-24/roscius) → <span class="name">Do.</span>  
@@ -899,7 +899,7 @@ tntsearch:
 [On Proud Britannia’s Rocky Seat](../../season-5/meeting-58/opening) → <span class="name">Miss Vardill</span> <span data-tippy="Duplicate listing for previous contribution" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [Address, from the Spirit of the Attic Chest](../../season-5/meeting-58/address-4) → Miss Porden → <span class="name">Miss Vardill</span> <span data-tippy="Attributed to EAP but handwriting is that of AJV" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [An Address that is not an Address](../../season-5/meeting-58/address-5) → <span class="name">Miss Flaxman</span>  
-[Anonymous No. 1](../../season-5/meeting-58/anonymous) → <span class="name">Mr Vignoles</span>  
+[Anonymous No. 1](../../season-5/meeting-58/anonymous-1) → <span class="name">Mr Vignoles</span>  
 [Letter from Barnaby Scratch](../../season-5/meeting-58/letter-2) → <span class="name">Miss Flaxman</span>  
 
 <div class="bottom">
@@ -1430,7 +1430,7 @@ tntsearch:
 [Answer to the Advertisement from Atticus Scriblerus](../../season-9/meeting-88/answer) → <span class="name">Miss Porden</span>  
 [Lady Byron’s Answer to “Fare thee well”](../../season-9/meeting-88/farewell) → <span class="name">com. Miss Thomson</span>  
 [Lavinia to Eliza Letter 2](../../season-9/meeting-88/lavinia-2) → <span class="name">Miss Porden</span>  
-[The Milk Maid](../../season-9/meeting-88/milk) → <span class="grey">&ensp;?</span>  
+[The Milk Maid](../../season-9/meeting-88/maid) → <span class="grey">&ensp;?</span>  
 <span class="grey">Continuation of Allah ul Din → com. Mr Porden</span>  
 <span class="grey">Comte Leandre to the Editress → Mr Elliott</span>  
 [Lines with a Purse](../../season-9/meeting-88/purse) → <span class="name">Miss Appleton</span> <span  class="alias">(Phytho)</span>  
@@ -1532,7 +1532,7 @@ tntsearch:
 [The Count’s Adventures at Calais](../../season-10/meeting-94/calais) → <span class="name">Miss Porden</span>  
 [Euphrosyne to Pomona](../../season-10/meeting-94/pomona) → <span class="name">Miss Porden</span>  
 [Pomona to Euphrosyne](../../season-10/meeting-94/euphrosyne) → <span class="name">Miss Appleton</span>  
-[Valentine to a Young Lady](../../season-9/meeting-92/valentine) → <span class="alias">(Ouranos)</span> <span data-tippy="Not included in acknowledgements" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
+[Valentine to a Young Lady](../../season-10/meeting-94/valentine) → <span class="alias">(Ouranos)</span> <span data-tippy="Not included in acknowledgements" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [Riddle](../../season-10/meeting-94/enigma) → <span class="name">Miss Porden</span>  
 [To the Authoress of the Arctic Expeditions](../../season-10/meeting-94/arctic) → <span class="name">Miss Vardill</span>  
 [Fragment de la Grande Histoire des Genies](../../season-10/meeting-94/halma) → <span class="name">Mr Halma</span>  
