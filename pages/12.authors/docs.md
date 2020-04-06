@@ -928,7 +928,7 @@ tntsearch:
 [Allcourt Anyside to the Associated Spinsters do.](../../season-5/meeting-60/allcourt)  → <span class="name">Governor Franklin</span>  
 [Croesus Custody to the Editress](../../season-5/meeting-60/croesus) → <span class="name">Mr Elliott</span>  
 [Fredrick Ledger Scamper do.](../../season-5/meeting-60/scamper) → <span class="name">Mr Elliott</span>  
-<span class="grey">Enigma → Miss Vardill</span>  
+<span class="grey">Enigma → Miss Vardill</span> <span data-tippy="Mentioned in Editorial Comments but missing from collection" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span>  
 [To my Husband](../../season-5/meeting-60/husband) → <span class="name">Miss Vardill</span>  
 [Remorse](../../season-5/meeting-60/remorse) → <span class="name">Miss Vardill</span>  
 [Rebus](../../season-5/meeting-60/rebus) → <span class="name">com. Miss Flaxman</span> <span class="alias">(Sphinx)</span>  
