@@ -27,14 +27,17 @@ tntsearch:
 
 <span class="title">Meeting 92 (27 May 1817)</span>
 
-[Epitaph on a Hermit, signed Quiz](../../season-9/meeting-92/epitaph)
+[Epitaph on a Hermit, signed Quiz](../../season-9/meeting-92/epitaph)  
+
 <span class="title">Meeting 93 (10 June 1817)</span>
 
-[Cram to the Editor](../../season-9/meeting-93/cram)[Omara an Eastern Tale](../../season-9/meeting-93/omara)
+[Cram to the Editor](../../season-9/meeting-93/cram)  
+[Omara an Eastern Tale](../../season-9/meeting-93/omara)
 
 <span class="title">Meeting 94 (19 May 1818)</span>
 
-[Pomona to Euphrosyne](../../season-10/meeting-94/euphrosyne)
+[Pomona to Euphrosyne](../../season-10/meeting-94/euphrosyne)  
+
 <span class="title">Meeting 95 (2 June 1818)</span>
 
 [To a Lady with some Lille Thread](../../season-10/meeting-95/lille)[A Dream, to the Editor of the Attic Chest](../../season-10/meeting-95/dream)
