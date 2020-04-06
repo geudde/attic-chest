@@ -1,5 +1,5 @@
 ---
-title: 'Miss Appleton'
+title: 'Elizabeth Appleton'
 taxonomy:
     category:
         - docs
@@ -8,9 +8,7 @@ tntsearch:
     index: false
 ---
 
-# Elizabeth Appleton
-
-## Meeting 88 (18 March 1817)
+<span class="title">Meeting 88 (18 March 1817)</span>
 
 [Lines with a Purse](../../season-9/meeting-88/purse) → <span class="name">Miss Appleton</span> <span  class="alias">(Phytho)</span>   
 
