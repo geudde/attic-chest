@@ -23,7 +23,8 @@ tntsearch:
 
 <span class="title">Meeting 91 (13 May 1817)</span>
 
-[Vive Café](../../season-9/meeting-91/cafe)[The Progress of Sculpture Continued](../../season-9/meeting-91/sculpture)
+[Vive Café](../../season-9/meeting-91/cafe)  
+[The Progress of Sculpture Continued](../../season-9/meeting-91/sculpture)
 
 <span class="title">Meeting 92 (27 May 1817)</span>
 
@@ -40,5 +41,6 @@ tntsearch:
 
 <span class="title">Meeting 95 (2 June 1818)</span>
 
-[To a Lady with some Lille Thread](../../season-10/meeting-95/lille)[A Dream, to the Editor of the Attic Chest](../../season-10/meeting-95/dream)
+[To a Lady with some Lille Thread](../../season-10/meeting-95/lille)  
+[A Dream, to the Editor of the Attic Chest](../../season-10/meeting-95/dream)
 
