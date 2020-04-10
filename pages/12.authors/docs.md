@@ -103,7 +103,8 @@ tntsearch:
 </div>
 
 [The Jarvey](../../season-1/meeting-06/jarvey) → <span class="alias">(A Young Lady)</span>  
-[The Muses Vagaries No. 3](../../season-1/meeting-06/vagaries) → <span class="grey">&ensp;?</span>    [Constellation No. 1](../../season-1/meeting-06/constellation-1) → <span class="name">Miss Porden</span>  
+[The Muses Vagaries No. 3](../../season-1/meeting-06/vagaries) → <span class="grey">&ensp;?</span>    
+[Constellation No. 1](../../season-1/meeting-06/constellation-1) → <span class="name">Miss Porden</span>  
 
 <div class="bottom">
 <span class="meeting">No. 7&emsp;(1809-03-25)</span><span class="dro">D8760/F/FEP/5/3</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f3" target="_blank"><i class="fa fa-external-link"></i></a>
@@ -395,7 +396,6 @@ tntsearch:
 [From Incognita to 1810](../../season-2/meeting-25/incognita) → <span class="name">Miss Flaxman</span>  
 [The Reconciliation](../../season-2/meeting-25/reconciliation) → <span class="name">Mr Flaxman</span>  
 [From Timon](../../season-2/meeting-25/timon) → <span class="name">Mr Vignoles</span> <span class="alias">(Simon)</span>   
-
 
 <div class="bottom">
 <span class="meeting">No. 26&emsp;(1810-06-19)</span><span class="dro">D8760/F/FEP/5/9</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f9" target="_blank"><i class="fa fa-external-link"></i></a>
