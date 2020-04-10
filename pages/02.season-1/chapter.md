@@ -13,7 +13,7 @@ visible: true
 3. [24 January 1809](meeting-03)
 4. [7 February 1809](meeting-04)
 5. [21 February 1809](meeting-05)
-6. [71 March 1809](meeting-06)
+6. [7 March 1809](meeting-06)
 7. [25 March 1809](meeting-07)
 8. [4 April 1809](meeting-08)
 9. [2 May 1809](meeting-09)
