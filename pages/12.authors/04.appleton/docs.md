@@ -8,7 +8,9 @@ tntsearch:
     index: false
 ---
 
-<span class="title">Meeting 88 (18 March 1817)</span>
+<div class="bottom">
+<span class="meeting">No. 88&emsp;(1817-03-18)</span><span class="dro">D8760/F/FEP/5/37</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f37" target="_blank"><i class="fa fa-external-link"></i></a>
+</div>
 
 [Lines with a Purse](../../season-9/meeting-88/purse)
 
