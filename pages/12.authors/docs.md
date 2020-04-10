@@ -889,7 +889,7 @@ tntsearch:
 <span class="meeting">No. 58&emsp;(1813-03-17)</span><span class="dro">D8760/F/FEP/5/19</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f19" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
-[Letter from Martinus Scriblerus Jr. respecting Addresses on the Opening of the Attic Chest](../../season-5/meeting-58/letter-1) → <span class="name">Miss Vardill</span>  
+[Letter from Martinus Scriblerus Jr.](../../season-5/meeting-58/letter-1) → <span class="name">Miss Vardill</span>  
 [Circular on the Same Subject](../../season-5/meeting-58/circular) → <span class="name">Miss Vardill</span>  
 [Address for the Opening of the Chest](../../season-5/meeting-58/address-1) → <span class="name">Miss Vardill</span> <span class="alias">(Martinus Scriblerus)</span>  
 [Address “Farewell to Blue Devils”](../../season-5/meeting-58/address-2) → <span class="name">Miss Porden</span>  
