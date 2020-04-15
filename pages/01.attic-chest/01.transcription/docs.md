@@ -31,7 +31,7 @@ The Attic Chest contributions exhibit marked irregularity of spelling, capitaliz
 
 > This is an example of missing text. Hover over <span data-tippy="Text obscured" class="red">[ . . . ]</span> to see comment. 
 
-> This is an example of missing pages. 
+> This is an example of missing pages.  
 > <span class="missing">MISSING</span>
 
 Contributions not preserved in the Gell Collection are coloured grey in the list of authors:
