@@ -31,13 +31,15 @@ The Attic Chest contributions exhibit marked irregularity of spelling, capitaliz
 
 > This is an example of missing text. Hover over <span data-tippy="Text obscured" class="red">[ . . . ]</span> to see comment. 
 
-> This is an example of missing pages. <span class="missing">MISSING</span>
+> This is an example of missing pages. 
+> 
+> <span class="missing">MISSING</span>
 
 Contributions not preserved in the Gell Collection are coloured grey in the list of authors:
 
 > <span class="grey">A Description of Monkey Island → Mr Porden</span>
 
-**Illegibility:** The editors of the Attic Chest were often troubled by illegibility, as noted by William Porden’s editorial comment at the 28 April 1813 meeting:  
+**Illegibility:** The editors of the Attic Chest were often troubled by illegibility, as noted in William Porden’s editorial comment at the 28 April 1813 meeting:  
 
 > We recommend it to some of our correspondents to be a little less sparing of their paper, and to lay in a fresh stock of pens and ink as the latter appears to have been too often watered already and their writing requires a microscope. Our friends must be sensible how much the spirit of their effusions must evaporate and the sense be lost while the reader is blundering over the hand, and endeavouring to make out the words.
 
@@ -45,7 +47,7 @@ Fading ink and the passage of centuries have compounded such problems. Every eff
 
 > Illegible text is indicated by question marks. Hover over <span data-tippy="illegible text" class="red">[???]</span> to see comment. 
 
-**Authorship:** At the conclusion of each season the editors of the Attic Chest invited contributors to acknowledge their anonymous works, and such acknowledgements were compiled into lists of contributions. Unfortunately these lists exhibit major inconsistencies. For example, Eleanor Anne Porden is often identified as the author of pieces written in a recognisably different hand. The names of acknowledged authors have been added as they appear in the Gell Collection. Where the attribution is clearly mistaken, and the author can be readily identified from handwriting, style, or internal evidence, this has been indicated thus:
+**Authorship:** At the conclusion of each season the editors of the Attic Chest invited contributors to acknowledge their anonymous works, and such acknowledgements were compiled into [lists of contributions](../authors). Unfortunately these lists exhibit major inconsistencies. For example, Eleanor Anne Porden is often identified as the author of pieces written in a recognisably different hand. The names of acknowledged authors have been added as they appear in the Gell Collection. Where the attribution is clearly mistaken, and the author can be readily identified from handwriting, style, or internal evidence, this has been indicated thus:
 
 > [Translation of Vive l’Amour](../../season-9/meeting-89/bibo) → Miss Porden → <span class="name">Miss Vardill</span> <span data-tippy="Attributed to EAP but handwriting that of AJV" class="info"><i class="fa fa-info-circle" aria-hidden="true"></i></span> 
 
