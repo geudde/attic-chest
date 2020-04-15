@@ -34,7 +34,7 @@ The Attic Chest contributions exhibit marked irregularity of spelling, capitaliz
 > This is an example of missing pages.  
 > <span class="missing">MISSING</span>
 
-Contributions not preserved in the Gell Collection are coloured grey in the list of authors:
+Contributions not preserved in the Gell Collection are coloured grey in the [list of authors](../../authors):
 
 > <span class="grey">A Description of Monkey Island → Mr Porden</span>
 
