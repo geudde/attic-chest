@@ -55,5 +55,3 @@ Fading ink and the passage of centuries have compounded such problems. Every eff
 **Collation:** Comments encouraging the use of standard paper sizes to facilitate sewing of contributions into fascicles indicate that the Pordens collated the contributions soon after each meeting, to be placed ‘on the table’ for perusal by attending members. However, the ordering of such collations is often at variance with both the editorial comments and the end-of-season acknowledgements. Many of the longer serialized poems and lectures were removed in their entirety after the acknowledgement lists were compiled. Such missing contributions are indicated by grey text.
 
 > <span class="grey">The Sylphiad Canto 1st → Mr Vignoles</span> 
-
-This is a PDF file: <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
