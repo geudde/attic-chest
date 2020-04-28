@@ -1,5 +1,7 @@
 ---
 title: 'Attic Chest'
+metadata:
+    'Attic Chest, Gell Collection, Porden, Vardill': 'Digital Edition of the Attic Chest Collection'
 taxonomy:
     category:
         - docs
