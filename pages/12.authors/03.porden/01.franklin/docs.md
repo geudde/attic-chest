@@ -13,23 +13,23 @@ tntsearch:
 ---
 
 
-IN FRAGRANT MEMORY
-OF
-JOHN FRANKLIN
-AND
-ELEANOR ANNE PORDEN
-AND OF
-THEIR DESCENDANTS PAST AND PRESENT
-THESE RECORDS
-ARE AFFECTIONATELY DEDICATED.
+In Fragrant Memory
+of
+John Franklin
+and
+Eleanor Anne Porden
+and of
+Their Descendants Past and Present
+These Records
+Are Affectionately Dedicated.
 
-BY
-THEIR GRANDSON'S WIFE
-THE AUTHOR
+By
+Their Grandson's Wife
+The Author
 
-## FOREWORD
+### FOREWORD
 
-[The]{.smallcaps} brief romance of Eleanor Anne Porden and Sir John
+<span class="smallcaps">The</span> brief romance of Eleanor Anne Porden and Sir John
 Franklin, the Arctic explorer, holds so much of pathos and interest, and
 throws so vivid a light on bygone customs and ideals, that it forms a
 refreshing contrast to the vortex in which the lives of the present day
