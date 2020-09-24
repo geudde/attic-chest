@@ -93,64 +93,50 @@ In personifying the metals and minerals, and the agency of fire, the author has 
 The summer sun its setting radiance shed,<br> 
 And tinged the eastern clouds with rosy red;<br> 
 While from the west, a flood of amber light<br> 
-Stream'd thro' the foliage on the dazzled sight: <br>
-As in a forest's wildering mazes straytd <br>
+Stream’d thro’ the foliage on the dazzled sight: <br>
+As in a forest’s wildering mazes straytd <br>
 A youthful warrior and a blooming maid.<br> 
 
-The Maid was fair, as Poets bent on praise <br>
-Have often painted in their flattering lays, <br>
-When they from Fancy, not from Nature, drew <br>
-Their finished forms, vet still to Nature true.<br> 
-
-
-
-2 THE CASTLE. book i. 
-
-Erevvhile her eyes' soft lustre did outshine 
-The brightest diamonds of Golconda's mine; 
-But grief had now their native fire deprest; 
-And frequent sighs burst from her anguished breast. 
-No guardian veil concealed her charms, but round 
-Her jetty locks, a wreath of flowers was bound; 
-Her vesture rivalled the unsullied snow, 
+The Maid was fair, as Poets bent on praise<br>
+Have often painted in their flattering lays,<br>
+When they from Fancy, not from Nature, drew<br>
+Their finished forms, yet still to Nature true.<br> 
+Erewhile her eyes’ soft lustre did outshine<br>
+The brightest diamonds of Golconda’s mine;<br>
+But grief had now their native fire deprest;<br>
+And frequent sighs burst from her anguished breast.<br>
+No guardian veil concealed her charms, but round<br>
+Her jetty locks, a wreath of flowers was bound;<br>
+Her vesture rivalled the unsullied snow,<br>
 A sable scarf declared her inward woe. 
 
-The Knight, in prime of youthful vigour, joined 
-Undaunted courage, and a courteous mind; 20 
+The Knight, in prime of youthful vigour, joined<br>
+Undaunted courage, and a courteous mind;<br>
+Black were his arms — the painting on his shield<br>
+The strange occasion of their grief revealed:<br>
+Lo! on the foamy ocean’s shingly sands,<br>
+Reft of her Veil, a weeping damsel stands,<br>
+Beside a yawning gulf a Gnome appears,<br>
+Who waves the ravished veil and mocks her tears;<br>
+While forms ethereal lightly float in air,<br>
+And weep in pity o’er the injured fair.<br>
+An azure marge the pictured forms enroll’d,<br>
+Where shine these haughty words embost in gold:<br>
+“Proud Gnome, the veil to me, thy rival, yield,<br>
+“Or dare my vengeance in the listed field.” 
 
-Black were his arms — the painting on his shield 
-The strange occasion of their grief revealed: 
-Lo ! on the foamy ocean's shingly sands, 
-Reft of her Veil, a weeping damsel stands, 
-Beside a yawning gulf a Gnome appears, 
-Who waves the ravished veil and mocks her tears; 
-While forms ethereal lightly float in air, 
-And weep in pity o'er the injured fair. 
-An azure marge the pictured forms enrolFd, 
-Where shine these haughty words embost in gold: 30 
-" Proud Gnome, the veil to me, thy rival, 
+Warned by approaching night, with slackened rein<br>
+They urge their steeds some friendly roof to gain,<br>
+At length they reached the confines of the wood<br>
+Where, on a hill, an ancient Castle stood;<br>
+With high embattled towers, and turrets crown’d,<br>
+By massy walls enclosed, and moated round.<br>
+Cheered at the sight, they checked each weary horse,<br>
+And to the drawbridge bent their joyful course,<br>
+When as the warder from the walls espied<br>
+The pair advancing, to the Knight he cried,<br>
+“A friend or foe?” — “A friend!” the Knight replied:
 
-yield, 
-" Or dare my vengeance in the listed field." 
-
-
-
-book i. THE CASTLE. 
-
-Warned by approaching night, with slackened rein 
-They urge their steeds some friendly roof to gain, 
-At length they reached the confines of the wood 
-Where, on a hill, an ancient Castle stood; 
-With high embattled towers, and turrets crown'd, 
-By massy walls enclosed, and moated round. 
-Cheered at the sight, they checked each weary horse, 
-And to the drawbridge bent their joyful course, 40 
-
-When as the warder from the walls espied ^ 
-
-The pair advancing, to the Knight he cried, &gt; 
-
-" A friend or foe?" — " A friend!" the Knight replied: J 
 " We crave a shelter till returning day 
 " Shall lend its light to speed us on our way." 
 " Then welcome," he rejoined; " but, Warrior, pause, 
@@ -167,7 +153,6 @@ The pair advancing, to the Knight he cried, &gt;
 
 
 
-4 THE CASTLE. book i. 
 
 " That from the bridge descending to the plain, 
 
@@ -248,7 +233,7 @@ A wreath of flowers Maria's locks confined.
 
 — " And why," he said, " fair ladies, do you shew 
 
-" By dress a seeming fellowship in woe ? — 
+" By dress a seeming fellowship in woe? — 
 
 " What wrongs have forced you from your peaceful home, 
 
@@ -292,7 +277,7 @@ book i. THE CASTLE. 7
 
 To speed the hours on pinions of delight, 
 
-Till day should rise, unlooked for, on the night ! 
+Till day should rise, unlooked for, on the night! 
 
 But one rash promise that has sealed my doom 
 
@@ -382,7 +367,7 @@ u In glory's favour, ere I hope for thine;
 " But oh, from thee removed, whose sight inspired 180 
 " My breast with love, with virtue, valour fired, 
 " What to my arms, can like thy smile supply 
-" Art to repel, or vigour to annoy ? 
+" Art to repel, or vigour to annoy? 
 " Yet grant some pledge, no happier youth shall gain 
 " That envied hand, so long desired in vain; 
 " This in the fight shall steel thy warrior's breast, 
@@ -397,7 +382,7 @@ Victorious love asserts superior power,
 I proved it true, when by his prayers subdued, 19 
 
 These words I spoke, — yet half in jesting mood— 
-" Go, Henry, go ! be Heaven in fight your shield, 
+" Go, Henry, go! be Heaven in fight your shield, 
 " Your guide to glory thro' the ensanguined field, 
 " And unperceived if you this Veil obtain, 
 " When with the year the hour returns again, 
@@ -440,8 +425,8 @@ I since have worn, and still uninjured wear.
 
 " Some months elapsed. At length the tidings came 
 Of Poictiers glorious field, and Edward's fame;* 
-Can nobler deeds the daring bard engage ? 
-Or brighter virtues grace a future age ? 
+Can nobler deeds the daring bard engage? 
+Or brighter virtues grace a future age? 
 
 * From the commencement of English history, there is no prince, except 
 Alfred, on whose character and exploits the memory dwells with so much 
@@ -523,7 +508,7 @@ To Marinell the treasures of the wave.*
 
 " No snare suspecting, by their beauty caught, 
 With eager eye the stones and shells I sought, 
-When lo ! an earthquake seemed to rock the ground, 
+When lo! an earthquake seemed to rock the ground, 
 I started back, and trembling look'd around; 
 Beneath my feet a hollow noise I heard, 
 And high the waves their foamy summits reared. 
@@ -575,7 +560,7 @@ book i. THE CASTLE. 15
 " And wealth and power have vainly tried to move. 
 
 " Yet why afflicted thus, why thus disdain 
-" The hand a thousand beauties seek in vain ? 290 
+" The hand a thousand beauties seek in vain? 290 
 
 " In vain each lovely Gnome with studious care 
 " Folds her rich robe, or braids her scented hair, 
@@ -594,7 +579,7 @@ f
 
 " My heart is thine, fair ingrate, thine alone; 
 
-" O ! dry those tears and share a monarch's throne. 
+" O! dry those tears and share a monarch's throne. 
 
 " What though thou quit the sun's enlivening ray, 300 
 
@@ -691,7 +676,7 @@ Then loath 'd the morn, and wish'd again for night;
 
 Or wept to find those hours had passed away, 34C 
 
-And nearer brought the inevitable day ! 
+And nearer brought the inevitable day! 
 
 'Till once, as Phoebus ting'd the eastern skies, 
 
@@ -756,7 +741,7 @@ book r. THE CASTLE. 19
 
 " The silken screen, that mock'd their eager gaze; 
 
-" When lo ! a viewless hand the veil unbound, 
+" When lo! a viewless hand the veil unbound, 
 
 " And rudely plung'd it in the deep profound, 
 
@@ -869,7 +854,7 @@ c 3
 
 22 THE CASTLE/ book i . 
 
-When lo ! amid a blaze of golden light, 
+When lo! amid a blaze of golden light, 
 
 A rich pavilion rose upon my sight, 440: 
 
@@ -908,7 +893,7 @@ book r. THE CASTLE. 23
 As massy barriers placed to guard the road, 
 Long, dark and dreary, to the Gnome's abode." 
 
-Imprudent maid ! thy heedless lips exposed 
+Imprudent maid! thy heedless lips exposed 
 The secret plans to thee alone disclosed, 
 Thy councils known, the host, whose cheerful smile 
 Veil'd the dark agent of Albruno's guile, 
@@ -1234,7 +1219,7 @@ The prescient sage this strange injunction gave.
 
 
 
-" Oh ! words obscure ! whence hope can scarcely spring, 
+" Oh! words obscure! whence hope can scarcely spring, 
 Yet still to these, our last resource we cling, 600 
 
 In dubious faith the dark behest obey, 
@@ -1288,7 +1273,7 @@ How can / hope a sympathetic tear, 630
 
 Who, at my onset, must perforce confess 
 
-My sorrows lighter, as my beauty less ? 
+My sorrows lighter, as my beauty less? 
 
 " A Spaniard I — my father lov'd to trace, 
 Thro' many a warlike chief, his noble race 
@@ -1517,8 +1502,8 @@ With folded arms, the brave Alonzo stood;
 He rais'd his kindling eye, the mantle fell, 
 And brightly beam'd his mail of burnished steel. 
 
-" Oh ! bliss unhoped ! does Leonora deign 
-u A favouring ear to sad Alonzo's strain !" 
+" Oh! bliss unhoped! does Leonora deign 
+u A favouring ear to sad Alonzo's strain!" 
 The youth exclaim'd; " this unexpected grace 
 " Can all thy scorn and all my woes efface; 
 " And, like the setting sun, whose piercing ray 
@@ -1553,14 +1538,14 @@ d 3
 
 " Or may I hope my truth at length may move 
 
-" Thy mind to pity for Alonzo's love ?" 
+" Thy mind to pity for Alonzo's love?" 
 
 " If this," I said, " can give thy bosom rest, 
 " No love has enter'd Leonora's breast; 
 " But wouldst thou hope to light the ardent flame, 
 " This test of truth, and faith unchanged, I claim — 
 u My father seeks those scenes of deadly strife, 
-" Oh ! guard with filial care his sacred life; 760 
+" Oh! guard with filial care his sacred life; 760 
 
 " Shield his brave bosom from the threatening blade, 
 a And turn the javelin from his hoary head. 
@@ -1817,7 +1802,7 @@ The robes of regal state — the sparkling crown, 90o' &gt;
 And powers superior trembling at our frown; j 
 
 Can love's bright star, or friendship's milder ray, 
-Vie with the splendour wealth and power display ? 
+Vie with the splendour wealth and power display? 
 Come, mourn no more — we lift our heads on high, 
 Examples great of female constancy, 
 Resolved in danger's sternest hour to prove 
@@ -1908,7 +1893,7 @@ Then stampt infuriate on the ground, and spoke: J
 " The bold defiance on thy shield displayed, 
 " I rise to answer — fight, or yield the maid; 
 i( Fool, to believe thy mortal frame can stand 
-" A weapon wielded by Albruno's hand ! 20 
+" A weapon wielded by Albruno's hand! 20 
 
 " Advance, if still thou dar'st the unequal strife, 
 " And lose at once thy mistress and thy life." 
@@ -1947,7 +1932,7 @@ Bent o'er the king, victorious Henry tried 40
 
 To draw the weapon from his bleeding side, 
 
-When lo ! two sinewy arms enwreathed him round, ^ 
+When lo! two sinewy arms enwreathed him round, ^ 
 
 And bore him, struggling, thro' a gulph profound, V 
 
@@ -2088,9 +2073,9 @@ E 3
 
 " To stop the invaders in their headlong course, 
 " While, with a chosen band, we here remain, 
-" Pyros to check, or Oros to sustain ? 
+" Pyros to check, or Oros to sustain? 
 " Or shall we let them join the powers of fire, 
-" And wait their onset with our force entire ? 
+" And wait their onset with our force entire? 
 " Weigh well these projects; then let each suggest 
 * l The genuine dictates of his faithful breast." 
 
@@ -2208,7 +2193,7 @@ To anxious Henry seem'd the thunder's sound.
 " Tho' thus to differ from so great a sage 
 " May seem presumption in my greener age, 
 " Yet say, does niggard heaven alone bestow 
-" Her richest gift on time's declining brow ? 
+" Her richest gift on time's declining brow? 
 " Does wisdom only then our acts advise, 
 " When ebbing strength to work her will denies? 170 
 " Then would her sacred light in vain be given, 
@@ -2261,7 +2246,7 @@ li But if experience weight can give, your ear
 " And mar that junction which, if rightly shown, 
 " Is less his foes' advantage than his own, 
 " Till wearied, each shall quit our guarded plain, 200 
-" But watch the moment for a fresh campaign ? 
+" But watch the moment for a fresh campaign? 
 " Long is the war our realms must yet endure, 
 " The peace but short, inglorious, insecure. 
 
@@ -2279,7 +2264,7 @@ li But if experience weight can give, your ear
 
 " If they delay the fight, our cause is won, 
 
-" If they provoke it, need we wish to shun ? 
+" If they provoke it, need we wish to shun? 
 
 u 'Tis for the coward, treacherous, cold, or weak, £10 
 " Of caution, danger, doubt, defence, to speak; 
@@ -2710,11 +2695,11 @@ Their hearts were valiant, but their troops were few, 3Q0
 
 Of various lineage, what a countless throng, 
 
-In warlike order ranged, demand the song ! 
+In warlike order ranged, demand the song! 
 
 But who now hither bends his hasty flight, 
 
-His face and armour of resplendent white ? 
+His face and armour of resplendent white? 
 
 Tis Hydrargyras, — thro' the gloom he springs, 
 
@@ -2753,7 +2738,7 @@ r4
 
 " And crush at last the faint and weary band; 
 
-" Vengeance and glory ! be our signal cry, 
+" Vengeance and glory! be our signal cry, 
 
 " Our firm resolve, to conquer or to die. 
 
@@ -2868,7 +2853,7 @@ book ii. THE EARTH, 75
 
 " All is not lost, my comrades, turn and face 470 
 
-" Your foes — redeem the glory of your race ! 
+" Your foes — redeem the glory of your race! 
 " 'Twas not for this we claim'd this honour'd post, 
 " Awhile let Pyros triumph, while his host 
 '* Shall feel our veugeance, and redeem our boast; 
@@ -2992,10 +2977,10 @@ In love still fickle as a mortal maid,
 
 In all her glory Pyros now array 'd. 540 
 
-Delusive flatterer ! didst thou only come 
-To dress a lovelier victim for the tomb ? 
+Delusive flatterer! didst thou only come 
+To dress a lovelier victim for the tomb? 
 Didst thou Abestos' fame and prowess raise, 
-To add new glories to his rival's praise ? 
+To add new glories to his rival's praise? 
 
 
 
@@ -3011,10 +2996,10 @@ has produced them.
 
 hook ii. THE EARTH. 79 
 
-Ah ! think how deep will be his sovereign's sighs, 
+Ah! think how deep will be his sovereign's sighs, 
 What tears will burst from Amiantha's eyes, 
 What grief will sadden all his kindred train, 
-Who " ne'er shall look upon his like again !" 
+Who " ne'er shall look upon his like again!" 
 
 While Pyros thus the conquer'd legions slew, 
 The rival king his bravest bands o'erthrew, 550 
@@ -3055,7 +3040,7 @@ But from her limbs she tore the flowing vest,
 
 " Be mine," she cried, " the warrior's stern attire, 
 
-" Until I perish, or avenge my sire !" 
+" Until I perish, or avenge my sire!" 
 
 Albruno's mightier arm her lance defies, ~\ 
 
@@ -3121,7 +3106,7 @@ Against his breast now Pyros aims his sword,
 
 His faithful Gnomes stood trembling for their lord. 
 
-Nought now can save him — Yes ! the gift of love, 
+Nought now can save him — Yes! the gift of love, 
 
 " The snow-white scarf by Amiantha wove," 
 
@@ -3373,7 +3358,7 @@ Or 4
 
 And whence this coolness, this refreshing breeze, 
 
-Like Zephyrs breathing o'er the tranquil seas ? 
+Like Zephyrs breathing o'er the tranquil seas? 
 
 So late deprest, now rose the fiery line, 730 
 
@@ -3517,12 +3502,12 @@ Touch'd by his weapon high in air they flew,*
 The plain their mangled limbs descending strew. 
 
 What grief in reverend Chrysos rose, to find 
-Fulfilled the bodings of his prescient mind ! 
+Fulfilled the bodings of his prescient mind! 
 He call'd on Phlogos to suspend the fray; 
 Their leaders' voices both the hosts obey. 
 " W 7 hile we," he said, " our partial fight maintain, 
 Behold what slaughter'd squadrons strew the plain; 
-Ah ! what avails it if to thee I yield, 
+Ah! what avails it if to thee I yield, 
 
 Or thou, o'ercome, shouldst press the empurpled field, 7 80 
 Short were our glory; while yon foes are nigh, 
@@ -3607,9 +3592,9 @@ Tho' pale and cold, yet lovely e'en in death.
 With grief the Gnomes so sad an object view'd, 
 In Chrysos' eye the tear unbidden stood, 
 When thus he cried: " And art thou too a prey 
-To the dire rage of this ill-omen'd day ? 
+To the dire rage of this ill-omen'd day? 
 Oh! who so brave in war's destructive scene, 
-In peace so mild, so gentle, so serene ! 
+In peace so mild, so gentle, so serene! 
 Still on thy path propitious fortune smil'd, 
 And glory claim'd thee as her favourite child. 830 
 
@@ -3619,7 +3604,7 @@ And glory claim'd thee as her favourite child. 830
 
 But now" — he paus'd — " thou shalt not lie," he said, 
 Dishonoured thus among the vulgar dead. 
-Not all our tears, alas ! can bid thee live, 
+Not all our tears, alas! can bid thee live, 
 But yet my care a hero's grave shall give/ 
 
 He spoke; and on a bier of lances made, 
@@ -3673,11 +3658,11 @@ The lonely tenant of this silent cell,
 
 While to this dreary realm, through ways unknown, 
 
-Maria strays, unaided and alone ! 
+Maria strays, unaided and alone! 
 
 Oh! who shall now her erring steps direct, 
 
-In fear sustain her, and from foes protect ! 
+In fear sustain her, and from foes protect! 
 
 
 
@@ -3685,7 +3670,7 @@ In fear sustain her, and from foes protect !
 
 Or who, and soon the fatal time must come, 
 
-Oh ! who shall guard her from the treacherous Gnome ! 
+Oh! who shall guard her from the treacherous Gnome! 
 
 Yet still unshaken faith in Ariel's power 
 
@@ -3796,13 +3781,13 @@ Or such the Indian temples, vast and grand,
 
 By Delhi's monarchs raised on Jumna's strand. 
 
-Yet, oh ! how small, this giant fabric near, 
+Yet, oh! how small, this giant fabric near, 
 
 Proud man! would all thy loftiest works appear; 80 
 
 The Egyptian piles, Sophia's vaunted dome! 
 
-Or the famed structures of majestic Rome ! 
+Or the famed structures of majestic Rome! 
 
 One moment paused the adventurers, then in haste 
 The lofty portal's ample arch they past, 
@@ -3979,14 +3964,14 @@ Hence Albruno redeemed the glass.
 106 THE ESCAPE. book nr. 
 
 " Why pause we thus, while none the deed oppose, 
-" To snatch this prize from our unheeding foes ? 
+" To snatch this prize from our unheeding foes? 
 " Foiled in his art, if we the pledge regain, 
 " The baffled Gnome may rage and storm in vain." 
 
 While thus he speaks, his eager arms he strains 
 To reach the casket that the Veil contains, 
 But Ariel seiz'd his arm, and flung him far: 
-" Desist, mad youth, nor thus destruction dare ! 
+" Desist, mad youth, nor thus destruction dare! 
 " Fixt by Albruno's power, this casket stands, 180 
 
 " Nor moves, nor opens at another's hands; 
@@ -3999,8 +3984,8 @@ But Ariel seiz'd his arm, and flung him far:
 " Himself alone, tho' gain'd by fraud his power, 
 " Must yield Maria, and the Veil restore. 
 
-" But hark! what means this sudden noise without ? 190 
-" That mournful cry, and that exulting shout ? 
+" But hark! what means this sudden noise without? 190 
+" That mournful cry, and that exulting shout? 
 " Those varied sounds the finished fight declare, 
 " Haste, quit the palace, ere the Gnomes appear." 
 
@@ -4281,7 +4266,7 @@ ness which usually characterizes fossil salt.
 Mr. Bruce speaks of salt as very abundant in Abyssinia; mines are work- 
 ed near Azab and at Dancali. The salt, cut into solid bricks of eight or ten 
 inches long, supplies the place of our small money. A very portable cur- 
-rency ! perhaps rather more so than the iron money of Lycurgus. 
+rency! perhaps rather more so than the iron money of Lycurgus. 
 
 
 
@@ -4324,8 +4309,8 @@ says:
 " sa position originelle, actuellement divise en grands parallelepipedes rec- 
 " tangles." 
 
-Is not this the effect of crystallization ? and may it not throw some light on 
-the formation of basaltic columns ? for no one would think of referring the pro- 
+Is not this the effect of crystallization? and may it not throw some light on 
+the formation of basaltic columns? for no one would think of referring the pro- 
 duction of sandstone to volcanic fires. 
 
 
@@ -4390,7 +4375,7 @@ Confused and prest, they fight and struggle there,
 So near, their shouts disturb 'd the powers of air: 
 In vain the concave with their force expands, 
 Their growing bulk a wider field demands. 
-At length the ribs of solid rock give way ! 
+At length the ribs of solid rock give way! 
 They force a passage to the realms of day: 
 
 
@@ -4453,7 +4438,7 @@ The noise of arms — the cries of combat came.
 
 Strange tumult rent the vault of heaven — and earth, 370 
 
-Affrighted, trembled at her monstrous birth ! 
+Affrighted, trembled at her monstrous birth! 
 
 As borne impetuous by their aqueous foes, 
 
@@ -4506,9 +4491,9 @@ Fly from their menac'd dwellings in despair,
 
 And weep, and raise their clasped hands in prayer. 
 
-In vain their holiest relics are display'd ! 
+In vain their holiest relics are display'd! 
 
-In vain a thousand saints invok'd to aid ! 
+In vain a thousand saints invok'd to aid! 
 
 Still with fierce rage the Sprites maintain the war, 
 
@@ -4554,7 +4539,7 @@ A second chaos seem'd to rage within.
 
 As thro' the gulf the mingled legions pour, 
 
-Tumultuous still ! an inexhausted store, 
+Tumultuous still! an inexhausted store, 
 
 In vain the Sylphs impede them as they rise, 
 
@@ -4780,9 +4765,9 @@ A tear to tremble in her downcast eye.
 
 " Alas! yon rising sun — too soon betray 'd, 
 
-" My sweetest hopes are fled !" exclaim'd the maid. 
+" My sweetest hopes are fled!" exclaim'd the maid. 
 
-" Yet stay, dear youth ! and let thine heart approve, 
+" Yet stay, dear youth! and let thine heart approve, 
 
 " At least my fraud forgive, the fraud of love!' 
 
@@ -4822,7 +4807,7 @@ A tear to tremble in her downcast eye.
 
 " Now let me waft thee to my coral cave. 
 
-" Oh ! lovelier far those regions of the main 
+" Oh! lovelier far those regions of the main 
 
 " Than bards can paint, or eastern fancy feign; 
 
@@ -4860,7 +4845,7 @@ To her in silence slumbering far away. —
 Yet come with me; this form, which you despise, 
 These locks dishevell'd, and these weeping eyes, 
 Shall bid an hundred knights their lances rear, 
-Knights not unworthy of my Alfred's spear ! 
+Knights not unworthy of my Alfred's spear! 
 If thou command, my words their fury rouse 
 ; To tear the garland from Marino's brows, 
 And force the conquer'd monarch to resign 
@@ -4894,7 +4879,7 @@ and their light may be useful at depths which the sun's rays hardly penetrate.
 
 128 THE ESCAPE. book hi. 
 
-" Still dost thou doubt my truth, or scorn my aid ? 
+" Still dost thou doubt my truth, or scorn my aid? 
 
 " Know that the ocean cannot boast a maid 
 
@@ -4904,13 +4889,13 @@ and their light may be useful at depths which the sun's rays hardly penetrate.
 
 " Lymnoria! false, perfidious wretch!" he said, 
 And turn'd indignant from the astonish'd maid. 
-" Yes ! well Lymnoria's name and arts I know, 
+" Yes! well Lymnoria's name and arts I know, 
 " Those arts, the source of all our toils and woe. 
-" Hence ! boast my faith betrayed, and tell how long 
+" Hence! boast my faith betrayed, and tell how long 
 " I madly listen'd to thy treacherous tongue." 
 
 He spoke: — her curses followed as he flew. 
-" Hence, hateful wretch ! may ill thy steps pursue ! 
+" Hence, hateful wretch! may ill thy steps pursue! 
 " Hence to Miranda! — nay, thou need'st not fear; 570 
 " It was not love, but hate that brought me here. 
 " I knew Marino's mood, his jealousy 
@@ -4942,7 +4927,7 @@ He flies — Alonzo follows. — As he flew, "\
 
 His spear the Spaniard at the caitiff threw, ^90 ^ 
 
-When, lo ! in flames he vanish'd from his view; } 
+When, lo! in flames he vanish'd from his view; } 
 
 He leaves his steed, and seeks his spear — in vain. 
 Nor spear, nor steed, Alonzo finds again. 
@@ -5005,7 +4990,7 @@ All from one common source appear'd to spring, —
 
 The jealous hatred of the fiery king. 
 
-" 'Tis false !" he cried; " the maids are here, and I 
+" 'Tis false!" he cried; " the maids are here, and I 
 
 " Will win a passage to their sight, or die." 
 
@@ -5062,7 +5047,7 @@ The fallen chieftain fled Alonzo's eye:
 
 The walls, the towers that caught the morning beam, 
 
-The moat, the drawbridge, vanish'd like a dream ! 
+The moat, the drawbridge, vanish'd like a dream! 
 
 He mark'd the change; then sunk in trance profound, 
 
@@ -5121,7 +5106,7 @@ K 3
 154. THE ESCAPE. book hi. 
 
 " So bards have sung; — and where shall eyes be found, 
-" That like Maria's, or Miranda's, wound ? 
+" That like Maria's, or Miranda's, wound? 
 " E'en mine, tho' dim, shall flash with virtuous ire, 690 
 " And beam in your defence their keenest fire." 
 
@@ -5164,7 +5149,7 @@ And as elate she shakes it high in air,
 
 Darts looks of triumph on each vanquish'd fair. 
 
-But, lo ! a maid advances o'er the plain, 
+But, lo! a maid advances o'er the plain, 
 Whose garb proclaims a daughter of the main. 
 Fair was her form; with pearls embroider'd round, 
 Her robe of snowy coral swept the ground. 
@@ -5178,7 +5163,7 @@ The scatter'd pearls around its border hung;
 O'er the whole figure of the ocean maid, 
 Like Cynthia's light, a silvery lustre play'd. 
 
-" Fair wanderers hail !" she said, " from ocean's caves 
+" Fair wanderers hail!" she said, " from ocean's caves 
 " A hapless nymph your kind attention craves; 
 K 4 
 
@@ -5195,7 +5180,7 @@ K 4
 " And hope already greets Miranda here." — 730 
 
 The maid replied, " May every joy be thine, 
-" Who, tho' unknown, an interest takest in mine ! 
+" Who, tho' unknown, an interest takest in mine! 
 " A sage, whose eye events to come descried, 
 " Bade me with speed repair to ocean's side, 
 " A pearl should meet me — to Marino's court 
@@ -5280,7 +5265,7 @@ u Twelve changing moons had scarcely past away,
 
 " Her fatal fetters round Marino's mind. 
 
-" Ah ! less seductive were Armida's smiles, 
+" Ah! less seductive were Armida's smiles, 
 
 " And less pernicious her delusive wiles; 
 
@@ -5296,7 +5281,7 @@ u Twelve changing moons had scarcely past away,
 
 " Her looks their love and fading hope revive. 
 
-" But lo ! Marino comes; his noble steed 
+" But lo! Marino comes; his noble steed 
 " Active and strong, the pride of ocean's breed; 
 " The treasures of the deep his mail compos'd, 
 " Corals and shells in bright array dispos'd, 
@@ -5375,7 +5360,7 @@ so strong that they often do great injury to vessels by piercing their sides.
 
 " That envied honour oft bestow'd before; 
 
-" But no ! the monarch, with a careless eye, 
+" But no! the monarch, with a careless eye, 
 
 " Just glanc'd upon the maid, and pass'd her by; 
 
@@ -5405,7 +5390,7 @@ book in. THE ESCAPE. Ml
 
 " That shone in crimson on my glowing cheek; 
 
-" When lo ! in happy hour, a piercing scream 
+" When lo! in happy hour, a piercing scream 
 
 " Thrill'd thro' my frame, and rous'd me from my dream. 
 
@@ -5417,15 +5402,15 @@ book in. THE ESCAPE. Ml
 
 " Back to her pearly grot the senseless maid. 
 
-" Thus past the morning ! in his regal hall 
+" Thus past the morning! in his regal hall 
 " That night the monarch gave a splendid ball; 
 " Fate, and the magic of the scene conspire 
 " Still in my breast to feed the growing fire, 
 " Grac'd with the envied honours of the fight, 
 " I led the dance with my victorious knight. 840 
 
-" Sure not so graceful could Sir Gawaine be ! * 
-" That gem of arms, and ' Flower of Courtesie !' 
+" Sure not so graceful could Sir Gawaine be! * 
+" That gem of arms, and ' Flower of Courtesie!' 
 
 
 
@@ -5444,7 +5429,7 @@ their presence.
 
 142 THE ESCAPE. isook in. 
 
-" Not half so sweet his honied accents flow'd ! 
+" Not half so sweet his honied accents flow'd! 
 " Tho' in his speech the fire of rhetoric glow'd. 
 " He said, * Since bright-hair'd Florimel was there, 
 " ' The ocean caves could boast no maid so fair, 
@@ -5452,7 +5437,7 @@ their presence.
 " ' Might seem the magic girdle she possest.'* 
 
 " Think me not vain, sweet maids, for lingering here 
-" On words like these, the speaker made them dear ! 850 
+" On words like these, the speaker made them dear! 850 
 " Too swift the moments wing'd their airy flight, 
 " And put a period to that festive night; 
 u Ne'er with such pleasure have I hail'd the morn, 
@@ -5512,7 +5497,7 @@ readers of Spenser.
 
 " And in her suit support the unhappy maid. 880 
 
-" But no ! as stars by Phoebus' light opprest, 
+" But no! as stars by Phoebus' light opprest, 
 
 " A keener fire her rising rage supprest; 
 
@@ -5578,7 +5563,7 @@ But ere it touch'd the strand, a mist profound
 Cloth'd in a fleecy veil the scene around; 
 So thick, it scarce allow'd her eye to trace 
 The lovely features of the Sea-nymph's face, 
-Who from the boat began — " Miranda, haste ! 
+Who from the boat began — " Miranda, haste! 
 " Let no vain fear the precious moments waste, 
 L 2 
 
@@ -5592,7 +5577,7 @@ L 2
 " No oars impel, no rudder guides its course, 
 " I do but bid, at noon or night the same, 
 " It moves unerring to its destin'd aim: 
-" O come ! our cause admits no vain delay." — 
+" O come! our cause admits no vain delay." — 
 She enter'd; swift the vessel glides away. 
 In silence pondering on her doubtful fate, 
 Beside her friend, Miranda mournful sate; 
@@ -5625,7 +5610,7 @@ Of azure hue, or deck'd in golden pride, 40
 
 The bright Nympheas graced the sparkling tide, 
 
-Numerous the tribe ! a modest blush was seen 
+Numerous the tribe! a modest blush was seen 
 
 O'er the fair face of Nilus' sacred queen,* 
 
@@ -5822,8 +5807,8 @@ In pleasing wonder lost, her woes forgot, §0
 
 Miranda view'd the garden and the grot; 
 When turning, now her artful guide display'd, 
-Not Marguerita, but a stranger maid ! 
-" Ah ! now accuse," the damsel taunting cries, 
+Not Marguerita, but a stranger maid! 
+" Ah! now accuse," the damsel taunting cries, 
 " Thine ears deceitful, or thy careless eyes; 
 
 
@@ -5842,9 +5827,9 @@ JESBt THE SEA. too.
 
 " Or weep once more Lymnoria's fatal smiles, 
 " Her heart obdurate and successful wiles. 
-" Too late ! — my voice your life or death declares: 
-" Escape is hopeless ! fruitless are your prayers ! 
-" Think not, vain girl ! to share Marino's throne, 
+" Too late! — my voice your life or death declares: 
+" Escape is hopeless! fruitless are your prayers! 
+" Think not, vain girl! to share Marino's throne, 
 '" And claim those honours which are mine alone: 
 " In vain shall Alfred his lost love bewail, 
 " In vain Marino boast thy ravish'd Veil; 
@@ -5866,7 +5851,7 @@ Those notes of joy augment her fruitless tears.
 
 
 
-Tormenting state ! her steps no massy chain, 
+Tormenting state! her steps no massy chain, 
 
 Xo brazen doors, no lofty walls detain: 
 
@@ -5927,13 +5912,13 @@ There sat a warrior — Soon his pictur'd shield
 And sable arms Miranda's knight reveal'd; 
 Yet false the hopes that now their breasts inspire, 
 In vain their lips Miranda's fate inquire. 
-" Oh ! ask not me ! by magic arts betrayed, 
+" Oh! ask not me! by magic arts betrayed, 
 " I left the fort and that transcendant maid; 
 " And had not chance Lymnoria's face reveal'd, 140 
 
 " She now had borne me o'er yon azure field, 
 " In ocean's darkest caves to watch and weep, 
-" Or glut some savage monster of the deep ! 
+" Or glut some savage monster of the deep! 
 u Reviled and scorned, too late I knew the dame, 
 " Who mock'd Miranda's voice, Miranda's name; 
 " In vain my weary steps my love pursue, 
@@ -6038,7 +6023,7 @@ Of gold and crimson spread their mingled shade,
 Their charms increasing in their slow decay — 
 There, soon matnr'd, as soon they fade away: 
 Like the bright rainbow in a summer sky, 
-They rise, they bloom, they ripen, fade, and die ! 
+They rise, they bloom, they ripen, fade, and die! 
 
 On sail'd the bark secure, but soon, uprear'd 
 Above the waves, a hideous form appear'd; 
@@ -6073,11 +6058,11 @@ And on its course the little vessel sped.
 
 New dangers now impend; thro' mountains vast 
 Of gather'd ice, a narrow streight they past. 
-Oh ! should the sun's meridian fervour launch 
+Oh! should the sun's meridian fervour launch 
 From yon dread height the threat'ning avalanch; 
 Or should the waves impel some floating rock, 
-They sink or perish in the dreadful shock ! 
-And lo ! impatient of the expected prey, 
+They sink or perish in the dreadful shock! 
+And lo! impatient of the expected prey, 
 O'er the firm ice a bear pursues their way; 
 
 
@@ -6105,7 +6090,7 @@ His snowy hairs with rage erected stood;
 
 He snuffs the scented gale, and longs to clasp* 
 
-The unhappy victims in his fatal grasp ! 
+The unhappy victims in his fatal grasp! 
 
 But as his feet prepare to tempt the tide, 
 
@@ -6143,7 +6128,7 @@ carnivorous animals are solitary, each cavern must have contained only one,
 or perhaps a pair. What a long succession of generations does this render 
 necessary, to produce the accumulation of bones which lias long supplied 
 the apothecaries of Germany with phosphate of lime, and still remains to 
-excite the wonder of the naturalist ! Cuvier, $c. 
+excite the wonder of the naturalist! Cuvier, $c. 
 
 t The power of water and of ice, as conductors of sound, is mudi superior 
 
@@ -6313,14 +6298,14 @@ m 3
 " Her fairy dreams of happiness and love: 
 
 " When, with the cheerful confidence of youth, 
-" I listen'd, Alfred ! to thy vows of truth, 
+" I listen'd, Alfred! to thy vows of truth, 
 " And thought thy love so sure a source of joy, 
 " The storms of life might pass unheeded by. 
-" Oh ! whither art thou fled, what bonds restrain, 
+" Oh! whither art thou fled, what bonds restrain, 
 " What spells delude thee, or what walls detain:" 
 
 The captive ceased; for who is yonder knight, 
-And who yon nymph ? So sudden was the sight, 
+And who yon nymph? So sudden was the sight, 
 It almost seemed that fancy but defined 330 
 
 Those forms so strongly imaged in her mind; 
@@ -6599,7 +6584,7 @@ He rears his sparkling crest — but what avails
 His breath of fire, his adamantine scales, 
 His venom'd fangs, or fascinating glance, 460 
 
-That chills its victim, ere the foe advance !* 
+That chills its victim, ere the foe advance!* 
 
 * A great deal has been said respecting the power of fascination supposed 
 to be exerted by serpents over small animals: Dr. Liehtenstein, in his 
@@ -6674,7 +6659,7 @@ For still in musing mood Marino staid;
 Perchance fond fancy trac'd the form and mien, ,5C 
 
 And all the beauties of his bride unseen. 
-When lo ! two damsels to the presence came. 
+When lo! two damsels to the presence came. 
 Whose graceful forms might colder hearts inflame: 
 The one a veil's depending folds conceal'd, 
 The other shone in all her charms reveal'd, 
@@ -6701,11 +6686,11 @@ Those gentle looks bely a sterner mind.
 book iv. THE SEA. 17? 
 
 " If wealth can aid, our treasur'd stores command, 520 
-" If arms, ourself, and all our subject band !" 
+" If arms, ourself, and all our subject band!" 
 
 Before his throne she fell; the monarch tried 
 In vain to raise her, while she thus replied: 
-" Thanks, generous king ! but till thine answer seals 
+" Thanks, generous king! but till thine answer seals 
 " My future fortune, here thy suppliant kneels; 
 " Nor arms, nor wealth can aid; for tho' unknown, 
 " The boon I crave depends on thee alone. 
@@ -6741,11 +6726,11 @@ For we, ourselves still anxious to deceive, 550
 
 Hope what we wish, and what we hope believe. 
 With eager voice — by sudden love inflam'd, 
-u I yield the Veil !" the fickle king exclaim'd, 
-" On charms unseen my fancy feeds no more ! 
-" Haste ! Clydon, haste ! Miranda's pledge restore, 
-" Yet ! ere you part, be here your homage shewn, 
-" Here, to the destiu'd partner of my throne ! 
+u I yield the Veil!" the fickle king exclaim'd, 
+" On charms unseen my fancy feeds no more! 
+" Haste! Clydon, haste! Miranda's pledge restore, 
+" Yet! ere you part, be here your homage shewn, 
+" Here, to the destiu'd partner of my throne! 
 " And thou, bright fair, in happy moment seen, 
 " Receive the vows that hail thee as my queen." 
 
@@ -6758,10 +6743,10 @@ As sudden clouds obscure the April day.
 
 BOOK IV. THE SEA. 179 
 
-" Alas! my generous lord !" she cried, " I claim, 
-" The sport of wayward fate, Miranda's name ! 
+" Alas! my generous lord!" she cried, " I claim, 
+" The sport of wayward fate, Miranda's name! 
 " Yet if this form have rais'd one thought of love, 
-" Oh ! let that thought thy mind to mercy move, 
+" Oh! let that thought thy mind to mercy move, 
 " Still let thy generous hand my pledge restore* 
 " And leave me not more wretched than before." 
 
@@ -6773,7 +6758,7 @@ And the fair maid with looks of anguish view'd.
 " Tho' from my breast its sweetest hope is riven, 
 " Love must not triumph o'er a promise given." 
 At length he said — " My adverse fates prevail, 
-" Blest be thy future hours, and thine the Veil ! 
+" Blest be thy future hours, and thine the Veil! 
 " Yet ere a gift so valued I resign, 
 " Find me some maid whose form may equal thine; 
 " Nor let her outward charms alone allure, 580 
@@ -6799,7 +6784,7 @@ Bright as from clouds emerged, the silver moon, 590
 As on the evening of the jousts array 'd 
 Her slender waist Marino's gift displayed. 
 
-" Alas !" he said, " my heart condemn'd to roam, 
+" Alas!" he said, " my heart condemn'd to roam, 
 11 Still wanders on, nor ever finds a home; 
 " My fatal vow to thee my love denied, 
 " Or never had I sought an earthly bride." — 
@@ -6840,7 +6825,7 @@ The knights, tho' loth, the monarch's will obey.
 The lute's soft sound, the trump, and mellow horn, 
 And songs of pleasure rous'd the lingering morn; 6'20 
 What splendid scenes unfolded to the sight 
-The soft effulgence of its emerald light ! 
+The soft effulgence of its emerald light! 
 The monarch's hall, of shells and coral rais'd, 
 With pearl and gold and gems unnumber'd blaz'd. 
 N 3 
@@ -6974,7 +6959,7 @@ Was like a wave around their armour roll'd;
 
 " Oh! may success on all your steps attend, 
 
-" And your long labours find a happy end ! 
+" And your long labours find a happy end! 
 
 " And when his richest blessings Fortune showers, 
 
@@ -7010,7 +6995,7 @@ And paid his graceful homage to the king;
 
 " Or these brave knights begin their journey hence, 720 
 
-" Hear me ! within this circle stands a knight, 
+" Hear me! within this circle stands a knight, 
 
 " Whom I have sworn to meet in deadly fight, 
 
@@ -7028,7 +7013,7 @@ And paid his graceful homage to the king;
 
 " Him I defy, and in your royal sight, 
 
-" Will prove unworthy of the name of knight !" 730 
+" Will prove unworthy of the name of knight!" 730 
 
 The monarch's cheek, where deeper crimson glow'd 
 As spoke the stranger knight, his anger shew'd: 
@@ -7047,7 +7032,7 @@ mook iv. THE SEA.
 
 " Himself, his knighthood, and his noble race. 
 
-" Knight of the Dolphin, here his name declare ! 
+" Knight of the Dolphin, here his name declare! 
 
 " Tho' high his rank, and as a brother dear, 
 
@@ -7082,7 +7067,7 @@ The queen meanwhile the sad Miranda cheers,
 
 188 THE SEA. book iv. 
 
-" His heart is brave, then in his valour trust ! 
+" His heart is brave, then in his valour trust! 
 
 " Just is his cause, and heaven protects the just!" 
 
@@ -7090,7 +7075,7 @@ Impatient Henry mourns the impending fray,
 Griev'd such a charge should thus their course delay, 
 While Alfred snatch'd the gauntlet from the ground, 760 
 And rode in haste the listed circle round, 
-" Come on," he cried; " 'tis false ! my sword shall shame 
+" Come on," he cried; " 'tis false! my sword shall shame 
 " Thy recreant heart, and vindicate my fame." 
 
 The signal given, they ran, but stood the stroke, 
@@ -7108,7 +7093,7 @@ The clamorous circle, or expiring steed.
 
 
 
-" The conflict cease !" exclaim'd the king; " the fight 
+" The conflict cease!" exclaim'd the king; " the fight 
 
 " Enough has clear'd the fame of Albion's knight; 
 
@@ -7118,21 +7103,21 @@ The clamorous circle, or expiring steed.
 
 " Just guerdon of the coward, who in strife 780 
 
-** Assails with poison'd arms his foeman's life !" 
+** Assails with poison'd arms his foeman's life!" 
 
 The Dolphin warrior in amazement stood, 
 And now the steed, and now the falchion view'd; 
 The crowd pour on, ungovern'd in their rage, 
 And as a dog with pelting stones engage; 
 He rais'd his burnish'd helm — a face appears 
-By all remember'd, tho' unseen for years ! 
+By all remember'd, tho' unseen for years! 
 Fresh wonder staid the throng, disgrace and shame 
 Could never mingle with Delphino's name. 
-" Hear me, oh king ! and by that honour gain'd 790 
+" Hear me, oh king! and by that honour gain'd 790 
 
 " In many a dangerous field, and yet unstain'd, 
 " My fame shall from this ordeal rise more bright, 
-" Or hence I fly self-banish'd from your sight ! 
+" Or hence I fly self-banish'd from your sight! 
 
 " Thrice have the seasons chang'd, and thrice renew'd, 
 u Since at your royal side in fight 1 stood; 
@@ -7177,9 +7162,9 @@ u Since at your royal side in fight 1 stood;
 
 book iv. THE SEA. 191 
 
-" Disgrace/' the king exclaim'd, " on her alone ! 820 
+" Disgrace/' the king exclaim'd, " on her alone! 820 
 " Come to my arms, thou bulwark of my throne. 
-" O ! lost so long, so long as dead deplor'd! 
+" O! lost so long, so long as dead deplor'd! 
 " And now, upon this happy day restor'd — ■ 
 " But say, what sister of the briny wave 
 " To thee those arms and poison'd weapon gave?" 
@@ -7230,7 +7215,7 @@ Scornful she stood, nor would the crime disown.
 
 
 
-" That is thy home ! in fro/en solitude, 
+" That is thy home! in fro/en solitude, 
 
 " There cleanse thy heart in deepest guilt embued." 
 
@@ -7243,7 +7228,7 @@ Perhaps Lymnoria hoped her tears might move 8/0
 In him some feeling of forgotten love, 
 Or if condemned, the magic of her eyes 
 In her defence would bid his warriors rise. 
-But, no ! — if love rebellion dared suggest, 
+But, no! — if love rebellion dared suggest, 
 Reason subdued the thought, or shame supprest; 
 While those who late her lightest word obeyed, 
 Now turn'd indignant from the guilty maid: 
@@ -7278,7 +7263,7 @@ And with their peers, the sovereigns laid aside
 The cold restraints of state and regal pride; 
 Mirth at the table sate, a welcome guest, 
 And darkness clos'd unmark'd upon the feast. 
-When lo ! on every side, a sudden light 
+When lo! on every side, a sudden light 
 From lamps unnumber'd burst upon the sight, 900 
 
 While echoing from a thousand fairy bowers, 
@@ -7502,7 +7487,7 @@ And Rome's imperial town, whose temples shone
 In the red splendour of the setting sun. 
 
 As slowly now descend the shades of night, 
-What glories burst on Leonora's sight ! 
+What glories burst on Leonora's sight! 
 Far to the left, the flame in flashes broke 
 Thro' the thick volumes of incumbent smoke 
 That shroud Vesuvio's head • before them far, 
@@ -7771,7 +7756,7 @@ And down the cliff rush'd rattling to the main,
 
 Dash'd on the rocks, or sought the abyss again. 
 
-Awhile she paus'd: " Oh thou ! resplendent queen, 
+Awhile she paus'd: " Oh thou! resplendent queen, 
 " Chief of the powers that rule this awful scene, 
 " Hear, from thy throne of fire, a suppliant maid, 
 " Propitious hear, and grant thy promis'd aid. 
@@ -7794,7 +7779,7 @@ BOOK v. STKOMBOLI. 211
 " Mid waves of liquid fire my frame can shield, 230 
 
 " Where stubborn earths and shining metals yield; 
-" Oh ! by some gracious sign thy favour shew, 
+" Oh! by some gracious sign thy favour shew, 
 " And guide me thro' yon gulf that boils below." 
 
 She spoke, and deep the roaring flood retires 
@@ -7837,7 +7822,7 @@ From the full spehdour of that crimson light,
 And shrunk from flames that round innocuous fly, 
 Soft as the evening zephyr's vernal sigh. 
 
-How vast the fiery realm ! around her stood 260 
+How vast the fiery realm! around her stood 260 
 
 Unnumber'd Sprites, that various tasks pursu'd; 
 Surpris'd she saw, where some of gentler birth 
@@ -8052,7 +8037,7 @@ With sudden cold congeal the lucid wall,
 The crystal mass in clefts and fissures rent, 
 Would like Castagna's mount a scene present.* 
 
-Stupendous sight ! at Pyros' might amaz'd, 
+Stupendous sight! at Pyros' might amaz'd, 
 Alonzo on those giant trophies gazed. 
 Then turn'd to view St. Angelo's vast height,f 
 Which rose in rugged grandeur on the sight, 
@@ -8321,7 +8306,7 @@ much investigation.
 
 " Lest we the horrors of her doom should share." J 
 
-" No !" said a youth, " be prayers and praises given 
+" No!" said a youth, " be prayers and praises given 
 
 " As to a saint that leaves her throne in heaven! 
 
@@ -8380,7 +8365,7 @@ And leagued with hot Scirocco's baleful breath,
 
 Had spread around this atmosphere of death.* 
 
-Rebellious Sylph ! in vain thine arts essay 450 
+Rebellious Sylph! in vain thine arts essay 450 
 
 To stop the knight; thy monarch guards his way. — 
 
@@ -8451,7 +8436,7 @@ The gallant Phlogos hastes to closer war.
 
 Short was the strife — what mortal could withstand 
 
-The fierce attack of his unconquer'd hand ! 
+The fierce attack of his unconquer'd hand! 
 
 The knight invokes celestial aid in vain; 
 
@@ -8473,8 +8458,8 @@ His victim to the inhospitable shore.
 " But whence," he cried, " and who this knightly pair 
 " That treads these nether realms with dauntless air? 
 " At their approach the sprites in haste retire, 
-" And safe they move amid encircling fire ! 
-" Stand knights ! in death your trespass you atone, 4Q0 
+" And safe they move amid encircling fire! 
+" Stand knights! in death your trespass you atone, 4Q0 
 " Or win your dangerous passage with my own." 
 
 The summons soon obey'd, in deadly fight 
@@ -8551,23 +8536,23 @@ o 3
 
 " What means this sight, that mortal knights and strange 
 
-" Thus through our kingdom unmolested range ? 
+" Thus through our kingdom unmolested range? 
 
-" E'en to our presence force their desperate way ! 
+" E'en to our presence force their desperate way! 
 
-" At their approach why shrink the sprites away ? 
+" At their approach why shrink the sprites away? 
 
-" Slaves ! ye that oft in victory's dangerous field 
+" Slaves! ye that oft in victory's dangerous field 
 
 " The Gnomes o'erthrew, or bade the Hydidae yield, 550 
 
-" Fear ye a mortal's arm ? advance, and shew 
+" Fear ye a mortal's arm? advance, and shew 
 
 f( That none unpunish'd tread this realm below. 
 
 " Promptly avenge your lord's insulted throne, 
 
-" And let their lives their rash attempt atone !" 
+" And let their lives their rash attempt atone!" 
 
 The monarch spoke; while, chafed with inward ire, 
 His nostrils breath'd, his eyeballs flash 'd with fire; 
@@ -8608,13 +8593,13 @@ And welcom'd Henry with a friend's embrace.
 
 " Forgive, brave knight," he said, " thy name unknown, 
 " Our angry mien and strange reception shewn, 
-u Hail to these nether regions ! and receive 580 
+u Hail to these nether regions! and receive 580 
 
 " Such welcome as a grateful prince should give, 
 " And be thy boon of worth at once to prove 
 " Our friend's confiding mind, and Pyros' love." 
 
-" Such shall it be !" the generous knight rejoin'd, 
+" Such shall it be!" the generous knight rejoin'd, 
 " Not for myself I tax thy noble mind; 
 " Here stands a maid, a suppliant at thy throne, 
 a Whose tearful eyes her suit successless own; 
@@ -8638,10 +8623,10 @@ q4
 
 " And claim the joy to noble natures dear, 
 
-" When smiles contend with beauty's grateful tear ?" — 
+" When smiles contend with beauty's grateful tear?" — 
 
 " What! yield the Veil, that late I deeply swore 
-" To her I never, never would restore ! — 
+" To her I never, never would restore! — 
 " I sought her love, and pleas'd she heard my tale, 
 " Pledge of her faith, she freely gave the Veil 
 a She now with tears would claim, — but far away 600 
@@ -8659,7 +8644,7 @@ a She now with tears would claim, — but far away 600
 
 book v. STROMBOLI. 233 
 
-u l Alas !' she said, ' these groves already wear 6 10 
+u l Alas!' she said, ' these groves already wear 6 10 
 
 " The joyous livery of the vernal year, 
 
@@ -8671,9 +8656,9 @@ u l Alas !' she said, ' these groves already wear 6 10
 
 " Of hope and love, and still his image dwells, 
 
-" Soon must I tear that image from my heart ! 
+" Soon must I tear that image from my heart! 
 
-" And soon to fire's terrific realms depart ! 
+" And soon to fire's terrific realms depart! 
 
 " Doom'd, by the rashness of one fatal hour, 
 
@@ -8701,7 +8686,7 @@ u l Alas !' she said, ' these groves already wear 6 10
 
 " Yet think not thy inconstancy, thy scorn, 630 
 
-" Ungrateful maid ! by me are tamely borne; 
+" Ungrateful maid! by me are tamely borne; 
 
 
 
@@ -8745,7 +8730,7 @@ u l Alas !' she said, ' these groves already wear 6 10
 
 " The fatal pledge thou canst not yield to ber." 
 
-" I will !" the king in eager transport said, 
+" I will!" the king in eager transport said, 
 And o'er his form a milder lustre play'd: 
 
 
@@ -8753,7 +8738,7 @@ And o'er his form a milder lustre play'd:
 book v. STROM BOLL 235 
 
 " Well pleased I yield, uor deem caprice or pride, 
-" Sweet maid ! to thee so long the gift denied; 
+" Sweet maid! to thee so long the gift denied; 
 " O'er my rash vow propitious fates prevail, 
 " I pause no more, Alonzo, thine the Veil! 
 " Restore it to those lovely locks, and may 
@@ -8773,7 +8758,7 @@ Nor linger'd long the fair Iberian maid.
 She bids farewell — in Chliarotes' care, 670 
 
 Thro' the deep gulf again she mounts to air. 
-And oh ! how lovely to her wearied eye, 
+And oh! how lovely to her wearied eye, 
 The moon's soft light, the azure of the sky, 
 The still and placid grandeur of the scene, 
 The haunts of man, the tufts of sober green, 
@@ -8786,13 +8771,13 @@ And that red cloud, that in the blue expanse,
 
 With rapid motion sailing, met her glance; 
 
-Is that her airy car ? — with what delight 
+Is that her airy car? — with what delight 
 
-She watch'd it sinking from the ethereal height ! 
+She watch'd it sinking from the ethereal height! 
 
 How softly seem'd the evening gale to breathe, 680 
 
-How calm the waves of ocean slept beneath ! 
+How calm the waves of ocean slept beneath! 
 
 While its fair freight the aerial vessel bore, 
 
@@ -9059,7 +9044,7 @@ At two small seats in silence points the guide,
 book vi. THE RESTORATION. 345 
 
 The Sylph supports and cheers the entering maid; 
-" Descend !" the Gnome in voice of thunder said. 
+" Descend!" the Gnome in voice of thunder said. 
 Sad on her ear those hollow accents came, 
 And thrill'd with horror all her shrinking frame. 
 From his dark form she turn'd her glistening eyes, 80 
@@ -9071,7 +9056,7 @@ While fainter as it shone, her eager sight
 More keenly strain'd to catch the latest light, 
 And when it fled, with grief and fear opprest, 
 She droop'd, and hope forsook her aching breast. 
-" Alas !" she thought, " in that bright point, the skies 
+" Alas!" she thought, " in that bright point, the skies 
 " And cheerful day for ever fled mine eyes; 
 " I go a living victim to the tomb, 90 
 
@@ -9110,7 +9095,7 @@ While through the narrow path of damp and gloom
 Their steps are lighted by the sullen Gnome. 
 
 But now, what cheerful sounds and sudden light 
-Burst in full splendour on her dazzled sight ! 
+Burst in full splendour on her dazzled sight! 
 A vast saloon the astonished travellers gain, 
 Where silver columns the bright dome sustain; 
 Four spacious galleries stretch the chamber round, 
@@ -9213,9 +9198,9 @@ The watchful Sylph his powerful arms expands,
 
 Seiz'd the foul Sprite, and crush'd him in his hands; 
 
-Or, withering at his touch, unhappy fair ! 
+Or, withering at his touch, unhappy fair! 
 
-Thy fears and hopes at once had ended there ! — 
+Thy fears and hopes at once had ended there! — 
 
 Bright beam the lamps, the Gnomes recovered rise, 
 
@@ -9293,7 +9278,7 @@ Here paus'd the Sylph, and turning to the maid,
 
 " Now fate propitious speed thy suit!" he said; 190 
 
-" Why is that eye deprest with sudden fear ? 
+" Why is that eye deprest with sudden fear? 
 
 " My presence will but mar thy fortunes here; 
 
@@ -9381,7 +9366,7 @@ Hope gaz'd with transport on his dawning sway,
 
 And blazon'd brighter still his noontide ray. 
 
-But ah ! too soon the monarch's heart around 
+But ah! too soon the monarch's heart around 
 
 His serpent folds false Oreichalcon wound, 
 
@@ -9451,7 +9436,7 @@ The chiefs around in silent rapture pause,
 
 Or join the whisper'd murmur of applause. 
 
-Not so the king ! for tho' in mute delight 
+Not so the king! for tho' in mute delight 
 
 On her lov'd form he fed his ravish'd sight, 260 
 
@@ -9494,17 +9479,17 @@ She tried to move his unrelenting heart.
 " Alas!" she said, " what hate thy bosom bears, 
 " Thus to rejoice and triumph in my tears, 
 " Destroy each vision youthful hope has wove, 
-" And wound thus deeply in the mask of love ! 
-" Can this be love ? — No; love is ever prone 
+" And wound thus deeply in the mask of love! 
+" Can this be love? — No; love is ever prone 
 " To prize its object's weal before its own; 
-" Ah, yet relent ! ere, worn by lengthen'd grief, 
+" Ah, yet relent! ere, worn by lengthen'd grief, 
 " My frame decays, and death shall yield relief; 
-" And oh ! if e'er thy bosom thrill'd with joy 
+" And oh! if e'er thy bosom thrill'd with joy 
 " When tears of rapture fill'd the glistening eye, 
 " And virtue long opprest, by thee restor'd, 
 " A thousand blessings on thy name implor'd, 
-" Oh ! let my voice, my woes, my tears prevail, 
-" My sufferings pity, and restore the Veil !" 
+" Oh! let my voice, my woes, my tears prevail, 
+" My sufferings pity, and restore the Veil!" 
 
 
 
@@ -9517,12 +9502,12 @@ s
 Albruno gaz'd upon the maid and sigh'd; 290 
 
 Awhile he musing stood, and then replied, 
-" Unhappy me ! whom adverse fates compel 
+" Unhappy me! whom adverse fates compel 
 " To cause the woe of one I love so well; 
-" Oh ! why that love with hate requite ? and why 
-" Still ask a boon which love must still deny ? 
+" Oh! why that love with hate requite? and why 
+" Still ask a boon which love must still deny? 
 " Claim ought but this, and if to grant be mine, 
-" My power, my crown, my sceptre, all are thine ! 
+" My power, my crown, my sceptre, all are thine! 
 " Thine are my treasures, all my secret store, 
 " By Gnome or mortal never view'd before; 
 " Thine Ophir's vaunted gold, the wealth that shines 300 
@@ -9549,14 +9534,14 @@ book vr. THE RESTORATION. 257
 
 " And choicest diamonds from Brazilian shores. 
 
-" Doubtst thou my love ! look round this realm and see 
-" What endless labours vex my slaves for thee ! 
+" Doubtst thou my love! look round this realm and see 
+" What endless labours vex my slaves for thee! 
 " See, where yon hills rise towering on the sight, 
 " The landscape emulates the fields of light, 
 " Yon ruby sun now darts his mimic rays, 
-" This lofty dome the evening sky displays ! 
+" This lofty dome the evening sky displays! 
 " Let these prevail, a favouring ear incline, 
-" And oh ! by choice, and not by force be mine. 
+" And oh! by choice, and not by force be mine. 
 " Bid my glad spirits dress the nuptial bower, 320 
 
 " For know, the Veil I never can restore." 
@@ -9595,12 +9580,12 @@ And, as the damsel weeping left the hal),
 
 Her faltering steps the monarch's words recall. 
 
-" Stay, lov'd Maria, stay ! my anxious heart 
+" Stay, lov'd Maria, stay! my anxious heart 
 " Iu all thy sufferings bears an equal part, 
 " I mourn each shade of grief that clouds thine eye, 340 
 " Feel every tear, and echo every sigh. 
 " Oh could I dry those tears — that this might be 
-" At any price but that of yielding thee ! 
+" At any price but that of yielding thee! 
 
 " Too well I know why all my prayers are vain, 
 " As lunar beams to melt the frozen main; 
@@ -9626,7 +9611,7 @@ book vr. THE RESTORATION. 259
 " With me two Gnomes shall vindicate my right, 
 " And should my warriors vanquish'd press the field, 360 
 " Victor myself, I yet the pledge will yield; 
-e&lt; (Oh, may the fates a happier doom decree !) 
+e&lt; (Oh, may the fates a happier doom decree!) 
 " Who wins the battle, wins the Veil and thee. 
 " And while my busy sprites the lists prepare, 
 " On earth my heralds shall the fight declare 
@@ -9682,7 +9667,7 @@ The first faint crimson streak'd the eastern sky,
 When thro' the nether realms the sounding gong 400 
 
 Call'd to the lists Albruno's vassal throng. 
-A brilliant ring ! yet many a blooming maid, 
+A brilliant ring! yet many a blooming maid, 
 And aged matron, mourning robes array'd, 
 And oft the anxious eye look'd round in vain 
 For warriors sleeping on the battle plain. 
@@ -9693,7 +9678,7 @@ Some victim drest for ancient sacrifice.
 The hour-glass told the fatal moment near, 410 
 
 Its last sands ran, yet was not Henry there. 
-" Ah !" thought Maria, " whither dost thou rove, 
+" Ah!" thought Maria, " whither dost thou rove, 
 " While instant danger threats thy distant love, 
 " While I the moments count in torturing fear, 
 " The day may pass, nor thou the summons hear; 
@@ -9743,7 +9728,7 @@ book vi. THE RESTORATION. 203
 Twice was the summons given, no answer came, 
 .And a chill faintness seiz'd the maiden's frame; 
 Again in louder tone the herald cried, 
-" Prepare — we come !" a hollow voice replied. 
+" Prepare — we come!" a hollow voice replied. 
 Yet vainly search'd the anxious eye around, 
 No warrior entering, answered to the sound, 
 But like the troubled waters of the main, 
@@ -9757,7 +9742,7 @@ First Henry came, and on Maria threw
 A cheerful glance, that wak'd her hopes anew, 
 And as the throng stand speechless with surprize, 
 To instant fight the astonish'd king defies. 
-While Alfred and Alonzo, gallant pair ! 
+While Alfred and Alonzo, gallant pair! 
 Firm on the closing ground the conflict dare. 460 
 
 All pause in wonder, but the most amaz'd, 
@@ -9770,7 +9755,7 @@ s 4
 
 264 THE RESTORATION. cook vi. 
 
-" How comes he here ?— by whom releas'd ? — and how ? — 
+" How comes he here?— by whom releas'd? — and how? — 
 
 " His treacherous guards — but 'tis no matter now, 
 
@@ -9780,7 +9765,7 @@ s 4
 
 He turn'd — " Rash youth, and dost thou madly run 
 
-" To brave that arm which prudence bids thee shun ?" 
+" To brave that arm which prudence bids thee shun?" 
 
 Aloud he cried — " then on, proud mortal, come, 
 
@@ -9920,9 +9905,9 @@ His broken mail his wounded shoulder shew'd,
 
 But from die wound no crimson torrent flow'd. 
 
-" Turn, if thou dar'st," cried Henry, " coward Sprite ! 
+" Turn, if thou dar'st," cried Henry, " coward Sprite! 
 
-" Or dar'st thou but with foes unarm'd the fight ?" 550 
+" Or dar'st thou but with foes unarm'd the fight?" 550 
 
 Stung with the taunt, Albruno turn'd — his foe 
 
@@ -9979,11 +9964,11 @@ Now proud Albruno, mad that mortal knight
 So long with him sustained a doubtful light, 580 
 
 Infuriate spoke: " Too long thy arts evade 
-" The fate impending on thy guilty head ! 
-" What spells secure thy mail ? what powerful charm 
-" Eludes the vengeance of Albruno's arm ? 
+" The fate impending on thy guilty head! 
+" What spells secure thy mail? what powerful charm 
+" Eludes the vengeance of Albruno's arm? 
 " No mortal strength, unaided, could withstand 
-" The deadly weight of this immortal hand ! 
+" The deadly weight of this immortal hand! 
 " Yet now receive thy due," — and as he spoke, 
 Full at his head he aim'd the dreadful stroke, 
 The wary youth the threat'ning blow repell'd, 
@@ -10074,13 +10059,13 @@ His sallow cheek, but as he slowly rose,
 
 A sullen shame his gloomy looks disclose. 
 
-" Come ! '; to the champions and the maid he cries, 630 
+" Come! '; to the champions and the maid he cries, 630 
 
-With stifled anger, " take the Veil, your prize ! 
+With stifled anger, " take the Veil, your prize! 
 
 " Retire, ye Gnomes 5 no sprite of Gnomian race 
 
-" Shall view his monarch in this dire disgrace ! " 
+" Shall view his monarch in this dire disgrace! " 
 
 They reach'd the fatal spot; the chains that bound 
 The crystal vase and emerald tripod round, 
@@ -10109,7 +10094,7 @@ The mountains fall, by frequent lightning riven,
 
 Their prayers and tears affrighted mortals pour'd, 
 
-And anxious Ariel knew the Veil kestor'd ! 
+And anxious Ariel knew the Veil kestor'd! 
 
 He blest the sign, and from his throne on high, 
 
@@ -10120,29 +10105,29 @@ To Henry gave the fatal Veil, and spoke:
 " Fate crowns thy arms, proud mortal; I resign 
 " The precious pledge that makes perfection thine; 
 " Fool that I was, to risk the chance of arms, 
-" My dear bought right, and those unequall'd charms ! 
+" My dear bought right, and those unequall'd charms! 
 " Hence, daring warrior, to thy native land — 
 " There boast the triumphs of a mortal hand, 
 " By thee subdu'd, a chief the lord of flame, 
-" And ocean's king have vainly fought to tame ! 
+" And ocean's king have vainly fought to tame! 
 
 
 
 book vi. THE RESTORATION. o 73 
 
-" For thee ! sweet maid, no language can impart 660 
+" For thee! sweet maid, no language can impart 660 
 
 " The agony that rends Aibruno's heart. 
 
-" Oh ! that my will, reversing nature's plan, 
+" Oh! that my will, reversing nature's plan, 
 
 " My life could shorten to a mortal span, 
 
 " To him resign my wealth, my pomp, my power, 
 
-" So thy bright smile might gild the transient hour ! 
+" So thy bright smile might gild the transient hour! 
 
-" Mayst thou be blest ! yet hence thy joy remove, 
+" Mayst thou be blest! yet hence thy joy remove, 
 
 " Nor swell the tortures of despairing love." 
 
@@ -10151,7 +10136,7 @@ At fair Maria's feet her hero fell,
 
 Before the magic glass unconscious kneels — 670 
 
-A wondrous truth the magic glass reveals ! 
+A wondrous truth the magic glass reveals! 
 Dropp'd from his youthful limbs his radiant arms, 
 A grace ethereal heigh ten'd all his charms; 
 Dyed in the rainbow's hues, his wings unfold 
@@ -10161,7 +10146,7 @@ His locks of waving amber flow'd behind;
 In heavenly beauty shines the Sylph confest, 
 And thus his lips the astonish'd maid addrest. 
 
-" Fear not, Maria ! — Since by chance reveal'd 680 
+" Fear not, Maria! — Since by chance reveal'd 680 
 " The truth from thee which yet I wish'd conceaPd; 
 
 
@@ -10225,16 +10210,16 @@ aooK vi. THE RESTORATION. 275
 " Nor shed his blessing on their nuptial hour. 710 
 
 u ' How long,' he cried, ' shall this capricious race 
-" Our labour baffle, and our care disgrace ? 
+" Our labour baffle, and our care disgrace? 
 " Vainly we strive their wanderings to restrain, 
 " The sex is all inconstant, false, and vain.' 
 
 " ' Oh pause,' I cried; ' though one thy bosom vex, 
-" Waste not thy fury on the guiltless sex ! 
+" Waste not thy fury on the guiltless sex! 
 11 How many a female name, from age to age, 
 " Has history blazon'd on her brightest page, 
 &lt;' For virtues Sylphs can scarcely hope to gain, 
-" And constancy we emulate in vain !' 720 
+" And constancy we emulate in vain!' 720 
 
 " ' Fruitless my toil' — the angry Sylph replied 
 " In harsher terms, and storied truth denied, 
@@ -10249,7 +10234,7 @@ T 2
 " His word I took in Evelina's name, 
 " And pledg'd her to redeem her sex's fame, 
 " For she was all that claims our fondest care, 
-" Like thee was virtuous, and almost as fair ! 
+" Like thee was virtuous, and almost as fair! 
 " And should she fail, I vow'd no more to view 
 " Yon starry regions of ethereal blue, 730 
 
@@ -10295,17 +10280,17 @@ book vx. THE RESTORATION. 277
 " And wilt thou leave me," sigh'd the weeping fair, 
 " In this dark realm of anguish and despair?" 
 
-" Leave thee !" Aurelio cried, " bereft of thee, 
-" The realms of light would boast no charms for me ! 
+" Leave thee!" Aurelio cried, " bereft of thee, 
+" The realms of light would boast no charms for me! 
 " I call thee hence, a Sylph's pure joys to share 
 " In those bright fields of empyrean air." 760 
 
-" Stay !" said the king, in whom Aurelio's tale 
+" Stay!" said the king, in whom Aurelio's tale 
 Wak'd a faint hope again to claim the Veil, 
 " Dar'st thou, a Sylph, and hence my mortal foe^ 
 " Thus venture thro' the hostile realms below, 
 " E'en in my presence dare to own the offence, 
-" And hope to pass unmark'd, unpunish'd hence ?— - 
+" And hope to pass unmark'd, unpunish'd hence?— - 
 
 T .0 
 
@@ -10313,7 +10298,7 @@ T .0
 
 278 THE RESTORATION. book vi. 
 
-" Ho ! seize him guards !" — he starapt upon the ground: 
+" Ho! seize him guards!" — he starapt upon the ground: 
 
 The ready vassals enter'd at the sound, 
 
@@ -10337,8 +10322,8 @@ And at his side was seen a lovely maid,
 
 Bright Amiantha, as a bride array'd. 
 
-" Is this a monarch's faith ? these abject chains," 
-He cried, " are these the meed a victor gains ? 780 
+" Is this a monarch's faith? these abject chains," 
+He cried, " are these the meed a victor gains? 780 
 
 " Here at thy call he came, a mortal knight, 
 " With thee to prove the equal chance of fight. 
@@ -10346,8 +10331,8 @@ He cried, " are these the meed a victor gains ? 780
 " And as a mortal claims his due reward; 
 " Claims for himself, these knights, and damsel fair, 
 " Free passage to the realms of light and air. 
-" What frenzy rules thee ? why does passion blind 
-:c The light of reason in thy noble mind ? 
+" What frenzy rules thee? why does passion blind 
+:c The light of reason in thy noble mind? 
 
 
 
@@ -10355,19 +10340,19 @@ book vi. THE RESTORATION. 279
 
 " Has not experience taught thy soul to know 
 
-u From purer sources purer pleasures flow ? 790 
+u From purer sources purer pleasures flow? 790 
 
 " Shake off thy bonds; or since a monarch's throne 
 
 " Wants half its lustre while he rules alone, 
 
-" This maid behold ! — nor can these regions find 
+" This maid behold! — nor can these regions find 
 
 " A nymph more fair in person or in mind; 
 
 " How long with smother'd fires she vainly lov'd 
 
-" I need not say, this every act has prov'd ! 
+" I need not say, this every act has prov'd! 
 
 " And many a Gnome remembers yet the days 
 
@@ -10388,8 +10373,8 @@ And he with new affection hail'd his bride.
 
 " I yield — forgive my errors past," he said, 
 " Ye valiant knights, and each afflicted maid; 
-" Oh ! here may all Maria's sufferings close ! 
-" Be this the last of Amiantha's woes ! 810 
+" Oh! here may all Maria's sufferings close! 
+" Be this the last of Amiantha's woes! 810 
 
 T 4 
 
@@ -10397,7 +10382,7 @@ T 4
 
 280 THE RESTORATION. book vr 
 
-" For me ! the memory of this painful hour 
+" For me! the memory of this painful hour 
 
 " Shall curb my passions, quench the thirst of power, 
 
@@ -10415,7 +10400,7 @@ T 4
 " O'er fire's bright regions, and the azure main. 820 
 
 " I lit the torch of war, the furious fire 
-" I fan no longer, and the flames expire !" 
+" I fan no longer, and the flames expire!" 
 
 
 
@@ -10497,11 +10482,11 @@ And crown with roseate wreaths each happy pair.
 
 Great Ariel now appeared — his gentle look 
 Glanced on each lovely maid, as thus he spoke: 
-" Hail ! blooming nymphs, whose constancy restor'd 
+" Hail! blooming nymphs, whose constancy restor'd 
 " My lov'd Aurelio to his happy lord. 
 " Your woes — a Sylph from human bondage freed—* 
 " Claim from his grateful king an ample meed, 
-" For thee, Maria ! now his chosen bride, 
+" For thee, Maria! now his chosen bride, 
 " Nor less in virtue to our race allied: 
 " Ne'er shall thy lips resign the vital breath, 870 
 
@@ -10529,7 +10514,7 @@ book vi. THE RESTORATION. 283
 
 " Till then his human form Aurelio wears. 
 
-" Miranda, Leonora, lovely pair ! 
+" Miranda, Leonora, lovely pair! 
 " And ye, brave knights, their mortal lot who share, 
 " Yours be each joy that cheers the child of earth, 
 " A blooming race shall deck your social hearth; 
