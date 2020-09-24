@@ -13,7 +13,35 @@ tntsearch:
 ---
 
 <style>
-h3 {font-family: "Noto-Sans", sans-serif; color: black;}
+h1,h2,h3
+{
+	font-family: "Noto Sans", Montserrat, Verdana;
+	Arial: ;
+	sans-serif: ;
+	text-align: center;
+	color: black;
+}
+
+h1
+{
+	font-size: 2rem;
+	letter-spacing: -1px;
+}
+
+h2
+{
+	font-size: 1.4rem;
+	margin-top: 3rem;
+}
+
+h3 { font-size: 1.2rem; }
+
+h4
+{
+	font-size: 1.0rem;
+	font-family: "Noto Sans",sans-serif;
+	color: maroon;
+}
 hr {width: 80%; margin: auto; margin-top: 3em; margin-bottom: 2em;}
 .smallcaps {color: navy; font-size: 1.2rem;}
 </style>
