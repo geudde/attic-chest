@@ -15,9 +15,7 @@ tntsearch:
 <style>
 h1,h2,h3
 {
-	font-family: "Noto Sans", Montserrat, Verdana;
-	Arial: ;
-	sans-serif: ;
+	font-family: "Noto Sans", Montserrat, Verdana; sans-serif: ;
 	text-align: center;
 	color: black;
 }
@@ -30,11 +28,11 @@ h1
 
 h2
 {
-	font-size: 1.4rem;
+	font-size: 1.6rem;
 	margin-top: 3rem;
 }
 
-h3 { font-size: 1.2rem; }
+h3 { font-size: 1.4rem; }
 
 h4
 {
@@ -43,7 +41,7 @@ h4
 	color: maroon;
 }
 hr {width: 80%; margin: auto; margin-top: 3em; margin-bottom: 2em;}
-.smallcaps {color: navy; font-size: 1.2rem;}
+.smallcaps {color: navy; font-size: 1.1rem;}
 </style>
 
 <div class="center">
