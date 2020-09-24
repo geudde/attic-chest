@@ -13,9 +13,9 @@ tntsearch:
 ---
 
 <style>
+h3 {font-family: "Noto-Sans", sans-serif; color: black;}
 hr {width: 80%; margin: auto; margin-top: 3em; margin-bottom: 2em;}
 .smallcaps {color: navy; font-size: 1.2rem;}
-.signature {color: navy; font-size: 1.1rem;}
 </style>
 
 <div class="center">
