@@ -447,7 +447,7 @@ Oh my poor resolutions! Yet read the last number of the British Critic, which wa
 > What monsters will beset my track!<br>
 > What one-eyed hordes! What steeds with wings!<br>
 > 
-> > <span class="smallcaps">Eleanor Anne Porden</span>
+> <span class="smallcaps">Eleanor Anne Porden</span>
 
 ---
 
