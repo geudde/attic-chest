@@ -52,13 +52,17 @@ blockquote
 
 </style>
 
-## The Triumph of Constancy
+## or<br>The Triumph of Constancy
 
+<div class="center">
+<p>
 Of Earth and Air I sing, of Sea and Fire,<br>
 And various wonders that to each belong,<br>
 And while to stubborn themes I tune the lyre,<br>
 “Fierce wars and faithful loves shall moralize my song.” 
-
+</p>
+</div>
+---
 <div class="center">
 <p>The Right Honourable<br> 
 Lavinia,<br>
@@ -66,35 +70,12 @@ Countess Spencer,<br>
 This Poem<br>
 Is Respectfully Inscribed<br> 
 By Her Ladyship's Obedient Servant,<br> 
-The Author. 
+The Author.<br>
 (Eleanor Anne Porden)
 </p>
 </div>
 
-
-
-
-CONTENTS. 
-
-
-
-PAGE 
-
-Book I. The Castle 1 
-
-II. The Earth 47 
-
-III. The Escape . 95 
-
-IV. The Sea 145 
-
-V. Stromboli 197 
-
-VI. The Restoration 237 
-
-Persons of the Poem 287 
-
-
+---
 
 A young lady, one of the members of a small society which meets periodically for literary amusement, lost her Veil (by a gust of wind) as she was gathering shells on the coast of Norfolk. This incident gave rise to the following Poem, which was originally written in short cantos, and afterwards extended and modelled into the form in which it is now respectfully submitted to the public. The author, who considers herself a pupil of the Royal Institution, being at that time attending the Lectures given in Albemarle-Street, on Chemistry, Geology, Natural History, and Botany, by Sir Humphry Davy, Mr. Brand, Dr. Roget, Sir James Edward Smith, and other eminent men, she was induced to combine these subjects with her story; and though her knowledge of them was in a great measure orally acquired, and therefore cannot pretend to be extensive or profound, yet, as it was derived from the best teachers, she hopes it will seldom be found incorrect.
 
