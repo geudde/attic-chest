@@ -159,155 +159,97 @@ The knights with thee till morn the watch will share,<br>
 The maids with thine partake the Baron’s care.” 
 
 Brave Henry to the proffered terms agreed,<br>
-Then o'er the drawbridge guides Maria's steed;<br>
+Then o’er the drawbridge guides Maria’s steed;<br>
 The warder there admits the Knight and Maid,<br>
 And through a court of Gothic grandeur led;<br>
 His Lord received them in a spacious hall,<br>
-
-Where martial trophies decked the storied wall, 
-And many a pictured pannel seemed to trace 
-The ancient glories of a noble race. 
-On couches there two wearied maids repose, 
-Who now to meet the lovely stranger rose, 
-While with that courtesy which marks the brave, 
+Where martial trophies decked the storied wall,<br>
+And many a pictured pannel seemed to trace<br>
+The ancient glories of a noble race.<br>
+On couches there two wearied maids repose,<br>
+Who now to meet the lovely stranger rose,<br>
+While with that courtesy which marks the brave,<br>
 Two youths to Henry cordial greeting gave. 
 
-Fair was each damsel, but the fairest far 
-Maria seemed, like evening's dewy star, 
-When all the rival fires that grace the night 80 
+Fair was each damsel, but the fairest far<br>
+Maria seemed, like evening’s dewy star,<br>
+When all the rival fires that grace the night<br>
+By their own splendour prove her richer light:<br>
+As far in speech, in mien, and courteous mind,<br>
+Brave Henry left his young compeers behind.<br>
+Soon to a banquet, where, with costly pride,<br>
+Carinthia’s[^1] ores the massy bowl supplied,<br>
+Where Gallia’s grapes their richest nectar poured,<br>
+And tropic dainties piled the groaning board,<br>
+The Baron leads, and tries, with social arts,<br>
+To soothe the anguish of their aching hearts;<br>
+Cheats the dull hour with many a sportive jest,<br>
+And gaily urges the neglected feast,<br>
+Till sorrow slept, and joy from every eye<br>
+Beamed like the sunshine through a wat’ry sky. 
 
-By their own splendour prove her richer light: 
-As far in speech, in mien, and courteous mind, 
-Brave Henry left his young compeers behind. 
-Soon to a banquet, where, with costly pride, 
-Carinthia's* ores the massy bowl supplied, 
-Where Gallia's grapes their richest nectar poured, 
-And tropic dainties piled the groaning board, 
-The Baron leads, and tries, with social arts, 
-To soothe the anguish of their aching hearts; 
-Cheats the dull hour with many a sportive jest, 90 
+[^1]: Carinthia, a duchy of Austria, formerly celebrated for its mines of gold and silver, &amp;c. 
 
-And gaily urges the neglected feast, 
-Till sorrow slept, and joy from every eye 
-Beamed like the sunshine through a wat'ry sky. 
-
-With food refresh 'd, his helm with sable plumes, 
-His lance and shield, each warrior now resumes, 
-And by the warder summoned took his way, 
-Before the bridge to watch till dawn of day. 
-Meanwhile the Baron with surprize surveyed, 
-In garb resembling, every knight and maid, 
-
-* CarintUia, a duchy of Austria, formerly celebrated for its mines of gold 
-and silver, &amp;c. 
-
-B 3 
-
-
-
-6 THE CASTLE. book r. 
-
-Save that, amid her glossy ringlets twined, 100 
-
-A wreath of flowers Maria's locks confined. 
-
-— " And why," he said, " fair ladies, do you shew 
-
-" By dress a seeming fellowship in woe? — 
-
-" What wrongs have forced you from your peaceful home, 
-
-" And why, unveiled, to distant lands you roam, 
-
-" Why comes each knight, in sable arms arrayed, 
-
-" Why on each helm are sable plumes displayed, 
-
-" Fain would I learn: — tho' memory oft may bring 
-
-'* The cup of sorrow bitterest from the spring, 
-
-" Yet pitying friendship to the woe worn heart 110 
-
-(l Repays the pangs remembered griefs impart: 
-
-tc And if your cause should martial aid require, 
-
-" Though stiff my limbs, and quenched my youthful fire, 
-
-" This arm, which erst in many a well-fought day 
-
-" Through Paynim hosts to victory led the way, 
-
-" May yet have strength the sword and lance to wield, 
-
-tl And aid your chosen champions in the field." 
-
-To all he spoke, but most Maria prest, 
-
+With food refresh’d, his helm with sable plumes,<br>
+His lance and shield, each warrior now resumes,<br>
+And by the warder summoned took his way,<br>
+Before the bridge to watch till dawn of day.<br>
+Meanwhile the Baron with surprize surveyed,<br>
+In garb resembling, every knight and maid,<br>
+Save that, amid her glossy ringlets twined,<br>
+A wreath of flowers Maria’s locks confined.<br>
+“And why,” he said, “fair ladies, do you shew<br>
+By dress a seeming fellowship in woe? —<br>
+What wrongs have forced you from your peaceful home,<br>
+And why, unveiled, to distant lands you roam,<br>
+Why comes each knight, in sable arms arrayed,<br>
+Why on each helm are sable plumes displayed,<br>
+Fain would I learn: — tho’ memory oft may bring<br>
+The cup of sorrow bitterest from the spring,<br>
+Yet pitying friendship to the woe worn heart<br>
+Repays the pangs remembered griefs impart:<br>
+And if your cause should martial aid require,<br>
+Though stiff my limbs, and quenched my youthful fire,<br>
+This arm, which erst in many a well-fought day<br>
+Through Paynim hosts to victory led the way,<br>
+May yet have strength the sword and lance to wield,<br>
+And aid your chosen champions in the field.”<br>
+To all he spoke, but most Maria prest,<br>
 Who sighing, thus the listening group addrest. 
 
-tf Oh that the tale I tell had power to charm 120 
-
-Your grief, and anguish of its stings disarm, 
-
-
-
-book i. THE CASTLE. 7 
-
-To speed the hours on pinions of delight, 
-
-Till day should rise, unlooked for, on the night! 
-
-But one rash promise that has sealed my doom 
-
-Will o'er my story cast a mournful gloom. 
-
-Erewhile two youths of differing tempers strove 
-
-With rival ardour to obtain my love, 
-
-One, dark and gloomy, as the bursting storm, 
-
-When lowering clouds autumnal skies deform; 
-
-The other, as the vernal morning gay, 1 30 
-
+“Oh that the tale I tell had power to charm<br>
+Your grief, and anguish of its stings disarm,<br>
+To speed the hours on pinions of delight,<br>
+Till day should rise, unlooked for, on the night!<br>
+But one rash promise that has sealed my doom<br>
+Will o’er my story cast a mournful gloom.<br>
+Erewhile two youths of differing tempers strove<br>
+With rival ardour to obtain my love,<br>
+One, dark and gloomy, as the bursting storm,<br>
+When lowering clouds autumnal skies deform;<br>
+The other, as the vernal morning gay,<br>
 When rosy Phoebus woos the sprightly May. 
 
-" This on his boundless riches loved to dwell, 
-Which might Arabia's fabled hoards excell; 
-Strove to allure my heart with splendid tales 
-Of diamond palaces, and emerald vales, 
-Of amber streams o'er sapphire beds that rolled, 
-And silver seas, and lakes of liquid gold; 
-Described his destined consort's regal state, 
-What slaves in gorgeous robes should round her wait 
-In halls where luxury all her pomp displays, 140 
-
-And fragrant gums in golden censers blaze; 
-From harps unseen while heavenly music flows 
-To cheer the feast, or soothe to soft repose; 
-b 4 
-
-
-
-S THE CASTLE. book i. 
-
-And every lure to fix my fancy tried 
-
-That flatters female vanity and pride; 
-
-But still his gloomy scowl, his eye of fire, 
-
-Was on his rival bent with jealous ire, 
-
-His proud demeanour chilled my soul with dread, 
-
+“This on his boundless riches loved to dwell,<br>
+Which might Arabia’s fabled hoards excell;<br>
+Strove to allure my heart with splendid tales<br>
+Of diamond palaces, and emerald vales,<br>
+Of amber streams o’er sapphire beds that rolled,<br>
+And silver seas, and lakes of liquid gold;<br>
+Described his destined consort’s regal state,<br>
+What slaves in gorgeous robes should round her wait<br>
+In halls where luxury all her pomp displays,<br>
+And fragrant gums in golden censers blaze;<br>
+From harps unseen while heavenly music flows<br>
+To cheer the feast, or soothe to soft repose;<br>
+And every lure to fix my fancy tried<br>
+That flatters female vanity and pride;<br>
+But still his gloomy scowl, his eye of fire,<br>
+Was on his rival bent with jealous ire,<br>
+His proud demeanour chilled my soul with dread,<br>
 And mystery enveloped all he said. 
 
-" The other, nor on wealth nor state relied, 3 56 
-
+"The other, nor on wealth nor state relied, 
 But love alone his eloquence supplied, 
 His manly mind disdained insidious art, 
 And scorned by flattery to ensnare my heart. 
