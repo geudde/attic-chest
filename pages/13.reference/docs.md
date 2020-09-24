@@ -14,4 +14,5 @@ tntsearch:
 
 Extracts, papers, and books related to the Attic Chest.
 
+* Eleanor Anne Porden. [*The Veils*.](porden) London: John Murray, 1815.
 * Edith Mary Gell. [*John Franklin’s Bride*.](gell) London: John Murray, 1930.
