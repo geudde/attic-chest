@@ -64,7 +64,9 @@ And while to stubborn themes I tune the lyre,<br>
 </div>
 ---
 <div class="center">
-<p>The Right Honourable<br> 
+<p>
+To<br>
+The Right Honourable<br> 
 Lavinia,<br>
 Countess Spencer,<br>
 This Poem<br>
@@ -122,8 +124,8 @@ While forms ethereal lightly float in air,<br>
 And weep in pity o’er the injured fair.<br>
 An azure marge the pictured forms enroll’d,<br>
 Where shine these haughty words embost in gold:<br>
-“Proud Gnome, the veil to me, thy rival, yield,<br>
-“Or dare my vengeance in the listed field.” 
+*Proud Gnome, the veil to me, thy rival, yield,<br>
+Or dare my vengeance in the listed field.*
 
 Warned by approaching night, with slackened rein<br>
 They urge their steeds some friendly roof to gain,<br>
@@ -199,7 +201,7 @@ In garb resembling, every knight and maid,<br>
 Save that, amid her glossy ringlets twined,<br>
 A wreath of flowers Maria’s locks confined.<br>
 “And why,” he said, “fair ladies, do you shew<br>
-By dress a seeming fellowship in woe? —<br>
+By dress a seeming fellowship in woe?—<br>
 What wrongs have forced you from your peaceful home,<br>
 And why, unveiled, to distant lands you roam,<br>
 Why comes each knight, in sable arms arrayed,<br>
@@ -249,173 +251,112 @@ Was on his rival bent with jealous ire,<br>
 His proud demeanour chilled my soul with dread,<br>
 And mystery enveloped all he said. 
 
-"The other, nor on wealth nor state relied, 
-But love alone his eloquence supplied, 
-His manly mind disdained insidious art, 
-And scorned by flattery to ensnare my heart. 
-Not long in vain my gentle suitor strove, 
-But still my breast concealed its infant love: 
-Tho' skill'd and proved in every manly art, 
-He struck the ring or hurPd the unerring dart, 
-Beyond his peers the ponderous bar he threw, 
-And bent with surer aim the stubborn yew; 
-I seem'd to scorn the tourney's harmless wreath, 160 
-
-And bad him seek the nobler fields of death; 
-To bear the Cross in Salem's hallow'd laud, 
-Or join our sable Edward's conquering band; 
-Hence with that hero he resolved to sail, 
+“The other, nor on wealth nor state relied,<br>
+But love alone his eloquence supplied,<br>
+His manly mind disdained insidious art,<br>
+And scorned by flattery to ensnare my heart.<br>
+Not long in vain my gentle suitor strove,<br>
+But still my breast concealed its infant love:<br>
+Tho’ skill’d and proved in every manly art,<br>
+He struck the ring or hurl’d the unerring dart,<br>
+Beyond his peers the ponderous bar he threw,<br>
+And bent with surer aim the stubborn yew;<br>
+I seem’d to scorn the tourney’s harmless wreath,<br>
+And bad him seek the nobler fields of death;<br>
+To bear the Cross in Salem’s hallow’d laud,<br>
+Or join our sable Edward’s conquering band;<br>
+Hence with that hero he resolved to sail,<br>
 Whose freighted ships then watched a favouring gale. 
 
+“To me one morn, one fatal morn, he came,<br>
+But nor in manner, speech, or look the same;<br>
+Gone was that cheerful smile, that graceful ease,<br>
+That gentle warmth that marks the wish to please,<br>
+The sportive wit, the fire of hope and joy,<br>
+That still with me illumed my Henry’s eye;<br>
+A sullen sorrow now his looks declare,<br>
+And his hoarse voice rang strangely in mine ear;<br>
+I started — ‘Does Maria then,’ he said,<br>
+‘Grieve at the change her cruelty has made?<br>
+Thou bidst me leave thy presence, bidst me shine<br>
+In glory’s favour, ere I hope for thine;<br>
+Farewell — I sail to Gallia’s hostile shore,<br>
+Return victorious, or return no more;<br>
+But oh, from thee removed, whose sight inspired<br>
+My breast with love, with virtue, valour fired,<br>
+What to my arms, can like thy smile supply<br>
+Art to repel, or vigour to annoy?<br>
+Yet grant some pledge, no happier youth shall gain<br>
+That envied hand, so long desired in vain;<br>
+This in the fight shall steel thy warrior’s breast,<br>
+And soothe his slumbers in the hour of rest.’” 
 
+“’Tis said that ‘often in the parting hour’<br>
+Victorious love asserts superior power,<br>
+I proved it true, when by his prayers subdued,<br>
+These words I spoke, — yet half in jesting mood—<br>
+“Go, Henry, go! be Heaven in fight your shield,<br>
+Your guide to glory thro’ the ensanguined field,<br>
+And unperceived if you this Veil obtain,<br>
+When with the year the hour returns again,<br>
+I plight my faith, with honour’s laurel twined,<br>
+Love’s myrtle crown my warrior’s brows shall bind.” 
 
-book r. THE CASTLE. § 
-
-" To me one morn, one fatal morn, he came, 
-But nor in manner, speech, or look the same; 
-Gone was that cheerful smile, that graceful ease, 
-That gentle warmth that marks the wish to please, 
-The sportive wit, the fire of hope and joy, 170 
-
-That still with me illumed my Henry's eye; 
-A sullen sorrow now his looks declare, 
-And his hoarse voice rang strangely in mine ear; 
-I started — " Does Maria then," he said, 
-" Grieve at the change her cruelty has made? 
-" Thou bidst me leave thy presence, bidst me shine 
-u In glory's favour, ere I hope for thine; 
-" Farewell — I sail to Gallia's hostile shore, 
-" Return victorious, or return no more; 
-" But oh, from thee removed, whose sight inspired 180 
-" My breast with love, with virtue, valour fired, 
-" What to my arms, can like thy smile supply 
-" Art to repel, or vigour to annoy? 
-" Yet grant some pledge, no happier youth shall gain 
-" That envied hand, so long desired in vain; 
-" This in the fight shall steel thy warrior's breast, 
-" And soothe his slumbers in the hour of rest." 
-
-
-
-10 THE CASTLE. book 
-
-" 'Tis said that ' often in the parting hour' 
-Victorious love asserts superior power, 
-I proved it true, when by his prayers subdued, 19 
-
-These words I spoke, — yet half in jesting mood— 
-" Go, Henry, go! be Heaven in fight your shield, 
-" Your guide to glory thro' the ensanguined field, 
-" And unperceived if you this Veil obtain, 
-" When with the year the hour returns again, 
-" I plight my faith, with honour's laurel twined, 
-" Love's myrtle crown my warrior's brows shall bind." 
-
-" The youth I marked, and while I gaily spoke, 
-On his pale face the glow of triumph broke, 
-But not my Henry's sunny smile; it shew'd 20 
-
-Like lightning gleaming on a lurid cloud, 
-And o'er my darkened mind appeared to throw 
-The sad presentiment of future woe, — 
-Then fancy trac'd the battle's bloody plain, 
-The shock of arms, the dying and the slain, 
-Pale on the ground my wounded lover laid, 
-
-The fatal sword uplifted o'er his head 
-
+“The youth I marked, and while I gaily spoke,<br>
+On his pale face the glow of triumph broke,<br>
+But not my Henry’s sunny smile; it shew’d<br>
+Like lightning gleaming on a lurid cloud,<br>
+And o’er my darkened mind appeared to throw<br>
+The sad presentiment of future woe,—<br>
+Then fancy trac’d the battle’s bloody plain,<br>
+The shock of arms, the dying and the slain,<br>
+Pale on the ground my wounded lover laid,<br>
+The fatal sword uplifted o’er his head<br>
 Shuddering I bade him stay — the youth was fled. 
 
-
-
-book i. THE CASTLE. 11 
-
-" But Henry soon returned. He bore a wreath, 
-From whose rich flowers no common odours breathe; 210 
-Their wonted fire again his eyes illumed, 
-And on his cheeks their native roses bloomed; 
-" This wreath," he said, " while constant I remain, 
-" By time uninjured, shall its hues retain; 
-" But should I fall by fate's severe decree, 
-" Or prove unfaithful to my vows and thee, 
-" Those vows that here repeated make me thine, 
-" These flowers their bloom and fragrance shall resign:" 
-He placed it on my head — he sigh'd adieu, 
-Just prest my trembling hand, and then withdrew. 220 
-The precious wreath, preserved with faithful care, 
+“But Henry soon returned. He bore a wreath,<br>
+From whose rich flowers no common odours breathe;<br>
+Their wonted fire again his eyes illumed,<br>
+And on his cheeks their native roses bloomed;<br>
+‘This wreath,’ he said, ‘while constant I remain,<br>
+By time uninjured, shall its hues retain;<br>
+But should I fall by fate’s severe decree,<br>
+Or prove unfaithful to my vows and thee,<br>
+Those vows that here repeated make me thine,<br>
+These flowers their bloom and fragrance shall resign:’<br>
+He placed it on my head — he sigh’d adieu,<br>
+Just prest my trembling hand, and then withdrew.<br>
+The precious wreath, preserved with faithful care,<br>
 I since have worn, and still uninjured wear. 
 
-" Some months elapsed. At length the tidings came 
-Of Poictiers glorious field, and Edward's fame;* 
-Can nobler deeds the daring bard engage? 
-Or brighter virtues grace a future age? 
+“Some months elapsed. At length the tidings came<br>
+Of Poictiers glorious field, and Edward’s fame;[^2]<br>
+Can nobler deeds the daring bard engage?<br>
+Or brighter virtues grace a future age?<br>
 
-* From the commencement of English history, there is no prince, except 
-Alfred, on whose character and exploits the memory dwells with so much 
-fondness, as on those of the sable Edward. The valour and prudence which 
-won the battles of Crecy and Poictiers, two of the most celebrated in our 
-annals, lose their praise in admiration of the moderation and humanity of the 
-youthful hero, even in the moment of victory. 
+[^2]: From the commencement of English history, there is no prince, except Alfred, on whose character and exploits the memory dwells with so much fondness, as on those of the sable Edward. The valour and prudence which won the battles of Crecy and Poictiers, two of the most celebrated in our annals, lose their praise in admiration of the moderation and humanity of the youthful hero, even in the moment of victory. 
 
+There prudence aim'd, and mercy staid the sword,<br>
+While vanquished Gallia mourn'd her captive lord,<br>
+Who now received the honours long denied<br>
+To all his pomp of power and regal pride;[^3]<br>
+The veterans that his Sire to victory led,<br>
+At the glad tidings rais'd the hoary head,<br>
+Blest their brave Prince, and half in envy told<br>
+Their sons had fought — as they had fought of old —<br>
+Where all were heroes, where impatient fame<br>
+Could scarce prefer, and scarce reject a name,<br>
+Where acts, which else in her bright page had shone,<br>
+Past in the blaze of light, unmark'd, unknown;<br>
+Elate I heard of deeds by Henry wrought;<br>
+How with his Prince the hottest fight he sought,
+Once saved the youthful chief and still victorious fought;<br>
+I long'd from Henry's lips his deeds to hear,<br>
+Nor thought how soon my joy would melt in air.
 
+[^3]: “Edward ordered a repast to be prepared in his tent for the prisoner, (King John,) and lie himself served at the royal captive’s table, as if he had been one of his retinue. He stood at the King’s back during the meal, con- stantly refused to take a place at table, and declared that, being a subject, he was too well acquainted with the distance between his own rank and that of majesty to assume such freedom. All his father’s pretensions to the crown of France were now buried in oblivion: John, in captivity, received the honours of a king, which were refused him when seated ou the throne: his misfortunes not his title were respected.” — *Hume*. 
 
-12 THE CASTLE. book i. 
-
-There prudence aim'd, and mercy staid the sword, 
-
-While vanquished Gallia mourn'd her captive lord, 
-
-Who now received the honours long denied 
-
-To all his pomp of power and regal pride;* 230 
-
-The veterans that his Sire to victory led, 
-
-At the glad tidings rais'd the hoary head, 
-
-Blest their brave Prince, and half in envy told 
-
-Their sons had fought — as they had fought of old — 
-
-Where all were heroes, where impatient fame 
-
-Could scarce prefer, and scarce reject a name, 
-
-Where acts, which else in her bright page had shone, 
-
-Past in the blaze of light, unmark'd, unknown; 
-
-Elate I heard of deeds by Henry wrought; ^ 
-
-How with his Prince the hottest fight he sought, 240 V 
-
-'. . i 
-
-Once saved the youthful chief and still victorious fought; } 
-
-I long'd from Henry's lips his deeds to hear, 
-
-Nor thought how soon my joy would melt in air. 
-
-* " Edward ordered a repast to be prepared in his tent for the prisoner, 
-(King John,) and lie himself served at the royal captive's table, as if he had 
-been one of his retinue. He stood at the King's back during the meal, con- 
-stantly refused to take a place at table, and declared that, being a subject, 
-he was too well acquainted with the distance between his own rank and that 
-of majesty to assume such freedom. All his father's pretensions to the crown 
-of France were now buried in oblivion: John, in captivity, received the 
-honours of a king, which were refused him when seated ou the throne: his 
-misfortunes not his title were respected." — Hume. 
-
-
-
-f 1 
-
-
-
-hook i. THE CASTLE. 
-
-" One vernal morn, ('twas in the month of May,) 
+"One vernal morn, ('twas in the month of May,) 
 As on the ocean's side I chanced to stray, 
 My wondering eyes a thousand stones behold, 
 A thousand shells that shone like gems and gold, 
@@ -435,7 +376,7 @@ I started back, and trembling look'd around;
 Beneath my feet a hollow noise I heard, 
 And high the waves their foamy summits reared. 
 My flying steps some magic influence staid, 
-And opening earth a hideous gulf displayed; 260 
+And opening earth a hideous gulf displayed; 
 
 Mid clouds of smoke, and flames of livid blue, 
 A giant form rose slowly to my view. 
@@ -446,7 +387,6 @@ That veil so closely with my fate combined,
 
 
 
-14 THE CASTLE. book r. 
 
 He with insulting transport wav'd in air; 
 His gloomy looks my Henry's foe declare, 
@@ -454,7 +394,7 @@ Though now in robes of regal state he shone,-
 And his dark forehead bore a sparkling crown. 
 
 " In me," he said, " behold the King, whose sway 
-" Thro' earth's unnumber'd caves the Gnomes obey; 270 
+" Thro' earth's unnumber'd caves the Gnomes obey; 
 " Lord of the mine, I own its secret stores, 
 " Its gems, its marbles, and its mineral ores. 
 " Long in a human shape concealed, to gain 
@@ -465,7 +405,7 @@ And his dark forehead bore a sparkling crown.
 " Thy stubborn heart; I claim thy promised love. 
 
 " I wonder not those tears of anguish flow, 
-" That o'er my transports cast a shade of woe, 280 
+" That o'er my transports cast a shade of woe, 
 
 " 5 Tis woman's pride, if we her boast believe, 
 " Ne'er to be duped, but ever to deceive; 
@@ -476,13 +416,12 @@ And his dark forehead bore a sparkling crown.
 
 
 
-book i. THE CASTLE. 15 
 
 " And here she triumphs, where the prayers of love, 
 " And wealth and power have vainly tried to move. 
 
 " Yet why afflicted thus, why thus disdain 
-" The hand a thousand beauties seek in vain? 290 
+" The hand a thousand beauties seek in vain? 
 
 " In vain each lovely Gnome with studious care 
 " Folds her rich robe, or braids her scented hair, 
@@ -503,7 +442,7 @@ f
 
 " O! dry those tears and share a monarch's throne. 
 
-" What though thou quit the sun's enlivening ray, 300 
+" What though thou quit the sun's enlivening ray, 
 
 " And ' the warm precincts of the cheerful day,' 
 
@@ -523,7 +462,6 @@ custom still prevails in the Levant.
 
 
 
-16 THE CASTLE. book i. 
 
 " The light of Heaven our quenchless lamps supply, 
 
@@ -533,7 +471,7 @@ custom still prevails in the Levant.
 
 " And captive Sylphs the dulcet flute inspire; 
 
-" To grace my court assembled thousands shine, 310 
+" To grace my court assembled thousands shine, 
 
 " Approved in valour, or of charms divine; 
 
@@ -553,7 +491,7 @@ custom still prevails in the Levant.
 
 " Those cares neglected in pursuit of thee, 
 
-" Fain would I stay, those streaming tears to dry, 320 
+" Fain would I stay, those streaming tears to dry, 
 
 " And gaze enraptur'd on that speaking eye, 
 
@@ -570,7 +508,6 @@ On vacant air I fixed my earnest gaze,
 
 
 
-book i. THE CASTLE. 1 
 
 Still in my ear his hated accents rung, 
 
@@ -615,9 +552,8 @@ That hovering o'er me, thus melodious spoke:
 
 
 
-18 THE CASTLE. book r. 
 
-" From nothing call'd yon source of life and light, 350 
+" From nothing call'd yon source of life and light, 
 
 " And all the starry splendours of the night; 
 
@@ -637,7 +573,7 @@ That hovering o'er me, thus melodious spoke:
 
 " And Sylphs the impassive realms of air command; 
 
-" These jarring tribes in endless strife engage, 360 
+" These jarring tribes in endless strife engage, 
 
 " Foil and are foiled, with ineffectual rage; 
 
@@ -651,13 +587,12 @@ That hovering o'er me, thus melodious spoke:
 " That all thy motions with delight survey'd, 
 " And fill'd with warm desire to view unveil'd 
 " The charms thy maiden modesty conceal'd, 
-" They flutter' d round in many a lucid ring, 370 
+" They flutter' d round in many a lucid ring, 
 
 " Stretch'd the light hand, and waved the filmy wing, 
 
 
 
-book r. THE CASTLE. 19 
 
 " And strove, with gentle violence, to raise 
 
@@ -686,7 +621,7 @@ book r. THE CASTLE. 19
 " Our high emprize, to free thee from thy vow, 
 " The sole resource thy stubborn fates allow. 
 
-"■ Long had a war, with rancorous hatred waged, 390 
+"■ Long had a war, with rancorous hatred waged, 
 " The sullen Gnomes and Sprites of Fire engaged, 
 " 'Till wearied all, a transient peace confined 
 " Each martial hand, but fettered not the mind, 
@@ -695,7 +630,6 @@ c 2
 
 
 
-«0 THE CASTLE. »ook i. 
 
 " Tlie Sprites, of rest impatient, every one 
 
@@ -709,7 +643,7 @@ c 2
 
 " And soon with him will Ocean's sovereign join; 
 
-" These powers at once their double war shall wage, 400 
+" These powers at once their double war shall wage, 
 
 " And from his bride Albruno's thoughts engage; 
 
@@ -745,7 +679,6 @@ c 2
 
 
 
-book r. THE CASTLE. 
 
 " Vain are his hopes, for in an adverse course 
 " His spells rebounding with elastic force 
@@ -774,7 +707,6 @@ c 3
 
 
 
-22 THE CASTLE/ book i . 
 
 When lo! amid a blaze of golden light, 
 
@@ -795,7 +727,7 @@ In lonely wilds the rich pavilion rose, V
 Or in some rural cot I found repose; j 
 
 'Till on this morn, in sable arms I view'd 
-An unknown warrior, who my steps pursu'd, 450 
+An unknown warrior, who my steps pursu'd, 
 
 'Twas Henrv, late from conquer'd Gallia come, 
 By Ariel warn'd, to guide me to the Gnome; 
@@ -806,11 +738,10 @@ And kindness soothes the aching heart to rest;
 We hope, ere sinks to-morrow's sun, to gain 
 The rocky margin of the northern main; 
 For Sweden thence we sail, where mountains round 
-Stretch their long chains, with snows eternal crown'd, 460 
+Stretch their long chains, with snows eternal crown'd, 
 
 
 
-book r. THE CASTLE. 23 
 
 As massy barriers placed to guard the road, 
 Long, dark and dreary, to the Gnome's abode." 
@@ -822,7 +753,7 @@ Veil'd the dark agent of Albruno's guile,
 Rejoic'd in secret, while his feign'd surprize, 
 And falser pity, blind thy heedless eyes; 
 Yet scarce his art the latent joy represt, 
-Scarce on thy woes forbore the bitter jest, 470 
+Scarce on thy woes forbore the bitter jest, 
 
 As oft he urged Miranda to unfold, \ 
 
@@ -842,14 +773,13 @@ All present view'd her with attentive look,
 
 By soft attraction bound, while thus she spoke: 
 
-" Lost in amazement, if mine eyes betray 'd 480 
+" Lost in amazement, if mine eyes betray 'd 
 
 No common pity for yon injur'd maid, 
 e 4 
 
 
 
-34 THE CASTLE. book i. 
 
 At once I mourned her sufferings and my own, 
 Nor grieved nor wonder'd at her fate alone, 
@@ -860,7 +790,7 @@ A royal suitor, and a ravish'd Veil,
 Fresh lakes and streams, extends Marino's reign; 
 This prince, by martial force, and manly grace, 
 More than by rank distinguish'd o'er his race; 
-To Love's high sway an early homage paid, 490 
+To Love's high sway an early homage paid, 
 
 And bow'd the vassal of an ocean maid; 
 Fair as the fairest forms of Grecian art, 
@@ -871,7 +801,7 @@ And when he urg'd to fix the nuptial morn,
 Now smil'd, now blush'd, now frown'd in seeming scorn; 
 And now, desponding, feign'd to doubt her power, 
 That love should last beyond her bridal hour, 
-Yet said, if time his changeless faith should prove, 500 
+Yet said, if time his changeless faith should prove, 
 She might relent, might yield her soul to love. 
 
 " In vain Marino, to this heartless maid, 
@@ -879,7 +809,6 @@ Would prove the flame his every act display 'd,
 
 
 
-»ook j. THE CASTLE. 
 
 Whene'er he fought, the monarch's loaded car 
 
@@ -926,7 +855,6 @@ Thro' the close windings of a woody glade,
 
 
 
-26 THE CASTLE. book i. 
 
 Our hearts by tenderest friendship were allied, 
 
@@ -936,7 +864,7 @@ At length with novel charms expands the scene,
 
 The wood retiring left a narrow green; 
 
-On either side, with various verdure crowned, 530 
+On either side, with various verdure crowned, 
 
 Nor yet by summer's sultry suns embrowned, 
 
@@ -956,7 +884,7 @@ The youth was skill'd in vegetable lore,
 
 I ask'd the history of a little flower, 
 
-Graceful its form, and bright its lilac hue, 540 
+Graceful its form, and bright its lilac hue, 
 
 And like the crane's long beak its ripening pistil grew;* 
 
@@ -977,13 +905,12 @@ by the banks of streams; a very beautiful and elegant plant.
 
 
 
-book i. THE CASTLE. 27 
 
 The hyacinth, the violet's purple dye, 
 
 Aud myosotis blue, with golden eye, 
 
-Which oft the German youth, in graceful knot, 550 
+Which oft the German youth, in graceful knot, 
 
 Bears to his love, and sighs ' Forget me not.'* 
 
@@ -1003,7 +930,7 @@ How from pure water, given the powers to share,
 
 Of vivifying heat, and light, and air, 
 
-The leaves their vivid green, the flowers assume 560 
+The leaves their vivid green, the flowers assume 
 
 Their balmy fragrance, and their various bloom; 
 
@@ -1031,7 +958,6 @@ by Dr. now Sir James Edward Smith.
 
 
 
-5S THE CASTLE. book t! 
 
 Its precious gum mimosa plenteous pours, 
 
@@ -1049,7 +975,7 @@ How in the tulip's bulb the flower is found,
 
 And future leaves their embryo charge surround; J 
 
-How, grafted on its stock, the crab will bear 470 
+How, grafted on its stock, the crab will bear 
 
 The sweeter apple or the juicy pear, 
 
@@ -1081,7 +1007,6 @@ apples upon young stocks, but in vain. This has proved to be only the
 
 
 
-hook r. THE CASTLE. 29 
 
 " The paths of science while I thus pursued, 
 A strange event disturbed the peaceful flood; 
@@ -1089,7 +1014,7 @@ No more like liquid glass the waters seem,
 But dire commotions vex the troubled stream; 
 On rushed the impetuous tide, with thundering roar, 
 And wave o'er wave the foaming waters pour, 
-Drive back the refluent stream, which widely spread, 580 
+Drive back the refluent stream, which widely spread, 
 And rising high, o'erflowed its oozy bed; 
 The fishers, who the coming ill descried, 
 With speed for safety sought the middle tide,* 
@@ -1119,13 +1044,12 @@ the principal branches of the Ganges, the Megna, and the Hoogly.
 
 
 
-SO THE CASTLE. book r. 
 
 His hoarse rough voice was like the deaf ning roar 
 
 Of billows breaking on the rocky shore, 
 
-While with rude homage, and uncourtly mien, 590 
+While with rude homage, and uncourtly mien, 
 
 He told Marino's tale, and hail'd me as his queen. 
 
@@ -1142,7 +1066,7 @@ The prescient sage this strange injunction gave.
 
 
 " Oh! words obscure! whence hope can scarcely spring, 
-Yet still to these, our last resource we cling, 600 
+Yet still to these, our last resource we cling, 
 
 In dubious faith the dark behest obey, 
 And seek the Ocean with returning day; 
@@ -1156,11 +1080,10 @@ He feign'd no more the wonder he exprest;
 
 
 
-book i. THE CASTLE. 31 
 
 To Leonora turned, and sought to know 
 
-If from a kindred source her sorrows flow. 6 10 
+If from a kindred source her sorrows flow. 6 
 
 As either maid was Leonora fair — 
 A silken net confin'd her sable hair; 
@@ -1171,7 +1094,7 @@ Or of that choir that met in bright array,
 Tript in gay circles round their virgin queen, 
 And hymn'd the praises of the laurel green. 
 A warmer sun had tinged her lovely face, 
-Yet animation lent a sprightly grace; 620 
+Yet animation lent a sprightly grace; 
 
 Nor could Affliction's briny tear destroy 
 The speaking lustre of her hazel eye; 
@@ -1187,11 +1110,10 @@ Their hearers pity's genuine power to prove,
 
 
 
-32 THE CASTLE. book r. 
 
 But when such rivals in the lists appear, 
 
-How can / hope a sympathetic tear, 630 
+How can / hope a sympathetic tear, 
 
 Who, at my onset, must perforce confess 
 
@@ -1207,7 +1129,7 @@ And check'd the arms of conquering Charlemagne: /
 
 In youth he came to Albion's happy land, 
 There woo'd my mother, and obtain'd her hand, 
-With her to Spain he plough'd the vvatry way, 640 
+With her to Spain he plough'd the vvatry way, 
 
 Where first mine infant eyes beheld the day. 
 Oft had the palm of victory graced his arms, 
@@ -1229,13 +1151,12 @@ barism, sunk ere the dawn returned to Europe.
 
 
 
-book r. THE CASTLE. 3S 
 
 But still from Afric poured the ambitious foes,* 
 
 And the new kingdom of Granada rose, 
 
-Where luxury held in Hamet's court her reign, 650 
+Where luxury held in Hamet's court her reign, 
 
 And arts and splendour triumph'd in her train. 
 
@@ -1278,9 +1199,8 @@ Muley Hascem also built the celebrated court of Lions,
 
 
 
-34 - THE CASTLE. book i. 
 
-Her mulberry groves, in whose propitious gloom 660 
+Her mulberry groves, in whose propitious gloom 
 The worm industrious winds its silken tomb; 
 Her fertile vale where two fair rivers flow, 
 And lofty mountains ever topt with snow.* 
@@ -1291,7 +1211,7 @@ Alfonzo rose; while burning for the fight,
 Round Sant' Iago's cross, the youth of Spain unite; 
 To gain- renown, or grasp so rich a prize, 
 Or win fresh favour in their ladies' eyes, 
-They rush to arms, and, of success secure, 670 
+They rush to arms, and, of success secure, 
 
 Rear their proud banners, and defy the Moor. 
 
@@ -1306,9 +1226,8 @@ The splendid scene of hosts for fight array 'd:
 
 
 
-book r. THE CASTLE. 55 
 
-The martial trumpet echoing from afar, 680 
+The martial trumpet echoing from afar, 
 
 And prancing steeds that love the notes of war; 
 
@@ -1328,7 +1247,7 @@ When dim with dust and blood their bright array,
 
 And cold the hearts that panted for the fray; 
 
-Yet when my weeping mother urged her lord 690 
+Yet when my weeping mother urged her lord 
 
 To quit his purpose, or as lost deplored, 
 
@@ -1347,14 +1266,13 @@ But rest my pillow shunn'd; I rose and crept i&gt;
 To my thin lattice, and in silence wept: ) 
 
 I blest the evening gale's refreshing power, 
-As on my cheek it dried the bitter shower: 700 
+As on my cheek it dried the bitter shower: 
 
 When from the shaded walk my bower beneath, 
 I heard soft strains of mournful music breathe. 
 
 
 
-36 THE CASTLE. book i. 
 
 While with a pleasing voice, and faltering tongue, 
 
@@ -1370,7 +1288,7 @@ Castile resounded with Alonzo's worth;
 
 Few knights could tilt, or throw the cane so well,* 
 
-Few at the ring the gallant youth excell; 710 
+Few at the ring the gallant youth excell; 
 
 Oft had he pierced the bull with fatal wound, 
 
@@ -1390,7 +1308,7 @@ His secret passion to my sight disclos'd,
 
 And tuned beneath my vine-clad window, long 
 
-The light guitar had join'd his nightly song: 720 
+The light guitar had join'd his nightly song: 
 
 
 
@@ -1405,7 +1323,6 @@ dangerous for the uninitiated to present a nosegay.
 
 
 
-book i. THE CASTLE. 3r 
 
 But on his flowers I cast a careless eye, 
 Nor ' blest the youth who bade my slumbers fly.' 
@@ -1417,7 +1334,7 @@ The latticed casement that obscured my view,
 Clear shone the moon, the convent's spires were seen 
 Above its spreading groves of dusky green, 
 While round the terrac'd walk, with every gale, 
-Unnumber'd flowers their spicy sweets exhale. 730 
+Unnumber'd flowers their spicy sweets exhale. 
 
 Before me, wrapt in sable cloak and hood, 
 With folded arms, the brave Alonzo stood; 
@@ -1429,14 +1346,13 @@ u A favouring ear to sad Alonzo's strain!"
 The youth exclaim'd; " this unexpected grace 
 " Can all thy scorn and all my woes efface; 
 " And, like the setting sun, whose piercing ray 
-" Bursts the thick clouds that veil'd him thro' the day, 740 
+" Bursts the thick clouds that veil'd him thro' the day, 
 " Thou com'st to cheer me with a parting view, 
 " Ere to those charms I bid a long adieu: 
 d 3 
 
 
 
-38 THE CASTLE. hook i. 
 
 " Nay, turn not thus, nor thus the prayer disdain 
 
@@ -1452,7 +1368,7 @@ d 3
 
 " Oh should I fall, would one repentant sigh 
 
-" Lament my fate — one tear bedew thine eye? 750 
+" Lament my fate — one tear bedew thine eye? 
 
 " Farewel, relentless maid; yet, ere we part, 
 
@@ -1467,7 +1383,7 @@ d 3
 " But wouldst thou hope to light the ardent flame, 
 " This test of truth, and faith unchanged, I claim — 
 u My father seeks those scenes of deadly strife, 
-" Oh! guard with filial care his sacred life; 760 
+" Oh! guard with filial care his sacred life; 
 
 " Shield his brave bosom from the threatening blade, 
 a And turn the javelin from his hoary head. 
@@ -1476,7 +1392,6 @@ a And turn the javelin from his hoary head.
 
 
 
-book r. THE CASTLE. 
 
 u So may a daughter's heart thy deeds approve, 
 " And gratitude illume the torch of love." 
@@ -1486,7 +1401,7 @@ I wav'd my hand, Alonzo sigh'd ' Farewel.'
 
 
 
-" Swift I retired; my father joined the train, 770 
+" Swift I retired; my father joined the train, 
 
 Where with Alfonzo march'd the flower of Spain, 
 To distant times shall Spanish records tell* 
@@ -1513,7 +1428,6 @@ D 4
 
 
 
-40 THE CASTLE. *ook i. 
 
 Bound by affection's golden tie no more, 
 
@@ -1527,7 +1441,7 @@ And wandering on, as ebbing light decayed,
 
 Farther and farther from the path we strayed; 
 
-Our frames, long soften'd in a southern vale, 790 
+Our frames, long soften'd in a southern vale, 
 
 Shrunk from the keenness of the mountain gale; 
 
@@ -1547,7 +1461,7 @@ Served but to shew the horrors of the road,
 
 The avalanch impending from on high, 
 
-The gulph below, the terrors of the sky; 800 
+The gulph below, the terrors of the sky; 
 
 Shone but on pointed peaks, and ample brows 
 
@@ -1565,7 +1479,6 @@ Bamond's Observations faites dans les Pyrenees*
 
 
 
-book i. THE CASTLE. 41 
 
 Or, on the glacier's polish'd surface, threw 
 
@@ -1581,7 +1494,7 @@ And torrents fell on each defenceless head;
 
 In azure light the fires electric sweep 
 
-O'er the swift streams that ran down every steep; 810 
+O'er the swift streams that ran down every steep; 
 
 Yet scarce this awful scene a thought could claim, 
 
@@ -1601,7 +1514,7 @@ When from a cottage, unobserved before,
 
 A light stream'd brightly thro' the opening door: 
 
-New feeling ran thro' every frozen vein, 820 
+New feeling ran thro' every frozen vein, 
 
 And life and hope appear'd to wake again. 
 
@@ -1615,14 +1528,13 @@ His ready hand a plenteous meal supplied;
 
 
 
-42 THE CASTLE. book f. 
 
 But when the morn her orient blush displayed, 
 The altered youth our parting steps delayed, 
 With crimson blaze his floating garments shone, 
 A purple radiance formed his flamy crown. 
 
-" Oh stay," he cried, " behold the Prince of Flame, 830 
+" Oh stay," he cried, " behold the Prince of Flame, 
 " Earth, air, and ocean start at Pyros' name; 
 " Prompt at my call, to nourish or annoy, 
 " Being to give, or being to destroy, 
@@ -1632,7 +1544,7 @@ A purple radiance formed his flamy crown.
 " If I command, with floods of flame o'erwhelm, 
 11 Those icy cliffs in clouds of steam aspire, 
 " Those rocks of granite sink in liquid fire; 
-" Such my tremendous power — but fear not thou: 840 
+" Such my tremendous power — but fear not thou: 
 " To beauty's sway a willing slave I bow, 
 " Nor shall one sprite his arm in fury wave 
 " To harm that life my care so lately gave: 
@@ -1644,13 +1556,12 @@ Nor dared I spurn the mighty king's request;
 
 
 
-book i. THE CASTLE. 43 
 
 My Veil, a solemn pledge, he asked and won, 
 
 Which binds my faith to him, and him alone; 
 
-But to my earnest prayers one year was given, 850 
+But to my earnest prayers one year was given, 
 
 Ere for his flaming realms I quit the light of heaven. 
 
@@ -1662,7 +1573,7 @@ And hard to say, if now his manly breast
 More swell'd with open joy, or grief supprest; 
 With joy to meet his long-lost love again, 
 Or grief to find his cherish' d hopes were vain: 
-Nor less my heart with mingled feelings strove, 860 
+Nor less my heart with mingled feelings strove, 
 
 When honour struggled with awakening love, 
 That each new day with deeper grief deplored ~\ 
@@ -1678,10 +1589,9 @@ And free the hand that- he can claim no more.
 
 
 
-44 THE CASTLE. book i. 
 
 " One eve, when all was still, I strove in vain 
-To bid the fading embers glow again, 870 
+To bid the fading embers glow again, 
 
 When in the midst arose a sudden flame, 
 And to mine ear these sounds low murmuring came. 
@@ -1693,7 +1603,7 @@ And to mine ear these sounds low murmuring came.
 " In Stromboli my Pyros holds his court, 
 " And there must all who seek the king resort; 
 " Then hither come, and if thy prayers or mine 
-" Have power to move, the Veil again is thine; 880 
+" Have power to move, the Veil again is thine; 
 " Nor fear; my voice shall check the rage of heat, 
 " And guide thee safely to his flaming seat." 
 
@@ -1706,10 +1616,9 @@ With brandish'd falchion — ' Justice and the Veil/
 
 
 
-book r. THE CASTLE. 45 
 
 " Strange is my story — strange the links that join 
-My fate with yours, sweet maids, and yours with mine; 890 
+My fate with yours, sweet maids, and yours with mine; 
 Strange thus to meet, where each to each unknown, 
 Found each sad tale an echo of her own; 
 Then cheer your hearts, let each derive relief 
@@ -1734,7 +1643,7 @@ Our dauntless courage and unchanging love."
 
 She ceas'd; the Baron heard with careful ear, 
 And deeply pondering, still he seem'd to hear: 
-At length arous'd, he join'd the tribute paid 910 
+At length arous'd, he join'd the tribute paid 
 
 Of thanks and wonder to the lovelv maid; 
 
@@ -1744,7 +1653,6 @@ I
 
 
 
-46 THE CASTLE. book i. 
 
 And oft a sympathetic hope eKprest, 
 
@@ -1756,7 +1664,7 @@ In cheerful converse with her new found friends;
 
 While still their young affection warmer grew, 
 
-Till late to rest the weary group withdrew. 917 
+Till late to rest the weary group withdrew. 
 
 
 
@@ -1815,7 +1723,7 @@ Then stampt infuriate on the ground, and spoke: J
 " The bold defiance on thy shield displayed, 
 " I rise to answer — fight, or yield the maid; 
 i( Fool, to believe thy mortal frame can stand 
-" A weapon wielded by Albruno's hand! 20 
+" A weapon wielded by Albruno's hand! 
 
 " Advance, if still thou dar'st the unequal strife, 
 " And lose at once thy mistress and thy life." 
@@ -1827,7 +1735,7 @@ And one in skill, and one in strength excelled.
 Long Henry strove to wound the Gnome in vain, 
 His ruby arms unhurt the strokes sustain; 
 As long Albruno with amazement found 
-The valiant youth still fought without a wound; 30 
+The valiant youth still fought without a wound; 
 
 Fierce was the fight, till from the donjon tower 
 The Castle bell announced the midnight hour. 
@@ -1850,7 +1758,7 @@ Next faint, enfeebled, dropt his ponderous shield,
 
 Then feigned a wound, and sunk upon the field. 
 
-Bent o'er the king, victorious Henry tried 40 
+Bent o'er the king, victorious Henry tried 
 
 To draw the weapon from his bleeding side, 
 
@@ -1865,7 +1773,7 @@ Pierced the thick gloom of everlasting night,
 Save when the Gnomes, on hasty errand, past, 
 Their jewelled wreaths a transient brightness cast; 
 Then so quick flashed the red or azure beam, 
-It seemed to Henry but the lightning's gleam, 50 
+It seemed to Henry but the lightning's gleam, 
 
 And they (so far from human shape their forms) 
 Fiends that delight in hurricanes and storms. 
