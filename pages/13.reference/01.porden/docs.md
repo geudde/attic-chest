@@ -349,48 +349,41 @@ Could scarce prefer, and scarce reject a name,<br>
 Where acts, which else in her bright page had shone,<br>
 Past in the blaze of light, unmark'd, unknown;<br>
 Elate I heard of deeds by Henry wrought;<br>
-How with his Prince the hottest fight he sought,
+How with his Prince the hottest fight he sought,<br>
 Once saved the youthful chief and still victorious fought;<br>
 I long'd from Henry's lips his deeds to hear,<br>
 Nor thought how soon my joy would melt in air.
 
 [^3]: “Edward ordered a repast to be prepared in his tent for the prisoner, (King John,) and lie himself served at the royal captive’s table, as if he had been one of his retinue. He stood at the King’s back during the meal, con- stantly refused to take a place at table, and declared that, being a subject, he was too well acquainted with the distance between his own rank and that of majesty to assume such freedom. All his father’s pretensions to the crown of France were now buried in oblivion: John, in captivity, received the honours of a king, which were refused him when seated ou the throne: his misfortunes not his title were respected.” — *Hume*. 
 
-"One vernal morn, ('twas in the month of May,) 
-As on the ocean's side I chanced to stray, 
-My wondering eyes a thousand stones behold, 
-A thousand shells that shone like gems and gold, 
-Not with more colours glow'd the pretious shore 
-To whose bright sand submissive ocean bore 
-The riches of the shipwreck'd seamen's store, 2,50 j 
+“One vernal morn, (’twas in the month of May,)<br>
+As on the ocean’s side I chanced to stray,<br>
+My wondering eyes a thousand stones behold,<br>
+A thousand shells that shone like gems and gold,<br>
+Not with more colours glow’d the <i>pretious shore</i><br>
+To whose bright sand submissive ocean bore<br>
+The riches of the shipwreck’d seamen’s store,<br>
+When Nereus, urged by dark-browed Cymöent, gave<br>
+To Marinell the treasures of the wave.[^4] 
 
-When Nereus, urged by dark-browed Cymoent, gave 
-To Marinell the treasures of the wave.* 
+“No snare suspecting, by their beauty caught,<br>
+With eager eye the stones and shells I sought,<br>
+When lo! an earthquake seemed to rock the ground,<br>
+I started back, and trembling look’d around;<br>
+Beneath my feet a hollow noise I heard,<br>
+And high the waves their foamy summits reared.<br>
+My flying steps some magic influence staid,<br>
+And opening earth a hideous gulf displayed;<br>
+Mid clouds of smoke, and flames of livid blue,<br>
+A giant form rose slowly to my view.<br>
+The fatal veil which late my locks confined,<br>
+That veil so closely with my fate combined,<br>
 
+[^4]: Spenser's Faery Queene, Book III. Canto IV. 
 
-
-" No snare suspecting, by their beauty caught, 
-With eager eye the stones and shells I sought, 
-When lo! an earthquake seemed to rock the ground, 
-I started back, and trembling look'd around; 
-Beneath my feet a hollow noise I heard, 
-And high the waves their foamy summits reared. 
-My flying steps some magic influence staid, 
-And opening earth a hideous gulf displayed; 
-
-Mid clouds of smoke, and flames of livid blue, 
-A giant form rose slowly to my view. 
-The fatal veil which late my locks confined, 
-That veil so closely with my fate combined, 
-
-* Spenser's Faery Queene, Book III. Canto IV. 
-
-
-
-
-He with insulting transport wav'd in air; 
-His gloomy looks my Henry's foe declare, 
-Though now in robes of regal state he shone,- 
+He with insulting transport wav’d in air;<br>
+His gloomy looks my Henry’s foe declare,<br>
+Though now in robes of regal state he shone,-<br>
 And his dark forehead bore a sparkling crown. 
 
 " In me," he said, " behold the King, whose sway 
