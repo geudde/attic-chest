@@ -40,8 +40,16 @@ h4
 	font-family: "Noto Sans",sans-serif;
 	color: maroon;
 }
-hr {width: 80%; margin: auto; margin-top: 3em; margin-bottom: 2em;}
+hr {width: 80%; margin: auto; margin-top: 3em; margin-bottom: 2rem;}
 .smallcaps {color: navy; font-size: 1.1rem;}
+
+blockquote
+{
+	border-left-style: none;
+	margin-left: 1.4rem;
+	margin-right: 1.4rem;
+}
+
 </style>
 
 <div class="center">
