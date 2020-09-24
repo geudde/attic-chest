@@ -135,50 +135,34 @@ Cheered at the sight, they checked each weary horse,<br>
 And to the drawbridge bent their joyful course,<br>
 When as the warder from the walls espied<br>
 The pair advancing, to the Knight he cried,<br>
-“A friend or foe?” — “A friend!” the Knight replied:
+“A friend or foe?” — “A friend!” the Knight replied:<br>
+“We crave a shelter till returning day<br>
+Shall lend its light to speed us on our way.”<br>
+“Then welcome,” he rejoined; “but, Warrior, pause,<br>
+And, ere you enter, learn the Castle’s laws,<br>
+And swear obedience — nor misdeem we claim<br>
+A pledge injurious to your knightly fame:<br>
+With Royal Edward, from their country far,<br>
+Through France our warriors spread the flames of war,<br>
+And few remain, though many a danger calls<br>
+For all our care, to guard our threatened walls;<br>
+Hence we require, that when, with strength restored<br>
+By food and wine, you quit the festive board,<br>
+That from the bridge descending to the plain,<br>
+You, till the morn, in arms our watch maintain;<br>
+While we retire, with lengthened toil opprest,<br>
+Meanwhile the damsel in our walls shall find<br>
+From foes protection, and a welcome kind.<br>
+In arms like yours, with each a beauteous dame,<br>
+Two knights this evening to the Castle came.<br>
+The knights with thee till morn the watch will share,<br>
+The maids with thine partake the Baron’s care.” 
 
-" We crave a shelter till returning day 
-" Shall lend its light to speed us on our way." 
-" Then welcome," he rejoined; " but, Warrior, pause, 
-" And, ere you enter, learn the Castle's laws, 
-"' And swear obedience — nor misdeem we claim 
-" A pledge injurious to your knightly fame: 
-" With Royal Edward, from their country far, 50 
-
-" Through France our warriors spread the flames of war, 
-" And few remain, though many a danger calls 
-" For all our care, to guard our threatened walls; 
-" Hence we require, that when, with strength restored 
-'•' By food and wine, you quit the festive board, 
-
-
-
-
-" That from the bridge descending to the plain, 
-
-" You, till the morn, in arms our watch maintain; 
-
-" While we retire, with lengthened toil opprest, 
-
-" And snatch a few short hours of needful rest; 
-
-" Meanwhile the damsel in our walls shall find 60 
-
-" From foes protection, and a welcome kind. 
-
-il In arms like yours, with each a beauteous dame, 
-
-■r" Two knights this evening to the Castle came. 
-
-" The knights with thee till morn the watch will share, 
-
-" The maids with thine partake the Baron's care." 
-
-Brave Henry to the proffered terms agreed, 
-Then o'er the drawbridge guides Maria's steed; 
-The warder there admits the Knight and Maid, 
-And through a court of Gothic grandeur led; 
-His Lord received them in a spacious hall, 70 
+Brave Henry to the proffered terms agreed,<br>
+Then o'er the drawbridge guides Maria's steed;<br>
+The warder there admits the Knight and Maid,<br>
+And through a court of Gothic grandeur led;<br>
+His Lord received them in a spacious hall,<br>
 
 Where martial trophies decked the storied wall, 
 And many a pictured pannel seemed to trace 
@@ -187,10 +171,6 @@ On couches there two wearied maids repose,
 Who now to meet the lovely stranger rose, 
 While with that courtesy which marks the brave, 
 Two youths to Henry cordial greeting gave. 
-
-
-
-book i. THE CASTLE. 5 
 
 Fair was each damsel, but the fairest far 
 Maria seemed, like evening's dewy star, 
