@@ -558,102 +558,70 @@ Or the dark horrors of his drear abode,<br>
 My watchful care thy safety shall provide,<br>
 Thy guard in danger, as in doubt thy guide.’”
 
-"He vanished: but that voice so sweet, so clear,
-Yet thrilled with transport my delighted ear,
-I rose, and still a cloud of rich perfume,
-Shook from his wings, was floating in the room,
-And at my gate, a milk white palfry stood,
-With costly trappings harnessed for the road;
-1 mounted, and discarding female fear,
-Placed my firm confidence in Ariel's care.
-Ail day I journey'd, but as evening fell,
-Trembling I wander'd thro' a woody dell;
-No sound of life reliev'd my anxious ear,
-I look'd in vain, no sheltering roof was near,
-c 3
+“He vanished: but that voice so sweet, so clear,<br>
+Yet thrilled with transport my delighted ear,<br>
+I rose, and still a cloud of rich perfume,<br>
+Shook from his wings, was floating in the room,<br>
+And at my gate, a milk white palfry stood,<br>
+With costly trappings harnessed for the road;<br>
+I mounted, and discarding female fear,<br>
+Placed my firm confidence in Ariel’s care.<br>
+All day I journey’d, but as evening fell,<br>
+Trembling I wander’d thro’ a woody dell;<br>
+No sound of life reliev’d my anxious ear,<br>
+I look’d in vain, no sheltering roof was near,<br>
+When lo! amid a blaze of golden light,<br>
+A rich pavilion rose upon my sight,<br>
+I enter’d, by some unknown influence led,<br>
+By hands unseen the plenteous board was spread,<br>
+Prepared by hands unseen the downy bed.
 
+“With speed untir’d, thro’ many a lengthen’d day,<br>
+My horse instinctive still pursu’d his way;<br>
+And still as round the shades of evening close,<br>
+In lonely wilds the rich pavilion rose,<br>
+Or in some rural cot I found repose;<br>
+’Till on this morn, in sable arms I view’d<br>
+An unknown warrior, who my steps pursu’d,<br>
+’Twas Henry, late from conquer’d Gallia come,<br>
+By Ariel warn’d, to guide me to the Gnome;<br>
+Together thro’ the wood our course we steer,<br>
+And bless the fate that stay’d our wanderings here,<br>
+Where generous welcome cheers the weary guest,<br>
+And kindness soothes the aching heart to rest;<br>
+We hope, ere sinks to-morrow’s sun, to gain<br>
+The rocky margin of the northern main;<br>
+For Sweden thence we sail, where mountains round<br>
+Stretch their long chains, with snows eternal crown’d,<br>
+As massy barriers placed to guard the road,<br>
+Long, dark and dreary, to the Gnome’s abode.”
 
-
-
-When lo! amid a blaze of golden light,
-
-A rich pavilion rose upon my sight, 440:
-
-I enter'd, by some unknown influence led, ^
-
-By hands unseen the plenteous board was spread, &gt;
-
-Prepared by hands unseen the downy bed. J
-
-" With speed untir'd, thro' many a lengthen'd day,
-My horse instinctive still pursu'd his way;
-And still as round the shades of evening close, ~^
-
-In lonely wilds the rich pavilion rose, V
-
-Or in some rural cot I found repose; j
-
-'Till on this morn, in sable arms I view'd
-An unknown warrior, who my steps pursu'd,
-
-'Twas Henrv, late from conquer'd Gallia come,
-By Ariel warn'd, to guide me to the Gnome;
-Together thro' the wood our course we steer,
-And bless the fate that stay'd our wanderings here,
-Where generous welcome cheers the weary guest,
-And kindness soothes the aching heart to rest;
-We hope, ere sinks to-morrow's sun, to gain
-The rocky margin of the northern main;
-For Sweden thence we sail, where mountains round
-Stretch their long chains, with snows eternal crown'd,
-
-
-
-
-As massy barriers placed to guard the road,
-Long, dark and dreary, to the Gnome's abode."
-
-Imprudent maid! thy heedless lips exposed
-The secret plans to thee alone disclosed,
-Thy councils known, the host, whose cheerful smile
-Veil'd the dark agent of Albruno's guile,
-Rejoic'd in secret, while his feign'd surprize,
-And falser pity, blind thy heedless eyes;
-Yet scarce his art the latent joy represt,
-Scarce on thy woes forbore the bitter jest,
-
-As oft he urged Miranda to unfold, \
-
-Why o'er her vest the scarf of sable roll'd, \
-
-And head unveil'd, some inward sorrow told. j
-
-Fair was the maid, her eyes of softest blue,
-
-Her floating tresses bore an amber hue,
-
-Of height majestic, dignity and grace
-
-Spoke iu her actions, mingled in her face,
-
-All present view'd her with attentive look,
-
+Imprudent maid! thy heedless lips exposed<br>
+The secret plans to thee alone disclosed,<br>
+Thy councils known, the host, whose cheerful smile<br>
+Veil’d the dark agent of Albruno’s guile,<br>
+Rejoic’d in secret, while his feign’d surprize,<br>
+And falser pity, blind thy heedless eyes;<br>
+Yet scarce his art the latent joy represt,<br>
+Scarce on thy woes forbore the bitter jest,<br>
+As oft he urged Miranda to unfold,<br>
+Why o’er her vest the scarf of sable roll’d,<br>
+And head unveil’d, some inward sorrow told.<br>
+Fair was the maid, her eyes of softest blue,<br>
+Her floating tresses bore an amber hue,<br>
+Of height majestic, dignity and grace<br>
+Spoke in her actions, mingled in her face,<br>
+All present view’d her with attentive look,<br>
 By soft attraction bound, while thus she spoke:
 
-" Lost in amazement, if mine eyes betray 'd
+“Lost in amazement, if mine eyes betray’d<br>
+No common pity for yon injur’d maid,<br>
+At once I mourned her sufferings and my own,<br>
+Nor grieved nor wonder’d at her fate alone,<br>
+Like her’s my vesture, and like her’s my tale —<br>
+A royal suitor, and a ravish’d Veil.
 
-No common pity for yon injur'd maid,
-e 4
-
-
-
-
-At once I mourned her sufferings and my own,
-Nor grieved nor wonder'd at her fate alone,
-Like her's my vesture, and like her's my tale —
-A royal suitor, and a ravish'd Veil,
-
-" O'er the blue regions of the restless main,
+"O'er the blue regions of the restless main,
 Fresh lakes and streams, extends Marino's reign;
 This prince, by martial force, and manly grace,
 More than by rank distinguish'd o'er his race;
