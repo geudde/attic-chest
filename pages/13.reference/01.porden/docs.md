@@ -959,136 +959,71 @@ I ceas’d: for on the solemn stillness fell,<br>
 Awful and deep, the convent’s matin bell:<br>
 I wav’d my hand, Alonzo sigh’d ‘Farewell.’
 
-"Swift I retired; my father joined the train,
-Where with Alfonzo march'd the flower of Spain,
-To distant times shall Spanish records tell*
-How to their conquering arms Alziras fell,
-And how, his pride at Gades rock o'erthrown,
-Granada's monarch wore a vassal crown.
-But here, with patriot joy, the loyal tear
-Shall join to dew Alfonzo's royal bier.
-And mine may mingle well, for by his side,
-My sire, with many a proud hidalgo, died,
-And near him was the brave Alonzo found, 7S0
+“Swift I retired; my father joined the train,<br>
+Where with Alfonzo march’d the flower of Spain,<br>
+To distant times shall Spanish records tell[^21]<br>
+How to their conquering arms Alziras fell,<br>
+And how, his pride at Gades rock o’erthrown,<br>
+Granada’s monarch wore a vassal crown.<br>
+But here, with patriot joy, the loyal tear<br>
+Shall join to dew Alfonzo’s royal bier.<br>
+And mine may mingle well, for by his side,<br>
+My sire, with many a proud hidalgo, died,<br>
+And near him was the brave Alonzo found,<br>
+His manly bosom pierced with many a wound.<br>
 
-His manly bosom pierced with many a wound.
+[^21]: Alfonzo XI obtained a signal victory over the Moors in 1340, at which time Alziras was taken, and the kingdom of Granada made tributary. He was killed in the siege of Gibraltar, which he had lost before, and succeeded by his son, Peter the Cruel. — *Puffendorf*.
 
-" Oppression soon, in Pedro's iron reign,
-Check'd the sweet transports of reviving Spain.
+“Oppression soon, in Pedro’s iron reign,<br>
+Check’d the sweet transports of reviving Spain.<br>
+Bound by affection’s golden tie no more,<br>
+My mother wished to seek her native shore,<br>
+But as Venasquez’ rocky chain we crost,<br>
+Mid evening’s shades, our guide, our way were lost,<br>
+And wandering on, as ebbing light decayed,<br>
+Farther and farther from the path we strayed;<br>
+Our frames, long soften’d in a southern vale,<br>
+Shrunk from the keenness of the mountain gale;<br>
+The night grew dark; with weary steps and slow<br>
+We wandered o’er the treacherous field of snow,<br>
+And heard the torrent roar unseen below,[^22]<br>
+And from the wood beneath, the frequent howl<br>
+Of bears and wolves, that fierce with hunger prowl:<br>
+The struggling ray the moon at times bestow’d,<br>
+Served but to shew the horrors of the road,<br>
+The avalanch impending from on high,<br>
+The gulph below, the terrors of the sky;<br>
+Shone but on pointed peaks, and ample brows<br>
+White with eternal, undissolving snows:<br>
 
-* Alfonzo XI. obtained a signal victory over the Moors in 1340, at
-which time Alziras was taken, and the kingdom of Granada made tributary.
-He was killed in the siege of Gibraltar, which he had lost before, and suc-
-ceeded by his son, Peter the Cruel. — Puffendorf.
+[^22]: “Là, j’entendois rouler sous mes pieds un torrent qui se frayoit, à travers les glaces et les neiges, une route invisible, dont il ne sortoit que cinquante toises plus bas, pour se précipiter du haut d’un escarpement de rocliers, dans le grand vallon de neige. La position pouvoit devenir dangereuse, à la longue; je la quittai bientôt.” — *Ramond’s Observations faites dans les Pyrenees.*
 
-D 4
-
-
-
-
-Bound by affection's golden tie no more,
-
-My mother wished to seek her native shore,
-
-But as Venasquez' rocky chain we crost,
-
-Mid evening's shades, our guide, our way were lost,
-
-And wandering on, as ebbing light decayed,
-
-Farther and farther from the path we strayed;
-
-Our frames, long soften'd in a southern vale,
-
-Shrunk from the keenness of the mountain gale;
-
-The night grew dark; with weary steps and slow \
-
-We wandered o'er the treacherous field of snow, V
-
-And heard the torrent roar unseen below,* J
-
-And from the wood beneath, the frequent howl
-
-Of bears and wolves, that fierce with hunger prowl:
-
-The struggling ray the moon at times bestow'd,
-
-Served but to shew the horrors of the road,
-
-The avalanch impending from on high,
-
-The gulph below, the terrors of the sky;
-
-Shone but on pointed peaks, and ample brows
-
-White with eternal, undissolving snows:
-
-
-
-* "La, j'entendois rouler sous mes pieds un torrent qui se frayoit, a
-travers les glaces et les neiges, line route invisible, dont il ne sortoit que
-cinquante toises plus bas, pour se precipiter du haut d'un escarpement de
-rocliers, dans le grand vallon de neige. La position pouvoit devenir dange-
-reuse, a la longue; je la quittai bienlot."
-
-Bamond's Observations faites dans les Pyrenees*
-
-
-
-
-Or, on the glacier's polish'd surface, threw
-
-A fairy tint of evanescent blue:
-
-And now the storm began, and long and loud
-
-Roar'd the deep thunder from the bursting cloud,
-
-In sheets of crimson flame the lightnings play'd,
-
-And torrents fell on each defenceless head;
-
-In azure light the fires electric sweep
-
-O'er the swift streams that ran down every steep;
-
-Yet scarce this awful scene a thought could claim,
-
-And scarcely terror rouse our torpid frame;
-
-Careless, we now the raging storm behold,
-
-Each sense was dull, our souls benumb 'd with cold;
-
-To sleep were death; yet on that rugged crest, }
-
-We long'd (such weight our heavy eyes opprest) V
-
-Amid the snow, the storm, to sink to rest; J
-
-When from a cottage, unobserved before,
-
-A light stream'd brightly thro' the opening door:
-
-New feeling ran thro' every frozen vein,
-
-And life and hope appear'd to wake again.
-
-There, o'er a blazing fire, a youth was seen,
-
-Of pleasing aspect, and of sprightly mien,
-
-Our humid robes his care attentive dried,
-
-His ready hand a plenteous meal supplied;
-
-
-
-
-But when the morn her orient blush displayed,
-The altered youth our parting steps delayed,
-With crimson blaze his floating garments shone,
+Or, on the glacier’s polish’d surface, threw<br>
+A fairy tint of evanescent blue:<br>
+And now the storm began, and long and loud<br>
+Roar’d the deep thunder from the bursting cloud,<br>
+In sheets of crimson flame the lightnings play’d,<br>
+And torrents fell on each defenceless head;<br>
+In azure light the fires electric sweep<br>
+O’er the swift streams that ran down every steep;<br>
+Yet scarce this awful scene a thought could claim,<br>
+And scarcely terror rouse our torpid frame;<br>
+Careless, we now the raging storm behold,<br>
+Each sense was dull, our souls benumb’d with cold;<br>
+To sleep were death; yet on that rugged crest,<br>
+We long’d (such weight our heavy eyes opprest)<br>
+Amid the snow, the storm, to sink to rest;<br>
+When from a cottage, unobserved before,<br>
+A light stream’d brightly thro’ the opening door:<br>
+New feeling ran thro’ every frozen vein,<br>
+And life and hope appear’d to wake again.<br>
+There, o’er a blazing fire, a youth was seen,<br>
+Of pleasing aspect, and of sprightly mien,<br>
+Our humid robes his care attentive dried,<br>
+His ready hand a plenteous meal supplied;<br>
+But when the morn her orient blush displayed,<br>
+The altered youth our parting steps delayed,<br>
+With crimson blaze his floating garments shone,<br>
 A purple radiance formed his flamy crown.
 
 " Oh stay," he cried, " behold the Prince of Flame,
