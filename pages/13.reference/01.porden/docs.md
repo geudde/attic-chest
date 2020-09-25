@@ -426,7 +426,7 @@ And dear companions of thy social hours,<br>
 Yet deem not my extended realms below,<br>
 The constant haunt of horror, gloom, and woe, 
 
-* A variety of metallic preparations have been used by the ladies of different countries for this purpose, particularly the oxyds of bismuth and antimony. Among the Medes it was not confined to the fair sex; at least Xenophon, in his Cyroptedia, describes Astyages as having his eyes painted. The custom still prevails in the Levant. 
+[^5]: A variety of metallic preparations have been used by the ladies of different countries for this purpose, particularly the oxyds of bismuth and antimony. Among the Medes it was not confined to the fair sex; at least Xenophon, in his Cyroptedia, describes Astyages as having his eyes painted. The custom still prevails in the Levant. 
 
 The light of Heaven our quenchless lamps supply,<br>
 Our vaults re-echo to the sounds of joy,<br>
