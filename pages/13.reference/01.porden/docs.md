@@ -524,67 +524,41 @@ The sole resource thy stubborn fates allow.
 The sullen Gnomes and Sprites of Fire engaged,<br>
 ’Till wearied all, a transient peace confined<br>
 Each martial hand, but fettered not the mind,<br>
-The Sprites, of rest impatient, every one
+The Sprites, of rest impatient, every one<br>
+Loth to begin, yet wished the war begun;<br>
+The flame to kindle, to the Prince of Fire<br>
+A Sylph I sent, who roused the monarch’s ire;<br>
+Against the Gnomes he leads his hostile line,<br>
+And soon with him will Ocean’s sovereign join;<br>
+These powers at once their double war shall wage,<br>
+And from his bride Albruno’s thoughts engage;<br>
+’Tis thine to aid us — seek the gloomy mine,<br>
+There urge thy suit, and tears and prayers combine;<br>
+For there alone must fraud or force assail,<br>
+Tho’ vain were force, such spells secure the Veil,<br>
+And tho’ our strength should burst the powerful chains,<br>
+A stronger tye, thy plighted faith, remains.<br>
+His hand alone, his breast should mercy warm,<br>
+Thy pledge resigning, can dissolve the charm,<br>
+But if, observant of the stated hour,<br>
+He come to bear thee to his bridal bower,<br>
+We can but mourn, — to save exceeds our power.<br>
+Where’er thou art, his mightier charms compel<br>
+Their weeping slave to earth’s remotest cell;<br>
+But should he fail, by fraud or force delayed,<br>
+’Till night descending wrap this land in shade;<br>
+Vain are his hopes, for in an adverse course<br>
+His spells rebounding with elastic force<br>
+Unlock the casket they secur’d before,<br>
+And the lost Veil compel him to restore;<br>
+Then cling to Hope, best solace of our pain,<br>
+Herself a blessing, if her dreams be vain;<br>
+Nor dread the perils of the lonely road,<br>
+Or the dark horrors of his drear abode,<br>
+My watchful care thy safety shall provide,<br>
+Thy guard in danger, as in doubt thy guide.’”
 
-" Loth to begin, yet wished the war begun i
-
-" The flame to kindle, to the Prince of Fire
-
-" A Sylph I sent, who roused the monarch's ire;
-
-" Against the Gnomes he leads his hostile line,
-
-" And soon with him will Ocean's sovereign join;
-
-" These powers at once their double war shall wage,
-
-" And from his bride Albruno's thoughts engage;
-
-" ''Tis thine to aid us — seek the gloomy mine,
-
-" There urge thy suit, and tears and prayers combine;
-
-" For there alone must fraud or force assail,
-
-" Tho' vain were force, such spells secure the Veil,
-
-" And tho' our strength should burst the powerful chains,
-
-" A stronger tye, thy plighted faith, remains.
-
-" His hand alone, his breast should mercy warm,
-
-** Thy pledge resigning, can dissolve the charm,
-
-" But if, observant of the stated hour, 410 J
-
-" He come to bear thee to his bridal bower,
-
-" We can but mourn, — to save exceeds our power.
-
-" Where'er thou art, his mightier charms compel
-
-" Their weeping slave to earth's remotest cell;
-
-" But should he fail, by fraud or force delayed,
-
-4&lt; 'Till night descending wrap this land in shade;
-
-
-
-
-" Vain are his hopes, for in an adverse course
-" His spells rebounding with elastic force
-" Unlock the casket they secur'd before,
-" And the lost Veil compel him to restore;
-" Then cling to Hope, best solace of our pain,
-" Herself a blessing, if her dreams be vain;
-" Nor dread the perils of the lonely road,
-" Or the dark horrors of his drear abode,
-" My watchful care thy safety shall provide,
-" Thy guard in danger, as in doubt thy guide."
-
-" He vanished: but that voice so sweet, so clear,
+"He vanished: but that voice so sweet, so clear,
 Yet thrilled with transport my delighted ear,
 I rose, and still a cloud of rich perfume,
 Shook from his wings, was floating in the room,
