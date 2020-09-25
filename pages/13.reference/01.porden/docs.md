@@ -49,6 +49,9 @@ blockquote
 	margin-left: 1.4rem;
 	margin-right: 1.4rem;
 }
+ul {
+  list-style-type: none;
+}
 
 </style>
 
