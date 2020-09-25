@@ -386,32 +386,27 @@ His gloomy looks my Henry’s foe declare,<br>
 Though now in robes of regal state he shone,-<br>
 And his dark forehead bore a sparkling crown. 
 
-" In me," he said, " behold the King, whose sway 
-" Thro' earth's unnumber'd caves the Gnomes obey; 
-" Lord of the mine, I own its secret stores, 
-" Its gems, its marbles, and its mineral ores. 
-" Long in a human shape concealed, to gain 
-" Thy love I sought, but only met disdain, 
-" At length my rival's form I bore, and found, 
-" Beyond my warmest hope my wishes crown' d: 
-" The veil behold — no more I seek to move 
-" Thy stubborn heart; I claim thy promised love. 
+“‘In me,’ he said, ‘behold the King, whose sway<br>
+Thro’ earth’s unnumber’d caves the Gnomes obey;<br>
+Lord of the mine, I own its secret stores,<br>
+Its gems, its marbles, and its mineral ores.<br>
+Long in a human shape concealed, to gain<br>
+Thy love I sought, but only met disdain,<br>
+At length my rival’s form I bore, and found,<br>
+Beyond my warmest hope my wishes crown’d:<br>
+The veil behold — no more I seek to move<br>
+Thy stubborn heart; I claim thy promised love. 
 
-" I wonder not those tears of anguish flow, 
-" That o'er my transports cast a shade of woe, 
-
-" 5 Tis woman's pride, if we her boast believe, 
-" Ne'er to be duped, but ever to deceive; 
-" Yet sages say, tho' keen a woman's eyes 
-" To read the heart and pierce the deep disguise, 
-" If Flattery spread her viewless veil between, 
-" Full in her pathway yawns the gulf unseen, 
-
-
-
-
-" And here she triumphs, where the prayers of love, 
-" And wealth and power have vainly tried to move. 
+“‘I wonder not those tears of anguish flow,<br>
+That o’er my transports cast a shade of woe,<br>
+’Tis woman’s pride, if we her boast believe,<br>
+Ne’er to be duped, but ever to deceive;<br>
+Yet sages say, tho’ keen a woman’s eyes<br>
+To read the heart and pierce the deep disguise,<br>
+If Flattery spread her viewless veil between,<br>
+Full in her pathway yawns the gulf unseen,<br>
+And here she triumphs, where the prayers of love,<br>
+And wealth and power have vainly tried to move. 
 
 " Yet why afflicted thus, why thus disdain 
 " The hand a thousand beauties seek in vain? 
@@ -447,11 +442,7 @@ f
 
 " The constant haunt of horror, gloom, and woe, 
 
-* A variety of metallic preparations have been used by the ladies of diffe- 
-rent countries for this purpose, particularly the oxyds of bismuth and anti- 
-mony. Among the Medes it was not confined to the fair sex; at least Xeno- 
-phon, in his Cyroptedia, describes Astyages as having his eyes painted. The 
-custom still prevails in the Levant. 
+* A variety of metallic preparations have been used by the ladies of different countries for this purpose, particularly the oxyds of bismuth and antimony. Among the Medes it was not confined to the fair sex; at least Xenophon, in his Cyroptedia, describes Astyages as having his eyes painted. The custom still prevails in the Levant. 
 
 
 
