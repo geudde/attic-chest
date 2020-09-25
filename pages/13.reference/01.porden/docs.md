@@ -708,53 +708,27 @@ Their balmy fragrance, and their various bloom;<br>
 [^8]: If a plant be taken out of the ground and inverted, its parts also invert their functions. What was formerly the root becomes green, and leaves and flowers shoot out in the place of fibres. The inverted stem on the contrary grows rigid, and soon assumes the appearance and the functions of the root. — *Lectures delivered at the Royal Institution, by Dr. now Sir James Edward Smith*.
 
 Its precious gum mimosa plenteous pours,<br>
-The camphor tree secretes its spicy stores;*
-How the same soils, in equal luxury, feed
+The camphor tree secretes its spicy stores;[^9]<br>
+How the same soils, in equal luxury, feed<br>
+The plant medicinal, and poisonous weed;<br>
+How he, though cast upon some unknown shore,<br>
+Could tell the noxious and nutritious flower;[^10]<br>
+How in the tulip's bulb the flower is found,<br>
+And future leaves their embryo charge surround;[^11]<br>
+How, grafted on its stock, the crab will bear<br>
+The sweeter apple or the juicy pear,<br>
+But gradual as the parent grafts decay,<br>
+The sympathetic offspring fades away.[^12]<br>
 
-The plant medicinal, and poisonous weed;
+[^9]: The principal, if not the only food of plants, appears to be water, from which, when exposed to the action of the solar light, all their various secretions are produced. The beautiful green of the leaves, the vivid tints of the flower, their fragrance, the flavour of the fruit, with their endless variety in the different species, all seem to be derived from one source; and plants, whose properties and secretions are the most different, grow in equal luxuriance side by side. — *Smith’s Lectures*.
 
-How he, though cast upon some unknown shore,
+[^10]: The tetradynamia, or plants with cruciform flowers, are all, when boiled, wholesome and nutritious. There is also a more extended criterion. The fruits of flowers having the stamina inserted into the calyx may be eaten with safety, and are generally agreeable, but flowers having the stamina inserted into the receptacle are always to be suspected. — *Smith’s Lectures*.
 
-Could tell the noxious and nutritious flower;f
+[^11]: If the bulb of the tulip be opened, the rudiments of the future leaves and even the embryo of the flower may be seen. — *Smith’s Lectures*.
 
-How in the tulip's bulb the flower is found,
+[^12]: The decay of our apples has excited much apprehension. Some of the finest kinds are nearly extinct, and others have evidently degenerated. Many attempts have been made to supply this loss by grafting favourite apples upon young stocks, but in vain. This has proved to be only the extension of an individual, not the production of a new one, and as the parent tree decayed, the grafts decayed also. To prevent the loss of so valuable a fruit, Mr. Knight sowed a quantity of the seeds of our best apples, in hope that, although a great majority would be merely crabs, out of many thousands he might procure a few valuable apples. His efforts have not been unsuccessful, and many of the new varieties promise to vie, in size and flavour, with the finest of the old ones. — *Smith’s Lectures*.
 
-And future leaves their embryo charge surround; J
-
-How, grafted on its stock, the crab will bear
-
-The sweeter apple or the juicy pear,
-
-But gradual as the parent grafts decay,
-
-The sympathetic offspring fades away.§
-
-* The principal, if not the only food of plants, appears to be water, from
-which, when exposed to the aclion of the solar light, all their various secre-
-tions are produced. The beautiful green of the leaves, the vivid tints of the
-flower, their fragrance, the flavour of the fruit, with their endless variety in
-the different species, all seem to be derived from one source; and plants,
-whose properties and secretions are the most different, grow in equal luxuri-
-ance side by side. — Smith's Lectures.
-
-t The tetradynamia, or plants with cruciform flowers, are all, when boiled,
-wholesome and nutritious. There is also a more extended criterion. The
-fruits of flowers having the stamina inserted into the calyx may be eaten
-with safety, and are generally agreeable, but flowers having the stamina
-inserted into the receptacle are always to be suspected. — .Smith's Lectures.
-
-t If the bulb of the tulip be opened, the rudiments of the future leaves
-and even the embryo of the flower may be seen. — Smith's Lectures.
-
-§ The decay of our apples has excited much apprehension. Some of the
-finest kinds are nearly extinct, and others have evidently degenerated.
-Many attempts have been made to supply this loss by grafting favourite
-apples upon young stocks, but in vain. This has proved to be only the
-
-
-
-
-" The paths of science while I thus pursued,
+"The paths of science while I thus pursued,<br>
 A strange event disturbed the peaceful flood;
 No more like liquid glass the waters seem,
 But dire commotions vex the troubled stream;
@@ -771,13 +745,7 @@ Green was his hair, his hand displayed my Veil;
 
 
 
-extension of an individual, not the production of a new one, and as the
-parent tree decayed, the grafts decayed also. To prevent the loss of so
-valuable a fruit, Mr. Knight sowed a quantity of the seeds of our best apples,
-in hope that, although a great majority would be merely crabs, out of many
-thousands he might procure a few valuable apples. His efforts have not
-been unsuccessful, and many of the new varieties promise to vie, in size and
-flavour, with the finest of the old ones. — Smith's Lectures.
+
 
 * This passage is intended as a slight description of the phenomenon called
 the Bore or Agar, occasioned by the sudden influx of the tide into a river.
