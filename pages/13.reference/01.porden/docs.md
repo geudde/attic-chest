@@ -621,183 +621,94 @@ Nor grieved nor wonder’d at her fate alone,<br>
 Like her’s my vesture, and like her’s my tale —<br>
 A royal suitor, and a ravish’d Veil.
 
-"O'er the blue regions of the restless main,
-Fresh lakes and streams, extends Marino's reign;
-This prince, by martial force, and manly grace,
-More than by rank distinguish'd o'er his race;
-To Love's high sway an early homage paid,
-
-And bow'd the vassal of an ocean maid;
-Fair as the fairest forms of Grecian art,
-Her beauteous frame conceal'd a canker'd heart;
-In vain he loved, by turns the artful dame
-Fed with false hopes, or check'd the rising flame,
-And when he urg'd to fix the nuptial morn,
-Now smil'd, now blush'd, now frown'd in seeming scorn;
-And now, desponding, feign'd to doubt her power,
-That love should last beyond her bridal hour,
-Yet said, if time his changeless faith should prove,
+“O’er the blue regions of the restless main,<br>
+Fresh lakes and streams, extends Marino’s reign;<br>
+This prince, by martial force, and manly grace,<br>
+More than by rank distinguish’d o’er his race;<br>
+To Love’s high sway an early homage paid,<br>
+And bow’d the vassal of an ocean maid;<br>
+Fair as the fairest forms of Grecian art,<br>
+Her beauteous frame conceal’d a canker’d heart;<br>
+In vain he loved, by turns the artful dame<br>
+Fed with false hopes, or check’d the rising flame,<br>
+And when he urg’d to fix the nuptial morn,<br>
+Now smil’d, now blush’d, now frown’d in seeming scorn;<br>
+And now, desponding, feign’d to doubt her power,<br>
+That love should last beyond her bridal hour,<br>
+Yet said, if time his changeless faith should prove,<br>
 She might relent, might yield her soul to love.
 
-" In vain Marino, to this heartless maid,
-Would prove the flame his every act display 'd,
-
-
-
-
-Whene'er he fought, the monarch's loaded car
-
-Bore to Lymnoria's feet the spoils of war;
-
-Of rich or rare, that flatters pomp or pride,
-
-Whate'er she vvish'd, his liberal hand supplied;
-
-'Till many a year in fruitless homage past,
-
-From his long dream Marino waked at last;
-
-Of all her acts he saw the secret spring,
-
-Who ruled the kingdom while she ruled the king,
-
-And vow'd, in sudden anger and disdain,
-
-No sea-born maid should o'er the Ocean reign,
-
-Then bade his slaves, of mortal lineage, find
-
-A maid in person faultless and in mind.
-
-His slaves, obedient, watch on every shore,
-
-Dart up the streams, and various lands explore,
-
-Commissioned, when the maid they view, to steal
-
-Her scarf, her girdle, or pellucid veil,
-
-Which by his hand, with secret rites imbrued,
-
-In streams that flow beneath the briny flood,
-
-Twelve moons expired, would act with magic power,
-
+“In vain Marino, to this heartless maid,<br>
+Would prove the flame his every act display’d,<br>
+Whene’er he fought, the monarch’s loaded car<br>
+Bore to Lymnoria’s feet the spoils of war;<br>
+Of rich or rare, that flatters pomp or pride,<br>
+Whate’er she wish’d, his liberal hand supplied;<br>
+’Till many a year in fruitless homage past,<br>
+From his long dream Marino waked at last;<br>
+Of all her acts he saw the secret spring,<br>
+Who ruled the kingdom while she ruled the king,<br>
+And vow’d, in sudden anger and disdain,<br>
+No sea-born maid should o’er the Ocean reign,<br>
+Then bade his slaves, of mortal lineage, find<br>
+A maid in person faultless and in mind.<br>
+His slaves, obedient, watch on every shore,<br>
+Dart up the streams, and various lands explore,<br>
+Commissioned, when the maid they view, to steal<br>
+Her scarf, her girdle, or pellucid veil,<br>
+Which by his hand, with secret rites imbrued,<br>
+In streams that flow beneath the briny flood,<br>
+Twelve moons expired, would act with magic power,<br>
 And draw the virgin to his coral bower.
 
-" Once, in sweet converse with a knight, I stray 'd
-Thro' the close windings of a woody glade,
+“Once, in sweet converse with a knight, I stray’d<br>
+Thro’ the close windings of a woody glade,<br>
+Our hearts by tenderest friendship were allied,<br>
+And some few weeks had made me Alfred’s bride:<br>
+At length with novel charms expands the scene,<br>
+The wood retiring left a narrow green;<br>
+On either side, with various verdure crowned,<br>
+Nor yet by summer’s sultry suns embrowned,<br>
+Tall hills arise, and thro’ the dell below<br>
+A crystal river’s winding waters flow,<br>
+Its banks with flowers adorn’d, and o’er it flung<br>
+Its graceful boughs the pendant willow hung.<br>
+Charm’d with the scene, beneath the grateful shade,<br>
+To cheat the noontide hour, awhile we staid;<br>
+The youth was skill’d in vegetable lore,<br>
+I ask’d the history of a little flower,<br>
+Graceful its form, and bright its lilac hue,<br>
+And like the crane’s long beak its ripening pistil grew;[^6]<br>
+The study pleas’d, and from the river’s side,<br>
+Innumerous flowers our various theme supplied,<br>
+The white ranunculus, and iris gay,<br>
+The yellow caltha, on the morn of May<br>
+That to their homes the cheerful peasants bring,<br>
+And strew around, in honour of the spring;<br>
 
+[^6]: The *geranium pratense*, or blue geranium, which grows in meadows, and by the banks of streams; a very beautiful and elegant plant.
 
+The hyacinth, the violet’s purple dye,<br>
+Aud myosotis blue, with golden eye,<br>
+Which oft the German youth, in graceful knot,<br>
+Bears to his love, and sighs ‘ Forget me not.’[^7]<br>
+At length diverging, Nature’s course we trace,<br>
+From the first embryo, till the plant decays;<br>
+How from the germ the leafy stems ascend,<br>
+And deep in earth the fibrous roots extend;<br>
+How leaves would issue from the inverted root,<br>
+And the green stems in rigid fibres shoot;[^8]<br>
+How from pure water, given the powers to share,<br>
+Of vivifying heat, and light, and air,<br>
+The leaves their vivid green, the flowers assume<br>
+Their balmy fragrance, and their various bloom;<br>
 
+[^7] The myosotis, or scorpion grass, is a beautiful plant which grows abundantly by the side of running waters. It has a small blue flower, with agolden eye in the centre, and is a great favourite with the Germans, who call it *“Forget me not*.” These flowers, or their enamelled resemblance, are frequently interchanged as tokens of regard. The *“Forget me not”* of the Germans is by some believed to be the veronica chamaedrys, which is also a beautiful blue flower.
 
-Our hearts by tenderest friendship were allied,
+[^8]: If a plant be taken out of the ground and inverted, its parts also invert their functions. What was formerly the root becomes green, and leaves and flowers shoot out in the place of fibres. The inverted stem on the contrary grows rigid, and soon assumes the appearance and the functions of the root. — *Lectures delivered at the Royal Institution, by Dr. now Sir James Edward Smith*.
 
-And some few weeks had made me Alfred's bride:
-
-At length with novel charms expands the scene,
-
-The wood retiring left a narrow green;
-
-On either side, with various verdure crowned,
-
-Nor yet by summer's sultry suns embrowned,
-
-Tall hills arise, and thro' the dell below
-
-A crystal river's winding waters flow,
-
-Its banks with flowers adorn'd, and o'er it flung
-
-Its graceful boughs the pendant willow hung.
-
-Charm'd with the scene, beneath the grateful shade,
-
-To cheat the noontide hour, awhile we staid;
-
-The youth was skill'd in vegetable lore,
-
-I ask'd the history of a little flower,
-
-Graceful its form, and bright its lilac hue,
-
-And like the crane's long beak its ripening pistil grew;*
-
-The study pleas'd, and from the river's side,
-
-Innumerous flowers our various theme supplied,
-
-The white ranunculus, and iris gay,
-
-The yellow caltha, on the morn of May
-
-That to their homes the cheerful peasants bring,
-
-And strew around, in honour of the spring;
-
-* The geranium pratense, or blue geranium, which grows in meadows, and
-by the banks of streams; a very beautiful and elegant plant.
-
-
-
-
-The hyacinth, the violet's purple dye,
-
-Aud myosotis blue, with golden eye,
-
-Which oft the German youth, in graceful knot,
-
-Bears to his love, and sighs ' Forget me not.'*
-
-At length diverging, Nature's course we trace,
-
-From the first embryo, till the plant decays;
-
-How from the germ the leafy stems ascend,
-
-And deep in earth the fibrous roots extend;
-
-How leaves would issue from the inverted root,
-
-And the green stems in rigid fibres shoot;f
-
-How from pure water, given the powers to share,
-
-Of vivifying heat, and light, and air,
-
-The leaves their vivid green, the flowers assume
-
-Their balmy fragrance, and their various bloom;
-
-
-
-* The myosotis, or scorpion grass, is a beautiful plant which grows abun-
-dantly by the side of running waters. It has a small blue flower, with a
-golden eye in the centre, and is a great favourite with the Germans, who
-call it " Forget me not." These flowers, or their enamelled resemblance, are
-frequently interchanged as tokens of regard. The " Forget me not" of the
-Germans is by some believed to be the veronica chamaedrys, which is also a
-beautiful blue flower.
-
-t If a plant be taken out of the ground and inverted, its parts also invert
-
-their functions. What was formerly the root becomes green, and leaves and
-
-flowers shoot out in the place of fibres. The inverted stem on the contrary
-
-grows rigid, and soon assumes the appearance and the functions of the root.
-
-Lectures delivered at the Royal Institution,
-
-by Dr. now Sir James Edward Smith.
-
-
-
-
-Its precious gum mimosa plenteous pours,
-
+Its precious gum mimosa plenteous pours,<br>
 The camphor tree secretes its spicy stores;*
-
 How the same soils, in equal luxury, feed
 
 The plant medicinal, and poisonous weed;
