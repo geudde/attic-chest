@@ -876,150 +876,90 @@ And mix’d with her’s my unavailing tears;<br>
 Fix’d was his mind, with brave Alfonzo’s band<br>
 At dawn of day to seek Granada’s land. —
 
-" 'Twas night, and all around in silence slept, "1
+“’Twas night, and all around in silence slept,<br>
+But rest my pillow shunn’d; I rose and crept<br>
+To my thin lattice, and in silence wept:<br>
+I blest the evening gale’s refreshing power,<br>
+As on my cheek it dried the bitter shower:<br>
+When from the shaded walk my bower beneath,<br>
+I heard soft strains of mournful music breathe.<br>
+While with a pleasing voice, and faltering tongue,<br>
+An amorous youth his plaintive ditty sung.<br>
+My conscious memory well the youth betray’d,<br>
+Who waked the echoes with this serenade;<br>
+His arm was valiant, noble was his birth,<br>
+Castile resounded with Alonzo’s worth;<br>
+Few knights could tilt, or throw the cane so well,[^19]<br>
+Few at the ring the gallant youth excell;<br>
+Oft had he pierced the bull with fatal wound,<br>
+Or held the roaring savage to the ground,<br>
+And still whene’er the youthful hero fought,<br>
+The fairest maids the glittering barriers sought,<br>
+Who view’d with jealous ire, but seeming scorn,<br>
+My favourite colours by the warrior worn,[^20]<br>
+While knots of flowers, in mystic guise dispos’d,<br>
+His secret passion to my sight disclos’d,<br>
+And tuned beneath my vine-clad window, long<br>
+The light guitar had join’d his nightly song:<br>
 
-But rest my pillow shunn'd; I rose and crept i&gt;
+[^19]: This was a martial game, in which the young nobles fought in squadrons, and canes supplied the place of lances. Tilting was usually performed with canes, but at the tournament lances were used.
 
-To my thin lattice, and in silence wept: )
+[^20]: It was the custom for the Moorish or Spanish youth to denote their affection by wearing the favourite colours of their ladies. The language of flowers is still so well understood by the ladies of Spain, that it might be dangerous for the uninitiated to present a nosegay.
 
-I blest the evening gale's refreshing power,
-As on my cheek it dried the bitter shower:
+But on his flowers I cast a careless eye,<br>
+Nor ‘blest the youth who bade my slumbers fly.’<br>
+And twice the moon had rilled her silver round<br>
+Since last mine ear had listen’d to the sound.
 
-When from the shaded walk my bower beneath,
-I heard soft strains of mournful music breathe.
+“Now sunk the strain, and softly I withdrew<br>
+The latticed casement that obscured my view,<br>
+Clear shone the moon, the convent’s spires were seen<br>
+Above its spreading groves of dusky green,<br>
+While round the terrac’d walk, with every gale,<br>
+Unnumber’d flowers their spicy sweets exhale.<br>
+Before me, wrapt in sable cloak and hood,<br>
+With folded arms, the brave Alonzo stood;<br>
+He rais’d his kindling eye, the mantle fell,<br>
+And brightly beam’d his mail of burnished steel.
 
+“‘Oh! bliss unhoped! does Leonora deign<br>
+A favouring ear to sad Alonzo’s strain!’<br>
+The youth exclaim’d; ‘this unexpected grace<br>
+Can all thy scorn and all my woes efface;<br>
+And, like the setting sun, whose piercing ray<br>
+Bursts the thick clouds that veil’d him thro’ the day,<br>
+Thou com’st to cheer me with a parting view,<br>
+Ere to those charms I bid a long adieu:<br>
+Nay, turn not thus, nor thus the prayer disdain<br>
+Of him who ne’er may vex thy sight again,<br>
+For with the earliest dawn Alfonzo’s band<br>
+Will march to combat in Granada’s land;<br>
+Ev’n now his standard floats, his chargers neigh,<br>
+Ev’n now my ready vassals chide my stay;<br>
+Oh should I fall, would one repentant sigh<br>
+Lament my fate — one tear bedew thine eye?<br>
+Farewel, relentless maid; yet, ere we part,<br>
+Say, does some happier youth possess thy heart,<br>
+Or may I hope my truth at length may move<br>
+Thy mind to pity for Alonzo’s love?’
 
+“‘If this,’ I said, ‘can give thy bosom rest,<br>
+No love has enter’d Leonora’s breast;<br>
+But wouldst thou hope to light the ardent flame,<br>
+This test of truth, and faith unchanged, I claim —<br>
+My father seeks those scenes of deadly strife,<br>
+Oh! guard with filial care his sacred life;<br>
+Shield his brave bosom from the threatening blade,<br>
+And turn the javelin from his hoary head.<br>
+So may my mother, to his arms restored,<br>
+Bless the kind hand that sav’d her honour’d lord,<br>
+So may a daughter’s heart thy deeds approve,<br>
+And gratitude illume the torch of love.’<br>
+I ceas’d: for on the solemn stillness fell,<br>
+Awful and deep, the convent’s matin bell:<br>
+I wav’d my hand, Alonzo sigh’d ‘Farewell.’
 
-
-While with a pleasing voice, and faltering tongue,
-
-An amorous youth his plaintive ditty sung.
-
-My conscious memory well the youth betray'd,
-
-Who waked the echoes with this serenade;
-
-His arm was valiant, noble was his birth,
-
-Castile resounded with Alonzo's worth;
-
-Few knights could tilt, or throw the cane so well,*
-
-Few at the ring the gallant youth excell;
-
-Oft had he pierced the bull with fatal wound,
-
-Or held the roaring savage to the ground,
-
-And still whene'er the youthful hero fought,
-
-The fairest maids the glittering barriers sought,
-
-Who view'd with jealous ire, but seeming scorn,
-
-My favourite colours by the warrior worn,f
-
-While knots of flowers, in mystic guise dispos'd,
-
-His secret passion to my sight disclos'd,
-
-And tuned beneath my vine-clad window, long
-
-The light guitar had join'd his nightly song:
-
-
-
-* This was a martial game, in which the young nobles fought in squa-
-drons, and canes supplied the place of lances. Tilting was usually per-
-formed with canes, but at the tournament lances were used.
-
-t It was the custom for the Moorish or Spanish youth to denote their
-affection by wearing the favourite colours of their ladies. The language of
-flowers is still so well understood by the ladies of Spain, that it might be
-dangerous for the uninitiated to present a nosegay.
-
-
-
-
-But on his flowers I cast a careless eye,
-Nor ' blest the youth who bade my slumbers fly.'
-And twice the moon had rilled her silver round
-Since last mine ear had listen'd to the sound.
-
-" Now sunk the strain, and softly I withdrew
-The latticed casement that obscured my view,
-Clear shone the moon, the convent's spires were seen
-Above its spreading groves of dusky green,
-While round the terrac'd walk, with every gale,
-Unnumber'd flowers their spicy sweets exhale.
-
-Before me, wrapt in sable cloak and hood,
-With folded arms, the brave Alonzo stood;
-He rais'd his kindling eye, the mantle fell,
-And brightly beam'd his mail of burnished steel.
-
-" Oh! bliss unhoped! does Leonora deign
-u A favouring ear to sad Alonzo's strain!"
-The youth exclaim'd; " this unexpected grace
-" Can all thy scorn and all my woes efface;
-" And, like the setting sun, whose piercing ray
-" Bursts the thick clouds that veil'd him thro' the day,
-" Thou com'st to cheer me with a parting view,
-" Ere to those charms I bid a long adieu:
-d 3
-
-
-
-
-" Nay, turn not thus, nor thus the prayer disdain
-
-" Of him who ne'er may vex thy sight again,
-
-" For with the earliest dawn Alfonzo's band
-
-" Will march to combat in Granada's land;
-
-" Ev'n now his standard floats, his chargers neigh,
-
-" Ev'n now my ready vassals chide my stay;
-
-" Oh should I fall, would one repentant sigh
-
-" Lament my fate — one tear bedew thine eye?
-
-" Farewel, relentless maid; yet, ere we part,
-
-" Say, does some happier youth possess thy heart,
-
-" Or may I hope my truth at length may move
-
-" Thy mind to pity for Alonzo's love?"
-
-" If this," I said, " can give thy bosom rest,
-" No love has enter'd Leonora's breast;
-" But wouldst thou hope to light the ardent flame,
-" This test of truth, and faith unchanged, I claim —
-u My father seeks those scenes of deadly strife,
-" Oh! guard with filial care his sacred life;
-
-" Shield his brave bosom from the threatening blade,
-a And turn the javelin from his hoary head.
-" So may my mother, to his arms restored,
-" Bless the kind hand that sav'd her honour'd lord,
-
-
-
-
-u So may a daughter's heart thy deeds approve,
-" And gratitude illume the torch of love."
-I ceas'd: for on the solemn stiluess fell,
-Awful and deep, the convent's matin bell:
-I wav'd my hand, Alonzo sigh'd ' Farewel.'
-
-
-
-" Swift I retired; my father joined the train,
-
+"Swift I retired; my father joined the train,
 Where with Alfonzo march'd the flower of Spain,
 To distant times shall Spanish records tell*
 How to their conquering arms Alziras fell,
