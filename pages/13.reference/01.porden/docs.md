@@ -427,7 +427,7 @@ And “the warm precincts of the cheerful day,”<br>
 The feathered songsters, fruits and fragrant flowers,<br>
 And dear companions of thy social hours,<br>
 Yet deem not my extended realms below,<br>
-The constant haunt of horror, gloom, and woe,
+The constant haunt of horror, gloom, and woe,<br>
 
 [^5]: A variety of metallic preparations have been used by the ladies of different countries for this purpose, particularly the oxyds of bismuth and antimony. Among the Medes it was not confined to the fair sex; at least Xenophon, in his Cyroptedia, describes Astyages as having his eyes painted. The custom still prevails in the Levant.
 
@@ -471,91 +471,60 @@ And nearer brought the inevitable day!<br>
 ’Till once, as Phoebus ting’d the eastern skies,<br>
 Soft slumber stole upon mine aching eyes,<br>
 When on my view a form ethereal broke,<br>
-That hovering o’er me, thus melodious spoke: @
+That hovering o’er me, thus melodious spoke:
 
-" No more, sweet maid, let grief your peace destroy,
-" But cherish hope, for hope shall lead to joy;
-" That Power Eternal, whose creative mind
-" This orb, and all yon wandering spheres design'd;
-" From nothing call'd yon source of life and light,
+‘No more, sweet maid, let grief your peace destroy,<br>
+But cherish hope, for hope shall lead to joy;<br>
+That Power Eternal, whose creative mind<br>
+This orb, and all yon wandering spheres design’d;<br>
+From nothing call’d yon source of life and light,<br>
+And all the starry splendours of the night;<br>
+To numerous spirits, in that awful hour,<br>
+Their portions gave of delegated power:<br>
+Four tribes who rule this orb with equal sway,<br>
+The Earth, the Fire, the Winds, and Waves obey;<br>
+In fire the Salamanders hold their reign,<br>
+The bold Hydidae curb the azure main,<br>
+The Gnomes are guardians of the solid land,<br>
+And Sylphs the impassive realms of air command;<br>
+These jarring tribes in endless strife engage,<br>
+Foil and are foiled, with ineffectual rage;<br>
+Their mutual war their balanced reign secures,<br>
+And endless order ceaseless strife ensures.
 
-" And all the starry splendours of the night;
+‘In that sad morn thou soughtst on ocean’s strand<br>
+The gems the Gnome had strew’d with treacherous hand,<br>
+O’er the green wave unnumber’d Sylphids play’d,<br>
+That all thy motions with delight survey’d,<br>
+And fill’d with warm desire to view unveil’d<br>
+The charms thy maiden modesty conceal’d,<br>
+They flutter’ d round in many a lucid ring,<br>
+Stretch’d the light hand, and waved the filmy wing,<br>
+And strove, with gentle violence, to raise<br>
+The silken screen, that mock’d their eager gaze;<br>
+When lo! a viewless hand the veil unbound,<br>
+And rudely plung’d it in the deep profound,<br>
+Then shook the earth, and in a yawning void,<br>
+Albruno rose, in all his kingly pride:<br>
+The rest thou know’st — the Sylphs thy lot deplore,<br>
+Dissolve in tears, and quit the fatal shore.
 
-" To numerous spirits, in that awful hour,
+‘Incens’d, the Gnome by fraud and theft should dare<br>
+Pollute my realms, I roused the powers of air,<br>
+In hope by prompt exertion to regain<br>
+The ravish’d pledge; but all our toils were vain:<br>
+For base Albruno had his prize immur’d<br>
+In deepest caverns, and with spells secur’d:<br>
+But now the day approaches; gentle maid,<br>
+Arouse thee from thy trance of grief, and aid<br>
+Our high emprize, to free thee from thy vow,<br>
+The sole resource thy stubborn fates allow.
 
-" Their portions gave of delegated power:
-
-" Four tribes who rule this orb with equal sway,
-
-" The Earth, the Fire, the Winds, and Waves obey;
-
-" In fire the Salamanders hold their reign,
-
-" The bold Hydidae curb the azure main,
-
-" The Gnomes are guardians of the solid land,
-
-" And Sylphs the impassive realms of air command;
-
-" These jarring tribes in endless strife engage,
-
-" Foil and are foiled, with ineffectual rage;
-
-" Their mutual war their balanced reign secures,
-
-" And endless order ceaseless strife ensures.
-
-" In that sad morn thou soughtst on ocean's strand
-" The gems the Gnome had strew'd with treacherous hand,
-" O'er the green wave unnumber'd Sylphids play'd,
-" That all thy motions with delight survey'd,
-" And fill'd with warm desire to view unveil'd
-" The charms thy maiden modesty conceal'd,
-" They flutter' d round in many a lucid ring,
-
-" Stretch'd the light hand, and waved the filmy wing,
-
-
-
-
-" And strove, with gentle violence, to raise
-
-" The silken screen, that mock'd their eager gaze;
-
-" When lo! a viewless hand the veil unbound,
-
-" And rudely plung'd it in the deep profound,
-
-" Then shook the earth, and in a yawning void,
-
-" Albruno rose, in all his kingly pride:
-
-" The rest thou know'st — the Sylphs thy lot deplore,
-
-" Dissolve in tears, and quit the fatal shore.
-
-" Incens'd, the Gnome by fraud and theft should dare
-" Pollute my realms, I roused the powers of air,
-" In hope by prompt exertion to regain
-" The ravish'd pledge; but all our toils were vain:
-" For base Albruno had his prize immur'd
-" In deepest caverns, and with spells secur'd:
-" But now the day approaches; gentle maid,
-" Arouse thee from thy trance of grief, and aid
-" Our high emprize, to free thee from thy vow,
-" The sole resource thy stubborn fates allow.
-
-"■ Long had a war, with rancorous hatred waged,
-" The sullen Gnomes and Sprites of Fire engaged,
-" 'Till wearied all, a transient peace confined
-" Each martial hand, but fettered not the mind,
-
-c 2
-
-
-
-
-" Tlie Sprites, of rest impatient, every one
+‘Long had a war, with rancorous hatred waged,<br>
+The sullen Gnomes and Sprites of Fire engaged,<br>
+’Till wearied all, a transient peace confined<br>
+Each martial hand, but fettered not the mind,<br>
+The Sprites, of rest impatient, every one
 
 " Loth to begin, yet wished the war begun i
 
@@ -2219,7 +2188,7 @@ t Pure primitive marble is distinguished by its sparkling, or sparry frac-
 ture, and unblemished whiteness.
 
 t The various and beautiful tints frequently observed in ophites, or ser-
-pentine, are owing to the admixture of steatite, or soap rock. ■
+pentine, are owing to the admixture of steatite, or soap rock. 
 
 § Schist is said to derive its name from its bright and shining appearance.
 Sienite, not differing greally in its composition from granite, is frequently of
@@ -5691,7 +5660,7 @@ While Leonora's voice augments their fear:
 
 a Perhaps a moment lost decides her fate."
 
-■ The nymph young Alfred follows; o'er the seas
+ The nymph young Alfred follows; o'er the seas
 Speeds their light bark, nor heeds the adverse breeze;
 Tho' slight its frame, its strength the waves defied,
 And swift as lightning skimm'd the sparkling tide,
@@ -5710,7 +5679,7 @@ And Caledonia's ruder cliffs appear'd;
 Then by the rocky Orcades they past,
 And view'd, at distance, Norway's forests vast;
 And soon they shiver'd in the icy breeze
-That swept the surface of the Arctic seas. 17@
+That swept the surface of the Arctic seas.
 
 Those seas alike where truth and fancy reign,
 
@@ -6646,7 +6615,7 @@ Where all were met in honour of their queen.
 Yet many a nymph the secret reason guest,
 In looks, and signs, and whispers half exprest,
 And marvelled much how envy found a place
-In that fair breast, and love-inspiring face ■
+In that fair breast, and love-inspiring face 
 And some, whose minds a kindred thought conceal'd, 660
 In specious guise their lurking envy veil'd:
 " Twas true their queen was gracious, good and fair,
@@ -6919,7 +6888,7 @@ book iv. THE SEA. 191
 " Disgrace/' the king exclaim'd, " on her alone! 820
 " Come to my arms, thou bulwark of my throne.
 " O! lost so long, so long as dead deplor'd!
-" And now, upon this happy day restor'd — ■
+" And now, upon this happy day restor'd — 
 " But say, what sister of the briny wave
 " To thee those arms and poison'd weapon gave?"
 
@@ -7221,7 +7190,7 @@ Each feudal chief his vassals led to war:
 The fertile fields remain uncultur'd how,
 Or widow'd females guide the lingering plough.
 Such are the woes that mad ambition brings,
-■ When the dire fury rules the breasts of kingSi
+ When the dire fury rules the breasts of kingSi
 
 Now o'er the sea the aerial concave flies,
 Now Cirnos' woody isle beneath it lies,
@@ -10079,14 +10048,14 @@ Bright Amiantha, as a bride array'd.
 " Is this a monarch's faith? these abject chains,"
 He cried, " are these the meed a victor gains? 780
 
-" Here at thy call he came, a mortal knight,
-" With thee to prove the equal chance of fight.
-" With mortal strength thy mightier arm he dar'd,
-" And as a mortal claims his due reward;
-" Claims for himself, these knights, and damsel fair,
-" Free passage to the realms of light and air.
-" What frenzy rules thee? why does passion blind
-:c The light of reason in thy noble mind?
+Here at thy call he came, a mortal knight,
+With thee to prove the equal chance of fight.
+With mortal strength thy mightier arm he dar'd,
+And as a mortal claims his due reward;
+Claims for himself, these knights, and damsel fair,
+Free passage to the realms of light and air.
+What frenzy rules thee? why does passion blind
+The light of reason in thy noble mind?
 
 
 
@@ -10455,7 +10424,7 @@ END OF THE POEM.
 * ANTHRAX — *Lighted coal*
 * ANTHRACHIS&emsp; — 〃
 * CAUSIMOS — *Apt for burning*
-* CHLIAROTES — *Warmth
+* CHLIAROTES — *Warmth*
 * CHLIAROS —&emsp; 〃
 * EMPREESMOS — *Aflame or fire, a burning*
 * EMPYROS — *Fiery, that which contains fire*
