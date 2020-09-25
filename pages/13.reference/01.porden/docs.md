@@ -703,7 +703,7 @@ Of vivifying heat, and light, and air,<br>
 The leaves their vivid green, the flowers assume<br>
 Their balmy fragrance, and their various bloom;<br>
 
-[^7] The myosotis, or scorpion grass, is a beautiful plant which grows abundantly by the side of running waters. It has a small blue flower, with agolden eye in the centre, and is a great favourite with the Germans, who call it *“Forget me not*.” These flowers, or their enamelled resemblance, are frequently interchanged as tokens of regard. The *“Forget me not”* of the Germans is by some believed to be the veronica chamaedrys, which is also a beautiful blue flower.
+[^7]: The myosotis, or scorpion grass, is a beautiful plant which grows abundantly by the side of running waters. It has a small blue flower, with agolden eye in the centre, and is a great favourite with the Germans, who call it *“Forget me not*.” These flowers, or their enamelled resemblance, are frequently interchanged as tokens of regard. The *“Forget me not”* of the Germans is by some believed to be the veronica chamaedrys, which is also a beautiful blue flower.
 
 [^8]: If a plant be taken out of the ground and inverted, its parts also invert their functions. What was formerly the root becomes green, and leaves and flowers shoot out in the place of fibres. The inverted stem on the contrary grows rigid, and soon assumes the appearance and the functions of the root. — *Lectures delivered at the Royal Institution, by Dr. now Sir James Edward Smith*.
 
