@@ -292,18 +292,18 @@ Art to repel, or vigour to annoy?<br>
 Yet grant some pledge, no happier youth shall gain<br>
 That envied hand, so long desired in vain;<br>
 This in the fight shall steel thy warrior’s breast,<br>
-And soothe his slumbers in the hour of rest.’”
+And soothe his slumbers in the hour of rest.’
 
 “’Tis said that ‘often in the parting hour’<br>
 Victorious love asserts superior power,<br>
 I proved it true, when by his prayers subdued,<br>
 These words I spoke, — yet half in jesting mood—<br>
-“Go, Henry, go! be Heaven in fight your shield,<br>
+‘Go, Henry, go! be Heaven in fight your shield,<br>
 Your guide to glory thro’ the ensanguined field,<br>
 And unperceived if you this Veil obtain,<br>
 When with the year the hour returns again,<br>
 I plight my faith, with honour’s laurel twined,<br>
-Love’s myrtle crown my warrior’s brows shall bind.”
+Love’s myrtle crown my warrior’s brows shall bind.’
 
 “The youth I marked, and while I gaily spoke,<br>
 On his pale face the glow of triumph broke,<br>
@@ -450,7 +450,7 @@ And gaze enraptur’d on that speaking eye,<br>
 But duty calls — yet till the tedious sun<br>
 His lingering course thro’ twelve long signs shall run,<br>
 And shine propitious on our nuptial hour,<br>
-For thee my Gnomes shall deck the regal bower.’”
+For thee my Gnomes shall deck the regal bower.’
 
 “He spoke and vanished. Still in mute amaze<br>
 On vacant air I fixed my earnest gaze,<br>
@@ -556,7 +556,7 @@ Herself a blessing, if her dreams be vain;<br>
 Nor dread the perils of the lonely road,<br>
 Or the dark horrors of his drear abode,<br>
 My watchful care thy safety shall provide,<br>
-Thy guard in danger, as in doubt thy guide.’”
+Thy guard in danger, as in doubt thy guide.’
 
 “He vanished: but that voice so sweet, so clear,<br>
 Yet thrilled with transport my delighted ear,<br>
@@ -728,109 +728,75 @@ The sympathetic offspring fades away.[^12]<br>
 
 [^12]: The decay of our apples has excited much apprehension. Some of the finest kinds are nearly extinct, and others have evidently degenerated. Many attempts have been made to supply this loss by grafting favourite apples upon young stocks, but in vain. This has proved to be only the extension of an individual, not the production of a new one, and as the parent tree decayed, the grafts decayed also. To prevent the loss of so valuable a fruit, Mr. Knight sowed a quantity of the seeds of our best apples, in hope that, although a great majority would be merely crabs, out of many thousands he might procure a few valuable apples. His efforts have not been unsuccessful, and many of the new varieties promise to vie, in size and flavour, with the finest of the old ones. — *Smith’s Lectures*.
 
-"The paths of science while I thus pursued,<br>
-A strange event disturbed the peaceful flood;
-No more like liquid glass the waters seem,
-But dire commotions vex the troubled stream;
-On rushed the impetuous tide, with thundering roar,
-And wave o'er wave the foaming waters pour,
-Drive back the refluent stream, which widely spread,
-And rising high, o'erflowed its oozy bed;
-The fishers, who the coming ill descried,
-With speed for safety sought the middle tide,*
-When in the stream a monster rose, whose sight
-Had filled the boldest bosom with affright;
-His hideous form was rough with many a scale,
-Green was his hair, his hand displayed my Veil;
+“The paths of science while I thus pursued,<br>
+A strange event disturbed the peaceful flood;<br>
+No more like liquid glass the waters seem,<br>
+But dire commotions vex the troubled stream;<br>
+On rushed the impetuous tide, with thundering roar,<br>
+And wave o’er wave the foaming waters pour,<br>
+Drive back the refluent stream, which widely spread,<br>
+And rising high, o’erflowed its oozy bed;<br>
+The fishers, who the coming ill descried,<br>
+With speed for safety sought the middle tide,[^13]<br>
+When in the stream a monster rose, whose sight<br>
+Had filled the boldest bosom with affright;<br>
+His hideous form was rough with many a scale,<br>
+Green was his hair, his hand displayed my Veil;<br>
 
+[^13]: This passage is intended as a slight description of the phenomenon called the Bore or Agar, occasioned by the sudden influx of the tide into a river. Those rivers which have a wide embouchure, that becomes suddenly contracted, are most subject to it. The tide rushing up the stream, drives back the descending water, and the vessels upon it find themselves instantly raised many feet above their former level. In England the Severn is particularly subject to the Bore; but it is most remarkable in the Indian rivers, the principal branches of the Ganges, the Megna, and the Hoogly.
 
+His hoarse rough voice was like the deaf’ning roar<br>
+Of billows breaking on the rocky shore,<br>
+While with rude homage, and uncourtly mien,<br>
+He told Marino’s tale, and hail’d me as his queen.
 
+“My fate to shun, I ponder’d long in vain,<br>
+My frustrate projects but increas’d my pain;<br>
+For counsel then I sought an hermit’s cave,<br>
+The prescient sage this strange injunction gave.<br>
+‘With Alfred to the ocean’s side repair,<br>
+To aid your wish, a pearl shall meet you there,<br>
+Dear to the King, and save you from despair.’
 
+“Oh! words obscure! whence hope can scarcely spring,<br>
+Yet still to these, our last resource we cling,<br>
+In dubious faith the dark behest obey,<br>
+And seek the Ocean with returning day;<br>
+While on my Alfred’s shield our quest is shewn,<br>
+And round the Veil inscribed ‘For this alone.’”
 
-* This passage is intended as a slight description of the phenomenon called
-the Bore or Agar, occasioned by the sudden influx of the tide into a river.
-Those rivers which have a wide embouchure, that becomes suddenly con-
-tracted, are most subject to it. The tide rushing up the stream, drives back
-the descending water, and the vessels upon it find themselves instantly
-raised many feet above their former level. In England the Severn is parti-
-cularly subject to the Bore; but it is most remarkable in the Indian rivers,
-the principal branches of the Ganges, the Megna, and the Hoogly.
+Miranda ceas’d; each maid attentive heard,<br>
+And felt surprize increase at every word,<br>
+And while the Baron cheer’d his lovely guest,<br>
+He feign’d no more the wonder he exprest;<br>
+To Leonora turned, and sought to know<br>
+If from a kindred source her sorrows flow.
 
-
-
-
-His hoarse rough voice was like the deaf ning roar
-
-Of billows breaking on the rocky shore,
-
-While with rude homage, and uncourtly mien,
-
-He told Marino's tale, and hail'd me as his queen.
-
-
-
-" My fate to shun, I ponder'd long in vain,
-My frustrate projects but increas'd my pain;
-For counsel then I sought an hermit's cave,
-The prescient sage this strange injunction gave.
-" With Alfred to the ocean's side repair,
-" To aid your wish, a pearl shall meet you there,
-" Dear to the King, and save you from despair."
-
-
-
-" Oh! words obscure! whence hope can scarcely spring,
-Yet still to these, our last resource we cling,
-
-In dubious faith the dark behest obey,
-And seek the Ocean with returning day;
-While on my Alfred's shield our quest is shewn,
-And round the Veil inscribed ' For this alone.'"
-
-Miranda ceas'd; each maid attentive heard,
-And felt surprize increase at every word,
-And while the Baron cheer'd his lovely guest,
-He feign'd no more the wonder he exprest;
-
-
-
-
-To Leonora turned, and sought to know
-
-If from a kindred source her sorrows flow. 6
-
-As either maid was Leonora fair —
-A silken net confin'd her sable hair;
-Tho' less her stature, yet her form so light,
-That in the dance she seem'd some airy sprite,
-Or of that choir that met in bright array,
-" To do observance to the Morn of May,"*
-Tript in gay circles round their virgin queen,
-And hymn'd the praises of the laurel green.
-A warmer sun had tinged her lovely face,
-Yet animation lent a sprightly grace;
-
-Nor could Affliction's briny tear destroy
-The speaking lustre of her hazel eye;
-As with a smile the damsel thus began,
+As either maid was Leonora fair —<br>
+A silken net confin’d her sable hair;<br>
+Tho’ less her stature, yet her form so light,<br>
+That in the dance she seem’d some airy sprite,<br>
+Or of that choir that met in bright array,<br>
+“To do observance to the Morn of May,”[^14]<br>
+Tript in gay circles round their virgin queen,<br>
+And hymn’d the praises of the laurel green.<br>
+A warmer sun had tinged her lovely face,<br>
+Yet animation lent a sprightly grace;<br>
+Nor could Affliction’s briny tear destroy<br>
+The speaking lustre of her hazel eye;<br>
+As with a smile the damsel thus began,<br>
 Through all her speech her cheerful temper ran:
 
-" I fear my story of another Veil
-Will prove the tedium of a thrice told tale;
-Well might Maria, or Miranda, move
-Their hearers pity's genuine power to prove,
+“I fear my story of another Veil<br>
+Will prove the tedium of a thrice told tale;<br>
+Well might Maria, or Miranda, move<br>
+Their hearers pity’s genuine power to prove,<br>
 
-* See " The Flower and the Leaf."
+[^14]: See “The Flower and the Leaf.”
 
-
-
-
-But when such rivals in the lists appear,
-
-How can / hope a sympathetic tear,
-
-Who, at my onset, must perforce confess
-
+But when such rivals in the lists appear,<br>
+How can *I* hope a sympathetic tear,<br>
+Who, at my onset, must perforce confess<br>
 My sorrows lighter, as my beauty less?
 
 " A Spaniard I — my father lov'd to trace,
