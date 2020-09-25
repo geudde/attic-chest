@@ -1026,189 +1026,125 @@ The altered youth our parting steps delayed,<br>
 With crimson blaze his floating garments shone,<br>
 A purple radiance formed his flamy crown.
 
-" Oh stay," he cried, " behold the Prince of Flame,
-" Earth, air, and ocean start at Pyros' name;
-" Prompt at my call, to nourish or annoy,
-" Being to give, or being to destroy,
-" The salamandrine tribes obey my word,
-" And wait in radiant phalanx round their lord;
-" An hundred blazing mouths, this frozen realm,
-" If I command, with floods of flame o'erwhelm,
-11 Those icy cliffs in clouds of steam aspire,
-" Those rocks of granite sink in liquid fire;
-" Such my tremendous power — but fear not thou:
-" To beauty's sway a willing slave I bow,
-" Nor shall one sprite his arm in fury wave
-" To harm that life my care so lately gave:
-" Then let thy grateful heart my wishes crown,
-" And be my meed to raise thee to my throne."
+“‘Oh stay,’ he cried, ‘behold the Prince of Flame,<br>
+Earth, air, and ocean start at Pyros’ name;<br>
+Prompt at my call, to nourish or annoy,<br>
+Being to give, or being to destroy,<br>
+The salamandrine tribes obey my word,<br>
+And wait in radiant phalanx round their lord;<br>
+An hundred blazing mouths, this frozen realm,<br>
+If I command, with floods of flame o’erwhelm,<br>
+Those icy cliffs in clouds of steam aspire,<br>
+Those rocks of granite sink in liquid fire;<br>
+Such my tremendous power — but fear not thou:<br>
+To beauty’s sway a willing slave I bow,<br>
+Nor shall one sprite his arm in fury wave<br>
+To harm that life my care so lately gave:<br>
+Then let thy grateful heart my wishes crown,<br>
+And be my meed to raise thee to my throne.’
 
-" My heart the boon of life preserv'd confest,
-Nor dared I spurn the mighty king's request;
-
-
-
-
-My Veil, a solemn pledge, he asked and won,
-
-Which binds my faith to him, and him alone;
-
-But to my earnest prayers one year was given,
-
+“My heart the boon of life preserv’d confest,<br>
+Nor dared I spurn the mighty king’s request;<br>
+My Veil, a solemn pledge, he asked and won,<br>
+Which binds my faith to him, and him alone;<br>
+But to my earnest prayers one year was given,<br>
 Ere for his flaming realms I quit the light of heaven.
 
-" To Albion soon we came; and thither brought
-By love, our lone retreat Alonzo sought,
-Whom lying fame had number'd with the dead,
-When wounded by my father's side he laid;
-And hard to say, if now his manly breast
-More swell'd with open joy, or grief supprest;
-With joy to meet his long-lost love again,
-Or grief to find his cherish' d hopes were vain:
-Nor less my heart with mingled feelings strove,
+“To Albion soon we came; and thither brought<br>
+By love, our lone retreat Alonzo sought,<br>
+Whom lying fame had number’d with the dead,<br>
+When wounded by my father’s side he laid;<br>
+And hard to say, if now his manly breast<br>
+More swell’d with open joy, or grief supprest;<br>
+With joy to meet his long-lost love again,<br>
+Or grief to find his cherish’d hopes were vain:<br>
+Nor less my heart with mingled feelings strove,<br>
+When honour struggled with awakening love,<br>
+That each new day with deeper grief deplored<br>
+My hand affianced to the fiery lord,<br>
+And, to Alonzo pledged, my broken word.<br>
+At length I heard (the monarch’s happy bride)<br>
+A nymph of fire my destin’d place supply’d;<br>
+Yet he my pledge refuses to restore,<br>
+And free the hand that he can claim no more.
 
-When honour struggled with awakening love,
-That each new day with deeper grief deplored ~\
-
-My hand affianced to the fiery lord, \
-
-And, to Alonzo pledged, my broken word. 3
-
-At length I heard (the monarch's happy bride)
-A nymph of fire my destin'd place supply'd;
-Yet he my pledge refuses to restore,
-And free the hand that- he can claim no more.
-
-
-
-
-" One eve, when all was still, I strove in vain
-To bid the fading embers glow again,
-
-When in the midst arose a sudden flame,
+“One eve, when all was still, I strove in vain<br>
+To bid the fading embers glow again,<br>
+When in the midst arose a sudden flame,<br>
 And to mine ear these sounds low murmuring came.
 
-" Our gracious queen, Spinthera, bids me bear
-" This message straight to Leonora's ear;
-" My heart, she says, is partner in thy pain,
-" And oft has urg'd thy suit, but urg'd in vain;
-" In Stromboli my Pyros holds his court,
-" And there must all who seek the king resort;
-" Then hither come, and if thy prayers or mine
-" Have power to move, the Veil again is thine;
-" Nor fear; my voice shall check the rage of heat,
-" And guide thee safely to his flaming seat."
+“‘Our gracious queen, Spinthera, bids me bear<br>
+This message straight to Leonora’s ear;<br>
+My heart, she says, is partner in thy pain,<br>
+And oft has urg’d thy suit, but urg’d in vain;<br>
+In Stromboli my Pyros holds his court,<br>
+And there must all who seek the king resort;<br>
+Then hither come, and if thy prayers or mine<br>
+Have power to move, the Veil again is thine;<br>
+Nor fear; my voice shall check the rage of heat,<br>
+And guide thee safely to his flaming seat.’
 
-" We move obedient. — My Alonzo's shield
-Our quest divulges on its argent field;
-Before the monarch's throne a maid appears,
-Who seems to sue with ineffectual tears;
-And near her stands a knight in sable mail,
-With brandish'd falchion — ' Justice and the Veil/
+“We move obedient. — My Alonzo’s shield<br>
+Our quest divulges on its argent field;<br>
+Before the monarch’s throne a maid appears,<br>
+Who seems to sue with ineffectual tears;<br>
+And near her stands a knight in sable mail,<br>
+With brandish’d falchion — ‘Justice and the Veil.’
 
+“Strange is my story — strange the links that join<br>
+My fate with yours, sweet maids, and yours with mine;<br>
+Strange thus to meet, where each to each unknown,<br>
+Found each sad tale an echo of her own;<br>
+Then cheer your hearts, let each derive relief<br>
+From that sure source, community of grief,<br>
+And trust that Pow’r, which safe thro’ every ill<br>
+’Till now has guided, and shall guide us still;<br>
+Yet it is wondrous we should weep, when more<br>
+Our lot would envy, than our woes deplore;<br>
+Think of the joy to range through realms unknown,<br>
+The robes of regal state — the sparkling crown,<br>
+And powers superior trembling at our frown;<br>
+Can love’s bright star, or friendship’s milder ray,<br>
+Vie with the splendour wealth and power display?<br>
+Come, mourn no more — we lift our heads on high,<br>
+Examples great of female constancy,<br>
+Resolved in danger’s sternest hour to prove<br>
+Our dauntless courage and unchanging love.”
 
-
-
-" Strange is my story — strange the links that join
-My fate with yours, sweet maids, and yours with mine;
-Strange thus to meet, where each to each unknown,
-Found each sad tale an echo of her own;
-Then cheer your hearts, let each derive relief
-From that sure source, community of grief,
-And trust that Pow'r, which safe thro' every ill
-'Till now has guided, and shall guide us still;
-Yet it is wondrous we should weep, when more
-Our lot would envy, than our woes deplore;
-Think of the joy to range through realms unknown.
-The robes of regal state — the sparkling crown, 90o' &gt;
-
-And powers superior trembling at our frown; j
-
-Can love's bright star, or friendship's milder ray,
-Vie with the splendour wealth and power display?
-Come, mourn no more — we lift our heads on high,
-Examples great of female constancy,
-Resolved in danger's sternest hour to prove
-Our dauntless courage and unchanging love."
-
-
-
-She ceas'd; the Baron heard with careful ear,
-And deeply pondering, still he seem'd to hear:
-At length arous'd, he join'd the tribute paid
-
-Of thanks and wonder to the lovelv maid;
-
-
-
-I
-
-
-
-
-And oft a sympathetic hope eKprest,
-
-To veil the mischief brooding at his breast.
-
-Each maiden half her grief resigns, and blends
-
-In cheerful converse with her new found friends;
-
-While still their young affection warmer grew,
-
+She ceas’d; the Baron heard with careful ear,<br>
+And deeply pondering, still he seem’d to hear:<br>
+At length arous’d, he join’d the tribute paid<br>
+Of thanks and wonder to the lovely maid;<br>
+And oft a sympathetic hope exprest,<br>
+To veil the mischief brooding at his breast.<br>
+Each maiden half her grief resigns, and blends<br>
+In cheerful converse with her new found friends;<br>
+While still their young affection warmer grew,<br>
 Till late to rest the weary group withdrew.
 
+---
 
+## Book the Second
 
-END OF THE FIRST BOOK,
+## The Earth
 
+Meanwhile the warriors, in the open field,<br>
+Their guard maintained, and each to each revealed<br>
+The mystic meaning of his pictured shield,<br>
+When from the earth upsprung a stranger knight,<br>
+And dar’d Maria’s champion to the fight;<br>
+His ruby armour shone with fiery blaze,<br>
+His emerald helmet cast resplendent rays;<br>
+Of one vast diamond formed, his massy shield<br>
+Shone like the moon, and lightened all the field;<br>
+Less brilliant, though more fatal, those of yore<br>
+That valiant Arthur and Ruggiero bore.[^23]<br>
 
+[^23]: See Spenser and Ariosto.
 
-THE VEILS.
-
-
-
-BOOK THE SECOND.
-
-
-
-THE EABTH.
-
-
-
-THE VEILS.
-
-
-
-BOOK THE SECOND.
-
-
-
-THE EARTH.
-
-Meanwhile the warriors, in the open field,
-Their guard maintained, and each to each revealed
-The mystic meaning of his pictured shield,
-When from the earth upsprung a stranger knight,
-And dar'd Maria's champion to the fight;
-His ruby armour shone with fiery blaze,
-His emerald helmet cast resplendent rays;
-Of one vast diamond formed, his massy shield
-Shone like the moon, and lightened all the field;
-Less brilliant, though more fatal, those of yore
-That valiant Arthur and Ruggiero bore. #
-
-* See Spenser and A riosto.
-
-
-
-50 THE EARTH. book u.
-
-The knight on Henry cast a threat'ning look, ~\
-
-High o'er his head his beamy sword he shook, &gt;
-
-Then stampt infuriate on the ground, and spoke: J
+The knight on Henry cast a threat’ning look,<br>
+High o’er his head his beamy sword he shook,<br>
+Then stampt infuriate on the ground, and spoke:
 
 " Rash youth, to me Maria's charms resign,
 " Or meet in arms the Monarch of the Mine;
