@@ -10359,14 +10359,14 @@ END OF THE POEM.*
 
 ### Mortals
 
-Alfred
-Alonzo
-Elvira
-Evelina
-Henry
-Leonora
-Maria
-Miranda
+* Alfred
+* Alonzo
+* Elvira
+* Evelina
+* Henry
+* Leonora
+* Maria
+* Miranda
 
 ### Gnomes
 
