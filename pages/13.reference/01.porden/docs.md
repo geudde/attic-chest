@@ -799,145 +799,82 @@ How can *I* hope a sympathetic tear,<br>
 Who, at my onset, must perforce confess<br>
 My sorrows lighter, as my beauty less?
 
-" A Spaniard I — my father lov'd to trace,
-Thro' many a warlike chief, his noble race
-To heroes, who on Ronscesvailes plain ~\
-
-Fought for the freedom of invaded Spain, V
-
-And check'd the arms of conquering Charlemagne: /
-
-In youth he came to Albion's happy land,
-There woo'd my mother, and obtain'd her hand,
-With her to Spain he plough'd the vvatry way,
-
-Where first mine infant eyes beheld the day.
-Oft had the palm of victory graced his arms,
-Yet now he shun'd the battle's loud alarms,
-And fled the crowded scenes of courtly strife
+“A Spaniard I — my father lov’d to trace,<br>
+Thro’ many a warlike chief, his noble race<br>
+To heroes, who on Ronscesvalles plain<br>
+Fought for the freedom of invaded Spain,<br>
+And check’d the arms of conquering Charlemagne:<br>
+In youth he came to Albion’s happy land,<br>
+There woo’d my mother, and obtain’d her hand,<br>
+With her to Spain he plough’d the watry way,<br>
+Where first mine infant eyes beheld the day.<br>
+Oft had the palm of victory graced his arms,<br>
+Yet now he shun’d the battle’s loud alarms,<br>
+And fled the crowded scenes of courtly strife<br>
 For the calm pleasures of domestic life.
 
+“From old Cordova’s Roman walls expelled,[^15]<br>
+Brave Ferdinand the haughty Moors had quelled;<br>
 
+[^15]: Cordova, or Corduba as it was anciently called, was founded by the Romans. It was afterwards in possession of the Goths, and then of the Moors, who were expelled in 1236 by Ferdinand the Third, who first united the crowns of Castille and Leon. From this time Cordova, hitherto the seat of learning, declined, and that star, which had shone amidst darkness and barbarism, sunk ere the dawn returned to Europe.
 
-" From old Cordova's Roman walls expelled,*
-Brave Ferdinand the haughty Moors had quelled;
+But still from Afric poured the ambitious foes,[^16]<br>
+And the new kingdom of Granada rose,<br>
+Where luxury held in Hamet’s court her reign,<br>
+And arts and splendour triumph’d in her train.<br>
+Fame, in Castille, Granada’s pomp had told;[^17]<br>
+Her proud Alhambra with its walls of gold,<br>
+Her nobles’ wealth and state, their skill in arms,<br>
+The matchless lustre of their ladies’ charms;<br>
+Her hills, where dark the olive woods extend,<br>
+And the green boughs with fruits Hesperian bend;<br>
+Where the sweet rose, and starry jasmine spring,<br>
+And frequent founts their liquid crystal fling;<br>
 
-* Cordova, or Corduba as it was anciently called, was founded by the
-Romans. It was afterwards in possession of the Goths, and then of the Moors,
-who were expelled in 1236 by Ferdinand the Third, who first united the
-crowns of Castille and Leon. From this time Cordova, hitherto the seat of
-learning, declined, and that star, which had shone amidst darkness and bar-
-barism, sunk ere the dawn returned to Europe.
+[^16]: Granada was early in the possession of the Moors, but the kingdom was dissolved in 1221. In 1236, fresh bands pouring over from Africa, Granada became the seat of opulence and splendour, and the Moorish capital of Spain. In speaking of Granada, historians and geographers become poetical, and describe in glowing terms its fertile valley, bounded by mountains, and watered by the Genil and the Guadalquivir; its hills covered with groves of orange, of mulberry, and of olive; the magnificence of its palaces, and the splendour of its court, where the manners of chivalry received a peculiar colouring from the luxury of Africa. At the time mentioned in the poem, the sceptre of Granada was held by Jusef Hacen Hamet, the seventh king of Granada. Those who are fond of romantic history will be gratified by the translation of the Civil Wars of Granada, by Mr. Rodd.
 
+[^17]: This is an anachronism. The apartment here alluded to was not added to the Alhambra till the reign of Muley Hascem, the father of Boabdelin, who lost his crown to Ferdinand and Isabella. The walls had the appearance of gold, and are supposed to have been a composition of the yolks of eggs, Muley Hascem also built the celebrated court of Lions.
 
+Her mulberry groves, in whose propitious gloom<br>
+The worm industrious winds its silken tomb;<br>
+Her fertile vale where two fair rivers flow,<br>
+And lofty mountains ever topt with snow.[^18]<br>
 
+[^18]: The Sierra Nevada, or snowy mountain.
 
-But still from Afric poured the ambitious foes,*
-
-And the new kingdom of Granada rose,
-
-Where luxury held in Hamet's court her reign,
-
-And arts and splendour triumph'd in her train.
-
-Fame, in Castille, Granada's pomp had told;j
-
-Her proud Alhambra with its walls of gold,
-
-Her nobles' wealth and state, their skill in arms,
-
-The matchless lustre of their ladies' charms;
-
-Her hills, where dark the olive woods extend,
-
-And the green boughs with fruits Hesperian bend;
-
-Where the sweet rose, and starry jasmine spring,
-
-And frequent founts their liquid crystal fling;
-
-
-
-* Granada was early in the possession of the Moors, but the kingdom was
-dissolved in 1221. In 1236, fresh bands pouring over from Africa, Granada
-became the seat of opulence and splendour, and the Moorish capital of Spain.
-In speaking of Granada, historians and geographers become poetical, and
-describe in glowing terms its fertile valley, bounded by mountains, and
-watered by the Genii and the Guadalquivir; its hills covered with groves
-of orange, of mulberry, and of olive; the magnificence of its palaces, and
-the splendour of its court, where the manners of chivalry received a peculiar
-colouring from the luxury of Africa. At the time mentioned in the poem,
-the sceptre of Granada was held by Jusef Hacen Hamet, the seventh king of
-Granada. Those who are fond of romantic history will be gratified by the
-translation of the Civil Wars of Granada, by Mr. Iiodd.
-
-t This is an anachronism. The apartment here alluded to was not added
-to the Alhambra till the reign of Muley Hascem, the father of Boabdelin,
-who lost his crown to Ferdinand and Isabella. The walls had the appearance
-of gold, and are supposed to have been a composition of the yolks of eggs,
-Muley Hascem also built the celebrated court of Lions,
-
-
-
-
-Her mulberry groves, in whose propitious gloom
-The worm industrious winds its silken tomb;
-Her fertile vale where two fair rivers flow,
-And lofty mountains ever topt with snow.*
-
-" Roused at the sound, with martial ardour fired,
-Or by religion's fervent zeal inspired,
-Alfonzo rose; while burning for the fight,
-Round Sant' Iago's cross, the youth of Spain unite;
-To gain- renown, or grasp so rich a prize,
-Or win fresh favour in their ladies' eyes,
-They rush to arms, and, of success secure,
-
+“Roused at the sound, with martial ardour fired,<br>
+Or by religion’s fervent zeal inspired,<br>
+Alfonzo rose; while burning for the fight,<br>
+Round Sant’ Iago’s cross, the youth of Spain unite;<br>
+To gain renown, or grasp so rich a prize,<br>
+Or win fresh favour in their ladies’ eyes,<br>
+They rush to arms, and, of success secure,<br>
 Rear their proud banners, and defy the Moor.
 
-" From warfare long estranged, again my sire
-Felt in his veins the glow of youthful fire;
-Again his limbs in shining arms are drest,
-And the broad cuirass guards his manly breast.
-Little I thought of war's destructive rage,
-Who knew it only in the tuneful page;
-My fancy still in brightest hues pourtray'd
-The splendid scene of hosts for fight array 'd:
-
-
-
-
-The martial trumpet echoing from afar,
-
-And prancing steeds that love the notes of war;
-
-Aloft in air the pennon's silken fold,
-
-The plumage nodding o'er the casques of gold,
-
-The emblazon'd shields, the armour's burnish'd blaze,
-
-And lances glittering in the morning rays:
-
-Seldom I turn'd to trace the alter'd scene,
-
-When evening closes on the empurpled green;
-
-When dim with dust and blood their bright array,
-
-And cold the hearts that panted for the fray;
-
-Yet when my weeping mother urged her lord
-
-To quit his purpose, or as lost deplored,
-
-I join'd her prayers, I shrunk with kindred fears,
-
-And mix'd with her's my unavailing tears;
-
-Fix'd was his mind, with brave Alfonzo's band
-
-At dawn of day to seek Granada's land. —
+“From warfare long estranged, again my sire<br>
+Felt in his veins the glow of youthful fire;<br>
+Again his limbs in shining arms are drest,<br>
+And the broad cuirass guards his manly breast.<br>
+Little I thought of war’s destructive rage,<br>
+Who knew it only in the tuneful page;<br>
+My fancy still in brightest hues pourtray’d<br>
+The splendid scene of hosts for fight array’d:<br>
+The martial trumpet echoing from afar,<br>
+And prancing steeds that love the notes of war;<br>
+Aloft in air the pennon’s silken fold,<br>
+The plumage nodding o’er the casques of gold,<br>
+The emblazon’d shields, the armour’s burnish’d blaze,<br>
+And lances glittering in the morning rays:<br>
+Seldom I turn’d to trace the alter’d scene,<br>
+When evening closes on the empurpled green;<br>
+When dim with dust and blood their bright array,<br>
+And cold the hearts that panted for the fray;<br>
+Yet when my weeping mother urged her lord<br>
+To quit his purpose, or as lost deplored,<br>
+I join’d her prayers, I shrunk with kindred fears,<br>
+And mix’d with her’s my unavailing tears;<br>
+Fix’d was his mind, with brave Alfonzo’s band<br>
+At dawn of day to seek Granada’s land. —
 
 " 'Twas night, and all around in silence slept, "1
 
