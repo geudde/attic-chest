@@ -10373,133 +10373,131 @@ END OF THE POEM.*
 
 ### Gnomes
 
-ALBRUNO
+* ALBRUNO
 
-ADAMAS — *Diamond*
-AMIANTHA — *Amianthus*
-AMMONIAS — *Ammonium* — metallic basis of ammonia
-ARGYROS — *Silver*
-ASBESTOS — *Mountain flax*
-AVENTURINE — *A sparry gem*
-BARION — *Barium* — metallic basis of barytes
-BARYTES — *An earth*
-BASALTES — *Basalt*
-CALCION — *Calcium* — metallic basis of chalk
-CALCIOS — *Chalk*
-CALAMINA — *Zinc*
-CARBON — *Charcoal*
-CHALCOS — *Copper*
-CHALYBS — *Steel*
-CHRYSOS — *Gold*
-COBALTO — *A metal*
-GLUCINE — *An earth*
-GRANITES — *Granite*
-HYDRARGYRAS — *Quicksilver*
-IRIDION — *A metal*
-ITTRIA — *An earth*
-KASSITEROS — *Tin or pewter*
-MAGNESIOS — *Magnesia*
-MAGNETES — *Magnet*
-MAGNIOS — *Magunim* — metallic basis of magnesia
-MARMAROS — *Marble*
-MOLYBDOS — *Lead*
-NICKEL — *A metal*
-NITRON — *Nitre*
-OPHITES — *Serpentine*
-OREICHALCON — *Brass*
-OROS — *Mountain*
-OSMION — *Osmium*
-PALLADION — *Palladium*
-PLATINA — *A metal*
-PLUMBAGO — *Black lead*
-PORPHYRITES — *Porphyry*
-SCHISTOS — *Shist*
-SIDEROS — *Iron*
-SIENITOS — *Sienite*
-SILEXIS — *Silex*
-SODION — *Sodium* — metallic basis of soda
-SOLFARA — *Sulphur*
-STEATYTE — *Soap rock*
-STRONTIA — *An earth*
-STRONTIAS — *Strontium* — metallic basis of strontia
-STYPTERION — *Allumine*
-TELLURIO — *A metal*
-THEION — *Sulphur*
-TITANOS — *Chalk*
-ZIRCON — *An earth*
+* ADAMAS — *Diamond*
+* AMIANTHA — *Amianthus*
+* AMMONIAS — *Ammonium* — metallic basis of ammonia
+* ARGYROS — *Silver*
+* ASBESTOS — *Mountain flax*
+* AVENTURINE — *A sparry gem*
+* BARION — *Barium* — metallic basis of barytes
+* BARYTES — *An earth*
+* BASALTES — *Basalt*
+* CALCION — *Calcium* — metallic basis of chalk
+* CALCIOS — *Chalk*
+* CALAMINA — *Zinc*
+* CARBON — *Charcoal*
+* CHALCOS — *Copper*
+* CHALYBS — *Steel*
+* CHRYSOS — *Gold*
+* COBALTO — *A metal*
+* GLUCINE — *An earth*
+* GRANITES — *Granite*
+* HYDRARGYRAS — *Quicksilver*
+* IRIDION — *A metal*
+* ITTRIA — *An earth*
+* KASSITEROS — *Tin or pewter*
+* MAGNESIOS — *Magnesia*
+* MAGNETES — *Magnet*
+* MAGNIOS — *Magunim* — metallic basis of magnesia
+* MARMAROS — *Marble*
+* MOLYBDOS — *Lead*
+* NICKEL — *A metal*
+* NITRON — *Nitre*
+* OPHITES — *Serpentine*
+* OREICHALCON — *Brass*
+* OROS — *Mountain*
+* OSMION — *Osmium*
+* PALLADION — *Palladium*
+* PLATINA — *A metal*
+* PLUMBAGO — *Black lead*
+* PORPHYRITES — *Porphyry*
+* SCHISTOS — *Shist*
+* SIDEROS — *Iron*
+* SIENITOS — *Sienite*
+* SILEXIS — *Silex*
+* SODION — *Sodium* — metallic basis of soda
+* SOLFARA — *Sulphur*
+* STEATYTE — *Soap rock*
+* STRONTIA — *An earth*
+* STRONTIAS — *Strontium* — metallic basis of strontia
+* STYPTERION — *Allumine*
+* TELLURIO — *A metal*
+* THEION — *Sulphur*
+* TITANOS — *Chalk*
+* ZIRCON — *An earth*
 
 
 ### Sylphs
 
-ARIEL
+* ARIEL
 
-
-ACTIN — *Sunbeam*
-AURELIO*
-BRONTE — *Thunder*
-CERULEO*
-DROSA — *Dew*
-ELECTRON — *Lightning*
-IRIS — *Rainbow*
-KERAUNOS — *Thunderbolt*
-NEPHOS — *Cloud*
-OMBRA — *Shower*
-SCIROCCO — *The south-east*
-THUELLA — *Storm*
+* ACTIN — *Sunbeam*
+* AURELIO*
+* BRONTE — *Thunder*
+* CERULEO*
+* DROSA — *Dew*
+* ELECTRON — *Lightning*
+* IRIS — *Rainbow*
+* KERAUNOS — *Thunderbolt*
+* NEPHOS — *Cloud*
+* OMBRA — *Shower*
+* SCIROCCO — *The south-east*
+* THUELLA — *Storm*
 
 
 ### Pyridae
 
-PYROS
+* PYROS
 
-
-ALEINOS — *Hot*
-ANTHRAX — *Lighted coal*
-ANTHRACHIS&emsp; — 〃
-CAUSIMOS — *Apt for burning*
-CHLIAROTES — *Warmth*
-CHLIAROS&emsp; 〃
-EMPREESMOS — *Aflame or fire, a burning*
-EMPYROS — *Fiery, that which contains fire*
-IGNICOMUS — *Fiery hair*
-KAPNOS — *Smoke*
-LAMPEDON — *Flash*
-MARMARYGOS — *Brightness*
-MIOANTE — *Glittering*
-PERUSTOS — *Perustus*, Lat. *burnt up, or scorched*
-PERICAUTHEIS&emsp; — 〃
-PHLEGON — *Burning* — the name of one of the horses of Apollo
-PHLOGOS — *Flame*
-PYRENEMOS — *Wind of fire*
-PYRIGENES — *Child of fire*
-PYRAUSTES — *Fire-fly*
-PYROPHOROS — *Fire-bearer*
-PYROSTHENES — *Ignipotent*
-PYRODES — *Fiery, burning hot*
-PYRIDES — *Son of Pyros*
-SCINTILLUS — *Spark*
-SPINTHERA&emsp; — 〃
-SPINTHEROS&emsp; — 〃
-SPODOS — *Ashes*
-THERMOTES — *Heat*
-THERMOS&emsp; — 〃
-THERMANTICOS — *Having the power of making warm*
-THERMASION — *Thermesia — warmth, heat*
+* ALEINOS — *Hot*
+* ANTHRAX — *Lighted coal*
+* ANTHRACHIS&emsp; — 〃
+* CAUSIMOS — *Apt for burning*
+* CHLIAROTES — *Warmth*
+* CHLIAROS&emsp; 〃
+* EMPREESMOS — *Aflame or fire, a burning*
+* EMPYROS — *Fiery, that which contains fire*
+* IGNICOMUS — *Fiery hair*
+* KAPNOS — *Smoke*
+* LAMPEDON — *Flash*
+* MARMARYGOS — *Brightness*
+* MIOANTE — *Glittering*
+* PERUSTOS — *Perustus*, Lat. *burnt up, or scorched*
+* PERICAUTHEIS&emsp; — 〃
+* PHLEGON — *Burning* — the name of one of the horses of Apollo
+* PHLOGOS — *Flame*
+* PYRENEMOS — *Wind of fire*
+* PYRIGENES — *Child of fire*
+* PYRAUSTES — *Fire-fly*
+* PYROPHOROS — *Fire-bearer*
+* PYROSTHENES — *Ignipotent*
+* PYRODES — *Fiery, burning hot*
+* PYRIDES — *Son of Pyros*
+* SCINTILLUS — *Spark*
+* SPINTHERA&emsp; — 〃
+* SPINTHEROS&emsp; — 〃
+* SPODOS — *Ashes*
+* THERMOTES — *Heat*
+* THERMOS&emsp; — 〃
+* THERMANTICOS — *Having the power of making warm*
+* THERMASION — *Thermesia — warmth, heat*
 
 ### Hydidae
 
-MARINO
+* MARINO
 
 
-CLYDON — *Tide*
-CUMA — *Wave*
-CUMOS&emsp; — 〃
-DELPHINO — *Dolphin*
-LYMNORIA — *From λυμνoς, a lake*
-LYMXOCHARIS
-MARGUERITA — *Pearl*
-POTAMOS — *River*
-PLEMMYRA — *Flowing*
-PLEMURA&emsp; — 〃
+* CLYDON — *Tide*
+* CUMA — *Wave*
+* CUMOS&emsp; — 〃
+* DELPHINO — *Dolphin*
+* LYMNORIA — *From λυμνoς, a lake*
+* LYMXOCHARIS
+* MARGUERITA — *Pearl*
+* POTAMOS — *River*
+* PLEMMYRA — *Flowing*
+* PLEMURA&emsp; — 〃
 
 
