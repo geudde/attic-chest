@@ -691,7 +691,7 @@ And strew around, in honour of the spring;<br>
 The hyacinth, the violet’s purple dye,<br>
 Aud myosotis blue, with golden eye,<br>
 Which oft the German youth, in graceful knot,<br>
-Bears to his love, and sighs ‘ Forget me not.’[^7]<br>
+Bears to his love, and sighs ‘Forget me not.’[^7]<br>
 At length diverging, Nature’s course we trace,<br>
 From the first embryo, till the plant decays;<br>
 How from the germ the leafy stems ascend,<br>
