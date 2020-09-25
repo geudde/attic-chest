@@ -408,135 +408,72 @@ Full in her pathway yawns the gulf unseen,<br>
 And here she triumphs, where the prayers of love,<br>
 And wealth and power have vainly tried to move. 
 
-" Yet why afflicted thus, why thus disdain 
-" The hand a thousand beauties seek in vain? 
-
-" In vain each lovely Gnome with studious care 
-" Folds her rich robe, or braids her scented hair, 
-
-" Or, rifling; all the secrets of the mine, i 
-
-f 
-
-" Makes her dark eye with softer lustre shine,* &gt; 
-
-" I fly their sight and live alone in thine; } 
-
-" Thy form more lovely in its plain attire, 
-
-" Thine eyes more brilliant in their native fire; 
-
-" My heart is thine, fair ingrate, thine alone; 
-
-" O! dry those tears and share a monarch's throne. 
-
-" What though thou quit the sun's enlivening ray, 
-
-" And ' the warm precincts of the cheerful day,' 
-
-" The feathered songsters, fruits and fragrant flowers, 
-
-" And dear companions of thy social hours, 
-
-" Yet deem not my extended realms below, 
-
-" The constant haunt of horror, gloom, and woe, 
+“‘Yet why afflicted thus, why thus disdain<br>
+The hand a thousand beauties seek in vain?<br>
+In vain each lovely Gnome with studious care<br>
+Folds her rich robe, or braids her scented hair,<br>
+Or, rifling; all the secrets of the mine,<br>
+Makes her dark eye with softer lustre shine,[^5]<br>
+I fly their sight and live alone in thine;<br>
+Thy form more lovely in its plain attire,<br>
+Thine eyes more brilliant in their native fire;<br>
+My heart is thine, fair ingrate, thine alone;<br>
+O! dry those tears and share a monarch’s throne.<br>
+What though thou quit the sun’s enlivening ray,<br>
+And “the warm precincts of the cheerful day,”<br>
+The feathered songsters, fruits and fragrant flowers,<br>
+And dear companions of thy social hours,<br>
+Yet deem not my extended realms below,<br>
+The constant haunt of horror, gloom, and woe, 
 
 * A variety of metallic preparations have been used by the ladies of different countries for this purpose, particularly the oxyds of bismuth and antimony. Among the Medes it was not confined to the fair sex; at least Xenophon, in his Cyroptedia, describes Astyages as having his eyes painted. The custom still prevails in the Levant. 
 
+The light of Heaven our quenchless lamps supply,<br>
+Our vaults re-echo to the sounds of joy,<br>
+To festive songs my Gnomes attune the lyre,<br>
+And captive Sylphs the dulcet flute inspire;<br>
+To grace my court assembled thousands shine,<br>
+Approved in valour, or of charms divine;<br>
+Those fading flowers no more shall bind thy brow,<br>
+But in their stead a diamond circlet glow;<br>
+Art’s magic-hand, at thy command shall spread,<br>
+With gems in flowery guise, the emerald mead,<br>
+Bid vales descend, or lofty hills arise,<br>
+And mimic suns adorn the sapphire skies.<br>
+Farewell — the cares of empire bid me flee,<br>
+Those cares neglected in pursuit of thee,<br>
+Fain would I stay, those streaming tears to dry,<br>
+And gaze enraptur’d on that speaking eye,<br>
+But duty calls — yet till the tedious sun<br>
+His lingering course thro’ twelve long signs shall run,<br>
+And shine propitious on our nuptial hour,<br>
+For thee my Gnomes shall deck the regal bower.’” 
 
-
-
-" The light of Heaven our quenchless lamps supply, 
-
-" Our vaults re-echo to the sounds of joy, 
-
-" To festive songs my Gnomes attune the lyre, 
-
-" And captive Sylphs the dulcet flute inspire; 
-
-" To grace my court assembled thousands shine, 
-
-" Approved in valour, or of charms divine; 
-
-" Those fading flowers no more shall bind thy brow, 
-
-" But in their stead a diamond circlet glow; 
-
-" Art's magic- hand, at thy command shall spread, 
-
-" With gems in flowery guise, the emerald mead, 
-
-" Bid vales descend, or lofty hills arise, 
-
-" And mimic suns adorn the sapphire skies. 
-
-" Farewell — the cares of empire bid me flee, 
-
-" Those cares neglected in pursuit of thee, 
-
-" Fain would I stay, those streaming tears to dry, 
-
-" And gaze enraptur'd on that speaking eye, 
-
-" But duty calls — yet till the tedious sun 
-
-" His lingering course thro' twelve long signs shall run, 
-
-" And shine propitious on our nuptial hour, 
-
-" For thee my Gnomes shall deck the regal bower." 
-
-" He spoke and vanished. Still in mute amaze 
-On vacant air I fixed my earnest gaze, 
-
-
-
-
-Still in my ear his hated accents rung, 
-
-Fear fixed me to the spot, and chained my tongue; 
-
-Above his head the yawning earth had closed, 33( 
-
-Sunk was the wind, the waves in peace reposed; 
-
-Surpassing Nature's law, the past might seem 
-
-But the vain horrors of a dreadful dream, 
-
-Yet my stol'n veil a proof too certain bore; 
-
-Grief clog'd the hours that hope had wing'd before, 
-
-And murmur'd still of fairy visions crost&gt; 
-
-And love and happiness and freedom lost; 
-
-How oft I watch'd, impatient for the light, 
-
-Then loath 'd the morn, and wish'd again for night; 
-
-Or wept to find those hours had passed away, 34C 
-
-And nearer brought the inevitable day! 
-
-'Till once, as Phoebus ting'd the eastern skies, 
-
-Soft slumber stole upon mine aching eyes, 
-
-When on my view a form ethereal broke, 
-
-That hovering o'er me, thus melodious spoke: 
+“He spoke and vanished. Still in mute amaze<br>
+On vacant air I fixed my earnest gaze,<br>
+Still in my ear his hated accents rung,<br>
+Fear fixed me to the spot, and chained my tongue;<br>
+Above his head the yawning earth had closed,<br>
+Sunk was the wind, the waves in peace reposed;<br>
+Surpassing Nature’s law, the past might seem<br>
+But the vain horrors of a dreadful dream,<br>
+Yet my stol’n veil a proof too certain bore;<br>
+Grief clog’d the hours that hope had wing’d before,<br>
+And murmur’d still of fairy visions crost,<br>
+And love and happiness and freedom lost;<br>
+How oft I watch’d, impatient for the light,<br>
+Then loath’d the morn, and wish’d again for night;<br>
+Or wept to find those hours had passed away,<br>
+And nearer brought the inevitable day!<br>
+’Till once, as Phoebus ting’d the eastern skies,<br>
+Soft slumber stole upon mine aching eyes,<br>
+When on my view a form ethereal broke,<br>
+That hovering o’er me, thus melodious spoke: 
 
 " No more, sweet maid, let grief your peace destroy, 
 " But cherish hope, for hope shall lead to joy; 
 " That Power Eternal, whose creative mind 
 " This orb, and all yon wandering spheres design'd; 
-
-
-
-
 " From nothing call'd yon source of life and light, 
 
 " And all the starry splendours of the night; 
