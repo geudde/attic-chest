@@ -1896,454 +1896,235 @@ Destroys at once the rider and the horse.
 
 [^51]: The zinc, which gives to brass its yellow colour, flies off at a much lower temperature than the copper.
 
-Now Chalcos came; contending passions swell'd
-His labouring bosom, and his arm impell'd:
-Now on his shuddering view his treason broke,
-
-And conscience, with her thousand stings, awoke:
-
-He felt his hopes for ever laid in dust; ^
-
-His honour blighted by his broken trust; V
-
-He mourn'd his son, but own'd his doom was just. J
-
-His fiery eyes with rage and vengeance glare,
-
-He fights with all the fury of despair,
-
-On Phlogos flies, his breast unguarded leaves,
-
+Now Chalcos came; contending passions swell’d<br>
+His labouring bosom, and his arm impell’d:<br>
+Now on his shuddering view his treason broke,<br>
+And conscience, with her thousand stings, awoke:<br>
+He felt his hopes for ever laid in dust;<br>
+His honour blighted by his broken trust;<br>
+He mourn’d his son, but own’d his doom was just.<br>
+His fiery eyes with rage and vengeance glare,<br>
+He fights with all the fury of despair,<br>
+On Phlogos flies, his breast unguarded leaves,<br>
 And in his heart the fatal wound receives.
 
-Their leader slain, dismay'd and spent his line,
-In hasty course, their kindred Gnomes rejoin,
-The fiery train the flying foe pursue,
+Their leader slain, dismay’d and spent his line,<br>
+In hasty course, their kindred Gnomes rejoin,<br>
+The fiery train the flying foe pursue,<br>
 The armies join, and all the fight renew.
 
-Now Spintheros on stern Sideros flies,
-Beneath his arm the Gnome expiring lies;
-An equal fate Cobalto, Nickel, knew,
-
-And on Tellurio next the warrior flew.
-At Calaminos, Phlogos aim'd his dart,
-And Kapnos plung'd his falchion to his heart.
-
-
-
-sook it. THE EARTH.
-
-But still distinguish 'd from the vulgar dead;
-In fleecy clouds the gentle spirit fled.*
-
-To stop the tide of fate now Chrysos stood;
-And first the bold Pyrophoros subdued,
-And next Pyrosthenes, tho' great in fight,
-And brave Thermanticos confest his might;
-His arm Chliaros and Thermotes felt,
-
-On Phlogos next a mighty stroke he dealt,
-But in the Sprite he found an equal foe,
-Who fought untir'd, and echo'd blow for blow.
-
-Their monarch's darling, with the powers of flame.
-His first essay in arms, Pyrides came,
-Where brave Silexis' hardy bands appear,
-In hostile blood he dyed his maiden spear;
-And Pyros, while the war allow'd, had eyed
-His gallant offspring with a parent's pride.
-Amid the band a martial form was seen,
-
-A Gallic prince, the bold Aventurine;f
-
-. * When acted upon by fire, iron, cobalt, nickel, tellurium, and most of
-the metal?, fly offin sparks, but zinc burns with a beautiful green flame, and
-its gaseous oxyde rises in clouds of white smoke.
-
-t The aventurine is a beautiful stone, consisting of brown, green, or red
-
-quartz or felspar, interspersed with small laminae of mica, which give it a
-
-spangled appearance: it is very brittle. It comes from FranceandfromSiberia,
-
-G
-
-
-
-86 THE EARTH. booi
-
-Thick stars of gold adorn'd his crimson vest,
-
-His crimson helmet bore a golden crest;
-
-But from Pyrides' arm a single stroke
-
-Thro' crest and helm, and spangled corslet broke;
-
-His soul exhaling at the ghastly wound,
-
-His members sunk, divided on the ground,
-
-When Adamas, impell'd by shame aud ire,
-
-Provok'd to fight the youthful Prince of Fire.
-
-Surprized, he found, beneath a stripling's form,
-
-The skill and firmness of a veteran's arm;
-
-Yet long he bore the light; but faint at length,
-
-As he relax'd his rival gather'd strength;
-
-By slow degrees his force, his limbs decay,
-
-His earthly form, exhausted, wears away,
-
-The Sylph alone remains; his mother's charms
-
-Uniting with his former strength in arms,
-
-On airy wings he floats above the war,
-
-Shakes his thin vest, and wields his slender spear,
-
-Turns on his foe, and grasps his crested head —
-
-Prone at his feet the expiring prince is laid.
-
-On victor still, thro' crowded ranks he goes;
-
-A single stroke annihilates his foes;
-
-In vain they raise the shield, or strike, or fly,
-
-He does but breathe, they fade, they sink, they die.
-
-
-
-book ii. THE EARTH.
-
-Swift as a pest advanced the sudden ill,
-Such numbers fell, that few reniain'd to kill;
-Tir'd with the work of death, he left the fight,
-And soar'd to air to claim a Sylphid's right;
-Yet still, as mindful of his former birth,
-He shuns the heights, and lingers near the earth,
-In caves secluded flies the face of day,
-Nor sports and flutters in the noontide ray;
-And near his cell if stray the sprites of fire,
-Beneath his arm their smother'd hosts expire.*
-
-But whence proceeds this sullen murmuring roar.
-Like billows breaking on a rocky shore?
-
-
-
-* The diamond, when exposed to the action of fire, burns (as already
-stated) into pure carbonic acid. This gas possesses the property of extin-
-guishing flame, and is equally destructive to the slow combustion of animal
-respiration. It is heavier than common air, in the proportion of 4? to 31,
-and this density in some degree opposes the tendency of gaseous bodies to
-universal diffusion, so that an accumulation of carbonic acid gas is frequently
-found near the floors of caverns, (as in the celebrated Grotto del Cane, at
-Naples,) at the bottom of deep wells, and of large beer vats; also in mines,
-where it passes by the name of the Choak Damp, and is often productive of
-the most fatal effects, as persons who inhale this poisonous air have no
-power to withdraw themselves from its influence, but fall instantly senseless,
-and those who hasten to their assistance arrive but to share their fate. In
-descending to such places, it is always prudent first to lower a candle, as a
-test of the atmosphere, as wherever that will burn, man may breathe.
-
-Or
-
-
-
-And whence this coolness, this refreshing breeze,
-
-Like Zephyrs breathing o'er the tranquil seas?
-
-So late deprest, now rose the fiery line,
-
-Their arms with renovated lustre shine,
-
-Yet scarce the sprites the dubious fight renew, )
-
-Scarce could the mingled hosts their danger view, }&gt;
-
-Ere on their ranks the fierce Hydidae flew. /
-
-On friends and foes with equal rage they fall,
-
-And undistinguished ruin whelms them all.
-
-Pyridae, Gnomes, alike their hate forego,
-
-And fly together from the common foe.
-
-The kings, who still maintain'd the doubtful fight,
-
-Beheld their forces mix'd in mutual flight,
-
-And vainly strove to raise their vengeful hands
-
-O'erpower'd and sever'd by the flying bands.
-
-On rolls the impetuous host, where Chrysos stood
-Amid his veterans, firm and unsubdu'd:
-Phlogos with Chrysos yet the fight maintain'd,
-Platina there Thermasion's strength sustain'd;
-There in bright arms around their honour'd sire,
-Four gallant youths repel the powers of fire.
-Iridion now, and Empyros engage,
-And now Palladion braves Scintillus' rage,
-
-
-
-puoK ii. THE EARTH.
-
-Now with the brave Lampedon Osmion fought,
+Now Spintheros on stern Sideros flies,<br>
+Beneath his arm the Gnome expiring lies;<br>
+An equal fate Cobalto, Nickel, knew,<br>
+And on Tellurio next the warrior flew.<br>
+At Calaminos, Phlogos aim’d his dart,<br>
+And Kapnos plung’d his falchion to his heart.<br>
+But still distinguish’d from the vulgar dead;<br>
+In fleecy clouds the gentle spirit fled.[^52]
+
+To stop the tide of fate now Chrysos stood;<br>
+And first the bold Pyrophoros subdued,<br>
+And next Pyrosthenes, tho’ great in fight,<br>
+And brave Thermanticos confest his might;<br>
+His arm Chliaros and Thermotes felt,<br>
+On Phlogos next a mighty stroke he dealt,<br>
+But in the Sprite he found an equal foe,<br>
+Who fought untir’d, and echo’d blow for blow.
+
+Their monarch’s darling, with the powers of flame.<br>
+His first essay in arms, Pyrides came,<br>
+Where brave Silexis’ hardy bands appear,<br>
+In hostile blood he dyed his maiden spear;<br>
+And Pyros, while the war allow’d, had eyed<br>
+His gallant offspring with a parent’s pride.<br>
+Amid the band a martial form was seen,<br>
+A Gallic prince, the bold Aventurine;[^53]<br>
+
+[^52]: When acted upon by fire, iron, cobalt, nickel, tellurium, and most of the metals, fly off in sparks, but zinc burns with a beautiful green flame, and its gaseous oxyde rises in clouds of white smoke.
+
+[^53]: The aventurine is a beautiful stone, consisting of brown, green, or red quartz or felspar, interspersed with small laminae of mica, which give it a spangled appearance: it is very brittle. It comes from France and from Siberia.
+
+Thick stars of gold adorn’d his crimson vest,<br>
+His crimson helmet bore a golden crest;<br>
+But from Pyrides’ arm a single stroke<br>
+Thro’ crest and helm, and spangled corslet broke;<br>
+His soul exhaling at the ghastly wound,<br>
+His members sunk, divided on the ground,<br>
+When Adamas, impell’d by shame aud ire,<br>
+Provok’d to fight the youthful Prince of Fire.<br>
+Surprized, he found, beneath a stripling’s form,<br>
+The skill and firmness of a veteran’s arm;<br>
+Yet long he bore the light; but faint at length,<br>
+As he relax’d his rival gather’d strength;<br>
+By slow degrees his force, his limbs decay,<br>
+His earthly form, exhausted, wears away,<br>
+The Sylph alone remains; his mother’s charms<br>
+Uniting with his former strength in arms,<br>
+On airy wings he floats above the war,<br>
+Shakes his thin vest, and wields his slender spear,<br>
+Turns on his foe, and grasps his crested head —<br>
+Prone at his feet the expiring prince is laid.<br>
+On victor still, thro’ crowded ranks he goes;<br>
+A single stroke annihilates his foes;<br>
+In vain they raise the shield, or strike, or fly,<br>
+He does but breathe, they fade, they sink, they die.<br>
+Swift as a pest advanced the sudden ill,<br>
+Such numbers fell, that few reniain’d to kill;<br>
+Tir’d with the work of death, he left the fight,<br>
+And soar’d to air to claim a Sylphid’s right;<br>
+Yet still, as mindful of his former birth,<br>
+He shuns the heights, and lingers near the earth,<br>
+In caves secluded flies the face of day,<br>
+Nor sports and flutters in the noontide ray;<br>
+And near his cell if stray the sprites of fire,<br>
+Beneath his arm their smother’d hosts expire.[^54]
+
+But whence proceeds this sullen murmuring roar.<br>
+Like billows breaking on a rocky shore?<br>
+
+[^54]: The diamond, when exposed to the action of fire, burns (as already stated) into pure carbonic acid. This gas possesses the property of extinguishing flame, and is equally destructive to the slow combustion of animal respiration. It is heavier than common air, in the proportion of 47 to 31, and this density in some degree opposes the tendency of gaseous bodies to universal diffusion, so that an accumulation of carbonic acid gas is frequently found near the floors of caverns, (as in the celebrated Grotto del Cane, at Naples,) at the bottom of deep wells, and of large beer vats; also in mines, where it passes by the name of the Choak Damp, and is often productive of the most fatal effects, as persons who inhale this poisonous air have no power to withdraw themselves from its influence, but fall instantly senseless, and those who hasten to their assistance arrive but to share their fate. In descending to such places, it is always prudent first to lower a candle, as a test of the atmosphere, as wherever that will burn, man may breathe.
+
+And whence this coolness, this refreshing breeze,<br>
+Like Zephyrs breathing o’er the tranquil seas?<br>
+So late deprest, now rose the fiery line,<br>
+Their arms with renovated lustre shine,<br>
+Yet scarce the sprites the dubious fight renew,<br>
+Scarce could the mingled hosts their danger view,<br>
+Ere on their ranks the fierce Hydidae flew.<br>
+On friends and foes with equal rage they fall,<br>
+And undistinguished ruin whelms them all.<br>
+Pyridae, Gnomes, alike their hate forego,<br>
+And fly together from the common foe.<br>
+The kings, who still maintain’d the doubtful fight,<br>
+Beheld their forces mix’d in mutual flight,<br>
+And vainly strove to raise their vengeful hands<br>
+O’erpower’d and sever’d by the flying bands.
+
+On rolls the impetuous host, where Chrysos stood<br>
+Amid his veterans, firm and unsubdu’d:<br>
+Phlogos with Chrysos yet the fight maintain’d,<br>
+Platina there Thermasion’s strength sustain’d;<br>
+There in bright arms around their honour’d sire,<br>
+Four gallant youths repel the powers of fire.<br>
+Iridion now, and Empyros engage,<br>
+And now Palladion braves Scintillus’ rage,<br>
+Now with the brave Lampedon Osmion fought,<br>
 With Spintheros the combat Rhodios sought.
 
-Vain of his kindred, who had long withstood
-All hostile arts, uninjured, unsubdued,*
-
-* The fixed alcalies, potash and soda, were known to the chemists of Bag-
-dad as early as the reign of the Caliph Haroun Alraschid, and the word alcali
-is of Arabian origin. The alcalies are possessed of the highest degree of ne-
-gative electricity. As oxygen, even in minute quantities, destroys conducting
-power, and as the alcalies are perfect non-conductors, it was supposed that
-they consisted of oxygen united with a basis, but of what nature was un-
-known, since they successfully resisted every effort that was made to decom-
-pose them, and had hence obtained the name of fixed alcalies. Professor
-Davy happily thought of applying to them the energies of voltaic electricity,
-and triumphing by his ingenuity over the difficulties presented by their want
-of conducting power, he obtained the most glorious and unexpected results in
-the discovery of their metallic bases, which he denominated sodium and
-potassium. The discovery of the alcaiine metals quickly led to that of four
-others, which he named from their parent earths, calcium, magnium, barium,
-and strontium. These metals have all a high metallic lustre, but on exposure
-to the air they immediately begin to tarnish, in a few minutes they are covered
-with a white crust, and by combining with the oxygen in the atmosphere re-
-turn to their original earth or alcali. When thrown into water, the aviditj-
-with which they enter into combination with oxygen is so great that they take
-lire and burn in the fluid. Potassium alone, which is lighter than water in the
-proportion of six to ten, floats and burns on the surface. From this eagerness
-of combination in these metals, and from their lightness, it is necessary to
-keep them in naphtha, the lightest fluid known. Silex, alumine, zircon, and
-glucine, have, like the other earths, given indications of metallic bases, but as
-these have not been obtained pure, Professor Davy does not think himself
-authorized to call them metals.
-
-In addition to the six metals that owe their birth to Professor Davy, M.
-Berzelius, the Swedish chemist, has obtained a seventh more unlocked for
-than any, in the metallic basis of ammonia, the volatile alcali. If a lew drops
-of solution of ammonia be poured on a large globule of mercury, or if the
-mercury be placed in a cup of carbonate or muriate of ammonia, it immedi-
-
-
-
-90 THE EARTH. book ir.
-
-Potassion came, in arms of dazzling white,
-
-To prove his valour in the maiden fight;
-
-E'en with the aquatic king he dares engage,
-
-And falls the hapless victim of his rage;
-
-The great Marino tost him o'er his head,
-
-Where the poor youth a moment quivering laid,
-
-At length in flames his failing limbs expire,
-
-And water seem'd to wield the arms of fire.
-
-His doom brave Sodion and Ammonias share,
-
-His kinsman one, one half a child of air;
-
-Next Calcion, Magnios, flew, but vainly brave,
-
-Nor Barion, Strontias, more avail'd to save
-
-Their kindred races and illustrious birth,
-
-In flames they mingle with their parent earth.
-
-ately expands to six times its former bulk, and is converted into a soft solid,
-which is an amalgam of ammonium. As yet this metal has not been obtained
-pure, and its proportion in the amalgam is so small, that the least contact
-with the air is sufficient to regenerate the ammonia.
-
-The metallization of ammonia has opened new views in chemistry, and
-appears to prove that neither the gases nor the metals are simple substances.
-Ammonia consists of hydrogen and nitrogen; these gases therefore are capa-
-ble of becoming metallic, and as in so doing they must suffer decomposition,
-they cannot be simple substances, neither can the metal which is formed by
-their union. Hydrogen, which, from its extreme levity, has been assumed
-as unity in the scale of definite proportions, is probably simple, while nitro-
-gen, which bears the higher number of 26, must be supposed a compound.
-
-Professor Davy thinks there is probably one basis for all the metals, and
-one for the gases. Some time since he said that he thought he had found a
-path which would lead to the discovery. It is much to be wished he would
-pursue it.
-
-
-
-look ii. THE EARTH.
-
-Now passing on, that spot the victor sought
-
-Where Marmarygos and Molybdos fought.
-
-Touch'd by his weapon high in air they flew,*
-
+Vain of his kindred, who had long withstood<br>
+All hostile arts, uninjured, unsubdued,[^55]<br>
+Potassion came, in arms of dazzling white,<br>
+To prove his valour in the maiden fight;<br>
+E’en with the aquatic king he dares engage,<br>
+And falls the hapless victim of his rage;<br>
+The great Marino tost him o’er his head,<br>
+Where the poor youth a moment quivering laid,<br>
+At length in flames his failing limbs expire,<br>
+And water seem’d to wield the arms of fire.<br>
+His doom brave Sodion and Ammonias share,<br>
+His kinsman one, one half a child of air;<br>
+Next Calcion, Magnios, flew, but vainly brave,<br>
+Nor Barion, Strontias, more avail’d to save<br>
+Their kindred races and illustrious birth,<br>
+In flames they mingle with their parent earth.<br>
+Now passing on, that spot the victor sought<br>
+Where Marmarygos and Molybdos fought.<br>
+Touch’d by his weapon high in air they flew,[^56]<br>
 The plain their mangled limbs descending strew.
 
-What grief in reverend Chrysos rose, to find
-Fulfilled the bodings of his prescient mind!
-He call'd on Phlogos to suspend the fray;
-Their leaders' voices both the hosts obey.
-W 7 hile we,he said, our partial fight maintain,
-Behold what slaughter'd squadrons strew the plain;
-Ah! what avails it if to thee I yield,
+[^55]: The fixed alcalies, potash and soda, were known to the chemists of Bagdad as early as the reign of the Caliph Haroun Alraschid, and the word alcali is of Arabian origin. The alcalies are possessed of the highest degree of negative electricity. As oxygen, even in minute quantities, destroys conducting power, and as the alcalies are perfect non-conductors, it was supposed that they consisted of oxygen united with a basis, but of what nature was unknown, since they successfully resisted every effort that was made to decompose them, and had hence obtained the name of fixed alcalies. Professor Davy happily thought of applying to them the energies of voltaic electricity, and triumphing by his ingenuity over the difficulties presented by their want of conducting power, he obtained the most glorious and unexpected results in the discovery of their metallic bases, which he denominated sodium and potassium. The discovery of the alcaline metals quickly led to that of four others, which he named from their parent earths, calcium, magnium, barium, and strontium. These metals have all a high metallic lustre, but on exposure to the air they immediately begin to tarnish, in a few minutes they are covered with a white crust, and by combining with the oxygen in the atmosphere return to their original earth or alcali. When thrown into water, the avidity with which they enter into combination with oxygen is so great that they take fire and burn in the fluid. Potassium alone, which is lighter than water in the proportion of six to ten, floats and burns on the surface. From this eagerness of combination in these metals, and from their lightness, it is necessary to keep them in naphtha, the lightest fluid known. Silex, alumine, zircon, and glucine, have, like the other earths, given indications of metallic bases, but as these have not been obtained pure, Professor Davy does not think himself authorized to call them metals.<br>
+<br>
+In addition to the six metals that owe their birth to Professor Davy, M. Berzelius, the Swedish chemist, has obtained a seventh more unlooked for than any, in the metallic basis of ammonia, the volatile alcali. If a few drops of solution of ammonia be poured on a large globule of mercury, or if the mercury be placed in a cup of carbonate or muriate of ammonia, it immediately expands to six times its former bulk, and is converted into a soft solid, which is an amalgam of ammonium. As yet this metal has not been obtained pure, and its proportion in the amalgam is so small, that the least contact with the air is sufficient to regenerate the ammonia.<br>
+<br>
+The metallization of ammonia has opened new views in chemistry, and appears to prove that neither the gases nor the metals are simple substances. Ammonia consists of hydrogen and nitrogen; these gases therefore are capable of becoming metallic, and as in so doing they must suffer decomposition, they cannot be simple substances, neither can the metal which is formed by their union. Hydrogen, which, from its extreme levity, has been assumed as unity in the scale of definite proportions, is probably simple, while nitrogen, which bears the higher number of 26, must be supposed a compound.<br>
+<br>
+Professor Davy thinks there is probably one basis for all the metals, and one for the gases. Some time since he said that he thought he had found a path which would lead to the discovery. It is much to be wished he would pursue it.
 
-Or thou, o'ercome, shouldst press the empurpled field, 7
-Short were our glory; while yon foes are nigh,
-We fight to fall, and triumph but to die.
-Then let us now our mutual hate resign,
-And join our arms to meet yon hostile line."
+[^56]: If a drop of water be thrown into a crucible containing melted lead or tin, the metal is immediately thrown out with great violence to a distance, of many feet. This is peculiar to these two metals.
 
-He ceas'd; the chief agreed — Each leader wound
-His horn, to call the scatter'd Sprites around,
+What grief in reverend Chrysos rose, to find<br>
+Fulfilled the bodings of his prescient mind!<br>
+He call’d on Phlogos to suspend the fray;<br>
+Their leaders’ voices both the hosts obey.<br>
+“While we,” he said, “our partial fight maintain,<br>
+Behold what slaughter’d squadrons strew the plain;<br>
+Ah! what avails it if to thee I yield,<br>
+Or thou, o’ercome, shouldst press the empurpled field,<br>
+Short were our glory; while yon foes are nigh,<br>
+We fight to fall, and triumph but to die.<br>
+Then let us now our mutual hate resign,<br>
+And join our arms to meet yon hostile line.”
 
+He ceas’d; the chief agreed — Each leader wound<br>
+His horn, to call the scatter’d Sprites around,<br>
+And many heard, but more, dispersed afar,<br>
+Lost its shrill note amid the din of war;<br>
+Or mix’d in combat, or o’ercome by fear,<br>
+Turn’d to its warning voice a careless ear.<br>
+And those who hastened at the bugle’s sound<br>
+Were faint with toil, and gor’d with many a wound.<br>
+When Phlogos spoke: “Tho’ lasting shame repay<br>
+The dastard wretch who flies in danger’s day,<br>
+Not more that chief deserves, when hope is lost,<br>
+Who madly rash, maintains an useless post,<br>
+And vainly falls amid his falling host.<br>
+Our troops are spent and few, an easy spoil<br>
+To foes more numerous, and unbroke by toil,<br>
+Then let us snatch them from this fatal fray,<br>
+And lead to combat on some happier day.”
 
+Wise are thy words; alike should courage know,”<br>
+The Gnome replied, “to aim or stay the blow,<br>
+And none who fear or glory in thy might,<br>
+Dare call thee coward — our retreat a flight.”
 
-* If a drop of water be thrown into a crucible containing melted lead or
-tin, the metal is immediately thrown out with great violence to a distance, of
-many feet. This is peculiar to these two metals.
+Soon Phlogos form’d his squadron. — Soon his host<br>
+In distance and the increasing gloom was lost,<br>
+Yet, Parthian like, their vengeful arrows flew,<br>
+And turning, oft the combat they renew,<br>
+Till tir’d, their aqueous foes no more pursue.
 
+With speed the reverend Chrysos rang’d his throng<br>
+In a square phalanx, close, compact, and strong;<br>
+Those six gigantic kings, who claim their birth<br>
+Ere man was form’d, coeval with the earth,<br>
+His rear-guard form’d — retreating, still oppose<br>
+Their front undaunted to the threat’ning foes.<br>
+Plemmyra, Cumos, Clydon, rage in vain,<br>
+Retreating still, they yet the fight maintain.<br>
+And now they came where, slain by Pyros hand,<br>
+A heap of dead o’erspread the burden’d laud;
 
+There young Asbestos lay, depriv’d of breath,<br>
+Tho’ pale and cold, yet lovely e’en in death.<br>
+With grief the Gnomes so sad an object view’d,<br>
+In Chrysos’ eye the tear unbidden stood,<br>
+When thus he cried: “And art thou too a prey<br>
+To the dire rage of this ill-omen’d day?<br>
+Oh! who so brave in war’s destructive scene,<br>
+In peace so mild, so gentle, so serene!<br>
+Still on thy path propitious fortune smil’d,<br>
+And glory claim’d thee as her favourite child.<br>
+But now” — he paus’d — “thou shalt not lie,” he said,<br>
+“Dishonoured thus among the vulgar dead.<br>
+Not all our tears, alas! can bid thee live,<br>
+But yet my care a hero’s grave shall give.”
 
-92 THE EARTH. book if.
+He spoke; and on a bier of lances made,<br>
+Four trusty Gnomes his lifeless form convey’d,<br>
+While still the giant chiefs the fight sustain,<br>
+Till safely shelter’d in their own domain.
 
-And many heard, but more, dispersed afar,
+---
 
-Lost its shrill note amid the din of war;
-
-Or mix'd in combat, or o'ercome by fear,
-
-Turn'd to its warning voice a careless ear.
-
-And those who hastened at the bugle's sound
-
-Were faint with toil, and gor'd with many a wound.
-
-When Phlogos spoke: Tho' lasting shame repay
-
-The dastard wretch who flies in danger's day,
-
-Not more that chief deserves, when hope is lost, ^
-
-Who madly rash, maintains an useless post,
-
-And vainly falls amid his falling host. j
-
-Our troops are spent and few, an easy spoil
-
-To foes more numerous, and unbroke by toil,
-
-Then let us snatch them from this fatal fray,
-
-And lead to combat on some happier day."
-
-Wise are thy words; alike should courage know,"
-The Gnome replied, to aim or stay the blow,
-And none who fear or glory in thy might,
-Dare call thee coward — our retreat a flight."
-
-Soon Phlogos form'd his squadron.: — Soon his host
-In distance and the increasing gloom was lost,
-
-
-
-uook ii. THE EARTH.
-
-Yet, Parthian like, their vengeful arrows flew, j
-
-And turning, oft the combat they renew, \
-
-Till tir'd, their aqueous foes no more pursue. S10*
-
-With speed the reverend Chrysos rang'd his throng
-In a square phalanx, close, compact, and strong;
-Those six gigantic kings, who claim their birth
-Ere man was form'd, coeval with the earth,
-His rear-guard form'd — retreating, still oppose
-Their front undaunted to the threat'ning foes.
-Plemmyra, Cumos, Clydon, rage in vain,
-Retreating still, they yet the fight maintain.
-And now they came where, slain by Pyros hand,
-A heap of dead o'erspread the burden'd laud;
-
-There young Asbestos lay, depriv'd of breath,
-Tho' pale and cold, yet lovely e'en in death.
-With grief the Gnomes so sad an object view'd,
-In Chrysos' eye the tear unbidden stood,
-When thus he cried: And art thou too a prey
-To the dire rage of this ill-omen'd day?
-Oh! who so brave in war's destructive scene,
-In peace so mild, so gentle, so serene!
-Still on thy path propitious fortune smil'd,
-And glory claim'd thee as her favourite child.
+## Book the Third
 
 
 
-©4 THE EARTH- book ii.
-
-But now— he paus'd — thou shalt not lie,he said,
-Dishonoured thus among the vulgar dead.
-Not all our tears, alas! can bid thee live,
-But yet my care a hero's grave shall give/
-
-He spoke; and on a bier of lances made,
-Four trusty Gnomes his lifeless form convey'd,
-While still the giant chiefs the fight sustain,
-Till safely shelter'd in their own domain. 83S
+## The Escape
 
 
-
-END OF THE SECOND BOOK.
-
-
-
-THE VEILS.
-
-
-
-BOOK THE THIRD.
-
-
-
-THE ESCAPE.
-
-
-
-THE VEILS.
-
-
-
-BOOK THE THIRD.
-
-
-
-THE ESCAPE.
-
-IVIeanwhile, imprison'd in Cimmerian gloom,
+Meanwhile, imprison'd in Cimmerian gloom,
 
 Young Henry sate, expectant of his doom;
 
