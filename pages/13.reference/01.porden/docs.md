@@ -1165,100 +1165,68 @@ When lo! two sinewy arms enwreathed him round,<br>
 And bore him, struggling, thro’ a gulph profound,<br>
 Down to a central cave, and there in fetters bound.
 
-In this black vault, no ray of cheerful light
-Pierced the thick gloom of everlasting night,
-Save when the Gnomes, on hasty errand, past,
-Their jewelled wreaths a transient brightness cast;
-Then so quick flashed the red or azure beam,
-It seemed to Henry but the lightning's gleam,
-And they (so far from human shape their forms)
+In this black vault, no ray of cheerful light<br>
+Pierced the thick gloom of everlasting night,<br>
+Save when the Gnomes, on hasty errand, past,<br>
+Their jewelled wreaths a transient brightness cast;<br>
+Then so quick flashed the red or azure beam,<br>
+It seemed to Henry but the lightning’s gleam,<br>
+And they (so far from human shape their forms)<br>
 Fiends that delight in hurricanes and storms.
 
-Meanwhile, unarmed, the Monarch of the Mines
-In all the pride of regal splendour shines:
-Those jewels sought by men as rich, and rare,
-To deck the vain, the stately, or the fair,
-With thousands yet to solar light unknown,
-Blazed on his gorgeous vesture and his crown.
-He takes his amethystine throne, in state,
-Round which a thousand vassal sovereigns wait,
+Meanwhile, unarmed, the Monarch of the Mines<br>
+In all the pride of regal splendour shines:<br>
+Those jewels sought by men as rich, and rare,<br>
+To deck the vain, the stately, or the fair,<br>
+With thousands yet to solar light unknown,<br>
+Blazed on his gorgeous vesture and his crown.<br>
+He takes his amethystine throne, in state,<br>
+Round which a thousand vassal sovereigns wait,<br>
 And thus he opens the august debate:
 
-"Ye chiefs, that o'er this nether realm preside,
-Its powers direct, its various changes guide,
-Discordant elements in peace combine,
-Their forms, proportions, properties define,
-And curb, by rules as fixed, attraction's force,
-As hold the struggling planets in their course,[^24]
+“Ye chiefs, that o’er this nether realm preside,<br>
+Its powers direct, its various changes guide,<br>
+Discordant elements in peace combine,<br>
+Their forms, proportions, properties define,<br>
+And curb, by rules as fixed, attraction’s force,<br>
+As hold the struggling planets in their course,[^24]<br>
 
 [^24]: These lines allude to the law of definite proportions, as started by Mr. Dalton, and farther developed by Professor Davy, and also to the rules of crystallization as lately defined. The French chemists have asserted that bodies do not combine in fixed proportions, but in proportion to their relative quantities; for instance, that carbonate of lime would, according to the relative quantities of its elements at its formation, contain a greater or less proportion of carbonic acid, or of lime. But the experiments of Davy and others appear completely to disprove this assertion, and establish Mr. Dalton’s theory. Carbonate of lime is uniformly found to consist of 44 parts of carbonic acid and 56 of lime. Nor does a body capriciously combine in different proportions with different substances. Whatever may be the definite proportion of the body with which it enters into combination, its own remains the same; or should it be augmented, the portion added is always either a multiple or a divisor of the original quantity. Thus oxygen, in all its various unions, with hydrogen, with nitrogen, or with the metals, preserves its fixed proportion of 15 parts by weight, and where more is added, the extra portion is always equal either to 7&frac12; or to 15. Thus nitrous oxyde consists of one proportion or 26 grains of nitrogen united to one proportion, or 15 grains of oxygen, making together 41, which is the proportion in which nitrous oxyde again combines with other bodies to make a tertiary compound. Nitric oxyde consists of 26 grains of nitrogen, united to two proportions, or 30 grains of oxygen, making together 56. Nitrous acid consists of 26 grains of nitrogen, united with four proportions, or 60 grains of oxygen, making together 86. And nitric acid consists of 26 grains of nitrogen united with five proportions, or 75 grains of oxygen, making together 101. Thus in all these combinations the same law is observed.<br>
 <br>
 Nor are the laws of crystallization less denned. A body unexamined may be known by the form of its crystals, and even where the general shape, as in different rhomboids, appears the same, the angles are found to differ. Thus in calcareous spar, from whatever quarter procured, however small or however large the crystals, whether whole, as taken from the mine, or broke: into a number of smaller ones, the form procured is always the rhomboic and that rhomboid has always the same angle, 105 degrees. Other bodies have a rhomboidal crystal, but no other rhomboid has the same angle. — *Davy and Brande’s Lectures.*
 
+Attend; and prove that not in fight alone<br>
+To you descend the wreaths your fathers won,<br>
+But in your counsels be their wisdom shewn;<br>
+For wisdom is the eye our hands obey,<br>
+Valour achieves, but wisdom points the way.
 
+“A few short hours will view the truce expire<br>
+So late concluded with the Prince of Fire;<br>
+The furious Pyros scorns ail thoughts of peace,<br>
+On every side our ills, our foes increase;<br>
+The aquatic tribes, insidious race, complain<br>
+Of feigned encroachments on their watry reign,<br>
+Their King Marino leads their crowded line,<br>
+And seeks his own with Pyros’ arms to join;<br>
+And while these mighty foes our thoughts divide,<br>
+The Sylphs would rob me of my plighted bride.<br>
+But thanks to favouring fate, your monarch’s care<br>
+For once has foiled the restless tribes of air,<br>
+And sage Kassiteros detains the fair,<br>
+While my proud rival waits from me his doom<br>
+In chains of adamant and deepest gloom.
 
-I
-
-70S
-
-
-
-rook 11. THE EARTH.
-
-" Attend; and prove that not in fight alone
-
-" To you descend the wreaths your fathers won,
-
-" But in your counsels be their wisdom shewn;
-
-u For wisdom is the eye our hands obey,
-
-" Valour achieves, but wisdom points the way.
-
-" A few short hours will view the truce expire
-" So late concluded with the Prince of Fire;
-" The furious Pyros scorns ail thoughts of peace,
-" On every side our ills, our foes increase;
-
-
-
-
-
-E 3
-
-
-
-54 THE EARTH- boc
-
-" The aquatic tribes, insidious race, complain
-" Of feigned encroachments on their watry reign,
-" Their King Marino leads their crowded line,
-" And seeks his own with Pyros' arms to join;
-" And while these mighty foes our thoughts divide,
-" The Sylphs would rob me of my plighted bride.
-" But thanks to favouring fate, your monarch's care
-" For once has foiled the restless tribes of air,
-{i And sage Kassiteros detains the fair,
-" While my proud rival waits from me his doom
-" In chains of adamant and deepest gloom.
-
-
-
-" But let my faithful subjects now disclose
-" How best we may obstruct our watry foes;
-" Say, shall we Oros place, with half our force, 90
-
-" To stop the invaders in their headlong course,
-" While, with a chosen band, we here remain,
-" Pyros to check, or Oros to sustain?
-" Or shall we let them join the powers of fire,
-" And wait their onset with our force entire?
-" Weigh well these projects; then let each suggest
-* l The genuine dictates of his faithful breast."
-
-
-
-book ir. THE EARTH.
+“But let my faithful subjects now disclose<br>
+How best we may obstruct our watry foes;<br>
+Say, shall we Oros place, with half our force,<br>
+To stop the invaders in their headlong course,<br>
+While, with a chosen band, we here remain,<br>
+Pyros to check, or Oros to sustain?<br>
+Or shall we let them join the powers of fire,<br>
+And wait their onset with our force entire?<br>
+Weigh well these projects; then let each suggest<br>
+The genuine dictates of his faithful breast.”
 
 Albruno ceased — and Chrysos next arose;
 A golden circle wreath'd his reverend brows;
