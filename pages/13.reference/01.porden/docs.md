@@ -1585,11 +1585,11 @@ Next Ittria, Zircon, and Glucine appear,[^41]<br>
 
 [^39]: The magnesian stones have almost all a green colour, and a shining, or silky appearance. They are soft and may be cut with a knife, and are seldom more than semi-transparent. They do not contract or harden on exposure to heat.
 
-[^39]: Barytes and strontia have not long been added to the catalogue of earths, and the stones in which they are predominant are not numerous. The barytic stones are particularly distinguished for their weight, which long before the discovery of the metal barium, by Professor Davy, gave rise to the suspicion that they must contain a metallic basis. They have a spongy appearance; when exposed to heat they emit a phosphorescent light, and they may be scratched with a knife.<br>
+[^40]: Barytes and strontia have not long been added to the catalogue of earths, and the stones in which they are predominant are not numerous. The barytic stones are particularly distinguished for their weight, which long before the discovery of the metal barium, by Professor Davy, gave rise to the suspicion that they must contain a metallic basis. They have a spongy appearance; when exposed to heat they emit a phosphorescent light, and they may be scratched with a knife.<br>
 <br>
 The colour of strontia is generally whitish or light green. Its surface is a little shining in parts, it is brittle, has a slight transparency, and may be scratched with a knife.
 
-[^39]: The earth called ittria is only found in gadolinite; zircon only in the stone which bears its name, and in the hyacinth; glucine is found in the beryl, in the Peruvian emerald, or smaragd, and in the euclase.
+[^41]: The earth called ittria is only found in gadolinite; zircon only in the stone which bears its name, and in the hyacinth; glucine is found in the beryl, in the Peruvian emerald, or smaragd, and in the euclase.
 
 Gay was their armour, verdant, red, or blue,<br>
 Their hearts were valiant, but their troops were few,<br>
