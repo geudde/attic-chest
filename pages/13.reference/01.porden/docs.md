@@ -1518,198 +1518,91 @@ Yet unrecorded on the rolls of fame,<br>
 Each thirsts for glory, and impatient draws<br>
 His maiden falchion in Albruno’s cause.
 
-The brave Stypterion leads his filial band,*
-The pride and boast of many an eastern land;
-Of hardest texture fram'd, their armour bright
-Shone through the gloom in lines of dazzling light:
-In former combats with the powers of fire,
-Immortal glory did these troops acquire;
-Nor less their argillaceous brethren claim
-The hard-earn'd wreath of never-fading fame.
-
-
-
-* Stypterion, from STwrrjjpia, alumine or clay, pure argillaceous earth, one
-of the most indestructible substances in nature, and parent of all the gems
-known by the name of oriental, and included in the barbarous terra Corun-
-dum: the oriental topaz, emerald, and sapphire, &amp;c. &amp;c.
-
-Nothing can be more different than the characters which alumine imparts
-to the gems and to the earths; in the first, hard, brittle, brilliant, and pellu-
-cid; in the second, opaque, devoid of lustre, and exhibiting, when broken,
-an earthy fracture. The argillaceous earths are soft to the touch, but harden
-by fire, absorb water greedily, retain it obstinately, and form, when moisten-
-ed, a ductile and tenacious mass. When exposed to the action of heat they
-become, first of a bluish black, then white; they contract and exhibit variou?
-cracks and fissures, but fire has no farther action upon them, except in in-
-creasing the contraction. On this account pyrometers have been construct-
-ed of clay, with the hope of being able to measure very high degrees of tem-
-perature; but they are uncertain, as the clay does not contract uniformly in
-the same heat, and is almost as much affected by the duration, as the increase
-of temperature.
-
-
-
-68 THE EARTH. book if.
-
-Tho' not u . in glittering arms and glory drest,"
-
-With equal ardour glow'd each generous breast,
-
-Practis'd their flexile forms to turn, to bend,
-
-To close with speed, with speed their lines extend,
-
-To shrink compacted, at the charge of fire,
-
-Or broad expand, when aqueous foes require;
-
-In every kind of warfare train'd and skill'd,
-
-No foe appall'd, no force could make them yield,
-
-Fresh fields to dare, to win, elate they ran,
-
-And claim'd their right to combat in the van.
-
-Next was Titauos; his white arms diffuse*
-No changeful lustre, boast no varied hues; 3(30
-
-Numerous his train, and like their leader drest,
-But courage glow'd beneath the humble vest.
-
-Near these Silexis' hardy veterans stand,f
-Unbent, untam'd, a firm determin'd band;
-
-* Titanos, chalk. There is a general similarity in the appearance of all
-the calcareous stones. They are usually nearly white, opaque, and devoid
-of lustre, and are not sufficiently hard to scratch glass.
-
-t Silex is one of the hardest substances in nature, and the bodies in which
-it abounds are abundantly diffused. It enters into the composition of the
-primitive rocks&gt; but is not generally soluble in water, though the Geysers of
-Iceland, and some springs near Bath, prove that peculiar circumstances may
-render it so. Siliceous stones are more or less transparent,,nave a fine polish,
-;;^d scratch glass. To this order belong all those gems which the lapidaries
-
-
-
-Yet with their savage strength, and haughty mien,
-
-The pride of splendour and of dress was seen;
-
-Bright were their polish 'd shields, their corslets beam'd,
-
-And from their helms the living lustre stream'd,
-
-And now display'd the opal's various hue,
-
-The garnet's crimson, or the sapphire's blue.
-
-Not with more splendour Uion's sons could shine,
-
-Or greater courage warm the Achaian line.
-
-With them was Adamas, unconquer'd knight!*
-
-His shield, his mail, insufferably bright;
-
-In him, in action, as in form divine,
-
-Achilles' strength and manly beauty join.
-
-
-
-distinguish by the term occidental, in opposition to the oriental, or aluminous
-gems: also the carnelian, sardonyx, agate, opal, mocha, jasper, chalcedony,
-garnet, 8cc. &amp;c.
-
-* Adamas, the diamond, which, though usually placed at the head of the
-gems, is very different in its composition. No bodies can differ more in ex-
-ternal appearance, than charcoal, plumbago or black lead, and the diamond,
-yet their chemical analysis affords similar results. The diamond burns, like
-plumbago and charcoal, into pure carbonic acid, and the difference in their
-aspect probably arises, either from a slight excess or deficiency in the oxygen
-combined with the carbon, or perhaps only from the different form and ar-
-rangement of the particles in crystallization. In coal mines, the stratum of
-coal is occasionally seen passing, by sensible gradations, into plumbago-
-Some have supposed plumbago to be charcoal united with iron. Charcoal
-and plumbago are excellent conductors of electricity, but the diamond is a
-perfect non-conductor, which strengthens the idea that, it contains a portion
-of oxygen combined with its carbonaceous basis, as this gas, however small
-in quantity, always destroys conducting power in the body with which it is
-combined .
-
-v
-
-
-
-70 THE EARTH.
-
-A leader's place to him, in arms, they yield,
-And gladly follow thro' the embattled field.
-Tho' prized and honour'd for himself alone,
-Alike his lineage and his birth unknown;
-But some (how far unlike his sire!) declare
-Him Carbon's offspring, by a nymph of air.
-
-Nor plain, nor rich, Magnesios' band was seen,
-Each, like his chief, attir'd in glossy green *
-With them, Asbestos came, himself an host,
-His foemen's terror, and his kindred's boast.
-Strontia, Barytes, brother chiefs, were near:f
-Next Ittria, Zircon, and Glucine appear, J
-
-
-
-* The magnesian stones have almost all a green colour, and a shining, or
-silky appearance. Tliey are soft and may be cut with a knife, and are sel-
-dom more than semi-transparent. They do not contract or harden on ex-
-posure to heat.
-
-t Barytes and strontia have not long been added to the catalogue of
-earths, and the stones in which they are predominant are not numerous.
-The barytic stones are particularly distinguished for their weight, which long
-before the discovery of the metal barium, by Professor Davy, gave rise to
-the suspicion that they must contain a metallic basis. They have a spongy
-appearance; when exposed to heat they emit a phosphorescent light, and
-they may be scratched with a knife.
-
-The colour of strontia is generally whitish or light green. It's surface is a
-little shining in parts, it is brittle, has a slight transparency, and may be
-scratched with a knife.
-
-$ The earth called ittria is only found in gadolinite; zircon only in the
-stone which bears its name, and in the hyacinth; glucine is found in the
-V&gt;e.ryl, in the Peruvian emerald, nr smaragd, and in the euclase.
-
-
-
-book n THE EARTH.
-
-Gay was their armour, verdant, red, or blue,
-
-Their hearts were valiant, but their troops were few, 3Q0
-
-Of various lineage, what a countless throng,
-
-In warlike order ranged, demand the song!
-
-But who now hither bends his hasty flight,
-
-His face and armour of resplendent white?
-
-Tis Hydrargyras, — thro' the gloom he springs,
-
-His feet and head, like Hermes, arm'd with wings:
-
-My liege,he cried, the powers of fire are near,
-
-A few short moments see their vanguard here;
-
-Rang'd in a distant vale, the wat'ry line
-
-Remain inactive, and the fight decline.400
+The brave Stypterion leads his filial band,[^35]<br>
+The pride and boast of many an eastern land;<br>
+Of hardest texture fram’d, their armour bright<br>
+Shone through the gloom in lines of dazzling light:<br>
+In former combats with the powers of fire,<br>
+Immortal glory did these troops acquire;<br>
+Nor less their argillaceous brethren claim<br>
+The hard-earn’d wreath of never-fading fame.<br>
+
+[^35]: Stypterion, from Στυπτηρια, alumine or clay, pure argillaceous earth, one of the most indestructible substances in nature, and parent of all the gems known by the name of oriental, and included in the barbarous term Corundum: the oriental topaz, emerald, and sapphire, &amp;c. &amp;c.<br>
+<br>
+Nothing can be more different than the characters which alumine imparts to the gems and to the earths; in the first, hard, brittle, brilliant, and pellucid; in the second, opaque, devoid of lustre, and exhibiting, when broken, an earthy fracture. The argillaceous earths are soft to the touch, but harden by fire, absorb water greedily, retain it obstinately, and form, when moistened, a ductile and tenacious mass. When exposed to the action of heat they become, first of a bluish black, then white; they contract and exhibit variou? cracks and fissures, but fire has no farther action upon them, except in increasing the contraction. On this account pyrometers have been constructed of clay, with the hope of being able to measure very high degrees of temperature; but they are uncertain, as the clay does not contract uniformly in the same heat, and is almost as much affected by the duration, as the increase of temperature.
+
+Tho’ not “in glittering arms and glory drest,”<br>
+With equal ardour glow’d each generous breast,<br>
+Practis’d their flexile forms to turn, to bend,<br>
+To close with speed, with speed their lines extend,<br>
+To shrink compacted, at the charge of fire,<br>
+Or broad expand, when aqueous foes require;<br>
+In every kind of warfare train’d and skill’d,<br>
+No foe appall’d, no force could make them yield,<br>
+Fresh fields to dare, to win, elate they ran,<br>
+And claim’d their right to combat in the van.
+
+Next was Titanos; his white arms diffuse[^36]<br>
+No changeful lustre, boast no varied hues;<br>
+Numerous his train, and like their leader drest,<br>
+But courage glow’d beneath the humble vest.
+
+Near these Silexis’ hardy veterans stand,[^37]<br>
+Unbent, untam’d, a firm determin’d band;<br>
+
+[^36]: Titanos, chalk. There is a general similarity in the appearance of all the calcareous stones. They are usually nearly white, opaque, and devoid of lustre, and are not sufficiently hard to scratch glass.
+
+[^37]: Silex is one of the hardest substances in nature, and the bodies in which it abounds are abundantly diffused. It enters into the composition of the primitive rocks&gt; but is not generally soluble in water, though the Geysers of Iceland, and some springs near Bath, prove that peculiar circumstances may render it so. Siliceous stones are more or less transparent,,nave a fine polish, and scratch glass. To this order belong all those gems which the lapidaries distinguish by the term occidental, in opposition to the oriental, or aluminous gems: also the carnelian, sardonyx, agate, opal, mocha, jasper, chalcedony, garnet, &amp;c. &amp;c.
+
+Yet with their savage strength, and haughty mien,<br>
+The pride of splendour and of dress was seen;<br>
+Bright were their polish’d shields, their corslets beam’d,<br>
+And from their helms the living lustre stream’d,<br>
+And now display’d the opal’s various hue,<br>
+The garnet’s crimson, or the sapphire’s blue.<br>
+Not with more splendour Uion’s sons could shine,<br>
+Or greater courage warm the Achaian line.<br>
+With them was Adamas, unconquer’d knight![^38]<br>
+His shield, his mail, insufferably bright;<br>
+In him, in action, as in form divine,<br>
+Achilles’ strength and manly beauty join.
+
+[^38]: Adamas, the diamond, which, though usually placed at the head of the gems, is very different in its composition. No bodies can differ more in external appearance, than charcoal, plumbago or black lead, and the diamond, yet their chemical analysis affords similar results. The diamond burns, like plumbago and charcoal, into pure carbonic acid, and the difference in their aspect probably arises, either from a slight excess or deficiency in the oxygen combined with the carbon, or perhaps only from the different form and arrangement of the particles in crystallization. In coal mines, the stratum of coal is occasionally seen passing, by sensible gradations, into plumbago. Some have supposed plumbago to be charcoal united with iron. Charcoal and plumbago are excellent conductors of electricity, but the diamond is a perfect non-conductor, which strengthens the idea that it contains a portion of oxygen combined with its carbonaceous basis, as this gas, however small in quantity, always destroys conducting power in the body with which it is combined.
+
+A leader’s place to him, in arms, they yield,<br>
+And gladly follow thro’ the embattled field.<br>
+Tho’ prized and honour’d for himself alone,<br>
+Alike his lineage and his birth unknown;<br>
+But some (how far unlike his sire!) declare<br>
+Him Carbon’s offspring, by a nymph of air.
+
+Nor plain, nor rich, Magnesios’ band was seen,<br>
+Each, like his chief, attir’d in glossy green[^39]<br>
+With them, Asbestos came, himself an host,<br>
+His foemen’s terror, and his kindred’s boast.<br>
+Strontia, Barytes, brother chiefs, were near:[^40]<br>
+Next Ittria, Zircon, and Glucine appear,[^41]<br>
+
+[^39]: The magnesian stones have almost all a green colour, and a shining, or silky appearance. They are soft and may be cut with a knife, and are seldom more than semi-transparent. They do not contract or harden on exposure to heat.
+
+[^39]: Barytes and strontia have not long been added to the catalogue of earths, and the stones in which they are predominant are not numerous. The barytic stones are particularly distinguished for their weight, which long before the discovery of the metal barium, by Professor Davy, gave rise to the suspicion that they must contain a metallic basis. They have a spongy appearance; when exposed to heat they emit a phosphorescent light, and they may be scratched with a knife.<br>
+<br>
+The colour of strontia is generally whitish or light green. Its surface is a little shining in parts, it is brittle, has a slight transparency, and may be scratched with a knife.
+
+[^39]: The earth called ittria is only found in gadolinite; zircon only in the stone which bears its name, and in the hyacinth; glucine is found in the beryl, in the Peruvian emerald, or smaragd, and in the euclase.
+
+Gay was their armour, verdant, red, or blue,<br>
+Their hearts were valiant, but their troops were few,<br>
+Of various lineage, what a countless throng,<br>
+In warlike order ranged, demand the song!<br>
+But who now hither bends his hasty flight,<br>
+His face and armour of resplendent white?<br>
+’Tis Hydrargyras, — thro’ the gloom he springs,<br>
+His feet and head, like Hermes, arm’d with wings:<br>
+“My liege,” he cried, “the powers of fire are near,<br>
+A few short moments see their vanguard here;<br>
+Rang’d in a distant vale, the wat’ry line<br>
+Remain inactive, and the fight decline.”
 
 He spoke: Albruno bids his squadrons form,
 And still and silent wait the approaching storm.
