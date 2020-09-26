@@ -1352,12 +1352,12 @@ Their force shall weaken, and their plans prevent:<br>
 If they delay the fight, our cause is won,<br>
 If they provoke it, need we wish to shun?
 
-“’Tis for the coward, treacherous, cold, or weak,
-Of caution, danger, doubt, defence, to speak;
-Lord of a thousand hosts, a thousand lands,
-This bolder plan our martial prince demands,
-This, while his prudence gives it strength and weight,
-il Shall add new glories to our prosperous state."
+“’Tis for the coward, treacherous, cold, or weak,<br>
+Of caution, danger, doubt, defence, to speak;<br>
+Lord of a thousand hosts, a thousand lands,<br>
+This bolder plan our martial prince demands,<br>
+This, while his prudence gives it strength and weight,<br>
+Shall add new glories to our prosperous state.”
 
 He ceased: in evil hour the listening throng
 Their praises of this artful speech prolong;
