@@ -1589,7 +1589,11 @@ Next Ittria, Zircon, and Glucine appear,[^41]<br>
 <br>
 The colour of strontia is generally whitish or light green. Its surface is a little shining in parts, it is brittle, has a slight transparency, and may be scratched with a knife.
 
-[^41]: The earth called ittria is only found in gadolinite; zircon only in the stone which bears its name, and in the hyacinth; glucine is found in the beryl, in the Peruvian emerald, or smaragd, and in the euclase.
+[^41]: The earth called ittria is only found in gadolinite; zircon only in the stone which bears its name, and in the hyacinth; glucine is found in the beryl, in the Peruvian emerald, or smaragd, and in the euclase.<br>
+<br>
+It is to be wished, that it were practicable to avoid the mixture of the
+barbarous nomenclature of modern mineralogy with the more sonorous
+names of the Greek.
 
 Gay was their armour, verdant, red, or blue,<br>
 Their hearts were valiant, but their troops were few,<br>
@@ -1604,108 +1608,62 @@ A few short moments see their vanguard here;<br>
 Rang’d in a distant vale, the wat’ry line<br>
 Remain inactive, and the fight decline.”
 
-He spoke: Albruno bids his squadrons form,
-And still and silent wait the approaching storm.
-The moment comes, so long our warm desire,
-The hour of conflict with the hosts of fire"—
-Aloud he cried: the impetuous lines advance,
-Draw the bright sword, and grasp the beaming lance.
-Be ye but firm, and each his post maintain,
-,l These light arm'd foes shall waste their strength in vain,
+He spoke: Albruno bids his squadrons form,<br>
+And still and silent wait the approaching storm.<br>
+“The moment comes, so long our warm desire,<br>
+The hour of conflict with the hosts of fire”—<br>
+Aloud he cried: the impetuous lines advance,<br>
+“Draw the bright sword, and grasp the beaming lance.<br>
+Be ye but firm, and each his post maintain,<br>
+These light arm’d foes shall waste their strength in vain,<br>
+As rocks the wave shall you their force withstand,<br>
+And crush at last the faint and weary band;<br>
+Vengeance and glory! be our signal cry,<br>
+Our firm resolve, to conquer or to die.<br>
+Be but yourselves, my sons, I wish no more,<br>
+And emulate your fathers’ deeds of yore;<br>
+So may their spirits, hovering o’er the place,<br>
+Your valour view, and glory in their race,<br>
+So may proud Pyros rue this fatal day,<br>
+And my glad bounty all your toils repay.”
 
+Albruno ceas'd, meanwhile, with loyal love,<br>
+A snow-white scarf had Amiantha wove,[^42]<br>
+Tho' thin and flexile, yet, with wondrous art,<br>
+'Twas form'd impervious to the fiery dart.<br>
+Thro' the close ranks, with eager haste, she prest,<br>
+And twin'd its folds around the monarch's breast,<br>
 
+[^42]: The amianthus is more flexible than the asbestos. The ancients possessed the art of weaving its fibres into a kind of cloth which, when cleansed by fire, was of a dazzling whiteness, and, from its incombustibility, was purchased, in the days of Roman luxury, at an exorbitant price, to wrap the bodies of persons of superior rank on the funeral pyre. Their ashes were thus prevented from mingling with those of the wood. The art of weaving amianthine cloth is now lost, or at least neglected. The Tarantaise amianthus is most celebrated; but it is found in many countries: in Cornwall and Anglesea; in the islands of Corsica and Elba; in Saxony and in Sweden, &amp;c. &amp;c. &amp;c.
 
-It is to be wished, that it were practicable to avoid the mixture of the
-barbarous nomenclature* of modern mineralogy with the more s
-names of the Greek.
-
-r4
-
-
-
-72 THE EARTH. boc
-
-As rocks the wave shall you their force withstand,
-
-And crush at last the faint and weary band;
-
-Vengeance and glory! be our signal cry,
-
-Our firm resolve, to conquer or to die.
-
-Be but yourselves, my sons, I wish no more,
-
-And emulate your fathers' deeds of yore;
-
-So may their spirits, hovering o'er the place,
-
-Your valour view, and glory in their race,
-
-So may proud Pyros rue this fatal day,
-
-And my glad bounty all your toils repay."
-
-Albruno ceas'd,- meanwhile, with loyal love,
-A snow-white scarf had Amiantha wove,*
-Tho' thin and flexile, yet, with wondrous art,
-'Twas form'd impervious to the fiery dart.
-Thro' the close ranks, with eager haste, she prest,
-And twin'd its folds around the monarch's breast,
-
-
-
--' The amianthus is more flexible than the asbestos. The ancients pos-
-sessed the art of weaving its fibres into a kind of cloth which, when cleansed
-by f re, was of a dazzling whiteness, and, from its incombustibility, was pur-.
-chased, in the days of Roman luxury, at an exorbitant price, to wrap the
-bodies of persons of superior rank on the funeral pyre. Their ashes were
-tiius prevented from mingling tvith those of the wood. The art of weaving
-amiaathine cloth is now lost, or at least neglected. The Tarantaise amian-
-thus is most celebrated; but it is found in many countries: in Cornwall
-;;nd Anglesea; in the islands of Corsica and Elba; in Saxony and in Swe-
-den, &amp;c. &amp;c. &amp;c.
-
-
-
-kook ir. THE EARTH.
-
-His grateful smiles and thanks her toil repaid,
-And fill'd with trembling joy the blushing maid;
-A sister's glance she at Asbestos threw,
+His grateful smiles and thanks her toil repaid,<br>
+And fill’d with trembling joy the blushing maid;<br>
+A sister’s glance she at Asbestos threw,<br>
 And then with swift, but timid, steps withdrew.
 
-Now in the distance seen, a dim red light
-Told where the foes rush'd onward to the fight:
-First Kapnos, Spintheros, Aleinos, came,
-Dalos, and Phlogos in his robe of flame;
-Empreesmos, Anthrachis, Thermotes there,
-With Spodos, Phlegon, Causimos appear,
-And bright Ignicomus with blazing hair.
-There Marmarygos, Chliarotes glow'd,
-There his bright face the swift Lampedon show'd;
-Beyond, of armed sprites a radiant train
-With hasty footsteps shake the echoing plain;
-High in the midst, the haughty Pyros shone,
-By his bright arms and giant stature known,
-His fiery mail with crimson lustre glow'd,
-Like redd'ning Phoebus thro' a misty cloud;
-While his vast helmet shone with brighter blaze.
-And mock'd the splendour of his noontide rays:
-Of lambent flame wide wav'd his nodding plume,
-And far dispell'd the subterranean gloom.
-
-
-
-I
-
-
-
-74 THE EARTH.
-
-Like Jove's own i£gis, his resplendent shield
-With inward fear the rash beholder fill'd,
-Round a bright orb of silver radiance, roll'd
-The volum'd smoke in many a snaky fold.
+Now in the distance seen, a dim red light<br>
+Told where the foes rush’d onward to the fight:<br>
+First Kapnos, Spintheros, Aleinos, came,<br>
+Dalos, and Phlogos in his robe of flame;<br>
+Empreesmos, Anthrachis, Thermotes there,<br>
+With Spodos, Phlegon, Causimos appear,<br>
+And bright Ignicomus with blazing hair.<br>
+There Marmarygos, Chliarotes glow’d,<br>
+There his bright face the swift Lampedon show’d;<br>
+Beyond, of armed sprites a radiant train<br>
+With hasty footsteps shake the echoing plain;<br>
+High in the midst, the haughty Pyros shone,<br>
+By his bright arms and giant stature known,<br>
+His fiery mail with crimson lustre glow’d,<br>
+Like redd’ning Phoebus thro’ a misty cloud;<br>
+While his vast helmet shone with brighter blaze.<br>
+And mock’d the splendour of his noontide rays:<br>
+Of lambent flame wide wav’d his nodding plume,<br>
+And far dispell’d the subterranean gloom.<br>
+Like Jove’s own Ægis, his resplendent shield<br>
+With inward fear the rash beholder fill’d,<br>
+Round a bright orb of silver radiance, roll’d<br>
+The volum’d smoke in many a snaky fold.
 
 Meanwhile the argillaceous bands oppose
 A serried phalanx to their fiery foes,
