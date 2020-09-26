@@ -192,9 +192,6 @@ Cheats the dull hour with many a sportive jest,<br>
 And gaily urges the neglected feast,<br>
 Till sorrow slept, and joy from every eye<br>
 Beamed like the sunshine through a wat’ry sky.<br>
-
-[^1]: Carinthia, a duchy of Austria, formerly celebrated for its mines of gold and silver, &amp;c.
-
 With food refresh’d, his helm with sable plumes,<br>
 His lance and shield, each warrior now resumes,<br>
 And by the warder summoned took his way,<br>
@@ -336,28 +333,23 @@ I since have worn, and still uninjured wear.
 Of Poictiers glorious field, and Edward’s fame;[^2]<br>
 Can nobler deeds the daring bard engage?<br>
 Or brighter virtues grace a future age?<br>
-
-[^2]: From the commencement of English history, there is no prince, except Alfred, on whose character and exploits the memory dwells with so much fondness, as on those of the sable Edward. The valour and prudence which won the battles of Crecy and Poictiers, two of the most celebrated in our annals, lose their praise in admiration of the moderation and humanity of the youthful hero, even in the moment of victory.
-
-There prudence aim'd, and mercy staid the sword,<br>
-While vanquished Gallia mourn'd her captive lord,<br>
+There prudence aim’d, and mercy staid the sword,<br>
+While vanquished Gallia mourn’d her captive lord,<br>
 Who now received the honours long denied<br>
 To all his pomp of power and regal pride;[^3]<br>
 The veterans that his Sire to victory led,<br>
-At the glad tidings rais'd the hoary head,<br>
+At the glad tidings rais’d the hoary head,<br>
 Blest their brave Prince, and half in envy told<br>
 Their sons had fought — as they had fought of old —<br>
 Where all were heroes, where impatient fame<br>
 Could scarce prefer, and scarce reject a name,<br>
 Where acts, which else in her bright page had shone,<br>
-Past in the blaze of light, unmark'd, unknown;<br>
+Past in the blaze of light, unmark’d, unknown;<br>
 Elate I heard of deeds by Henry wrought;<br>
 How with his Prince the hottest fight he sought,<br>
 Once saved the youthful chief and still victorious fought;<br>
-I long'd from Henry's lips his deeds to hear,<br>
+I long’d from Henry’s lips his deeds to hear,<br>
 Nor thought how soon my joy would melt in air.
-
-[^3]: “Edward ordered a repast to be prepared in his tent for the prisoner, (King John,) and lie himself served at the royal captive’s table, as if he had been one of his retinue. He stood at the King’s back during the meal, con- stantly refused to take a place at table, and declared that, being a subject, he was too well acquainted with the distance between his own rank and that of majesty to assume such freedom. All his father’s pretensions to the crown of France were now buried in oblivion: John, in captivity, received the honours of a king, which were refused him when seated ou the throne: his misfortunes not his title were respected.” — *Hume*.
 
 “One vernal morn, (’twas in the month of May,)<br>
 As on the ocean’s side I chanced to stray,<br>
@@ -381,9 +373,6 @@ Mid clouds of smoke, and flames of livid blue,<br>
 A giant form rose slowly to my view.<br>
 The fatal veil which late my locks confined,<br>
 That veil so closely with my fate combined,<br>
-
-[^4]: Spenser's Faery Queene, Book III. Canto IV.
-
 He with insulting transport wav’d in air;<br>
 His gloomy looks my Henry’s foe declare,<br>
 Though now in robes of regal state he shone,-<br>
@@ -428,9 +417,6 @@ The feathered songsters, fruits and fragrant flowers,<br>
 And dear companions of thy social hours,<br>
 Yet deem not my extended realms below,<br>
 The constant haunt of horror, gloom, and woe,<br>
-
-[^5]: A variety of metallic preparations have been used by the ladies of different countries for this purpose, particularly the oxyds of bismuth and antimony. Among the Medes it was not confined to the fair sex; at least Xenophon, in his Cyroptedia, describes Astyages as having his eyes painted. The custom still prevails in the Levant.
-
 The light of Heaven our quenchless lamps supply,<br>
 Our vaults re-echo to the sounds of joy,<br>
 To festive songs my Gnomes attune the lyre,<br>
@@ -685,9 +671,6 @@ The white ranunculus, and iris gay,<br>
 The yellow caltha, on the morn of May<br>
 That to their homes the cheerful peasants bring,<br>
 And strew around, in honour of the spring;<br>
-
-[^6]: The *geranium pratense*, or blue geranium, which grows in meadows, and by the banks of streams; a very beautiful and elegant plant.
-
 The hyacinth, the violet’s purple dye,<br>
 Aud myosotis blue, with golden eye,<br>
 Which oft the German youth, in graceful knot,<br>
@@ -702,32 +685,18 @@ How from pure water, given the powers to share,<br>
 Of vivifying heat, and light, and air,<br>
 The leaves their vivid green, the flowers assume<br>
 Their balmy fragrance, and their various bloom;<br>
-
-[^7]: The myosotis, or scorpion grass, is a beautiful plant which grows abundantly by the side of running waters. It has a small blue flower, with agolden eye in the centre, and is a great favourite with the Germans, who call it *“Forget me not*.” These flowers, or their enamelled resemblance, are frequently interchanged as tokens of regard. The *“Forget me not”* of the Germans is by some believed to be the veronica chamaedrys, which is also a beautiful blue flower.
-
-[^8]: If a plant be taken out of the ground and inverted, its parts also invert their functions. What was formerly the root becomes green, and leaves and flowers shoot out in the place of fibres. The inverted stem on the contrary grows rigid, and soon assumes the appearance and the functions of the root. — *Lectures delivered at the Royal Institution, by Dr. now Sir James Edward Smith*.
-
 Its precious gum mimosa plenteous pours,<br>
 The camphor tree secretes its spicy stores;[^9]<br>
 How the same soils, in equal luxury, feed<br>
 The plant medicinal, and poisonous weed;<br>
 How he, though cast upon some unknown shore,<br>
 Could tell the noxious and nutritious flower;[^10]<br>
-How in the tulip's bulb the flower is found,<br>
+How in the tulip’s bulb the flower is found,<br>
 And future leaves their embryo charge surround;[^11]<br>
 How, grafted on its stock, the crab will bear<br>
 The sweeter apple or the juicy pear,<br>
 But gradual as the parent grafts decay,<br>
 The sympathetic offspring fades away.[^12]<br>
-
-[^9]: The principal, if not the only food of plants, appears to be water, from which, when exposed to the action of the solar light, all their various secretions are produced. The beautiful green of the leaves, the vivid tints of the flower, their fragrance, the flavour of the fruit, with their endless variety in the different species, all seem to be derived from one source; and plants, whose properties and secretions are the most different, grow in equal luxuriance side by side. — *Smith’s Lectures*.
-
-[^10]: The tetradynamia, or plants with cruciform flowers, are all, when boiled, wholesome and nutritious. There is also a more extended criterion. The fruits of flowers having the stamina inserted into the calyx may be eaten with safety, and are generally agreeable, but flowers having the stamina inserted into the receptacle are always to be suspected. — *Smith’s Lectures*.
-
-[^11]: If the bulb of the tulip be opened, the rudiments of the future leaves and even the embryo of the flower may be seen. — *Smith’s Lectures*.
-
-[^12]: The decay of our apples has excited much apprehension. Some of the finest kinds are nearly extinct, and others have evidently degenerated. Many attempts have been made to supply this loss by grafting favourite apples upon young stocks, but in vain. This has proved to be only the extension of an individual, not the production of a new one, and as the parent tree decayed, the grafts decayed also. To prevent the loss of so valuable a fruit, Mr. Knight sowed a quantity of the seeds of our best apples, in hope that, although a great majority would be merely crabs, out of many thousands he might procure a few valuable apples. His efforts have not been unsuccessful, and many of the new varieties promise to vie, in size and flavour, with the finest of the old ones. — *Smith’s Lectures*.
-
 “The paths of science while I thus pursued,<br>
 A strange event disturbed the peaceful flood;<br>
 No more like liquid glass the waters seem,<br>
@@ -742,9 +711,6 @@ When in the stream a monster rose, whose sight<br>
 Had filled the boldest bosom with affright;<br>
 His hideous form was rough with many a scale,<br>
 Green was his hair, his hand displayed my Veil;<br>
-
-[^13]: This passage is intended as a slight description of the phenomenon called the Bore or Agar, occasioned by the sudden influx of the tide into a river. Those rivers which have a wide embouchure, that becomes suddenly contracted, are most subject to it. The tide rushing up the stream, drives back the descending water, and the vessels upon it find themselves instantly raised many feet above their former level. In England the Severn is particularly subject to the Bore; but it is most remarkable in the Indian rivers, the principal branches of the Ganges, the Megna, and the Hoogly.
-
 His hoarse rough voice was like the deaf’ning roar<br>
 Of billows breaking on the rocky shore,<br>
 While with rude homage, and uncourtly mien,<br>
@@ -791,9 +757,6 @@ Through all her speech her cheerful temper ran:
 Will prove the tedium of a thrice told tale;<br>
 Well might Maria, or Miranda, move<br>
 Their hearers pity’s genuine power to prove,<br>
-
-[^14]: See “The Flower and the Leaf.”
-
 But when such rivals in the lists appear,<br>
 How can *I* hope a sympathetic tear,<br>
 Who, at my onset, must perforce confess<br>
@@ -815,9 +778,6 @@ For the calm pleasures of domestic life.
 
 “From old Cordova’s Roman walls expelled,[^15]<br>
 Brave Ferdinand the haughty Moors had quelled;<br>
-
-[^15]: Cordova, or Corduba as it was anciently called, was founded by the Romans. It was afterwards in possession of the Goths, and then of the Moors, who were expelled in 1236 by Ferdinand the Third, who first united the crowns of Castille and Leon. From this time Cordova, hitherto the seat of learning, declined, and that star, which had shone amidst darkness and barbarism, sunk ere the dawn returned to Europe.
-
 But still from Afric poured the ambitious foes,[^16]<br>
 And the new kingdom of Granada rose,<br>
 Where luxury held in Hamet’s court her reign,<br>
@@ -830,17 +790,10 @@ Her hills, where dark the olive woods extend,<br>
 And the green boughs with fruits Hesperian bend;<br>
 Where the sweet rose, and starry jasmine spring,<br>
 And frequent founts their liquid crystal fling;<br>
-
-[^16]: Granada was early in the possession of the Moors, but the kingdom was dissolved in 1221. In 1236, fresh bands pouring over from Africa, Granada became the seat of opulence and splendour, and the Moorish capital of Spain. In speaking of Granada, historians and geographers become poetical, and describe in glowing terms its fertile valley, bounded by mountains, and watered by the Genil and the Guadalquivir; its hills covered with groves of orange, of mulberry, and of olive; the magnificence of its palaces, and the splendour of its court, where the manners of chivalry received a peculiar colouring from the luxury of Africa. At the time mentioned in the poem, the sceptre of Granada was held by Jusef Hacen Hamet, the seventh king of Granada. Those who are fond of romantic history will be gratified by the translation of the Civil Wars of Granada, by Mr. Rodd.
-
-[^17]: This is an anachronism. The apartment here alluded to was not added to the Alhambra till the reign of Muley Hascem, the father of Boabdelin, who lost his crown to Ferdinand and Isabella. The walls had the appearance of gold, and are supposed to have been a composition of the yolks of eggs, Muley Hascem also built the celebrated court of Lions.
-
 Her mulberry groves, in whose propitious gloom<br>
 The worm industrious winds its silken tomb;<br>
 Her fertile vale where two fair rivers flow,<br>
-And lofty mountains ever topt with snow.[^18]<br>
-
-[^18]: The Sierra Nevada, or snowy mountain.
+And lofty mountains ever topt with snow.[^18]
 
 “Roused at the sound, with martial ardour fired,<br>
 Or by religion’s fervent zeal inspired,<br>
@@ -901,11 +854,6 @@ While knots of flowers, in mystic guise dispos’d,<br>
 His secret passion to my sight disclos’d,<br>
 And tuned beneath my vine-clad window, long<br>
 The light guitar had join’d his nightly song:<br>
-
-[^19]: This was a martial game, in which the young nobles fought in squadrons, and canes supplied the place of lances. Tilting was usually performed with canes, but at the tournament lances were used.
-
-[^20]: It was the custom for the Moorish or Spanish youth to denote their affection by wearing the favourite colours of their ladies. The language of flowers is still so well understood by the ladies of Spain, that it might be dangerous for the uninitiated to present a nosegay.
-
 But on his flowers I cast a careless eye,<br>
 Nor ‘blest the youth who bade my slumbers fly.’<br>
 And twice the moon had rilled her silver round<br>
@@ -972,8 +920,6 @@ My sire, with many a proud hidalgo, died,<br>
 And near him was the brave Alonzo found,<br>
 His manly bosom pierced with many a wound.<br>
 
-[^21]: Alfonzo XI obtained a signal victory over the Moors in 1340, at which time Alziras was taken, and the kingdom of Granada made tributary. He was killed in the siege of Gibraltar, which he had lost before, and succeeded by his son, Peter the Cruel. — *Puffendorf*.
-
 “Oppression soon, in Pedro’s iron reign,<br>
 Check’d the sweet transports of reviving Spain.<br>
 Bound by affection’s golden tie no more,<br>
@@ -995,9 +941,6 @@ The avalanch impending from on high,<br>
 The gulph below, the terrors of the sky;<br>
 Shone but on pointed peaks, and ample brows<br>
 White with eternal, undissolving snows:<br>
-
-[^22]: “Là, j’entendois rouler sous mes pieds un torrent qui se frayoit, à travers les glaces et les neiges, une route invisible, dont il ne sortoit que cinquante toises plus bas, pour se précipiter du haut d’un escarpement de rocliers, dans le grand vallon de neige. La position pouvoit devenir dangereuse, à la longue; je la quittai bientôt.” — *Ramond’s Observations faites dans les Pyrenees.*
-
 Or, on the glacier’s polish’d surface, threw<br>
 A fairy tint of evanescent blue:<br>
 And now the storm began, and long and loud<br>
@@ -1121,6 +1064,53 @@ Each maiden half her grief resigns, and blends<br>
 In cheerful converse with her new found friends;<br>
 While still their young affection warmer grew,<br>
 Till late to rest the weary group withdrew.
+
+[^1]: Carinthia, a duchy of Austria, formerly celebrated for its mines of gold and silver, &amp;c.
+
+[^2]: From the commencement of English history, there is no prince, except Alfred, on whose character and exploits the memory dwells with so much fondness, as on those of the sable Edward. The valour and prudence which won the battles of Crecy and Poictiers, two of the most celebrated in our annals, lose their praise in admiration of the moderation and humanity of the youthful hero, even in the moment of victory.
+
+[^3]: “Edward ordered a repast to be prepared in his tent for the prisoner, (King John,) and lie himself served at the royal captive’s table, as if he had been one of his retinue. He stood at the King’s back during the meal, constantly refused to take a place at table, and declared that, being a subject, he was too well acquainted with the distance between his own rank and that of majesty to assume such freedom. All his father’s pretensions to the crown of France were now buried in oblivion: John, in captivity, received the honours of a king, which were refused him when seated ou the throne: his misfortunes not his title were respected.” — *Hume*.
+
+[^4]: Spenser’s Faery Queene, Book III. Canto IV.
+
+[^5]: A variety of metallic preparations have been used by the ladies of different countries for this purpose, particularly the oxyds of bismuth and antimony. Among the Medes it was not confined to the fair sex; at least Xenophon, in his Cyroptedia, describes Astyages as having his eyes painted. The custom still prevails in the Levant.
+
+[^6]: The *geranium pratense*, or blue geranium, which grows in meadows, and by the banks of streams; a very beautiful and elegant plant.
+
+[^7]: The myosotis, or scorpion grass, is a beautiful plant which grows abundantly by the side of running waters. It has a small blue flower, with agolden eye in the centre, and is a great favourite with the Germans, who call it *“Forget me not*.” These flowers, or their enamelled resemblance, are frequently interchanged as tokens of regard. The *“Forget me not”* of the Germans is by some believed to be the veronica chamaedrys, which is also a beautiful blue flower.
+
+[^8]: If a plant be taken out of the ground and inverted, its parts also invert their functions. What was formerly the root becomes green, and leaves and flowers shoot out in the place of fibres. The inverted stem on the contrary grows rigid, and soon assumes the appearance and the functions of the root. — *Lectures delivered at the Royal Institution, by Dr. now Sir James Edward Smith*.
+
+[^9]: The principal, if not the only food of plants, appears to be water, from which, when exposed to the action of the solar light, all their various secretions are produced. The beautiful green of the leaves, the vivid tints of the flower, their fragrance, the flavour of the fruit, with their endless variety in the different species, all seem to be derived from one source; and plants, whose properties and secretions are the most different, grow in equal luxuriance side by side. — *Smith’s Lectures*.
+
+[^10]: The tetradynamia, or plants with cruciform flowers, are all, when boiled, wholesome and nutritious. There is also a more extended criterion. The fruits of flowers having the stamina inserted into the calyx may be eaten with safety, and are generally agreeable, but flowers having the stamina inserted into the receptacle are always to be suspected. — *Smith’s Lectures*.
+
+[^11]: If the bulb of the tulip be opened, the rudiments of the future leaves and even the embryo of the flower may be seen. — *Smith’s Lectures*.
+
+[^12]: The decay of our apples has excited much apprehension. Some of the finest kinds are nearly extinct, and others have evidently degenerated. Many attempts have been made to supply this loss by grafting favourite apples upon young stocks, but in vain. This has proved to be only the extension of an individual, not the production of a new one, and as the parent tree decayed, the grafts decayed also. To prevent the loss of so valuable a fruit, Mr. Knight sowed a quantity of the seeds of our best apples, in hope that, although a great majority would be merely crabs, out of many thousands he might procure a few valuable apples. His efforts have not been unsuccessful, and many of the new varieties promise to vie, in size and flavour, with the finest of the old ones. — *Smith’s Lectures*.
+
+[^13]: This passage is intended as a slight description of the phenomenon called the Bore or Agar, occasioned by the sudden influx of the tide into a river. Those rivers which have a wide embouchure, that becomes suddenly contracted, are most subject to it. The tide rushing up the stream, drives back the descending water, and the vessels upon it find themselves instantly raised many feet above their former level. In England the Severn is particularly subject to the Bore; but it is most remarkable in the Indian rivers, the principal branches of the Ganges, the Megna, and the Hoogly.
+
+[^14]: See “The Flower and the Leaf.”
+
+[^15]: Cordova, or Corduba as it was anciently called, was founded by the Romans. It was afterwards in possession of the Goths, and then of the Moors, who were expelled in 1236 by Ferdinand the Third, who first united the crowns of Castille and Leon. From this time Cordova, hitherto the seat of learning, declined, and that star, which had shone amidst darkness and barbarism, sunk ere the dawn returned to Europe.
+
+[^16]: Granada was early in the possession of the Moors, but the kingdom was dissolved in 1221. In 1236, fresh bands pouring over from Africa, Granada became the seat of opulence and splendour, and the Moorish capital of Spain. In speaking of Granada, historians and geographers become poetical, and describe in glowing terms its fertile valley, bounded by mountains, and watered by the Genil and the Guadalquivir; its hills covered with groves of orange, of mulberry, and of olive; the magnificence of its palaces, and the splendour of its court, where the manners of chivalry received a peculiar colouring from the luxury of Africa. At the time mentioned in the poem, the sceptre of Granada was held by Jusef Hacen Hamet, the seventh king of Granada. Those who are fond of romantic history will be gratified by the translation of the Civil Wars of Granada, by Mr. Rodd.
+
+[^17]: This is an anachronism. The apartment here alluded to was not added to the Alhambra till the reign of Muley Hascem, the father of Boabdelin, who lost his crown to Ferdinand and Isabella. The walls had the appearance of gold, and are supposed to have been a composition of the yolks of eggs, Muley Hascem also built the celebrated court of Lions.
+
+[^18]: The Sierra Nevada, or snowy mountain.
+
+[^19]: This was a martial game, in which the young nobles fought in squadrons, and canes supplied the place of lances. Tilting was usually performed with canes, but at the tournament lances were used.
+
+[^20]: It was the custom for the Moorish or Spanish youth to denote their affection by wearing the favourite colours of their ladies. The language of flowers is still so well understood by the ladies of Spain, that it might be dangerous for the uninitiated to present a nosegay.
+
+[^21]: Alfonzo XI obtained a signal victory over the Moors in 1340, at which time Alziras was taken, and the kingdom of Granada made tributary. He was killed in the siege of Gibraltar, which he had lost before, and succeeded by his son, Peter the Cruel. — *Puffendorf*.
+
+[^22]: “Là, j’entendois rouler sous mes pieds un torrent qui se frayoit, à travers les glaces et les neiges, une route invisible, dont il ne sortoit que cinquante toises plus bas, pour se précipiter du haut d’un escarpement de rocliers, dans le grand vallon de neige. La position pouvoit devenir dangereuse, à la longue; je la quittai bientôt.” — *Ramond’s Observations faites dans les Pyrenees.*
+
+
+
 
 ---
 
