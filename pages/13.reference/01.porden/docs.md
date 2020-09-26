@@ -1109,9 +1109,6 @@ Till late to rest the weary group withdrew.
 
 [^22]: “Là, j’entendois rouler sous mes pieds un torrent qui se frayoit, à travers les glaces et les neiges, une route invisible, dont il ne sortoit que cinquante toises plus bas, pour se précipiter du haut d’un escarpement de rocliers, dans le grand vallon de neige. La position pouvoit devenir dangereuse, à la longue; je la quittai bientôt.” — *Ramond’s Observations faites dans les Pyrenees.*
 
-
-
-
 ---
 
 ## Book the Second
@@ -1136,55 +1133,37 @@ The knight on Henry cast a threat’ning look,<br>
 High o’er his head his beamy sword he shook,<br>
 Then stampt infuriate on the ground, and spoke:
 
-" Rash youth, to me Maria's charms resign,
-" Or meet in arms the Monarch of the Mine;
-" The bold defiance on thy shield displayed,
-" I rise to answer — fight, or yield the maid;
-i( Fool, to believe thy mortal frame can stand
-" A weapon wielded by Albruno's hand!
+“Rash youth, to me Maria’s charms resign,<br>
+Or meet in arms the Monarch of the Mine;<br>
+The bold defiance on thy shield displayed,<br>
+I rise to answer — fight, or yield the maid;<br>
+Fool, to believe thy mortal frame can stand<br>
+A weapon wielded by Albruno’s hand!<br>
+Advance, if still thou dar’st the unequal strife,<br>
+And lose at once thy mistress and thy life.”
 
-" Advance, if still thou dar'st the unequal strife,
-" And lose at once thy mistress and thy life."
-
-" Cease thy proud vaunt!" indignant Henry said,
-" And from my vengeance guard thy treacherous head."
-They met — alike by love and hate impelled,
-And one in skill, and one in strength excelled.
-Long Henry strove to wound the Gnome in vain,
-His ruby arms unhurt the strokes sustain;
-As long Albruno with amazement found
-The valiant youth still fought without a wound;
-
-Fierce was the fight, till from the donjon tower
-The Castle bell announced the midnight hour.
-
-
-
-book ii. THE EARTH.
-
-And warned him that the vassals of the state,
-
-By him convened, in solemn council wait;
-
-Mad with delay, and hopeless now to quell
-
-By arms alone a knight who fought so well,
-
-The wily Gnome seemed half compelled to yield,
-
-Next faint, enfeebled, dropt his ponderous shield,
-
-Then feigned a wound, and sunk upon the field.
-
-Bent o'er the king, victorious Henry tried
-
-To draw the weapon from his bleeding side,
-
-When lo! two sinewy arms enwreathed him round, ^
-
-And bore him, struggling, thro' a gulph profound, V
-
-Down to a central cave, and there in fetters bound. j
+“Cease thy proud vaunt!” indignant Henry said,<br>
+“And from my vengeance guard thy treacherous head.”<br>
+They met — alike by love and hate impelled,<br>
+And one in skill, and one in strength excelled.<br>
+Long Henry strove to wound the Gnome in vain,<br>
+His ruby arms unhurt the strokes sustain;<br>
+As long Albruno with amazement found<br>
+The valiant youth still fought without a wound;<br>
+Fierce was the fight, till from the donjon tower<br>
+The Castle bell announced the midnight hour.<br>
+And warned him that the vassals of the state,<br>
+By him convened, in solemn council wait;<br>
+Mad with delay, and hopeless now to quell<br>
+By arms alone a knight who fought so well,<br>
+The wily Gnome seemed half compelled to yield,<br>
+Next faint, enfeebled, dropt his ponderous shield,<br>
+Then feigned a wound, and sunk upon the field.<br>
+Bent o’er the king, victorious Henry tried<br>
+To draw the weapon from his bleeding side,<br>
+When lo! two sinewy arms enwreathed him round,<br>
+And bore him, struggling, thro’ a gulph profound,<br>
+Down to a central cave, and there in fetters bound.
 
 In this black vault, no ray of cheerful light
 Pierced the thick gloom of everlasting night,
@@ -1192,58 +1171,29 @@ Save when the Gnomes, on hasty errand, past,
 Their jewelled wreaths a transient brightness cast;
 Then so quick flashed the red or azure beam,
 It seemed to Henry but the lightning's gleam,
-
 And they (so far from human shape their forms)
 Fiends that delight in hurricanes and storms.
 
 Meanwhile, unarmed, the Monarch of the Mines
 In all the pride of regal splendour shines:
-
-
-
-
-
-
-52 THE EARTH. eoox n
-
 Those jewels sought by men as rich, and rare,
-
 To deck the vain, the stately, or the fair,
-
 With thousands yet to solar light unknown,
-
 Blazed on his gorgeous vesture and his crown.
+He takes his amethystine throne, in state,
+Round which a thousand vassal sovereigns wait,
+And thus he opens the august debate:
 
-He takes his amethystine throne, in state, ^
+"Ye chiefs, that o'er this nether realm preside,
+Its powers direct, its various changes guide,
+Discordant elements in peace combine,
+Their forms, proportions, properties define,
+And curb, by rules as fixed, attraction's force,
+As hold the struggling planets in their course,[^24]
 
-Round which a thousand vassal sovereigns wait, 60 V
-
-And thus he opens the august debate: )
-
-" Ye chiefs, that o'er this nether realm preside,
-" Its powers direct, its various changes guide,
-" Discordant elements in peace combine,
-" Their forms, proportions, properties define,
-" And curb, by rules as fixed, attraction's force,
-" As hold the struggling planets in their course,*
-
-
-
-* These lines allude to the law of definite proportions, as started by Mr.
-Dalton, and farther developed by Professor Davy, and also to the rules of
-crystallization as lately defined. The French chemists have asserted that
-bodies do not combine in fixed proportions, but in proportion to their relative
-quantities; for instance, that carbonate of lime would, according to the rela-
-tive quantities of its elements at its formation, contain a greater or less pro-
-portion of carbonic acid, or of lime. But the experiments of Davy and others
-appear completely to disprove this assertion, and establish Mr. Dalton's
-theory. Carbonate of lime is uniformly found to consist of 44 parts of car-
-bonic acid and 56 of lime. Nor does a body capriciously combine in different
-proportions with different substances.. Whatever may be the definite pro-
-portion of the body with which it enters into combination, its own remains
-the same; or should it be augmented, the portion added is always either a
-multiple or a divisor of the original quantity. Thus oxygen, in all its various
-unions, with hydrogen, with nitrogen, or with the metals, preserves its fixed
+[^24]: These lines allude to the law of definite proportions, as started by Mr. Dalton, and farther developed by Professor Davy, and also to the rules of crystallization as lately defined. The French chemists have asserted that bodies do not combine in fixed proportions, but in proportion to their relative quantities; for instance, that carbonate of lime would, according to the relative quantities of its elements at its formation, contain a greater or less proportion of carbonic acid, or of lime. But the experiments of Davy and others appear completely to disprove this assertion, and establish Mr. Dalton’s theory. Carbonate of lime is uniformly found to consist of 44 parts of carbonic acid and 56 of lime. Nor does a body capriciously combine in different proportions with different substances. Whatever may be the definite proportion of the body with which it enters into combination, its own remains the same; or should it be augmented, the portion added is always either a multiple or a divisor of the original quantity. Thus oxygen, in all its various unions, with hydrogen, with nitrogen, or with the metals, preserves its fixed proportion of 15 parts by weight, and where more is added, the extra portion is always equal either to 7&frac12; or to 15. Thus nitrous oxyde consists of one proportion or 26 grains of nitrogen united to one proportion, or 15 grains of oxygen, making together 41, which is the proportion in which nitrous oxyde again combines with other bodies to make a tertiary compound. Nitric oxyde consists of 26 grains of nitrogen, united to two proportions, or 30 grains of oxygen, making together 56. Nitrous acid consists of 26 grains of nitrogen, united with four proportions, or 60 grains of oxygen, making together 86. And nitric acid consists of 26 grains of nitrogen united with five proportions, or 75 grains of oxygen, making together 101. Thus in all these combinations the same law is observed.<br>
+<br>
+Nor are the laws of crystallization less denned. A body unexamined may be known by the form of its crystals, and even where the general shape, as in different rhomboids, appears the same, the angles are found to differ. Thus in calcareous spar, from whatever quarter procured, however small or however large the crystals, whether whole, as taken from the mine, or broke: into a number of smaller ones, the form procured is always the rhomboic and that rhomboid has always the same angle, 105 degrees. Other bodies have a rhomboidal crystal, but no other rhomboid has the same angle. — *Davy and Brande’s Lectures.*
 
 
 
@@ -1272,28 +1222,7 @@ u For wisdom is the eye our hands obey,
 
 
 
-proportion of 15 parts by weight, and where more is added, the extra por-
-tion is always equal either to 7\ or to 15. Thus nitrous oxyde consists of
-one proportion or 26 grains of nitrogen united to one proportion, or 15 grains
-of oxygen, making together 41, which is the proportion in which nitrous
-oxyde again combines with other bodies to make a tertiary compound.
-Nitric oxyde consists .of 26 grains of nitrogen, united to two proportions, or 30
-grains of oxygen, making together 56. Nitrous acid consists of 26 grains of
-nitrogen, united with four proportions, or 60 grains of oxygen, making toge-
-ther 86. And nitric acid consists of 26 grains of nitrogen united with five
-proportions, or 75 grains of oxygen, mr.kiug together 101 . Thus in all these
-combinations the same law is observed.
 
-Nor are the laws of crystallization less denned. A body unexamined may
-be known by the form of its crystals, and even where the general shape,
-as in different rhomboids, appears the same, the angles are found to differ.
-Thus in calcareous spar, from whatever quarter procured, however small 01
-however large the crystals, whether whole, as taken from the mine, or broke:
-into a number of smaller ones, the form procured is always the rhomboic
-and that rhomboid has always the same angle, 105 degrees. Other bodies
-have a rhomboidal crystal, but no other rhomboid has the same angle.
-
-Davy and Brande's Lectures.
 
 E 3
 
