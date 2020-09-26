@@ -1690,7 +1690,7 @@ Who pale with shame and rage inactive stand:
 Your foes — redeem the glory of your race!<br>
 ’Twas not for this we claim’d this honour’d post,<br>
 Awhile let Pyros triumph, while his host<br>
-Shall feel our veugeance, and redeem our boast;<br>
+Shall feel our vengeance, and redeem our boast;<br>
 Our boast, the longest to contest the field,<br>
 The first to conquer, but the last to yield.”<br>
 So spake the indignant chief, and as he spoke,<br>
@@ -1698,337 +1698,206 @@ At Pericautheis aim’d a mortal stroke;<br>
 Again, in firmer lines, his squadrons close,<br>
 And brave the impetuous onset of their foes.
 
-But fate still guided Pyros' conquering spear,
-And death behind him stalk'd, before him fear.
-First Theion fell, in arms of yellow hue,
-And snowy Nitron next his fury knew,
-At the first stroke, his arms in fragments fell,
-And with an angry shout he bade the world farewel.*
-Next, in his sable hauberk, Carbon came,
-And stopt awhile the impatient Lord of Flame,
-Without a wound, his fiercest blows withstood,
-And then retired, repulsed, but unsubdued.f
+But fate still guided Pyros’ conquering spear,<br>
+And death behind him stalk’d, before him fear.<br>
+First Theion fell, in arms of yellow hue,<br>
+And snowy Nitron next his fury knew,<br>
+At the first stroke, his arms in fragments fell,<br>
+And with an angry shout he bade the world farewell.[^44]<br>
+Next, in his sable hauberk, Carbon came,<br>
+And stopt awhile the impatient Lord of Flame,<br>
+Without a wound, his fiercest blows withstood,<br>
+And then retired, repulsed, but unsubdued.[^45]
 
-* Nitre detonates with a slight heat.
+[^44]: Nitre detonates with a slight heat.
 
-t No artificial heat has hitherto been sufficient to fuse charcoal, but under
-the action of tb*iinniense Voltaic apparatus at the Royal Institution, direct-
+[^45]: No artificial heat has hitherto been sufficient to fuse charcoal, but under the action of the immense Voltaic apparatus at the Royal Institution, directed by Professor Davy, it became much hardened, and a small portion assumed the gaseous form. Were it possible to fuse charcoal, it is probable that, by the addition of a minute portion of oxygen, and suffering it to cool very slowly, artificial diamonds might be formed.
 
+Titanos next he quell’d; his fiery dart<br>
+The chieftain’s corslet pierc’d, and reach’d his heart,<br>
+Their leader’s fall his troops with terror fill’d,<br>
+In flight dispers’d, an easy prey they yield<br>
+To Pyros’ slaught’ring arm, who chas’d them o’er the field.
 
+The trembling Gnomes with fearful wonder view’d<br>
+Whole squadrons by a single arm subdued.<br>
+To check the king, advanc’d two chiefs of fame,<br>
+Of races different, tho’ alike in name,<br>
+Their shields, their surcoats, and their arms the same;<br>
+In eastern climes one holds extensive sway,<br>
+And one Iberia’s noblest Gnomes obey.<br>
+The foes of Bacchus, they in times of old<br>
+By secret bonds the insidious god control’d,<br>
+Onward they prest, by shame and rage impell’d,<br>
+And broke their lances on his lifted shield.<br>
+The king unshaken, with fresh fury burns,<br>
+And each his blow with mightier force returns,<br>
+When, wondrous change! beneath his potent spear,<br>
+In different garb, the rival chiefs appear;<br>
+Late in Aurora’s purple glory drest,<br>
+Now Amethystos wears a silvery vest;<br>
+Unhurt he stands; a pure effulgence plays<br>
+Around his form, that mock’d the diamond’s blaze:<br>
+The Carthaginian by the blow was laid<br>
+A milk white corse, and all his lustre fled.[^46]
 
-Titauos next he quell'd; his fiery dart
-The chieftain's corslet pierc'd, and reach'd his heart,
-Their leader's fall his troops with terror fill'd, \
+[^46]: The oriental amethyst is a variety of corundum, differing only in colour from the oriental sapphire, topaz, and ruby. When exposed to heat it loses its colour, and is of such dazzling brilliancy as to be frequently mistaken for the diamond. The occidental or common amethyst is merely quartz, tinged naturally of a deep violet hue, by iron or manganese. It likewise loses its colour in the fire, but at the same time is deprived of its lustre, becomes opaque, and of a milky white, owing to an infinity of small cracks which are discoverable by the microscope. It is chiefly found in the neighbourhood of Carthagena in Spain. The Greeks and Arabians wore the amethyst as an amulet to prevent drunkenness, whence its name ἅμεθυστος.
 
-In flight dispers'd, an easy prey they yield \
-
-To Pyros' slaught'ring arm, who chas'd them o'er the field. J
-
-The trembling Gnomes with fearful wonder view'd
-Whole squadrons by a single arm subdued.
-To check the king, advanc'd two chiefs of fame, \
-
-Of races different, tho' alike in name, \
-
-Their shields, their surcoats, and their arms the same; 500 J
-In eastern climes one holds extensive sway,
-And one Iberia's noblest Gnomes obey.
-The foes of Bacchus, they in times of old
-By secret bonds the insidious god control'd,
-Onward they prest, by shame and rage impell'd,
-And broke their lances on his lifted shield.
-The king unshaken, with fresh fury burns,
-And each his blow with mightier force returns,
-When, wondrous change! beneath his potent spear,
-In different garb, the rival chiefs appear;
-
-t.d by Professor Davy, it became much hardened, and a small portion as-
-sumed the gaseous form. Were it possible to fuse charcoal, it is probable
-that, by the addition of a minute portion of oxygen, and suffering it to cool
-; ery slowly, artificial diamonds might be formed.
-
-
-
-look u. THE EARTH.
-
-Late in Aurora's purple glory cirest,
-
-Now Amethystos wears a silvery vest;
-
-Unhurt he stands; a pure effulgence play3
-
-Around his form, that mock'd the diamond's blaze:
-
-The Carthaginian by the blow was laid
-
-A milk white corse, and all his lustre fled.*
-
-Doubtful this change if fear or spells had wrought;
-The monarch turn'd, and fresh opponents sought.
-When now Asbestos, trusting in his might,
-Provok'cl the conquering chieftain to the fight.
-So long his arm the powers of fire had brav'd,
-So oft his monarch and his army sav'd,
-Each adverse warrior lied his arm appalPd,
-And he th' Invincible was justly call'd.
-Yet slender was his frame; no plated vest,
-No temper'd arms secur'd his manly breast,
-
-
-
-* The oriental amethyst is a variety of corundum, differing only in co-
-lour from the oriental sapphire, topaz, and ruby. When exposed to heat
-it loses its colour, and is of such dazzling brilliancy as to be frequently mis-
-taken for the diamond. The occidental or common amethyst is merely
-quartz, tinged naturally of a deep violet hue, by iron or manganese. It
-likewise loses its colour in the fire, but at the same time is deprived of its
-lustre, becomes opaque, and of a milky white, owing to an infinity of small
-cracks which are discoverable by the microscope. It is chiefly found in the
-neighbourhood of Carthagena in Spain. The Greeks and Arabians wore the
-amethyst as an amulet to prevent drunkenness, whence its name a^Qva-Toi.
-
-
-
-?&amp; THE EARTH. boor ii.
-
-Loose to his feet his Persian garments roll'd,
-
-His head envelop'd in the turban's fold;*
-
-Yet nor the diamond's streugth, nor harden'd steel,
-
+Doubtful this change if fear or spells had wrought;<br>
+The monarch turn’d, and fresh opponents sought.<br>
+When now Asbestos, trusting in his might,<br>
+Provok’d the conquering chieftain to the fight.<br>
+So long his arm the powers of fire had brav’d,<br>
+So oft his monarch and his army sav’d,<br>
+Each adverse warrior lied his arm appalled,<br>
+And he th’ Invincible was justly call’d.<br>
+Yet slender was his frame; no plated vest,<br>
+No temper’d arms secur’d his manly breast,<br>
+Loose to his feet his Persian garments roll’d,<br>
+His head envelop’d in the turban’s fold;[^47]<br>
+Yet nor the diamond’s strength, nor harden’d steel,<br>
 Could like those flowing robes the dart repel.
 
-They met; and long unmov'd Asbestos bore
-The utmost efforts of the fiery power,
-Long seem'd almost the victor, till at length
-So fierce a contest wasted all his strength:
-He fell; a deadly pale his features wore,
-White as the stones on Santorina's shore.f
-For Conquest from her sapphire throne on high,
-Long wont on him to cast a partial eye,
-In love still fickle as a mortal maid,
-
-In all her glory Pyros now array 'd.
-
-Delusive flatterer! didst thou only come
-To dress a lovelier victim for the tomb?
-Didst thou Abestos' fame and prowess raise,
-To add new glories to his rival's praise?
-
-
-
-* Advantage is here taken of the flexibility of the asbestos to give a little
-variety to the costume.
-
-t The pumices of the island of Santorine and others appear from analy-
-sis to have originated in the combustion of asbestos, and the refractory
-nature of that mineral proves the great potency of the volcanic five which
-has produced them.
-
-
-
-hook ii. THE EARTH.
-
-Ah! think how deep will be his sovereign's sighs,
-What tears will burst from Amiantha's eyes,
-What grief will sadden all his kindred train,
-Who ne'er shall look upon his like again!"
-
-While Pyros thus the conquer'd legions slew,
-The rival king his bravest bands o'erthrew,
-
-And many a sprite of fire in death deplor'd
-Albruno's prowess, and his absent lord.
-Brave Dalos first; for vanquish'd in the strife,
-His stiffening breast resigh'd the flame of life.
-Next Spodos, but no better fate he found,
-His mangled limbs were scatter'd on the ground.
-Their lot next Causimos and Anthrax share;
-And now to meet him march the valiant pair,
-Phlegon and Thermos, of illustrious race,
-Cut with Pyrodes share their friends' disgrace. 56Q&gt;
-
-Now with Ignicomus in fight he stood,
-His arm at length the fainting sprite subdued.
-Swift was Pyrenemos, but swift in vain,
-Albruno's lance transfix'd him to the plain;
-As vain Pyrigenes, thy strength, thy pride,
-And vaunted lineage to thy king allied.
-
-
-
-30 THE EARTH. book ii.
-
-Next came Micante, bold but lovely maid,
-
-Her graceful form in glittering arms array'd;
-
-By proud Albruno's sword her father died,
-
-She dropt no tender tear, nor shriek'd, nor sigh'd,
-
-But from her limbs she tore the flowing vest,
-
-.And seized his plated mail, and nodding crest,
-
-Be mine,she cried, the warrior's stern attire,
-
-Until I perish, or avenge my sire!"
-
-Albruno's mightier arm her lance defies, ~\
-
-Soon at his feet the lovely victim lies, \
-
-And death in darkness clos'd her radiant eyes. }
-
-Pyraustes flew to save, but flew too late,
-
-He fell, and shared his loved Micante's fate.
-
-
-
-But now a straggler from the routed baud 5S0
-
-ReveaPd the deeds of Pyros' slaught'ring hand;
-Much mourn'd the king Abestos', Calcios' doom,
-And hastes to save the living from the tomb.
-Alike Albruno's glories Pyros knew,
-To aid his troops with equal haste he flew;
-On fierce Albruno came — to meet the sprite
-The fiery monarch rushes to the fight;
-On either side their hosts die war suspend,
-And eves and ear&lt; in breathless silence bend.
-
-
-
-W )ok ii. THE EARTH.
-
-First the proud Gnome his shining lance impell'd,
-
-Which pierced, resistless, Pyros* blazing shield,
-
-Drove thro' his crimson corslet and his vest,
-
-But melted ere it reached the monarch's breast.
-
-Next Fire's brave king; but, guiltless of a wound,
-
-The spear at distance quiver'd in the ground:
-
-He Pyrapblectos drew, his wondrous blade,*
-
-In eardi's most secret cells by magic made,
-
-By fire intense, unquenchable, illum'd,
-
-For ever burning, ever unconsum'd.
-
-Full on Albruno's head the blow descends, (500
-
-And from his helm the glittering crest it rends;
-
-While faint, and staggering o'er the plain, he felt
-
-The mighty prowess which the blow had dealt;
-
-Loose on his nerveless arm his shield was slung,
-
-And o'er his eyes the mists of darkness hung.
-
-Against his breast now Pyros aims his sword,
-
-His faithful Gnomes stood trembling for their lord.
-
-Nought now can save him — Yes! the gift of love,
-
-The snow-white scarf by Amiantha wove,"
-
-Unpierc'd repels the thrice repeated blow, 6
-
-And foils the vengeance of his furious foe.
-
-* nVpa^AEKTo?, pyraphiectos, burning, but not consumed by fire.
-
-
-
-82 THE EARTH. book ii .- .
-
-Recovering now, again Albruno sway'd
-With firmer grasp his adamantine blade.
-With equal strength, and nYd with equal rage,
-In fiercer fight the rival chiefs engage,
-The blows to shun, alike they turn, they bend,
-And swifter now the weighty strokes descend:
-Loud clash'd their arms, and from their falchions bright,
-Shields, helms, and corslets, stream'd the dazzling light-
-But Oreichalcon chose this moment dire,
-To lead his troops to join the powers of fire;
-Sublime, upon his burnish'd steed he rode,
-That steed which erst the Tartar King * bestrode:
-Which, at his master's bidding, soars on high,
-And treads the trackless azure of the sky,
-Skims the bright surface of the emerald wave,
-Or sinks from sight to earth's most secret cave.
-In regal pomp the Gnome his band precedes,
-Behind, his troops the recreant Chalcos leads.
-Wondring they find, to check their swift advance,
-The expected friends extend the hostile lance,
-Surprized, they scarcely raise the guardian shield,
-And vanquish'd numbers spread th' ensanguin'd field;
-
-
-
-hook ii. THE EARTH. S3
-
-But on his flying steed the Gnome arose, }
-
-And floating o'er the fight, with ceaseless blows, &gt;
-
-Now here, now there, assails the unwary foes; j
-
-First fell Pyrauges, in his brilliant course
-
-Crush'd by the fury of the magic horse;
-
-Pierc'd by his spear, the brave Perustos died,
-
-His brazen falchion cleft Aleinos' side,
-
-But vain his valour; to his crimes decreed,
-
-Justice meanwhile prepared the traitor's meed,
-
-Pyrobios gave the wound; his arms no more
-
-Their golden glow and soft effulgence wore,
-
-Or vied with Chrysos — like his dusky sire,
-
-They shew the dark red hue of fading fire;*
-
-In vain on high he turn'd his brazen steed,
-
-In vain he urged enchantment's arrowy speed,"
-
-As swiftly Phlogos, with dilated size,
-
-And lifted lance, pursues his trembling prize, 6.30
-
-Arrests his flight, and, with resistless force,
-
+[^47]: Advantage is here taken of the flexibility of the asbestos to give a little variety to the costume.
+
+They met; and long unmov’d Asbestos bore<br>
+The utmost efforts of the fiery power,<br>
+Long seem’d almost the victor, till at length<br>
+So fierce a contest wasted all his strength:<br>
+He fell; a deadly pale his features wore,<br>
+White as the stones on Santorina’s shore.[^48]<br>
+For Conquest from her sapphire throne on high,<br>
+Long wont on him to cast a partial eye,<br>
+In love still fickle as a mortal maid,<br>
+In all her glory Pyros now array’d.<br>
+Delusive flatterer! didst thou only come<br>
+To dress a lovelier victim for the tomb?<br>
+Didst thou Abestos’ fame and prowess raise,<br>
+To add new glories to his rival’s praise?
+
+[^48]: The pumices of the island of Santorine and others appear from analysis to have originated in the combustion of asbestos, and the refractory nature of that mineral proves the great potency of the volcanic fire which has produced them.
+
+Ah! think how deep will be his sovereign’s sighs,<br>
+What tears will burst from Amiantha’s eyes,<br>
+What grief will sadden all his kindred train,<br>
+Who ne’er shall look upon his like again!”
+
+While Pyros thus the conquer’d legions slew,<br>
+The rival king his bravest bands o’erthrew,<br>
+And many a sprite of fire in death deplor’d<br>
+Albruno’s prowess, and his absent lord.<br>
+Brave Dalos first; for vanquish’d in the strife,<br>
+His stiffening breast resign’d the flame of life.<br>
+Next Spodos, but no better fate he found,<br>
+His mangled limbs were scatter’d on the ground.<br>
+Their lot next Causimos and Anthrax share;<br>
+And now to meet him march the valiant pair,<br>
+Phlegon and Thermos, of illustrious race,<br>
+Cut with Pyrodes share their friends’ disgrace.<br>
+Now with Ignicomus in fight he stood,<br>
+His arm at length the fainting sprite subdued.<br>
+Swift was Pyrenemos, but swift in vain,<br>
+Albruno’s lance transfix’d him to the plain;<br>
+As vain Pyrigenes, thy strength, thy pride,<br>
+And vaunted lineage to thy king allied.<br>
+Next came Micante, bold but lovely maid,<br>
+Her graceful form in glittering arms array’d;<br>
+By proud Albruno’s sword her father died,<br>
+She dropt no tender tear, nor shriek’d, nor sigh’d,<br>
+But from her limbs she tore the flowing vest,<br>
+And seized his plated mail, and nodding crest,<br>
+“Be mine,” she cried, “the warrior’s stern attire,<br>
+Until I perish, or avenge my sire!”<br>
+Albruno’s mightier arm her lance defies,<br>
+Soon at his feet the lovely victim lies,<br>
+And death in darkness clos’d her radiant eyes.<br>
+Pyraustes flew to save, but flew too late,<br>
+He fell, and shared his loved Micante’s fate.
+
+But now a straggler from the routed band<br>
+Reveal’d the deeds of Pyros’ slaught’ring hand;<br>
+Much mourn’d the king Abestos’, Calcios’ doom,<br>
+And hastes to save the living from the tomb.<br>
+Alike Albruno’s glories Pyros knew,<br>
+To aid his troops with equal haste he flew;<br>
+On fierce Albruno came — to meet the sprite<br>
+The fiery monarch rushes to the fight;<br>
+On either side their hosts the war suspend,<br>
+And eyes and ears in breathless silence bend.<br>
+First the proud Gnome his shining lance impell’d,<br>
+Which pierced, resistless, Pyros’ blazing shield,<br>
+Drove thro’ his crimson corslet and his vest,<br>
+But melted ere it reached the monarch’s breast.<br>
+Next Fire’s brave king; but, guiltless of a wound,<br>
+The spear at distance quiver’d in the ground:<br>
+He Pyraphlectos drew, his wondrous blade,[^49]<br>
+In earth’s most secret cells by magic made,<br>
+By fire intense, unquenchable, illum’d,<br>
+For ever burning, ever unconsum’d.<br>
+Full on Albruno’s head the blow descends,<br>
+And from his helm the glittering crest it rends;<br>
+While faint, and staggering o’er the plain, he felt<br>
+The mighty prowess which the blow had dealt;<br>
+Loose on his nerveless arm his shield was slung,<br>
+And o’er his eyes the mists of darkness hung.<br>
+Against his breast now Pyros aims his sword,<br>
+His faithful Gnomes stood trembling for their lord.<br>
+Nought now can save him — Yes! the gift of love,<br>
+“The snow-white scarf by Amiantha wove,”<br>
+Unpierc’d repels the thrice repeated blow,<br>
+And foils the vengeance of his furious foe.<br>
+
+[^49]: Πυραφλεκτος, *pyraphlectos*, burning, but not consumed by fire.
+
+Recovering now, again Albruno sway’d<br>
+With firmer grasp his adamantine blade.<br>
+With equal strength, and fir’d with equal rage,<br>
+In fiercer fight the rival chiefs engage,<br>
+The blows to shun, alike they turn, they bend,<br>
+And swifter now the weighty strokes descend:<br>
+Loud clash’d their arms, and from their falchions bright,<br>
+Shields, helms, and corslets, stream’d the dazzling light.
+
+But Oreichalcon chose this moment dire,<br>
+To lead his troops to join the powers of fire;<br>
+Sublime, upon his burnish’d steed he rode,<br>
+That steed which erst the Tartar King[^50] bestrode:<br>
+Which, at his master’s bidding, soars on high,<br>
+And treads the trackless azure of the sky,<br>
+Skims the bright surface of the emerald wave,<br>
+Or sinks from sight to earth’s most secret cave.<br>
+In regal pomp the Gnome his band precedes,<br>
+Behind, his troops the recreant Chalcos leads.<br>
+Wondring they find, to check their swift advance,<br>
+The expected friends extend the hostile lance,<br>
+Surprized, they scarcely raise the guardian shield,<br>
+And vanquish’d numbers spread th’ ensanguin’d field;<br>
+But on his flying steed the Gnome arose,<br>
+And floating o’er the fight, with ceaseless blows,<br>
+Now here, now there, assails the unwary foes;<br>
+First fell Pyrauges, in his brilliant course<br>
+Crush’d by the fury of the magic horse;<br>
+Pierc’d by his spear, the brave Perustos died,<br>
+His brazen falchion cleft Aleinos’ side,<br>
+But vain his valour; to his crimes decreed,<br>
+Justice meanwhile prepared the traitor’s meed,<br>
+Pyrobios gave the wound; his arms no more<br>
+Their golden glow and soft effulgence wore,<br>
+Or vied with Chrysos — like his dusky sire,<br>
+They shew the dark red hue of fading fire;[^51]<br>
+In vain on high he turn’d his brazen steed,<br>
+In vain he urged “enchantment’s arrowy speed,”<br>
+As swiftly Phlogos, with dilated size,<br>
+And lifted lance, pursues his trembling prize,<br>
+Arrests his flight, and, with resistless force,<br>
 Destroys at once the rider and the horse.
+
+[^50]: Cambuscan.
+
+[^51]: The zinc, which gives to brass its yellow colour, flies off at a much lower temperature than the copper.
 
 Now Chalcos came; contending passions swell'd
 His labouring bosom, and his arm impell'd:
-
-* The zinc, which gives to brass its yellow colour, flies off at a much
-lower temperature than the copper.
-
-
-
-84 THE EARTH. book ii.
-
 Now on his shuddering view his treason broke,
 
 And conscience, with her thousand stings, awoke:
