@@ -1665,52 +1665,37 @@ With inward fear the rash beholder fill’d,<br>
 Round a bright orb of silver radiance, roll’d<br>
 The volum’d smoke in many a snaky fold.
 
-Meanwhile the argillaceous bands oppose
-A serried phalanx to their fiery foes,
-Who, swift as glancing arrows, scour the plain,
-Their lines unbroke, the fierce assault sustain,
-Till to the charge the impetuous Pyros came,
-On his fierce courser, born of wind and flame,
-Of old, by poets sung, and Rabican his name.*
-With all his force his flaming lance he cast,
-The troops divide, the weapon harmless past.
-
-The monarch rush'd between, in vain they close, J
-
-His rapid steed the astonish'd ranks o'erthrows: V
-
-His lance regain'd, alone, mid countless foes,
-
-Speeds the victorious chieftain; in alarm,
-The Gnomes affrighted, fly his potent arm;
-His spear resistless spreads destruction round,
-And vanquished heroes strew the smoking ground.
-When brave Stypterion cheer'd his generous band,
+Meanwhile the argillaceous bands oppose<br>
+A serried phalanx to their fiery foes,<br>
+Who, swift as glancing arrows, scour the plain,<br>
+Their lines unbroke, the fierce assault sustain,<br>
+Till to the charge the impetuous Pyros came,<br>
+On his fierce courser, born of wind and flame,<br>
+Of old, by poets sung, and Rabican his name.[^43]<br>
+With all his force his flaming lance he cast,<br>
+The troops divide, the weapon harmless past.<br>
+The monarch rush’d between, in vain they close,<br>
+His rapid steed the astonish’d ranks o’erthrows:<br>
+His lance regain’d, alone, mid countless foes,<br>
+Speeds the victorious chieftain; in alarm,<br>
+The Gnomes affrighted, fly his potent arm;<br>
+His spear resistless spreads destruction round,<br>
+And vanquished heroes strew the smoking ground.<br>
+When brave Stypterion cheer’d his generous band,<br>
 Who pale with shame and rage inactive stand:
 
+[^43]: See Ariosto.
 
-
-I
-
-
-
-}
-
-
-
-book ii. THE EARTH,
-
-All is not lost, my comrades, turn and face
-
-Your foes — redeem the glory of your race!
-'Twas not for this we claim'd this honour'd post,
-Awhile let Pyros triumph, while his host
-'* Shall feel our veugeance, and redeem our boast;
-Our boast, the longest to contest the field,
-The first to conquer, but the last to yield."
-So spake the indignant chief, and as he spoke,
-At Pericautheis aim'd a mortal stroke;
-Again, in firmer lines, his squadrons close,
+“All is not lost, my comrades, turn and face<br>
+Your foes — redeem the glory of your race!<br>
+’Twas not for this we claim’d this honour’d post,<br>
+Awhile let Pyros triumph, while his host<br>
+Shall feel our veugeance, and redeem our boast;<br>
+Our boast, the longest to contest the field,<br>
+The first to conquer, but the last to yield.”<br>
+So spake the indignant chief, and as he spoke,<br>
+At Pericautheis aim’d a mortal stroke;<br>
+Again, in firmer lines, his squadrons close,<br>
 And brave the impetuous onset of their foes.
 
 But fate still guided Pyros' conquering spear,
