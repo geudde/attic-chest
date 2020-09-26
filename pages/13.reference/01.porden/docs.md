@@ -1228,102 +1228,76 @@ And wait their onset with our force entire?<br>
 Weigh well these projects; then let each suggest<br>
 The genuine dictates of his faithful breast.”
 
-Albruno ceased — and Chrysos next arose;
-A golden circle wreath'd his reverend brows;
-In finest robes of beaten gold he shone
-The splendid " Monarch of Peruvia's throne;"
-His various talents, and his worth long tried,
-His faithful mind and virtue unalloyed,
-Had made him long Albruuo's friendship share,
-Dear to the sovereign, to the nation dear;
-Tho' Oreichalcon now, with flattering art,
-Had from the sage estranged the monarch's heart.
+Albruno ceased — and Chrysos next arose;<br>
+A golden circle wreath’d his reverend brows;<br>
+In finest robes of beaten gold he shone<br>
+The splendid “Monarch of Peruvia’s throne;”<br>
+His various talents, and his worth long tried,<br>
+His faithful mind and virtue unalloyed,<br>
+Had made him long Albruno’s friendship share,<br>
+Dear to the sovereign, to the nation dear;<br>
+Tho’ Oreichalcon now, with flattering art,<br>
+Had from the sage estranged the monarch’s heart.
 
-In the first ages of man's fleeting race,
-When all was social amity and peace,*
-Her richest fruits when earth spontaneous gave,
-And bade unsown the yellow harvests wave,
-Ere wintry storms defaced the lovely land,
-Or sunk the streams in summer's arid sand,
-When mild the gales, and soft the genial showers,
-And spring perpetual led the laughing hours,
+In the first ages of man’s fleeting race,<br>
+When all was social amity and peace,[^25]<br>
+Her richest fruits when earth spontaneous gave,<br>
+And bade unsown the yellow harvests wave,<br>
+Ere wintry storms defaced the lovely land,<br>
+Or sunk the streams in summer’s arid sand,<br>
+When mild the gales, and soft the genial showers,<br>
+And spring perpetual led the laughing hours,<br>
 
+[^25]: Gold was in all probability the first metal discovered, as it is much more frequently found native than any of the others, and if so, the age of gold, the age of silver, &amp;c. have probably derived their names not so much from any supposed alteration in the state or character of man, as from the discovery of the metals whose name they bear. *Davy’s Lectures*.
 
+He graced the earth; then virtue reign’d alone,<br>
+And vice, not even in her name was known;<br>
+And oft, while kindling with his theme, the sage<br>
+Has sung enraptured, of “the Golden Age.”
 
-* Gold was in all probability the first metal discovered, as it is much more
-frequently found native than any of the others, and if so, the age of gold,
-the age of silver, &amp;c. have probably derived their names not so much from
-any supposed alteration in the state or character of man, as from the disco-
-very of the metals whose name they bear. Davy's Lectures.
+On Chrysos’ accents hung the attentive crowd,<br>
+While from his lips the words of wisdom flow’d:
 
-E 4
+“At this dire crisis, when on every hand<br>
+Unnumber’d foes our vigilance demand,<br>
+When one rash act, or one short moment lost,<br>
+May give our kingdom to a conquering host,<br>
+Hard is the task the helm of state to guide,<br>
+To pause destructive, dangerous to decide;<br>
+Yet let us rather shun the storm of fate,<br>
+Than meet, unguarded, its collected weight.<br>
+Across the path, by which the watry line<br>
+Along our confines march, their friends to join,<br>
+Let Oros, of primeval rock, oppose<br>
+A massy rampart to these furious foes;<br>
+This powerful barrier shall for many an age<br>
+Resist unmov’d Marino’s utmost rage;<br>
+And should the chances of the war require,<br>
+Will long repel the fierce attacks of fire;<br>
+A band of chosen warriors station’d there,<br>
+May every pass defend, and every breach repair.<br>
+Asbestos may the fiery war maintain,<br>
+And here our king his greatest force retain,<br>
+To guard the threat’ned Veil, and either chief sustain,<br>
+Such is the counsel, to my faithful breast<br>
+That long experience dictates as the best.”
 
+He spoke: and Oreichalcon then replied,<br>
+Whose pleasing arts his inward treachery hide;<br>
+Like radiant Chrysos in his garb and face,<br>
+But differing far in merit, and in race,<br>
+His spirit proud would regal honours claim,<br>
+As tho’ of Chrysos’ ancient line he came;<br>
+His air of candour, and his specious gloze,<br>
+Could e’en on Chrysos’ reverend age impose.<br>
+His own, and monarch’s praise, while thus he sung,<br>
+With plaudits oft the vaulted chamber rung,<br>
+Which echoing thro’ the gloomy caverns round,<br>
+To anxious Henry seem’d the thunder’s sound.
 
-
-56 THE EARTH. book ii.
-
-He graced the earth • then virtue reign'd alone,
-And vice, not even in her name was known;
-And oft, while kindling with his theme, the sage
-Has sung enraptured, of " the Golden Age."
-
-On Chrysos' accents hung the attentive crowd, 12Q
-While from his lips the words of wisdom flow'd:
-
-" At this dire crisis, when on every hand
-" Unnumber'd foes our vigilance demand,
-" When one rash act, or one short moment lost,
-" May give our kingdom to a conquering host,
-" Hard is the task the helm of state to guide,
-'* To pause destructive, dangerous to decide;
-" Yet let us rather shun the storm of fate,
-" Than meet, unguarded, its collected weight.
-(t Across the path, by which the watry line 130
-
-" Along our confines march, their friends to join,
-" Let Oros, of primeval rock, oppose
-" A massy rampart to these furious foes;
-" This powerful barrier shall for many an age
-(( Resist unmov'd Marino's utmost rage;
-" And should the chances of the war require,
-f Will long repel the fierce attacks of fire;
-
-
-
-hook ir. THE EARTH. 57
-
-" A band of chosen warriors station'd there,
-•" May every pass defend, and every breach repair.
-" Asbestos may the fiery war maintain, 140~\
-
-" And here our king his greatest force retain, V
-
-" To guard the threat'ned Veil, and either chief sustain, j
-" Such is the counsel, to my faithful breast
-u That Jong experience dictates as the best."
-
-He spoke: and Oreichalcon then replied,
-Whose pleasing arts his inward treachery hide;
-Like radiant Chrysos in his garb and face,
-But differing far in merit, and in race,
-His spirit proud would regal honours claim,
-As tho' of Chrysos' ancient line he came; 150
-
-His air of candour, and his specious gloze,
-Could e'en on Chrysos' reverend age impose.
-His own, and monarch's praise, while thus he sung,
-With plaudits oft the vaulted chamber rung,
-Which echoing thro' the gloomy caverns round,
-To anxious Henry seem'd the thunder's sound.
-
-" It grieves me much, my honour'd lord, to find
-&lt;e That when our danger needs our soundest mind,
-
-
-
-58 THE EARTH. book n.
-
-" The reverend Chrysos, who so long has shone
+“It grieves me much, my honour'd lord, to find
+That when our danger needs our soundest mind,
+The reverend Chrysos, who so long has shone
 
 " In council still the bulwark of our throne, 160
 
