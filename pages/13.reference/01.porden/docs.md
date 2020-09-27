@@ -2470,96 +2470,52 @@ With vain regret, the vanquish’d tribe obey.[^65]
 
 [^64]: See “The Three Sisters,” a tale, translated from the German. Bertha, the third daughter of the Baron,is the wife of Ufo; who, for six months, is enchanted in the form of an immense dolphin, violent and implacable, and retaining no vestige of humanity but his speech. During this time, his only amusement is in swimming round a little island, on which is built a small habitation of the clearest crystal, where his lady resides, and boils her solitary cup of coffee. The seventh month, however, restores the enchanted Ufo to his shape; he becomes a gay and powerful prince, a kind complacent husband. The lake spreads, the isle expands, Bertha’s ceil grows a splendid palace; the trout and other fishes jump out of the water, and become courtiers, and all is splendour and hilarity till the expiration of the month again condemns them to the waves. One pleasant circumstance attending this mode of life is, that Bertha, though married one-and-twenty years, and not undergoing any transformation, has, in that time, like her husband, grown only three years older.
 
-[^65]: Darwin has given a description of the salt mines at Cracow, in Poland: but our own at Northwich, near Chester, though, perhaps, not so beautiful, appear to be of greater importance, and their produce of finer quality, as it is exported even to the neighbourhood of Cracow. Mr. Holland has published a long and very interesting account of the rock-salt of Cheshire, in the first volume of the Geological Transactions. The salt is confined to the southern or central part of the Cheshire plain, and chiefly to the valley of the Weaver and its tributary streams, and is generally indicated by salt springs. At Lawton there are three beds, separated by strata of indurated clay. The first bed, at the depth of 42 yards, four feet thick; a second, 10 yards lower, 12 feet; a third, 15 yards lower, has been sunk into 24 yards, but its depth has not been ascertained. In every part of the rock are found separate crystalline concretions of muriate of soda, sometimes cubical, and sometimes in large irregular masses, usually of a greyish or milk-white colour; and possessing greater or less transparency: the salt no where appears stratified. The great body of the rock presents only a confused red mass, varied here and there by the crystalline portions. No marine exuviæ, or organic remains, or impressions, are found either in the salt, or in the argillaceous strata. In some parts where pillars, six or eight yards square, form the supports of the mine, the effect, when lighted up, is so splendid as to realize the magic palaces of Arabian fiction. Eleven or twelve mines are now worked, and from 50,000 to 60,000 tons raised annually. The greatest part is exported to Ireland, the Baltic, and Prussia; the remainder is manufactured in Cheshire.
-
-There are many other salt mines, in Spain and Portugal, in Transylvania, and in Austria, and also in Africa. The mountains and beds of salt, between Tripoli and the Pillars of Hercules, have been noticed by Herodotus, but they are not so regularly situated as he has described. He also mentions, that the inhabitants built their houses of salt, a custom they still retain. “It never rains,” he observes, “otherwise such structures could not be durable.” A sudden shower would in that country injure the houses of the inhabitants more than the wear and tear of many years. This salt, like that of Portugal, is usually of a purple colour, but that which is washed down by the dews from the mountains becomes white when it crystallizes, and loses the bitterness which usually characterizes fossil salt.
-
+[^65]: Darwin has given a description of the salt mines at Cracow, in Poland: but our own at Northwich, near Chester, though, perhaps, not so beautiful, appear to be of greater importance, and their produce of finer quality, as it is exported even to the neighbourhood of Cracow. Mr. Holland has published a long and very interesting account of the rock-salt of Cheshire, in the first volume of the Geological Transactions. The salt is confined to the southern or central part of the Cheshire plain, and chiefly to the valley of the Weaver and its tributary streams, and is generally indicated by salt springs. At Lawton there are three beds, separated by strata of indurated clay. The first bed, at the depth of 42 yards, four feet thick; a second, 10 yards lower, 12 feet; a third, 15 yards lower, has been sunk into 24 yards, but its depth has not been ascertained. In every part of the rock are found separate crystalline concretions of muriate of soda, sometimes cubical, and sometimes in large irregular masses, usually of a greyish or milk-white colour; and possessing greater or less transparency: the salt no where appears stratified. The great body of the rock presents only a confused red mass, varied here and there by the crystalline portions. No marine exuviæ, or organic remains, or impressions, are found either in the salt, or in the argillaceous strata. In some parts where pillars, six or eight yards square, form the supports of the mine, the effect, when lighted up, is so splendid as to realize the magic palaces of Arabian fiction. Eleven or twelve mines are now worked, and from 50,000 to 60,000 tons raised annually. The greatest part is exported to Ireland, the Baltic, and Prussia; the remainder is manufactured in Cheshire.<br>
+<br>
+There are many other salt mines, in Spain and Portugal, in Transylvania, and in Austria, and also in Africa. The mountains and beds of salt, between Tripoli and the Pillars of Hercules, have been noticed by Herodotus, but they are not so regularly situated as he has described. He also mentions, that the inhabitants built their houses of salt, a custom they still retain. “It never rains,” he observes, “otherwise such structures could not be durable.” A sudden shower would in that country injure the houses of the inhabitants more than the wear and tear of many years. This salt, like that of Portugal, is usually of a purple colour, but that which is washed down by the dews from the mountains becomes white when it crystallizes, and loses the bitterness which usually characterizes fossil salt.<br>
+<br>
 Mr. Bruce speaks of salt as very abundant in Abyssinia; mines are worked near Azab and at Dancali. The salt, cut into solid bricks of eight or ten
 inches long, supplies the place of our small money. A very portable currency! perhaps rather more so than the iron money of Lycurgus.
 
-Soon Henry past them, soon he hears the roar
-Of billows breaking on a distant shore.
-A rock of granite insulated rose
-Where mighty Oros' giant limbs repose,
-While stretch'd around the shore, a faithful band,
-The bold Basaltes, giant warriors, stand,
-A hardy race, and garrison the land.*
+Soon Henry past them, soon he hears the roar<br>
+Of billows breaking on a distant shore.<br>
+A rock of granite insulated rose<br>
+Where mighty Oros' giant limbs repose,<br>
+While stretch'd around the shore, a faithful band,<br>
+The bold Basaltes, giant warriors, stand,<br>
+A hardy race, and garrison the land.[^66]<br>
+To guard the opposing frontiers of the main,<br>
+Undaunted Cumos leads a countless train;<br>
+A valiant chief, but swiftly rous’d to ire,<br>
+Seldom he slept, no toil his limbs could tire.<br>
+Yet either chief a sudden slumber found,<br>
+As Henry, passing, wav’d his wand around.<br>
+Who now, to human form again restor’d,<br>
+The vast recesses of the deep explor’d.
 
 
+[^66]: Even a slight attempt to discuss the long contested theory of the formation of basaltic pillars, would far exceed the compass of a note. Perhaps both the Neptunists and Plutonists might spare their labours and renounce their alternate triumphs. The most commonly received opinion is, that the basalt, rolled in a semifluid stream from the mouth of a volcano, and coming in contact with the sea, contracts in its sudden refrigeration into the prismatic form: but unfortunately, prismatic basalt is found in many parts of the world, and even in our own island, in situations where there appear not the slightest traces of volcanic fire, and again where it would be as difficult to account for the presence of water at its formation. But perhaps these columns, though similar in appearance, may not always be alike in origin: and fire and water, separately, or in conjunction, may equally have been concerned in their production. The basalt, rendered fluid either by the agency of water or volcanic fire, and suffered slowly either to evaporate or to cool, would, by the laws of crystallization, naturally assume a regular form, and the perfection of the columns would depend on the length of time allowed in their formation.<br>
+<br>
+Saussure, in his Travels in the Alps, speaks of many sandstone rocks having a tendency to split into rhomboids. In the “Passage du Bon Homme,” he says:<br>
+<br>
+“Vers le bas de la descente on trouve des châlets que je m’étonnai de voir construits en pierres de taille, d’une forme très régulière; je demandai la raison de cette recherche, peu commune dans les montagnes, et j’appris que c’étoit la nature qui avoit fait tous les frais de cette taille. Effectivement, je trouvai un peu plus bas une profonde ravine, creusée par les eaux dans des couches d’un beau grès, qui se divise de lui-même, et que Ton voit dans sa position originelle, actuellement divisé en grands parallélépipèdes rectangles.”<br>
+<br>
+Is not this the effect of crystallization? and may it not throw some light on the formation of basaltic columns? for no one would think of referring the production of sandstone to volcanic fires.
 
-* Even a slight attempt to discuss the long contested theory of the forma-
-tion of basaltic pillars, would far exceed the compass of a note. Perhaps
-both the Neptunists and Plutonists might spare their labours and renounce
-their alternate triumphs. The most commonly received opinion is, that the
-basalt, rolled in a semifluid stream from the mouth of a volcano, and coming
-in contact with the sea, contracts in its sudden refrigeration into the prisma-
-tic form: but unfortunately, prismatic basalt is found in many parts of the
-world, and even in our own island, in situations where there appear not the
-slightest traces of volcanic fire, and again where it would be as difficult to acr
-count for the presence of water at its formation. But perhaps these columns*
-though similar in appearance, may not always be alike in origin: and fire
-and water, separately, or in conjunction, may equally have been concerned
-in their production. The basalt, rendered fluid either by the agency of wa-
-ter or volcanic fire, and suffered slowly either to evaporate or to cool, would,
-by the laws of crystallization, naturally assume a regular form, and the per-
-fection of the columns would depend on the length of time allowed in their
-formation.
-
-Saussure, in his Travels in the Alps, speaks of many sandstone rocks having
-a tendency to split into rhomboids. In the Passage du Bon Homme,'' he
-says:
-
-Vers le bas de la descente on trouve des chalets que je m'etonnai de voir
-construits en pierres de taille, d'une forme tres reguliere; je demaudai la
-raison de cette recherche, peu commune dans les montagnes, et j'appris que
-c'etoit la nature qui avoit fait tous les frais de cette taille. Effectivement,
-je trouvai un peu plus bas une profonde ravine, creusee par les eaux dans
-des couches d'un beau gres, qui se divise de lui-meme, et que Ton voit dans
-sa position originelle, actuellement divise en grands parallelepipedes rec-
-tangles."
-
-Is not this the effect of crystallization? and may it not throw some light on
-the formation of basaltic columns? for no one would think of referring the pro-
-duction of sandstone to volcanic fires.
-
-
-
-
-To guard the opposing frontiers of the main,
-
-Undaunted Cumos leads a countless train;
-
-A valiant chief, but swiftly rous'd to ire,
-
-Seldom he slept, no toil his limbs could tire.
-
-Yet either chief a sudden slumber found,
-
-As Henry, passing, wav'd his wand around.
-
-Who now, to human form again restor'd,
-
-The vast recesses of the deep explor'd.
-
-Meanwhile, the armies, still in fight engaged,
-A triple war with fiercer fury wag'd,
-Such numbers fled, such numbers strew'd the plain,
-Wondrous it were to view what hosts remain.
-In countless throngs the aquatic legions pour,
-x\nd ranks succeeding urge the ranks before,
-While, as their routed foes promiscuous fly,
-Or sink in death, fresh troops their place supply.
-It seemed, (as in creation's primal hour,)
-That earth resum'd her vivifying power;
-While the same stroke, that laid the fiery train
-Prone in the dust, revived their strength again:
-As breathing on her lamp, some careful dame
-
-At once destroys and renovates the flame,
-i
-
-
-
+Meanwhile, the armies, still in fight engaged,<br>
+A triple war with fiercer fury wag’d,<br>
+Such numbers fled, such numbers strew’d the plain,<br>
+Wondrous it were to view what hosts remain.<br>
+In countless throngs the aquatic legions pour,<br>
+And ranks succeeding urge the ranks before,<br>
+While, as their routed foes promiscuous fly,<br>
+Or sink in death, fresh troops their place supply.<br>
+It seemed, (as in creation’s primal hour,)<br>
+That earth resum’d her vivifying power;<br>
+While the same stroke, that laid the fiery train<br>
+Prone in the dust, revived their strength again:<br>
+As breathing on her lamp, some careful dame<br>
+At once destroys and renovates the flame.
 
 Still unsubdued, Silexis' bands appear,
 And bold Stypterion's lines provoke the war.
