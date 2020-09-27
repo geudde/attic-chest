@@ -1630,7 +1630,7 @@ And my glad bounty all your toils repay.”
 Albruno ceas'd, meanwhile, with loyal love,<br>
 A snow-white scarf had Amiantha wove,[^42]<br>
 Tho' thin and flexile, yet, with wondrous art,<br>
-'Twas form'd impervious to the fiery dart.<br>
+’Twas form'd impervious to the fiery dart.<br>
 Thro' the close ranks, with eager haste, she prest,<br>
 And twin'd its folds around the monarch's breast,<br>
 
@@ -2119,111 +2119,67 @@ Till safely shelter’d in their own domain.
 
 ## Book the Third
 
-
-
 ## The Escape
 
+Meanwhile, imprison’d in Cimmerian gloom,<br>
+Young Henry sate, expectant of his doom;<br>
+’Twas now the time when from the cavern far<br>
+Albruno’s chiefs their squadrons led to war;<br>
+No lightning flash’d, no thunder shook the ground,<br>
+Unbroken shade and silence reign’d around.<br>
+He sigh’d — “How long must I in darkness dwell,<br>
+The lonely tenant of this silent cell,<br>
+While to this dreary realm, through ways unknown,<br>
+Maria strays, unaided and alone!<br>
+Oh! who shall now her erring steps direct,<br>
+In fear sustain her, and from foes protect!<br>
+Or who, and soon the fatal time must come,<br>
+Oh! who shall guard her from the treacherous Gnome!<br>
+Yet still unshaken faith in Ariel’s power<br>
+Shall brace my mind to wait the eventful hour;<br>
+And here, tho’ night her thickest veil display,<br>
+Seraphic Hope shall beam a mimic day:<br>
+E’en now her radiance seems to pierce the gloom,<br>
+A sudden splendour fills the vaulted room,<br>
+Again she calls me to the realms above,<br>
+Restor’d to light, to liberty, and love.”
 
-Meanwhile, imprison'd in Cimmerian gloom,
+Not hope or fancy’s power supplied alone<br>
+The dawning light that thro’ the cavern shone,<br>
+Gave to the languid air a sudden spring,<br>
+Or shook sweet odours from the zephyr’s wing,<br>
+But clad in all the majesty of light,<br>
+Great Ariel’s self dispell’d primeval night.
 
-Young Henry sate, expectant of his doom;
+“What madness fill’d thy mind, rash youth!” he cried,<br>
+“The fort to enter, in its lord confide?<br>
+His craft in courteous phrase but half conceal’d<br>
+Too well the unaccustom’d law reveal’d.<br>
+But let not vain regret the hours consume;<br>
+Haste! quit these realms of heart-appalling gloom.<br>
+While now the Gnomes a distant war maintain,<br>
+Hence to the regions of the roaring main,<br>
+Miranda there and noble Alfred aid,<br>
+Then seek at Pyros’ court the Spanish maid;<br>
+So in Maria’s cause, their spears with thine<br>
+May grateful Alfred and Alonzo join.”
 
-'Twas now the time when from the cavern far
-
-Albruno's chiefs their squadrons led to war;
-
-No lightning flash'd, no thunder shook the ground,
-
-Unbroken shade and silence reign'd around.
-
-He sigh'd — How long must I in darkness dwell,
-
-The lonely tenant of this silent cell,
-
-While to this dreary realm, through ways unknown,
-
-Maria strays, unaided and alone!
-
-Oh! who shall now her erring steps direct,
-
-In fear sustain her, and from foes protect!
-
-
-
-98 THE ESCAPE. book hi.
-
-Or who, and soon the fatal time must come,
-
-Oh! who shall guard her from the treacherous Gnome!
-
-Yet still unshaken faith in Ariel's power
-
-Shall brace my mind to wait the eventful hour;
-
-And here, tho' night her thickest veil display,
-
-Seraphic Hope shall beam a mimic day:
-
-E'en now her radiance seems to pierce the gloom,
-
-A sudden splendour fills the vaulted room,
-
-Again she calls me to the realms above,
-
-Restor'd to light, to liberty, and love."
-
-Not hope or fancy's power supplied alone
-The dawning light that thro' the cavern shone,
-Gave to the languid air a sudden spring,
-Or shook sweet odours from the zephyr's wing,
-But clad in all the majesty of light,
-Great Ariel's self dispell'd primeval night.
-
-What madness fill'd thy mind, rash youth!he cried,
-The fort to enter, in its lord confide?
-
-His craft in courteous phrase but half conceal'd
-Too well the unaccustom'd law reveal'd.
-But let not vain regret the hours consume;
-Haste! quit these realms of heart-appalling gloom.
-
-
-
-hook nr. THE ESCAPE.
-
-While now the Gnomes a distant war maintain,
-
-Hence to the regions of the roaring main,
-
-Miranda there and noble Alfred aid,
-
-Then seek at Pyros' court the Spanish maid;
-
-So in Maria's cause, their spears with thine
-
-May grateful Alfred and Alonzo join.40
-
-He spoke; and at his touch from Henry's hands,
-Self loosen'd, dropt the adamantine bands.
-As Gnomes disguis'd, unmark'd they swiftly tread
-The caves that seem'd interminably spread;
-At length they reach'd a spacious plain; on high
-A ruby sun illum'd a sapphire sky,
-Shed on the distant hills a crimson beam,
-And shone reflected in a silver stream.
-On emerald stalks, and bright with crystal dew,
-Earth's richest gems in flowery semblance grew;
-
-The tulips there their agate leaves unfold,
-And spartium blooms in imitative gold;
-The hyacinth of amethystine hue
-Shines near the paler gentian's sapphire blue;
-And on its slender stem of glittering green,
-Aloft Hesperia's golden fruit was seen.
-
-
-
-100 THE ESCAPE. book in.
+He spoke; and at his touch from Henry’s hands,<br>
+Self loosen’d, dropt the adamantine bands.<br>
+As Gnomes disguis’d, unmark’d they swiftly tread<br>
+The caves that seem’d interminably spread;<br>
+At length they reach’d a spacious plain; on high<br>
+A ruby sun illum’d a sapphire sky,<br>
+Shed on the distant hills a crimson beam,<br>
+And shone reflected in a silver stream.<br>
+On emerald stalks, and bright with crystal dew,<br>
+Earth’s richest gems in flowery semblance grew;<br>
+The tulips there their agate leaves unfold,<br>
+And spartium blooms in imitative gold;<br>
+The hyacinth of amethystine hue<br>
+Shines near the paler gentian’s sapphire blue;<br>
+And on its slender stem of glittering green,<br>
+Aloft Hesperia’s golden fruit was seen.
 
 Thus rich Peruvia's patient sons, of old,
 Wrought in a thousand forms the ductile gold,
@@ -2557,7 +2513,7 @@ book in. THE ESCAPE.
 
 But then no more the Gnome's dark semblance wear,
 
-'Tis here thy safety, but thy danger there. '2 -10
+’Tis here thy safety, but thy danger there. '2 -10
 
 Last, take this casket; dark its surface seems,
 
@@ -2869,7 +2825,7 @@ book in. THE ESCAPE. nr
 The Sylphs retire, and trembling with affright,
 The Gnomes malignant eye the unusual light.*
 
-'Twas night's meridian; on the tranquil scene
+’Twas night's meridian; on the tranquil scene
 Pale Cynthia shed her silver ray serene,
 And scarce a zephyr breath 'd their sweets to bear
 From countless flowers that scent the Alpine air;
@@ -3474,7 +3430,7 @@ All from one common source appear'd to spring, —
 
 The jealous hatred of the fiery king.
 
-'Tis false!he cried; the maids are here, and I
+’Tis false!he cried; the maids are here, and I
 
 Will win a passage to their sight, or die."
 
@@ -3537,7 +3493,7 @@ He mark'd the change; then sunk in trance profound,
 
 And woke, where Genoa stretch'd her bay around:
 
-'Twas on a vessel's deck, prepar'd to sail,
+’Twas on a vessel's deck, prepar'd to sail,
 
 The joyful crew observe the rising gale;
 
@@ -5559,7 +5515,7 @@ Impatient Henry mourns the impending fray,
 Griev'd such a charge should thus their course delay,
 While Alfred snatch'd the gauntlet from the ground,
 And rode in haste the listed circle round,
-Come on,he cried; 'tis false! my sword shall shame
+Come on,he cried; ’tis false! my sword shall shame
 Thy recreant heart, and vindicate my fame."
 
 The signal given, they ran, but stood the stroke,
@@ -8241,7 +8197,7 @@ s
 
 How comes he here?— by whom releas'd? — and how? —
 
-His treacherous guards — but 'tis no matter now,
+His treacherous guards — but ’tis no matter now,
 
 Success is sure, and when I end the fight,
 
@@ -8878,7 +8834,7 @@ Between the Gnomes and Sylphs might discord cease,
 
 And mighty Ariel's voice confirm the peace."
 
-'Tis done,the Sylph replied: the Veil restor'd,
+’Tis done,the Sylph replied: the Veil restor'd,
 I wage no war with earth's imperial lord;
 Peace in our realms shall rest, and stretch her chain
 O'er fire's bright regions, and the azure main.
