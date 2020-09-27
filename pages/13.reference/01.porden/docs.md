@@ -2400,186 +2400,87 @@ Pure and exhaustless as the solar blaze:<br>
 This lights thy progress: swift thy course pursue,<br>
 Maria’s welfare is my care — adieu.”
 
-So swift the monarch vanish'd from his sight,
-That Henry's eye could scarcely mark his flight.
-The lamp he took — thro' many a cavern vast,
-Whose scatter'd crystals glimmer'd as he past,
+So swift the monarch vanish’d from his sight,<br>
+That Henry’s eye could scarcely mark his flight.<br>
+The lamp he took — thro’ many a cavern vast,<br>
+Whose scatter’d crystals glimmer’d as he past,<br>
+Thro’ clefts which freezing floods in rocks had made,<br>
+Or air confm’d, or struggling fires, he stray’d,<br>
+And many a vein of mineral wealth explores,<br>
+Where the rich metals slumber in their ores;<br>
+There gold’s rich purple was luxuriant seen,<br>
+And iron’s red, and copper’s brilliant green.<br>
+Oft on the earth the issuing flame reveals<br>
+The treasur’d hoard the barren soil conceals.[^62]
 
-Thro' clefts which freezing floods in rocks had made,
-Or air confm'd, or struggling fires, he stray'd,
-And many a vein of mineral wealth explores,
-Where the rich metals slumber in their ores;
-There gold's rich purple was luxuriant seen,
-And iron's red, and copper's brilliant green.
-Oft on the earth the issuing flame reveals
-The treasur'd hoard the barren soil conceals.*
-
-* Lambent flames on the surface often indicate metallic veins, particu-
+[^62]: Lambent flames on the surface often indicate metallic veins, particu-
 larly of gold, even at a considerable depth. They are supposed to arise from
 the evolution of hydrogen, or other inflammable gases, in consequence of the
 decomposition of the ore. Saussure and others mention this phenomenon.
 
+And now he past a mass of shining ore,<br>
+Whose polish’d face a silvery lustre wore,<br>
+But as, by chance, the guiding lamp he rais’d,<br>
+His lifted arm the glittering surface grazed;<br>
+Slight was the touch; and, patient of the stroke,<br>
+No fragments shiver’d from the stricken rock;<br>
+But when another night had past away,<br>
+And all the Gnomes in peaceful slumber lay,<br>
+A loud explosion shook the caves around,<br>
+The Gnomes, astonish’d, hasten’d at the sound;<br>
+Vast was the chasm, and like untempered glass,<br>
+In thousand atoms laid the broken mass.[^63]
 
+[^63]: This peculiar character is the property of a species of leaden ore, with a smooth and shining face. The slightest scratch on the surface spreads gradually through the mass, and, after some hours, it bursts with a violent explosion, and its fragments are dispersed in all directions. In one of our mines in Derbyshire, the ore is of this description. The miners scratch it slightly, in various directions, and then leave the mine, and await the explosion, which, perhaps, does not take place till two days after, and usually makes a great chasm.
 
-
-And now he past a mass of shining ore,
-Whose polish'd face a silvery lustre wore,
-
-But as, by chance, the guiding lamp he rais'd,
-His lifted arm the glittering surface grazed;
-Slight was the touch; and, patient of the stroke,
-No fragments shiver'd from the stricken rock;
-But when another night had past away,
-And all the Gnomes in peaceful slumber lay,
-A loud explosion shook the caves around,
-The Gnomes, astonish'd, hasten'd at the sound;
-Vast was the chasm, and like untempered glass,
-In thousand atoms laid the broken mass.* '2/0
-
-Now chang'd the scene — no more in solid blocks.
-Of size immense, ascend the lofty rocks;
-Disjointed, broken, every cleft contains
-Alluvial earth, and organiz'd remains.
-
-
-
-* This peculiar character is the property of a species of leaden ore, with
-a smooth and shining face. The slightest scratch on the surface spreads
-gradually through the mass, and, after some hours, it bursts with a violent ex-
-plosion, and its fragments are dispersed in all directions. In one of our
-mines in Derbyshire, the ore is of this description. The miners scratch it
-slightly, in various directions, and then leave the mine, and await the explo-
-sion, which, perhaps, does not take place till two days after, and usually
-makes a great chasm.
-
-
-
-
-The strata now proclaim their watry birth,
-
-And grasp the harder nucleus of the earth;
-
-The fragments here in mouldering ruin hurl'd,
-
-Of many a race that fill'd the early world,
-
-Where watry relics earthborn tribes surround,
-
-And tropic fruits in polar climes are found;
-
-Where bodies chang'd, a mineral lustre give,
-
-And buried forests still in coal survive;
-
-The strata now erected, now deprest,
-
-Now disappearing, now again confest,
-
-The events of unrecorded time declare,
-
+Now chang’d the scene — no more in solid blocks.<br>
+Of size immense, ascend the lofty rocks;<br>
+Disjointed, broken, every cleft contains<br>
+Alluvial earth, and organiz’d remains.<br>
+The strata now proclaim their watry birth,<br>
+And grasp the harder nucleus of the earth;<br>
+The fragments here in mouldering ruin hurl’d,<br>
+Of many a race that fill’d the early world,<br>
+Where watry relics earthborn tribes surround,<br>
+And tropic fruits in polar climes are found;<br>
+Where bodies chang’d, a mineral lustre give,<br>
+And buried forests still in coal survive;<br>
+The strata now erected, now deprest,<br>
+Now disappearing, now again confest,<br>
+The events of unrecorded time declare,<br>
 Sad monuments of elemental war.
 
 Here in calcareous rocks, vast torrents force
 The snowy bed of their impetuous course;
-Or from the fires that burn unquench'd beneath,
-Thro' narrow clefts sulphureous odours breathe.
+Or from the fires that burn unquench’d beneath,
+Thro’ narrow clefts sulphureous odours breathe.
 
-A city next he reach'd: — as crystal clear,
+A city next he reach’d: — as crystal clear,
 The ramparts high, and domes of salt appear.
 Such was the pile where lovely Bertha dwelt,
-While Ufo's form the strange enchantment felt,
-
-
-
-
-Until the seventh revolving moon restor'd
-
-Again to human shape her dolphin lord.*
-
+While Ufo’s form the strange enchantment felt,
+Until the seventh revolving moon restor’d
+Again to human shape her dolphin lord.[^64]
 Here lamps dependent mock the blaze of day,
-
 And all within the faithless walls betray.
-
-Sprightly, and high in bold Marino's grace,
-
+Sprightly, and high in bold Marino’s grace,
 His subjects once, here dwelt an active race.
+Now conquer’d by Albruno’s arms, his sway,
+With vain regret, the vanquish’d tribe obey.[^65]
 
-Now conquer'd by Albruno's arms, his sway,
+[^64]: See “The Three Sisters,” a tale, translated from the German. Bertha, the third daughter of the Baron,is the wife of Ufo; who, for six months, is enchanted in the form of an immense dolphin, violent and implacable, and retaining no vestige of humanity but his speech. During this time, his only amusement is in swimming round a little island, on which is built a small habitation of the clearest crystal, where his lady resides, and boils her solitary cup of coffee. The seventh month, however, restores the enchanted Ufo to his shape; he becomes a gay and powerful prince, a kind complacent husband. The lake spreads, the isle expands, Bertha’s ceil grows a splendid palace; the trout and other fishes jump out of the water, and become courtiers, and all is splendour and hilarity till the expiration of the month again condemns them to the waves. One pleasant circumstance attending this mode of life is, that Bertha, though married one-and-twenty years, and not undergoing any transformation, has, in that time, like her husband, grown only three years older.
 
-With vain regret, the vanquish'd tribe obey.f
+[^65]: Darwin has given a description of the salt mines at Cracow, in Poland: but our own at Northwich, near Chester, though, perhaps, not so beautiful, appear to be of greater importance, and their produce of finer quality, as it is exported even to the neighbourhood of Cracow. Mr. Holland has published a long and very interesting account of the rock-salt of Cheshire, in the first volume of the Geological Transactions. The salt is confined to the southern or central part of the Cheshire plain, and chiefly to the valley of the Weaver and its tributary streams, and is generally indicated by salt springs. At Lawton there are three beds, separated by strata of indurated clay. The first bed, at the depth of 42 yards, four feet thick; a second, 10 yards lower, 12 feet; a third, 15 yards lower, has been sunk into 24 yards, but its depth has not been ascertained. In every part of the rock are found separate crystalline concretions of muriate of soda, sometimes cubical, and sometimes in large irregular masses, usually of a greyish or milk-white colour; and possessing greater or less transparency: the salt no where appears stratified. The great body of the rock presents only a confused red mass, varied here and there by the crystalline portions. No marine exuviæ, or organic remains, or impressions, are found either in the salt, or in the argillaceous strata. In some parts where pillars, six or eight yards square, form the supports of the mine, the effect, when lighted up, is so splendid as to realize the magic palaces of Arabian fiction. Eleven or twelve mines are now worked, and from 50,000 to 60,000 tons raised annually. The greatest part is exported to Ireland, the Baltic, and Prussia; the remainder is manufactured in Cheshire.
 
-* See The Three Sisters,a tale, translated from the German. Bertha,
-the third daughter of the Baron,is the wife of Ufo; who, for six months,
-is enchanted in the form of an immense dolphin, violent and implacable,
-and retaining no vestige of humanity but his speech. During this time,
-his only amusement is in swimming round a little island, on which is
-built a small habitation of the clearest crystal, where his lady resides, and
-boils her solitary cup of coffee. The seventh month, however, restores the
-enchanted Ufo to his shape; he becomes a gay and powerful prince, a kind
-complacent husband. The lake spreads, the isle expands, Bertha's ceil grows
-a splendid palace; the trout and other fishes jump out of the water, and be-
-come courtiers, and all is splendour and hilarity till the expiration of the
-month again condemns them to the waves. One pleasant circumstance at-
-tending this mode of life is, that Bertha, though married one-and-twentj
-years, and not undergoing any transformation, has, in that time, like her hus-
-band, grown only three years older.
+There are many other salt mines, in Spain and Portugal, in Transylvania, and in Austria, and also in Africa. The mountains and beds of salt, between Tripoli and the Pillars of Hercules, have been noticed by Herodotus, but they are not so regularly situated as he has described. He also mentions, that the inhabitants built their houses of salt, a custom they still retain. “It never rains,” he observes, “otherwise such structures could not be durable.” A sudden shower would in that country injure the houses of the inhabitants more than the wear and tear of many years. This salt, like that of Portugal, is usually of a purple colour, but that which is washed down by the dews from the mountains becomes white when it crystallizes, and loses the bitterness which usually characterizes fossil salt.
 
-t Darwin has given a description of the salt mines at Cracow, in Po-
-land: but our own at Northwich, near Chester, though, perhaps, not so
-beautiful, appear to be of greater importance, and their produce of finer
-quality, as it is exported even to the neighbourhood of Cracow. Mr. Hol-
-land has published a long and very interesting account of the rock-salt of
-Cheshire, in the first volume of the Geological Transactions. The salt is
-confined to the southern or central part of the Cheshire plain, and chiefly to
-the valley of the Weaver and its tributary streams, and is generally indica-
-ted by salt springs. At Lawton there are three beds, separated by strata of
-indurated clay. The first bed, at the depth of 42 yards, four feet thick; a
-second, 10 yards lower, 12 feet; a third, 15 yards lower, he.s been sunk into
-
-
-
+Mr. Bruce speaks of salt as very abundant in Abyssinia; mines are worked near Azab and at Dancali. The salt, cut into solid bricks of eight or ten
+inches long, supplies the place of our small money. A very portable currency! perhaps rather more so than the iron money of Lycurgus.
 
 Soon Henry past them, soon he hears the roar
 Of billows breaking on a distant shore.
 A rock of granite insulated rose
 Where mighty Oros' giant limbs repose,
-
-
-
-24 yards, but its depth has not been ascertained. In every part of the rock
-are found separate crystalline concretions of muriate of soda, sometimes cu-
-bical, and sometimes in large irregular masses, usually of a greyish or milk-
-white colour; and possessing greater or less transparency: the salt no where
-appears stratified. The great body of the rock presents only a confused red
-mass, varied here and there by the crystalline portions. No marine exuviae,
-or organic remains, or impressions, are found either in the salt, or in the ar-
-gillaceous strata. In some parts where pillars, six or eight yards square,
-form the supports of the mine, the effect, when lighted up, is so splendid as
-to realize the magic palaces of Arabian fiction. Eleven or twelve mines are
-now worked, and from 50,000 to 60,000 tons raised annually. The greatest
-part is exported to Ireland, the Baltic, and Prussia; the remainder is manu-
-factured in Cheshire.
-
-There are many other salt mines, in Spain and Portugal, in Transylvania,
-and in Austria, and also in Africa. The mountains and beds of salt, between
-Tripoli and the Pillars of Hercules, have been noticed by Herodotus, but
-they are not so regularly situated as he has described. He also mentions,
-that the inhabitants built their houses of salt, a custom they still retain. It
-never rains,he observes, "otherwise such structures could not be durable."
-A sudden shower would in that country injure the houses of the inhabitants
-more than the wear and tear of many years. This salt, like that of Portugal,
-is usually of a purple colour, but that which is washed down by the dews
-4Vom the mountains becomes white when it crystallizes, and loses the bitter-
-ness which usually characterizes fossil salt.
-
-Mr. Bruce speaks of salt as very abundant in Abyssinia; mines are work-
-ed near Azab and at Dancali. The salt, cut into solid bricks of eight or ten
-inches long, supplies the place of our small money. A very portable cur-
-rency! perhaps rather more so than the iron money of Lycurgus.
-
-
-
-
 While stretch'd around the shore, a faithful band,
 The bold Basaltes, giant warriors, stand,
 A hardy race, and garrison the land.*
