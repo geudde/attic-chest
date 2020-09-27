@@ -2493,7 +2493,6 @@ As Henry, passing, wav’d his wand around.<br>
 Who now, to human form again restor’d,<br>
 The vast recesses of the deep explor’d.
 
-
 [^66]: Even a slight attempt to discuss the long contested theory of the formation of basaltic pillars, would far exceed the compass of a note. Perhaps both the Neptunists and Plutonists might spare their labours and renounce their alternate triumphs. The most commonly received opinion is, that the basalt, rolled in a semifluid stream from the mouth of a volcano, and coming in contact with the sea, contracts in its sudden refrigeration into the prismatic form: but unfortunately, prismatic basalt is found in many parts of the world, and even in our own island, in situations where there appear not the slightest traces of volcanic fire, and again where it would be as difficult to account for the presence of water at its formation. But perhaps these columns, though similar in appearance, may not always be alike in origin: and fire and water, separately, or in conjunction, may equally have been concerned in their production. The basalt, rendered fluid either by the agency of water or volcanic fire, and suffered slowly either to evaporate or to cool, would, by the laws of crystallization, naturally assume a regular form, and the perfection of the columns would depend on the length of time allowed in their formation.<br>
 <br>
 Saussure, in his Travels in the Alps, speaks of many sandstone rocks having a tendency to split into rhomboids. In the “Passage du Bon Homme,” he says:<br>
@@ -2517,169 +2516,91 @@ Prone in the dust, revived their strength again:<br>
 As breathing on her lamp, some careful dame<br>
 At once destroys and renovates the flame.
 
-Still unsubdued, Silexis' bands appear,
-And bold Stypterion's lines provoke the war.
-On great Marino rush'd, with glory fir'd,
-The dread of all, and yet by all admir'd;
-A thousand weighty strokes he dealt around,
-None dealt in vain, and death in every wound,
-While still his myriads, rank by rank impell'd,
-Rush headlong on, and throng the narrow field,
-Till pent and crush'd amid the countless train,
+Still unsubdued, Silexis’ bands appear,<br>
+And bold Stypterion’s lines provoke the war.<br>
+On great Marino rush’d, with glory fir’d,<br>
+The dread of all, and yet by all admir’d;<br>
+A thousand weighty strokes he dealt around,<br>
+None dealt in vain, and death in every wound,<br>
+While still his myriads, rank by rank impell’d,<br>
+Rush headlong on, and throng the narrow field,<br>
+Till pent and crush’d amid the countless train,<br>
 Fear strove to fly, and valour raged in vain,
 
-Still as they fight, they seem in height to grow,
-And whelm with deadlier weight the prostrate foe;
-Their forms dilated to gigantic size,
-High o'er the field the bold Hydidæ rise,
-Bear in their arms their mangled foes aloof,
-And hurl with fury at the vaulted roof;
-Confused and prest, they fight and struggle there,
-So near, their shouts disturb 'd the powers of air:
-In vain the concave with their force expands,
-Their growing bulk a wider field demands.
-At length the ribs of solid rock give way!
-They force a passage to the realms of day:
+Still as they fight, they seem in height to grow,<br>
+And whelm with deadlier weight the prostrate foe;<br>
+Their forms dilated to gigantic size,<br>
+High o’er the field the bold Hydidæ rise,<br>
+Bear in their arms their mangled foes aloof,<br>
+And hurl with fury at the vaulted roof;<br>
+Confused and prest, they fight and struggle there,<br>
+So near, their shouts disturb’d the powers of air:<br>
+In vain the concave with their force expands,<br>
+Their growing bulk a wider field demands.<br>
+At length the ribs of solid rock give way!<br>
+They force a passage to the realms of day:<br>
+The Sylphs retire, and trembling with affright,<br>
+The Gnomes malignant eye the unusual light.[^67]
 
+’Twas night’s meridian; on the tranquil scene<br>
+Pale Cynthia shed her silver ray serene,<br>
+And scarce a zephyr breath’d their sweets to bear<br>
+From countless flowers that scent the Alpine air;<br>
+Still were the hamlets in the glens below,<br>
+The flocks slept peaceful on the mountain’s brow,<br>
+When starting from the turf, in panic fear,<br>
+They clustering ran, as warn’d of danger near;[^68]<br>
 
+[^67]: Volcanic eruptions are known to be connected with the flowing of water into subterranean caverns, and therefore probably owe their origin to the contention of fire and water, and the expansive force of steam. This conjecture appears to derive strength from the Geysers, or boiling fountains of Iceland, which throw up immense columns of steam to the height of 100 feet, with such force as to sustain bodies of considerable weight, and which undoubtedly arise from an immense reservoir of water continually boiling beneath that wonderful island; that strange mixture of frost and flame, where the inhabitants of the pole and of the equator might find their accustomed temperatures without losing sight of each other. The Geysers, with the ex- ception of some springs near Bath, are the only known waters which contain silcx in solution. Sir George Mackenzie, in the account of his Travels in Iceland, has given a very interesting description of these intermittent fountains of steam, and a probable theory of their origin.<br>
+<br>
+Professor, now Sir H. Davy, has imagined volcanic eruptions to arise from the metals of the earth, which existing in a pure state, beyond the contact of air and oxygen, are suddenly inflamed at the influx of water. The conflagration thus kindled might afterwards be extended and supported by other substances.
 
+[^68]: Animals are usually observed to anticipate thunder and other such phenomena. It is probable that they are warned by some peculiarity in the atmosphere, or by some sign that escapes the notice of man.
 
-The Sylphs retire, and trembling with affright,
-The Gnomes malignant eye the unusual light.*
-
-’Twas night's meridian; on the tranquil scene
-Pale Cynthia shed her silver ray serene,
-And scarce a zephyr breath 'd their sweets to bear
-From countless flowers that scent the Alpine air;
-Still were the hamlets in the glens below,
-
-The flocks slept peaceful on the mountain's brow,
-When starting from the turf, in panic fear,
-They clustering ran, as warn'd of danger near;f
-
-
-
-* Volcanic eruptions are known to be connected with the flowing of water
-into subterranean caverns, and therefore probably owe their origin to the
-contention of fire and water, and the expansive force of steam. This conjec-
-ture appears to derive strength from the Geysers, or boiling fountains of Ice-
-land, which throw up immense columns of steam to the height of 100 feet,
-with such force as to sustain bodies of considerable weight, and which un-
-doubtedly arise from an immense reservoir of water continually boiling be-
-neath that wonderful island; that strange mixture of frost and flame, where
-the inhabitants of the pole and of the equator might find their accustomed
-temperatures without losing sight of each other. The Geysers, with the ex-
-ception of some springs near Bath, are the only known waters which contain
-silcx in solution. Sir George Mackenzie, in the account of his Travels in
-Iceland, has given a very interesting description of these intermittent foun-
-tains of steam, and a probable theory of their origin.
-
-Professor, now Sir H. Davy, has imagined volcanic eruptions to arise from
-the metals of the earth, which existing in a pure state, beyond the contact of
-air and oxygen, are suddenly inflamed at the influx of water. The confla-
-gration thus kindled might afterwards be extended and supported by other
-substances.
-
-t Animals are usually observed to anticipate thunder and other such phe-
-
-
-
-
-Their shaggy guards howl'd hideous at the sound
-
-Of low deep thunder in the hollow ground.
-
-Appal I'd, the shepherd sees a mount arise —
-
-It swells — it bursts — dense vapours veil the skies,
-
-While from the volum'd rings of smoke and flame,
-
-The noise of arms — the cries of combat came.
-
-Strange tumult rent the vault of heaven — and earth,
-
-Affrighted, trembled at her monstrous birth!
-
-As borne impetuous by their aqueous foes,
-
-Of earth and fire the mingled armies rose.
-
-The sudden flash illum'd the scene, and spread
-
-The lurid concave with a fearful red,
-
-While, by the Hydidae hurl'd, they soar on high, j
-
-A thousand blazing meteors to the sky, V
-
-That burn a moment, then descend and die. *
-
-Still from the new-form'd gulf the legions throng,
-
-And pour a flood of living fire along:
-
-Its headlong course no mounds, no barriers stay,
-
-It rolls resistless down the rapid way,
-
-Crush'd is the promise of the vernal year,
-
-The grain scarce budding in the tender ear,
-
-
-
-ncmena. It is probable that they are warned by some peculiarity in the
-atmosphere, or by some sign that escapes the notice of man.
-
-
-
-
-The prostrate vines before their fury yield,
-
-And groves of olives blaze along the field;
-
-The oaks mature, like tender saplings, fall,
-
-They melt the rock, and burst the massy wall;
-
-From slumber rous'd, the city's peaceful train
-
-Behold the falling tower, the blazing fane,
-
-Fly from their menac'd dwellings in despair,
-
-And weep, and raise their clasped hands in prayer.
-
-In vain their holiest relics are display'd!
-
-In vain a thousand saints invok'd to aid!
-
-Still with fierce rage the Sprites maintain the war,
-
-Still louder swells the battle's deafening roar,
-
-Still to the skies the fiery stream ascends,
-
-Still deepest darkness o'er the earth extends,
-
-Save the quick darting flame, that frequent broke
-
-Thro' the thick volumes of sulphureous smoke,
-
-Or the red light that glow'd along the plain,
-
-From gleaming arms, and fire's expiring train.
+Their shaggy guards howl’d hideous at the sound<br>
+Of low deep thunder in the hollow ground.<br>
+Appall’d, the shepherd sees a mount arise —<br>
+It swells — it bursts — dense vapours veil the skies,<br>
+While from the volum’d rings of smoke and flame,<br>
+The noise of arms — the cries of combat came.<br>
+Strange tumult rent the vault of heaven — and earth,<br>
+Affrighted, trembled at her monstrous birth!<br>
+As borne impetuous by their aqueous foes,<br>
+Of earth and fire the mingled armies rose.<br>
+The sudden flash illum’d the scene, and spread<br>
+The lurid concave with a fearful red,<br>
+While, by the Hydidae hurl’d, they soar on high,<br>
+A thousand blazing meteors to the sky,<br>
+That burn a moment, then descend and die.<br>
+Still from the new-form’d gulf the legions throng,<br>
+And pour a flood of living fire along:<br>
+Its headlong course no mounds, no barriers stay,<br>
+It rolls resistless down the rapid way,<br>
+Crush’d is the promise of the vernal year,<br>
+The grain scarce budding in the tender ear,<br>
+The prostrate vines before their fury yield,<br>
+And groves of olives blaze along the field;<br>
+The oaks mature, like tender saplings, fall,<br>
+They melt the rock, and burst the massy wall;<br>
+From slumber rous’d, the city’s peaceful train<br>
+Behold the falling tower, the blazing fane,<br>
+Fly from their menac’d dwellings in despair,<br>
+And weep, and raise their clasped hands in prayer.<br>
+In vain their holiest relics are display’d!<br>
+In vain a thousand saints invok’d to aid!<br>
+Still with fierce rage the Sprites maintain the war,<br>
+Still louder swells the battle’s deafening roar,<br>
+Still to the skies the fiery stream ascends,<br>
+Still deepest darkness o’er the earth extends,<br>
+Save the quick darting flame, that frequent broke<br>
+Thro’ the thick volumes of sulphureous smoke,<br>
+Or the red light that glow’d along the plain,<br>
+From gleaming arms, and fire’s expiring train.
 
 But Ariel now from rescued Henry flew,
 And pierced the distant heaven's ethereal blue:
 Above the clouds, he reach'd his throne of light,
 Whence half the globe expands beneath his sight;
-i
-
-
-
-
 (That wondrous throne, where Scandinavia's race
 
 Their fabled god, their barbarous Odin place;)*
@@ -6435,7 +6356,7 @@ much investigation.
 
 224 STROMBOLI. book v
 
-Heaven's vengeance has destroy 'd the guilty fair, ^
+Heaven's vengeance has destroy’d the guilty fair, ^
 
 And let our voices rise in earnest prayer, ^
 
@@ -6508,7 +6429,7 @@ Propitious power! till now my friend and guide,
 
 (t Oh! aid my progress here!Alonzo cried.
 
-He spoke; a sudden gale refresh 'd the air,
+He spoke; a sudden gale refresh’d the air,
 
 And mighty Boreas hasten'd at his pray'r;
 
@@ -6660,7 +6581,7 @@ And mournful eye a fruitless suit declare,
 In vain she strove by prayers her Veil to gain,
 And mild Spinthera urg'd her lord in vain,
 Sternly he frown'd, but when the knights he saw,
-His alter'd looks betray 'd surprize and awe;
+His alter'd looks betray’d surprize and awe;
 His glowing form and glaring eyes exprest
 The increasing storm that struggled in his breast,
 o
@@ -6690,7 +6611,7 @@ Promptly avenge your lord's insulted throne,
 And let their lives their rash attempt atone!"
 
 The monarch spoke; while, chafed with inward ire,
-His nostrils breath'd, his eyeballs flash 'd with fire;
+His nostrils breath'd, his eyeballs flash’d with fire;
 Brave Henry rais'd the visor from his brow,
 And thus replied, in words sedate and slow:
 
@@ -7684,7 +7605,7 @@ He ceas'd; the lingering ray of hope was fled,
 Which, while he spoke, sustain'd the anxious maid;
 Senseless she fell, but Chrysos rais'd the dame,
 And, at his bidding, Amiantha came,
-Long o'er the nymph employ 'd her care in vain,
+Long o'er the nymph employ’d her care in vain,
 Before she woke to life and woe again.
 
 Meanwhile, Albruno mark'd the feeling strong
