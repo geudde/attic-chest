@@ -2755,10 +2755,10 @@ Unfading spring and equal warmth are ours;<br>
 And when the moon deserts your dreary night,<br>
 Our living lamps supply a softer light. — [^71]
 
-[^71]: The inhabitants of the sea are usually depicted by poets as far exceeding in wealth and splendour the denizens of earth.
-
-Water is a very bad conductor of heat, whence the beams of the sun must play upon its surface long before their influence penetrates to the interior; and, from its peculiar law of density, it must be equally long before the influence of cold can be severely felt at any great depth. The bottom of the sea must therefore be much more equal in its temperature than the surface of the earth. Its temperature is probably nearly as low as 42° of Fahrenheit, that at which water acquires its greatest density. The specific gravity of all other bodies, fluid or solid, increases in regular progression with the abstraction of heat, but water, which contracts in bulk down to 42°, afterwards again expands, and is, at 32°, the point of congelation, specifically lighter. A cold breeze blowing over the ocean soon cools the upper stratum of water to 42°, and renders it heavier than those below. It sinks, and another warmer and lighter usurps its place; this becoming cool, in its turn again descends, and the process continues till the whole body of water becomes cooled to 42°, and congelation commences at the surface. From this peculiar law, that no part of a body of water can freeze until the whole mass be cooled down to 42°, many tracts of ocean, that would otherwise be impassable half the year, are hardly ever frozen, and the congealed surface itself serves as a protection to the interior.
-
+[^71]: The inhabitants of the sea are usually depicted by poets as far exceeding in wealth and splendour the denizens of earth.<br>
+<br>
+Water is a very bad conductor of heat, whence the beams of the sun must play upon its surface long before their influence penetrates to the interior; and, from its peculiar law of density, it must be equally long before the influence of cold can be severely felt at any great depth. The bottom of the sea must therefore be much more equal in its temperature than the surface of the earth. Its temperature is probably nearly as low as 42° of Fahrenheit, that at which water acquires its greatest density. The specific gravity of all other bodies, fluid or solid, increases in regular progression with the abstraction of heat, but water, which contracts in bulk down to 42°, afterwards again expands, and is, at 32°, the point of congelation, specifically lighter. A cold breeze blowing over the ocean soon cools the upper stratum of water to 42°, and renders it heavier than those below. It sinks, and another warmer and lighter usurps its place; this becoming cool, in its turn again descends, and the process continues till the whole body of water becomes cooled to 42°, and congelation commences at the surface. From this peculiar law, that no part of a body of water can freeze until the whole mass be cooled down to 42°, many tracts of ocean, that would otherwise be impassable half the year, are hardly ever frozen, and the congealed surface itself serves as a protection to the interior.<br>
+<br>
 Many of the smaller tribes of marine animals are luminous in the night, and their light may be useful at depths which the sun’s rays hardly penetrate.
 
 I speak in vain — thy thoughts for ever stray<br>
@@ -2796,95 +2796,66 @@ She ne’er shall be Marino’s bride — nor thine.<br>
 To frame a deeper snare I seek my cave.”<br>
 She spoke, and plunged indignant in the wave.
 
-Alfred scarce gone, Alonzo hears the alarms
-Of earnest fight, and sees the gleam of arms;
-Advancing to the spot, he viewed his friend
+Alfred scarce gone, Alonzo hears the alarms<br>
+Of earnest fight, and sees the gleam of arms;<br>
+Advancing to the spot, he viewed his friend<br>
+With two strong knights on noble steeds contend;<br>
+And now the first his manly arm has slain,<br>
+Who still in dying grasp’d his courser’s rein,<br>
+While, faint with wounds, the victor prest the plain;<br>
+Yet begs Alonzo, with his latest breath,<br>
+To guard Miranda, and avenge his death.<br>
+He mounts the vacant steed — The stranger knight<br>
+Turns his swift courser and declines the fight.<br>
+He flies — Alonzo follows. — As he flew,<br>
+His spear the Spaniard at the caitiff threw,<br>
+When, lo! in flames he vanish’d from his view;<br>
+He leaves his steed, and seeks his spear — in vain.<br>
+Nor spear, nor steed, Alonzo finds again.<br>
+Bewilder’d in the gloom, no path to guide<br>
+Thro’ shades that spread alike on every side,<br>
+He strays, and mourns his hopes by magic crost,<br>
+His post deserted, and the fortress lost;<br>
+And when the morning broke, the feeble ray<br>
+No path discovered to direct his way.<br>
+Whene’er his steps pursue some seeming track,<br>
+It sinks in wood, or circling leads him back.<br>
+At length he thought, — “When first my eyes survey’d<br>
+This fort, whose fatal law my steps betray’d,<br>
+In western skies the setting orb of day<br>
+Tipt its high turrets with a lingering ray;<br>
+Dark rose its walls embattled on the sight,<br>
+And grimly frown’d amid the crimson light,<br>
+Hence westward lies the fort — that course pursu’d,<br>
+Ere long must lead me from this fatal wood.”
 
-With two strong knights on noble steeds contend;
-And now the first his manly arm has slain, "\
+Fresh hope and strength the welcome thought bestow’d,<br>
+Less thick the wood, less toilsome seem’d the road.<br>
+And soon the Castle’s rising towers he sees<br>
+O’er the high summits of the waving trees.<br>
+Arriv’d, for entrance long in vain he calls. —<br>
+The surly warder answer’d from the walls:<br>
+“No second entrance here our laws allow<br>
+To recreant warriors who forget their vow,<br>
+And leave their posts unguarded in the night; —<br>
+The maids departed with the dawning light.”
 
-Who still in dying grasp'd his courser's rein, V
+He spoke: suspicion fill’d Alonzo’s breast,<br>
+Tho’ all unwont to harbour such a guest:<br>
+His brave companions vanish’d from his sight;<br>
+Himself deluded by the magic knight;<br>
+The law unusual, which had thus remov’d<br>
+From his protecting arm the maid he loved;<br>
+All from one common source appear’d to spring, —<br>
+The jealous hatred of the fiery king.<br>
+“’Tis false!” he cried; “the maids are here, and I<br>
+Will win a passage to their sight, or die.”
 
-While, faint with wounds, the victor prest the plain; J
-Yet begs Alonzo, with his latest breath,
-To guard Miranda, and avenge his death.
-He mounts the vacant steed — The stranger knight
-Turns his swift courser and declines the fight.
-He flies — Alonzo follows. — As he flew, "\
-
-His spear the Spaniard at the caitiff threw, ^90 ^
-
-When, lo! in flames he vanish'd from his view; }
-
-He leaves his steed, and seeks his spear — in vain.
-Nor spear, nor steed, Alonzo finds again.
-Bewilder'd in the gloom, no path to guide
-Thro' shades that spread alike on every side,
-He strays, and mourns his hopes by magic crost,
-His post deserted, and the fortress lost;
-And when the morning broke, the feeble ray
-No path discovered to direct his way.
-Whene'er his steps pursue some seeming track,
-
-It sinks in wood, or circling leads him back.
-
-
-
-
-At length he thought, — When first my eyes survey'd
-
-This fort, whose fatal law my steps betray 'd,
-
-In western skies the setting orb of day
-
-Tipt its high turrets with a lingering ray;
-
-Dark rose its walls embattled on the sight,
-
-And grimly frown'd amid the crimson light,
-
-Hence westward lies the fort — that course pursued,
-
-Ere long must lead me from this fatal wood."
-
-Fresh hope and strength the welcome thought bestow'd,
-Less thick the wood, less toilsome seem'd the road.
-And soon the Castle's rising towers he sees
-O'er the high summits of the waving trees.
-Arriv'd, for entrance long in vain he calls. —
-The surly warder answer'd from the walls:
-No second entrance here our laws allow
-To recreant warriors who forget their vow,
-And leave their posts unguarded in the night; —
-The maids departed with the dawning light."
-
-He spoke: suspicion fili'd Alonzo's breast,
-
-Tho' all unwont to harbour such a guest:
-His brave companions vanish'd from his sight;
-Himself deluded by the magic knight;
-
-
-
-
-The law unusual, which had thus remov'd
-
-From his protecting arm the maid he loved;
-
-All from one common source appear'd to spring, —
-
-The jealous hatred of the fiery king.
-
-’Tis false!he cried; the maids are here, and I
-
-Will win a passage to their sight, or die."
-
-Now to the walls the wily Baron came;
-
-Sir knight,he said, your own base conduct blame;
-In vain with rage an entrance you demand,
-We scorn the prowess of a single hand.
-But come and prove, the maids no longer here,
+Now to the walls the wily Baron came;<br>
+“Sir knight,” he said, “your own base conduct blame;<br>
+In vain with rage an entrance you demand,<br>
+We scorn the prowess of a single hand.<br>
+But come and prove, the maids no longer here,<br>
 Alike unjust your anger and your fear."
 
 He ceased: — the drawbridge falls — Alonzo's mind
