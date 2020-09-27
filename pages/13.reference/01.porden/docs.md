@@ -2450,22 +2450,22 @@ Now disappearing, now again confest,<br>
 The events of unrecorded time declare,<br>
 Sad monuments of elemental war.
 
-Here in calcareous rocks, vast torrents force
-The snowy bed of their impetuous course;
-Or from the fires that burn unquench’d beneath,
+Here in calcareous rocks, vast torrents force<br>
+The snowy bed of their impetuous course;<br>
+Or from the fires that burn unquench’d beneath,<br>
 Thro’ narrow clefts sulphureous odours breathe.
 
-A city next he reach’d: — as crystal clear,
-The ramparts high, and domes of salt appear.
-Such was the pile where lovely Bertha dwelt,
-While Ufo’s form the strange enchantment felt,
-Until the seventh revolving moon restor’d
-Again to human shape her dolphin lord.[^64]
-Here lamps dependent mock the blaze of day,
-And all within the faithless walls betray.
-Sprightly, and high in bold Marino’s grace,
-His subjects once, here dwelt an active race.
-Now conquer’d by Albruno’s arms, his sway,
+A city next he reach’d: — as crystal clear,<br>
+The ramparts high, and domes of salt appear.<br>
+Such was the pile where lovely Bertha dwelt,<br>
+While Ufo’s form the strange enchantment felt,<br>
+Until the seventh revolving moon restor’d<br>
+Again to human shape her dolphin lord.[^64]<br>
+Here lamps dependent mock the blaze of day,<br>
+And all within the faithless walls betray.<br>
+Sprightly, and high in bold Marino’s grace,<br>
+His subjects once, here dwelt an active race.<br>
+Now conquer’d by Albruno’s arms, his sway,<br>
 With vain regret, the vanquish’d tribe obey.[^65]
 
 [^64]: See “The Three Sisters,” a tale, translated from the German. Bertha, the third daughter of the Baron,is the wife of Ufo; who, for six months, is enchanted in the form of an immense dolphin, violent and implacable, and retaining no vestige of humanity but his speech. During this time, his only amusement is in swimming round a little island, on which is built a small habitation of the clearest crystal, where his lady resides, and boils her solitary cup of coffee. The seventh month, however, restores the enchanted Ufo to his shape; he becomes a gay and powerful prince, a kind complacent husband. The lake spreads, the isle expands, Bertha’s ceil grows a splendid palace; the trout and other fishes jump out of the water, and become courtiers, and all is splendour and hilarity till the expiration of the month again condemns them to the waves. One pleasant circumstance attending this mode of life is, that Bertha, though married one-and-twenty years, and not undergoing any transformation, has, in that time, like her husband, grown only three years older.
