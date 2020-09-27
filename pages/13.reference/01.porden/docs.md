@@ -2325,121 +2325,80 @@ To snatch this prize from our unheeding foes?<br>
 Foiled in his art, if we the pledge regain,<br>
 The baffled Gnome may rage and storm in vain.”
 
-While thus he speaks, his eager arms he strains
-To reach the casket that the Veil contains,
-But Ariel seiz'd his arm, and flung him far:
-Desist, mad youth, nor thus destruction dare!
-Fixt by Albruno's power, this casket stands,
-
-Nor moves, nor opens at another's hands;
-W T hile touch' d by hidden springs, his snares surprize
-The unconscious wretch who seeks the fatal prize.
-Yet had its loss fulfill'd our bold design,
-Or fraud, or force, had borne it from the mine;
-But know, the casket, from his reach convey'd,
-Frees not the promise of the hapless maid,
-Himself alone, tho' gain'd by fraud his power,
+While thus he speaks, his eager arms he strains<br>
+To reach the casket that the Veil contains,<br>
+But Ariel seiz’d his arm, and flung him far:<br>
+“Desist, mad youth, nor thus destruction dare!<br>
+Fixt by Albruno’s power, this casket stands,<br>
+Nor moves, nor opens at another’s hands;<br>
+While touch’d by hidden springs, his snares surprize<br>
+The unconscious wretch who seeks the fatal prize.<br>
+Yet had its loss fulfill’d our bold design,<br>
+Or fraud, or force, had borne it from the mine;<br>
+But know, the casket, from his reach convey’d,<br>
+Frees not the promise of the hapless maid,<br>
+Himself alone, tho’ gain’d by fraud his power,<br>
 Must yield Maria, and the Veil restore.
 
-But hark! what means this sudden noise without?
-That mournful cry, and that exulting shout?
-Those varied sounds the finished fight declare,
-Haste, quit the palace, ere the Gnomes appear."
+“But hark! what means this sudden noise without?<br>
+That mournful cry, and that exulting shout?<br>
+Those varied sounds the finished fight declare,<br>
+Haste, quit the palace, ere the Gnomes appear.”
 
-
-
-
-Soon they beheld where Chrysos' faithful train
-In solemn silence bore Asbestos slain;
-With eager looks, as slow they mov'd along,
-Around the chief the anxious numbers throng,
-To mourn Asbestos, of the fight inquire,
-And learn the doom of brother, friend, or sire:
-As various fates attend them, beauty's eye
-The soft effulgence beam'd of hope and joy,
-Or shone more keenly thro her streaming tears,
-As brighter light thro' polish'd glass appears.
-By contrast heighten'd, there delight and fear,
-Despair and joy, and love and hate appear,
-As the sun's radiance on the mountain's brow
+Soon they beheld where Chrysos’ faithful train<br>
+In solemn silence bore Asbestos slain;<br>
+With eager looks, as slow they mov’d along,<br>
+Around the chief the anxious numbers throng,<br>
+To mourn Asbestos, of the fight inquire,<br>
+And learn the doom of brother, friend, or sire:<br>
+As various fates attend them, beauty’s eye<br>
+The soft effulgence beam’d of hope and joy,<br>
+Or shone more keenly thro’ her streaming tears,<br>
+As brighter light thro’ polish’d glass appears.<br>
+By contrast heighten’d, there delight and fear,<br>
+Despair and joy, and love and hate appear,<br>
+As the sun’s radiance on the mountain’s brow<br>
 In double darkness shews the glen below.
 
-Than all more fair, now Amiantha came,
-While strange forebodings agitate her frame.
-Scarce could the chief the trembling accents hear,
-That told at once her wishes and her fear;
-But while she waits his slow reply, the maid,
-With looks aghast, her brother's corse survey'd:
-She shriek'd, — then o'er him bent in silent woe,
-While grief too great forbade her tears to flow.
-
-
-
-
-On her his glistening eye brave Chrysos turn'd,
-
-The maid he pitied, and the brother mourn'd;
-
-But gathering numbers force him to declare
-
-The changeful fortunes of the fatal war:
-
-How Pyros rag'd, how Adamas had fought,
-
-What mighty deeds Albruno's prowess wrought;
-
-And here the nymph half rais'd her from the bier,
-
-And half forgot her brother's loss, to hear
-
-The glorious trophies of Albruno's spear.
-
-But when, while fortune crown'd their first desire,
-
-And from the fight their fainting foes retire,
-
-He told how false Marino's squadrons came,
-
-And whelm'd at once the hosts of earth and flame, —
-
-Then Ariel from the croud young Henry led,
-
-The war recalls me from these realms,he said;
-
-For rash Marino, either chief o'erthrown,
-
-May quit these kingdoms and assail mine own.
-
-But here thy guide, this faithful magnet, view,
-
-Still to the north thy steady course pursue,
-
-And soon shalt thou the rocky frontier gain,
-
-Where Oros guards the passage to the main.
-
-This wand in slumber shall his senses steep,
-
-And shield thee from the monsters of the deep.
-
-
-
-
-But then no more the Gnome's dark semblance wear,
-
-’Tis here thy safety, but thy danger there. '2 -10
-
-Last, take this casket; dark its surface seems,
-
-Yet it, condens'd, contains ethereal beams;
-
-This slender spring unlocks the hidden rays,
-
-Pure and exhaustless as the solar blaze:
-
-This lights thy progress: swift thy course pursue,
-
-Maria's welfare is my care — adieu."
+Than all more fair, now Amiantha came,<br>
+While strange forebodings agitate her frame.<br>
+Scarce could the chief the trembling accents hear,<br>
+That told at once her wishes and her fear;<br>
+But while she waits his slow reply, the maid,<br>
+With looks aghast, her brother’s corse survey’d:<br>
+She shriek’d, — then o’er him bent in silent woe,<br>
+While grief too great forbade her tears to flow.<br>
+On her his glistening eye brave Chrysos turn’d,<br>
+The maid he pitied, and the brother mourn’d;<br>
+But gathering numbers force him to declare<br>
+The changeful fortunes of the fatal war:<br>
+How Pyros rag’d, how Adamas had fought,<br>
+What mighty deeds Albruno’s prowess wrought;<br>
+And here the nymph half rais’d her from the bier,<br>
+And half forgot her brother’s loss, to hear<br>
+The glorious trophies of Albruno’s spear.<br>
+But when, while fortune crown’d their first desire,<br>
+And from the fight their fainting foes retire,<br>
+He told how false Marino’s squadrons came,<br>
+And whelm’d at once the hosts of earth and flame, —<br>
+Then Ariel from the croud young Henry led,<br>
+“The war recalls me from these realms, he said;<br>
+For rash Marino, either chief o’erthrown,<br>
+May quit these kingdoms and assail mine own.<br>
+But here thy guide, this faithful magnet, view,<br>
+Still to the north thy steady course pursue,<br>
+And soon shalt thou the rocky frontier gain,<br>
+Where Oros guards the passage to the main.<br>
+This wand in slumber shall his senses steep,<br>
+And shield thee from the monsters of the deep.<br>
+But then no more the Gnome’s dark semblance wear,<br>
+’Tis here thy safety, but thy danger there.<br>
+Last, take this casket; dark its surface seems,<br>
+Yet it, condens’d, contains ethereal beams;<br>
+This slender spring unlocks the hidden rays,<br>
+Pure and exhaustless as the solar blaze:<br>
+This lights thy progress: swift thy course pursue,<br>
+Maria’s welfare is my care — adieu.”
 
 So swift the monarch vanish'd from his sight,
 That Henry's eye could scarcely mark his flight.
