@@ -2778,26 +2778,23 @@ Know that the ocean cannot boast a maid<br>
 Whose birth or rank surpasses mine; and fame<br>
 May e’en to thee have borne Lymnoria’s name.”
 
-Lymnoria! false, perfidious wretch!he said,
-And turn'd indignant from the astonish'd maid.
-Yes! well Lymnoria's name and arts I know,
-Those arts, the source of all our toils and woe.
-Hence! boast my faith betrayed, and tell how long
-I madly listen'd to thy treacherous tongue."
+“Lymnoria! false, perfidious wretch!” he said,<br>
+And turn’d indignant from the astonish’d maid.<br>
+“Yes! well Lymnoria’s name and arts I know,<br>
+Those arts, the source of all our toils and woe.<br>
+Hence! boast my faith betrayed, and tell how long<br>
+I madly listen’d to thy treacherous tongue.”
 
-He spoke: — her curses followed as he flew.
-Hence, hateful wretch! may ill thy steps pursue!
-Hence to Miranda! — nay, thou need'st not fear;
-It was not love, but hate that brought me here.
-I knew Marino's mood, his jealousy
-I wish'd to rouse, and ruin her and thee.
-Tho' scorned and foiled, if wonted skill be mine,
-She ne'er shall be Marino's bride — nor thine.
-To frame a deeper snare I seek my cave."
+He spoke: — her curses followed as he flew.<br>
+“Hence, hateful wretch! may ill thy steps pursue!<br>
+Hence to Miranda! — nay, thou need’st not fear;<br>
+It was not love, but hate that brought me here.<br>
+I knew Marino’s mood, his jealousy<br>
+I wish’d to rouse, and ruin her and thee.<br>
+Tho’ scorned and foiled, if wonted skill be mine,<br>
+She ne’er shall be Marino’s bride — nor thine.<br>
+To frame a deeper snare I seek my cave.”<br>
 She spoke, and plunged indignant in the wave.
-
-
-
 
 Alfred scarce gone, Alonzo hears the alarms
 Of earnest fight, and sees the gleam of arms;
