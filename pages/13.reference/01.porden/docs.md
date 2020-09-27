@@ -3181,7 +3181,7 @@ My bark ne’er courts the breeze’s varying force,<br>
 No oars impel, no rudder guides its course,<br>
 I do but bid, at noon or night the same,<br>
 It moves unerring to its destin’d aim:<br>
-O come! our cause admits no vain delay.—<br>
+O come! our cause admits no vain delay.”—<br>
 She enter’d; swift the vessel glides away.<br>
 In silence pondering on her doubtful fate,<br>
 Beside her friend, Miranda mournful sate;<br>
@@ -3200,190 +3200,67 @@ The emerald sun diffused a milder day.<br>
 Here, as on earth, tall woods and hills ascend;<br>
 Here cities rise, and fruitful vales extend;
 
-
-
-Each flower that loves the limpid rill to drink,
-
-Or bend in beauty o'er its verdant brink,
-
-Grac'd a clear stream, whose murmuring current wound,
-
-Meandering, thro' a garden's ample bound.
-
-Of azure hue, or deck'd in golden pride,
-
-The bright Nympheas graced the sparkling tide,
-
-Numerous the tribe! a modest blush was seen
-
-O'er the fair face of Nilus' sacred queen,*
-
-Her rival, bright Nelunbia, grac'd her side,
-
-Her glowing charms in deeper crimson dyed;
-
-She blest the Samian sage, whose wise command
-
-Her embryo offspring saved from luxury's hand.f
-
-
-
-* The lotus of Egypt, sacred as the emblem of fertility, and honoured
-with the title of the Spouse of the Nile, is a large aquatic plant of the
-genus nyraphea. The. seed is made into a kind of bread and baked, and the
-root, which is round, and about the size of an apple, is also eaten.
-
-The Egyptian lotus is a very different plant from the lotus of Lybia,
-whence the lotophagi derived their name. The latter is a shrub, (a species
-of rhamnus, the rhamnus lotus of Linnjeus,) and is disseminated over the
-borders of the Great Desert, from Cyrene, round by Tripoli and Africa
-Proper, to the borders of the Atlantic, the Senegal, and the Niger. Its
-fruit is about the size of an olive, has a purple hue, and is sweet like a date.
-It is a principal article of food with the tribes bordering on the Desert; and
-the lotophagi appear to have received that name from the circumstance of
-living chiefly upon it. A kind of wine is also made from this fruit.
-
-t The nelunbiura, or sacred Indian bean, the nymphea of Linna?us, and
-
-cyamus of Dr. Smith, is a magnificent plant, and its flowers, from their size
-
-and colour, are compared by Herodotus to the rose. This plant has, like the
-
-lotus, been the theme of much controversy. Herodotus has described it as
-
-L
-
-
-
-
-At love's fond call, here Valisneria fair,*
-Her spiral stem uncurls, and floats to air;
-
-
-
-growing in the Nile, and Dioscorides has said that it abounds in Egypt, but
-no modern traveller has been able to find it there. In speaking of the root
-of this plant, which, he says, is eaten, Herodotus has probably confounded
-it with the colocasia, a plant that grows abundantly in the inundated places
-near the Nile, and produces at all seasons broad green leaves, not much un-
-like those of the nymphea lotus, but its flowers are little noticed, as the roots
-are eaten previous to the period of flowering. The nelunbium is at present
-common in India, and writers have conjectured that it may have been trans-
-planted thence into Egypt, and not being indigenous in the soil, has subse-
-quently perished. Its fruit, which Herodotus compares to a wasp's nest,
-contains numerous esculent seeds, about the size of an olive stone, and some-
-what like a bean. These, he says, are eaten, both raw and roasted. Dr. Smith
-has imagined this plant to be the real mystical bean of Pythagoras, the use
-of which that philosopher prohibited to his disciples; and supposes that he
-imbibed this notion of it in India, if ever he travelled thither, or in Egypt,
-whither it had been transplanted. This plant is held sacred by the Bramins,
-but the kernels are almost universally eaten by the Hindoos, and are said to
-be of a pleasanter flavour than almonds.
-
-* The valisneria has perhaps little right to a place with the large and spe-
-cious flowers already mentioned, but the wonderful mechanism it displays
-will always render it dear to the botanist. Valisneria is of the class dioecia,
-or two houses, having the male and female flowers on separate plants. It is
-an aquatic plant, and grows at the bottom of rivers and ponds in Norway, in
-France, in parts of Italy, and in the East Indies. The female, or fertile
-flower, has a spiral stalk which remains coiled up at the bottom of the water,
-till the flower is perfected. It then uncurls, and the flower rising floats on the
-surface. The male flowers, on the contrary, have a very short stalk, which
-breaks off close to the stem previous to their expansion, and they spring up
-to the surface. Their petals are there unfolded, and the pollen of the anthers
-is wafted on the stigma of the female flower, which being fertilized, its stalk
-coils up, and it descends again to the bottom of the water, where the seeds
-are ripened. Dr. Smith is of opinion, that if the flower be not rendered
-fertile, its stem loses its irritability, and neglects to coil itself up again. The
-male flowers, though small, are so numerous as often to cover the surface of
-the water for a considerable distance.
-
-
-
-
-Here Sagittaria points her dart of green,*
-
+Each flower that loves the limpid rill to drink,<br>
+Or bend in beauty o’er its verdant brink,<br>
+Grac’d a clear stream, whose murmuring current wound,<br>
+Meandering, thro’ a garden’s ample bound.<br>
+Of azure hue, or deck’d in golden pride,<br>
+The bright Nympheas graced the sparkling tide,<br>
+Numerous the tribe! a modest blush was seen<br>
+O’er the fair face of Nilus’ sacred queen,[^79]<br>
+Her rival, bright Nelunbia, grac’d her side,<br>
+Her glowing charms in deeper crimson dyed;<br>
+She blest the Samian sage, whose wise command<br>
+Her embryo offspring saved from luxury’s hand.[^80]<br>
+At love’s fond call, here Valisneria fair,[^81]<br>
+Her spiral stem uncurls, and floats to air;<br>
+Here Sagittaria points her dart of green,[^82]<br>
 While far above her graceful flowers are seen.
 
-Along a winding path the nymph proceeds,
+[^79]: The lotus of Egypt, sacred as the emblem of fertility, and honoured with the title of the Spouse of the Nile, is a large aquatic plant of the genus nyraphea. The. seed is made into a kind of bread and baked, and the root, which is round, and about the size of an apple, is also eaten.<br>
+<br>
+The Egyptian lotus is a very different plant from the lotus of Lybia, whence the lotophagi derived their name. The latter is a shrub, (a species of rhamnus, the rhamnus lotus of Linnæus,) and is disseminated over the borders of the Great Desert, from Cyrene, round by Tripoli and Africa Proper, to the borders of the Atlantic, the Senegal, and the Niger. Its fruit is about the size of an olive, has a purple hue, and is sweet like a date. It is a principal article of food with the tribes bordering on the Desert; and the lotophagi appear to have received that name from the circumstance of living chiefly upon it. A kind of wine is also made from this fruit.
+
+[^80]: The nelunbium, or sacred Indian bean, the nymphea of Linnæus, and cyamus of Dr. Smith, is a magnificent plant, and its flowers, from their size and colour, are compared by Herodotus to the rose. This plant has, like the lotus, been the theme of much controversy. Herodotus has described it as growing in the Nile, and Dioscorides has said that it abounds in Egypt, but no modern traveller has been able to find it there. In speaking of the root of this plant, which, he says, is eaten, Herodotus has probably confounded it with the colocasia, a plant that grows abundantly in the inundated places near the Nile, and produces at all seasons broad green leaves, not much unlike those of the nymphea lotus, but its flowers are little noticed, as the roots are eaten previous to the period of flowering. The nelunbium is at present common in India, and writers have conjectured that it may have been transplanted thence into Egypt, and not being indigenous in the soil, has subsequently perished. Its fruit, which Herodotus compares to a wasp’s nest, contains numerous esculent seeds, about the size of an olive stone, and somewhat like a bean. These, he says, are eaten, both raw and roasted. Dr. Smith has imagined this plant to be the real mystical bean of Pythagoras, the use of which that philosopher prohibited to his disciples; and supposes that he imbibed this notion of it in India, if ever he travelled thither, or in Egypt, whither it had been transplanted. This plant is held sacred by the Bramins, but the kernels are almost universally eaten by the Hindoos, and are said to be of a pleasanter flavour than almonds.
+
+[^81]: The valisneria has perhaps little right to a place with the large and spe- cious flowers already mentioned, but the wonderful mechanism it displays will always render it dear to the botanist. Valisneria is of the class dioecia, or two houses, having the male and female flowers on separate plants. It is an aquatic plant, and grows at the bottom of rivers and ponds in Norway, in France, in parts of Italy, and in the East Indies. The female, or fertile flower, has a spiral stalk which remains coiled up at the bottom of the water, till the flower is perfected. It then uncurls, and the flower rising floats on the surface. The male flowers, on the contrary, have a very short stalk, which breaks off close to the stem previous to their expansion, and they spring up to the surface. Their petals are there unfolded, and the pollen of the anthers is wafted on the stigma of the female flower, which being fertilized, its stalk coils up, and it descends again to the bottom of the water, where the seeds are ripened. Dr. Smith is of opinion, that if the flower be not rendered fertile, its stem loses its irritability, and neglects to coil itself up again. The male flowers, though small, are so numerous as often to cover the surface of the water for a considerable distance.
+
+[^82]: The flowering rush or sagittaria, so called from the dart-like shape of its
+leaves, is a plant very different from the common rush, and its flowers are often a great ornament to our shallow waters.
+
+Along a winding path the nymph proceeds,<br>
 And fair Miranda follows where she leads.
 
-Rais'd at the garden's verge, a grotto stands,
-The beauteous labour of her artful hands,
-Here all the unnumber'd treasures of the wave,
-In rich profusion, deck'd the spacious cave;
-Mid coral sprays, on beds of fuci green,
-The Mytilis and Cardium white were seen;
-Here Amnion's horn appear'd in all its pride, f
-
-(Loveliest of shells! to mortal view denied,
-Save when embosom'd in the depths of mines,
-The joy of wondering Neptunists it shines.)
-But in these regions, through its pearly throat,
-Marino's minstrels breathe the dulcet note;
-
-
-
-* The flowering rush or sagittaria, so called from the dart-like shape of its
-leaves, is a plant very different from the common rush, and its flowers are of-
-ten a great ornament to our shallow waters.
-
-t The cornua Amraonis or horn of Jove, is a very beautiful shell, of the nau-
-tilus genus. The living animal is no where found, but the shell is very com-
-mon in a fossil state. It has a pearly lustre on the outside, and the section
-exhibits a beautiful cainerated str
-
-
-
-L4
-
-
-
-
-And here its kindred Nautilus outshone*
-
-The mountain-snow, or cygnet's spotless down;
-
-An unknown inmate forms the beauteous frame,
-
-Rais'd by its bitterest foe to light and fame,
-
-His stronger arms the peaceful lord expell,
-
-He mounts triumphant to the conquered shell;
-
-Far o'er the seas the foreign pilot sails,
-
-Spreads his slight web, and courts the favouring gales,
-
-And hence, with imitative art, mankind
-
-Unfurl the swelling canvass to the wind:
-
-The subject seas Britannia's navies ride,
-
-And every wind, that sweeps the foaming tide,
-
-Wafts a rich tribute to her island throne,
-
+Rais'd at the garden's verge, a grotto stands,<br>
+The beauteous labour of her artful hands,<br>
+Here all the unnumber'd treasures of the wave,<br>
+In rich profusion, deck'd the spacious cave;<br>
+Mid coral sprays, on beds of fuci green,<br>
+The Mytilis and Cardium white were seen;<br>
+Here Amnion's horn appear'd in all its pride,[^83]<br>
+(Loveliest of shells! to mortal view denied,<br>
+Save when embosom'd in the depths of mines,<br>
+The joy of wondering Neptunists it shines.)<br>
+But in these regions, through its pearly throat,<br>
+Marino's minstrels breathe the dulcet note;<br>
+And here its kindred Nautilus outshone[^84]<br>
+The mountain-snow, or cygnet's spotless down;<br>
+An unknown inmate forms the beauteous frame,<br>
+Rais'd by its bitterest foe to light and fame,<br>
+His stronger arms the peaceful lord expell,<br>
+He mounts triumphant to the conquered shell;<br>
+Far o'er the seas the foreign pilot sails,<br>
+Spreads his slight web, and courts the favouring gales,<br>
+And hence, with imitative art, mankind<br>
+Unfurl the swelling canvass to the wind:<br>
+The subject seas Britannia's navies ride,<br>
+And every wind, that sweeps the foaming tide,<br>
+Wafts a rich tribute to her island throne,<br>
 And makes the wealth of distant worlds her own.
 
+[^83]: The cornua Ammonis or horn of Jove, is a very beautiful shell, of the nautilus genus. The living animal is no where found, but the shell is very common in a fossil state. It has a pearly lustre on the outside, and the section exhibits a beautiful camerated structure.
 
-
-• There is no shell that has acquired more celebrity than the paper nautilus,
-which is supposed to have given to man the first hint of the art of sailing. The
-tenant of this shell expanding a thin membrane to the influence of the wind,
-and at the same time moving its tentaculae, sails with rapidity over the ocean.
-I have said the tenant of this shell, for the animal usually found in it, does
-not appear to have been its builder, and neither in form nor structure corre-
-6ponds with the mansion it inhabits, or with the inhabitants of the other nau-
-tili. It is a species of cuttle fish, which probably, like the soldier crab, and
-some others, seizes the discarded shell of the nautilus, and converts it to its
-own uses. The different cameras of the shell are perfectly useless to this ani-
-mal, and could never have been formed or inhabited by it: it resides only in
-the outer chamber.
-
-Roget and Shaw's Lectures.
+[^84]: There is no shell that has acquired more celebrity than the paper nautilus, which is supposed to have given to man the first hint of the art of sailing. The tenant of this shell expanding a thin membrane to the influence of the wind, and at the same time moving its tentaculæ, sails with rapidity over the ocean. I have said the *tenant* of this shell, for the animal usually found in it, does not appear to have been its builder, and neither in form nor structure corresponds with the mansion it inhabits, or with the inhabitants of the other nautili. It is a species of cuttle fish, which probably, like the soldier crab, and some others, seizes the discarded shell of the nautilus, and converts it to its own uses. The different cameras of the shell are perfectly useless to this animal, and could never have been formed or inhabited by it: it resides only in the outer chamber. — *Roget and Shaw’s Lectures*.
 
 
 
