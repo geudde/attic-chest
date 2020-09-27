@@ -2654,245 +2654,129 @@ Where all were weaken’d, yet victorious none:<br>
 In triple truce the rival kings agreed,<br>
 And from the field their shatter’d forces lead.
 
-The Muse now quits the drear abode of night, \
-
-The clash of arms, the tumult of the fight, \
-
-For Ether's gladsome realms, and cheerful light, j
-
-Where, in the fort, the mournful maids remain,
+The Muse now quits the drear abode of night,<br>
+The clash of arms, the tumult of the fight,<br>
+For Ether’s gladsome realms, and cheerful light,<br>
+Where, in the fort, the mournful maids remain,<br>
 And Alfred and Alonzo guard the plain.
 
-Behind the eastern trees the moon was seen
-In silver lustre thro' their deep'ning green;
+Behind the eastern trees the moon was seen<br>
+In silver lustre thro’ their deep’ning green;<br>
+Now on the fort her placid radiance falls,<br>
+And gives new grandeur to the massy walls.<br>
+Bright on the view the lofty turrets rose,<br>
+While the deep shades in lengthen’d gloom repose.<br>
+His loss discover’d by the expanding light,<br>
+Now anxious Alfred seeks Maria’s knight;<br>
+For when Albruno dar’d him to the field,<br>
+A sable cloud the combatants conceal’d.<br>
+Vainly he sought, and unmolested past,<br>
+Where’er the moon her soft effulgence cast:<br>
+But where the building wrapt the ground in shade,<br>
+Forth from the gloom emerged a lovely maid.<br>
+Miranda’s seem’d the form, as veil’d in white,<br>
+She, like a phantom, burst upon his sight.<br>
+“Thus unattended, at this awful hour,<br>
+Why does Miranda quit the sheltering tower?<br>
+Front this chill air, these midnight dews, retire,<br>
+Your wearied frame must rest and sleep require.”
 
-
-
-
-Now on the fort her placid radiance falls,
-
-And gives new grandeur to the massy walls.
-
-Bright on the view the lofty turrets rose,
-
-While the deep shades in lengthen'd gloom repose.
-
-His loss discover'd by the expanding light,
-
-Now anxious Alfred seeks Maria's knight;
-
-For when Albruno dar'd him to the field,
-
-A sable cloud the combatants conceal'd.
-
-Vainly he sought, and unmolested past,
-
-Where'er the moon her soft effulgence cast:
-
-But where the building wrapt the ground in shade,
-
-Forth from the gloom emerged a lovely maid.
-
-Miranda's seem'd the form, as veil'd in white,
-
-She, like a phantom, burst upon his sight.
-
-Thus unattended, at this awful hour,
-
-Why does Miranda quit the sheltering tower?
-
-Front this chill air, these midnight dews, retire,
-
-Your wearied frame must rest and sleep require."
-
-Nor rest nor sleep are mine,the maid replies,
-While still in doubt my future prospect lies.
-Mov'd by my prayers, unnotie'd by the guard,
-A page for me a secret door unbarr'd;
-
-
-
-
-Long is our journey, and the morning ray
-
-Must find us far upon our toilsome way,
-
-Our harness'd steeds now wait beneath yon tree,
-
+“Nor rest nor sleep are mine,” the maid replies,<br>
+“While still in doubt my future prospect lies.<br>
+Mov'd by my prayers, unnotic'd by the guard,<br>
+A page for me a secret door unbarr'd;<br>
+Long is our journey, and the morning ray<br>
+Must find us far upon our toilsome way,<br>
+Our harness'd steeds now wait beneath yon tree,<br>
 So waste not time in words, but follow me."
 
-Thro' the thick covert of a lofty wood,
-The travellers long their rapid way pursued;
-At length less thick arose the leafy screen,
-And moonbeams trembled thro' the waving green.
-More thinly scatter'd, now the trees display 'd
-Less towering height, and less majestic shade;
-Now short thin grass and purple heath alone
-
-Clothe the bleak summits of the chalky down;
-And when the ocean burst upon their sight,
+Thro' the thick covert of a lofty wood,<br>
+The travellers long their rapid way pursued;<br>
+At length less thick arose the leafy screen,<br>
+And moonbeams trembled thro' the waving green.<br>
+More thinly scatter'd, now the trees display'd<br>
+Less towering height, and less majestic shade;<br>
+Now short thin grass and purple heath alone<br>
+Clothe the bleak summits of the chalky down;<br>
+And when the ocean burst upon their sight,<br>
 Its waves just trembled in the dawning light.
-Oh, haste,the maiden cried, our lingering course;
-My vessel waits.She urged her foaming horse,
-And Alfred followed. Soon the glowing skies
-Cast o'er the deep Aurora's purple dyes;
-And, as they reach'd the strand, Hyperion gave
-A golden tincture to the sparkling wave.
-But now the cock was heard, and at the sound
 
-The wanderers, hurPd astonish'd to the ground,
-
-
-
-
-Sought for their vanish' d steeds. A gentle breeze
-
-Swept the bright surface of the tranquil seas,
-
-And raised the silken scarf that screen'd with care
-
-The damsel's features from the morning air,
-
-While Alfred gazed in hope once more to prove
-
-The sweet enchantment of her looks of love;
-
-But, tho' as fair as ever painter drew,
-
-'Tvvas not Miranda's face — her eye of blue
-
-Ne'er shew'd the ungovern'd anger and despair .510
-
-That mark'd the features of the stranger fair.
-
-Sudden her voice assum'd its softest tone, -
-
-Her looks were mournful, but their rage was gone;
-
-Her bosom seem'd to struggle with a sigh,
-
+“Oh, haste,” the maiden cried, “our lingering course;<br>
+My vessel waits.” She urged her foaming horse,<br>
+And Alfred followed. Soon the glowing skies<br>
+Cast o’er the deep Aurora’s purple dyes;<br>
+And, as they reach’d the strand, Hyperion gave<br>
+A golden tincture to the sparkling wave.<br>
+But now the cock was heard, and at the sound<br>
+The wanderers, hurl’d astonish’d to the ground,<br>
+Sought for their vanish’d steeds. A gentle breeze<br>
+Swept the bright surface of the tranquil seas,<br>
+And raised the silken scarf that screen’d with care<br>
+The damsel’s features from the morning air,<br>
+While Alfred gazed in hope once more to prove<br>
+The sweet enchantment of her looks of love;<br>
+But, tho’ as fair as ever painter drew,<br>
+’Twas not Miranda’s face — her eye of blue<br>
+Ne’er shew’d the ungovern’d anger and despair<br>
+That mark’d the features of the stranger fair.<br>
+Sudden her voice assum’d its softest tone, -<br>
+Her looks were mournful, but their rage was gone;<br>
+Her bosom seem’d to struggle with a sigh,<br>
 A tear to tremble in her downcast eye.
 
-Alas! yon rising sun — too soon betray 'd,
+“Alas! yon rising sun — too soon betray’d,<br>
+My sweetest hopes are fled!” exclaim’d the maid.<br>
+“Yet stay, dear youth! and let thine heart approve,<br>
+At least my fraud forgive, the fraud of love!<br>
+And hear my prayer — yet, ah! too well I see<br>
+The cause that turns thy face in scorn from me.<br>
+Thy heart has felt the pangs that torture mine,<br>
+And all the griefs of hopeless love are thine;<br>
+For well thou know’st no force can burst the band<br>
+That with Marino’s links Miranda’s hand:<br>
+And when yon sun again begins his course,<br>
+On her the spell exerts resistless force. —<br>
+I do not speak to wound thy feeling heart,<br>
+For in each pang I bear an equal part.<br>
+Yet since thyself must own thy passion vain,<br>
+By one blest effort break the fatal chain,<br>
+And turn from her whom fate denies, to one<br>
+Who lives, and feels, and breathes for thee alone,<br>
+In me behold a daughter of the wave,<br>
+Now let me waft thee to my coral cave.<br>
+Oh! lovelier far those regions of the main<br>
+Than bards can paint, or eastern fancy feign;<br>
+Our wealth and pomp might tire a miser’s eyes;<br>
+But Alfred’s heart can wealth and pomp despise!<br>
+In those blest realms we neither feel nor fear<br>
+The seasons varying with the changing year.<br>
+With you, when summer smiles or winter lours,<br>
+Unfading spring and equal warmth are ours;<br>
+And when the moon deserts your dreary night,<br>
+Our living lamps supply a softer light. — [^71]
 
-My sweetest hopes are fled!exclaim'd the maid.
+[^71]: The inhabitants of the sea are usually depicted by poets as far exceeding in wealth and splendour the denizens of earth.
 
-Yet stay, dear youth! and let thine heart approve,
+Water is a very bad conductor of heat, whence the beams of the sun must play upon its surface long before their influence penetrates to the interior; and, from its peculiar law of density, it must be equally long before the influence of cold can be severely felt at any great depth. The bottom of the sea must therefore be much more equal in its temperature than the surface of the earth. Its temperature is probably nearly as low as 42° of Fahrenheit, that at which water acquires its greatest density. The specific gravity of all other bodies, fluid or solid, increases in regular progression with the abstraction of heat, but water, which contracts in bulk down to 42°, afterwards again expands, and is, at 32°, the point of congelation, specifically lighter. A cold breeze blowing over the ocean soon cools the upper stratum of water to 42°, and renders it heavier than those below. It sinks, and another warmer and lighter usurps its place; this becoming cool, in its turn again descends, and the process continues till the whole body of water becomes cooled to 42°, and congelation commences at the surface. From this peculiar law, that no part of a body of water can freeze until the whole mass be cooled down to 42°, many tracts of ocean, that would otherwise be impassable half the year, are hardly ever frozen, and the congealed surface itself serves as a protection to the interior.
 
-At least my fraud forgive, the fraud of love!'
+Many of the smaller tribes of marine animals are luminous in the night, and their light may be useful at depths which the sun’s rays hardly penetrate.
 
-And hear my prayer — yet, ah! too well I see
-
-The cause that turns thy face in scorn from me.
-
-Thy heart has felt the pangs that torture mine,
-
-And all the griefs of hopeless love are thine;
-
-For well thou know'st no force can burst the band
-
-That with Marino's links Miranda's hand:
-
-
-
-
-And when yon sun again begins his course,
-
-On her the spell exerts resistless force. —
-
-I do not speak to wound thy feeling heart,
-
-For in each pang I bear an equal part.
-
-Yet since thyself must own thy passion vain,
-
-By one blest effort break the fatal chain,
-
-And turn from her whom fate denies, to one
-
-Who lives, and feels, and breathes for thee alone,
-
-In me behold a daughter of the wave,
-
-Now let me waft thee to my coral cave.
-
-Oh! lovelier far those regions of the main
-
-Than bards can paint, or eastern fancy feign;
-
-Our wealth and pomp might tire a miser's eyes;
-
-But Alfred's heart can wealth and pomp despise!
-
-In those blest realms we neither feel nor fear
-
-The seasons varying with the changing year.
-
-With you, when summer smiles or winter lours,
-
-Unfading spring and equal warmth are ours;
-
-And when the moon deserts your dreary night,
-
-Our living lamps supply a softer light. — *
-
-
-
-* The inhabitants of the sea are usually depicted by poets as far exceeding
-in wealth and splendour the denizens of earth.
-
-Water is a very bad conductor of heat, whence the beams of the sun must
-play upon its surface long before their influence penetrates to the interior;
-and, from its peculiar law of density, it must be equally long before the in-
-
-
-
-
-I speak in vain — thy thoughts for ever stray
-To her in silence slumbering far away. —
-Yet come with me; this form, which you despise,
-These locks dishevell'd, and these weeping eyes,
-Shall bid an hundred knights their lances rear,
-Knights not unworthy of my Alfred's spear!
-If thou command, my words their fury rouse
-; To tear the garland from Marino's brows,
-And force the conquer'd monarch to resign
-: The envied Veil, and make Miranda thine,
-: While I retire and shun the face of day,
-; And, far from thee, in tears dissolve away. —
-
-
-
-fluence of cold can be severely felt at any great depth. The bottom of the
-sea must therefore be much more equal in its temperature than the surface of
-the earth. Its temperature is probably nearly as low as 42° of Fahrenheit,
-that at which water acquires its greatest density. The specific gravity of all
-other bodies, fluid or solid, increases in regular progression with the abstrac-
-tion of heat, but water, which contracts in bulk down to 42°, afterwards
-again expands, and is, at 32°, the point of congelation, specifically lighter.
-A cold breeze blowing over the ocean soon cools the upper stratum of water
-to 42°, and renders it heavier than those below. It sinks, and another
-warmer and lighter usurps its place; this becoming cool, in its turn again de-
-scends, and the process continues till the whole body of water becomes
-cooled to 42°, and congelation commences at the surface. From this pecu-
-liar law, that no part of a body of water can freeze until the whole mass be
-cooled down to 42°, many tracts of ocean, that would otherwise be impassa-
-ble half the year, are hardly ever frozen, and the congealed surface itself
-serves as a protection to the interior.
-
-Many of the smaller tribes of marine animals are luminous in the night,
-and their light may be useful at depths which the sun's rays hardly penetrate.
-
-
-
-
-Still dost thou doubt my truth, or scorn my aid?
-
-Know that the ocean cannot boast a maid
-
-Whose birth or rank surpasses mine; and fame
-
-May e'en to thee have borne Lymnoria's name."
+I speak in vain — thy thoughts for ever stray<br>
+To her in silence slumbering far away. —<br>
+Yet come with me; this form, which you despise,<br>
+These locks dishevell’d, and these weeping eyes,<br>
+Shall bid an hundred knights their lances rear,<br>
+Knights not unworthy of my Alfred’s spear!<br>
+If thou command, my words their fury rouse<br>
+To tear the garland from Marino’s brows,<br>
+And force the conquer’d monarch to resign<br>
+The envied Veil, and make Miranda thine,<br>
+While I retire and shun the face of day,<br>
+And, far from thee, in tears dissolve away. —<br>
+Still dost thou doubt my truth, or scorn my aid?<br>
+Know that the ocean cannot boast a maid<br>
+Whose birth or rank surpasses mine; and fame<br>
+May e’en to thee have borne Lymnoria’s name.”
 
 Lymnoria! false, perfidious wretch!he said,
 And turn'd indignant from the astonish'd maid.
