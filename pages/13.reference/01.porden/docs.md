@@ -2181,85 +2181,55 @@ Shines near the paler gentian’s sapphire blue;<br>
 And on its slender stem of glittering green,<br>
 Aloft Hesperia’s golden fruit was seen.
 
-Thus rich Peruvia's patient sons, of old,
-Wrought in a thousand forms the ductile gold,
-Bade flowers expand, and yellow harvests spread,
-And mimic woods the shining fields o'ershade.*
+Thus rich Peruvia’s patient sons, of old,<br>
+Wrought in a thousand forms the ductile gold,<br>
+Bade flowers expand, and yellow harvests spread,<br>
+And mimic woods the shining fields o’ershade.[^57]
 
-Thus in Arabian fancy's sweetest theme,
-Wove in the sunshine of her brightest dream,
-She paints the garden whence Aladdin bore
+[^57]: The Peruvians are said to have imitated in gold the productions of their soil, and to have formed artificial gardens with trees and flowers of gold, fields of maize, and granaries filled with grains of this metal.
+
+Thus in Arabian fancy’s sweetest theme,<br>
+Wove in the sunshine of her brightest dream,<br>
+She paints the garden whence Aladdin bore<br>
 The wondrous lamp, the talisman of power.
 
-Albruno's palace o'er the plain appear'd
-A splendid pile, of Parian marble rear'd;
-Four long arcades a spacious square enclose,
-On every side a high pavilion rose;
-Light pointed battlements the walls surround,
-An open dome each corner turret crown'd.
-
-Within the court, in grand array behold
-Tall minarets and cupolas of gold;
-Such are the piles the wanderer's eye that feast,
-Where fancy revels in her favourite east,
-
-
-
-* The Peruvians are said to have imitated in gold the productions of
-their soil, and to have formed artificial gardens with trees and flowers of
-gold, fields of maize, and granaries filled with grains of this metal.
-
-
-
-book in. THE ESCAPE.
-
-O'er Scythia's plains to roving Tartars shine,
-
-Or Moslems bound to Mecca's holy shrine;
-
-Or such the Indian temples, vast and grand,
-
-By Delhi's monarchs raised on Jumna's strand.
-
-Yet, oh! how small, this giant fabric near,
-
-Proud man! would all thy loftiest works appear;
-
-The Egyptian piles, Sophia's vaunted dome!
-
+Albruno’s palace o’er the plain appear’d<br>
+A splendid pile, of Parian marble rear’d;<br>
+Four long arcades a spacious square enclose,<br>
+On every side a high pavilion rose;<br>
+Light pointed battlements the walls surround,<br>
+An open dome each corner turret crown’d.<br>
+Within the court, in grand array behold<br>
+Tall minarets and cupolas of gold;<br>
+Such are the piles the wanderer’s eye that feast,<br>
+Where fancy revels in her favourite east,<br>
+O’er Scythia’s plains to roving Tartars shine,<br>
+Or Moslems bound to Mecca’s holy shrine;<br>
+Or such the Indian temples, vast and grand,<br>
+By Delhi’s monarchs raised on Jumna’s strand.<br>
+Yet, oh! how small, this giant fabric near,<br>
+Proud man! would all thy loftiest works appear;<br>
+The Egyptian piles, Sophia’s vaunted dome!<br>
 Or the famed structures of majestic Rome!
 
-One moment paused the adventurers, then in haste
-The lofty portal's ample arch they past,
-Tread the rich pavement of the vaulted ile,
-And mount by jasper steps the central pile;
-They reach the council-hall; at Ariel's hand
-The valves that radiate golden light expand.
-The pavement gay with various marbles shone;
-High rose the monarch's amethystine throne;
-
-An azure dome the splendid chamber crown 'd,
-Where mimic stars the silver moon surround.
-There giant Draco's snaky volumes roll,
-The northern team, the bear that guards the pole;
-There bright Andromeda and Perseus shone,
-
-And Cassiopeia on her glittering throne, V
-
-Bootes stern, and Ariadne's crown. j
-
-h
-
-
-
-102 THE ESCAPE. book hi.
-
-Their forms so well the skilful painter drew,
-
-So nicely mock'd the heaven's ethereal blue,
-
-That Henry paus'd, as hoping to inhale
-
+One moment paused the adventurers, then in haste<br>
+The lofty portal’s ample arch they past,<br>
+Tread the rich pavement of the vaulted ile,<br>
+And mount by jasper steps the central pile;<br>
+They reach the council-hall; at Ariel’s hand<br>
+The valves that radiate golden light expand.<br>
+The pavement gay with various marbles shone;<br>
+High rose the monarch’s amethystine throne;<br>
+An azure dome the splendid chamber crown’d,<br>
+Where mimic stars the silver moon surround.<br>
+There giant Draco’s snaky volumes roll,<br>
+The northern team, the bear that guards the pole;<br>
+There bright Andromeda and Perseus shone,<br>
+And Cassiopeia on her glittering throne,<br>
+Bootes stern, and Ariadne’s crown.<br>
+Their forms so well the skilful painter drew,<br>
+So nicely mock’d the heaven’s ethereal blue,<br>
+That Henry paus’d, as hoping to inhale<br>
 The cooling freshness of the evening gale.
 
 The ancient annals of the Gnomian race
