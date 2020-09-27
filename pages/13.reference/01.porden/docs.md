@@ -2232,151 +2232,98 @@ So nicely mock’d the heaven’s ethereal blue,<br>
 That Henry paus’d, as hoping to inhale<br>
 The cooling freshness of the evening gale.
 
-The ancient annals of the Gnomian race
-The golden walls in pictur'd beauty grace;
-Here to Albruno's might the Hydida? yield,
-There fire's exhausted legions quit the field;
-The victor Gnomes their vanquish'd foes pursue,
-And dying forms the smoking ground bestrew.
-Here in a cave conceal'd from mortal sight,
-A lamp diffused its everlasting light;
-His ponderous mace a brazen statue rear'd
-
-As the last step the bold adventurer dar'd,
-Prepar'd, with one remorseless blow, to shroud
-The invalued secret in perpetual cloud;*
-In Egypt's tombs thus burn the quenchless fires.
+The ancient annals of the Gnomian race<br>
+The golden walls in pictur’d beauty grace;<br>
+Here to Albruno’s might the Hydidæ yield,<br>
+There fire’s exhausted legions quit the field;<br>
+The victor Gnomes their vanquish’d foes pursue,<br>
+And dying forms the smoking ground bestrew.<br>
+Here in a cave conceal’d from mortal sight,<br>
+A lamp diffused its everlasting light;<br>
+His ponderous mace a brazen statue rear’d<br>
+As the last step the bold adventurer dar’d,<br>
+Prepar’d, with one remorseless blow, to shroud<br>
+The invalued secret in perpetual cloud;[^58]<br>
+In Egypt’s tombs thus burn the quenchless fires.<br>
 Thus with admitted air the light expires.
 
-The painter's skill next bade the scene appear
-Where mourns Belinda for her ravish'd hair;
+[^58]: Vide the Spectator, No. 379.
 
-* Vide the Spectator, No. 379.
+The painter’s skill next bade the scene appear<br>
+Where mourns Belinda for her ravish’d hair;<br>
+Malignant Umbriel’s baleful hand unties<br>
+The fatal bag of passions, sobs, and sighs,<br>
+“Full o’er their heads the swelling sack he rent,<br>
+And all the furies issued at the vent.”[^59]<br>
+There Juliana quits the realms above,<br>
+In Idria’s mine to tend her banish’d love,<br>
+And braves the baleful fogs and noisome air,<br>
+Resolved his toil, his lingering death, to share,<br>
+With anguish pines his fading form to see,<br>
+And weeps Theresa’s harsh but just decree,<br>
+Till mov’d to mercy by their guardian sprite,<br>
+The queen restores the pair to upper light.[^60]<br>
+These, as he slowly left the council-hall,<br>
+His own sad fate to Henry’s mind recall.
 
+[^59]: Vide Pope’s Rape of the Lock.
 
+[^60]: Vide Serjent’s “Mine.”
 
-jiook mi. THE ESCAPE.
+Through many a spacious gallery Ariel led;<br>
+Their steps a small secluded chamber staid.<br>
+Before a throne of ruby hue behold<br>
+An emerald tripod grac’d with sculptur’d gold,<br>
+Where firmly bound by adamantine chains,<br>
+A crystal vase the fatal Veil contains.<br>
+Beyond, its beams a wondrous mirror gave,<br>
+That both illumines and reflects the cave,<br>
+Like that strange gem instinct with life and light,<br>
+That self suspended shines and chases night.[^61]<br>
+Unconsciously as Henry near it stood,<br>
+Himself restor’d to native form he view’d.
 
-Malignant Umbiiels baleful hand unties
-The fatal bag of passions, sobs, and sighs,
-Full o'er their heads the swelling sack he rent,
-And all the furies issued at the vent."*
-There Juliana quits the realms above,
-In Idria's mine to tend her banish 'd love,
-And braves the baleful fogs and noisome air,
-Resolved his toil, his lingering death, to share,
-With anguish pines his fading form to see,
-And weeps Theresa's harsh but just decree,
-Till mov'd to mercy by their guardian sprite,
-The queen restores the pair to upper light.f
-These, as he slowly left the council-hall,
-His own sad fate to Henry's mind recall.
+[^61]: These lines allude to a superstition of the Arabs respecting the carbuncle, which is fully detailed in a note on Thalaba.
 
-Through many a spacious gallery Ariel led;
-Their steps a small secluded chamber staid.
-Before a throne of ruby hue behold
-An emerald tripod grac'd with sculptur'd gold,
-Where firmly bound by adamantine chains,
-A crystal vase the fatal Veil contains.
-Beyond, its beams a wondrous mirror gave,
-That both illumines and reflects the cave,
+“That glass,” said Ariel, “framed by magic charms,<br>
+Reflects substantial and ethereal forms;<br>
+No nice disguise the real shape conceals,<br>
+Its power the bosom's inmost thoughts reveals.<br>
+And when, absorb'd in rays of solar light,<br>
+Their lucid forms too fine for mortal sight,<br>
+The sylphids revel in the noontide blaze,<br>
+Its polish'd face their airy band betrays.
 
-* Vide Pope's Rape of the Lock. t Vide Serjent's "Mine."
+“Form’d by Dyr Zoro in deep Komri’s cave,<br>
+To Canace this mirror Acban gave;<br>
+Here first the nymph her destin’d spouse survey’d,<br>
+Its power the treacherous Acban’s fraud betray’d,<br>
+Timourshah’s truth and Erbol’s guilt display’d.<br>
+This, when Cambuscan, whose proud mind disdain’d<br>
+To share with magic, wreaths by valour gain’d,<br>
+True to his vow, his brazen courser rode<br>
+To Kaf’s vast height, by mortal erst untrod,<br>
+Above the clouds, upon its peak to fling<br>
+The virtuous glass, the sabre, and the ring,<br>
+From its huge adamantine spire, the Gnome<br>
+Triumphant bore to this majestic dome.[^61]<br>
+But from its influence haste, nor rashly dare<br>
+Thy sure detection, should a Gnome appear.”
 
-H
+[^61]: The story of Cambuscan, the brazen steed, the virtuous sabre, ring, and glass, as begun by Chaucer, are well known; but this passage alludes more particularly to its continuation and conclusion by Mr. Wharton.<br>
+<br>
+Cambuscan, released, by the assistance of the falcon, from his aerial pilgrimage, having by these enchanted gifts discovered the treachery of Acban and Erbol, and conquered the invading array commanded by Aulum, the sovereign of Ophir, becomes touched by religious scruples respecting the use of magic, and resolves not to be indebted to it for his future safety or glory. He therefore vows, as soon as the nuptials of Algarsife and Theodora, of Ca- nace and Al Kabal, (the gentle heir of Ophir’s throne,) and of Cambal with Zelica, (formerly the falcon,) have been solemnized, that he will bestride, for the last time, the brazen steed, and ascend the highest summit of Caucasus, there to leave, beyond the reach of mortal hands, the sabre, glass, and ring. Hence Albruno redeemed the glass.
 
+The youth meanwhile scarce heeded Ariel’s tale,<br>
+But fixt his eyes upon the fatal Veil;<br>
+Yet, at his call, he rais’d his thoughtful head,<br>
+And while his face hope’s liveliest glow o’erspread,<br>
+Mov’d from the spot, and thus impassion’d said.
 
-
-104 THE ESCAPE book in-
-
-Like that strange gem instinct with life and light,
-
-That self suspended shines and chases night. #
-Unconsciously as Henry near it stood,
-Himself restor'd to native form he view'd.
-
-That glass,said Ariel, framed by magic charms,
-Reflects substantial and ethereal forms;
-No nice disguise the real shape conceals,
-Its power the bosom's inmost thoughts reveals.
-And when, absorb'd in rays of solar light,
-Their lucid forms too fine for mortal sight,
-The sylphids revel in the noontide blaze,
-
-l( Its polish'd face their airy band betrays.
-
-Form'd by Dyr Zoro in deep Komri's cave,
-To Canace this mirror Acban gave;
-Here first the nymph her destin'd spouse survey 'd, Y
-
-%.
-
-This, when Cambuscan, whose proud mind disdain'd
-« To share with magic, wreaths by valour gain'd,
-
-
-
-Its power the treacherous Acban's fraud betray 'd,
-Timourshah's truth and Erbol's guilt display'd.
-
-
-
-* These lines allude to a superstition of the Arabs respecting the carbun-
-cle, which is fully detailed in a note on Thalaba.
-
-
-
-sook in. THE ESCAPE.
-
-True to his vow, his brazen courser rode
-
-To Kaf 's vast height, by mortal erst untrod,
-
-Above the clouds, upon its peak to fling
-
-The virtuous glass, the sabre, and the ring,
-
-From its huge adamantine spire, the Gnome
-
-Triumphant bore to this majestic dome.*
-
-But from its influence haste, nor rashly dare
-
-Thy sure detection, should a Gnome appear."
-
-The youth meanwhile scarce heeded Ariel's tale,
-But fixt his eyes upon the fatal Veil;
-Yet, at his call, he rais'd his thoughtful head, }
-
-And while his face hope's liveliest glow o'erspread, 170V
-Mov'd from the spot, and thus impassion'd said. J
-
-
-
-* The story of Cambuscan, the brazen steed, the virtuous sabre, ring, and
-glass, as begun by Chaucer, are well known; but this passage alludes more
-particularly to its continuation and conclusion by Mr. Wharton.
-
-Cambuscan, released, by the assistance of the falcon, from his aerial pil-
-grimage, having by these enchanted gifts discovered the treachery of Acban
-and Erbol, and conquered the invading array commanded by Aulum, the
-sovereign of Ophir, becomes touched by religious scruples respecting the use
-of magic, and resolves not to be indebted to it for his future safety or glory.
-He therefore vows, as soon as the nuptials of Algarsife and Theodora, of Ca-
-nace and Al Kabal, (the gentle heir of Ophir's throne,) and of Cambal with
-Zelica, (formerly the falcon,) have been solemnized, that he will bestride, for
-the last time, the brazen steed, and ascend the highest summit of Caucasus,
-there to leave, beyond the reach of mortal hands, the sabre, glass, and ring.
-Hence Albruno redeemed the glass.
-
-
-
-106 THE ESCAPE. book nr.
-
-Why pause we thus, while none the deed oppose,
-To snatch this prize from our unheeding foes?
-Foiled in his art, if we the pledge regain,
-The baffled Gnome may rage and storm in vain."
+“Why pause we thus, while none the deed oppose,<br>
+To snatch this prize from our unheeding foes?<br>
+Foiled in his art, if we the pledge regain,<br>
+The baffled Gnome may rage and storm in vain.”
 
 While thus he speaks, his eager arms he strains
 To reach the casket that the Veil contains,
@@ -2401,7 +2348,6 @@ Haste, quit the palace, ere the Gnomes appear."
 
 
 
-book in. THE ESCAPE.
 
 Soon they beheld where Chrysos' faithful train
 In solemn silence bore Asbestos slain;
@@ -2429,7 +2375,6 @@ While grief too great forbade her tears to flow.
 
 
 
-108 THE ESCAPE. book
 
 On her his glistening eye brave Chrysos turn'd,
 
@@ -2479,7 +2424,6 @@ And shield thee from the monsters of the deep.
 
 
 
-book in. THE ESCAPE.
 
 But then no more the Gnome's dark semblance wear,
 
@@ -2518,7 +2462,6 @@ decomposition of the ore. Saussure and others mention this phenomenon.
 
 
 
-110 THE ESCAPE. book hi.
 
 And now he past a mass of shining ore,
 Whose polish'd face a silvery lustre wore,
@@ -2552,7 +2495,6 @@ makes a great chasm.
 
 
 
-nooK in. THE ESCAPE. HI
 
 The strata now proclaim their watry birth,
 
@@ -2590,7 +2532,6 @@ While Ufo's form the strange enchantment felt,
 
 
 
-in THE ESCAPE. book m.
 
 Until the seventh revolving moon restor'd
 
@@ -2638,7 +2579,6 @@ second, 10 yards lower, 12 feet; a third, 15 yards lower, he.s been sunk into
 
 
 
-book in. THE ESCAPE.
 
 Soon Henry past them, soon he hears the roar
 Of billows breaking on a distant shore.
@@ -2680,7 +2620,6 @@ rency! perhaps rather more so than the iron money of Lycurgus.
 
 
 
-114 THE ESCAPE.
 
 While stretch'd around the shore, a faithful band,
 The bold Basaltes, giant warriors, stand,
@@ -2725,7 +2664,6 @@ duction of sandstone to volcanic fires.
 
 
 
-book n r. THE ESCAPE.
 
 To guard the opposing frontiers of the main,
 
@@ -2762,7 +2700,6 @@ i
 
 
 
-116 THE ESCAPE. e.
 
 Still unsubdued, Silexis' bands appear,
 And bold Stypterion's lines provoke the war.
@@ -2778,7 +2715,7 @@ Fear strove to fly, and valour raged in vain,
 Still as they fight, they seem in height to grow,
 And whelm with deadlier weight the prostrate foe;
 Their forms dilated to gigantic size,
-High o'er the field the bold Hydidae rise,
+High o'er the field the bold Hydidæ rise,
 Bear in their arms their mangled foes aloof,
 And hurl with fury at the vaulted roof;
 Confused and prest, they fight and struggle there,
@@ -2790,7 +2727,6 @@ They force a passage to the realms of day:
 
 
 
-book in. THE ESCAPE. nr
 
 The Sylphs retire, and trembling with affright,
 The Gnomes malignant eye the unusual light.*
@@ -2832,7 +2768,6 @@ t Animals are usually observed to anticipate thunder and other such phe-
 
 
 
-US THE ESCAPE. book iiu
 
 Their shaggy guards howl'd hideous at the sound
 
@@ -2883,7 +2818,6 @@ atmosphere, or by some sign that escapes the notice of man.
 
 
 
-book in THE ESCAPE. llQ
 
 The prostrate vines before their fury yield,
 
@@ -2929,7 +2863,6 @@ i
 
 
 
-120 THE ESCAPE. book hi,
 
 (That wondrous throne, where Scandinavia's race
 
@@ -2982,7 +2915,6 @@ t Sir John Pringle has imagined meteors to be a sort of minor planets
 
 
 
-look ii r. THE ESCAPE.
 
 He seized the wanderer, reckless of its weight,
 
@@ -3030,7 +2962,6 @@ of oxygen acquired.
 
 
 
-122 THE ESCAPE. book in.
 
 Yet still the cries of warriors maim'd in fight
 
@@ -3065,7 +2996,6 @@ In silver lustre thro' their deep'ning green;
 
 
 
-hook in. THE ESCAPE.
 
 Now on the fort her placid radiance falls,
 
@@ -3110,7 +3040,6 @@ A page for me a secret door unbarr'd;
 
 
 
-124 THE ESCAPE. book in.
 
 Long is our journey, and the morning ray
 
@@ -3143,7 +3072,6 @@ The wanderers, hurPd astonish'd to the ground,
 
 
 
-h.ooKiti. THE ESCAPE.
 
 Sought for their vanish' d steeds. A gentle breeze
 
@@ -3195,7 +3123,6 @@ That with Marino's links Miranda's hand:
 
 
 
-126 THE ESCAPE. bo
 
 And when yon sun again begins his course,
 
@@ -3248,7 +3175,6 @@ and, from its peculiar law of density, it must be equally long before the in-
 
 
 
-3ok in. THE ESCAPE.
 
 I speak in vain — thy thoughts for ever stray
 To her in silence slumbering far away. —
@@ -3287,7 +3213,6 @@ and their light may be useful at depths which the sun's rays hardly penetrate.
 
 
 
-128 THE ESCAPE. book hi.
 
 Still dost thou doubt my truth, or scorn my aid?
 
@@ -3317,7 +3242,6 @@ She spoke, and plunged indignant in the wave.
 
 
 
-hook in. TIIE ESCAPE.
 
 Alfred scarce gone, Alonzo hears the alarms
 Of earnest fight, and sees the gleam of arms;
@@ -3353,7 +3277,6 @@ It sinks in wood, or circling leads him back.
 
 
 
-ISO THE ESCAPE. book m.
 
 At length he thought, — When first my eyes survey'd
 
@@ -3390,7 +3313,6 @@ Himself deluded by the magic knight;
 
 
 
-BOOK in. THE ESCAPE. .
 
 The law unusual, which had thus remov'd
 
@@ -3429,7 +3351,6 @@ k
 
 
 
-132 THE ESCAPE. *ook in.
 
 But vain his strength, the villain fought secure,
 
@@ -3476,7 +3397,6 @@ All night imprison'd, had bewailed their doom,
 
 
 
-book in. THE ESCAPE.
 
 Now saw the walls in air dissolve away,
 
@@ -3513,7 +3433,6 @@ K
 
 
 
-154. THE ESCAPE. book hi.
 
 So bards have sung; — and where shall eyes be found,
 That like Maria's, or Miranda's, wound?
@@ -3545,7 +3464,6 @@ s
 
 
 
-book in. THE ESCAPE.
 
 Like her, Miranda, yet but feebly, tries,
 
@@ -3579,7 +3497,6 @@ K
 
 
 
-136 THE ESCAPE. book hi.
 
 I quit my native realm, to guide and aid,
 
@@ -3611,7 +3528,6 @@ A nymph my mother, but my sire of earth,
 
 
 
-book nr. THE ESCAPE. 13?
 
 And hence from them the double power I bear,
 To breathe the crystal tide, or lighter air.
@@ -3653,7 +3569,6 @@ Their favours bore, the trophies of the fight,
 
 
 
-1S8 THE ESCAPE. book hi.
 
 While rais'd upon a coral throne she sate,
 
@@ -3698,7 +3613,6 @@ Corals and shells in bright array dispos'd,
 
 
 
-hook in. THE ESCAPE.
 
 A pearly Nautilus his helmet made,
 
@@ -3748,7 +3662,6 @@ so strong that they often do great injury to vessels by piercing their sides.
 
 
 
-140 THE ESCAPE. book hi.
 
 The victor's meed a sparkling helmet shines,
 
@@ -3794,7 +3707,6 @@ w My tott'ring frame with strange emotion shook,
 
 
 
-book in. THE ESCAPE. Ml
 
 In vain I tried the lively thanks to speak
 
@@ -3837,7 +3749,6 @@ their presence.
 
 
 
-142 THE ESCAPE. isook in.
 
 Not half so sweet his honied accents flow'd!
 Tho' in his speech the fire of rhetoric glow'd.
@@ -3869,7 +3780,6 @@ readers of Spenser.
 
 
 
-*ook ii r. THE ESCAPE.
 
 Each word, each look recall'd, that might impart
 
@@ -3917,7 +3827,6 @@ On me she seeks her heaviest wrath to pour,
 
 
 
-144 THE ESCAPE. rook nr.
 
 To check thy course, new perils threat the road,
 
