@@ -65,7 +65,9 @@ And while to stubborn themes I tune the lyre,<br>
 “Fierce wars and faithful loves shall moralize my song.”
 </p>
 </div>
+
 ---
+
 <div class="center">
 <p>
 To<br>
@@ -2306,11 +2308,11 @@ To Kaf’s vast height, by mortal erst untrod,<br>
 Above the clouds, upon its peak to fling<br>
 The virtuous glass, the sabre, and the ring,<br>
 From its huge adamantine spire, the Gnome<br>
-Triumphant bore to this majestic dome.[^61]<br>
+Triumphant bore to this majestic dome.[^62]<br>
 But from its influence haste, nor rashly dare<br>
 Thy sure detection, should a Gnome appear.”
 
-[^61]: The story of Cambuscan, the brazen steed, the virtuous sabre, ring, and glass, as begun by Chaucer, are well known; but this passage alludes more particularly to its continuation and conclusion by Mr. Wharton.<br>
+[^62]: The story of Cambuscan, the brazen steed, the virtuous sabre, ring, and glass, as begun by Chaucer, are well known; but this passage alludes more particularly to its continuation and conclusion by Mr. Wharton.<br>
 <br>
 Cambuscan, released, by the assistance of the falcon, from his aerial pilgrimage, having by these enchanted gifts discovered the treachery of Acban and Erbol, and conquered the invading array commanded by Aulum, the sovereign of Ophir, becomes touched by religious scruples respecting the use of magic, and resolves not to be indebted to it for his future safety or glory. He therefore vows, as soon as the nuptials of Algarsife and Theodora, of Ca- nace and Al Kabal, (the gentle heir of Ophir’s throne,) and of Cambal with Zelica, (formerly the falcon,) have been solemnized, that he will bestride, for the last time, the brazen steed, and ascend the highest summit of Caucasus, there to leave, beyond the reach of mortal hands, the sabre, glass, and ring. Hence Albruno redeemed the glass.
 
@@ -2411,9 +2413,9 @@ Where the rich metals slumber in their ores;<br>
 There gold’s rich purple was luxuriant seen,<br>
 And iron’s red, and copper’s brilliant green.<br>
 Oft on the earth the issuing flame reveals<br>
-The treasur’d hoard the barren soil conceals.[^62]
+The treasur’d hoard the barren soil conceals.[^63]
 
-[^62]: Lambent flames on the surface often indicate metallic veins, particu-
+[^63]: Lambent flames on the surface often indicate metallic veins, particu-
 larly of gold, even at a considerable depth. They are supposed to arise from
 the evolution of hydrogen, or other inflammable gases, in consequence of the
 decomposition of the ore. Saussure and others mention this phenomenon.
@@ -2429,9 +2431,9 @@ And all the Gnomes in peaceful slumber lay,<br>
 A loud explosion shook the caves around,<br>
 The Gnomes, astonish’d, hasten’d at the sound;<br>
 Vast was the chasm, and like untempered glass,<br>
-In thousand atoms laid the broken mass.[^63]
+In thousand atoms laid the broken mass.[^64]
 
-[^63]: This peculiar character is the property of a species of leaden ore, with a smooth and shining face. The slightest scratch on the surface spreads gradually through the mass, and, after some hours, it bursts with a violent explosion, and its fragments are dispersed in all directions. In one of our mines in Derbyshire, the ore is of this description. The miners scratch it slightly, in various directions, and then leave the mine, and await the explosion, which, perhaps, does not take place till two days after, and usually makes a great chasm.
+[^64]: This peculiar character is the property of a species of leaden ore, with a smooth and shining face. The slightest scratch on the surface spreads gradually through the mass, and, after some hours, it bursts with a violent explosion, and its fragments are dispersed in all directions. In one of our mines in Derbyshire, the ore is of this description. The miners scratch it slightly, in various directions, and then leave the mine, and await the explosion, which, perhaps, does not take place till two days after, and usually makes a great chasm.
 
 Now chang’d the scene — no more in solid blocks.<br>
 Of size immense, ascend the lofty rocks;<br>
@@ -2460,17 +2462,17 @@ The ramparts high, and domes of salt appear.<br>
 Such was the pile where lovely Bertha dwelt,<br>
 While Ufo’s form the strange enchantment felt,<br>
 Until the seventh revolving moon restor’d<br>
-Again to human shape her dolphin lord.[^64]<br>
+Again to human shape her dolphin lord.[^65]<br>
 Here lamps dependent mock the blaze of day,<br>
 And all within the faithless walls betray.<br>
 Sprightly, and high in bold Marino’s grace,<br>
 His subjects once, here dwelt an active race.<br>
 Now conquer’d by Albruno’s arms, his sway,<br>
-With vain regret, the vanquish’d tribe obey.[^65]
+With vain regret, the vanquish’d tribe obey.[^66]
 
-[^64]: See “The Three Sisters,” a tale, translated from the German. Bertha, the third daughter of the Baron,is the wife of Ufo; who, for six months, is enchanted in the form of an immense dolphin, violent and implacable, and retaining no vestige of humanity but his speech. During this time, his only amusement is in swimming round a little island, on which is built a small habitation of the clearest crystal, where his lady resides, and boils her solitary cup of coffee. The seventh month, however, restores the enchanted Ufo to his shape; he becomes a gay and powerful prince, a kind complacent husband. The lake spreads, the isle expands, Bertha’s ceil grows a splendid palace; the trout and other fishes jump out of the water, and become courtiers, and all is splendour and hilarity till the expiration of the month again condemns them to the waves. One pleasant circumstance attending this mode of life is, that Bertha, though married one-and-twenty years, and not undergoing any transformation, has, in that time, like her husband, grown only three years older.
+[^65]: See “The Three Sisters,” a tale, translated from the German. Bertha, the third daughter of the Baron,is the wife of Ufo; who, for six months, is enchanted in the form of an immense dolphin, violent and implacable, and retaining no vestige of humanity but his speech. During this time, his only amusement is in swimming round a little island, on which is built a small habitation of the clearest crystal, where his lady resides, and boils her solitary cup of coffee. The seventh month, however, restores the enchanted Ufo to his shape; he becomes a gay and powerful prince, a kind complacent husband. The lake spreads, the isle expands, Bertha’s ceil grows a splendid palace; the trout and other fishes jump out of the water, and become courtiers, and all is splendour and hilarity till the expiration of the month again condemns them to the waves. One pleasant circumstance attending this mode of life is, that Bertha, though married one-and-twenty years, and not undergoing any transformation, has, in that time, like her husband, grown only three years older.
 
-[^65]: Darwin has given a description of the salt mines at Cracow, in Poland: but our own at Northwich, near Chester, though, perhaps, not so beautiful, appear to be of greater importance, and their produce of finer quality, as it is exported even to the neighbourhood of Cracow. Mr. Holland has published a long and very interesting account of the rock-salt of Cheshire, in the first volume of the Geological Transactions. The salt is confined to the southern or central part of the Cheshire plain, and chiefly to the valley of the Weaver and its tributary streams, and is generally indicated by salt springs. At Lawton there are three beds, separated by strata of indurated clay. The first bed, at the depth of 42 yards, four feet thick; a second, 10 yards lower, 12 feet; a third, 15 yards lower, has been sunk into 24 yards, but its depth has not been ascertained. In every part of the rock are found separate crystalline concretions of muriate of soda, sometimes cubical, and sometimes in large irregular masses, usually of a greyish or milk-white colour; and possessing greater or less transparency: the salt no where appears stratified. The great body of the rock presents only a confused red mass, varied here and there by the crystalline portions. No marine exuviæ, or organic remains, or impressions, are found either in the salt, or in the argillaceous strata. In some parts where pillars, six or eight yards square, form the supports of the mine, the effect, when lighted up, is so splendid as to realize the magic palaces of Arabian fiction. Eleven or twelve mines are now worked, and from 50,000 to 60,000 tons raised annually. The greatest part is exported to Ireland, the Baltic, and Prussia; the remainder is manufactured in Cheshire.<br>
+[^66]: Darwin has given a description of the salt mines at Cracow, in Poland: but our own at Northwich, near Chester, though, perhaps, not so beautiful, appear to be of greater importance, and their produce of finer quality, as it is exported even to the neighbourhood of Cracow. Mr. Holland has published a long and very interesting account of the rock-salt of Cheshire, in the first volume of the Geological Transactions. The salt is confined to the southern or central part of the Cheshire plain, and chiefly to the valley of the Weaver and its tributary streams, and is generally indicated by salt springs. At Lawton there are three beds, separated by strata of indurated clay. The first bed, at the depth of 42 yards, four feet thick; a second, 10 yards lower, 12 feet; a third, 15 yards lower, has been sunk into 24 yards, but its depth has not been ascertained. In every part of the rock are found separate crystalline concretions of muriate of soda, sometimes cubical, and sometimes in large irregular masses, usually of a greyish or milk-white colour; and possessing greater or less transparency: the salt no where appears stratified. The great body of the rock presents only a confused red mass, varied here and there by the crystalline portions. No marine exuviæ, or organic remains, or impressions, are found either in the salt, or in the argillaceous strata. In some parts where pillars, six or eight yards square, form the supports of the mine, the effect, when lighted up, is so splendid as to realize the magic palaces of Arabian fiction. Eleven or twelve mines are now worked, and from 50,000 to 60,000 tons raised annually. The greatest part is exported to Ireland, the Baltic, and Prussia; the remainder is manufactured in Cheshire.<br>
 <br>
 There are many other salt mines, in Spain and Portugal, in Transylvania, and in Austria, and also in Africa. The mountains and beds of salt, between Tripoli and the Pillars of Hercules, have been noticed by Herodotus, but they are not so regularly situated as he has described. He also mentions, that the inhabitants built their houses of salt, a custom they still retain. “It never rains,” he observes, “otherwise such structures could not be durable.” A sudden shower would in that country injure the houses of the inhabitants more than the wear and tear of many years. This salt, like that of Portugal, is usually of a purple colour, but that which is washed down by the dews from the mountains becomes white when it crystallizes, and loses the bitterness which usually characterizes fossil salt.<br>
 <br>
@@ -2483,7 +2485,7 @@ A rock of granite insulated rose<br>
 Where mighty Oros' giant limbs repose,<br>
 While stretch'd around the shore, a faithful band,<br>
 The bold Basaltes, giant warriors, stand,<br>
-A hardy race, and garrison the land.[^66]<br>
+A hardy race, and garrison the land.[^67]<br>
 To guard the opposing frontiers of the main,<br>
 Undaunted Cumos leads a countless train;<br>
 A valiant chief, but swiftly rous’d to ire,<br>
@@ -2493,7 +2495,7 @@ As Henry, passing, wav’d his wand around.<br>
 Who now, to human form again restor’d,<br>
 The vast recesses of the deep explor’d.
 
-[^66]: Even a slight attempt to discuss the long contested theory of the formation of basaltic pillars, would far exceed the compass of a note. Perhaps both the Neptunists and Plutonists might spare their labours and renounce their alternate triumphs. The most commonly received opinion is, that the basalt, rolled in a semifluid stream from the mouth of a volcano, and coming in contact with the sea, contracts in its sudden refrigeration into the prismatic form: but unfortunately, prismatic basalt is found in many parts of the world, and even in our own island, in situations where there appear not the slightest traces of volcanic fire, and again where it would be as difficult to account for the presence of water at its formation. But perhaps these columns, though similar in appearance, may not always be alike in origin: and fire and water, separately, or in conjunction, may equally have been concerned in their production. The basalt, rendered fluid either by the agency of water or volcanic fire, and suffered slowly either to evaporate or to cool, would, by the laws of crystallization, naturally assume a regular form, and the perfection of the columns would depend on the length of time allowed in their formation.<br>
+[^67]: Even a slight attempt to discuss the long contested theory of the formation of basaltic pillars, would far exceed the compass of a note. Perhaps both the Neptunists and Plutonists might spare their labours and renounce their alternate triumphs. The most commonly received opinion is, that the basalt, rolled in a semifluid stream from the mouth of a volcano, and coming in contact with the sea, contracts in its sudden refrigeration into the prismatic form: but unfortunately, prismatic basalt is found in many parts of the world, and even in our own island, in situations where there appear not the slightest traces of volcanic fire, and again where it would be as difficult to account for the presence of water at its formation. But perhaps these columns, though similar in appearance, may not always be alike in origin: and fire and water, separately, or in conjunction, may equally have been concerned in their production. The basalt, rendered fluid either by the agency of water or volcanic fire, and suffered slowly either to evaporate or to cool, would, by the laws of crystallization, naturally assume a regular form, and the perfection of the columns would depend on the length of time allowed in their formation.<br>
 <br>
 Saussure, in his Travels in the Alps, speaks of many sandstone rocks having a tendency to split into rhomboids. In the “Passage du Bon Homme,” he says:<br>
 <br>
@@ -2540,7 +2542,7 @@ Their growing bulk a wider field demands.<br>
 At length the ribs of solid rock give way!<br>
 They force a passage to the realms of day:<br>
 The Sylphs retire, and trembling with affright,<br>
-The Gnomes malignant eye the unusual light.[^67]
+The Gnomes malignant eye the unusual light.[^68]
 
 ’Twas night’s meridian; on the tranquil scene<br>
 Pale Cynthia shed her silver ray serene,<br>
@@ -2549,13 +2551,13 @@ From countless flowers that scent the Alpine air;<br>
 Still were the hamlets in the glens below,<br>
 The flocks slept peaceful on the mountain’s brow,<br>
 When starting from the turf, in panic fear,<br>
-They clustering ran, as warn’d of danger near;[^68]<br>
+They clustering ran, as warn’d of danger near;[^69]<br>
 
-[^67]: Volcanic eruptions are known to be connected with the flowing of water into subterranean caverns, and therefore probably owe their origin to the contention of fire and water, and the expansive force of steam. This conjecture appears to derive strength from the Geysers, or boiling fountains of Iceland, which throw up immense columns of steam to the height of 100 feet, with such force as to sustain bodies of considerable weight, and which undoubtedly arise from an immense reservoir of water continually boiling beneath that wonderful island; that strange mixture of frost and flame, where the inhabitants of the pole and of the equator might find their accustomed temperatures without losing sight of each other. The Geysers, with the ex- ception of some springs near Bath, are the only known waters which contain silcx in solution. Sir George Mackenzie, in the account of his Travels in Iceland, has given a very interesting description of these intermittent fountains of steam, and a probable theory of their origin.<br>
+[^68]: Volcanic eruptions are known to be connected with the flowing of water into subterranean caverns, and therefore probably owe their origin to the contention of fire and water, and the expansive force of steam. This conjecture appears to derive strength from the Geysers, or boiling fountains of Iceland, which throw up immense columns of steam to the height of 100 feet, with such force as to sustain bodies of considerable weight, and which undoubtedly arise from an immense reservoir of water continually boiling beneath that wonderful island; that strange mixture of frost and flame, where the inhabitants of the pole and of the equator might find their accustomed temperatures without losing sight of each other. The Geysers, with the ex- ception of some springs near Bath, are the only known waters which contain silcx in solution. Sir George Mackenzie, in the account of his Travels in Iceland, has given a very interesting description of these intermittent fountains of steam, and a probable theory of their origin.<br>
 <br>
 Professor, now Sir H. Davy, has imagined volcanic eruptions to arise from the metals of the earth, which existing in a pure state, beyond the contact of air and oxygen, are suddenly inflamed at the influx of water. The conflagration thus kindled might afterwards be extended and supported by other substances.
 
-[^68]: Animals are usually observed to anticipate thunder and other such phenomena. It is probable that they are warned by some peculiarity in the atmosphere, or by some sign that escapes the notice of man.
+[^69]: Animals are usually observed to anticipate thunder and other such phenomena. It is probable that they are warned by some peculiarity in the atmosphere, or by some sign that escapes the notice of man.
 
 Their shaggy guards howl’d hideous at the sound<br>
 Of low deep thunder in the hollow ground.<br>
@@ -2602,7 +2604,7 @@ And pierced the distant heaven’s ethereal blue:<br>
 Above the clouds, he reach’d his throne of light,<br>
 Whence half the globe expands beneath his sight;<br>
 (That wondrous throne, where Scandinavia’s race<br>
-Their fabled god, their barbarous Odin place;)[^69]<br>
+Their fabled god, their barbarous Odin place;)[^70]<br>
 He mark’d those clouds of rising smoke, that shone<br>
 In silvery light beneath the placid moon,<br>
 And pierced with eagle eye their sable womb,<br>
@@ -2620,11 +2622,11 @@ The dreadful havoc by the Hydidæ made,<br>
 Resolved to end the war — A glance lie cast<br>
 Where near his throne a minor planet past,<br>
 There oft these orbs their burning faces shew,<br>
-Their names are meteors with the world below.[^70]<br>
+Their names are meteors with the world below.[^71]<br>
 
-[^69]: The famous throne of Hlidskialfa is in the palace, not of Valhalla, but of Valaskialf. This throne was so situated, that any one sitting upon it might behold all the regions of the world. It properly belonged to Odin and Frigga. — *Cottle’s Edda*.
+[^70]: The famous throne of Hlidskialfa is in the palace, not of Valhalla, but of Valaskialf. This throne was so situated, that any one sitting upon it might behold all the regions of the world. It properly belonged to Odin and Frigga. — *Cottle’s Edda*.
 
-[^70]: Sir John Pringle has imagined meteors to be a sort of minor planets rolling through various systems, and kindling on their entrance into our atmosphere. During their inflammation, they throw off those bodies called meteoric stones. That these bodies actually fall from the clouds appears now scarcely to admit a doubt, both from their peculiar composition, and the number of evidences that attest the fact. Meteoric stones have been frequently found hot, immediately after the passage of a meteor. Their elements invariably consist of iron, silex, magnesia, and nickel. The three latter ingredients are sometimes in such small quantities, as to leave the iron almost pure, and constituting what is called native iron. This iron is very different from that procured from the ore, which seems to arise from the mixture of nickel: it is harder, takes a fine polish, resists tarnishing, and is always magnetic. There is a large mass of this iron in Siberia, weighing 650 pounds; in Peru there is another of the enormous weight of 15 tons, and there is one similar at the Cape.<br>
+[^71]: Sir John Pringle has imagined meteors to be a sort of minor planets rolling through various systems, and kindling on their entrance into our atmosphere. During their inflammation, they throw off those bodies called meteoric stones. That these bodies actually fall from the clouds appears now scarcely to admit a doubt, both from their peculiar composition, and the number of evidences that attest the fact. Meteoric stones have been frequently found hot, immediately after the passage of a meteor. Their elements invariably consist of iron, silex, magnesia, and nickel. The three latter ingredients are sometimes in such small quantities, as to leave the iron almost pure, and constituting what is called native iron. This iron is very different from that procured from the ore, which seems to arise from the mixture of nickel: it is harder, takes a fine polish, resists tarnishing, and is always magnetic. There is a large mass of this iron in Siberia, weighing 650 pounds; in Peru there is another of the enormous weight of 15 tons, and there is one similar at the Cape.<br>
 <br>
 Professor Davy has imagined, that meteors, whether planets or otherwise, may have consisted originally of the pure metals of silex and magnesia, united with iron and nickel. The two former would necessarily ignite on meeting with the oxygen of our atmosphere, and the meteors passing off to other systems, leave a part of their substance as a compensation for the weight of oxygen acquired.
 
@@ -2753,9 +2755,9 @@ The seasons varying with the changing year.<br>
 With you, when summer smiles or winter lours,<br>
 Unfading spring and equal warmth are ours;<br>
 And when the moon deserts your dreary night,<br>
-Our living lamps supply a softer light. — [^71]
+Our living lamps supply a softer light. — [^72]
 
-[^71]: The inhabitants of the sea are usually depicted by poets as far exceeding in wealth and splendour the denizens of earth.<br>
+[^72]: The inhabitants of the sea are usually depicted by poets as far exceeding in wealth and splendour the denizens of earth.<br>
 <br>
 Water is a very bad conductor of heat, whence the beams of the sun must play upon its surface long before their influence penetrates to the interior; and, from its peculiar law of density, it must be equally long before the influence of cold can be severely felt at any great depth. The bottom of the sea must therefore be much more equal in its temperature than the surface of the earth. Its temperature is probably nearly as low as 42° of Fahrenheit, that at which water acquires its greatest density. The specific gravity of all other bodies, fluid or solid, increases in regular progression with the abstraction of heat, but water, which contracts in bulk down to 42°, afterwards again expands, and is, at 32°, the point of congelation, specifically lighter. A cold breeze blowing over the ocean soon cools the upper stratum of water to 42°, and renders it heavier than those below. It sinks, and another warmer and lighter usurps its place; this becoming cool, in its turn again descends, and the process continues till the whole body of water becomes cooled to 42°, and congelation commences at the surface. From this peculiar law, that no part of a body of water can freeze until the whole mass be cooled down to 42°, many tracts of ocean, that would otherwise be impassable half the year, are hardly ever frozen, and the congealed surface itself serves as a protection to the interior.<br>
 <br>
@@ -2856,13 +2858,13 @@ Now to the walls the wily Baron came;<br>
 In vain with rage an entrance you demand,<br>
 We scorn the prowess of a single hand.<br>
 But come and prove, the maids no longer here,<br>
-Alike unjust your anger and your fear."
+Alike unjust your anger and your fear.”
 
 He ceased: — the drawbridge falls — Alonzo's mind
 Already half its late distrust resign'd.
 He past, and turning, wild with anguish, found
 The bridge again uprais'd, himself on hostile ground;
-The vassals, at their fraudful lord's commands,
+The vassals, at their fraudful lord's commands,@
 
 Prepar'd to bind him in ignoble bands;
 Lost was his spear, but swift his sword he drew, ^
@@ -3370,32 +3372,13 @@ Proclaim'd the hour of silence and of rest.
 have increased very much of late years.
 
 
+---
 
-END OF THE THIRD BOOK.
-
-
-
-THE VEILS.
+## Book the Fourth
 
 
 
-BOOK THE FOURTH.
-
-
-
-THE SEA.
-
-
-
-THE VEILS.
-
-
-
-BOOK THE FOURTH.
-
-
-
-THE SEA.
+## The Sea
 
 While on the waves the earliest sunbeam play'd,
 Miranda rose, and by their margin stray'd,
@@ -3412,7 +3395,6 @@ L
 
 
 
-148 THE SEA. b&lt;
 
 Tho' dense around the morning mists extend,
 Trust the sure guidance of thy faithful friend;
@@ -3494,7 +3476,6 @@ L
 
 
 
-150 THE SEA.
 
 At love's fond call, here Valisneria fair,*
 Her spiral stem uncurls, and floats to air;
@@ -3540,7 +3521,6 @@ the water for a considerable distance.
 
 
 
-£00K iv. THE SEA.
 
 Here Sagittaria points her dart of green,*
 
@@ -3580,7 +3560,6 @@ L4
 
 
 
-152 THE SEA. mok iv,.
 
 And here its kindred Nautilus outshone*
 
@@ -3666,7 +3645,6 @@ t The murex was employed by the Romans in dyeing their Tyrian purple.
 
 
 
-JESBt THE SEA. too.
 
 Or weep once more Lymnoria's fatal smiles,
 Her heart obdurate and successful wiles.
@@ -3807,7 +3785,6 @@ And with unnumber'd monsters fill the main;
 
 
 
-15S THE SEA. book iv.
 
 Where their long course the months in darkness roll,
 
@@ -3859,7 +3836,6 @@ Till their bright rinds with ripening lustre glow;
 
 
 
-j»ook iv. THE SEA.
 
 Or when the trees in richer livery clad,
 Of gold and crimson spread their mingled shade,
@@ -3925,7 +3901,6 @@ smell is particularly offensive,
 
 
 
-rook iv. THE SEA.
 
 Vast as the monsters of Hircynia's wood,
 
@@ -3977,7 +3952,6 @@ t The power of water and of ice, as conductors of sound, is mudi superior
 
 
 
-165 THE SEA. book it.
 
 But now the sea in larger waves was seen,
 And snowy foam emboss'd their dusky green;
@@ -4012,7 +3986,6 @@ by the resistless force of the vortex.
 
 
 
-kook iv. THE SEA. 16S
 
 A crystal vase fair Marguerita held,
 Aud o'er the seas a liquid balm distill'd,*
@@ -4046,7 +4019,6 @@ M
 
 
 
-164 THE SEA. sook iv.
 
 But first a ring, where words mysterious shone,
 
@@ -4229,7 +4201,6 @@ panded, they have the appearance of full blown flowers. They feed on small
 
 
 
-book iv. THE SEA.
 
 Mid scattcr'd shells, and tufts of herbage green,
 
@@ -4280,7 +4251,6 @@ turned througli the mouth.
 
 
 
-170 THE SEA.
 
 Perchance his hand may turn the shallow soil,
 And wondring pause, and tremble for the isle,
@@ -4322,7 +4292,6 @@ Sshery there. — Rogefs Lectures.
 
 
 
-*ook iv. THE SEA. 17 J
 
 Like swallows marshall'd for their annual flight,
 
@@ -4368,7 +4337,6 @@ place to place, the reflux of the tide impelling it slightly at every action.
 
 
 
-172 THE SEA. book iv.
 
 Their tender frames the shining shells defend,
 
@@ -4495,7 +4463,6 @@ To guide her passage to her subject state."
 
 
 
-1f6 • THE SEA. book i
 
 He ceas'd; yet still the parting chiefs delay'd,
 For still in musing mood Marino staid;
@@ -4526,7 +4493,6 @@ Or as a favour be thy suit declar'd,
 
 
 
-book iv. THE SEA. 17?
 
 If wealth can aid, our treasur'd stores command,
 If arms, ourself, and all our subject band!"
@@ -4555,7 +4521,6 @@ Oh! crown those hopes, and grant my earnest prayer!"
 
 
 
-178 THE SEA. book iv.
 
 Miranda ceas'd — delighted and amaz'd,
 The amorous monarch on his suppliant gaz'd;
@@ -4584,7 +4549,6 @@ As sudden clouds obscure the April day.
 
 
 
-BOOK IV. THE SEA.
 
 Alas! my generous lord!she cried, I claim,
 The sport of wayward fate, Miranda's name!
@@ -4869,7 +4833,6 @@ I
 
 
 
-mook iv. THE SEA.
 
 And much we grieve a warrior should disgrace
 
@@ -4908,7 +4871,6 @@ The queen meanwhile the sad Miranda cheers,
 
 
 
-188 THE SEA. book iv.
 
 His heart is brave, then in his valour trust!
 
@@ -4969,7 +4931,6 @@ Too far I follow'd in the heat of fight.
 
 
 
-190 THE SEA. book iv.
 
 Thro' ways unknown escaped the dastard foe,
 
@@ -5003,7 +4964,6 @@ And thought to meet with honour, not disgrace."
 
 
 
-book iv. THE SEA.
 
 Disgrace/' the king exclaim'd, on her alone!
 Come to my arms, thou bulwark of my throne.
@@ -5128,20 +5088,7 @@ They muse what syrens wake the midnight song.
 
 
 
-END OF THE FOURTH BOOK.
-
-
-
-THE VEILS.
-
-
-
-BOOK THE FIFTH.
-
-
-
-STROMBOLL
-
+---
 
 
 THE VEILS.
@@ -5244,7 +5191,6 @@ And at his bidding frame a concave sphere.
 
 
 
-202 STROMBOLI. book v.
 
 Clear and pellucid was its texture rare,
 
@@ -5291,7 +5237,6 @@ Fair Gallia's realms in prospect wide appear;
 
 
 
-•book v. STROMBOLI.
 
 Her vineyards rich with fruit, her mountains high,
 Where clouds extend, and snows eternal lie;
@@ -5354,7 +5299,6 @@ place of his exile.
 
 
 
-book v. STROMBOLI.
 
 On lofty Stromboli the sky was bright,
 As when it sparkles with the northern light,
@@ -5402,7 +5346,6 @@ comes pulverized. — Spallanzani.
 
 
 
-206 STROMBOLI. p,ook v.
 
 And oft some broken rock or cavern show'd
 
@@ -5454,7 +5397,6 @@ His hut of lava and his barren strand,
 
 
 
-book v. STROMBOLI.
 
 Than soft repose, or wealth's alluring smiles,
 
@@ -5573,7 +5515,6 @@ And love and hope her rapid steps impell'd;
 
 
 
-210 STROMBOLI. j;ook v.
 
 Above the gulf she mark'd a narrow cave, #
 
@@ -5807,7 +5748,6 @@ The light of the medusae always decays and vanishes on the rising of the
 
 
 
-216 STROMBOLI.
 
 The Castle on a rock enormous stood,
 Which rose abruptly from the roaring flood;
@@ -5844,7 +5784,6 @@ Vulcanian isles.
 
 
 
-book w STROMBOLI.
 
 The large and numerous fruits, on either side,
 
@@ -5875,7 +5814,6 @@ With sudden cold congeal the lucid wall,
 
 
 
-218 STROMBOLI.
 
 The crystal mass in clefts and fissures rent,
 Would like Castagna's mount a scene present.*
@@ -5916,7 +5854,6 @@ Spallanzani,
 
 
 
-book v. STROMBOLI.
 
 While in the clefts some fruitful spot was seen,
 
@@ -5998,7 +5935,6 @@ siderable blast still issues.
 
 
 
-book v. STROMBOLI.
 
 Now from the prow dart swiftly to the helm,
 A playful escort thro' the watry realm.*
@@ -6034,7 +5970,6 @@ carried on.
 
 
 
-222 STROMBOLI. book v
 
 Yet how, if here, the Spanish maid to find,
 
@@ -6141,7 +6076,6 @@ much investigation.
 
 
 
-224 STROMBOLI. book v
 
 Heaven's vengeance has destroy’d the guilty fair, ^
 
@@ -6186,7 +6120,6 @@ has afforded a subject to many of their best painters.
 
 
 
-book v. STROMBOLI.
 
 And now, as chance a rugged pathway shew'd,
 
@@ -6239,7 +6172,6 @@ Spallanzani,
 
 
 
-226 STROMBOLI. book t.
 
 Here the mild breezes own his gentle reign,
 
@@ -6291,7 +6223,6 @@ Seized in his arms his unresisting prey;
 
 
 
-hook v. STROMBOLI. 22r
 
 Faint with the heat, exhausted with the fight,
 He hung a lifeless burthen on the sprite,
@@ -6319,7 +6250,6 @@ His lifeless arms and throbbing temples rest.
 
 
 
-228 STROMBOLI.
 
 The wondrous scarf exerts its cooling power,
 Refreshing as at summer's sultry hour
@@ -6346,7 +6276,6 @@ No sign, no vestige, of the chief remained.
 
 
 
-hook v. STROMBOLI.
 
 Alouzo now restor'd, uncheck'd they past,
 And Pyros' regal palace reach'd at last.
@@ -6413,7 +6342,6 @@ Of vanquish'd foes that by his valour fell;
 
 
 
-hook v. STROMBOLI.
 
 And ill it fits a Christian knight to boast
 
@@ -6485,7 +6413,6 @@ She with a sigh pronounc'd Alonzo's name.
 
 
 
-book v. STROMBOLI.
 
 u l Alas!' she said, ' these groves already wear 6
 
@@ -6533,7 +6460,6 @@ Ungrateful maid! by me are tamely borne;
 
 
 
-234 STROMBOLI. book y.
 
 Or that thine hours in calm delight shall flee
 
@@ -6608,7 +6534,6 @@ The haunts of man, the tufts of sober green,
 
 
 
-236 STROMBOLI. book v.
 
 And that red cloud, that in the blue expanse,
 
@@ -6627,26 +6552,7 @@ While its fair freight the aerial vessel bore,
 And safely lands on Albion's happy shore.
 
 
-
-END OF THE FIFTH BOOK.
-
-
-
-THE VEILS.
-
-
-
-BOOK THE SIXTH.
-
-
-
-THE RESTORATION.
-
-
-
-THE VEILS.
-
-
+---
 
 BOOK THE SIXTH.
 
@@ -6676,7 +6582,6 @@ Or fumes condensing in superior skies;
 
 
 
-240 THE RESTORATION. i
 
 Or from some comet's train ignited hurl'd,
 Feels the attraction of our greater world;
@@ -6715,7 +6620,6 @@ them. In a similar way, the chemical effects produced by the beams of the
 
 
 
-kook vr. THE RESTORATION.
 
 "W liile borne diffuse on every side around
 
@@ -6767,7 +6671,6 @@ ing to the passage of electricity through the rare atmosphere of the poles.
 
 
 
-242 THE RESTORATION.
 
 While some, with these in union, close combine,
 And bid the leaves with pearly dew-drops shine;*
@@ -6815,7 +6718,6 @@ formed in the progress of congelation, are implanted one into the other in re-
 
 
 
-book vi. THE RESTORATION,
 
 Now speed the Sylphs o'er Cambria's frozen shore,
 Now o'er the Baltic's tideless waves they soar,*
@@ -6853,7 +6755,6 @@ by Madam Genlis.
 
 
 
-HU THE RESTORATION. book vi. ,
 
 Now o'er the black abyss the monarch bends,
 And thro' the unmeasured depth his voice descends,
@@ -6884,7 +6785,6 @@ At two small seats in silence points the guide,
 
 
 
-book vi. THE RESTORATION.
 
 The Sylph supports and cheers the entering maid;
 Descend!the Gnome in voice of thunder said.
@@ -6921,7 +6821,6 @@ I
 
 
 
-246 THE RESTORATION. boo
 
 But now, with sudden cold, a dreadful sound
 Of rushing streams and torrents roaring round,
@@ -6951,7 +6850,6 @@ on every side, but they are not visible.
 
 
 
-book vr. THE RESTORATION.
 
 Innumerous lamps illume the splendid halls,
 In tenfold light reflected from the walls,
@@ -6985,7 +6883,6 @@ R
 
 
 
-?A'6 THE RESTORATION. i-,ook v t .
 
 To his award e'en Chrysos bow'd, and he,
 Their lord Albruno, sanctioned his decree.*
@@ -7019,7 +6916,6 @@ sommode the miners.
 
 
 
-book vi. THE RESTORATION.
 
 And heard the thrilling shriek of woe and fear,
 
@@ -7069,7 +6965,6 @@ round.
 
 
 
-250 THE RESTORATION. book vi.
 
 The wanderers quit these busy realms of light,
 And plunge once more in silence aud in night;
@@ -7107,7 +7002,6 @@ during the greater part of the year, but about the beginning of July the
 
 
 
-ijook vi. THE RESTORATION.
 
 Just as they reach'd Albmno's stately dome,
 
@@ -7154,7 +7048,6 @@ them, sec the fourth volume of Dr. Hutton's Mathematical Recreations.
 
 
 
-252 THE RESTORATION. boc
 
 Those veteran chiefs who oft had brav'd in fight
 
@@ -7199,7 +7092,6 @@ With blessings wing'd, bore record of his power,
 
 
 
-book vi. THE RESTORATION.
 
 His prosperous realm was free from war's alarms,
 
@@ -7253,7 +7145,6 @@ I
 
 
 
-254 THE RESTORATION. book vx.
 
 All that on earth the female heart can charm,
 
@@ -7301,7 +7192,6 @@ The prompt avengers of her injured charms,
 
 
 
-THE RESTORATION.
 
 
 
@@ -7340,7 +7230,6 @@ s
 
 
 
-256 THE RESTORATION. book vi.
 
 Albruno gaz'd upon the maid and sigh'd;
 
@@ -7371,7 +7260,6 @@ however be known to the Gnomes.
 
 
 
-book vr. THE RESTORATION.
 
 From AnahuaC* bring the various ores, 3 JO
 
@@ -7405,7 +7293,6 @@ the same with New Spain, is rich in ores of every kind, and in precious stones.
 
 
 
-258 THE RESTORATION. book vr.
 
 Fix'd not to yield, yet griev'd those sounds to hear,
 
@@ -7442,7 +7329,6 @@ And call thee here a monarch's throne to share.
 
 
 
-book vr. THE RESTORATION.
 
 Yet if with me in fight he dare to stand,
 Here let proud Henry combat for thy hand.
@@ -7473,7 +7359,6 @@ s ( l
 
 
 
-260 THE RESTORATION. kook vi,
 
 That flows at once thro' earth, and air, and sky,
 One boundless flood of life, and love, and joy."
@@ -7503,7 +7388,6 @@ And gave it brighter tints and softer shade .
 
 
 
-kook vi. THE RESTORATION. 20i
 
 Where Albion lifts her chalky cliffs on high,
 The first faint crimson streak'd the eastern sky,
@@ -7533,7 +7417,6 @@ s
 
 
 
-262 THE RESTORATION. book vi.
 
 Prepared for fight, now proud Albruno came,
 
@@ -7566,7 +7449,6 @@ Bride,"
 
 
 
-book vi. THE RESTORATION.
 
 Twice was the summons given, no answer came,
 .And a chill faintness seiz'd the maiden's frame;
@@ -7596,7 +7478,6 @@ s
 
 
 
-264 THE RESTORATION. cook vi.
 
 How comes he here?— by whom releas'd? — and how? —
 
@@ -7634,7 +7515,6 @@ Griev'd for the wounded honour of their race;
 
 
 
-book vr. THE RESTORATION.
 
 And inly blamed their monarch's tardy blade,
 
@@ -7683,7 +7563,6 @@ earthquake instantly takes place.
 
 
 
-266 THE RESTORATION.
 
 Form'd of concentred lightning, at its stroke
 The harden'd steel divides, and knotted oak,
@@ -7713,7 +7592,6 @@ electrical sword of Henry.
 
 
 
-iiooK vi. THE RESTORATION.
 
 Meanwhile recovered, gallant Alfred sought
 The spot where Henry and Albruno fought,
@@ -7742,7 +7620,6 @@ When Henry's falchion fell with deadly weight;
 
 
 
-268 THE RESTORATION". book vi.
 
 His broken mail his wounded shoulder shew'd,
 
@@ -7790,7 +7667,6 @@ Again they clos'd, again their fight renew'd.
 
 
 
-boon vr. THE RESTORATION 0.69
 
 Chrysos meanwhile still braved his angry foe,
 And parries oft, but seldom aims a blow,
@@ -7822,7 +7698,6 @@ Maria, trembling, sicken'd at the view,
 
 
 
-270 THE RESTORATION. book vr.
 
 Sad on her ear the shouts of triumph fell,
 
@@ -7872,7 +7747,6 @@ In silence stood, when struck the mighty gong:
 
 
 
-book v/. THE RESTORATION. m
 
 That solemn sound, which on Maria's ear,
 
@@ -7917,7 +7791,6 @@ Deep thunders roil'd, and all the fabric shook;
 
 
 
-272 THE RESTORATION. book vi.
 
 Earth felt the shock in her remotest cave,
 
@@ -7956,7 +7829,6 @@ And ocean's king have vainly fought to tame!
 
 
 
-book vi. THE RESTORATION. o
 
 For thee! sweet maid, no language can impart
 
@@ -7994,7 +7866,6 @@ The truth from thee which yet I wish'd conceaPd;
 
 
 
-3f4 THE RESTORATION. book vr.
 
 A wondrous tale Aurelio shall declare,
 
@@ -8038,7 +7909,6 @@ Nor friendship fix'd, nor promises could bind;
 
 
 
-aooK vi. THE RESTORATION.
 
 With every charm that wins the heart to love,
 
@@ -8072,7 +7942,6 @@ T
 
 
 
-276 THE RESTORATION. -book vi.
 
 His word I took in Evelina's name,
 And pledg'd her to redeem her sex's fame,
@@ -8102,7 +7971,6 @@ The fondest transports of a mortal's love,.
 
 
 
-book vx. THE RESTORATION.
 
 With all that deeper tenderness refined,
 
@@ -8139,7 +8007,6 @@ T .0
 
 
 
-278 THE RESTORATION. book vi.
 
 Ho! seize him guards!— he starapt upon the ground:
 
@@ -8179,7 +8046,6 @@ The light of reason in thy noble mind?
 
 
 
-book vi. THE RESTORATION.
 
 Has not experience taught thy soul to know
 
@@ -8223,7 +8089,6 @@ T
 
 
 
-280 THE RESTORATION. book vr
 
 For me! the memory of this painful hour
 
@@ -8267,7 +8132,6 @@ Mild Amiantha curb'd his fiery soul,
 
 
 
-book vi. THE RESTORATION.
 
 And oft the grateful Gnomes, in loud acclaim,
 Join'd peace and love with Amiantha's name.
@@ -8301,7 +8165,6 @@ the Grecian honey-suckle.
 
 
 
-282 THE RESTORATION. book vi.
 
 In varying dyes each gay Protea springs,
 
@@ -8339,7 +8202,6 @@ Ci Of mortal weakness with immortal life,
 
 
 
-book vi. THE RESTORATION.
 
 Each circling year to that fair form and face
 
@@ -8380,7 +8242,6 @@ situation, but not larger than our moon. This planet he named Ceres: but
 
 
 
-284 THE RESTORATION. fi
 
 In that vast space, 'twixt Jove's imperial sphere
 
@@ -8427,7 +8288,6 @@ vulgar.
 
 
 
-book tx. THE RESTORATION.
 
 Join'd in your fates below, and joined above
 
@@ -8446,8 +8306,7 @@ END OF THE POEM.
 
 
 
-### Persons of the Poem
-
+## Persons of the Poem
 
 ### Mortals
 
@@ -8517,7 +8376,6 @@ END OF THE POEM.
 * TITANOS — *Chalk*
 * ZIRCON — *An earth*
 
-
 ### Sylphs
 
 * ARIEL
@@ -8534,7 +8392,6 @@ END OF THE POEM.
 * OMBRA — *Shower*
 * SCIROCCO — *The south-east*
 * THUELLA — *Storm*
-
 
 ### Pyridae
 
@@ -8577,7 +8434,6 @@ END OF THE POEM.
 
 * MARINO
 
-
 * CLYDON — *Tide*
 * CUMA — *Wave*
 * CUMOS —&emsp;〃
@@ -8588,5 +8444,3 @@ END OF THE POEM.
 * POTAMOS — *River*
 * PLEMMYRA — *Flowing*
 * PLEMURA —&emsp;〃
-
-
