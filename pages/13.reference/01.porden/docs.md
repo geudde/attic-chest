@@ -2999,338 +2999,206 @@ The prize of beauty to their rivals yield;<br>
 Aloft each nymph beholds with joyful eye<br>
 For her the chance of war her knight defy,<br>
 And oft, when courage fails, and hope expires,<br>
-New strength, new zeal, her cheeriug glance inspires.
+New strength, new zeal, her cheering glance inspires.
 
-“At first from all Lymnoria's valiant knight
-Their favours bore, the trophies of the fight,
-
-
-
-
-While rais'd upon a coral throne she sate,
-
-And watch'd his glorious course with heart elate;
-
-Her gorgeous robe with regal splendour shone,
-
-The scarlet coral form'd a mimic crown,
-
-Her clustering locks rich chains of pearl confine,
-
-Her whiter arms the clasping pearls outshine;
-
-It seem'd alike that art and nature vied
-
-To deck that lovely form, their mutual pride.
-
-Perhaps she hop'd that hour again might wind
-
-Her fatal fetters round Marino's mind.
-
-Ah! less seductive were Armida's smiles,
-
-And less pernicious her delusive wiles;
-
-Tho' known her fraud, Lymnoria's charms detain
-
-Unnumber'd knights in love's delightful chain,
-
-To all her smiles deceitful hopes impart,
-
-Pleas'd to be dup'd, tho' conscious of her art,
-
-Or if against her beauty's sway they strive,
-
+“At first from all Lymnoria’s valiant knight<br>
+Their favours bore, the trophies of the fight,<br>
+While rais’d upon a coral throne she sate,<br>
+And watch’d his glorious course with heart elate;<br>
+Her gorgeous robe with regal splendour shone,<br>
+The scarlet coral form’d a mimic crown,<br>
+Her clustering locks rich chains of pearl confine,<br>
+Her whiter arms the clasping pearls outshine;<br>
+It seem’d alike that art and nature vied<br>
+To deck that lovely form, their mutual pride.<br>
+Perhaps she hop’d that hour again might wind<br>
+Her fatal fetters round Marino’s mind.<br>
+Ah! less seductive were Armida’s smiles,<br>
+And less pernicious her delusive wiles;<br>
+Tho’ known her fraud, Lymnoria’s charms detain<br>
+Unnumber’d knights in love’s delightful chain,<br>
+To all her smiles deceitful hopes impart,<br>
+Pleas’d to be dup’d, tho’ conscious of her art,<br>
+Or if against her beauty’s sway they strive,<br>
 Her looks their love and fading hope revive.
 
-But lo! Marino comes; his noble steed
-Active and strong, the pride of ocean's breed;
-The treasures of the deep his mail compos'd,
-Corals and shells in bright array dispos'd,
+But lo! Marino comes; his noble steed<br>
+Active and strong, the pride of ocean’s breed;<br>
+The treasures of the deep his mail compos’d,<br>
+Corals and shells in bright array dispos’d,<br>
+A pearly Nautilus his helmet made,<br>
+The green Confervæ nodded o’er his head,<br>
+The Walrus gave the ivory horn he wore,[^73]<br>
+A Chama form’d the massy shield he bore,[^74]<br>
+The Xiphias horn his polish’d lance supplied,<br>
+And the bright sword that glitter’d at his side.[^75]<br>
+Soon to his might all rival warriors yield,<br>
+And last Lymnoria’s champion prest the field,<br>
+But then her cheek’s vermilion hue betray’d<br>
+The secret rage that stung the wily maid,<br>
+While (pledge of conquest) from the lance he bore,<br>
+Her blazon’d name the royal victor tore,<br>
+Her hand that purple pennon wrought with care,<br>
+The name embroider’d in her golden hair.
 
+[^73]: The walrus, a large sea animal, by some called the sea-cow, by others the old man of the sea, on account of its white or hoary appearance. Its hind legs are united together like those of the seal, and one species is supposed to have been the poetical dolphin of the ancients. The walrus has two tusks, which are reckoned the finest ivory in the world, much superior to that of the elephant. — *Dr. Smith’s Lectures*.
 
+[^74]: The shells of the chama gigas, farther mentioned in a note on the next book, would have made no contemptible shield, even for the gigantic Ajax.
 
+[^75]: The horns of the xiphias, or sword-fish, are exceedingly beautiful, and so strong that they often do great injury to vessels by piercing their sides.
 
-A pearly Nautilus his helmet made,
-
-The green Confervas nodded o'er his head,
-
-The Walrus gave the ivory horn he wore,*
-
-A Chama form'd the massy shield he bore,y-
-
-The Xiphias horn his polish'd lance supplied,
-
-And the bright sword that glitter'd at his side.J
-
-Soon to his might all rival warriors yield,
-
-And last Lymnoria's champion prest the field,
-
-But then her cheek's vermilion hue betray 'd
-
-The secret rage that stung the wily maid,
-
-While (pledge of conquest) from the lance he bore,
-
-Her blazon'd name the royal victor tore,
-
-Her hand that purple pennon wrought with care,
-
-The name embroider'd in her golden hair.
-
-"• Marino now, all rival knights subdu'd,
-The prize to claim before the judges stood;
-
-
-
-* The walrus, a large sea animal, by some called the sea-cbw, by other*
-the old man of the sea, on account of its white or hoary appearance. Its
-hind legs are united together like those of the seal, and one species is sup-
-posed to have been the poetical dolphin of the ancients. The walrus has two
-tusks, which are reckoned the finest ivory in the world, much superior to
-that of the elephant. — Dr. Smith's Lectures.
-
-t The shells of the chama gigas, farther mentioned in a note on the next
-book, would have made no contemptible shield, even for the gigantic Ajax.
-
-t The horns of the xiphias, or sword-fish, are exceedingly beautiful, and
-so strong that they often do great injury to vessels by piercing their sides.
-
-
-
-
-The victor's meed a sparkling helmet shines,
-
-Won from the mighty monarch of the mines,
-
-And a bright zone, of pearl and coral rare,
-
-The victor's tribute to his chosen fair.
-
-But on that morn, Marino to the fight
-
-Came not acknowledg'd as a lady's knight;
-
-Around the ring awhile in doubt he rode,
-
-To view where best the prize might be bestow'd;
-
-While hop'd Lymnoria to receive once more
-
-That envied honour oft bestow'd before;
-
-But no! the monarch, with a careless eye,
-
-Just glanc'd upon the maid, and pass'd her by;
-
-Meanwhile his martial mien, and known desert,
-
-Had wak'd a strange sensation in my heart,
-
-And as he in the circle rode, I found
-
-My eyes unconsciously had watch'd him round;
-
-At length before my seat behold him stand,
-
+“Marino now, all rival knights subdu’d,<br>
+The prize to claim before the judges stood;<br>
+The victor’s meed a sparkling helmet shines,<br>
+Won from the mighty monarch of the mines,<br>
+And a bright zone, of pearl and coral rare,<br>
+The victor’s tribute to his chosen fair.<br>
+But on that morn, Marino to the fight<br>
+Came not acknowledg’d as a lady’s knight;<br>
+Around the ring awhile in doubt he rode,<br>
+To view where best the prize might be bestow’d;<br>
+While hop’d Lymnoria to receive once more<br>
+That envied honour oft bestow’d before;<br>
+But no! the monarch, with a careless eye,<br>
+Just glanc’d upon the maid, and pass’d her by;<br>
+Meanwhile his martial mien, and known desert,<br>
+Had wak’d a strange sensation in my heart,<br>
+And as he in the circle rode, I found<br>
+My eyes unconsciously had watch’d him round;<br>
+At length before my seat behold him stand,<br>
 The radiant girdle waving in his hand.
 
-( To thee, the loveliest of the lovely throng,'
-4i He said, ' this girdle can alone belong.'
+“‘To thee, the loveliest of the lovely throng,’<br>
+He said, ‘this girdle can alone belong.’
 
-With trembling hand the precious belt I took,
-w My tott'ring frame with strange emotion shook,
+“With trembling hand the precious belt I took,<br>
+My tott’ring frame with strange emotion shook,<br>
+In vain I tried the lively thanks to speak<br>
+That shone in crimson on my glowing cheek;<br>
+When lo! in happy hour, a piercing scream<br>
+Thrill’d thro’ my frame, and rous’d me from my dream.<br>
+Around Lymnoria’s fainting form, I view’d<br>
+Where all the sisters of the ocean stood,<br>
+And hid my feelings in the throng that led<br>
+Back to her pearly grot the senseless maid.<br>
+Thus past the morning! in his regal hall<br>
+That night the monarch gave a splendid ball;<br>
+Fate, and the magic of the scene conspire<br>
+Still in my breast to feed the growing fire,<br>
+Grac’d with the envied honours of the fight,<br>
+I led the dance with my victorious knight.<br>
+Sure not so graceful could Sir Gawaine be![^76]<br>
+That gem of arms, and ‘Flower of Courtesie!’<br>
+Not half so sweet his honied accents flow’d!<br>
+Tho’ in his speech the fire of rhetoric glow’d.<br>
+He said, ‘Since bright-hair’d Florimel was there,<br>
+The ocean caves could boast no maid so fair,<br>
+And well the radiant zone that bound my vest<br>
+Might seem the magic girdle she possest.’[^77]
 
-
-
-
-In vain I tried the lively thanks to speak
-
-That shone in crimson on my glowing cheek;
-
-When lo! in happy hour, a piercing scream
-
-Thrill'd thro' my frame, and rous'd me from my dream.
-
-Around Lymnoria's fainting form, I view'd
-
-Where all the sisters of the ocean stood,
-
-And hid my feelings in the throng that led
-
-Back to her pearly grot the senseless maid.
-
-Thus past the morning! in his regal hall
-That night the monarch gave a splendid ball;
-Fate, and the magic of the scene conspire
-Still in my breast to feed the growing fire,
-Grac'd with the envied honours of the fight,
-I led the dance with my victorious knight.
-
-Sure not so graceful could Sir Gawaine be! *
-That gem of arms, and ' Flower of Courtesie!'
-
-
-
-* Sir Gawaine's name is familiar to all the lovers of romance. He was
+[^76]: Sir Gawaine's name is familiar to all the lovers of romance. He was
 the nephew of King Arthur, and the model of courtesy and eloquence to all
 the knights of the Round Table. He still lives in fairy-land, and perhaps
 his instructions in the art of politeness may have taught the fairies not to
 molest poor wayworn travellers so frequently of late, as when every son of
-song beheld their midnight revels, and every unwa^ wanderer was in danger
+song beheld their midnight revels, and every unwary wanderer was in danger
 of suffering from their pranks. The existence of these playful spirits is so
 dear to the imagination, that one can hardly bear to part with them, and
 during a moonlight ramble, it is difficult not to hope, and almost to fancy,
 their presence.
 
+[^77]: The magic girdle of Fiorimel must be well remembered by all the readers of Spenser.
 
+“Think me not vain, sweet maids, for lingering here<br>
+On words like these, the speaker made them dear!<br>
+Too swift the moments wing’d their airy flight,<br>
+And put a period to that festive night;<br>
+Ne’er with such pleasure have I hail’d the morn,<br>
+And watch’d its earliest beams the sky adorn,<br>
+As now with grief I saw the lamps decay<br>
+In the bright lustre of the orient day.<br>
+Too soon the weary train retir’d to rest,<br>
+No gentle sleep my wakeful eyelids blest;<br>
+On my soft couch in pensive mood reclin’d,<br>
+I scann’d the new sensations in my mind,<br>
+While, with officious truih, fond memory dwelt<br>
+On all that I had seen, and heard, and felt;<br>
+Each word, each look recall’d, that might impart<br>
+A gleam of hope to my afflicted heart.<br>
+Tho’ with delight I view’d my mingled birth,<br>
+Deriv’d not more from ocean than from earth,<br>
+Yet oft the dreadful vow would cross my brain,<br>
+No ‘daughter of the Sea shall o’er the Ocean reign;’<br>
+And well I knew that in the realms of air<br>
+Marino’s envoys sought the fated fair,<br>
+Who should with all Lymnoria’s beauties shine,<br>
+And all the beauties of the soul combine.<br>
+I knew, that day, a fatal rumour came,<br>
+His faithful Sprites had found the destin’d dame:<br>
+Too well the following morn confirm’d the tale,<br>
+Its truth establish’d, by Miranda’s Veil,<br>
+Yet to my mind this gleam of comfort brought,<br>
+That she to shun the hateful union sought;<br>
+I hop’d Lymnoria’s jealousy would aid,<br>
+And in her suit support the unhappy maid.<br>
+But no! as stars by Phoebus’ light opprest,<br>
+A keener fire her rising rage supprest;<br>
+And pondering still the tourney’s hapless hour,<br>
+On me she seeks her heaviest wrath to pour,<br>
+To check thy course, new perils threat the road,<br>
+Thro’ the deep Maelstrom to the king’s abode.[^78]<br>
+But fear not; were its dangers greater far,<br>
+Secure I’d waft thee in my pearly car.”
 
+She ceas’d; for on the margin of the flood,<br>
+Beneath a city’s ancient walls they stood,<br>
+While the faint splendours of the fading west<br>
+Proclaim’d the hour of silence and of rest.
 
-Not half so sweet his honied accents flow'd!
-Tho' in his speech the fire of rhetoric glow'd.
-He said, * Since bright-hair'd Florimel was there,
-' The ocean caves could boast no maid so fair,
-' And well the radiant zone that bound my vest
-' Might seem the magic girdle she possest.'*
-
-Think me not vain, sweet maids, for lingering here
-On words like these, the speaker made them dear!
-Too swift the moments wing'd their airy flight,
-And put a period to that festive night;
-u Ne'er with such pleasure have I hail'd the morn,
-And watch'd its earliest beams the sky adorn,
-As now with grief I saw the lamps decay
-In the bright lustre of the orient day.
-Too soon the weary train retir'd to rest,
-No gentle sleep my wakeful eyelids blest;
-On my soft couch in pensive mood reclin'd,
-I scann'd the new sensations in my mind, 86()
-
-While, with officious truih, fond memory dwelt
-On all that I had seen, and heard, and felt;
-
-
-
-* The magic girdle of Fiorimel must be well remembered by all the
-readers of Spenser.
-
-
-
-
-Each word, each look recall'd, that might impart
-
-A gleam of hope to my afflicted heart.
-
-TW with delight I view'd my mingled birth,
-
-Deriv'd not more from ocean than from earth,
-
-Yet oft the dreadful vow would cross my brain,
-
-No ' daughter of the Sea shall o'er the Ocean reign;'
-
-And well I knew that in the realms of air
-
-Marino's envoys sought the fated fair,
-
-Who should with all Lymnoria's beauties shine,
-
-And all the beauties of the soul combine.
-
-I knew, that day, a fatal rumour came,
-
-His faithful Sprites had found the destin'd dame:
-
-Too well the following morn confirm'd the tale,
-
-Its truth establish'd, by Miranda's Veil,
-
-Yet to my mind this gleam of comfort brought,,
-
-That she to shun the hateful union sought;
-
-I hop'd Lymnoria's jealousy would aid,
-
-And in her suit support the unhappy maid.
-
-But no! as stars by Phoebus' light opprest,
-
-A keener fire her rising rage supprest;
-
-And pondering still the tourney's hapless hour,
-
-On me she seeks her heaviest wrath to pour,
-
-
-
-
-To check thy course, new perils threat the road,
-
-Thro' the deep Maelstrom to the king's abode.*
-
-But fear not; were its dangers greater far,
-
-Secure I'd waft thee in my pearly car."
-
-She ceas'd; for on the margin of the flood,
-Beneath a city's ancient walls they stood, '
-
-While the faint splendours of the fading west
-Proclaim'd the hour of silence and of rest.
-
-* Unlike the dangers of Charybdis, those of the Maelstrom are said to
+[^78]: Unlike the dangers of Charybdis, those of the Maelstrom are said to
 have increased very much of late years.
-
 
 ---
 
 ## Book the Fourth
 
-
-
 ## The Sea
 
-While on the waves the earliest sunbeam play'd,
-Miranda rose, and by their margin stray'd,
-Impatient of her friend's expected aid,
-When on the tide she view'd a bark that bore
-A graceful damsel lightly to the shore;
-But ere it touch'd the strand, a mist profound
-Cloth'd in a fleecy veil the scene around;
-So thick, it scarce allow'd her eye to trace
-The lovely features of the Sea-nymph's face,
-Who from the boat began — Miranda, haste!
-Let no vain fear the precious moments waste,
-L
-
-
-
-
-Tho' dense around the morning mists extend,
-Trust the sure guidance of thy faithful friend;
-My bark ne'er courts the breeze's varying force,
-No oars impel, no rudder guides its course,
-I do but bid, at noon or night the same,
-It moves unerring to its destin'd aim:
-O come! our cause admits no vain delay.—
-She enter'd; swift the vessel glides away.
-In silence pondering on her doubtful fate,
-Beside her friend, Miranda mournful sate;
-Slowly the mists disperse, and all around
-The heavens alone the wide horizon bound,
-While o'er the tide her eyes explore in vain,
-For Albion's vanish'd cliffs, the dazzling main.
-But now the vessel stops, the waves divide,
-And seem a glassy wall on every side;
-Down to the bosom of the deep it goes,
-And o'er their heads the crystal arches close;
-At length they reach a realm of purest air,
-Where, far above, the waves like clouds appear;
-And thro' their lucid veil with soften'd ray,
-The emerald sun diffused a milder day.
-Here, as on earth, tall woods and hills ascend;
-Here cities rise, and fruitful vales extend;.
+While on the waves the earliest sunbeam play’d,<br>
+Miranda rose, and by their margin stray’d,<br>
+Impatient of her friend’s expected aid,<br>
+When on the tide she view’d a bark that bore<br>
+A graceful damsel lightly to the shore;<br>
+But ere it touch’d the strand, a mist profound<br>
+Cloth’d in a fleecy veil the scene around;<br>
+So thick, it scarce allow’d her eye to trace<br>
+The lovely features of the Sea-nymph’s face,<br>
+Who from the boat began — Miranda, haste!<br>
+Let no vain fear the precious moments waste,<br>
+Tho’ dense around the morning mists extend,<br>
+Trust the sure guidance of thy faithful friend;<br>
+My bark ne’er courts the breeze’s varying force,<br>
+No oars impel, no rudder guides its course,<br>
+I do but bid, at noon or night the same,<br>
+It moves unerring to its destin’d aim:<br>
+O come! our cause admits no vain delay.—<br>
+She enter’d; swift the vessel glides away.<br>
+In silence pondering on her doubtful fate,<br>
+Beside her friend, Miranda mournful sate;<br>
+Slowly the mists disperse, and all around<br>
+The heavens alone the wide horizon bound,<br>
+While o’er the tide her eyes explore in vain,<br>
+For Albion’s vanish’d cliffs, the dazzling main.<br>
+But now the vessel stops, the waves divide,<br>
+And seem a glassy wall on every side;<br>
+Down to the bosom of the deep it goes,<br>
+And o’er their heads the crystal arches close;<br>
+At length they reach a realm of purest air,<br>
+Where, far above, the waves like clouds appear;<br>
+And thro’ their lucid veil with soften’d ray,<br>
+The emerald sun diffused a milder day.<br>
+Here, as on earth, tall woods and hills ascend;<br>
+Here cities rise, and fruitful vales extend;
 
 
 
