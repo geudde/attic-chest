@@ -2597,127 +2597,62 @@ Thro’ the thick volumes of sulphureous smoke,<br>
 Or the red light that glow’d along the plain,<br>
 From gleaming arms, and fire’s expiring train.
 
-But Ariel now from rescued Henry flew,
-And pierced the distant heaven's ethereal blue:
-Above the clouds, he reach'd his throne of light,
-Whence half the globe expands beneath his sight;
-(That wondrous throne, where Scandinavia's race
+But Ariel now from rescued Henry flew,<br>
+And pierced the distant heaven’s ethereal blue:<br>
+Above the clouds, he reach’d his throne of light,<br>
+Whence half the globe expands beneath his sight;<br>
+(That wondrous throne, where Scandinavia’s race<br>
+Their fabled god, their barbarous Odin place;)[^69]<br>
+He mark’d those clouds of rising smoke, that shone<br>
+In silvery light beneath the placid moon,<br>
+And pierced with eagle eye their sable womb,<br>
+Where flames terrific light the fearful gloom;<br>
+And mid the clash of arms, the ceaseless din,<br>
+A second chaos seem’d to rage within.<br>
+As thro’ the gulf the mingled legions pour,<br>
+Tumultuous still! an inexhausted store,<br>
+In vain the Sylphs impede them as they rise,<br>
+Or headlong hurl them from the invaded skies;<br>
+To share their fate unnumber’d troops succeed,<br>
+And friends and foes in strife promiscuous bleed.<br>
+But mighty Ariel, who with grief survey ‘d<br>
+The dreadful havoc by the Hydidæ made,<br>
+Resolved to end the war — A glance lie cast<br>
+Where near his throne a minor planet past,<br>
+There oft these orbs their burning faces shew,<br>
+Their names are meteors with the world below.[^70]<br>
 
-Their fabled god, their barbarous Odin place;)*
+[^69]: The famous throne of Hlidskialfa is in the palace, not of Valhalla, but of Valaskialf. This throne was so situated, that any one sitting upon it might behold all the regions of the world. It properly belonged to Odin and Frigga. — *Cottle’s Edda*.
 
-He mark'd those clouds of rising smoke, that shone
+[^70]: Sir John Pringle has imagined meteors to be a sort of minor planets rolling through various systems, and kindling on their entrance into our atmosphere. During their inflammation, they throw off those bodies called meteoric stones. That these bodies actually fall from the clouds appears now scarcely to admit a doubt, both from their peculiar composition, and the number of evidences that attest the fact. Meteoric stones have been frequently found hot, immediately after the passage of a meteor. Their elements invariably consist of iron, silex, magnesia, and nickel. The three latter ingredients are sometimes in such small quantities, as to leave the iron almost pure, and constituting what is called native iron. This iron is very different from that procured from the ore, which seems to arise from the mixture of nickel: it is harder, takes a fine polish, resists tarnishing, and is always magnetic. There is a large mass of this iron in Siberia, weighing 650 pounds; in Peru there is another of the enormous weight of 15 tons, and there is one similar at the Cape.
 
-In silvery light beneath the placid moon,
+Professor Davy has imagined, that meteors, whether planets or otherwise, may have consisted originally of the pure metals of silex and magnesia, united with iron and nickel. The two former would necessarily ignite on meeting with the oxygen of our atmosphere, and the meteors passing off to other systems, leave a part of their substance as a compensation for the weight of oxygen acquired.
 
-And pierced with eagle eye their sable womb,
-
-Where flames terrific light the fearful gloom;
-
-And mid the clash of arms, the ceaseless din,
-
-A second chaos seem'd to rage within.
-
-As thro' the gulf the mingled legions pour,
-
-Tumultuous still! an inexhausted store,
-
-In vain the Sylphs impede them as they rise,
-
-Or headlong hurl them from the invaded skies;
-
-To share their fate unnumber'd troops succeed,
-
-And friends and foes in strife promiscuous bleed.
-
-But mighty Ariel, who with grief survey 'd
-
-The dreadful havoc by the Hyciidae made,
-
-Resolved to end the war — A glance lie cast
-
-Where near his throne a minor planet past,
-
-There oft these orbs their burning faces shew,
-
-Their names are meteors with the world below.f
-
-
-
-* The famous throne of Hliclskialfa is in the palace, not of Valhalla, but
-©f Valaskialf. This throne was so situated, that any one sitting upon it
-might behold all the regions of the world. It properly belonged to Odin
-and Frigga. — Cot tit's Edda.
-
-t Sir John Pringle has imagined meteors to be a sort of minor planets
-
-
-
-
-He seized the wanderer, reckless of its weight,
-
-And swift thro' ether wing'd his radiant flight;
-
-Soon o'er the gulf he hung — -the orb he cast,
-
-The Sylphids flying as it whistled past;
-
-Down in its course the issuing Sprites it bore,
-
-And closed the cavern's mouth for evermore:
-
-Fixt to the spot, till time's jemotest hour
-
-That stone shall rest the mark of Ariel's power.
-
-Back by his arm the clouds of smoke were driven,
-
-Again the moon illumes the azure heaven;
-
-
-
-rolling through various systems, and kindling on their entrance into our
-atmosphere. During their inflammation, they throw off those bodies called
-meteoric stones. That these bodies actually fall from the clouds appears
-now scarcely to admit a doubt, both from their peculiar composition, and
-the number of evidences that attest the fact. Meteoric stones have been
-frequently found hot, immediately after the passage of a meteor. Their
-elements invariably consist of iron, silex, magnesia, and nickel. The three
-latter ingredients are sometimes in such small quantities, as to leave the iron
-almost pure, and constituting what is called native iron. This iron is very
-different from that procured from the ore, which seems to arise from the
-mixture of nickel': it is harder, takes a fine polish, resists tarnishing, and is
-always magnetic. There is a large mass of this iron in Siberia, weighing
-650 pounds; in Peru there is another of the enormous weight of 15 tons,
-and there is one similar at the Cape.
-
-Professor Davy has imagined, that meteors, whether planets or otherwise,
-may have consisted originally of the pure metals of silex and magnesia,
-united with iron and nickel. The two former would necessarily ignite on
-meeting with the oxygen of our atmosphere, and the meteors passing off to
-other systems, leave a part of their substance as a compensation for the weight
-of oxygen acquired.
-
-
-
-
-Yet still the cries of warriors maim'd in fight
-
-Disturb the sacred silence of the night,
-
-The dreary scene thick dust and ashes spread,
-
+He seized the wanderer, reckless of its weight,<br>
+And swift thro’ ether wing’d his radiant flight;<br>
+Soon o’er the gulf he hung — the orb he cast,<br>
+The Sylphids flying as it whistled past;<br>
+Down in its course the issuing Sprites it bore,<br>
+And closed the cavern’s mouth for evermore:<br>
+Fixt to the spot, till time’s remotest hour<br>
+That stone shall rest the mark of Ariel’s power.<br>
+Back by his arm the clouds of smoke were driven,<br>
+Again the moon illumes the azure heaven;<br>
+Yet still the cries of warriors maim’d in fight<br>
+Disturb the sacred silence of the night,<br>
+The dreary scene thick dust and ashes spread,<br>
 And broken arms, and bodies of the dead.
 
-From conflict by their flying squadrons borne,
-Again to fight the rival kings return.
-Albruno, Pyros, view'd with equal pain,
-How few of all their gallant bands remain;
-Alike Marino mourn'd his valiant host,
-Dishearten'd, weak, his bravest warriors lost;
-Too late repentant of the havoc done,
-Where all were weaken'd, yet victorious none:
-In triple truce the rival kings agreed,
-And from the field their shatter'd forces lead.
+From conflict by their flying squadrons borne,<br>
+Again to fight the rival kings return.<br>
+Albruno, Pyros, view’d with equal pain,<br>
+How few of all their gallant bands remain;<br>
+Alike Marino mourn’d his valiant host,<br>
+Dishearten’d, weak, his bravest warriors lost;<br>
+Too late repentant of the havoc done,<br>
+Where all were weaken’d, yet victorious none:<br>
+In triple truce the rival kings agreed,<br>
+And from the field their shatter’d forces lead.
 
 The Muse now quits the drear abode of night, \
 
