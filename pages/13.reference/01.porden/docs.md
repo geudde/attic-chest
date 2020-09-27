@@ -2860,237 +2860,148 @@ We scorn the prowess of a single hand.<br>
 But come and prove, the maids no longer here,<br>
 Alike unjust your anger and your fear.”
 
-He ceased: — the drawbridge falls — Alonzo's mind
-Already half its late distrust resign'd.
-He past, and turning, wild with anguish, found
-The bridge again uprais'd, himself on hostile ground;
-The vassals, at their fraudful lord's commands,@
-
-Prepar'd to bind him in ignoble bands;
-Lost was his spear, but swift his sword he drew, ^
-
-The first he wounded and the next he slew, V
-
-And on their chief with double fury flew. J
-
-k
-
-
-
-
-But vain his strength, the villain fought secure,
-
-In skill, but more in temper'd armour, sure.
-
-Alonzo's sword, unfaithful to his hand,
-
-In shining fragments glitter'd on the sand.
-
-Yet still his art eludes the coming blow,
-
-And grasps with sinewy arms his hardy foe.
-
-Long was the strife, as o'er the narrow plain
-
-Struggling they fight — retreat' — advance again.
-
-The Baron's limbs to time and labour yield,
-
-Prest by his foe, he sinks upon the field;
-
-At this, long peals of thunder shook the sky,
-
-The fallen chieftain fled Alonzo's eye:
-
-The walls, the towers that caught the morning beam,
-
-The moat, the drawbridge, vanish'd like a dream!
-
-He mark'd the change; then sunk in trance profound,
-
-And woke, where Genoa stretch'd her bay around:
-
-’Twas on a vessel's deck, prepar'd to sail,
-
-The joyful crew observe the rising gale;
-
-The swelling canvass spread, the ship unmoor,
-
+He ceased: — the drawbridge falls — Alonzo’s mind<br>
+Already half its late distrust resign’d.<br>
+He past, and turning, wild with anguish, found<br>
+The bridge again uprais’d, himself on hostile ground;<br>
+The vassals, at their fraudful lord’s commands,<br>
+Prepar’d to bind him in ignoble bands;<br>
+Lost was his spear, but swift his sword he drew,<br>
+The first he wounded and the next he slew,<br>
+And on their chief with double fury flew.<br>
+But vain his strength, the villain fought secure,<br>
+In skill, but more in temper’d armour, sure.<br>
+Alonzo’s sword, unfaithful to his hand,<br>
+In shining fragments glitter’d on the sand.<br>
+Yet still his art eludes the coming blow,<br>
+And grasps with sinewy arms his hardy foe.<br>
+Long was the strife, as o’er the narrow plain<br>
+Struggling they fight — retreat — advance again.<br>
+The Baron’s limbs to time and labour yield,<br>
+Prest by his foe, he sinks upon the field;<br>
+At this, long peals of thunder shook the sky,<br>
+The fallen chieftain fled Alonzo’s eye:<br>
+The walls, the towers that caught the morning beam,<br>
+The moat, the drawbridge, vanish’d like a dream!<br>
+He mark’d the change; then sunk in trance profound,<br>
+And woke, where Genoa stretch’d her bay around:<br>
+’Twas on a vessel’s deck, prepar’d to sail,<br>
+The joyful crew observe the rising gale;<br>
+The swelling canvass spread, the ship unmoor,<br>
 And seek (with him) the Liparean shore.
 
-Meanwhile the maids, who, in a dungeon's gloom,-
-All night imprison'd, had bewailed their doom,
+Meanwhile the maids, who, in a dungeon’s gloom,<br>
+All night imprison’d, had bewailed their doom,<br>
+Now saw the walls in air dissolve away,<br>
+And hail’d the sudden flash of purple day.<br>
+Amaz’d, upon the vacant plain they stood,<br>
+Where their freed palfreys cropt their verdant food;<br>
+When thus a voice was heard — “Dismiss your fear,<br>
+Pursue your way, and trust to Ariel’s care.”
 
-
-
-
-Now saw the walls in air dissolve away,
-
-And hail'd the sudden flash of purple day.
-
-Amaz'd, upon the vacant plain they stood,
-
-Where their freed palfreys cropt their verdant food;
-
-When thus a voice was heard — Dismiss your fear,
-
-Pursue your way, and trust to Ariel's care."
-
-Cheer'd by the friendly voice, the nymphs obey;
-Their steeds, spontaneous, take the destin'd way;
-And, when a secret fear their looks betray'd,
+Cheer’d by the friendly voice, the nymphs obey;<br>
+Their steeds, spontaneous, take the destin’d way;<br>
+And, when a secret fear their looks betray’d,<br>
 Thus Leonora cheers each drooping maid.
 
-Though now our champions fled, their fate unknown,
-Through dreary ways we wander, and alone,
-Rely on Ariel's word. The prince of air
-Shall make our warriors, like ourselves, his care.
-And should he fail, although on Albion's shore, \
+“Though now our champions fled, their fate unknown,<br>
+Through dreary ways we wander, and alone,<br>
+Rely on Ariel’s word. The prince of air<br>
+Shall make our warriors, like ourselves, his care.<br>
+And should he fail, although on Albion’s shore,<br>
+’Gainst lawless force, no generous lions roar,<br>
+The guards of virtue, as in days of yore,<br>
+Ours are the arms no warrior dares defy, —<br>
+The lightnings beaming from a lady’s eye;<br>
+Nor shield, nor plated mail, repels the dart,<br>
+Through all it glides, and pierces to the heart.<br>
+So bards have sung; — and where shall eyes be found,<br>
+That like Maria’s, or Miranda’s, wound?<br>
+E’en mine, tho’ dim, shall flash with virtuous ire,<br>
+And beam in your defence their keenest fire.”
 
-'Gainst lawless force, no generous lions roar, V
-
-The guards of virtue, as in days of yore, J
-
-Ours are the arms no warrior dares defy, —
-The lightnings beaming from a lady's eye;
-Nor shield, nor plated mail, repels the dart,
-M Through all it glides, and pierces to the heart.
-K
-
-
-
-
-So bards have sung; — and where shall eyes be found,
-That like Maria's, or Miranda's, wound?
-E'en mine, tho' dim, shall flash with virtuous ire,
-And beam in your defence their keenest fire."
-
-Her words their hearts revive; and now they found
-A spear implanted firmly in the ground;
-The same that, ere he vanish'd from his view,
+Her words their hearts revive; and now they found<br>
+A spear implanted firmly in the ground;<br>
+The same that, ere he vanish’d from his view,<br>
 The bold Alonzo at the phantom threw.
 
-Behold,the maid pursu'd, propitious heaven,
-Your eyes to aid, this wondrous lance has given;
-Here planted by some sage magician's hands,
-(t To grace a favour'd warrior's arm it stands;
-That arm is mine — try one, try all, to free 700 }
+“Behold,” the maid pursu’d, “propitious heaven,<br>
+Your eyes to aid, this wondrous lance has given;<br>
+Here planted by some sage magician’s hands,<br>
+To grace a favour’d warrior’s arm it stands;<br>
+That arm is mine — try one, try all, to free<br>
+Its buried barb, and prove, by fate’s decree,<br>
+This mighty weapon is reserved for me.”
 
-Its buried barb, and prove, by fate's decree,
-This mighty weapon is reserved for me."
+Misfortune oft in mirthful guise appears,<br>
+And woe, at times, will frolic, tho’ in tears.<br>
+Maria strives and yields, as sorely griev’d<br>
+To leave this great adventure unachiev’d.<br>
+Like her, Miranda, yet but feebly, tries,<br>
+And, with affected sorrow, quits the prize.<br>
+But Leonora conies with all her strength,<br>
+And tugs, and tears it from the ground at length,<br>
+And as elate she shakes it high in air,<br>
+Darts looks of triumph on each vanquish’d fair.<br>
+But, lo! a maid advances o’er the plain,<br>
+Whose garb proclaims a daughter of the main.<br>
+Fair was her form; with pearls embroider’d round,<br>
+Her robe of snowy coral swept the ground.<br>
+Pearl was her zone — of pearl the wand she bore,<br>
+And pearl the splendid coronet she wore;<br>
+Loose flow’d her lucid veil of softest blue,<br>
+That shone by turns with every varying hue,<br>
+Like dew drops to its filmy texture clung,<br>
+The scatter’d pearls around its border hung;<br>
+O’er the whole figure of the ocean maid,<br>
+Like Cynthia’s light, a silvery lustre play’d.
 
-Misfortune oft in mirthful guise appears,
-And woe, at times, will frolic, tho' in tears.
-Maria strives and yields, as sorely griev'd
-To leave this great adventure unachiev'd.
+“Fair wanderers hail!” she said, “from ocean’s caves<br>
+A hapless nymph your kind attention craves;<br>
+I quit my native realm, to guide and aid,<br>
+At great Marino’s court, a suppliant maid;<br>
+Those sparkling eyes declare success is near —<br>
+And hope already greets Miranda here.” —
 
+The maid replied, “May every joy be thine,<br>
+Who, tho’ unknown, an interest takest in mine!<br>
+A sage, whose eye events to come descried,<br>
+Bade me with speed repair to ocean’s side,<br>
+A pearl should meet me — to Marino’s court<br>
+My steps direct, and there my suit support;<br>
+Then if my woes have touch’d your gentle mind,<br>
+Assist my search this precious gem to find.”
 
+Smiling, the nymph rejoin’d, “Behold, reveal’d<br>
+The truth the sage in mystic words conceal’d,<br>
+A pearl implied in Marguerita’s name;<br>
+With bolder hope I now shall aid thy claim,<br>
+Foretold thy guide — no thanks are justly mine,<br>
+For fate has link’d my happiness with thine.
 
-s
-
-
-
-
-Like her, Miranda, yet but feebly, tries,
-
-And, with affected sorrow, quits the prize.
-
-But Leonora conies with all her strength,
-
-And. tugs, and tears it from the ground at length,
-
-And as elate she shakes it high in air,
-
-Darts looks of triumph on each vanquish'd fair.
-
-But, lo! a maid advances o'er the plain,
-Whose garb proclaims a daughter of the main.
-Fair was her form; with pearls embroider'd round,
-Her robe of snowy coral swept the ground.
-Pearl was her zone — of pearl the wand she bore,
-And pearl the splendid coronet she wore;
-Loose flow'd her lucid veil of softest blue,
-That shone by turns with every varying hue,
-
-Like dew drops to its filmy texture clung,
-The scatter'd pearls around its border hung;
-O'er the whole figure of the ocean maid,
-Like Cynthia's light, a silvery lustre play'd.
-
-Fair wanderers hail!she said, from ocean's caves
-A hapless nymph your kind attention craves;
-K
-
-
-
-
-I quit my native realm, to guide and aid,
-
-At great Marino's court, a suppliant maid;
-
-Those sparkling eyes declare success is near —
-
-And hope already greets Miranda here.—
-
-The maid replied, May every joy be thine,
-Who, tho' unknown, an interest takest in mine!
-A sage, whose eye events to come descried,
-Bade me with speed repair to ocean's side,
-A pearl should meet me — to Marino's court
-My steps direct, and there my suit support;
-Then if my woes have touch'd your gentle mind,
-Assist my search this precious gem to find."
-
-Smiling, the nymph rejoin'd, u Behold, reveal'd
-The truth the sage in mystic words conceal'd,
-
-A pearl implied in Marguerita's name;
-With bolder hope I now shall aid thy claim,
-Foretold thy guide — no thanks are justly mine,
-For fate has link'd my happiness with thine.
-
-Two different races mingle in my birth,
-A nymph my mother, but my sire of earth,
-
-
-
-
-And hence from them the double power I bear,
+“Two different races mingle in my birth,<br>
+A nymph my mother, but my sire of earth,<br>
+And hence from them the double power I bear,<br>
 To breathe the crystal tide, or lighter air.
 
-u Twelve changing moons had scarcely past away,
-
-Since we had seen Lyinnoria's power decay,
-
-When flush'd with conquest o'er the haughty Gnome,
-
-Our king return'd in solemn triumph home,
-
-And all the ocean chiefs with costly care,
-
-To greet their lord a festival prepare;
-
-Tlie morn a splendid tournament display'd,
-
-Where shone the knights in martial pomp array'd,
-
-Each warrior's lance a broider'd pendant bears,
-
-Grac'd with the name of her whose chains he wears,
-
-* And they whose champions vanquish'd press the field,
-
-The prize of beauty to their rivals yield;
-
-Aloft each nymph beholds with joyful eye
-
-For her the chance of war her knight defy,
-
-And oft, when courage fails, and hope expires,
-
+“Twelve changing moons had scarcely past away,<br>
+Since we had seen Lymnoria’s power decay,<br>
+When flush’d with conquest o’er the haughty Gnome,<br>
+Our king return’d in solemn triumph home,<br>
+And all the ocean chiefs with costly care,<br>
+To greet their lord a festival prepare;<br>
+The morn a splendid tournament display’d,<br>
+Where shone the knights in martial pomp array’d,<br>
+Each warrior’s lance a broider’d pendant bears,<br>
+Grac’d with the name of her whose chains he wears,<br>
+And they whose champions vanquish’d press the field,<br>
+The prize of beauty to their rivals yield;<br>
+Aloft each nymph beholds with joyful eye<br>
+For her the chance of war her knight defy,<br>
+And oft, when courage fails, and hope expires,<br>
 New strength, new zeal, her cheeriug glance inspires.
 
-At first from all Lymnoria's valiant knight
+“At first from all Lymnoria's valiant knight
 Their favours bore, the trophies of the fight,
 
 
