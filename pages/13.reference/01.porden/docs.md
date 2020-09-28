@@ -3788,7 +3788,7 @@ Those gentle looks bely a sterner mind.
 “That to these realms so fair a stranger bring!<br>
 If ours to grant, we grant thy boon unheard.<br>
 Or as a favour be thy suit declar’d,<br>
-=If wealth can aid, our treasur’d stores command,<br>
+If wealth can aid, our treasur’d stores command,<br>
 If arms, ourself, and all our subject band!”
 
 Before his throne she fell; the monarch tried<br>
@@ -4161,176 +4161,118 @@ The spirits of the deep to venture there:<br>
 That is thy home! in frozen solitude,<br>
 There cleanse thy heart in deepest guilt embued.”
 
-With tears and prayers, and every suppliant art,
-The nymph too late assails Marino's heart;
-Mirauda, Marguerita, knelt in vain;
-The doom pronounced, unalter'd must remain.
-Perhaps Lymnoria hoped her tears might move 8/0
-
-In him some feeling of forgotten love,
-Or if condemned, the magic of her eyes
-In her defence would bid his warriors rise.
-But, no! — if love rebellion dared suggest,
-Reason subdued the thought, or shame supprest;
-While those who late her lightest word obeyed,
-Now turn'd indignant from the guilty maid:
-And what of pity in his alter'd tone
-Marino shew'd, appear'd in that alone.
-Yet long and keenly smarts the rankling wound,
-
-When those admir'd and lov'd are worthless found,
-And truth's broad mirror, with a thousand flaws,
+With tears and prayers, and every suppliant art,<br>
+The nymph too late assails Marino’s heart;<br>
+Miranda, Marguerita, knelt in vain;<br>
+The doom pronounced, unalter’d must remain.<br>
+Perhaps Lymnoria hoped her tears might move<br>
+In him some feeling of forgotten love,<br>
+Or if condemned, the magic of her eyes<br>
+In her defence would bid his warriors rise.<br>
+But, no! — if love rebellion dared suggest,<br>
+Reason subdued the thought, or shame supprest;<br>
+While those who late her lightest word obeyed,<br>
+Now turn’d indignant from the guilty maid:<br>
+And what of pity in his alter’d tone<br>
+Marino shew’d, appear’d in that alone.<br>
+Yet long and keenly smarts the rankling wound,<br>
+When those admir’d and lov’d are worthless found,<br>
+And truth’s broad mirror, with a thousand flaws,<br>
 Obscures the spotless image memory draws.
 
-As if indignant aught had power to bind
-To transient homage her unyielding mind,
+As if indignant aught had power to bind<br>
+To transient homage her unyielding mind,<br>
+Lymnoria rose, and proudly moved along;<br>
+Two aged warriors led her thro’ the throng:<br>
+No late repentance in her eye was seen,<br>
+Her doom she reck’d not, strode with haughty mien,<br>
+And her last look glanc’d scorn upon her queen.
 
-
-
-Lymnoria rose, and proudly moved along;
-
-Two aged warriors led her thro' the throng:
-
-No late repentance in her eye was seen, ^
-
-Her doom she reck'd not, strode with haughty mien, V
-
-And her last look glanc'd scorn upon her queen. 890*
-
-The emerald sun now verging to the west,
-The impatient warriors hastened on their quest;
-Past were the hours design'd for martial sport,
-A spacious hall receiv'd the glittering court,
-And with their peers, the sovereigns laid aside
-The cold restraints of state and regal pride;
-Mirth at the table sate, a welcome guest,
-And darkness clos'd unmark'd upon the feast.
-When lo! on every side, a sudden light
-From lamps unnumber'd burst upon the sight,
-
-While echoing from a thousand fairy bowers,
-The merry dance prolong'd the evening hours.
-The ships above that skimm'd the sparkling tide
-The unwonted sight with sudden fear descried,
-Yet the soft beams and twinkling rays admire,
-And deem the bosom of the deep on fire:
-
-
-
-And as the stately notes of triumph swell,
-
-Or sprightlier tones inspire the sounding shell,
-
-While the clear waves the dulcet strains prolong,
-
+The emerald sun now verging to the west,<br>
+The impatient warriors hastened on their quest;<br>
+Past were the hours design’d for martial sport,<br>
+A spacious hall receiv’d the glittering court,<br>
+And with their peers, the sovereigns laid aside<br>
+The cold restraints of state and regal pride;<br>
+Mirth at the table sate, a welcome guest,<br>
+And darkness clos’d unmark’d upon the feast.<br>
+When lo! on every side, a sudden light<br>
+From lamps unnumber’d burst upon the sight,<br>
+While echoing from a thousand fairy bowers,<br>
+The merry dance prolong’d the evening hours.<br>
+The ships above that skimm’d the sparkling tide<br>
+The unwonted sight with sudden fear descried,<br>
+Yet the soft beams and twinkling rays admire,<br>
+And deem the bosom of the deep on fire:<br>
+And as the stately notes of triumph swell,<br>
+Or sprightlier tones inspire the sounding shell,<br>
+While the clear waves the dulcet strains prolong,<br>
 They muse what syrens wake the midnight song.
-
-
 
 ---
 
+## Book the Fifth
 
-THE VEILS.
+## Stromboli
 
-
-
-BOOK THE FIFTH.
-
-
-
-STROMBOLI.
-
-The Nymphs, meanwhile, upon the ocean side,
-Still watch'd the lessening vessel o'er the tide;
-When, wafted by a thousand Sylphs that fling-
-Arabian perfumes from each filmy wing,
-Behold, in all his glory, Ariel come,
-To guide Maria to the haughty Gnome.
-Concentred sunbeams form'd his radiant throne,
-His car refulgent as a meteor shone
-Along the ethereal way; but brighter far
-Was he who sat in that celestial car.
-o
-
-
-
-Unfading flowers his golden ringlets bound,
-
-His regal brow a starry circlet crown'd;
-
-Bright glow'd his wings with every varying hue,
-
-His waving mantle caught the ethereal blue;
-
-And never rose, in opening bloom array'd,
-
-Such tints as Ariel's glowing cheeks display'd;
-
-Nor could the sapphire's azure lustre vie
-
-With the soft light of his benignant eye.
-
-His sterner warriors round, in martial sport,
-
-Mix with the lighter spirits of his court:
-
-The brisk Electron grasps his lightning spear,
-
-Keraunos moves the thunderbolt of war;
-
-And mighty Bronte, whose tremendous roar
-
-Fills the vast caves of Erie's rocky shore,
-
-While loud contending o'er his foaming flood
-
-With spirits of the mountain and the wood;*
-
-There in mid ether, o'er the monarch's head,
-
-His cloudy veil gigantic Nephos spread;
-
-Whence on the gladden'd earth kind Ombra pours
-
-The grateful moisture of descending showers.
-
-Bright Actin lends his ray, and Iris flies,
-
-And with her arch of beauty spans the skies.
-
-* Lake Erie, in North America, is said to be particularly troubled with
-storms of thunder and lightning. One of its bays is called Thunder Bay.
-
-
-
-Thence dread Thuella pours her raging flood,
-Sweeps o'er the earth, and rends the lofty wood;
-Her form transparent, half dissolv'd in air,
-Here gentle Drosa sheds the glistening tear.
-Here moves in blameless freedom every wind,
-That fabling Greece to bags and caves confin'd.
-Some to the earth rude blasts and tempests bring,
-Some shake refreshing moisture from their wing,
-Some genial warmth and fragrant incense bear,
+The Nymphs, meanwhile, upon the ocean side,<br>
+Still watch’d the lessening vessel o’er the tide;<br>
+When, wafted by a thousand Sylphs that fling<br>
+Arabian perfumes from each filmy wing,<br>
+Behold, in all his glory, Ariel come,<br>
+To guide Maria to the haughty Gnome.<br>
+Concentred sunbeams form’d his radiant throne,<br>
+His car refulgent as a meteor shone<br>
+Along the ethereal way; but brighter far<br>
+Was he who sat in that celestial car.<br>
+Unfading flowers his golden ringlets bound,<br>
+His regal brow a starry circlet crown’d;<br>
+Bright glow’d his wings with every varying hue,<br>
+His waving mantle caught the ethereal blue;<br>
+And never rose, in opening bloom array’d,<br>
+Such tints as Ariel’s glowing cheeks display’d;<br>
+Nor could the sapphire’s azure lustre vie<br>
+With the soft light of his benignant eye.<br>
+His sterner warriors round, in martial sport,<br>
+Mix with the lighter spirits of his court:<br>
+The brisk Electron grasps his lightning spear,<br>
+Keraunos moves the thunderbolt of war;<br>
+And mighty Bronte, whose tremendous roar<br>
+Fills the vast caves of Erie’s rocky shore,<br>
+While loud contending o’er his foaming flood<br>
+With spirits of the mountain and the wood;[^101]<br>
+There in mid ether, o’er the monarch’s head,<br>
+His cloudy veil gigantic Nephos spread;<br>
+Whence on the gladden’d earth kind Ombra pours<br>
+The grateful moisture of descending showers.<br>
+Bright Actin lends his ray, and Iris flies,<br>
+And with her arch of beauty spans the skies.<br>
+Thence dread Thuella pours her raging flood,<br>
+Sweeps o’er the earth, and rends the lofty wood;<br>
+Her form transparent, half dissolv’d in air,<br>
+Here gentle Drosa sheds the glistening tear.<br>
+Here moves in blameless freedom every wind,<br>
+That fabling Greece to bags and caves confin’d.<br>
+Some to the earth rude blasts and tempests bring,<br>
+Some shake refreshing moisture from their wing,<br>
+Some genial warmth and fragrant incense bear,<br>
 And aid the progress of the ripening year.
 
-But now the ethereal fabric touch'd the ground,
-While strains of heavenly sweetness breath'd around;
-Such strains as floating o'er the Eoiian lyre,
-The zephyrs bland at evening's close respire.
-Soft on her ear the dulcet accents fall,
-That to the radiant car Maria call,
-That car which thro' the trackless wilds of air
-To Sweden's distant strand the Nymph shall bear.
-But ere she mounts, she craves the monarch's aid
+[^101]: Lake Erie, in North America, is said to be particularly troubled with storms of thunder and lightning. One of its bays is called Thunder Bay.
+
+But now the ethereal fabric touch’d the ground,<br>
+While strains of heavenly sweetness breath’d around;<br>
+Such strains as floating o’er the Eolian lyre,<br>
+The zephyrs bland at evening’s close respire.<br>
+Soft on her ear the dulcet accents fall,<br>
+That to the radiant car Maria call,<br>
+That car which thro’ the trackless wilds of air<br>
+To Sweden’s distant strand the Nymph shall bear.<br>
+But ere she mounts, she craves the monarch’s aid<br>
 Upon her course to speed the Iberian maid.
 
 The king consents; the Sylphs his mandate hear,
 And at his bidding frame a concave sphere.
-
-
-
-
 Clear and pellucid was its texture rare,
 
 And scarce distinguish'd from the ambient air,
