@@ -3861,274 +3861,171 @@ Her name, her fortunes, and her race declare,<br>
 And while my sprites the nuptial feast prepare,<br>
 Lead me, Miranda! to this unknown fair.”
 
-Fixt on Miranda, scarce the king had view'd
-That near the maid another damsel stood,
-Till Marguerita dropt her veil, and shone
-Bright as from clouds emerged, the silver moon,
-
-As on the evening of the jousts array 'd
-Her slender waist Marino's gift displayed.
-
-Alas!he said, my heart condemn'd to roam,
-11 Still wanders on, nor ever finds a home;
-My fatal vow to thee my love denied,
-Or never had I sought an earthly bride.—
-
-Hear me! great king,the sweet Miranda said;
-Should'st thou some nymph of mortal lineage wed,
-Torn from the scenes to youthful memory dear,
-Not pomp and power her lonely heart could cheer:
-Soon inward grief would dim the radiant charms
-That wak'd thy love, and tear her from thine arms.
-
-
-
-A nymph to wed, thy solemn vow denies,
-
-But favouring fate a middle course supplies;
-
-Fair Marguerita, whom in years of yore
-
-To brave Titanos young Ostrea bore,
-
-Alike from ocean and from earth her race,
-
-And blest with every charm a throne to grace."
-
-'Twere needless now to tell the king's reply,
-Or paint in every breast the rising joy, 6
-
-The assembled peers, who view'd the happy scene,
-On bended knees salute their future queen;
-When thro' the crowd the rescued Alfred sprung,
-And thanks and greetings trembled on his tongue;
-While youthful Henry follow'd, to require
-A guide to lead them to the realms of fire.
-But till the morn the king commands their stay;
-The knights, tho' loth, the monarch's will obey.
-
-The lute's soft sound, the trump, and mellow horn,
-And songs of pleasure rous'd the lingering morn; 6'20
-What splendid scenes unfolded to the sight
-The soft effulgence of its emerald light!
-The monarch's hall, of shells and coral rais'd,
-With pearl and gold and gems unnumber'd blaz'd.
-N
-
-
-
-The waves in lofty columns rose, and round
-
-Their shining shafts were wreaths of sea-flowers bound;
-
-Beneath, of lords and dames a splendid throng,
-
-To grace their sovereign's marriage, mov'd along.
-
-The rites perform'd, the trumpet's warlike sound
-
-Cali'd to the tournament each knight renown'd.
-
-To grace the barriers, on a lofty throne ~^
-
-Marino sate; his queen beside him shone, V
-
-A snow-white lotus form'd her simple crown. j
-
-Near her was fair Miranda placed; no more
-
-Her looks or garb the stain of sorrow bore,
-
-But rob'd in white, all smiling and serene,
-
-She sate conspicuous in the splendid scene •
-
-The Veil, the fatal cause of fear and pain,
-
-So long remov'd, so oft deplor'd in vain,
-
-Flow'd from her head in many a graceful fold,
-
-And gave new beauty to her locks of gold.
-
-Around were ocean's fairest nymphs; but there
-
-Could none with her, or with their queen compare.
-
-Yet many a youth that to the tourney came,
-
-With eager looks had sought one absent dame,
-
-And marvelled why Lymnoria, fair and gay,
-
-Still prompt to haste where pleasure led the way,
-
-
-
-Who lov'd the ocean's fairest maids among
-To shine distinguished in the glittering throng,
-To mark each jealous damsel's smother' d sighs 6.50
-
-Burst as they watch'd their lover's wandering eyes,
-When, like an empress, mid her slaves she shone,
-And deem'd each eye should fix on her alone;
-Why only she now shunn'd the festive scene,
-Where all were met in honour of their queen.
-Yet many a nymph the secret reason guest,
-In looks, and signs, and whispers half exprest,
-And marvelled much how envy found a place
-In that fair breast, and love-inspiring face 
-And some, whose minds a kindred thought conceal'd,
-In specious guise their lurking envy veil'd:
-Twas true their queen was gracious, good and fair,
-Yet other nymphs might with her charms compare;
-And it was hard, must be by all confest,
-To see one nymph thus rais'd o'er all the rest,
-And more for her, once destin'd for the throne,
-Who deem'd this damsel but usurp'd her crown."
-While some their queen's superior charms allow,
-But mutter something of a broken vow,
-N
-
-
-
-Yet most their sovereign's act and choice approv'd, 670 ^
-For Marguerita, wheresoe'er she mov'd, V
-
-Was still by all esteem'd, admir'd and lov'd. J
-
-The gallant pair, who sought the realms of fire,
-Now from the king again a guide require,
-Who oft, with graceful earnestness, deplor'd
-The cause that forc'd them from his bridal board.
-Yet well he knew it could not brook delay,
-And tho' he wish'd, he would not urge their stay.
-But his fair bride her suit unyielding prest,
-On fair Miranda to remain their guest:
-
-III fitting your soft sex and tender frame
-Are earth's dark caverns, or the land of flame;
-Tir'd with the labours of our dangerous way,
-Not I, but prudence, now command your stay;
-Yet small would be my bridal joys, unshar'd
-By her whose prayers the way to bliss prepar'd;
-And ere their fmish'd quests the knights restore,
-My bark shall waft you back to Albion's shore.'*
-
-Miranda yielded to the queen's request,
-Their grateful thanks the parting knights exprest;
-
-
-
-hOOK iv. THE SEA.
-
-On either youth the king bestows a steed
-
-For swiftness fam'd o'er all of ocean breed,
-
-To both his hand with princely grace extends,
-
-And as their guide the noble Clydon sends.
-
-To each the queen a scarf pellucid gave,
-
-That stole its azure tincture from the wave,
-
-So bright it shone, its soft and silky fold
-
-Was like a wave around their armour roll'd;
-
-This scarf,she said, shall bid the flames retire,
-
-And guard you safe amid surrounding fire;
-
-Oh! may success on all your steps attend,
-
-And your long labours find a happy end!
-
-And when his richest blessings Fortune showers,
-
-And Love and Glory brighten all your hours,
-
-Still let this gift, if chance it meet your view,
-
-The memory of an absent friend renew."
-
-The knights already mounted for their way;
-T' announce the jousts the warning clarions play;
-When in the lists a stranger knight was seen
-Of towering stature, and of noble mien,
-
-Unknown to all his arms or steed: his shield
-A dolphin bore upon an azure field,
-
-
-
-To ocean's knights and dames he seem'd, as one
-
-By none remember'd, yet unknown to none.
-
-Surpriz'd, awhile the parting knights attend,
-
-The heralds now their martial call suspend.
-
-Swiftly he rode around the silent ring
-
-And paid his graceful homage to the king;
-
-My liege,he said, ere yet the jousts commence,
-
-Or these brave knights begin their journey hence,
-
-Hear me! within this circle stands a knight,
-
-Whom I have sworn to meet in deadly fight,
-
-Before my prince, and all his peers, to prove
-
-False to his honour and his lady's love;
-
-Forlorn, deserted, in her lonely bower,
-
-Her weeping eyes the faithless youth deplore;
-
-He flies, the champion of another dame
-
-Who wins your favour in a borrow'd name;
-
-Him I defy, and in your royal sight,
-
-Will prove unworthy of the name of knight!730
-
-The monarch's cheek, where deeper crimson glow'd
-As spoke the stranger knight, his anger shew'd:
-Long have our ocean-peers the praise obtained
-Of dauntless valour, and of faith unstained,
-
-
-
-I
-
-
-
-
-And much we grieve a warrior should disgrace
-
-Himself, his knighthood, and his noble race.
-
-Knight of the Dolphin, here his name declare!
-
-Tho' high his rank, and as a brother dear,
-
-That name this instant from our heart we tear; j
-
-And tho' to mirth we vow'd this festive hour,
-
-Nor wish'd that blood should stain our nuptial bower,
-
-He whom thy voice announces I command
-
-Here in the lists to meet thee hand to hand."
+Fixt on Miranda, scarce the king had view’d<br>
+That near the maid another damsel stood,<br>
+Till Marguerita dropt her veil, and shone<br>
+Bright as from clouds emerged, the silver moon,<br>
+As on the evening of the jousts array’d<br>
+Her slender waist Marino’s gift displayed.
+
+“Alas!” he said, “my heart condemn’d to roam,<br>
+Still wanders on, nor ever finds a home;<br>
+My fatal vow to thee my love denied,<br>
+Or never had I sought an earthly bride.”
+
+“Hear me! great king,” the sweet Miranda said;<br>
+“Should’st thou some nymph of mortal lineage wed,<br>
+Torn from the scenes to youthful memory dear,<br>
+Not pomp and power her lonely heart could cheer:<br>
+Soon inward grief would dim the radiant charms<br>
+That wak’d thy love, and tear her from thine arms.<br>
+A nymph to wed, thy solemn vow denies,<br>
+But favouring fate a middle course supplies;<br>
+Fair Marguerita, whom in years of yore<br>
+To brave Titanos young Ostrea bore,<br>
+Alike from ocean and from earth her race,<br>
+And blest with every charm a throne to grace.”
+
+’Twere needless now to tell the king’s reply,<br>
+Or paint in every breast the rising joy,<br>
+The assembled peers, who view’d the happy scene,<br>
+On bended knees salute their future queen;<br>
+When thro’ the crowd the rescued Alfred sprung,<br>
+And thanks and greetings trembled on his tongue;<br>
+While youthful Henry follow’d, to require<br>
+A guide to lead them to the realms of fire.<br>
+But till the morn the king commands their stay;<br>
+The knights, tho’ loth, the monarch’s will obey.
+
+The lute’s soft sound, the trump, and mellow horn,<br>
+And songs of pleasure rous’d the lingering morn;<br>
+What splendid scenes unfolded to the sight<br>
+The soft effulgence of its emerald light!<br>
+The monarch’s hall, of shells and coral rais’d,<br>
+With pearl and gold and gems unnumber’d blaz’d.<br>
+The waves in lofty columns rose, and round<br>
+Their shining shafts were wreaths of sea-flowers bound;<br>
+Beneath, of lords and dames a splendid throng,<br>
+To grace their sovereign’s marriage, mov’d along.<br>
+The rites perform’d, the trumpet’s warlike sound<br>
+Cali’d to the tournament each knight renown’d.<br>
+To grace the barriers, on a lofty throne<br>
+Marino sate; his queen beside him shone,<br>
+A snow-white lotus form’d her simple crown.<br>
+Near her was fair Miranda placed; no more<br>
+Her looks or garb the stain of sorrow bore,<br>
+But rob’d in white, all smiling and serene,<br>
+She sate conspicuous in the splendid scene;<br>
+The Veil, the fatal cause of fear and pain,<br>
+So long remov’d, so oft deplor’d in vain,<br>
+Flow’d from her head in many a graceful fold,<br>
+And gave new beauty to her locks of gold.<br>
+Around were ocean’s fairest nymphs; but there<br>
+Could none with her, or with their queen compare.<br>
+Yet many a youth that to the tourney came,<br>
+With eager looks had sought one absent dame,<br>
+And marvelled why Lymnoria, fair and gay,<br>
+Still prompt to haste where pleasure led the way,<br>
+Who lov’d the ocean’s fairest maids among<br>
+To shine distinguished in the glittering throng,<br>
+To mark each jealous damsel’s smother’d sighs<br>
+Burst as they watch’d their lover’s wandering eyes,<br>
+When, like an empress, mid her slaves she shone,<br>
+And deem’d each eye should fix on her alone;<br>
+Why only she now shunn’d the festive scene,<br>
+Where all were met in honour of their queen.<br>
+Yet many a nymph the secret reason guest,<br>
+In looks, and signs, and whispers half exprest,<br>
+And marvelled much how envy found a place<br>
+In that fair breast, and love-inspiring face <br>
+And some, whose minds a kindred thought conceal’d,<br>
+In specious guise their lurking envy veil’d:<br>
+“’Twas true their queen was gracious, good and fair,<br>
+Yet other nymphs might with her charms compare;<br>
+And it was hard, must be by all confest,<br>
+To see one nymph thus rais’d o’er all the rest,<br>
+And more for her, once destin’d for the throne,<br>
+Who deem’d this damsel but usurp’d her crown.”<br>
+While some their queen’s superior charms allow,<br>
+But mutter something of a broken vow,<br>
+Yet most their sovereign’s act and choice approv’d,<br>
+For Marguerita, wheresoe’er she mov’d,<br>
+Was still by all esteem’d, admir’d and lov’d.
+
+The gallant pair, who sought the realms of fire,<br>
+Now from the king again a guide require,<br>
+Who oft, with graceful earnestness, deplor’d<br>
+The cause that forc’d them from his bridal board.<br>
+Yet well he knew it could not brook delay,<br>
+And tho’ he wish’d, he would not urge their stay.<br>
+But his fair bride her suit unyielding prest,<br>
+On fair Miranda to remain their guest:<br>
+“Ill fitting your soft sex and tender frame<br>
+Are earth’s dark caverns, or the land of flame;<br>
+Tir’d with the labours of our dangerous way,<br>
+Not I, but prudence, now command your stay;<br>
+Yet small would be my bridal joys, unshar’d<br>
+By her whose prayers the way to bliss prepar’d;<br>
+And ere their fmish’d quests the knights restore,<br>
+My bark shall waft you back to Albion’s shore.”
+
+Miranda yielded to the queen’s request,<br>
+Their grateful thanks the parting knights exprest;<br>
+On either youth the king bestows a steed<br>
+For swiftness fam’d o’er all of ocean breed,<br>
+To both his hand with princely grace extends,<br>
+And as their guide the noble Clydon sends.<br>
+To each the queen a scarf pellucid gave,<br>
+That stole its azure tincture from the wave,<br>
+So bright it shone, its soft and silky fold<br>
+Was like a wave around their armour roll’d;<br>
+“This scarf,” she said, “shall bid the flames retire,<br>
+And guard you safe amid surrounding fire;<br>
+Oh! may success on all your steps attend,<br>
+And your long labours find a happy end!<br>
+And when his richest blessings Fortune showers,<br>
+And Love and Glory brighten all your hours,<br>
+Still let this gift, if chance it meet your view,<br>
+The memory of an absent friend renew.”
+
+The knights already mounted for their way;<br>
+T’ announce the jousts the warning clarions play;<br>
+When in the lists a stranger knight was seen<br>
+Of towering stature, and of noble mien,<br>
+Unknown to all his arms or steed: his shield<br>
+A dolphin bore upon an azure field,<br>
+To ocean’s knights and dames he seem’d, as one<br>
+By none remember’d, yet unknown to none.<br>
+Surpriz’d, awhile the parting knights attend,<br>
+The heralds now their martial call suspend.<br>
+Swiftly he rode around the silent ring<br>
+And paid his graceful homage to the king;<br>
+“My liege,” he said, “ere yet the jousts commence,<br>
+Or these brave knights begin their journey hence,<br>
+Hear me! within this circle stands a knight,<br>
+Whom I have sworn to meet in deadly fight,<br>
+Before my prince, and all his peers, to prove<br>
+False to his honour and his lady’s love;<br>
+Forlorn, deserted, in her lonely bower,<br>
+Her weeping eyes the faithless youth deplore;<br>
+He flies, the champion of another dame<br>
+Who wins your favour in a borrow’d name;<br>
+Him I defy, and in your royal sight,<br>
+Will prove unworthy of the name of knight!
+
+The monarch’s cheek, where deeper crimson glow’d<br>
+As spoke the stranger knight, his anger shew’d:<br>
+“Long have our ocean-peers the praise obtained<br>
+Of dauntless valour, and of faith unstained,<br>
+And much we grieve a warrior should disgrace<br>
+Himself, his knighthood, and his noble race.<br>
+Knight of the Dolphin, here his name declare!<br>
+Tho’ high his rank, and as a brother dear,<br>
+That name this instant from our heart we tear;<br>
+And tho’ to mirth we vow’d this festive hour,<br>
+Nor wish’d that blood should stain our nuptial bower,<br>
+He whom thy voice announces I command<br>
+Here in the lists to meet thee hand to hand.”
 
 
 
