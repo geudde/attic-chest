@@ -4617,8 +4617,8 @@ Would like Castagna’s mount a scene present.[^116]
 <br>
 Monte Castagna is a mountain composed entirely of volcanic glass or obsidian, and has the appearance of a vast river suddenly congealed. These two mountains are perhaps the most wonderful trophies of the power of volcanic fire in the world. In some parts of Iceland, portions of obsidian are found, but no where is there any thing that can be compared with Castagna. The activity of the fire that formed the island of Lipari must have been very great. There are no traces of either pumice or glass in any other of the Vulcanian isles, or among the lavas of Etna and Vesuvius. Perhaps Santori, in the archipelago, is the only island that vies with Lipari in its pumices. — *Spallanzani*.
 
-Stupendous sight! at Pyros’ might amaz’d,<br><br>
-Alonzo on those giant trophies gazed.<br><br>
+Stupendous sight! at Pyros’ might amaz’d,<br>
+Alonzo on those giant trophies gazed.<br>
 Then turn’d to view St. Angelo’s vast height,[^117]<br>
 Which rose in rugged grandeur on the sight,<br>
 While in the clefts some fruitful spot was seen,<br>
