@@ -5060,106 +5060,61 @@ Or bar the bold Electron’s rapid way.[^130]
 
 [^129]: The spirits presiding over electricity are here intended. The phenomena of the Auroras Borealis and Australis are generally believed to be owing to the passage of electricity through the rare atmosphere of the poles.
 
-[^130]: It has been supposed that oxygen is the chief agent in producing the rivid hues of flowers, particularly the red tints. Its presence is necessary to combustion and to respiration, which appear to be of the same nature, carbonic acid being the result of both. It was formerly believed that oxygen entered into combination with the blood during respiration, and that it was absorbed; but experiment has proved this opinion to be incorrect, and that the whole of the oxygen, consumed in respiration, is employed in the formation of the carbonic acid evolved. It has been stated in a former note, that oxygen, on entering into combination with a body, destroys its conducting power; it is, therefore, said in the poem to obstruct the progress of electricity. *Davy, Brande,and Roget’s Lectures*.
+[^130]: It has been supposed that oxygen is the chief agent in producing the vivid hues of flowers, particularly the red tints. Its presence is necessary to combustion and to respiration, which appear to be of the same nature, carbonic acid being the result of both. It was formerly believed that oxygen entered into combination with the blood during respiration, and that it was absorbed; but experiment has proved this opinion to be incorrect, and that the whole of the oxygen, consumed in respiration, is employed in the formation of the carbonic acid evolved. It has been stated in a former note, that oxygen, on entering into combination with a body, destroys its conducting power; it is, therefore, said in the poem to obstruct the progress of electricity. *Davy, Brande,and Roget’s Lectures*.
 
 While some, with these in union, close combine,<br>
-And bid the leaves with pearly dew-drops shine;*<br>
+And bid the leaves with pearly dew-drops shine;[^131]<br>
 Or where above, the sun less warmly glows,<br>
-In glittering stars congeal the feathery snows. f<br>
+In glittering stars congeal the feathery snows.[^132]<br>
 
+[^131]: This alludes to the formation of water by the combination of oxygen and hydrogen, or inflammable air. It is a curious circumstance, that water, the greatest enemy to combustion, should be formed by the union of the greatest, and till lately believed, the sole supporter of combustion, with a gas itself inflammable.
 
+[^132]: The snow which fell last January, 1814, contained many beautiful little flat feathery stars, having usually six points. The largest were about a quar- ter of an iuch in diameter, but the size varied. Dr. Clarke in the first volume of his travels states that, while he was at St. Petersburgh, the thermometer of Celsius, being at 5° below the freezing point, with little or no wind, snow fell for three hours in the most beautiful and regular crystals, each being about the size of a split pea, and consisting of a star with six points. During this time no other snow fell.<br>
+<br>
+A similar phenomenon occurred at Cambridge on the 16th January, 1810, under precisely similar circumstances, and is recorded in the *Cambridge Chronicle*. The stars were, if possible, more perfect than at Petersburgh.<br>
+<br>
+Dr. Clarke has given a theory to account for this appearance, but he seems not to have been aware that the crystallization of snow was not a new phenomenon, but had been observed by Descartes and Kepler. The first probable theory of it was given by M. de Mairan, and is neatly illustrated by Dr. Hutton in his *Mathematical Recreations*. The small needles of ice, which are formed in the progress of congelation, are implanted one into the other in regular and determinate angles which are always 60°. Hence one particle of ice meeting another, unites with it in an angle of 60°; four more are gradually added, and the simple star of six points is formed. If new needles of ice be added, they must place themselves on the first radii, either by making an obtuse or an acute angle towards the centre. In the first case, the result will be a star, the radii of which have a kind of barbs like a feather, or a star having six salient and six re-entering angles. There are also some figures still more complex, but these are rare.
 
+Now speed the Sylphs o’er Cambria’s frozen shore,<br>
+Now o’er the Baltic’s tideless waves they soar,[^133]<br>
+Now hovering o’er Salseberist hangs the car,[^134]<br>
+And now descending thro’ the impassive air,<br>
+They reach a dreary plain, where all around<br>
+With sable pines or snows eternal crown’d,<br>
+Their narrow view stupendous mountains bound.<br>
+Here Ariel leaves his train, the car, on high<br>
+Ascending swiftly, vanish’d in the sky:<br>
+Around no cheerful sound of life was heard,<br>
+Nor haunt of man, nor cave of beast appear’d,<br>
+Thro’ the thick mist the sunbeams faintly glow,<br>
+And darkness hover’d o’er the pit below;<br>
+That pit whose depth would mock the keenest sight,<br>
+If lamps beneath had shed a noontide light.<br>
+Now o’er the black abyss the monarch bends,<br>
+And thro’ the unmeasured depth his voice descends,<br>
+A guide!the king demands; his heavenly breath<br>
+Appear’d to burst the dreadful calm of death,<br>
+While echoing from the gulf and rocks around,<br>
+An hundred voices seem’d to join the sound.
 
+[^133]: The Baltic is liable to various agitations, but has no regular tides.
 
-* This alludes to the formation of water by the combination of oxygen and
-hydrogen, or inflammable air. It is a curious circumstance, that water, the
-greatest enemy to combustion, should be formed by the union of the greatest,
-and till lately believed, the sole supporter of combustion, with a gas itself in-
-flammable.
+[^134]: The silver mines of Salseberist, and the descent to them, have often been described, and the accounts given of them have been here followed as correctly as possible. The greater part has been drawn from M. Bomare, as quoted by Madam Genlis.
 
-t The snow which fell last January, 1814, contained many beautiful little
-flat feathery stars, having usually six points. The largest were about a quar-
-ter of an iuch in diameter, but the size varied. Dr. Clarke in the first volume
-of his travels states that, while he was at St. Petersburgh, the thermometer of
-Celsius, being at 5° below the freezing point, with little or no wind, snow fell
-for three hours in the most beautiful and regular crystals, each being about
-the size of a split pea, and consisting of a star with six points. During this
-time no other snow fell.
-
-A similar phenomenon occurred at Cambridge on the 16th January,
-1810, under precisely similar circumstances, and is recorded in the Cambridge
-Chronicle. The stars were, if possible, more perfect than at Petersburgh.
-
-Dr. Clarke has given a theory to account for this appearance, but he seems
-not to have been aware that the crystallization of snow was not a new pheno-
-menon, but had been observed by Descartes and Kepler. The first probable
-theory of it was given by M. de Mairan, and is neatly illustrated by Dr. Hut-
-ton in his Mathematical Recreations. The small needles of ice, which are
-formed in the progress of congelation, are implanted one into the other in re-
-
-
-
-
-Now speed the Sylphs o'er Cambria's frozen shore,
-Now o'er the Baltic's tideless waves they soar,*
-Now hovering o'er Salseberist hangs the car,f
-And now descending thro' the impassive air,
-They reach a dreary plain, where all around
-With sable pines or snows eternal crown'd,
-Their narrow view stupendous mountains bound.
-Here Ariel leaves his train, the car, on high
-Ascending swiftly, vanish'd in the sky:
-Around no cheerful sound of life was heard,
-Nor haunt of man, nor cave of beast appear'd,
-Thro' the thick mist the sunbeams faintly glow,
-And darkness hover'd o'er the pit below;
-That pit whose depth would mock the keenest sight,
-If lamps beneath had shed a noontide light.
-
-
-
-gular and determinate angles which are always 60°. Hence one particle of
-ice meeting another, unites with it in an angle of 60° 5 four more are gradual-
-ly added, and the simple star of sis points is formed. If new needles of ice
-be added, they must place themselves on the first radii, either by making an
-obtuse or an acute angle towards the centre. In the first case, the result will
-be a star, the radii of which have a kind of barbs like a feather, or a star hav-
-ing six salient and six re-entering angles. There are also some figures still
-more complex, but these are rare.
-
-* The Baltic is liable to various agitations, but has no regular tides.
-
-t The silver mines of Salseberist, and the descent to them, have often been
-described, and the accounts given of them have been here followed as correct-
-ly as possible. The greater part has been drawn from M. Bomare, as quoted
-by Madam Genlis.
-
-
-
-
-Now o'er the black abyss the monarch bends,
-And thro' the unmeasured depth his voice descends,
-A guide!the king demands; his heavenly breath
-Appear'd to burst the dreadful calm of death,
-While echoing from the gulf and rocks around,
-An hundred voices seem'd to join the sound.
-
-And now, tho' faint and wan, a ray of light
-
-Appears below, and breaks the dreary night.
-It brightens, and a hideous Gnome appears,
-Who thro' the gulf a bark ascending steers.
-Less black was Vulcan, at his ceaseless toil
-When Thetis found him in the Lemnian isle;
-Less gloomy Charon seem'd when he convey 'd,
-In his craz'd bark, the manes of the dead;
-His wrinkled brow with soot was cover'd o'er,
-His haggard cheeks a smile malignant wore;
-His eyes, unus'd to meet the light of day,
-
-Star'd wildly round, and seem'd to loath the ray;
-Through his dark robes his naked arms appear'd,
-One held a torch, and one the vessel steer'd.
+And now, tho’ faint and wan, a ray of light<br>
+Appears below, and breaks the dreary night.<br>
+It brightens, and a hideous Gnome appears,<br>
+Who thro’ the gulf a bark ascending steers.<br>
+Less black was Vulcan, at his ceaseless toil<br>
+When Thetis found him in the Lemnian isle;<br>
+Less gloomy Charon seem’d when he convey‘d,<br>
+In his craz’d bark, the manes of the dead;<br>
+His wrinkled brow with soot was cover’d o’er,<br>
+His haggard cheeks a smile malignant wore;<br>
+His eyes, unus’d to meet the light of day,<br>
+Star’d wildly round, and seem’d to loath the ray;<br>
+Through his dark robes his naked arms appear’d,<br>
+One held a torch, and one the vessel steer’d.
 
 The bark rose slowly to the pit's dark side,
 At two small seats in silence points the guide,
