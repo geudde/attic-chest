@@ -4611,174 +4611,83 @@ O’er some steep rock now pour their mingled tide,<br>
 Then could some ice-bolt, in its hurried fall,<br>
 With sudden cold congeal the lucid wall,<br>
 The crystal mass in clefts and fissures rent,<br>
-Would like Castagna’s mount a scene present.*
+Would like Castagna’s mount a scene present.[^116]
 
-Stupendous sight! at Pyros' might amaz'd,
-Alonzo on those giant trophies gazed.
-Then turn'd to view St. Angelo's vast height,f
-Which rose in rugged grandeur on the sight,
+[^116]: Campo Bianco, or the White Field, is one of the principal mountains of Lipari. It is an aggregate of pumice-balls, and has all the appearance of snow; whence its name. The pumices of Campo Bianco are a principal article of commerce with the Liparese. They cut them in large oblong blocks, which are piled on the shore to await the arrival of vessels that convey them to various parts of Europe.<br>
+<br>
+Monte Castagna is a mountain composed entirely of volcanic glass or obsidian, and has the appearance of a vast river suddenly congealed. These two mountains are perhaps the most wonderful trophies of the power of volcanic fire in the world. In some parts of Iceland, portions of obsidian are found, but no where is there any thing that can be compared with Castagna. The activity of the fire that formed the island of Lipari must have been very great. There are no traces of either pumice or glass in any other of the Vulcanian isles, or among the lavas of Etna and Vesuvius. Perhaps Santori, in the archipelago, is the only island that vies with Lipari in its pumices. — *Spallanzani*.
 
+Stupendous sight! at Pyros’ might amaz’d,<br><br>
+Alonzo on those giant trophies gazed.<br><br>
+Then turn’d to view St. Angelo’s vast height,[^117]<br>
+Which rose in rugged grandeur on the sight,<br>
+While in the clefts some fruitful spot was seen,<br>
+The barren rocks and steepy heights between,<br>
+Where labour, and a length of ages fled,<br>
+Had turn’d to earth the lava’s solid bed<br>
+Near these proud Guardia rears its rival head;<br>
+On whose rich side the cluster’d vines behold,<br>
+That pour the Malmsey from their fruit of gold,[^118]<br>
+When ruddy autumn rules the mellow year;<br>
+The busy natives make their dwelling here,<br>
+(A simple active race; content and health,<br>
+The noblest gifts of heaven, their only wealth,<br>
+Yet questions shrewd an active mind display,<br>
+And beauty lends a bright but transient ray.)<br>
+And here, while pleasure cheats the toilsome hours,<br>
+They strip the vineyard of its golden stores;<br>
+And oft at sea, amid the shades of night,<br>
+The wondering seaman views the unusual light<br>
+From each illumin’d cot that brightly glows,<br>
+And crowns with starry wreaths the mountain’s brows.
 
+[^117]: St. Angelo is the highest mountain in Lipari, and its dark and rugged steeps, only interspersed by a few cultivated spots, form a striking contrast to its neighbour and rival Monte Guardia, whose sides are covered with vines and verdure. This difference in the two mountains arises from the difference of the lavas which compose them. Those of Monte Guardia have been de-compounded and rendered fertile by the action of the atmosphere and the labour of man, while those of St. Angelo have hitherto resisted both. — *Spallanzani*.
 
-* Campo Bianco, or the White Field, is one of the principal mountains of
-Lipari. It is an aggregate of pumice-balls, and has all the appearance of
-snow; whence its name. The pumices of Campo Bianco are a principal ar-
-ticle of commerce with the Liparese. They cut them in large oblong
-blocks, which are piled on the shore to await the arrival of vessels that con-
-vey them to various parts of Europe.
+[^118]: The grape producing the celebrated malmsey of Lipari is large, and of a bright amber hue. It is chiefly grown in Lipari, particularly on the side of Monte Guardia, but a few vines are reared in Vulcano, and some other of the Lipari isles. The vintage is to the natives a season of festivity. They leave their dwellings on the shore and repair to cottages on the mountain, and the lights from them have an unexpected and very pleasing appearance to the voyager during the night. Malmsey and pumice are the only exports of Lipari. — *Spallanzani*.
 
-Monte Castagna is a mountain composed entirely of volcanic glass or opsi-
-dian, and has the appearance of a vast river suddenly congealed. These
-two mountains are perhaps the most wonderful trophies of the power of vol-
-canic fire in the world. In some parts of Iceland, portions of opsidian are
-found, but no where is there any thing that can be compared with Cas-
-tagna. The activity of the fire that formed the island of Lipari must have
-been very great There are no traces of either pumice or glass in any other
-of the Vulcanian isles, or among the lavas of Etna and Vesuvius. Perhaps
-Santori, in the archipelago, is the only island that vies with Lipari in its
-pumices. — Spallanzani.
+The sails swell’d briskly in the favouring breeze,<br>
+As launched the bark upon the Eolian seas,<br>
+Those seas, so oft to sudden storms a prey,<br>
+While calms, delusive, flatter to betray;<br>
+For oft when peaceful seem the summer skies,<br>
+Without a wind the troubled waters rise,<br>
+And by the waves on rocks volcanic tost,<br>
+The unsuspecting bark is wreck’d, and lost.[^119]<br>
+Now as the vessel lightly bounds away,<br>
+In sportive troops around the dolphins play,<br>
+With arrowy speed they cut the waters blue,<br>
+Now disappear, now rise again to view,<br>
+Now o’er the foaming waves their heads they rear,<br>
+And spout their crystal fountains high in air;<br>
+Now from the prow dart swiftly to the helm,<br>
+A playful escort thro’ the watry realm.[^120]
 
-t St. Angelo is the highest mountain in Lipari, and its dark and rugged
-steeps, only interspersed by a few cultivated spots, form a striking contrast
-to its neighbour and rival Monte Guardia, whose sides are covered with vines
-and verdure. This difference in the two mountains arises from the difference
-of the lavas which compose them. Those of Monte Guardia have been de-
-compounded and rendered fertile by the action of the atmosphere and the
-labour of man, while those of St. Angelo have hitherto resisted both. —
-Spallanzani,
+[^119]: The seas surrounding the Eolian isles are peculiarly liable to storms, and often without any apparent cause. It is probably from this circumstance, and from the violence and fluctuation of the winds, that they derived their name, and that the ancients there fixed the dwelling of Eolus. There is a celebrated cavern in Vulcano, called the cave of the winds, whence a considerable blast still issues.
 
+[^120]: What particular species of cttaceous fish Spallanzani has here mentioned by the name of dolphin, I know not, but he particularly notices the swiftness and apparent playfulness of their motions, as they sported round the felucca which conveyed him from Lipari to Stromboli.
 
+Panaria’s isle a milder aspect wore,<br>
+And vines and olives cloth’d the fertile shore;<br>
+But Lisca’s rock in native grandeur stood,<br>
+And three small islands break the foaming flood;<br>
+When here, in number great, and great in size,<br>
+The Xiphias’ shoals the admiring knight surprize,<br>
+Their pointed horns a pearly lustre gave,<br>
+And shone like silver thro’ the sparkling wave;<br>
+Emerging from Messina’s straits they steer,<br>
+In Genoa’s seas to pass the vernal year.[^121]
 
+[^121]: The sword-fish, xiphias ensis of Linnæus, pass in large shoals twice a year through the Straits of Messina, where there is a considerable fishery for them. From the beginning of April to the middle of June they pass to the Genoese seas, where they propagate. From July to September they return by the Sicilian side of the Straits of Messina, where the fishery is then carried on.
 
-While in the clefts some fruitful spot was seen,
-
-The barren rocks and steepy heights between,
-
-Where labour, and a length of ages fled, 350 \
-
-Had turn'd to earth the lava's solid bed — \
-
-Near these proud Guardia rears its rival head;
-
-On whose rich side the cluster'd vines behold,
-
-That pour the Malmsey from their fruit of gold,*
-
-When ruddy autumn rules the mellow year;
-
-The busy natives make their dwelling here,
-
-(A simple active race; content and health,
-
-The noblest gifts of heaven, their only wealth,
-
-Yet questions shrewd an active mind display,
-
-And beauty lends a bright but transient ray.)
-
-And here, while pleasure cheats the toilsome hours,
-
-They strip the vineyard of its golden stores;
-
-And oft at sea, amid the shades of night,
-
-The wondering seaman views the unusual light
-
-
-
-* The grape producing the celebrated malmsey of Lipari is large, and of
-a bright amber hue. It is chiefly grown in Lipari, particularly on the side
-of Monte Guardia, but a few vines are reared in Vulcano, and some other
-of the Lipari isles. The vintage is to the natives a season of festivity. They
-leave their dwellings on the shore and repair to cottages on the mountain,
-and the lights from them have an unexpected and very pleasing appearance
-to the voyager during the night. Malmsey and pumice are the only exports
-of Lipari. — Spallanzani.
-
-
-
-220 STROMBOLL book v.
-
-From each illumin'd cot that brightly glows,
-
-And crowns with starry wreaths the mountain's brows.
-
-The sails swell'd briskly in the favouring breeze,
-As launched the bark upon the Eolian seas,
-Those seas, so oft to sudden storms a prey,
-While calms, delusive, flatter to betray;
-
-For oft when peaceful seem the summer skies,
-Without a wind the troubled waters rise,
-And by the waves on rocks volcanic tost,
-The unsuspecting bark is wreck'd, and lost.*
-Now as the vessel lightly bounds away,
-In sportive troops around the dolphins play,
-With arrowy speed they cut the waters blue,
-Now disappear, now rise again to view,
-Now o'er the foaming waves their heads they rear,
-And spout their crystal fountains high in air;
-
-
-
-* The seas surrounding the Eolian isles are peculiarly liable to storms, and
-often without any apparent cause. It is probably from this circumstance,
-and from the violence and fluctuation of the winds, that they derived their
-name, and that the ancients there fixed the dwelling of Eolus. There is a
-celebrated cavern in Vulcano, called the cave of the winds, whence a con-
-siderable blast still issues.
-
-
-
-
-Now from the prow dart swiftly to the helm,
-A playful escort thro' the watry realm.*
-
-Panaria's isle a milder aspect wore,
-And vines and olives cloth'd the fertile shore;
-But Lisca's rock in native grandeur stood,
-And three small islands break the foaming flood;
-When here, in number great, and great in size,
-The Xiphias' shoals the admiring knight surprize,
-Their pointed horns a pearly lustre gave,
-And shone like silver thro' the sparkling wave;
-
-Emerging from Messina's streights they steer,
-In Genoa's seas to pass the vernal year.*
-
-When thrice the glass had chang'd its shifting sand,
-On Stromboli Alonzo springs to land.
-
-
-
-* What particular species of cttaceous fish Spallanzani has here men-
-tioned by the name of dolphin, I know not, but he particularly notices the
-swiftness and apparent playfulness of their motions, as they sported round
-the felucca which conveyed him from Lipari to Stromboli.
-
-t The sword-fish, xiphias ensis of Linnseus, pass in large shoals twice a year
-through the Streights of Messina, where there is a considerable fishery for
-them. From the beginning of April to the middle of June they pass to the
-Genoese seas, where they propagate. From July to September they return
-by the Sicilian side of the Streights of Messina, where the fishery is then
-carried on.
-
-
-
-
-Yet how, if here, the Spanish maid to find,
-
-A thousand doubts distract his labouring mind;
-
-Of all he ask'd, in vain — no ship was here
-
-From Albion's isle, and all the sea was clear.
-
-At length he heard, as on the shore he stray'd, ^
-
-Some peasants talking of a stranger maid, 400/
-
-While every face surprize and fear betray'd.
+When thrice the glass had chang’d its shifting sand,<br>
+On Stromboli Alonzo springs to land.<br>
+Yet how, if here, the Spanish maid to find,<br>
+A thousand doubts distract his labouring mind;<br>
+Of all he ask’d, in vain — no ship was here<br>
+From Albion’s isle, and all the sea was clear.<br>
+At length he heard, as on the shore he stray’d,<br>
+Some peasants talking of a stranger maid,<br>
+While every face surprize and fear betray’d.
 
 
 
