@@ -4481,257 +4481,137 @@ Where stubborn earths and shining metals yield;<br>
 Oh! by some gracious sign thy favour shew,<br>
 And guide me thro’ yon gulf that boils below.”
 
-She spoke, and deep the roaring flood retires
-Within the crater, nor again aspires;
-But from the numerous caves that yawn'd around,
-The smoke rush'd furious with a deafening sound,
-And round the edge their vivid flames that play'd,
-Had scar'd all other but this love-fraught maid; #
-Thro' the vast gulf, in mild and mellow light,
+She spoke, and deep the roaring flood retires<br>
+Within the crater, nor again aspires;<br>
+But from the numerous caves that yawn’d around,<br>
+The smoke rush’d furious with a deafening sound,<br>
+And round the edge their vivid flames that play’d,<br>
+Had scar’d all other but this love-fraught maid;[^110]<br>
+Thro’ the vast gulf, in mild and mellow light,<br>
+The gentle Chliarotes rose to sight.<br>
+He spoke: “Commissioned by my queen, I come<br>
+To guide your steps to Pyros’ regal dome;<br>
+This robe she sends, to guard your tender frame<br>
+From the wild fury of encircling flame<br>
+Soft threads of mountain flax its folds compose,<br>
+Wov’n by a sea-nymph’s hand, and bleach’d on Alpine snows:<br>
+Then in my sovereign’s care and mine confide,<br>
+Plunge boldly in, nor dread the fiery tide.”
 
-The gentle Chliarotes rose to sight.
-He spoke: Commissioned by my queen, I come
-To guide your steps to Pyros' regal dome;
-This robe she sends, to guard your tender frame
-From the wild fury of encircling flame
-Soft threads of mountain flax its folds compose,
-Wov'n by a sea-nymph's hand, and bleach'd on Alpine
-snows:
+[^110]: This phenomenon is mentioned by Spallanzani, as having occurred during one of his visits to Stromboli, and at first alarmed him considerably. The natives described it as being very rare, and never of long continuance.
 
+The fearless nymph obey’d — her tender feet<br>
+The lava press, yet scarcely feel its heat;<br>
+O’er solid fire proceeds the undaunted dame,<br>
+And breathes amid an atmosphere of flame,<br>
+Which round her form, by frequent currents driven,<br>
+Fann’d her dark tresses like the gales of heaven.<br>
+Yet oft, at first, she screen’d her dazzled sight<br>
+From the full spehdour of that crimson light,<br>
+And shrunk from flames that round innocuous fly,<br>
+Soft as the evening zephyr’s vernal sigh.
 
+How vast the fiery realm! around her stood<br>
+Unnumber’d Sprites, that various tasks pursu’d;<br>
+Surpris’d she saw, where some of gentler birth<br>
+Warm with benignant heat the incumbent earth,<br>
+Arous’d the slumbering seed, and bid it shoot<br>
+Deep in the fostering soil its vigorous root,<br>
+While high in air the leafy stems ascend,<br>
+And clustering fruits in vermil pride depend;<br>
+Some bid beneath the exhaustless sulphur boil,<br>
+Whose fumes condensing in Vulcano’s soil,<br>
+Fill the hot ground, or roaring force their way<br>
+Thro’ the thin roof that parts them from the day,[^111]<br>
+The solid lava decompound again,<br>
+And with white crust conceal its sable grain.<br>
+Some in close caves, far from access of air,[^112]<br>
+Bid chalk the marble’s sparry texture wear;<br>
+Some the fall’n woods, by earth long cover’d o’er,<br>
+With fumes sulphureous fill at every pore,<br>
+Bid dark bitumen now pervade the whole,<br>
+And change the forest’s leafy pride to coal,[^113]<br>
 
-* This phenomenon is mentioned by Spallanzani, as having occurred
-during one of his visits to Stromboli, and at first alarmed him considerably.
-The natives described it as being very rare, and never of long continuance
+[^111]: Vulcano has in all ages been remarkable for the immense volumes of sulphureous vapour arising in various parts of the island, and in particular from the crater. The soil is in many places so impregnated with them, that on turning it slightly over, large clods of sulphur are found, These were formerly a great article of traffic, but in consequence of the heat of the ground the search is now abandoned, though the sulphur continues as plentiful as formerly. Sulphur is a great agent in the decomposition of lava, which, when exposed to its vapours, becomes soft, is covered by a white crust, and gradually crumbles away.
 
+[^112]: Sir James Hall made many experiments to ascertain the effect of heat on bodies secured from the access of air, and under considerable pressure. In these circumstances, he found that chalk assumed the crystallized appearance of white marble, and that several of the earths were converted into lava.
 
+[^113]: However extraordinary it may appear, recent observations seem completely to establish the vegetable origin of coal. That immense forests should suddenly have been overwhelmed, and, by the action of sulphureous and bituminous vapours permeating their centre, have become completely mineralized, is less wonderful than that succeeding and again succeeding forests should have sprung and flourished on the site of their buried ancestors, and at last have shared their fate. Yet such is the scene exhibited by the numerous subjacent strata of our coalmines.
 
-Then in my sovereign's care and mine confide,
-Plunge boldly in, nor dread the fiery tide."
-
-The fearless nymph obey'd — her tender feet
-
-The lava press, yet scarcely feel its heat;
-O'er solid fire proceeds the undaunted dame,
-And breathes amid an atmosphere of flame,
-Which round her form, by frequent currents driven,
-Fann'd her dark tresses like the gales of heaven.
-Yet oft, at first, she screen'd her dazzled sight
-From the full spehdour of that crimson light,
-And shrunk from flames that round innocuous fly,
-Soft as the evening zephyr's vernal sigh.
-
-How vast the fiery realm! around her stood
-
-Unnumber'd Sprites, that various tasks pursu'd;
-Surpris'd she saw, where some of gentler birth
-Warm with benignant heat the incumbent earth,
-Arous'd the slumbering seed, and bid it shoot
-Deep in the fostering soil its vigorous root,
-While high in air the leafy stems ascend,
-And clustering fruits in vermil pride depend;
-Some bid beneath the exhaustless sulphur boil,
-Whose fumes condensing in Vulcano's soil,
-
-
-
-bookv. STROM BOLL
-
-Fill the hot ground, or roaring force their way
-
-Thro' the thin roof that parts them from the day,*
-
-The solid lava decompound again,
-
-And with white crust conceal its sable grain.
-
-Some in close caves, far from access of air,j
-
-Bid chalk the marble's sparry texture wear;
-
-Some the fall'n woods, by earth long cover'd o'er,
-
-With fumes sulphureous fill at every pore,
-
-Bid dark bitumen now pervade the whole,
-
-And change the forest's leafy pride to coal,J
-
-
-
-* Vulcano has in all ages been remarkable for the immense volumes of
-sulphureous vapour arising in various parts of the island, and in particular
-from the crater. The soil is in many places so impregnated with them,- that
-on turning it slightly over, large clods of sulphur are found, These were
-formerly a great article of traffic, but in consequence of the heat of the
-ground the search is now abandoned, though the sulphur continues as plen-
-tiful as formerly. Sulphur is a great agent in the decomposition of lava,
-which, when exposed to its vapours, becomes soft, is covered by a white crust,
-and gradually crumbles away.
-
-t Sir James Hall made many experiments to ascertain the effect of heat
-on bodies secured from the access of air, and under considerable pressure.
-In these circumstances, he found that chalk assumed the crystallized appear-
-ance of white marble, and that several of the earths were converted into
-
-X However extraordinary it may appear, recent observations seem com-
-pletely to establish the vegetable origin of coal. That immense forests
-should suddenly have been overwhelmed, and, by the action of sulphureous
-and bituminous vapours permeating their centre, have become completely
-mineralized, is less wonderful than that succeeding and again succeeding
-forests should have sprung and flourished on the site of their buried ances-
-tors, and at last have shared their fate. Yet such is the scene exhibited by
-the numerous subjacent strata of our coalmines.
-p
-
-
-
-2i4 STROMBOLL book v.
-
-While some with empyrean air combine,
-
-And bid the crystal mass a diamond shine,
-
-Or dark plumbago frown in sable pride,
-
-Of different nature, tho' in birth allied.
-
-And some the elemental war sustain,
-
-Where frost and fire contend for Thule's reign,
-
-Where her vast geysers' boiling fountains flow,
-
+While some with empyrean air combine,<br>
+And bid the crystal mass a diamond shine,<br>
+Or dark plumbago frown in sable pride,<br>
+Of different nature, tho’ in birth allied.<br>
+And some the elemental war sustain,<br>
+Where frost and fire contend for Thule’s reign,<br>
+Where her vast geysers’ boiling fountains flow,<br>
 And Hecla burns amid eternal snow.
 
-But now, emerg'd from Genoa's ample bay,
-The light felucca cuts its rapid way;
-Twice on the tide the setting crimson stream'd,
+But now, emerg’d from Genoa’s ample bay,<br>
+The light felucca cuts its rapid way;<br>
+Twice on the tide the setting crimson stream’d,<br>
+And twice the morning’s purple lustre gleam’d,<br>
+While still, as day, retiring, yields to night,<br>
+The ocean sparkles with phosphoric light,<br>
+And like a torch the bright medusae glide,<br>
+With oscillating motion, o’er the tide.<br>
+Long had Alonzo watch’d them on the main,<br>
+Now wearied sink, now rise to light again;<br>
+Sudden in many a form their troops combine,<br>
+That varied oft in circle, square, or trine;<br>
+At length these words their lucid lines declare:<br>
+“Hasten to Stromboli, thy love is there.”<br>
+The floating lamps their wondrous mandate gave,<br>
+Then sunk, and darkness clos’d upon the wave.[^114]
 
-And twice the morning's purple lustre gleam'd,
-While still, as day, retiring, yields to night,
-The ocean sparkles with phosphoric light,
-And like a torch the bright medusae glide,
-With oscillating motion, o'er the tide.
-Long had Alonzo watch'd them on the main,
-Now wearied sink, now rise to light again;
-Sudden in many a form their troops combine,
-That varied oft in circle, square, or trine;
-At length these words their lucid lines declare:
+And now arrived at Lipari’s isle, they moor<br>
+Their galley in its shelter’d port secure.<br>
+The harbour, with the town and castle crown’d,<br>
+Stretch’d like an amphitheatre around.
 
-Hasten to Stromboli, thy love is there."
+[^114]: These medusæ are found in great numbers in the Straits of Messina and occasionally in the seas which surround the Eolian Isles. The Abbé Spallanzani has given a very long account of them in the fourth volume of his *Travels in the Two Sicilies*. He says that they shine like a torch, and that their light is visfble to the distance of some hundred paces. It is also visible when they are thirty-five feet below the water. The light is variable, and appears to depend on the motion of the animal. Sometimes it continues for a quarter of an hour or longer, at others it becomes suddenly extinct, and re-appears after a considerable interval.<br>
+<br>
+Many species of medusæ possess this power of phosphorescence, particularly the medusa scintillans of Mr. Macartney, and they seem to be the most frequent cause of the luminous appearance of the sea during the night, in our own as well as in other latitudes. The largest and most splendid of these animals is the medusa pellucens, discovered by Sir Joseph Banks in the passage from Madeira to Rio de Janeiro, in the first voyage of Captain Cook. It was taken from the sea at the same time with a minute species of crab (the cancer fulgens), also luminous. This medusa measures six inches across the crown, or umbella, which is marked by a number of opaque lines that pass off from the centre to the circumference. It throws out flashes of light during its contractions, which are so vivid as to affect the sight of the beholders. Ten or twelve of these flashes were generally visible at a time. When the water containing these animals, and some of the cancer fulgens, was emptied out of the bucket, it appeared like a stream of fire or melted gold. The light of the medusae always decays and vanishes on the rising of the moon.
 
+The Castle on a rock enormous stood,<br>
+Which rose abruptly from the roaring flood;<br>
+Of herbage bare, save where the opuntia green<br>
+Had forc’d its stem the solid rocks between,<br>
+Careless of soil, with equal strength it grows<br>
+In the moist valley, or on mountain brows,<br>
+Where scarce the lichen hides the lava bare,<br>
+And seems to draw its sustenance from air;[^115]<br>
+Its trunk of aggregated leaves was made,<br>
+Its verdant head a leafy crown display’d:<br>
+Broad spread the leaves, and on their pulpy green<br>
+The embryo plants in bristled knobs were seen;<br>
+The large and numerous fruits, on either side,<br>
+(A massy fringe,) depend in golden pride,<br>
+And there, uninjur’d by the inclement year,<br>
+The wintry board with Autumn’s dainties cheer.
 
+[^115]: The cactus opuntia, or cactus indicus, the Indian fig, is a very curious plant. It appears perfectly indifferent as to soil, if the climate be but sufficiently warm. The stem is formed of a number of articulated divisions growing upon one another, and commonly separated by so deep a contraction, as to have the appearance rather of distinct individuals than of parts of the same plant. Hence these plants are called proliferous. In the species of opuntia described in the poem, the joints swell in the older plants, and acquire an equal thickness with the rest of the stem. The divisions are about a foot long, eight inches broad, green, pulpy, rounded at the edges, and narrow at the stem, and have so much the appearance of leaves, as to be commonly, though not properly, so called. On these, when young, are found a number of little knobs, which afterwards swell and become covered with bristles. They contain the rudiments of future divisions. At the edges of the divisions grow the flowers, which in some species are scarlet, but in this yellow, and produce a fruit nearly of their own colour, of delicious flavour, and a principal article of food with the natives of Stromboli and the other Vulcanian isles.
 
-book v. STROMBOIJ.
-
-The floating lamps their wondrous mandate gave,
-Then sunk, and darkness clos'd upon the wave.*
-
-And now arrived at Lipari's isle, they moor
-Their galley in its shelter'd port secure.
-The harbour, with the town and castle crown'd,
-Stretch'd like an amphitheatre around.
-
-
-
-* These medusas are found in great numbers in the Streights of Messinu
-and occasionally in the seas which surround the Eolian Isles. The Abbe"
-Spallanzaui has given a very long account of them in the fourth volume of his
-Travels in the Two Sicilies. He says that the}' shine like a torch, and that
-their light is visfble to the distance of some hundred paces. It is also visible
-when they are thirty -five feet below the water. The light is variable, and
-appears to depend on the motion of the animal. Sometimes it continues for
-a quarter of an hour or longer, at others it becomes suddenly extinct, and
-re-appears after a considerable interval.
-
-Many species of medusa? possess this power of phosphorescence, particu-
-larly the medusa scintillans of Mr. Macartney, and they seem to be the most
-frequent cause of the luminous appearance of the sea during the night, in our
-own as well as in other latitudes. The largest and most splendid of these
-animals is the medusa pellucens, discovered by Sir Joseph Banks in the pas-
-sage from Madeira to Rio de Janeiro, in the first voyage of Captain Cook.
-It was taken from the sea at the same time with a minute species of crab
-(the cancer fulgens), also luminous. This medusa measures six inches across
-the crown, or umbella, which is marked by a number of opaque lines that
-pass off from the centre to the circumference. It throws out flashes of light
-during its contractions, which are so vivid as to affect the sight of the be-
-holders. Ten or twelve of these flashes were generally visible at a time.
-When the water containing these animals, and some of the cancer fulgens,
-was emptied out of the bucket, it appeared like a stream of fire or melted gold.
-The light of the medusae always decays and vanishes on the rising of the
-
-
-
-
-The Castle on a rock enormous stood,
-Which rose abruptly from the roaring flood;
-Of herbage bare, save where the opuntia green
-Had forc'd its stem the solid rocks between,
-Careless of soil, with equal strength it grows
-In the moist valley, or on mountain brows,
-Where scarce the lichen hides the lava bare,
-And seems to draw its sustenance from air; #
-Its trunk of aggregated leaves was made,
-Its verdant head a leafy crown display 'd:
-Broad spread the leaves, and on their pulpy green
-The embryo plants in bristled knobs were seen;
-
-
-
-* The cactus opuntia, or cactus indicus, the Indian fig, is a very curiout
-plant. It appears perfectly indifferent as to soil, if the climate be but suf-
-ficiently warm. The stem is formed of a number of articulated divisions
-growing upon one another, and commonly separated by so deep a contrac-
-tion, as to have the appearance rather of distinct individuals than of parts of
-the same plant. Hence these plants are called proliferous. In the species
-of opuntia described in the poem, the joints swell in the older plants, and
-acquire an equal thickness with the rest of the stem. The divisions are about
-a foot long, eight inches broad, green, pulpy, rounded at the edges, and nar-
-row at the stem, and have so much the appearance of leaves, as to be com-
-monly, though not properly, so called. Qn these, when young, are found a
-number of little knobs, which afterwards swell and become covered with
-bristles. They contain the rudiments of future divisions. At the edges of
-the divisions grow the flowers, which in some species are scarlet, but in this
-yellow, and produce a fruit nearly of their own colour, of delicious flavour,
-and a principal article of food with the natives of Stromboli and the otbef
-Vulcanian isles.
-
-
-
-
-The large and numerous fruits, on either side,
-
-(A massy fringe,) depend in golden pride,
-And there, uninjur'd by the inclement year,
-The wintry board with Autumn's dainties cheer.
-
-The extended town volcanic mountains crown'd,
-Two lofty hills the shelter'd harbour bound;
-Here Capiscello, Monte Rosa there,
-Whose sides their porphyritic birth declare.
-While Campo Bianco's silvery pumice shone,
-Like drifted snow beneath the morning sun,
-And numbers scoop'd its shining side, and bore
-
-Their burthens light, tho' large, and piled upon the shore.
-High in the air, a dark but shining mass,
-Castagna reared its head of solid glass,
-As when some mighty river, swell'd with rain,
-Bursts its strong mounds, and foams along the plain,
-Uproots the trees, o'envhelms the verdant land,
-And stains its sparkling waves with mud and sand;
-The waters now in numerous streams divide,
-O'er some steep rock now pour their mingled tide,
-Then could some ice-bolt, in its hurried fall,
-
-With sudden cold congeal the lucid wall,
-
-
-
-
-The crystal mass in clefts and fissures rent,
-Would like Castagna's mount a scene present.*
+The extended town volcanic mountains crown’d,<br>
+Two lofty hills the shelter’d harbour bound;<br>
+Here Capiscello, Monte Rosa there,<br>
+Whose sides their porphyritic birth declare.<br>
+While Campo Bianco’s silvery pumice shone,<br>
+Like drifted snow beneath the morning sun,<br>
+And numbers scoop’d its shining side, and bore<br>
+Their burthens light, tho’ large, and piled upon the shore.<br>
+High in the air, a dark but shining mass,<br>
+Castagna reared its head of solid glass,<br>
+As when some mighty river, swell’d with rain,<br>
+Bursts its strong mounds, and foams along the plain,<br>
+Uproots the trees, o’envhelms the verdant land,<br>
+And stains its sparkling waves with mud and sand;<br>
+The waters now in numerous streams divide,<br>
+O’er some steep rock now pour their mingled tide,<br>
+Then could some ice-bolt, in its hurried fall,<br>
+With sudden cold congeal the lucid wall,<br>
+The crystal mass in clefts and fissures rent,<br>
+Would like Castagna’s mount a scene present.*
 
 Stupendous sight! at Pyros' might amaz'd,
 Alonzo on those giant trophies gazed.
