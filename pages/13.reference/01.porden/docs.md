@@ -3474,7 +3474,7 @@ But now the sea in larger waves was seen,<br>
 And snowy foam emboss’d their dusky green;<br>
 And soon the vessel hasten’d in its course,<br>
 Felt of that current the attractive force,<br>
-Where ‘twixt Hefleggen’s mount, and Ver’s wild shore<br>
+Where ’twixt Hefleggen’s mount, and Ver’s wild shore<br>
 Round Moscöe’s isle, the eddying waters roar:<br>
 That current dread, which borne by adverse winds,<br>
 With chilling fear the wretched seaman finds,<br>
@@ -3489,140 +3489,83 @@ In all the dreadful calmness of despair.[^93]
 Mäelstrom, appear instantly sensible of their danger, struggling and making
 a frightful noise but in vain. They are borne along with increasing rapidity,
 by the resistless force of the vortex.
-By turns the vessel sunk, by turns it rose,
 
-On waves that threaten o'er their heads to close:
-A crystal vase fair Marguerita held,
-Aud o'er the seas a liquid balm distill'd,*
-Sudden the foaming breakers cease to rave,
-Calm is the sea, and sunk the furrowed wave;
-The mountain billows rise on either side,
-Between, the vessel skims the tranquil tide,
-And fearless to the current's force resign'd,
-Leaves a smooth track of silver light behind.
-Within the dreadful vortex now they came,
+By turns the vessel sunk, by turns it rose,<br>
+On waves that threaten o’er their heads to close:<br>
+A crystal vase fair Marguerita held,<br>
+Aud o’er the seas a liquid balm distill’d,[^94]<br>
+Sudden the foaming breakers cease to rave,<br>
+Calm is the sea, and sunk the furrowed wave;<br>
+The mountain billows rise on either side,<br>
+Between, the vessel skims the tranquil tide,<br>
+And fearless to the current’s force resign’d,<br>
+Leaves a smooth track of silver light behind.<br>
+Within the dreadful vortex now they came,<br>
+Whirl’d in swift circles by the rapid stream;<br>
+At once the angry waves forget to roar,<br>
+Their calm as wondrous as their rage before:<br>
+“Now speed thy course, my bark,” the damsel cried,<br>
+“And snatch the moment of the turning tide.”<br>
+She spoke: but scarce the central point they gain,<br>
+Ere, with redoubled fury, boil’d the main,<br>
+And whirl’d, with giddy motion, round and round,<br>
+The bark absorb’d descends the abyss profound.<br>
+But first a ring, where words mysterious shone,<br>
+Like those that mark’d the seal of Solomon,[^95]<br>
+The sea-nymph to the earth-born warrior gave,<br>
+And, as in air, he breathes amid the wave.<br>
+Dark clos’d the foaming waters o’er their head,<br>
+And scarce a beam of straggling light was shed,<br>
+While, chafed by rugged rocks, the waters flow<br>
+Thro’ narrow channels to the realm below.<br>
+And scarce their utmost care the vessel guides,<br>
+From sure destruction on the rocky sides.<br>
+At length, the widening track admits a ray<br>
+Of pallid light, to cheer their dreary way;<br>
+The angry waves retire, and safe they land,<br>
+Tho’ faint with toil, on the subaqueous strand.<br>
+Onward, thro’ shady grots and sunny meads,<br>
+Her wondering guest fair Marguerita leads,<br>
+Who, in amazement, finds this realm unknown,<br>
+Reflect as clear an image of his own,<br>
+As the pure stream whose waters gently flow,<br>
+Gives of the flowers that round its margin grow.<br>
+But whence that song, tho’ distant, sweet and clear,<br>
+That falls so soft on Alfred’s wondering ear?<br>
+Well may he hasten, well his heart rejoice,<br>
+He hears, and knows Miranda’s plaintive voice.
 
-Wbirl'd in swift circles by the rapid stream;
-At once the angry waves forget to roar,
-Their calm as wondrous as their rage before:
-Now speed thy course, my bark,the damsel cried,
-' And snatch the moment of the turning tide."
-She spoke: but scarce the central point they gain,
-Ere, with redoubled fury, boil'd the main,
-And whirl'd, with giddy motion, round and round,
-The bark absorb'd descends the abyss profound.
+[^94]: The power of oil, in stilling troubled waters, is well known; though without the assistance of a sea-nymph, it might not be advisable to try its efficacy in the Mäelstrom. At the turn of the tide, it is said, that the waters are for a few minutes nearly calm, and that fragments of shivered timber are then “refunded on the refluent wave.”
 
+[^95]: In the Arabian Nights Entertainments, Saleh, a king of the sea, previous to plunging with his nephew, Prince Beder, into the water, places on his finger a ring, engraved with the same words as those on Solomon’s seal, by virtue of which he is endowed with the power of breathing in the water.
 
-
-* The power of oil, in stilling troubled waters, is well known; though
-without the assistance of a sea-nymph, it might not be advisable to try its
-efficacy in the Maelstrom. At the turn of the tide, it is said, that the waters
-are for a few minutes nearly calm, and that fragments of shivered timber are
-then refunded on the refluent wave."
-
-M
-
-
-
-
-But first a ring, where words mysterious shone,
-
-Like those that mark'd the seal of Solomon,*
-
-The sea-nymph to the earth-born warrior gave,
-
-And, as in air, he breathes amid the wave.
-
-Dark clos'd the foaming waters o'er their head,
-
-And scarce a beam of straggling light was shed,
-
-While, chafed by rugged rocks, the waters flow
-
-Thro' narrow channels to the realm below.
-
-And scarce their utmost care the vessel guides,
-
-From sure destruction on the rocky sides.
-
-At length, the widening track admits a ray
-
-Of pallid light, to cheer their dreary way;
-
-The angry waves retire, and safe they land,
-
-Tho' faint with toil, on the subaqueous strand.
-
-Onward, thro' shady grots and sunny meads,
-
-Her wondering guest fair Marguerita leads,
-
-Who, in amazement, finds this realm unknown,
-
-Reflect as clear an image of his own,
-
-As the pure stream whose waters gently flow,
-
-Gives of the flowers that round its margin grow.
-
-
-
-* In the Arabian Nights Entertainments, Saleh, a king of the sea, pre-
-vious to plunging with his nephew, Prince Beder, into the water, places oa
-his finger a ring, engraved with the same words as those on Solomon's seal,
-by virtue of which he is endowed with the power of breathing in the water.
-
-
-
-But whence that song, the.' distant, sweet and clear,
-
-That falls so soft on Alfred's wondering ear?
-
-Well may he hasten, well his heart rejoice,
-
-He hears, and knows Miranda's plaintive voice.
-
-Far from his home, how sad the captive's doom,
-
-The loathsome dungeon's solitary gloom;
-
-His lamp expiring casts a feeble ray;
-
-u No sound of man, no beam of cheerful day
-
-Breaks the dead calm, he meets no friendly eye,
-
+“Far from his home, how sad the captive’s doom,<br>
+The loathsome dungeon’s solitary gloom;<br>
+His lamp expiring casts a feeble ray;<br>
+u No sound of man, no beam of cheerful day<br>
+Breaks the dead calm, he meets no friendly eye,<br>
 Alone the echoes to his moans reply.
 
-But sadder is my lot, condemn'd to see
+“But sadder is my lot, condemn’d to see<br>
+The bliss forbade, and mock’d with liberty.<br>
+On yonder hills that catch the morning ray,<br>
+How sad at evening sunk the waning day,<br>
+Sad was the calm the evening twilight shed,<br>
+Grief seem’d to sleep, and hope itself was dead.
 
-The bliss forbade, and mock'd with liberty.
-
-On yonder hills that catch the morning ray,
-
-How sad at evening sunk the waning day,
-
-Sad was the calm the evening twilight shed,
-
-Grief seem'd to sleep, and hope itself was dead.
-
-How coldly fair, this green effulgence falls
-On yon majestic hills and stately halls,
-Faint as my fading hopes the feeble gleam,
-f* Oh! how unlike that glowing golden beam
-m
-
-
-
-That cheer'd my path, while youthful fancy wove
+“How coldly fair, this green effulgence falls<br>
+On yon majestic hills and stately halls,<br>
+Faint as my fading hopes the feeble gleam,<br>
+Oh! how unlike that glowing golden beam<br>
+That cheer’d my path, while youthful fancy wove<br>
 Her fairy dreams of happiness and love:
 
-When, with the cheerful confidence of youth,
-I listen'd, Alfred! to thy vows of truth,
-And thought thy love so sure a source of joy,
-The storms of life might pass unheeded by.
-Oh! whither art thou fled, what bonds restrain,
-What spells delude thee, or what walls detain:"
+“When, with the cheerful confidence of youth,<br>
+I listen’d, Alfred! to thy vows of truth,<br>
+And thought thy love so sure a source of joy,<br>
+The storms of life might pass unheeded by.<br>
+Oh! whither art thou fled, what bonds restrain,<br>
+What spells delude thee, or what walls detain:”
 
 The captive ceased; for who is yonder knight,
 And who yon nymph? So sudden was the sight,
