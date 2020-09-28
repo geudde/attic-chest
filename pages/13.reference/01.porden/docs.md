@@ -3256,393 +3256,242 @@ Unfurl the swelling canvass to the wind:<br>
 The subject seas Britannia's navies ride,<br>
 And every wind, that sweeps the foaming tide,<br>
 Wafts a rich tribute to her island throne,<br>
-And makes the wealth of distant worlds her own.
+And makes the wealth of distant worlds her own.<br>
+Here was that shell where Cytherea rode[^85]<br>
+In splendid triumph o’er her native flood;<br>
+And here the gaudy Murex shone, that drest,<br>
+In Tyrian hue, imperial Caesar’s vest:[^86]<br>
+And numbers here unnam’d, dispos’d with art,<br>
+Beam’d their collected charms from every part.
 
 [^83]: The cornua Ammonis or horn of Jove, is a very beautiful shell, of the nautilus genus. The living animal is no where found, but the shell is very common in a fossil state. It has a pearly lustre on the outside, and the section exhibits a beautiful camerated structure.
 
 [^84]: There is no shell that has acquired more celebrity than the paper nautilus, which is supposed to have given to man the first hint of the art of sailing. The tenant of this shell expanding a thin membrane to the influence of the wind, and at the same time moving its tentaculæ, sails with rapidity over the ocean. I have said the *tenant* of this shell, for the animal usually found in it, does not appear to have been its builder, and neither in form nor structure corresponds with the mansion it inhabits, or with the inhabitants of the other nautili. It is a species of cuttle fish, which probably, like the soldier crab, and some others, seizes the discarded shell of the nautilus, and converts it to its own uses. The different cameras of the shell are perfectly useless to this animal, and could never have been formed or inhabited by it: it resides only in the outer chamber. — *Roget and Shaw’s Lectures*.
 
+[^85]: Chama gigas, the largest of testaceous productions, the pair of these shells often weighing from 120 to 140 pounds. The force of the shell in closing is sufficient to separate a cable, or lop off a limb, and the water spouts up to three or four feet distance. The chama gigas is a native of the Pacific Ocean, and is very frequent in museums.
 
+[^86]: The murex was employed by the Romans in dyeing their Tyrian purple.
 
-Here was that shell where Cytherea rode*
-
-In splendid triumph o'er her native flood;
-
-And here the gaudy Murex shone, that drest,
-
-In Tyriau hue, imperial Caesar's vest:f
-
-And numbers here unnam'd, dispos'd with art,
-
-Beam'd their collected charms from every part.
-
-Of finest sand the grotto's floor was seen,
-Snow-white, and smoother than the shaven green;
-Rich seats of scarlet coral grac'd the pile,
+Of finest sand the grotto’s floor was seen,<br>
+Snow-white, and smoother than the shaven green;<br>
+Rich seats of scarlet coral grac’d the pile,<br>
 Where countless myriads ply their ceaseless toil.
 
-In pleasing wonder lost, her woes forgot, §0
-
-Miranda view'd the garden and the grot;
-When turning, now her artful guide display'd,
-Not Marguerita, but a stranger maid!
-Ah! now accuse,the damsel taunting cries,
-Thine ears deceitful, or thy careless eyes;
-
-
-
-* Chama gigas, the largest of testaceous productions, the pair of these shells
-often weighing from 120 to 140 pounds. The force of the shell in closing is
-sufficient to separate a cable, or lop off a limb, and the water spouts up to
-three or four feet distance. The chama gigas is a native of the Pacific Ocean,
-and is very frequent in museums.
-
-t The murex was employed by the Romans in dyeing their Tyrian purple.
-
-
-
-
-Or weep once more Lymnoria's fatal smiles,
-Her heart obdurate and successful wiles.
-Too late! — my voice your life or death declares:
-Escape is hopeless! fruitless are your prayers!
-Think not, vain girl! to share Marino's throne,
-'And claim those honours which are mine alone:
-In vain shall Alfred his lost love bewail,
-In vain Marino boast thy ravish'd Veil;
-The charm that binds in ocean realms to dwell,
-Will aid my arts to fix thee in this cell,
-While I regain the heart thy wiles have won,
-And mount the throne thou dost but feign to shun.'
-
-She spoke: at her command the waves that spread
-A mass of fleecy clouds above their head,
-In many a pendant column, forming slow,
-Sinks towards the ground — the river boils below.
-To meet the lowering skies its 'waters rose,
-And walls of seeming glass the grot enclose.
-She joins her sportive sisters of the main,
-The sea re-echoes her triumphant strain,
-The distant sound lies mournful captive hears,
-Those notes of joy augment her fruitless tears.
-
-
-
-Tormenting state! her steps no massy chain,
-
-Xo brazen doors, no lofty walls detain:
-
-She views the scene around, serene and clear,
-
-She breathes a light ethereal atmosphere,
-
-Yet by that lucid barrier more secured,
-
-Than if by circling adamant immured.*
-
-Thus, (like a diver in his crystal bell,)
-Aranea lives within her airy cell,
-Rears her young offspring in this secret cave,
-And insulated breathes amid the wave.-j-
-
-* This thought is borrowed from Spenser. It has also been used to advan-
-tage in Jamieson's Mermaid, or Maid of Colonsay."
-Florimel is imprisoned by Proteus.
-
-Deepe in the bottome of an huge great rocke
-
-The dongeon was, in which her bound he left.
-
-That neither yron barres, nor brasen locke
-
-Did neede to gard from force or secret theft,
-
-Of all her lovers which would her have reft;
-
-For wall'd it was with waves, which rag'd and ror'd
-
-As they the clifFe in peeces would have cleft.
-
-Besides ten thousand monsters foule abhor'd
-
-Did waite about it, gaping, griesly, all begor'd."
-t In the water-spider, which forms its nest at the bottom of water, we find
-a very curious contrivance to supply it with air in this situation. This animal
-has the power of swimming. It ascends to the surface of the water, and re-
-turns laden with a large bubble of air, which it preserves unbroken amid the
-pressure of surrounding waves. This operation is frequently repeated, till a
-considerable reservoir of air is collected around the nest, in which the spider
-lives and rears its little family, surrounded by their own peculiar atmosphere,
-and literally "insulated amid the waves.The spider has the power occa-
-sionally of dividing this reservoir into two or three cells.: — Roget's Lectures.
-
-
-
-But now impatient, to her pearly car
-Fair Marguerita calls the lingering fair,
-But calls in vain, — her friends in wonder stand,
-
-Then seek their vanish'd partner on the strand. —
-A rock abrupt and insulated stood,
-Its rugged head impending o'er the flood;
-There sat a warrior — Soon his pictur'd shield
-And sable arms Miranda's knight reveal'd;
-Yet false the hopes that now their breasts inspire,
-In vain their lips Miranda's fate inquire.
-Oh! ask not me! by magic arts betrayed,
-I left the fort and that transcendant maid;
-And had not chance Lymnoria's face reveal'd,
-
-She now had borne me o'er yon azure field,
-In ocean's darkest caves to watch and weep,
-Or glut some savage monster of the deep!
-u Reviled and scorned, too late I knew the dame,
-Who mock'd Miranda's voice, Miranda's name;
-In vain my weary steps my love pursue,
-i{ Nor know I where to seek, if not with you."
-
-Thus Alfred spoke: with grief the damsels hear.
-While Leonora's voice augments their fear:
-
-
-
-Oh, Alfred, haste; perchance, like thee, betrayed,
-
-The caves of ocean hide the hapless maid;
-
-Haste, Marguerita, haste, ere yet too late,
-
-a Perhaps a moment lost decides her fate."
-
- The nymph young Alfred follows; o'er the seas
-Speeds their light bark, nor heeds the adverse breeze;
-Tho' slight its frame, its strength the waves defied,
-And swift as lightning skimm'd the sparkling tide,
-No brilliant hues its dark-brown surface shows, ~1
-
-Within the opal's changeful lustre glows, V
-
-And o'er their heads a graceful awning rose. l60j
-
-Soon to the warrior's eager eyes were lost
-The snowy cliffs that mark'd the distant coast,
-Whence long their anxious friends their course pursue,
-And gazing, wave them many a kind adieu.
-By Albion's shore their rapid way they steer'd,
-And Caledonia's ruder cliffs appear'd;
-Then by the rocky Orcades they past,
-And view'd, at distance, Norway's forests vast;
-And soon they shiver'd in the icy breeze
-That swept the surface of the Arctic seas.
-
-Those seas alike where truth and fancy reign,
-
-And with unnumber'd monsters fill the main;
-
-
-
-
-Where their long course the months in darkness roll,
-
-And fogs eternal shroud the frozen pole;
-
-Those seas where endless wastes of snow appear.
-
-And alps of ice increase with every year.
-
-Where the red lights that quiver in the sky,
-
-For half his course, the absent sun supply,
-
-Till, from Antarctic climes, he turns again,
-
-And smiling summer takes his rapid reign;
-
-As touch'd by magic hand, the realms around
-
-Burst into bloom, and flowers conceal the ground.
-
-Where late the Lapland boor in caves reclin'd,
-
-Fled the stern rigour of the winter wind,
-
-Or to his sledge, with thongs securely bound,
-
-Urg'd his fleet rein-deer o'er the frozen ground,
-
-Which scarce of moss its scanty pittance gave,
-
-Now fruits expand, and yellow harvests wave.
-
-In countless boats the busy seamen sail,
-
-Entrap the seal, or wound the unwieldy whale. 1Q0
-
-Not, like our isle, with soft transition blest,
-
-Where gradual beauties gain a higher zest,
-
-Where with delight, we watch the opening flowers,
-
-And the soft influence of the vernal showers;
-
-The expanding fruits in size and flavour grow,
-
-Till their bright rinds with ripening lustre glow;
-
-
-
-
-Or when the trees in richer livery clad,
-Of gold and crimson spread their mingled shade,
-Their charms increasing in their slow decay —
-There, soon matnr'd, as soon they fade away:
-Like the bright rainbow in a summer sky,
+In pleasing wonder lost, her woes forgot,<br>
+Miranda view’d the garden and the grot;<br>
+When turning, now her artful guide display’d,<br>
+Not Marguerita, but a stranger maid!<br>
+“Ah! now accuse,” the damsel taunting cries,<br>
+“Thine ears deceitful, or thy careless eyes;<br>
+Or weep once more Lymnoria’s fatal smiles,<br>
+Her heart obdurate and successful wiles.<br>
+Too late! — my voice your life or death declares:<br>
+Escape is hopeless! fruitless are your prayers!<br>
+Think not, vain girl! to share Marino’s throne,<br>
+And claim those honours which are mine alone:<br>
+In vain shall Alfred his lost love bewail,<br>
+In vain Marino boast thy ravish’d Veil;<br>
+The charm that binds in ocean realms to dwell,<br>
+Will aid my arts to fix thee in this cell,<br>
+While I regain the heart thy wiles have won,<br>
+And mount the throne thou dost but feign to shun.”
+
+She spoke: at her command the waves that spread<br>
+A mass of fleecy clouds above their head,<br>
+In many a pendant column, forming slow,<br>
+Sinks towards the ground — the river boils below.<br>
+To meet the lowering skies its waters rose,<br>
+And walls of seeming glass the grot enclose.<br>
+She joins her sportive sisters of the main,<br>
+The sea re-echoes her triumphant strain,<br>
+The distant sound lies mournful captive hears,<br>
+Those notes of joy augment her fruitless tears.<br>
+Tormenting state! her steps no massy chain,<br>
+No brazen doors, no lofty walls detain:<br>
+She views the scene around, serene and clear,<br>
+She breathes a light ethereal atmosphere,<br>
+Yet by that lucid barrier more secured,<br>
+Than if by circling adamant immured.[^87]
+
+Thus, (like a diver in his crystal bell,)<br>
+Aranea lives within her airy cell,<br>
+Rears her young offspring in this secret cave,<br>
+And insulated breathes amid the wave.[^88]
+
+[^87]: This thought is borrowed from Spenser. It has also been used to advantage in Jamieson's “Mermaid, or Maid of Colonsay."<br>
+<br>
+Florimel is imprisoned by Proteus.<br>
+<br>
+&emsp;“Deepe in the bottome of an huge great rocke<br>
+&emsp;The dongeon was, in which her bound he left.<br>
+&emsp;That neither yron barres, nor brasen locke<br>
+&emsp;Did neede to gard from force or secret theft,<br>
+&emsp;Of all her lovers which would her have reft;<br>
+&emsp;For wall’d it was with waves, which rag’d and ror’d<br>
+&emsp;As they the cliffe in peeces would have cleft.<br>
+&emsp;Besides ten thousand monsters foule abhor’d<br>
+&emsp;Did waite about it, gaping, griesly, all begor’d.”
+
+[^88]: In the water-spider, which forms its nest at the bottom of water, we find a very curious contrivance to supply it with air in this situation. This animal has the power of swimming. It ascends to the surface of the water, and returns laden with a large bubble of air, which it preserves unbroken amid the pressure of surrounding waves. This operation is frequently repeated, till a considerable reservoir of air is collected around the nest, in which the spider lives and rears its little family, surrounded by their own peculiar atmosphere, and literally “insulated amid the waves.” The spider has the power occasionally of dividing this reservoir into two or three cells. — *Roget’s Lectures*.
+
+But now impatient, to her pearly car<br>
+Fair Marguerita calls the lingering fair,<br>
+But calls in vain, — her friends in wonder stand,<br>
+Then seek their vanish’d partner on the strand. —<br>
+A rock abrupt and insulated stood,<br>
+Its rugged head impending o’er the flood;<br>
+There sat a warrior — Soon his pictur’d shield<br>
+And sable arms Miranda’s knight reveal’d;<br>
+Yet false the hopes that now their breasts inspire,<br>
+In vain their lips Miranda’s fate inquire.<br>
+“Oh! ask not me! by magic arts betrayed,<br>
+I left the fort and that transcendant maid;<br>
+And had not chance Lymnoria’s face reveal’d,<br>
+She now had borne me o’er yon azure field,<br>
+In ocean’s darkest caves to watch and weep,<br>
+Or glut some savage monster of the deep!<br>
+Reviled and scorned, too late I knew the dame,<br>
+Who mock’d Miranda’s voice, Miranda’s name;<br>
+In vain my weary steps my love pursue,<br>
+Nor know I where to seek, if not with you.”
+
+Thus Alfred spoke: with grief the damsels hear.<br>
+While Leonora’s voice augments their fear:
+
+“Oh, Alfred, haste; perchance, like thee, betrayed,<br>
+The caves of ocean hide the hapless maid;<br>
+Haste, Marguerita, haste, ere yet too late,<br>
+Perhaps a moment lost decides her fate.”
+
+The nymph young Alfred follows; o’er the seas<br>
+Speeds their light bark, nor heeds the adverse breeze;<br>
+Tho’ slight its frame, its strength the waves defied,<br>
+And swift as lightning skimm’d the sparkling tide,<br>
+No brilliant hues its dark-brown surface shows,<br>
+Within the opal’s changeful lustre glows,<br>
+And o’er their heads a graceful awning rose.<br>
+Soon to the warrior’s eager eyes were lost<br>
+The snowy cliffs that mark’d the distant coast,<br>
+Whence long their anxious friends their course pursue,<br>
+And gazing, wave them many a kind adieu.<br>
+By Albion’s shore their rapid way they steer’d,<br>
+And Caledonia’s ruder cliffs appear’d;<br>
+Then by the rocky Orcades they past,<br>
+And view’d, at distance, Norway’s forests vast;<br>
+And soon they shiver’d in the icy breeze<br>
+That swept the surface of the Arctic seas.<br>
+Those seas alike where truth and fancy reign,<br>
+And with unnumber’d monsters fill the main;<br>
+Where their long course the months in darkness roll,<br>
+And fogs eternal shroud the frozen pole;<br>
+Those seas where endless wastes of snow appear.<br>
+And alps of ice increase with every year.<br>
+Where the red lights that quiver in the sky,<br>
+For half his course, the absent sun supply,<br>
+Till, from Antarctic climes, he turns again,<br>
+And smiling summer takes his rapid reign;<br>
+As touch’d by magic hand, the realms around<br>
+Burst into bloom, and flowers conceal the ground.<br>
+Where late the Lapland boor in caves reclin’d,<br>
+Fled the stern rigour of the winter wind,<br>
+Or to his sledge, with thongs securely bound,<br>
+Urg’d his fleet rein-deer o’er the frozen ground,<br>
+Which scarce of moss its scanty pittance gave,<br>
+Now fruits expand, and yellow harvests wave.<br>
+In countless boats the busy seamen sail,<br>
+Entrap the seal, or wound the unwieldy whale.<br>
+Not, like our isle, with soft transition blest,<br>
+Where gradual beauties gain a higher zest,<br>
+Where with delight, we watch the opening flowers,<br>
+And the soft influence of the vernal showers;<br>
+The expanding fruits in size and flavour grow,<br>
+Till their bright rinds with ripening lustre glow;<br>
+Or when the trees in richer livery clad,<br>
+Of gold and crimson spread their mingled shade,<br>
+Their charms increasing in their slow decay —<br>
+There, soon matnr’d, as soon they fade away:<br>
+Like the bright rainbow in a summer sky,<br>
 They rise, they bloom, they ripen, fade, and die!
 
-On sail'd the bark secure, but soon, uprear'd
-Above the waves, a hideous form appear'd;
-His head was like a steed's, in many a fold
-Round his long neck the thick tough skin was roll'd;
-Six flatten'd feet his mighty bulk sustain,
-And bristled on his back his yellow mane;
-The boa, largest of the serpent brood,
-Were weak and small, if near this hydra vievv'd;
-Ten fathom long his snaky form was seen,
-And high he rear'd his head of dusky green.*
-Lymnoria's envoy, at her will he came
+On sail’d the bark secure, but soon, uprear’d<br>
+Above the waves, a hideous form appear’d;<br>
+His head was like a steed’s, in many a fold<br>
+Round his long neck the thick tough skin was roll’d;<br>
+Six flatten’d feet his mighty bulk sustain,<br>
+And bristled on his back his yellow mane;<br>
+The boa, largest of the serpent brood,<br>
+Were weak and small, if near this hydra view’d;<br>
+Ten fathom long his snaky form was seen,<br>
+And high he rear’d his head of dusky green.[^89]<br>
+Lymnoria’s envoy, at her will he came<br>
 To crush the knight, and more detested dame.
 
+[^89]: This description is exactly copied from an account accompanied by a sketch, given by Mr. Este in his Lectures at the Royal Institution in 1809, of the sea-snake that was stranded on one of the Orkneys in 1808. Its length was fifty-five feet; but as part of the tail was wanting, the animal had probably measured at least sixty, when perfect. The head resembled that of a horse. The neck was ten feet long, but only two feet in circumference. It had six flat feet. The colour was a dusky green, and a thick yellow mane stood up on its back.
 
-
-* This descri prion is exactly copied from an account accompanied by a
-sketch, given by Mr. Este in his Lectures at the Royal Institution in 1809,
-of the sea-snake that was stranded on one of the Orkneys in 1808. Its length
-was fifty-five fc?et; but as part of the tail was wanting, the animal had probably
-measured at least sixty, when perfect. The head resembled that of a horsr.
-
-
-
-The bark he follow'd o'er the wat'ry plain,
-And hiss'd aloud, — and lash'd the foaming main,
-And strove to wreathe it in his spiral train.
-But forth, attentive, Marguerita drew
-A small brown ball, and at the hydra threw;
-Its potent scent the offended monster fled,*
+The bark he follow’d o’er the wat’ry plain,<br>
+And hiss’d aloud, — and lash’d the foaming main,<br>
+And strove to wreathe it in his spiral train.<br>
+But forth, attentive, Marguerita drew<br>
+A small brown ball, and at the hydra threw;<br>
+Its potent scent the offended monster fled,[^90]<br>
 And on its course the little vessel sped.
 
-New dangers now impend; thro' mountains vast
-Of gather'd ice, a narrow streight they past.
-Oh! should the sun's meridian fervour launch
-From yon dread height the threat'ning avalanch;
-Or should the waves impel some floating rock,
-They sink or perish in the dreadful shock!
-And lo! impatient of the expected prey,
-O'er the firm ice a bear pursues their way;
+[^90]: The castoreum, or castor, may be called an animal gum resin. It is a peculiar secretion of the beaver. It usually comes to England in small balls of a reddish brown colour, and covered with a tough membrane; it has a bitter unpleasant taste, and a very peculiar and strongly disagreeable odour. The best castor comes from Russia, and the ordinary sort from Canada. The pilots of the north are said to provide themselves with this drug, to preserve them from the attacks of the sea-snakes, infesting the Arctic Ocean, to whom its smell is particularly offensive.
 
+New dangers now impend; thro’ mountains vast<br>
+Of gather’d ice, a narrow streight they past.<br>
+Oh! should the sun’s meridian fervour launch<br>
+From yon dread height the threat’ning avalanch;<br>
+Or should the waves impel some floating rock,<br>
+They sink or perish in the dreadful shock!<br>
+And lo! impatient of the expected prey,<br>
+O’er the firm ice a bear pursues their way;<br>
+Vast as the monsters of Hircynia’s wood,<br>
+His snowy hairs with rage erected stood;<br>
+He snuffs the scented gale, and longs to clasp[^91]<br>
+The unhappy victims in his fatal grasp!<br>
+But as his feet prepare to tempt the tide,<br>
+Behold! the waves the icy rock divide;<br>
+To shun the double death, a narrow cave,<br>
+In its clear side, the opposing glacier gave;<br>
+The vessel here preserv’d, the sever’d mass<br>
+Impetuous rushes thro’ the narrow pass.<br>
+Borne by the furious tide, and driving gales,<br>
+Far out to sea the floating island sails;<br>
+While prescient of his death of lingering pain,<br>
+The bear, with dreadful howls laments in vain;<br>
+Which, first transmitted from the ice around,<br>
+The echoing air returns with fainter sound.[^92]
 
+[^91]: The Hircynian forest, formerly celebrated as the haunt of large ferocious beasts, contains stupendous monuments of their existence. For two hundred leagues extend an immense number of caverns lined with stalactitious concretions, and their floors covered with bones. Two thirds of these belong to two species of bear which no longer exist. These animals must have lived and died in the caverns where their remains are found; and as carnivorous animals are solitary, each cavern must have contained only one, or perhaps a pair. What a long succession of generations does this render necessary, to produce the accumulation of bones which has long supplied the apothecaries of Germany with phosphate of lime, and still remains to excite the wonder of the naturalist! *Cuvier, &amp;c.*
 
-The neck was ten feet long, but only two feet in circumference. It had six
-flat feet. The colour was a dusky green, and a thick yellow mane stood up
-on its back.
+[^92]: The power of water and of ice, as conductors of sound, is much superior to that of air. The noise of cannon has often been transmitted by the waves
+to an incredible distance, and vessels sailing among the islands of ice, in
+high latitudes, often hear a double report, first and loudest from the ice, and
+afterwards, much more faintly, from the air. *Davy*.
 
-* The castoreura, or castor, may be called an animal gum resin. It is a pe-
-culiar secretion of the beaver. It usually comes to England in small balls of
-a reddish brown colour, and covered with a tough membrane; it has a bitter
-unpleasant taste, and a very peculiar and strongly disagreeable odour. The
-best castor comes from Russia, and the ordinary sort from Canada. The pilots
-of the north are said to provide themselves with this drug, to preserve them
-from the attacks of the sea-snakes, infesting the Arctic Ocean, to whom its
-smell is particularly offensive,
+But now the sea in larger waves was seen,<br>
+And snowy foam emboss’d their dusky green;<br>
+And soon the vessel hasten’d in its course,<br>
+Felt of that current the attractive force,<br>
+Where ‘twixt Hefleggen’s mount, and Ver’s wild shore<br>
+Round Moscöe’s isle, the eddying waters roar:<br>
+That current dread, which borne by adverse winds,<br>
+With chilling fear the wretched seaman finds,<br>
+Laments his danger, now too late descried,<br>
+And vainly struggles with the increasing tide,<br>
+Then sinks unable with its force to cope,<br>
+And cries in vain for aid he cannot hope;<br>
+Or marks its course the fatal vortex near,<br>
+In all the dreadful calmness of despair.[^93]
 
-
-
-
-Vast as the monsters of Hircynia's wood,
-
-His snowy hairs with rage erected stood;
-
-He snuffs the scented gale, and longs to clasp*
-
-The unhappy victims in his fatal grasp!
-
-But as his feet prepare to tempt the tide,
-
-Behold! the waves the icy rock divide;
-
-To shun the double death, a narrow cave,
-
-In its clear side, the opposing glacier gave;
-
-The vessel here preserv'd, the sever'd mass
-
-Impetuous rushes thro' the narrow pass.
-
-Borne by the furious tide, and driving gales,
-
-Far out to sea the floating island sails;
-
-While prescient of his death of lingering pain,
-
-The bear, with dreadful howls laments in vain;
-
-Which, first transmitted from the ice around,
-
-The echoing air returns with fainter sound.t
-
-
-
-* The Ilircynian forest, formerly celebrated as the haunt of large fero-
-cious beasts, contains stupendous monuments of their existence. For two
-hundred leagues extend an immense number of caverns lined with stalactiti-
-ous concretions, and ilieir floors covered with bones. Two thirds of these
-belong to two species of bear which no longer exist. These animals must
-have Jived and died in the caverns where their remains are (bund; and as
-carnivorous animals are solitary, each cavern must have contained only one,
-or perhaps a pair. What a long succession of generations does this render
-necessary, to produce the accumulation of bones which lias long supplied
-the apothecaries of Germany with phosphate of lime, and still remains to
-excite the wonder of the naturalist! Cuvier, $c.
-
-t The power of water and of ice, as conductors of sound, is mudi superior
-
-
-
-
-But now the sea in larger waves was seen,
-And snowy foam emboss'd their dusky green;
-And soon the vessel hasten'd in its course,
-Felt of that current the attractive force,
-Where 'twixt Hefleggen's mount, and Ver's wild shore
-Round Moscoe's isle, the eddying waters roar:
-That current dread, which borne by adverse winds,
-With chilling fear the wretched seaman finds,
-Laments his danger, now too late descried,
-And vainly struggles with the increasing tide,
-Then sinks unable with its force to cope,
-And cries in vain for aid he cannot hope;
-Or marks its course the fatal vortex near,
-lu all the dreadful calmness of despair.*
-
+[^93]: Even whales and other animals, coming within the influence of the
+Mäelstrom, appear instantly sensible of their danger, struggling and making
+a frightful noise but in vain. They are borne along with increasing rapidity,
+by the resistless force of the vortex.
 By turns the vessel sunk, by turns it rose,
 
 On waves that threaten o'er their heads to close:
-
-
-
-to that of air. The noise of cannon has pften been transmitted by the wares
-to an incredible distance, and vessels sailing among the islands of ice, in
-high latitudes, often hear a double report, first and loudest from the ice, and
-afterwards, much more faintly, from the air. Davy.
-
-* Even whales and other animals, coining within the influence of the
-Maelstrom, appear instantly sensible of their danger, struggling and making
-a frightful noise but in vain. They are borne along with increasing rapidity,
-by the resistless force of the vortex.
-
-
-
-
 A crystal vase fair Marguerita held,
 Aud o'er the seas a liquid balm distill'd,*
 Sudden the foaming breakers cease to rave,
