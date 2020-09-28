@@ -3655,77 +3655,62 @@ With speed untir’d, pursue their rapid chace,<br>
 Or sportive wheel in many a mazy ring,<br>
 Now soar on high, now sink on idle wing;<br>
 Thus o’er his head the finny nations glide,<br>
-And lash with strenuous tail the sparkling tide.
+And lash with strenuous tail the sparkling tide.<br>
 
-[^97]: The coral islands are formed with a rapidity that is astonishing, whether we consider the great depth from which they rise, or the extreme minuteness of the animals that produce them. It is chiefly in the Pacific Ocean that this growth of coral takes place, where many large islands are continually forming, and rise up, from immense depths almost perpendicularly, to the surface of the water. The sea then gradually filling up the interstices of the coral with mud and sand, a soil is formed, and by degrees the islands become the rich and fertile abodes of man and animals.
-
-Captain Flinders seems to have been particularly struck with the variety of form and colour presented by the corallines on the reefs of New Holland, or Australasia, “equalling in beauty, and excelling in grandeur, the most favourite parterre of the curious florist.”
-
-Some of the animals that form the coral, seem to live in a kind of commonwealth, their bodies being connected by a network of nerves. It should appear, that the food received by one affords benefit to the whole community, so that if one of them be indisposed to eat, he may subsist on the nutriment communicated by others.
-
+[^97]: The coral islands are formed with a rapidity that is astonishing, whether we consider the great depth from which they rise, or the extreme minuteness of the animals that produce them. It is chiefly in the Pacific Ocean that this growth of coral takes place, where many large islands are continually forming, and rise up, from immense depths almost perpendicularly, to the surface of the water. The sea then gradually filling up the interstices of the coral with mud and sand, a soil is formed, and by degrees the islands become the rich and fertile abodes of man and animals.<br>
+<br>
+Captain Flinders seems to have been particularly struck with the variety of form and colour presented by the corallines on the reefs of New Holland, or Australasia, “equalling in beauty, and excelling in grandeur, the most favourite parterre of the curious florist.”<br>
+<br>
+Some of the animals that form the coral, seem to live in a kind of commonwealth, their bodies being connected by a network of nerves. It should appear, that the food received by one affords benefit to the whole community, so that if one of them be indisposed to eat, he may subsist on the nutriment communicated by others.<br>
+<br>
 The growth of coral is much less observable in European seas, or in the Atlantic, except near the West Indies and in the Red Sea. There is coral in the Straits of Messina, and Spallanzani has given a long account of ths fishery there. — *Roget’s Lectures*.
 
-Like swallows marshall'd for their annual flight,
-The smaller tribes in countless shoals unite,
-Still as they roam, inhale the briny flood,
-At once their liquid atmosphere and food.[^98]
-Behind, the tyrants of the deep pursue,
-Their savage hunger kindling at the view,
-Their opening jaws the gates of death reveal,
-And shoals are crush'd at one rapacious meal.
+Like swallows marshall’d for their annual flight,<br>
+The smaller tribes in countless shoals unite,<br>
+Still as they roam, inhale the briny flood,<br>
+At once their liquid atmosphere and food.[^98]<br>
+Behind, the tyrants of the deep pursue,<br>
+Their savage hunger kindling at the view,<br>
+Their opening jaws the gates of death reveal,<br>
+And shoals are crush’d at one rapacious meal.
 
 [^98]: Many of the larger tribes of fishes feed on the smaller kinds, and are exceedingly voracious, but most fishes appear to derive their subsistence from the element which surrounds them. Perhaps the medusæ and other minute animals which inhabit the water, may contribute to their nutrition. Among birds which assemble for periodical migrations, those which fly first of the troop, eat up the country, and are strong and fat, while their unfortunate followers, unable to find sufficient provision, are weak and emaciated, and fall an easy prey to the tigers and hyenas that prowl behind. But in fish, where the shoals are infinitely more numerous, this is never the case, and the last of a shoal of herrings or of mackerel, is in as good condition as its predecessors. Did the majority of fishes require any other food than what is afforded by the water which surrounds them, where would the immense multitudes which inhabit the ocean find provision? It would be greedily devoured by the larger tribes, and they would be left to perish by famine. — *Roget’s Lectures*.
 
-Here countless tribes their different kinds renew,
-Fixt to the spot where late their parents grew,[^99]
-
-
+Here countless tribes their different kinds renew,<br>
+Fixt to the spot where late their parents grew,[^99]<br>
+Their tender frames the shining shells defend,<br>
+Form as they form, and with their growth extend;<br>
+Not theirs the power to urge their rapid way,<br>
+And gain each moment on the flying prey,<br>
+Yet little arts minuter tribes allure,<br>
+Their closing shells the floating food secure;<br>
+Firm on their native spot, they brave the storm,<br>
+And still increasing, grace the rock they form.
 
 [^99]: This is not precisely true with all the bivalve shells; some of them possess a slight power of locomotion. The oyster, for instance, by rapidly opening and closing its shell, is able to effect a slow and laborious motion from place to place, the reflux of the tide impelling it slightly at every action.
 
-Their tender frames the shining shells defend,
-
-Form as they form, and with their growth extend;
-
-Not theirs the power to urge their rapid way,
-
-And gain each moment on the flying prey,
-
-Yet little arts minuter tribes allure,
-
-Their closing shells the floating food secure;
-
-Firm on their native spot, they brave the storm,
-
-And still increasing, grace the rock they form.
-
-At distance thro' the waves, on Henry's eyes,
-Of ocean's chiefs the splendid mansions rise,
-Of motherpearl and shells united fram'd,
-
-With burnish'd gold and glittering gems they flam'd;
-Sudden, as breathing from some flowery land,
-The wanderer's cheek a fragrant zephyr fann'd:
-Surprized, he felt its breath, and turning found
-His steps unknown had past a viewless bound,
-Behind his track the distant waves appear,
-Before, a light subaqueous atmosphere.
-By gorgeous palaces, and stately groves,
-O'er verdant hills, and cultur'd plains, he roves;
-Beholding, as he past, with wondering view,
-
-The ocean nymphs their various toils pursue;
-
-
-
-Some seek the cooling rills or leafy bowers,
-Prune the green shrubs, or tend their opening flowers;
-Some for their grots, gay shells and minerals sought,
-Some their thin webs of fine-spun coral wrought,
-Wound thro' the snowy pearl the golden thread,
-Or the light dance iu sportive mazes led,
-Their tuneful part in songs harmonious bear,
-Or draw thro' combs of pearl their yellow hair.
+At distance thro’ the waves, on Henry’s eyes,<br>
+Of ocean’s chiefs the splendid mansions rise,<br>
+Of motherpearl and shells united fram’d,<br>
+With burnish’d gold and glittering gems they flam’d;<br>
+Sudden, as breathing from some flowery land,<br>
+The wanderer’s cheek a fragrant zephyr fann’d:<br>
+Surprized, he felt its breath, and turning found<br>
+His steps unknown had past a viewless bound,<br>
+Behind his track the distant waves appear,<br>
+Before, a light subaqueous atmosphere.<br>
+By gorgeous palaces, and stately groves,<br>
+O’er verdant hills, and cultur’d plains, he roves;<br>
+Beholding, as he past, with wondering view,<br>
+The ocean nymphs their various toils pursue;<br>
+Some seek the cooling rills or leafy bowers,<br>
+Prune the green shrubs, or tend their opening flowers;<br>
+Some for their grots, gay shells and minerals sought,<br>
+Some their thin webs of fine-spun coral wrought,<br>
+Wound thro’ the snowy pearl the golden thread,<br>
+Or the light dance iu sportive mazes led,<br>
+Their tuneful part in songs harmonious bear,<br>
+Or draw thro’ combs of pearl their yellow hair.
 
 But now a well-known voice to Henry's ears,
 
