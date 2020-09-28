@@ -5116,240 +5116,150 @@ Star’d wildly round, and seem’d to loath the ray;<br>
 Through his dark robes his naked arms appear’d,<br>
 One held a torch, and one the vessel steer’d.
 
-The bark rose slowly to the pit's dark side,
-At two small seats in silence points the guide,
-The Sylph supports and cheers the entering maid;
-Descend!the Gnome in voice of thunder said.
-Sad on her ear those hollow accents came,
-And thrill'd with horror all her shrinking frame.
-From his dark form she turn'd her glistening eyes,
-And fix'd them wildly on the azure skies.;
-Still less and less the lucid circle grew,
-Shrunk to a point, and vanish'd from her view.
-While fainter as it shone, her eager sight
-More keenly strain'd to catch the latest light,
-And when it fled, with grief and fear opprest,
-She droop'd, and hope forsook her aching breast.
-Alas!she thought, in that bright point, the skies
-And cheerful day for ever fled mine eyes;
-I go a living victim to the tomb,
+The bark rose slowly to the pit’s dark side,<br>
+At two small seats in silence points the guide,<br>
+The Sylph supports and cheers the entering maid;<br>
+“Descend!” the Gnome in voice of thunder said.<br>
+Sad on her ear those hollow accents came,<br>
+And thrill’d with horror all her shrinking frame.<br>
+From his dark form she turn’d her glistening eyes,<br>
+And fix’d them wildly on the azure skies;<br>
+Still less and less the lucid circle grew,<br>
+Shrunk to a point, and vanish’d from her view.<br>
+While fainter as it shone, her eager sight<br>
+More keenly strain’d to catch the latest light,<br>
+And when it fled, with grief and fear opprest,<br>
+She droop’d, and hope forsook her aching breast.<br>
+“Alas!” she thought, “in that bright point, the skies<br>
+And cheerful day for ever fled mine eyes;<br>
+I go a living victim to the tomb,<br>
+Where shapes terrific haunt congenial gloom;<br>
+Far from those scenes which memory turns to trace,<br>
+Each well known spot, each ‘dear familiar face,’<br>
+From love, from Henry,” — then with look askance<br>
+She casts upon the guide an anxious glance,<br>
+Then on the aërial monarch, to descry,<br>
+And draw fresh hope from that which lit his eye;<br>
+Yet still her heart is chill’d by boding fears,<br>
+And o’er her breast descend her streaming tears.
 
-Where shapes terrific haunt congenial gloom;
-Far from those scenes which memory turns to trace,
-Each well known spot, each dear familiar face
-From love, from Henry,— then with look askance
-She casts upon the guide an anxious glance,
-Then on the aerial monarch, to descry,
-And diaw fresh hope from that which lit his eye;
-Yet still her heart is chill'd by boding fears,
-And o'er her breast descend her streaming tears.
-
-But now, with sudden cold, a dreadful sound
-Of rushing streams and torrents roaring round,
-Arous'd the maid, yet nought her eyes survey,*
-The heavy air obscur'd the torch's ray
-That faintly glimmer'd through the dashing spray.
-But as the vessel sinks, the torrent's roar
-Dies in the distance, and is heard no more,
-While down the sad abyss, long, deep, and dark,
-With added swiftness still descends the bark;
-At length they reach the ground, Maria springs
-From her frail seat, yet still to Ariel clings,
-While through the narrow path of damp and gloom
+But now, with sudden cold, a dreadful sound<br>
+Of rushing streams and torrents roaring round,<br>
+Arous’d the maid, yet nought her eyes survey,[^135]<br>
+The heavy air obscur’d the torch’s ray<br>
+That faintly glimmer’d through the dashing spray.<br>
+But as the vessel sinks, the torrent’s roar<br>
+Dies in the distance, and is heard no more,<br>
+While down the sad abyss, long, deep, and dark,<br>
+With added swiftness still descends the bark;<br>
+At length they reach the ground, Maria springs<br>
+From her frail seat, yet still to Ariel clings,<br>
+While through the narrow path of damp and gloom<br>
 Their steps are lighted by the sullen Gnome.
 
-But now, what cheerful sounds and sudden light
-Burst in full splendour on her dazzled sight!
-A vast saloon the astonished travellers gain,
-Where silver columns the bright dome sustain;
-Four spacious galleries stretch the chamber round,
-Each with its roof of solid silver crown'd.
+[^135]: About half way down a tremendous noise is heard of torrents roaring on every side, but they are not visible.
 
+But now, what cheerful sounds and sudden light<br>
+Burst in full splendour on her dazzled sight!<br>
+A vast saloon the astonished travellers gain,<br>
+Where silver columns the bright dome sustain;<br>
+Four spacious galleries stretch the chamber round,<br>
+Each with its roof of solid silver crown’d.<br>
+Innumerous lamps illume the splendid halls,<br>
+In tenfold light reflected from the walls,<br>
+Or on a crystal stream their lustre shed,<br>
+That gaily tript along its shining bed.[^136]<br>
+Amid his court, upon a lofty throne,<br>
+In regal state, the sage Argyros shone,<br>
+An aged chief; an ample realm he swayed,<br>
+Revered for wisdom, and with joy obey’d;<br>
+Yet more he wish’d his loaded wains to bear<br>
+The gifts of commerce, than the spoils of war,<br>
+And better liked his temper’d fires to yield<br>
+The sculptur’d chalice, than the bossy shield;<br>
+Thro’ crowded streets to urge his sumptuous cars,<br>
+Than ride triumphant o’er the field of Mars:<br>
+His word was truth, his wisdom high was deem’d,<br>
+And next to Chrysos was his worth esteem’d,<br>
+And many a doubtful cause, to him referr’d,<br>
+He judged impartial, as he calmly heard:<br>
+To his award e’en Chrysos bow’d, and he,<br>
+Their lord Albruno, sanctioned his decree.[^137]
 
+[^136]: A spacious hall surrounded by galleries is supported by columns of mine silver, which reflect in every direction the lamps that illume this subterranean region. A river passes along the centre of the hall; and the contrast of this scene of light, with the preceding descent, is very striking. — *M. de Bomare*.
 
-* About half way down a tremendous noise is heard of torrents roaring
-on every side, but they are not visible.
+Thro’ the vast throng that crowd this ample hall,<br>
+The adventurers past, invisible to all;<br>
+They reach’d the portal, where, with Attic taste,<br>
+The frieze and valves with sculptured forms were grac’d:<br>
+Thence her astonish’d eyes Maria bends,<br>
+Where far beyond a spacious town extends;<br>
+In silver glow the towers and spires appear,<br>
+The lofty walls their glittering turrets rear,<br>
+All, all was light, the dazzled eye with pain<br>
+Endures the glare, and seeks repose in vain.<br>
+Now pass the pair thro’ many a shining street,<br>
+And busy Gnomes and wains unnumber’d meet,[^138]<br>
+And view, where turn’d by subterranean gales,<br>
+The restless mills expand their whirling sails.<br>
+But watchful Ariel shudder’d here to view<br>
+Each yellow flame decay in livid hue,<br>
 
+[^137]: These lines allude to silver, as being the usual standard of value among civilized nations, and determining the price even of gold.
 
-
-
-Innumerous lamps illume the splendid halls,
-In tenfold light reflected from the walls,
-Or on a crystal stream their lustre shed,
-That gaily tript along its shining bed *
-Amid his court, upon a lofty throne,
-In regal state, the sage Argyros shone,
-An aged chief; an ample realm he swayed,
-Revered for wisdom, and with joy obey'd;
-Yet more he wish'd his loaded wains to bear
-The gifts of commerce, than the spoils of war,
-And better liked his temper'd fires to yield
-The sculptur'd chalice, than the bossy shield;
-Thro' crowded streets to urge his sumptuous cars,
-Than ride triumphant o'er the field of Mars:
-His word was truth, his wisdom high was deem'd,
-And next to Chrysos was his worth esteem'd,
-And many a doubtful cause, to him referr'd,
-He judged impartial, as he calmly heard:
-
-
-
-* A spacious hall surrounded by galleries is supported by columns of mine
-silver, which reflect in every direction the lamps that illume this subterra-
-nean region. A river passes along the centre of the hall; and the contrast
-of this scene of light, with the preceding descent, is very striking.
-
-M. de Bomare.
-
-R
-
-
-
-
-To his award e'en Chrysos bow'd, and he,
-Their lord Albruno, sanctioned his decree.*
-
-Thro' the vast throng that crowd this ample hall,
-The adventurers past, invisible to all; ]
-
-They reach'd the portal, where, with Attic taste,
-The frieze and valves with sculptured forms were grac'd:
-Thence her astonish'd eyes Maria bends,
-Where far beyond a spacious town extends;
-Iu silver glow the towers and spires appear,
-The lofty walls their glittering turrets rear,
-All, all was light, the dazzled eye with pain
-Endures the glare, and seeks repose in vain.
-Now pass the pair thro' many a shining street,
-And busy Gnomes and wains unnumber'd meet,-}-
-And view, where turn'd by subterranean gales,
-The restless mills expand their whirling sails.
-But watchful Ariel shudder'd here to view
-Each yellow flame decay in livid hue,
-
-
-
-* These lines allude to silver, as being the usual standard of value among
-civilized nations, and determining the price even of gold.
-
-t In the mine of Salseberist there is a windmill turned by a subterranean
-current of air, and employed to raise the water, which might otherwise in?
-sommode the miners.
-
-
-
+[^138]: In the mine of Salseberist there is a windmill turned by a subterranean current of air, and employed to raise the water, which might otherwise incommode the miners.
 
 And heard the thrilling shriek of woe and fear,
-
-That told the mine's malignant demon near.*
-
+That told the mine's malignant demon near.[^139]
 Those fading flames attest his baleful breath,
-
 Down sink the Gnomes, or fly the impending death,
-
 Or stand prepared again in native night
-
 To shroud the realm, and mock the demon's sight.
-
 The evil Spirit came — o'er Ariel's head,
-
 A snowy film, his floating form, was spread;
-
 The watchful Sylph his powerful arms expands,
-
 Seiz'd the foul Sprite, and crush'd him in his hands;
-
 Or, withering at his touch, unhappy fair!
-
 Thy fears and hopes at once had ended there! —
-
 Bright beam the lamps, the Gnomes recovered rise,
-
 And all again is bustle, life, and noise.
 
+[^139]: An attempt is here made to give an idea of the phenomenon called by the miners Fire Damp. This is an explosion of hydrogen gas, which not unfrequently takes place in mines where ventilation is not properly attended to, and sometimes produces very fatal consequences. The hydrogen exhaling from some neglected part of the mine, takes fire at the lamps of the workmen, and produces a violent explosion, the effects of which are however less dreadful than those of the air rushing in to supply its place. If the miners have sufficient time, they endeavour to prevent the explosion by extinguishing their lights, or fall on their faces to avoid the return of the blast. Sometimes they observe a white film floating over their heads, which they instantly seize, and crush in their hands, to prevent its explosion. In mines which are much troubled with hydrogen gas, the men are not allowed lamps, but work by the light of a flint-mill, or of sparks struck from a wheel surrounded with blades of iron, like that of a razor-grinder, and turned rapidly round.
 
+The wanderers quit these busy realms of light,<br>
+And plunge once more in silence aud in night;<br>
+Yet still from Ariel’s crown the unfading ray<br>
+Supplied the absence of ethereal day.<br>
+Thro’ many a cave and arched way they pass,<br>
+Hewn in primeval granite’s solid mass,<br>
+In speckled porphyry, or in marble white,<br>
+Or glittering schist, or darker sienite,<br>
+And now directly in the adventurers’ way,<br>
+Deep, wide, and swift a milky river lay;[^140]<br>
+Awhile in thought the aerial monarch stood,<br>
+Prepar’d to bear the maiden o’er the flood,<br>
+But as the Sylph approach’d, the waters fled,<br>
+And dry they journey’d o’er its silver bed,<br>
+Then paus’d upon the bank, surpriz’d to view<br>
+The intermittive waters flow anew.[^141]<br>
 
-* An attempt is here made to give an idea of the phenomenon called by
-the miners Fire Damp. This is an explosion of hydrogen gas, which not un-
-frequently takes place in mines where ventilation is not properly attended to,
-and sometimes produces very fatal consequences. The hydrogen exhaling
-from some neglected part of the mine, takes fire at the lamps of the work-
-men, and produces a violent explosion, the effects of which are however less
-dreadful than those of the air rushing in to supply its place. If the miners
-have sufficient time, they endeavour to prevent the explosion by extinguish-
-ing their lights, or fall on their faces to avoid the return of the blast. Some-
-times they observe a white film floating over their heads, which they in-
-stantly seize, and crush in their hands, to prevent its explosion. In mines
-which are much troubled with hydrogen gas, the men are not allowed lamps,
-but work by the light of a flint-mill, or of sparks struck from a wheel sur-
-rounded with blades of iron, like that of a razor-grinder, and turned rapidly
-round.
+[^140]: Rivers, where the soil is much impregnated with silver, have generally a milky hue.
 
+[^141]: Intermittent springs are not very frequent, but there are three or four in England; the principal of which are those of Lay well, near Torbay, and of Buxton, in Derbyshire. In the former the water rises and falls twenty times in succession, and afterwards flows uniformly for two hours. In that of Buxton it intermits every quarter of an hour. But the most celebrated of intermittent springs are in the lake of Tschirnitz, in Carniola. This lake is about fourteen miles in length, and five in breadth. It is full of water during the greater part of the year, but about the beginning of July the water runs off by eighteen subterranean conduits; the fish either escape with it, or are destroyed, and cattle soon come to feed on the grass which rises quickly with great luxuriance in the bed of the lake. Three or four months after the water returns suddenly through the holes by which it was absorbed, with such violence that it spouts up to the height of several feet, and the lake is filled in less than twenty-four hours. For a farther account of intermittent fountains, and of the peculiar form of pipe which is necessary to produce them, see the fourth volume of Dr. Hutton’s *Mathematical Recreations*.
 
-
-
-The wanderers quit these busy realms of light,
-And plunge once more in silence aud in night;
-
-Yet still from Ariel's crown the unfading ray
-Supplied the absence of ethereal day.
-Thro' many a cave and arched way they pass,
-Hewn in primeval granite's solid mass,
-In speckled porphyry, or in marble white,
-Or glittering schist, or darker sienite,
-And now directly in the adventurers' way,
-Deep, wide, and swift a milky river lay;*
-Awhile in thought the aerial monarch stood,
-Prepar'd to bear the maiden o'er the flood,
-
-But as the Sylph approach'd, the waters fled,
-And dry they journey'd o'er its silver bed,
-Then paus'd upon the bank, surpriz'd to view
-The intermittive waters flow anew.f
-
-
-
-• Rivers, where the soil is much impregnated with silver, have generally a
-milky hue.
-
-t Intermittent springs are not very frequent, but there are three or four
-in England; the principal of which are those of Lay well, nearTorbay, and
-of Buxton, in Derbyshire. In the former the water rises and falls twenty
-times in succession, and afterwards flows uniformly for two hours. In that
-of Buxton it intermits every quarter of an hour. But the most celebrated
-of intermittent springs are in the lake of Tschirnitz, in Carniola. This lake
-is about fourteen miles in length, and five in breadth. It is full of water
-during the greater part of the year, but about the beginning of July the
-•water runs off by eighteen subterranean conduits; the fish either escape with
-
-
-
-
-Just as they reach'd Albmno's stately dome,
-
-To meet his council mov'd the lordly Gnome;
-
-With loud acclaims the spacious galleries rang,
-
-The vaulted roofs reflect the trumpets' clang:
-
-Here paus'd the Sylph, and turning to the maid,
-
-Now fate propitious speed thy suit!he said;
-
-Why is that eye deprest with sudden fear?
-
-My presence will but mar thy fortunes here;
-
-u Thy welfare calls me hence, yet still my power
-
-Shall shield and guide thee in this awful hour,
-
-u And when this form next bursts upon thine eye, \
-
-I come the harbinger of love and joy.&gt;
-
-He spoke, Maria answered with a sigh. j
+Just as they reach’d Albruno’s stately dome,<br>
+To meet his council mov’d the lordly Gnome;<br>
+With loud acclaims the spacious galleries rang,<br>
+The vaulted roofs reflect the trumpets’ clang:<br>
+Here paus’d the Sylph, and turning to the maid,<br>
+“Now fate propitious speed thy suit!” he said;<br>
+“Why is that eye deprest with sudden fear?<br>
+My presence will but mar thy fortunes here;<br>
+Thy welfare calls me hence, yet still my power<br>
+Shall shield and guide thee in this awful hour,<br>
+And when this form next bursts upon thine eye,<br>
+I come the harbinger of love and joy.”<br>
+He spoke, Maria answered with a sigh.
 
 Where round his throne the vassal monarchs wait,
 Albruno like an eastern despot sate,
@@ -5360,13 +5270,6 @@ And scarcely dar'd to lift their looks so high.
 
 
 
-it, or are destroyed, and cattle soon come to feed on the grass which rises
-quickly with great luxuriance in the bed of the lake. Three or four months
-after the water returnr- suddenly through the holes by which it was absorbed,
-with such violence that it spouts up to the height of several feet, and the lake
-is filled in less than twenty-four hours. — For a farther account of intermittent
-fountains, and of the peculiar form of pipe which is necessary to produce
-them, sec the fourth volume of Dr. Hutton's Mathematical Recreations.
 
 
 
