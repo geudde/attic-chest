@@ -3812,66 +3812,54 @@ And wed a nymph who gives thee all her love;<br>
 Before thee now she waits, in hope and fear —<br>
 Oh! crown those hopes, and grant my earnest prayer!”
 
-Miranda ceas'd — delighted and amaz'd,
-The amorous monarch on his suppliant gaz'd;
-He deem'd the maid who spoke the enamour'd fair,
-And little thought Miranda's self was there.
-And when, as she of Alfred dar'd to speak,
-The rose bloom'd deeper on her bashful cheek,
-With joy he mark'd the radiant tint that glow'd,
-But to himself transferr'd the love it shew'd;
-For we, ourselves still anxious to deceive,
+Miranda ceas’d — delighted and amaz’d,<br>
+The amorous monarch on his suppliant gaz’d;<br>
+He deem’d the maid who spoke the enamour’d fair,<br>
+And little thought Miranda’s self was there.<br>
+And when, as she of Alfred dar’d to speak,<br>
+The rose bloom’d deeper on her bashful cheek,<br>
+With joy he mark’d the radiant tint that glow’d,<br>
+But to himself transferr’d the love it shew’d;<br>
+For we, ourselves still anxious to deceive,<br>
+Hope what we wish, and what we hope believe.<br>
+With eager voice — by sudden love inflam’d,<br>
+“I yield the Veil!’ the fickle king exclaim’d,<br>
+“On charms unseen my fancy feeds no more!<br>
+Haste! Clydon, haste! Miranda’s pledge restore,<br>
+Yet! ere you part, be here your homage shewn,<br>
+Here, to the destin’d partner of my throne!<br>
+And thou, bright fair, in happy moment seen,<br>
+Receive the vows that hail thee as my queen.”
 
-Hope what we wish, and what we hope believe.
-With eager voice — by sudden love inflam'd,
-u I yield the Veil!the fickle king exclaim'd,
-On charms unseen my fancy feeds no more!
-Haste! Clydon, haste! Miranda's pledge restore,
-Yet! ere you part, be here your homage shewn,
-Here, to the destiu'd partner of my throne!
-And thou, bright fair, in happy moment seen,
-Receive the vows that hail thee as my queen."
+The monarch mark’d with transport, as he spoke,<br>
+The glow of joy that o’er her features broke,<br>
+But wondering, saw that glow as soon decay.<br>
+As sudden clouds obscure the April day.<br>
+“Alas! my generous lord!” she cried, “I claim,<br>
+The sport of wayward fate, Miranda’s name!<br>
+Yet if this form have rais’d one thought of love,<br>
+Oh! let that thought thy mind to mercy move,<br>
+Still let thy generous hand my pledge restore,<br>
+And leave me not more wretched than before.”
 
-The monarch mark'd with transport, as he spoke,
-The glow of joy that o'er her features broke,
-But wondering, saw that glow as soon decay.
-As sudden clouds obscure the April day.
+As in their course the advancing hosts were staid,<br>
+When Jove’s brave son the Gorgon’s head display’d,<br>
+E’en thus, by grief transfix’d, Marino stood,<br>
+And the fair maid with looks of anguish view’d.
 
-
-
-
-Alas! my generous lord!she cried, I claim,
-The sport of wayward fate, Miranda's name!
-Yet if this form have rais'd one thought of love,
-Oh! let that thought thy mind to mercy move,
-Still let thy generous hand my pledge restore*
-And leave me not more wretched than before."
-
-As in their course the advancing hosts were staid,
-When Jove's brave son the Gorgon's head display'd,
-E'en thus, by grief transfix'd, Marino stood,
-And the fair maid with looks of anguish view'd.
-
-Tho' from my breast its sweetest hope is riven,
-Love must not triumph o'er a promise given."
-At length he said — My adverse fates prevail,
-Blest be thy future hours, and thine the Veil!
-Yet ere a gift so valued I resign,
-Find me some maid whose form may equal thine;
-Nor let her outward charms alone allure,
-
-Her eyes an index to a mind as pure:
-If such the maid, whose flattering portrait shewn
-My eager hopes too fondly deem'd thine own,
-N
-
-
-
-Her name, her fortunes, and her race declare, ^
-
-And while my sprites the nuptial feast prepare, &gt;
-
-Lead me, Miranda! to this unknown fair.j
+“Tho’ from my breast its sweetest hope is riven,<br>
+Love must not triumph o’er a promise given.”<br>
+At length he said — “My adverse fates prevail,<br>
+Blest be thy future hours, and thine the Veil!<br>
+Yet ere a gift so valued I resign,<br>
+Find me some maid whose form may equal thine;<br>
+Nor let her outward charms alone allure,<br>
+Her eyes an index to a mind as pure:<br>
+If such the maid, whose flattering portrait shewn<br>
+My eager hopes too fondly deem’d thine own,<br>
+Her name, her fortunes, and her race declare,<br>
+And while my sprites the nuptial feast prepare,<br>
+Lead me, Miranda! to this unknown fair.”
 
 Fixt on Miranda, scarce the king had view'd
 That near the maid another damsel stood,
