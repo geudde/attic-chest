@@ -5209,19 +5209,19 @@ Each yellow flame decay in livid hue,<br>
 
 [^138]: In the mine of Salseberist there is a windmill turned by a subterranean current of air, and employed to raise the water, which might otherwise incommode the miners.
 
-And heard the thrilling shriek of woe and fear,
-That told the mine's malignant demon near.[^139]
-Those fading flames attest his baleful breath,
-Down sink the Gnomes, or fly the impending death,
-Or stand prepared again in native night
-To shroud the realm, and mock the demon's sight.
-The evil Spirit came — o'er Ariel's head,
-A snowy film, his floating form, was spread;
-The watchful Sylph his powerful arms expands,
-Seiz'd the foul Sprite, and crush'd him in his hands;
-Or, withering at his touch, unhappy fair!
-Thy fears and hopes at once had ended there! —
-Bright beam the lamps, the Gnomes recovered rise,
+And heard the thrilling shriek of woe and fear,<br>
+That told the mine’s malignant demon near.[^139]<br>
+Those fading flames attest his baleful breath,<br>
+Down sink the Gnomes, or fly the impending death,<br>
+Or stand prepared again in native night<br>
+To shroud the realm, and mock the demon’s sight.<br>
+The evil Spirit came — o’er Ariel’s head,<br>
+A snowy film, his floating form, was spread;<br>
+The watchful Sylph his powerful arms expands,<br>
+Seiz’d the foul Sprite, and crush’d him in his hands;<br>
+Or, withering at his touch, unhappy fair!<br>
+Thy fears and hopes at once had ended there! —<br>
+Bright beam the lamps, the Gnomes recovered rise,<br>
 And all again is bustle, life, and noise.
 
 [^139]: An attempt is here made to give an idea of the phenomenon called by the miners Fire Damp. This is an explosion of hydrogen gas, which not unfrequently takes place in mines where ventilation is not properly attended to, and sometimes produces very fatal consequences. The hydrogen exhaling from some neglected part of the mine, takes fire at the lamps of the workmen, and produces a violent explosion, the effects of which are however less dreadful than those of the air rushing in to supply its place. If the miners have sufficient time, they endeavour to prevent the explosion by extinguishing their lights, or fall on their faces to avoid the return of the blast. Sometimes they observe a white film floating over their heads, which they instantly seize, and crush in their hands, to prevent its explosion. In mines which are much troubled with hydrogen gas, the men are not allowed lamps, but work by the light of a flint-mill, or of sparks struck from a wheel surrounded with blades of iron, like that of a razor-grinder, and turned rapidly round.
@@ -5242,11 +5242,8 @@ But as the Sylph approach’d, the waters fled,<br>
 And dry they journey’d o’er its silver bed,<br>
 Then paus’d upon the bank, surpriz’d to view<br>
 The intermittive waters flow anew.[^141]<br>
-
 [^140]: Rivers, where the soil is much impregnated with silver, have generally a milky hue.
-
 [^141]: Intermittent springs are not very frequent, but there are three or four in England; the principal of which are those of Lay well, near Torbay, and of Buxton, in Derbyshire. In the former the water rises and falls twenty times in succession, and afterwards flows uniformly for two hours. In that of Buxton it intermits every quarter of an hour. But the most celebrated of intermittent springs are in the lake of Tschirnitz, in Carniola. This lake is about fourteen miles in length, and five in breadth. It is full of water during the greater part of the year, but about the beginning of July the water runs off by eighteen subterranean conduits; the fish either escape with it, or are destroyed, and cattle soon come to feed on the grass which rises quickly with great luxuriance in the bed of the lake. Three or four months after the water returns suddenly through the holes by which it was absorbed, with such violence that it spouts up to the height of several feet, and the lake is filled in less than twenty-four hours. For a farther account of intermittent fountains, and of the peculiar form of pipe which is necessary to produce them, see the fourth volume of Dr. Hutton’s *Mathematical Recreations*.
-
 Just as they reach’d Albruno’s stately dome,<br>
 To meet his council mov’d the lordly Gnome;<br>
 With loud acclaims the spacious galleries rang,<br>
