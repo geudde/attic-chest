@@ -3567,224 +3567,121 @@ The storms of life might pass unheeded by.<br>
 Oh! whither art thou fled, what bonds restrain,<br>
 What spells delude thee, or what walls detain:”
 
-The captive ceased; for who is yonder knight,
-And who yon nymph? So sudden was the sight,
-It almost seemed that fancy but defined
-
-Those forms so strongly imaged in her mind;
-The grottoes with her shrieks of joy rebound;
-Far off, Lymnoria started at the sound.
-Alas! in vain those cherish'd friends are seen,
-The wall of waters fills the space between.
-In vain fair Marguerita lifts her hand,
-The stubborn barrier spurns the nymph's command;
-But Alfred's mind recall'd the ring that gave
-Its wearer power to breathe amid the wave.
-He passed the glassy frontier, and in haste
-
-The golden circlet on her finger placed:
-
-
-
-She leaves the cave rejoicing; but in vain
-Thro' the clear wall would Alfred plunge again,
-In denser mass the angry waters rose,
+The captive ceased; for who is yonder knight,<br>
+And who yon nymph? So sudden was the sight,<br>
+It almost seemed that fancy but defined<br>
+Those forms so strongly imaged in her mind;<br>
+The grottoes with her shrieks of joy rebound;<br>
+Far off, Lymnoria started at the sound.<br>
+Alas! in vain those cherish’d friends are seen,<br>
+The wall of waters fills the space between.<br>
+In vain fair Marguerita lifts her hand,<br>
+The stubborn barrier spurns the nymph’s command;<br>
+But Alfred’s mind recall’d the ring that gave<br>
+Its wearer power to breathe amid the wave.<br>
+He passed the glassy frontier, and in haste<br>
+The golden circlet on her finger placed:<br>
+She leaves the cave rejoicing; but in vain<br>
+Thro’ the clear wall would Alfred plunge again,<br>
+In denser mass the angry waters rose,<br>
 And rolling back, a narrower space enclose.
 
-Oh, fly,he cried, ere yet some stronger spell
-To this sad grot again thy steps compell.
-If thine the Veil, Marino's arm shall lend
-Its powerful succour to release thy friend;
-If he reject thy suit, bereft of thee,
+“Oh, fly,” he cried, “ere yet some stronger spell<br>
+To this sad grot again thy steps compell.<br>
+If thine the Veil, Marino’s arm shall lend<br>
+Its powerful succour to release thy friend;<br>
+If he reject thy suit, bereft of thee,<br>
+This grot, or Albion’s isle, alike to me.”
 
-This grot, or Albion's isle, alike to me."
+Her captive scarcely fled, Lymnoria came,<br>
+Amazement, anger, seized her trembling frame.<br>
+“Fly, artful wretch,” she cried, “yet dare not hope<br>
+Thy strength, thy power, thine arts, with mine can cope.<br>
+For thee, mad youth, thou ne’er shalt boast again,<br>
+Lymnoria’s love rejected with disdain,<br>
+That heart, which braver warriors seek in vain.<br>
+What, tho’ I feign’d, yet had I truly strove,<br>
+As much thy pride had scorn’d the proferr’d love!<br>
+This thought, should mercy seek to quench the fire,<br>
+To deadlier hate shall rouse my slumbering ire.<br>
+Soon shall a stronger fence thy love secure;<br>
+A trusty guard shall make thy prison sure.<br>
+I will not rest till her my spells enchain,<br>
+Till envying nymphs shall follow in my train,<br>
+And hail Lymnoria empress of the main.”
 
-Her captive scarcely fled, Lymnoria came,
-Amazement, anger, seized her trembling frame.
-Fly, artful wretch,she cried, yet dare not hope
-41 Thy strength, thy power, thine arts, with mine can cope.
-For thee, mad youth, thou ne'er shalt boast again, ^
-Lymnoria's love rejected with disdain,
-That heart, which braver warriors seek in vain.
+Thus spoke the nymph: the knight his steady eye<br>
+Fix’d on Lymnoria, but disdained reply.<br>
+She left the grot: in anxious thought he sate,<br>
+That hour decides his loved Miranda’s fate.
 
-What, tho' I feign'd, yet had I truly strove,
-As much thy pride had scorn'd the proferr'd love!
-This thought, should mercy seek to quench the fire,
-To deadlier hate shall rouse my slumbering ire.
-M
+Henry, meanwhile, pursued his way; amaz’d,<br>
+On all the wonders of the deep he gaz’d.<br>
+Here the smooth sands in shining plains extend,<br>
+And lofty rocks in rugged points ascend;<br>
+On their rude sides the weeds of ocean wave,<br>
+The nurturing seas their floating foliage lave.<br>
+And here the gay Zoanthæ emulate[^96]<br>
+Flora’s bright train and transitory state.<br>
 
+[^96]: The actinias or sea anemones, and sea marigolds, have received the name of zoanthæ or animal flowers. They are of an oblong form, and when closed, resemble a truncated cone. They are fixed by the base, and the upper part is surrounded with many tentacula?, in the centre of which is the mouth. Many of them are of very brilliant colours, and when their tentaculæ are expanded, they have the appearance of full blown flowers. They feed on small shell-fish and other marine animals, which coming within reach of the expanded tentaculæ, are immediately seized and drawn into the mouth, which closes over them. The shells, and other indigestible parts, are afterwards returned through the mouth.
 
-
-: Soon shall a stronger fence thy love secure;
-A trusty guard shall make thy prison sure.
-I will not rest till her my spells enchain,
-Till envying nymphs shall follow in my train,
-And hail Lymnoria empress of the main."
-
-
-
-Thus spoke the nymph: the knight his steady eye
-Fix'd on Lymnoria, but disdained reply.
-She left the grot: in anxious thought he sate,
-
-That hour decides his loved Miranda's fate.
-
-Henry, meanwhile, pursued his way; amaz'd,
-On all the wonders of the deep he gaz'd.
-Here the smooth sands in shining plains extend,
-And lofty rocks in rugged points ascend;
-On their rude sides the weeds of ocean wave,
-The nurturing seas their floating foliage lave.
-And here the gay Zoanthae emulate*
-Flora's bright train and transitory state.
-
-
-
-* The actinias or sea anemones, and sea marigolds, have received the name
-of zoanthae or animal flowers. They are of an oblong form, and when closed,
-resemble a truncated cone. They are fixed by the base, and the upper part
-is surrounded with many tentacula?, in the centre of which is the mouth.
-Many of them are of very brilliant colours, and when their tentacular are ex-
-panded, they have the appearance of full blown flowers. They feed on small
-
-
-
-
-Mid scattcr'd shells, and tufts of herbage green,
-
-The sad remains of human toil are seen.
-
-On wrecks of ships, that proudly bore afar
-
-Britannia's wealth, or hurl'd her bolts of war,
-
-Unnumber'd myriads ply their ceaseless toil,
-
-And frame the basis of a future isle;
-
-Tho' small as sands that shun the inquiring eye,
-
-Their solid works the waves and winds defy;
-
-Still on the ruins of their race renew'd:
-
-They share alike their labour and their food.
-
-Where now a mimic garden mocks the view,
-
-And nature sports in every form and hue,
-
-Where scarlet flowers mid verdant foliage glow,
-
-And dusky fibres seem to twine below;
-
-Mid azure tufts and blossoms silvery white,
-
-Where purple fruits the wondring eye invite;
-
-Soon shall soft moss, and grass, and herbs extend,
-
-On coral rocks the lofty trees ascend;
-
-The beasts shall roam, the birds their nests shall frame,
-
-And man at last his new dominion claim:
-
-
-
-shell-fish and other marine animals, which coming within reach of the expand-
-ed tentacula;, arc immediately seized and drawn into the mouth, which
-closes over them. The shells, and other indigestible parts, are afterwards re
-turned througli the mouth.
-
-
-
-
-Perchance his hand may turn the shallow soil,
-And wondring pause, and tremble for the isle,
-Alarm'd to see the crystal waters flow,
-And play and sparkle mid the sprays below.*
-As, through the trackless air, the feather'd race,
-With speed untir'd, pursue their rapid chace,
-Or sportive wheel in many a mazy ring,
-Now soar on high, now sink on idle wing;
-Thus o'er his head the finny nations glide,
+Mid scatter’d shells, and tufts of herbage green,<br>
+The sad remains of human toil are seen.<br>
+On wrecks of ships, that proudly bore afar<br>
+Britannia’s wealth, or hurl’d her bolts of war,<br>
+Unnumber’d myriads ply their ceaseless toil,<br>
+And frame the basis of a future isle;<br>
+Tho’ small as sands that shun the inquiring eye,<br>
+Their solid works the waves and winds defy;<br>
+Still on the ruins of their race renew’d:<br>
+They share alike their labour and their food.<br>
+Where now a mimic garden mocks the view,<br>
+And nature sports in every form and hue,<br>
+Where scarlet flowers mid verdant foliage glow,<br>
+And dusky fibres seem to twine below;<br>
+Mid azure tufts and blossoms silvery white,<br>
+Where purple fruits the wondring eye invite;<br>
+Soon shall soft moss, and grass, and herbs extend,<br>
+On coral rocks the lofty trees ascend;<br>
+The beasts shall roam, the birds their nests shall frame,<br>
+And man at last his new dominion claim:<br>
+Perchance his hand may turn the shallow soil,<br>
+And wondring pause, and tremble for the isle,<br>
+Alarm’d to see the crystal waters flow,<br>
+And play and sparkle mid the sprays below.[^97]<br>
+As, through the trackless air, the feather’d race,<br>
+With speed untir’d, pursue their rapid chace,<br>
+Or sportive wheel in many a mazy ring,<br>
+Now soar on high, now sink on idle wing;<br>
+Thus o’er his head the finny nations glide,<br>
 And lash with strenuous tail the sparkling tide.
 
+[^97]: The coral islands are formed with a rapidity that is astonishing, whether we consider the great depth from which they rise, or the extreme minuteness of the animals that produce them. It is chiefly in the Pacific Ocean that this growth of coral takes place, where many large islands are continually forming, and rise up, from immense depths almost perpendicularly, to the surface of the water. The sea then gradually filling up the interstices of the coral with mud and sand, a soil is formed, and by degrees the islands become the rich and fertile abodes of man and animals.
 
+Captain Flinders seems to have been particularly struck with the variety of form and colour presented by the corallines on the reefs of New Holland, or Australasia, “equalling in beauty, and excelling in grandeur, the most favourite parterre of the curious florist.”
 
-* The coral islands are formed with a rapidity that is astonishing, whether
-we consider the great depth from which they rise, or the extreme minuteness
-of the animals that produce them. It is chiefly in the Pacific Ocean that
-this growth of coral takes place, where many large islands are continually
-forming, and rise up, from immense depths almost perpendicularly, to the
-surface of the water. The sea then gradually filling up the interstices of the
-coral with mud and sand, a soil is formed, and by degrees the islands be-
-come the rich and fertile abodes of man and animals.
+Some of the animals that form the coral, seem to live in a kind of commonwealth, their bodies being connected by a network of nerves. It should appear, that the food received by one affords benefit to the whole community, so that if one of them be indisposed to eat, he may subsist on the nutriment communicated by others.
 
-Captain Flinders seems to have been particularly struck with the variety
-of form and colour presented by the corallines on the reefs of New Holland,
-or Australasia, equalling in beauty, and excelling in grandeur, the most
-favourite parterre of the curious florist."
-
-Some of the animals that form the coral, seem to live in a kind of common-
-wealth, their bodies being connected by a net-work of nerves. It should ap-
-pear, that the food received by one affords benefit to the whole community,
-»o that if one of them be indisposed to eat, he may subsist on the nutriment
-communicated by others.
-
-The growth of coral is much less observable in European seas, or in thft
-Atlantic, except near the West Indies and in the Red Sea. There is coral
-in the Streights of Messina, and Spallanzani has given 'a long account of ths
-Sshery there. — Rogefs Lectures.
-
-
-
+The growth of coral is much less observable in European seas, or in the Atlantic, except near the West Indies and in the Red Sea. There is coral in the Straits of Messina, and Spallanzani has given a long account of ths fishery there. — *Roget’s Lectures*.
 
 Like swallows marshall'd for their annual flight,
-
 The smaller tribes in countless shoals unite,
-
 Still as they roam, inhale the briny flood,
-
-At once their liquid atmosphere and food. #
-
+At once their liquid atmosphere and food.[^98]
 Behind, the tyrants of the deep pursue,
-
 Their savage hunger kindling at the view,
-
 Their opening jaws the gates of death reveal,
-
 And shoals are crush'd at one rapacious meal.
 
+[^98]: Many of the larger tribes of fishes feed on the smaller kinds, and are exceedingly voracious, but most fishes appear to derive their subsistence from the element which surrounds them. Perhaps the medusæ and other minute animals which inhabit the water, may contribute to their nutrition. Among birds which assemble for periodical migrations, those which fly first of the troop, eat up the country, and are strong and fat, while their unfortunate followers, unable to find sufficient provision, are weak and emaciated, and fall an easy prey to the tigers and hyenas that prowl behind. But in fish, where the shoals are infinitely more numerous, this is never the case, and the last of a shoal of herrings or of mackerel, is in as good condition as its predecessors. Did the majority of fishes require any other food than what is afforded by the water which surrounds them, where would the immense multitudes which inhabit the ocean find provision? It would be greedily devoured by the larger tribes, and they would be left to perish by famine. — *Roget’s Lectures*.
+
 Here countless tribes their different kinds renew,
-Fixt to the spot where late their parents gre\v,-j-
+Fixt to the spot where late their parents grew,[^99]
 
 
 
-* Many of the larger tribes of fishes feed on the smaller kinds, and are
-exceedingly voracious, but most fishes appear to derive their subsistence
-from the element which surrounds them. Perhaps the medusae and other
-minute animals which inhabit the water, may contribute to their nutrition.
-Among birds which assemble for periodical migrations, those which fly first
-of the troop, eat up the country, and are strong and fat, while their unfortu-
-nate followers, unable to find sufficient provision, are weak and emaciated,
-and fall an easy prey to the tygers and hyenas that prowl behind. But in
-fish, where the shoals are infinitely more numerous, this is never the case,
-and the last of a shoal of herrings or of rcackarel, is in as good condition as
-its predecessors. Did the majority of fishes require any other food than
-what is afforded by the water which surrounds them, where would the im-
-mense multitudes which inhabit the ocoan find provision? It would be gree-
-dily devoured by the larger tribes, and they would be left to perish by fa-
-mine. — Roget's Lectures.
-
-t This is not precisely true with all the bivalve shells; some of them pos-
-sess a slight power of locomotion. The oyster, for instance, by rapidly open-
-ing and closing its shell, is able to effect a slow and laborious motion from
-place to place, the reflux of the tide impelling it slightly at every action.
-
-
-
+[^99]: This is not precisely true with all the bivalve shells; some of them possess a slight power of locomotion. The oyster, for instance, by rapidly opening and closing its shell, is able to effect a slow and laborious motion from place to place, the reflux of the tide impelling it slightly at every action.
 
 Their tender frames the shining shells defend,
 
