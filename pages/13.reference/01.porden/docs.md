@@ -4786,7 +4786,7 @@ He hung a lifeless burthen on the sprite,<br>
 Who, while his comrade follow’d, swiftly bore<br>
 His victim to the inhospitable shore.
 
-[^124]: When the scirocco, or south-east wind prevails, Stromboli is covered by a great cloud of lurid smoke, impervious to the sun, except at the very edges, which are white. This cloud, composed of hot sulphureous vapours, often extends half way down the mountain, and a mile above it, and renders the ascent impracticable. During the north, or north-west wind, this cloud vanishes almost entirely, and the mountain may be ascended with safety. *Spallanzani*.
+[^124]: When the scirocco, or south-east wind prevails, Stromboli is covered by a great cloud of lurid smoke, impervious to the sun, except at the very edges, which are white. This cloud, composed of hot sulphureous vapours, often extends half way down the mountain, and a mile above it, and renders the ascent impracticable. During the north, or north-west wind, this cloud vanishes almost entirely, and the mountain may be ascended with safety. — *Spallanzani*.
 
 “But whence,” he cried, “and who this knightly pair<br>
 That treads these nether realms with dauntless air?<br>
@@ -4795,459 +4795,281 @@ And safe they move amid encircling fire!<br>
 Stand knights! in death your trespass you atone,<br>
 Or win your dangerous passage with my own.”
 
-The summons soon obey'd, in deadly fight
-The dauntless warriors clos'd with either sprite.
-But Spintheros, in missile warfare skill'd,
-(His arrows useless in the narrow field,)
-Soon yields to Alfred's arm; his eye of fire,
+The summons soon obey’d, in deadly fight<br>
+The dauntless warriors clos’d with either sprite.<br>
+But Spintheros, in missile warfare skill’d,<br>
+(His arrows useless in the narrow field,)<br>
+Soon yields to Alfred’s arm; his eye of fire,<br>
 And roseate bloom, in pallid death expire.
 
-As turns the victor knight, amaz'd he found
-Alonzo pale and senseless on the ground;
-He rais'd his head — on Alfred's scarf-clad breast
-His lifeless arms and throbbing temples rest.
+As turns the victor knight, amaz’d he found<br>
+Alonzo pale and senseless on the ground;<br>
+He rais’d his head — on Alfred’s scarf-clad breast<br>
+His lifeless arms and throbbing temples rest.<br>
+The wondrous scarf exerts its cooling power,<br>
+Refreshing as at summer’s sultry hour<br>
+To sunburnt pastures the reviving shower,<br>
+Or by the faint and weary traveller seen,<br>
+Mid Afric’s sands her springs and isles of green.
 
-
-
-
-The wondrous scarf exerts its cooling power,
-Refreshing as at summer's sultry hour
-To sunburnt pastures the reviving shower,
-Or by the faint and weary traveller seen,
-Mid Afric's sands her springs and isles of green.
-
-Meanwhile, with Phlogos hand to hand engaged,
-A long and doubtful conflict Henry waged;
-While every blow the salamander dealt
-On Henry's magic cincture dropt nnfelt;
-And every stroke of Henry's vengeful blade
-Deep iu his rival's mail a passage made.
-The wounded Phlogos writh'd with rage and pain,
-But soon the ethereal essence clos'd again:"
-Thus slightest shocks the limpid stream divide,
-And o'er the wound thus flows the closing tide.
-Vex'd at his fruitless toil, the knight unroll'd
-His emerald scarf, and flung its silken fold
-Full on the sprite — as bubbles on the wind
-Burst as they sail, nor leave a trace behind,
-He sunk, and where his arm the fight maintained,
+Meanwhile, with Phlogos hand to hand engaged,<br>
+A long and doubtful conflict Henry waged;<br>
+While every blow the salamander dealt<br>
+On Henry’s magic cincture dropt unfelt;<br>
+And every stroke of Henry’s vengeful blade<br>
+Deep in his rival’s mail a passage made.<br>
+The wounded Phlogos writh’d with rage and pain,<br>
+But soon the ethereal essence clos’d again:”<br>
+Thus slightest shocks the limpid stream divide,<br>
+And o’er the wound thus flows the closing tide.<br>
+Vex’d at his fruitless toil, the knight unroll’d<br>
+His emerald scarf, and flung its silken fold<br>
+Full on the sprite — as bubbles on the wind<br>
+Burst as they sail, nor leave a trace behind,<br>
+He sunk, and where his arm the fight maintained,<br>
 No sign, no vestige, of the chief remained.
 
+Alonzo now restor’d, uncheck’d they past,<br>
+And Pyros’ regal palace reach’d at last.<br>
+Bright walls of fire the ample space enclose,<br>
+Here domes of smoke on flamy columns rose,<br>
+There smoky pillars wreaths resplendent bound,<br>
+And cornices of fire the roof surround.<br>
+While, like the vault of heaven, in dazzling light,<br>
+The scattered lamps adorn its fleecy white,<br>
+Light forms of fire the hall majestic fill,<br>
+And move obedient to their monarch’s will;<br>
+Who by his beauteous bride, in awful state,<br>
+Rais’d on a throne of fiery splendour sate,<br>
+And round his graceful form such lustre plays,<br>
+That e’en the sprites are dazzled as they gaze.
 
+Before them Leonora stood; her air<br>
+And mournful eye a fruitless suit declare,<br>
+In vain she strove by prayers her Veil to gain,<br>
+And mild Spinthera urg’d her lord in vain,<br>
+Sternly he frown’d, but when the knights he saw,<br>
+His alter’d looks betray’d surprize and awe;<br>
+His glowing form and glaring eyes exprest<br>
+The increasing storm that struggled in his breast.
 
+What means this sight, that mortal knights and strange<br>
+Thus through our kingdom unmolested range?<br>
+E’en to our presence force their desperate way!<br>
+At their approach why shrink the sprites away?<br>
+Slaves! ye that oft in victory’s dangerous field<br>
+The Gnomes o’erthrew, or bade the Hydidæ yield,<br>
+Fear ye a mortal’s arm? advance, and shew<br>
+That none unpunish’d tread this realm below.<br>
+Promptly avenge your lord’s insulted throne,<br>
+And let their lives their rash attempt atone!”
 
-Alouzo now restor'd, uncheck'd they past,
-And Pyros' regal palace reach'd at last.
-Bright walls of fire the ample space enclose,
-Here domes of smoke on flamy columns rose,
-There smoky pillars wreaths resplendent bound,
-And cornices of fire the roof surround.
-While, like the vault of heaven, in dazzling light,
-The scattered lamps adorn its fleecy white,
-Light forms of fire the hall majestic fill,
-And move obedient to their monarch's will;
-Who by his beauteous bride, in awful state,
-Rais'd on a throne of fiery splendour sate,
-And round his graceful form such lustre plays,
-That e'en the sprites are dazzled as they gaze.
-
-Before them Leonora stood; her air
-And mournful eye a fruitless suit declare,
-In vain she strove by prayers her Veil to gain,
-And mild Spinthera urg'd her lord in vain,
-Sternly he frown'd, but when the knights he saw,
-His alter'd looks betray’d surprize and awe;
-His glowing form and glaring eyes exprest
-The increasing storm that struggled in his breast,
-o
-
-
-
-230 STROMBOLL book v.
-
-What means this sight, that mortal knights and strange
-
-Thus through our kingdom unmolested range?
-
-E'en to our presence force their desperate way!
-
-At their approach why shrink the sprites away?
-
-Slaves! ye that oft in victory's dangerous field
-
-The Gnomes o'erthrew, or bade the Hydidae yield,
-
-Fear ye a mortal's arm? advance, and shew
-
-f( That none unpunish'd tread this realm below.
-
-Promptly avenge your lord's insulted throne,
-
-And let their lives their rash attempt atone!"
-
-The monarch spoke; while, chafed with inward ire,
-His nostrils breath'd, his eyeballs flash’d with fire;
-Brave Henry rais'd the visor from his brow,
+The monarch spoke; while, chafed with inward ire,<br>
+His nostrils breath’d, his eyeballs flash’d with fire;<br>
+Brave Henry rais’d the visor from his brow,<br>
 And thus replied, in words sedate and slow:
 
-There was a time, in Salem's hallow'd land,
-That Pyros join'd Mohammed's impious band,
-There led the host that worship at his shrine,
-And powerful spells and magic fenc'd their line.
-The Sylphs and Europe's host their force defied,
-Triumphant fought, for heaven was on their side.
-111 would it fit a warrior's tongue to tell
-Of vanquish'd foes that by his valour fell;
-
-
-
-
-And ill it fits a Christian knight to boast
-
-Of ruth and mercy to a conquer'd host;
-
-But when beneath a Christian warrior's sword,
-
-His vanquished votary call'd his distant lord,
-
-Then Pyros knows the arts he used to save, ^
-
-The prayers he urg'd, the royal word he gave, \
-
-And Henky comes the promis'd boon to crave.j
-
-He spoke: at once the monarch's anger gone,
-With milder mien he left his lofty throne,
-Each wondering warrior hail'd with courteous grace,
-And welcom'd Henry with a friend's embrace.
-
-Forgive, brave knight,he said, thy name unknown,
-Our angry mien and strange reception shewn,
-u Hail to these nether regions! and receive
-
-Such welcome as a grateful prince should give,
-And be thy boon of worth at once to prove
-Our friend's confiding mind, and Pyros' love."
-
-Such shall it be!the generous knight rejoin'd,
-Not for myself I tax thy noble mind;
-Here stands a maid, a suppliant at thy throne,
-a Whose tearful eyes her suit successless own;
-q4
-
-
-
-232 STROMBOLL book v.
-
-And here a youth, in combat tried and prov'd,
-
-Her love deserving, and by her beloved:
-
-Then why, since fair Spinthera at thy side
-
-Now shares thy throne and heart, a beauteous briae,
-
-Why not her Veil, a useless gift, resign,
-
-Which checks her bliss, yet cannot add to thine,
-
-And claim the joy to noble natures dear,
-
-When smiles contend with beauty's grateful tear?—
-
-What! yield the Veil, that late I deeply swore
-To her I never, never would restore! —
-I sought her love, and pleas'd she heard my tale,
-Pledge of her faith, she freely gave the Veil
-a She now with tears would claim, — but far away
-War with the Gnomes from her prolong'd my stay;
-And when return'd, elate I sought the fair,
-To tell my triumphs to her joyful ear,
-Fearful to burst too rudely on her sight,
-11 I lurk'd unseen behind a beam of light,
-That thro' the waving foliage found its way,
-Where on a bank the damsel pensive lay.
-But while, with love's fond gaze, I watch'd the dame^
-She with a sigh pronounc'd Alonzo's name.
-
-
-
-
-u l Alas!' she said, ' these groves already wear 6
-
-The joyous livery of the vernal year,
-
-And ere these buds shall ripen into bloom,
-
-A haughty despot bears me to his home.
-
-Farewell! dear scenes, where oft Alonzo tells
-
-Of hope and love, and still his image dwells,
-
-Soon must I tear that image from my heart!
-
-And soon to fire's terrific realms depart!
-
-Doom'd, by the rashness of one fatal hour,
-
-The consort of a strange mysterious power,
-
-Of different race, and one who still must prove
-
-An object more of terror, than of love.'
-
-With jealous fury stung, I darted through
-
-The quivering foliage, muttering as I flew,
-
-( No more shalt thou of Pyros' love complain,
-
-He scorns to combat or to sue in vain;
-
-On this ungrateful earth no more I range,
-
-And trust a race for ever prone to change.
-
-I quit this upper realm — to wound thy pride,
-
-This night shall hail Spinthera as my bride.
-
-Yet think not thy inconstancy, thy scorn,
-
-Ungrateful maid! by me are tamely borne;
-
-
-
-
-Or that thine hours in calm delight shall flee
-
-With him thy folly now prefers to me,
-
-For while I hold the mystic pledge, thy hand,
-
-Affianced thus, no other dares demand.
-
-And by yon sun that rules this subject earth,
-
-That radiant orb whence I derive my birth,
-
-Tho' thou with tears and ceaseless prayers implore,
-
-To thee thy Veil I never will restore.'
-
-Too late repentant of my vow, I heard
-
-The constant prayers Spinthera's love preferr'd,
-
-Forc'd, while my brows in borrow'd frowns were dress'd,
-
-To hide the pity that my heart confest;
-
-Then drop, my friend, a suit by fate repell'd,
-
-And claim some boon that I may freely yield.
-
-For I, if told, had scrupled to believe
-
-That thou could'st ask what I should pause to give."
-
-If but thy vow resist,the youth replied,
-Still shalt thou yield, nor claim I ought beside,
-Then by some other hand from thine transfer
-
-The fatal pledge thou canst not yield to ber."
-
-I will!the king in eager transport said,
-And o'er his form a milder lustre play'd:
-
-
-
-book v. STROM BOLL
-
-Well pleased I yield, uor deem caprice or pride,
-Sweet maid! to thee so long the gift denied;
-O'er my rash vow propitious fates prevail,
-I pause no more, Alonzo, thine the Veil!
-Restore it to those lovely locks, and may
-Your future bliss your sorrows past repay."
-
-Wrapt in her rescu'd pledge, the Spanish maid
-And joyful knight their grateful homage paid
-To fair Spinthera, to the royal sprite,
-To Alfred, and to Albion's generous knight.
-Then as he twin'd it in her sable hair,
-Alonzo recogniz'd, and claim'd his spear,
-(That spear had prov'd a faithful staff, to guide
+“There was a time, in Salem’s hallow’d land,<br>
+That Pyros join’d Mohammed’s impious band,<br>
+There led the host that worship at his shrine,<br>
+And powerful spells and magic fenc’d their line.<br>
+The Sylphs and Europe’s host their force defied,<br>
+Triumphant fought, for heaven was on their side.<br>
+Ill would it fit a warrior’s tongue to tell<br>
+Of vanquish’d foes that by his valour fell;<br>
+And ill it fits a Christian knight to boast<br>
+Of ruth and mercy to a conquer’d host;<br>
+But when beneath a Christian warrior’s sword,<br>
+His vanquished votary call’d his distant lord,<br>
+Then Pyros knows the arts he used to save,<br>
+The prayers he urg’d, the royal word he gave,<br>
+And Henry comes the promis’d boon to crave.
+
+He spoke: at once the monarch’s anger gone,<br>
+With milder mien he left his lofty throne,<br>
+Each wondering warrior hail’d with courteous grace,<br>
+And welcom’d Henry with a friend’s embrace.
+
+“Forgive, brave knight,” he said, “thy name unknown,<br>
+Our angry mien and strange reception shewn,<br>
+Hail to these nether regions! and receive<br>
+Such welcome as a grateful prince should give,<br>
+And be thy boon of worth at once to prove<br>
+Our friend’s confiding mind, and Pyros’ love.”
+
+“Such shall it be!” the generous knight rejoin’d,<br>
+Not for myself I tax thy noble mind;<br>
+Here stands a maid, a suppliant at thy throne,<br>
+Whose tearful eyes her suit successless own;<br>
+And here a youth, in combat tried and prov’d,<br>
+Her love deserving, and by her beloved:<br>
+Then why, since fair Spinthera at thy side<br>
+Now shares thy throne and heart, a beauteous bride,<br>
+Why not her Veil, a useless gift, resign,<br>
+Which checks her bliss, yet cannot add to thine,<br>
+And claim the joy to noble natures dear,<br>
+When smiles contend with beauty’s grateful tear?”
+
+“What! yield the Veil, that late I deeply swore<br>
+To her I never, never would restore! —<br>
+I sought her love, and pleas’d she heard my tale,<br>
+Pledge of her faith, she freely gave the Veil<br>
+She now with tears would claim, — but far away<br>
+War with the Gnomes from her prolong’d my stay;<br>
+And when return’d, elate I sought the fair,<br>
+To tell my triumphs to her joyful ear,<br>
+Fearful to burst too rudely on her sight,<br>
+I lurk’d unseen behind a beam of light,<br>
+That thro’ the waving foliage found its way,<br>
+Where on a bank the damsel pensive lay.<br>
+But while, with love’s fond gaze, I watch’d the dame<br>
+She with a sigh pronounc’d Alonzo’s name.<br>
+‘Alas!’ she said, ‘these groves already wear<br>
+The joyous livery of the vernal year,<br>
+And ere these buds shall ripen into bloom,<br>
+A haughty despot bears me to his home.<br>
+Farewell! dear scenes, where oft Alonzo tells<br>
+Of hope and love, and still his image dwells,<br>
+Soon must I tear that image from my heart!<br>
+And soon to fire’s terrific realms depart!<br>
+Doom’d, by the rashness of one fatal hour,<br>
+The consort of a strange mysterious power,<br>
+Of different race, and one who still must prove<br>
+An object more of terror, than of love.’
+
+“With jealous fury stung, I darted through<br>
+The quivering foliage, muttering as I flew,<br>
+‘No more shalt thou of Pyros’ love complain,<br>
+He scorns to combat or to sue in vain;<br>
+On this ungrateful earth no more I range,<br>
+And trust a race for ever prone to change.<br>
+I quit this upper realm — to wound thy pride,<br>
+This night shall hail Spinthera as my bride.<br>
+Yet think not thy inconstancy, thy scorn,<br>
+Ungrateful maid! by me are tamely borne;<br>
+Or that thine hours in calm delight shall flee<br>
+With him thy folly now prefers to me,<br>
+For while I hold the mystic pledge, thy hand,<br>
+Affianced thus, no other dares demand.<br>
+And by yon sun that rules this subject earth,<br>
+That radiant orb whence I derive my birth,<br>
+Tho’ thou with tears and ceaseless prayers implore,<br>
+To thee thy Veil I never will restore.’<br>
+Too late repentant of my vow, I heard<br>
+The constant prayers Spinthera’s love preferr’d,<br>
+Forc’d, while my brows in borrow’d frowns were dress’d,<br>
+To hide the pity that my heart confest;<br>
+Then drop, my friend, a suit by fate repell’d,<br>
+And claim some boon that I may freely yield.<br>
+For I, if told, had scrupled to believe<br>
+That thou could’st ask what I should pause to give.”
+
+“If but thy vow resist,” the youth replied,<br>
+“Still shalt thou yield, nor claim I ought beside,<br>
+Then by some other hand from thine transfer<br>
+The fatal pledge thou canst not yield to her.”
+
+“I will!” the king in eager transport said,<br>
+And o’er his form a milder lustre play’d:<br>
+“Well pleased I yield, nor deem caprice or pride,<br>
+Sweet maid! to thee so long the gift denied;<br>
+O’er my rash vow propitious fates prevail,<br>
+I pause no more, *Alonzo, thine the Veil!*<br>
+Restore it to those lovely locks, and may<br>
+Your future bliss your sorrows past repay.”
+
+Wrapt in her rescu’d pledge, the Spanish maid<br>
+And joyful knight their grateful homage paid<br>
+To fair Spinthera, to the royal sprite,<br>
+To Alfred, and to Albion’s generous knight.<br>
+Then as he twin’d it in her sable hair,<br>
+Alonzo recogniz’d, and claim’d his spear,<br>
+(That spear had prov’d a faithful staff, to guide<br>
 Her failing footsteps on the mountain side.)
 
-The Veil restor'd, not long the knights delay'd,
-Nor linger'd long the fair Iberian maid.
-She bids farewell — in Chliarotes' care,
-
-Thro' the deep gulf again she mounts to air.
-And oh! how lovely to her wearied eye,
-The moon's soft light, the azure of the sky,
-The still and placid grandeur of the scene,
-The haunts of man, the tufts of sober green,
-
-
-
-
-And that red cloud, that in the blue expanse,
-
-With rapid motion sailing, met her glance;
-
-Is that her airy car? — with what delight
-
-She watch'd it sinking from the ethereal height!
-
-How softly seem'd the evening gale to breathe,
-
-How calm the waves of ocean slept beneath!
-
-While its fair freight the aerial vessel bore,
-
-And safely lands on Albion's happy shore.
+The Veil restor’d, not long the knights delay’d,<br>
+Nor linger’d long the fair Iberian maid.<br>
+She bids farewell — in Chliarotes’ care,<br>
+Thro’ the deep gulf again she mounts to air.<br>
+And oh! how lovely to her wearied eye,<br>
+The moon’s soft light, the azure of the sky,<br>
+The still and placid grandeur of the scene,<br>
+The haunts of man, the tufts of sober green,<br>
+And that red cloud, that in the blue expanse,<br>
+With rapid motion sailing, met her glance;<br>
+Is that her airy car? — with what delight<br>
+She watch’d it sinking from the ethereal height!<br>
+How softly seem’d the evening gale to breathe,<br>
+How calm the waves of ocean slept beneath!<br>
+While its fair freight the aerial vessel bore,<br>
+And safely lands on Albion’s happy shore.
 
 
 ---
 
-BOOK THE SIXTH.
+## Book the Sixth
 
+## The Restoration
 
+Meanwhile, great Ariel in his beamy car<br>
+Speeds with Maria thro’ the pathless air,<br>
+While mortal crowds, with wild admiring eyes,<br>
+Pursue the seeming meteor as it flies,<br>
+By some believed portending wars and woe,<br>
+And plagues and tempests to the world below;<br>
+But nobler minds in sager wonder gaze,<br>
+Lost in conjecture whence the wanderer strays;<br>
+From lunar mountains if it take its rise,<br>
+Or fumes condensing in superior skies;<br>
+Or from some comet’s train ignited hurl’d,<br>
+Feels the attraction of our greater world;<br>
+Or as a minor planet swiftly moves<br>
+Thro’ various systems, kindling as it roves.[^125]
 
-THE RESTORATION.
+Thro’ the light air, and fann’d by fragrant gales,<br>
+As o’er the clouds the ethereal chariot sails,<br>
+The maiden marks the Sylphs their tasks pursue<br>
+With toil unceasing, zeal for ever new.<br>
+Some from the sun, with speed unmatch’d, convey<br>
+To heaven’s remotest bounds the lucid ray,<br>
+Hence countless suns to distant worlds appear,<br>
+And beaming planets gild each other’s sphere,[^126]<br>
+Some o’er the viewless rays of heat preside,<br>
+And thro’ ethereal realms their progress guide;[^127]<br>
 
-Meanwhile, great Ariel in his beamy car
+[^125]: The subject of meteors and meteoric stones, and the numerous theories respecting them have been considered in a note on the third Book, page 120.
 
-Speeds with Maria thro' the pathless air,
+[^126]: The rapidity with which light is transmitted is surpassed by nothing but electricity, which in its passage along a very extended chain, always appears to be in every part at the same instant. Whether light be a substance or an action, has been often debated, yet never decided; but its extreme swiftness cannot be better illustrated than by the simple fact, that the time in which it passes from the sun to the earth, a distance of nearly one hundred millions of miles, does not exceed eight minutes and a half.
 
-While mortal crowds, with wild admiring eyes,
+[^127]: Light and heat though usually, are not inseparably, connected, which is proved by the analysis of the ray by the prism. At the violet end of the spectrum, scarcely any heat is perceptible; but it increases gradually towards the red rays, and is strongest in certain invisible rays which extend beyond them. In a similar way, the chemical effects produced by the beams of the sun appear not to depend either on light or heat, but on a peculiar set of rays, different though connected with them. Horn, silver, or any other body, whose colour is changed or blackened by exposure to the sun, is scarcely affected by the red rays, but changes more rapidly when it approaches the violet end of the spectrum, and in certain invisible rays beyond them the effect is much the strongest.<br>
+<br>
+The nature of heat, whether it be a substance or an action, a peculiar subtle fluid that insinuates itself between the particles of bodies, and incites them to repel each other, or merely a series of pulsations or undulations, received arid transmitted by them, appears to be as little ascertained as the nature of light, and the French and English chemists have, as usual, embraced opposite sides of the question. — *Davy and Brande*.
 
-Pursue the seeming meteor as it flies,
+While borne diffuse on every side around<br>
+The quick vibrations of concentric sound.[^128]<br>
+Some bid the lightning flash, the thunder roll,<br>
+And, as they dart around each glowing pole,<br>
+Their quivering lights the bright Auroras spread,<br>
+Till all the wondering welkin flames with red.[^129]<br>
+Some paint in liveliest hues each various flower,<br>
+Fan the slow flame of being, and restore<br>
+In tenfold light, the torch’s fading ray,<br>
+Or bar the bold Electron’s rapid way.[^130]
 
-By some believed portending wars and woe,
+[^128]: The nature of sound cannot be better illustrated than by throwing a pebble into the water, and observing the concentric circles that immediately begin to spread, and becoming wider and fainter, cease at a considerable distance. Sound consists of a number of vibrations transmitted by the particles of air in concentric circles around the body which impels them. Denser bodies convey sound better and more rapidly than air, for instance, water, ice, the metals, &amp;c.
 
-And plagues and tempests to the world below;
+[^129]: The spirits presiding over electricity are here intended. The phenomena of the Auroras Borealis and Australis are generally believed to be owing to the passage of electricity through the rare atmosphere of the poles.
 
-But nobler minds in sager wonder gaze,
+[^130]: It has been supposed that oxygen is the chief agent in producing the rivid hues of flowers, particularly the red tints. Its presence is necessary to combustion and to respiration, which appear to be of the same nature, carbonic acid being the result of both. It was formerly believed that oxygen entered into combination with the blood during respiration, and that it was absorbed; but experiment has proved this opinion to be incorrect, and that the whole of the oxygen, consumed in respiration, is employed in the formation of the carbonic acid evolved. It has been stated in a former note, that oxygen, on entering into combination with a body, destroys its conducting power; it is, therefore, said in the poem to obstruct the progress of electricity. *Davy, Brande,and Roget’s Lectures*.
 
-Lost in conjecture whence the wanderer strays;
-
-From lunar mountains if it take its rise,
-
-Or fumes condensing in superior skies;
-
-
-
-
-Or from some comet's train ignited hurl'd,
-Feels the attraction of our greater world;
-Or as a minor planet swiftly moves
-Thro' various systems, kindling as it roves.*
-
-Thro' the light air, and fann'd by fragrant gales,
-As o'er the clouds the ethereal chariot sails,
-The maiden marks the Sylphs their tasks pursue
-With toil unceasing, zeal for ever new.
-Some from the sun, with speed unmatch'd, convey
-To heaven's remotest bounds the lucid ray,
-Hence countless suns to distant worlds appear,
-And beaming planets gild each other's sphere, +
-Some o'er the viewless rays of heat preside,
-And thro' ethereal realms their progress guide;J
-
-
-
-* The subject of meteors and meteoric stones, and the numerous theories
-respecting them have been considered in a note on the third Book, page 120.
-
-t The rapidity with which light is transmitted is surpassed by nothing but
-electricity, which in its passage along a very extended chain, always appears
-to be in every part at the same instant. Whether light be a substance
-or an action, has been often debated, yet never decided; but its extreme
-swiftness cannot be better illustrated than by the simple fact, that the time in
-which it passes from the sun to the earth, a distance of nearly one hundred
-millions of miles, does not exceed eight minutes and a half.
-
-% Light and heat though usually, are not inseparably, connected, which is
-proved by the analysis of the ray by the prism. At the violet end of the
-spectrum, scarcely any heat is perceptible; but it increases gradually towards
-the red rays, and is strongest in certain invisible rays which extend beyond
-them. In a similar way, the chemical effects produced by the beams of the
+While some, with these in union, close combine,<br>
+And bid the leaves with pearly dew-drops shine;*<br>
+Or where above, the sun less warmly glows,<br>
+In glittering stars congeal the feathery snows. f<br>
 
 
 
 
-"W liile borne diffuse on every side around
-
-The quick vibrations of concentric sound.*
-
-Some bid the lightning flash, the thunder roll,
-
-And, as they dart around each glowing pole,
-
-Their quivering lights the bright Auroras spread,
-
-Till all the wondering welkin flames with red.f
-
-Some paint in liveliest hues each various flower,
-
-Fan the slow flame of being, and restore
-
-in tenfold light, the torch's fading ray,
-
-Or bar the bold Electron's rapid way.J
-
-sun appear not to depend either on light or heat, but on a peculiar set of rays,
-different though connected with them. Horn, silver, or any other body, whose
-colour is changed or blackened by exposure to the sun, is scarcely affected by
-the red rays, but changes more rapidly when it approaches the violet end of
-the spectrum, and in certain invisible rays beyond them the effect is much
-the strongest.
-
-The nature of heat, whether ii be a substance or an action, a peculiar sub-
-tle fluid that insinuates itself between the particles of bodies, and incites them
-to repel each other, or merely a series of pulsations or undulations, received
-arid transmitted by them, appears to be as little ascertained as the nature of
-light, and the French and English chemists have, as usual, embraced opposite
-sides of the question. — Davy and Brande.
-
-* The nature of sound cannot be better illustrated than by throwing a
-pebble into the water, and observing the concentric circles that immediately
-begin to spread, and becoming wider and fainter, cease at a considerable dis-
-tance. Sound consists of a number of vibrations transmitted by the particles
-of air in concentric circles around the body which impels them. Denser bo-
-dies convey sound better and more rapidly than air, for instance, water, ice,
-the metals, &amp;c.
-
-t The spirits presiding over electricity are here intended. The pheno-
-mena of the Auroras Borealis and Australis are generally believed to be ow-
-ing to the passage of electricity through the rare atmosphere of the poles.
-
-% It has been supposed that oxygen is the chief agent in producing the
-
-
-
-
-While some, with these in union, close combine,
-And bid the leaves with pearly dew-drops shine;*
-Or where above, the sun less warmly glows,
-In glittering stars congeal the feathery snows. f
-
-
-
-rivid hues of flowers, particularly the red tints. Its presence is necessary to
-combustion and to respiration, which appear to be of the same nature, car-
-bonic acid being the result of both. It was formerly believed that oxygen
-entered into combination with the blood during respiration, and that it was
-absorbed; but experiment has proved this opinion to be incorrect, and that
-the whole of the oxygen, consumed in respiration, is employed in the forma-
-tion of the carbonic acid evolved. It has been stated in a former note, that
-oxygen, on entering into combination with a body, destroys its conducting
-power; it is, therefore, said in the poem to obstruct the progress of electricity.
-Davy, Brande,and Roget's Lectures.
 
 * This alludes to the formation of water by the combination of oxygen and
 hydrogen, or inflammable air. It is a curious circumstance, that water, the
