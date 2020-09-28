@@ -4271,381 +4271,215 @@ To Sweden’s distant strand the Nymph shall bear.<br>
 But ere she mounts, she craves the monarch’s aid<br>
 Upon her course to speed the Iberian maid.
 
-The king consents; the Sylphs his mandate hear,
-And at his bidding frame a concave sphere.
-Clear and pellucid was its texture rare,
-
-And scarce distinguish'd from the ambient air,
-
-Save by the hues of light that rise and fade,
-
-And ever varying on its surface play'd,
-
-And made it now like floating sapphire seem,
-
-And now betray the topaz' golden gleam;
-
-Now sparkle with the ruby's fiery red,
-
-And now the emerald's cooler lustre shed.
-
-Like clouds in Phoebus' setting rays that glow,
-
-Appear'd the airy car that hung below.
-
-It open'd, and a crystal throne display'd —
-
-She mounts: the closing clouds conceal the maid.
-
-Yet thro' the lucid skreen her eyes survey
-
-All the long wonders of the various way,
-
-As high it floats, o'er many a sea and land,
-
-To flaming Stromboli's volcanic strand;
-
-While wondering mortals mus'd what partial blast
-
-Could make that little speck proceed so fast,
-
-When all the clouds with easy motion sail,
-
+The king consents; the Sylphs his mandate hear,<br>
+And at his bidding frame a concave sphere.<br>
+Clear and pellucid was its texture rare,<br>
+And scarce distinguish’d from the ambient air,<br>
+Save by the hues of light that rise and fade,<br>
+And ever varying on its surface play’d,<br>
+And made it now like floating sapphire seem,<br>
+And now betray the topaz’ golden gleam;<br>
+Now sparkle with the ruby’s fiery red,<br>
+And now the emerald’s cooler lustre shed.<br>
+Like clouds in Phœbus’ setting rays that glow,<br>
+Appear’d the airy car that hung below.<br>
+It open’d, and a crystal throne display’d —<br>
+She mounts: the closing clouds conceal the maid.<br>
+Yet thro’ the lucid skreen her eyes survey<br>
+All the long wonders of the various way,<br>
+As high it floats, o’er many a sea and land,<br>
+To flaming Stromboli’s volcanic strand;<br>
+While wondering mortals mus’d what partial blast<br>
+Could make that little speck proceed so fast,<br>
+When all the clouds with easy motion sail,<br>
 On the smooth bosom of the vernal gale.
 
-Saint George's Channel past, tho' distant, clear,
-Fair Gallia's realms in prospect wide appear;
+Saint George’s Channel past, tho’ distant, clear,<br>
+Fair Gallia’s realms in prospect wide appear;<br>
+Her vineyards rich with fruit, her mountains high,<br>
+Where clouds extend, and snows eternal lie;<br>
+Her splendid cities, and her winding streams,<br>
+In lines of light that caught the solar beams;<br>
+Her waving harvests, woods for ever green,<br>
+And fertile vales and castled hills between,<br>
+Shew’d the rich gifts of nature’s bounteous hand,<br>
+But war and havoc marr’d the lovely land.<br>
+No freighted vessels now securely ride,<br>
+The grace and glory of the sparkling tide,<br>
+But all that hover’d o’er the affrighted coast<br>
+Came fraught with war, and Albion’s adverse host.<br>
+Deserted cities, towns, and towers appear,<br>
+Each feudal chief his vassals led to war:<br>
+The fertile fields remain uncultur’d how,<br>
+Or widow’d females guide the lingering plough.<br>
+Such are the woes that mad ambition brings,<br>
+When the dire fury rules the breasts of king.
 
+Now o’er the sea the aerial concave flies,<br>
+Now Cirnos’ woody isle beneath it lies,<br>
+And Elba near — from whose exhaustless mines<br>
+In dazzling light the sun reflected shines:[^102]<br>
+Fraternal isles, which future years shall doom,<br>
+Ambition’s cradle one, and one its tomb.[^103]
 
-
-
-Her vineyards rich with fruit, her mountains high,
-Where clouds extend, and snows eternal lie;
-Her splendid cities, and her winding streams,
-In lines of light that caught the solar beams;
-Her waving harvests, woods for ever green,
-And fertile vales and castled hills between,
-Shew'd the rich gifts of nature's bounteous hand,
-But war and havoc marr'd the lovely land.
-No freighted vessels now securely ride,
-The grace and glory of the sparkling tide,
-But all that hover'd o'er the affrighted coast
-Came fraught with war, and Albion's adverse host.
-Deserted cities, towns, and towers appear,
-Each feudal chief his vassals led to war:
-The fertile fields remain uncultur'd how,
-Or widow'd females guide the lingering plough.
-Such are the woes that mad ambition brings,
- When the dire fury rules the breasts of kingSi
-
-Now o'er the sea the aerial concave flies,
-Now Cirnos' woody isle beneath it lies,
-
-
-
-204 STROMBOLL book v.
-
-And Elba near — from whose exhaustless mines
-In dazzling light the sun reflected shines:*
-Fraternal isles, which future years shall doom,
-Ambition's cradle one, and one its tomb.f
-
-Now o'er the waves the damsel floats once more,
-And sails above Ausonia's fertile shore,
-And Rome's imperial town, whose temples shone
+Now o’er the waves the damsel floats once more,<br>
+And sails above Ausonia’s fertile shore,<br>
+And Rome’s imperial town, whose temples shone<br>
 In the red splendour of the setting sun.
 
-As slowly now descend the shades of night,
-What glories burst on Leonora's sight!
-Far to the left, the flame in flashes broke
-Thro' the thick volumes of incumbent smoke
-That shroud Vesuvio's head • before them far,
-The stronger flames of Stromboli appear, J
-
-Vulcano's sulphurous fumes, and Etna's brow, J }
-
-Where crimson vapours tinge the eternal snow, V
-
-And all the heavens with awful beauty glow. j
-
-
-
-* The iron of Elba, like the copper of Paris Mountain in Cornwall, is on
-the surface.
-
-t Alluding to Corsica as the birth-place of Buonaparte, and Elba as the
-place of his exile.
-
-% The eruptions of Vulcano according toThucydides, Strabo, Diodorus, and
-
-
-
-
-On lofty Stromboli the sky was bright,
-As when it sparkles with the northern light,
-And ever as the mountain hurl'd on high
-Its mass of molten lava to the sky,
-O'er all the isle the vivid lustre spread,
-And brighten'd ocean with a glow of red;
-Like distant thunder, burst a hollow sound,
-
-Disturb'd the quivering air, and shook the shores around.*
-
-
-
-Now on the coast the chariot sinks to land,
-Where mingled lavas form'd the rugged strand,
-And o'er the ground deep spread the sable sand
-
-
-
-. I
-
-
-
-others, were formerly strong and frequent: it is now only remarkable for a
-great column of sulphureous vapour rising from the crater. Sulphureous va-
-pours also abound in every part of the island, and the soil is hot and filled
-with clods of sulphur. The fumes were much greater in quantity in former
-tjmes.
-
-* In the description of Stromboli, and of the descents of Leonora and Alon-
-zo, the account of Spallanzani is chiefly followed. Stromboli is perhaps the
-most extraordinary of volcanoes. The island is entirely composed of streams
-of lava, that, from their direction, have evidently flowed from a crater at
-the top of the mountain, which is still remaining, but the time of its extinction
-is unknown. The present crater is about half way up the mountain. Strom-
-boli does not, like other volcanoes, rage onl v at intervals, but appears, from the
-earliest times, to have been in unremitted action, yet no lava has ever flowed
-from the present crater. Strabo and others speak of the brightness of the
-eruptions, and Diodorus notices their constancy.
-
-t The coast of Stromboli is covered to the east and north-east with a black
-shining sand, which extends to some distance into the sea. It arises from the
-scoriaceous lava ejected by the mountain, which is very friable and soon be-
-comes pulverized. — Spallanzani.
-
-
-
-
-And oft some broken rock or cavern show'd
-
-Where o'er the first the later streams had flow'd.
-
-As Leonora left her cloud-like car,
-
-The beauteous fabric melted into air.
-
-O'er the rude soil with timid steps she went,
-
-A dim and fitful light the mountain lent, ISO
-
-That shew'd a hamlet, where the vineyards green
-
-In narrow patches stud the rugged scene.
-
-One cottage still a feeble light display'd,
-
-And gladly open'd to the Iberian maid;
-
-Here dwelt an aged peasant and his wife,
-
-Who calmly journev'd down the vale of life,
-
-Nor mourn'd departed youth. He from his birth
-
-Still fondly cherish'd his paternal earth,
-
-Tho' near was many a fair and fertile spot,
-
-Though each explosion shook the trembling cot;
-
-And oft the scorize dark or fiery balls
-
-Pour like a hail-storm on the shattered walls,
-
-Or in his little vineyard, and consume
-
-The expected produce of the year to come;
-
-Yet here his sires first drew the vital air,
-
-And memory made the humble dwelling dear.
-
-More sweet to him the bread his toils command,
-
-His hut of lava and his barren strand,
-
-
-
-
-Than soft repose, or wealth's alluring smiles,
-
-Sicilia's flowery vales, or fortune's emerald isles *
-
-His children round with all their offspring dwelt,
-
-(A numerous race,) in cots themselves had built,
-
-That morn, the seventieth annal of his birth,
-
-The hamlet hail'd with sports and rustic mirth,
-
-Around the dear paternal board they prest,
-
-The light laugh follow'd on the frequent jest;
-
-He, pleas'd to see the infant race aspire,
-
-They, proud to hear and emulate their sire,
-
-And the glad hours had past in such delight,
-
-That far the day had trespass'd on the night.
-
-The aged huswife now, with busy care,
-For Leonora spreads her simple fare,
-And humble couch, where soon the maid forgot ~\
-
-The cloud impending o'er her future lot, \
-
-The explosions long and loud, and trembling cot. y
-
-At morn, attended by a trusty guide,
-The fearless nymph ascends the mountain's side,
-
-
-
-* Spallanzani notices the attachment of the natives of Stromboli to their
-rugged shore, and miserable huts, formed of pieces of lava rudely piled toge-
-ther, even in situations where their little vineyards frequently suffered from
-the sulphureous vapours and explosions of the mountain.
-
-
-
-208 STROM BOLI. book v.
-
-Which tower'd above the vast volcanic pile,
-
-The giant parent of the rocky isle.
-
-Long was the steep ascent; the path was strew'd 1
-
-With stony fragments, ponderous, loose, and rude;
-
-And as she toil'd along the rugged way,
-
-The faithless sands her sinking steps betray.
-
-The eastern summit gain'd, her eye survey'd
-
-A plain with sable sand and scoria spread.
-
-The Sylphs had mov'd the dense sulphureous cloud
-
-That shrouds in fatal gloom the dangerous road,
-
-Yet from the ground thro' numerous openings came
-
-Thick fumes of sulphur in continued stream,
-
-Hot was the humid soil, and all around ISO
-
+As slowly now descend the shades of night,<br>
+What glories burst on Leonora’s sight!<br>
+Far to the left, the flame in flashes broke<br>
+Thro’ the thick volumes of incumbent smoke<br>
+That shroud Vesuvio’s head; before them far,<br>
+The stronger flames of Stromboli appear,<br>
+Vulcano’s sulphurous fumes, and Etna’s brow,[^104]<br>
+Where crimson vapours tinge the eternal snow,<br>
+And all the heavens with awful beauty glow.
+
+[^102]: The iron of Elba, like the copper of Paris Mountain in Cornwall, is on the surface.
+
+[^103]: Alluding to Corsica as the birth-place of Buonaparte, and Elba as the place of his exile.
+
+[^104]: The eruptions of Vulcano according to Thucydides, Strabo, Diodorus, and others, were formerly strong and frequent: it is now only remarkable for a great column of sulphureous vapour rising from the crater. Sulphureous vapours also abound in every part of the island, and the soil is hot and filled with clods of sulphur. The fumes were much greater in quantity in former times.
+
+On lofty Stromboli the sky was bright,<br>
+As when it sparkles with the northern light,<br>
+And ever as the mountain hurl’d on high<br>
+Its mass of molten lava to the sky,<br>
+O’er all the isle the vivid lustre spread,<br>
+And brighten’d ocean with a glow of red;<br>
+Like distant thunder, burst a hollow sound,<br>
+Disturb’d the quivering air, and shook the shores around.[^105]
+
+Now on the coast the chariot sinks to land,<br>
+Where mingled lavas form’d the rugged strand,<br>
+And o’er the ground deep spread the sable sand[^106]<br>
+
+[^105]: In the description of Stromboli, and of the descents of Leonora and Alonzo, the account of Spallanzani is chiefly followed. Stromboli is perhaps the most extraordinary of volcanoes. The island is entirely composed of streams of lava, that, from their direction, have evidently flowed from a crater at the top of the mountain, which is still remaining, but the time of its extinction is unknown. The present crater is about half way up the mountain. Stromboli does not, like other volcanoes, rage only at intervals, but appears, from the earliest times, to have been in unremitted action, yet no lava has ever flowed from the present crater. Strabo and others speak of the brightness of the eruptions, and Diodorus notices their constancy.
+
+[^106]: The coast of Stromboli is covered to the east and north-east with a black shining sand, which extends to some distance into the sea. It arises from the scoriaceous lava ejected by the mountain, which is very friable and soon be- comes pulverized. — *Spallanzani*.
+
+And oft some broken rock or cavern show’d<br>
+Where o’er the first the later streams had flow’d.<br>
+As Leonora left her cloud-like car,<br>
+The beauteous fabric melted into air.<br>
+O’er the rude soil with timid steps she went,<br>
+A dim and fitful light the mountain lent,<br>
+That shew’d a hamlet, where the vineyards green<br>
+In narrow patches stud the rugged scene.<br>
+One cottage still a feeble light display’d,<br>
+And gladly open’d to the Iberian maid;<br>
+Here dwelt an aged peasant and his wife,<br>
+Who calmly journev’d down the vale of life,<br>
+Nor mourn’d departed youth. He from his birth<br>
+Still fondly cherish’d his paternal earth,<br>
+Tho’ near was many a fair and fertile spot,<br>
+Though each explosion shook the trembling cot;<br>
+And oft the scorize dark or fiery balls<br>
+Pour like a hail-storm on the shattered walls,<br>
+Or in his little vineyard, and consume<br>
+The expected produce of the year to come;<br>
+Yet here his sires first drew the vital air,<br>
+And memory made the humble dwelling dear.<br>
+More sweet to him the bread his toils command,<br>
+His hut of lava and his barren strand,<br>
+Than soft repose, or wealth’s alluring smiles,<br>
+Sicilia’s flowery vales, or fortune’s emerald isles[^107]<br>
+His children round with all their offspring dwelt,<br>
+(A numerous race,) in cots themselves had built,<br>
+That morn, the seventieth annal of his birth,<br>
+The hamlet hail’d with sports and rustic mirth,<br>
+Around the dear paternal board they prest,<br>
+The light laugh follow’d on the frequent jest;<br>
+He, pleas’d to see the infant race aspire,<br>
+They, proud to hear and emulate their sire,<br>
+And the glad hours had past in such delight,<br>
+That far the day had trespass’d on the night.
+
+[^107]: Spallanzani notices the attachment of the natives of Stromboli to their rugged shore, and miserable huts, formed of pieces of lava rudely piled together, even in situations where their little vineyards frequently suffered from the sulphureous vapours and explosions of the mountain.
+
+The aged huswife now, with busy care,<br>
+For Leonora spreads her simple fare,<br>
+And humble couch, where soon the maid forgot<br>
+The cloud impending o’er her future lot,<br>
+The explosions long and loud, and trembling cot.<br>
+At morn, attended by a trusty guide,<br>
+The fearless nymph ascends the mountain’s side,<br>
+Which tower’d above the vast volcanic pile,<br>
+The giant parent of the rocky isle.<br>
+Long was the steep ascent; the path was strew’d<br>
+With stony fragments, ponderous, loose, and rude;<br>
+And as she toil’d along the rugged way,<br>
+The faithless sands her sinking steps betray.<br>
+The eastern summit gain’d, her eye survey’d<br>
+A plain with sable sand and scoria spread.<br>
+The Sylphs had mov’d the dense sulphureous cloud<br>
+That shrouds in fatal gloom the dangerous road,<br>
+Yet from the ground thro’ numerous openings came<br>
+Thick fumes of sulphur in continued stream,<br>
+Hot was the humid soil, and all around<br>
 Her steps re-echoed from the hollow ground.
 
-Within the ancient crater now she stood,
-Whence the long streams of liquid fire had flow'd
-That form'd the solid isle, but many an age
-Its fires had slept, exhausted with their rage;
-Its falling sides the dire abyss o'erspread,
-And recent scoria form'd a sable bed.
-Yet thro' the crust sulphureous odours breathe,
-And fumes ascend in many a snowy wreath,
-
-
-
-kook v. STROM BOLL
-
-And, like a lion, awful in repose,
-
-A moment might the dreadful gulf disclose,
-And Leonora hastes, and fears to view
+Within the ancient crater now she stood,<br>
+Whence the long streams of liquid fire had flow’d<br>
+That form’d the solid isle, but many an age<br>
+Its fires had slept, exhausted with their rage;<br>
+Its falling sides the dire abyss o’erspread,<br>
+And recent scoria form’d a sable bed.<br>
+Yet thro’ the crust sulphureous odours breathe,<br>
+And fumes ascend in many a snowy wreath,<br>
+And, like a lion, awful in repose,<br>
+A moment might the dreadful gulf disclose,<br>
+And Leonora hastes, and fears to view<br>
 Its slumbering fury wake and rage anew.
 
-Westward her course the bold adventurer bends,
-And now the mountain's loftiest peak ascends;
-Beneath, unseen, the dread volcano glows,
-Yet o'er the crest the smoky volumes rose;
-She hears the louder roar, and sees with dread
-The flaming masses rise above her head,
-And sand and ashes scatter'd all around,
-
+Westward her course the bold adventurer bends,<br>
+And now the mountain’s loftiest peak ascends;<br>
+Beneath, unseen, the dread volcano glows,<br>
+Yet o’er the crest the smoky volumes rose;<br>
+She hears the louder roar, and sees with dread<br>
+The flaming masses rise above her head,<br>
+And sand and ashes scatter’d all around,<br>
 The marks of former fury, strew the ground.
 
-Descending now, she reach'd a rocky height,
-Whence the whole scene unfolded to her sight;
-Saw from the gulf the orbs of lava rise,
-And clouds of dusky vapour veil the skies,
-And shuddering thought how soon the hour might came.
-When that red void should be her hated home;
-That was her road, and from that sad sojourn,
-Pyros or Fate might bar the hoped return,
-Yet livelier thoughts her ardent bosom swell'd,
+Descending now, she reach’d a rocky height,<br>
+Whence the whole scene unfolded to her sight;<br>
+Saw from the gulf the orbs of lava rise,<br>
+And clouds of dusky vapour veil the skies,<br>
+And shuddering thought how soon the hour might came.<br>
+When that red void should be her hated home;<br>
+That was her road, and from that sad sojourn,<br>
+Pyros or Fate might bar the hoped return,<br>
+Yet livelier thoughts her ardent bosom swell’d,<br>
+And love and hope her rapid steps impell’d;<br>
+Above the gulf she mark’d a narrow cave,[^108]<br>
+A hanging rock the needful shelter gave;<br>
+She seized a favouring moment, then in haste<br>
+Dismiss’d her wondering guide, and safely past;<br>
+Above her head the balls ignited pour;<br>
+But safely shelter’d from the dreadful shower,<br>
+Within the pit she view’d the burning mass,<br>
+Of dark red hue, it gleam’d like melted brass,[^109]<br>
+Now sunk, now rose; now gaseous floods impel<br>
+The fluid balls that harden’d ere they fell,<br>
+And down the cliff rush’d rattling to the main,<br>
+Dash’d on the rocks, or sought the abyss again.
 
-And love and hope her rapid steps impell'd;
+[^108]: This cave is described by Spallanzani as having sheltered him from the ejections of the mountain, during his observations on the interior of the crater.
 
+[^109]: This is the appearance of the interior of the crater, as described by Spallanzani; but succeeding travellers have doubted whether, from his situation in the cave, he could possibly have seen the boiling lava. They imagine, that his sight must have been deceived by the vapours in the crater.
 
-
-
-Above the gulf she mark'd a narrow cave, #
-
-A hanging rock the needful shelter gave;
-
-She seized a favouring moment, then in haste
-
-Dismiss'd her wondering guide, and safely past;
-
-Above her head the balls ignited pour;
-
-But safely shelter'd from the dreadful shower,
-
-Within the pit she view'd the burning mass,
-
-Of dark red hue, it gleam'd like melted brass,f
-
-Now sunk, now rose; now gaseous floods impel
-
-The fluid balls that harden'd ere they fell,
-
-And down the cliff rush'd rattling to the main,
-
-Dash'd on the rocks, or sought the abyss again.
-
-Awhile she paus'd: Oh thou! resplendent queen,
-Chief of the powers that rule this awful scene,
-Hear, from thy throne of fire, a suppliant maid,
-Propitious hear, and grant thy promis'd aid.
-Thy arm, Spinthera, thine alone can guide
-My steps in safety thro' yon boiling tide,
-
-* This cave is described by Spallanzani as having sheltered him from the
-ejections of the mountain, during his observations on the interior of the
-crater.
-
-t This is the appearance of the interior of the crater, as described by Spal-
-lanzani; but succeeding travellers have doubted whether, from his situation
-in the cave, he could possibly have seen the boiling lava. They imagine,
-that his sight must have been deceived by the vapours in the crater.
-
-
-
-BOOK v. STKOMBOLI.
-
-Mid waves of liquid fire my frame can shield,
-
-Where stubborn earths and shining metals yield;
-Oh! by some gracious sign thy favour shew,
-And guide me thro' yon gulf that boils below."
+Awhile she paus’d: “Oh thou! resplendent queen,<br>
+Chief of the powers that rule this awful scene,<br>
+Hear, from thy throne of fire, a suppliant maid,<br>
+Propitious hear, and grant thy promis’d aid.<br>
+Thy arm, Spinthera, thine alone can guide<br>
+My steps in safety thro’ yon boiling tide,<br>
+Mid waves of liquid fire my frame can shield,<br>
+Where stubborn earths and shining metals yield;<br>
+Oh! by some gracious sign thy favour shew,<br>
+And guide me thro’ yon gulf that boils below.”
 
 She spoke, and deep the roaring flood retires
 Within the crater, nor again aspires;
