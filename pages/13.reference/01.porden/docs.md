@@ -3624,7 +3624,7 @@ The nurturing seas their floating foliage lave.<br>
 And here the gay Zoanthæ emulate[^96]<br>
 Flora’s bright train and transitory state.<br>
 
-[^96]: The actinias or sea anemones, and sea marigolds, have received the name of zoanthæ or animal flowers. They are of an oblong form, and when closed, resemble a truncated cone. They are fixed by the base, and the upper part is surrounded with many tentacula?, in the centre of which is the mouth. Many of them are of very brilliant colours, and when their tentaculæ are expanded, they have the appearance of full blown flowers. They feed on small shell-fish and other marine animals, which coming within reach of the expanded tentaculæ, are immediately seized and drawn into the mouth, which closes over them. The shells, and other indigestible parts, are afterwards returned through the mouth.
+[^96]: The actiniæ or sea anemones, and sea marigolds, have received the name of zoanthæ or animal flowers. They are of an oblong form, and when closed, resemble a truncated cone. They are fixed by the base, and the upper part is surrounded with many tentacula?, in the centre of which is the mouth. Many of them are of very brilliant colours, and when their tentaculæ are expanded, they have the appearance of full blown flowers. They feed on small shell-fish and other marine animals, which coming within reach of the expanded tentaculæ, are immediately seized and drawn into the mouth, which closes over them. The shells, and other indigestible parts, are afterwards returned through the mouth.
 
 Mid scatter’d shells, and tufts of herbage green,<br>
 The sad remains of human toil are seen.<br>
@@ -3712,63 +3712,38 @@ Or the light dance iu sportive mazes led,<br>
 Their tuneful part in songs harmonious bear,<br>
 Or draw thro’ combs of pearl their yellow hair.
 
-But now a well-known voice to Henry's ears,
-
-Miranda's loss, and Alfred's grief declares.
-Beyond the garden's flowery maze was seen
-The grotto, glittering thro' the foliage green,
-Where Alfred sate, the aqueous wall behind,
-Like some unhappy insect, amber-shrin'd.
-A monster guards the gate — his bulk was roll'd
-Voluminous, in many a scaly fold;
-He rears his sparkling crest — but what avails
-His breath of fire, his adamantine scales,
-His venom'd fangs, or fascinating glance,
-
-That chills its victim, ere the foe advance!*
-
-* A great deal has been said respecting the power of fascination supposed
-to be exerted by serpents over small animals: Dr. Liehtenstein, in his
-Travels in Southern Africa, has recorded an instance of it. On the brink of a
-ditch, he saw a large snake in pursuit of a field-mouse. The poor animal was
-
-
-
-Great Ariel's spells the intended bound arrest;
-A sudden sleep his glowing eyes opprest;
-Senseless he fell, the warrior past the gate,
-And reach'd the spot where mournful Alfred sate.
-He wav'd his wand, the waters glide away,
-As evening frosts before the morning ray;
-The astonish'd youth a joyful greeting gave,
-And sprang exulting from Lymnoria's cave.
-
-But now the ocean peers in council sate,
-Not oft accustom'd for their king to wait,
-Tir'd with the labours of the march and fight,
-Vain was the summons of the morning light;
-At length he comes, assumes his shelly throne,
+But now a well-known voice to Henry’s ears,<br>
+Miranda’s loss, and Alfred’s grief declares.<br>
+Beyond the garden’s flowery maze was seen<br>
+The grotto, glittering thro’ the foliage green,<br>
+Where Alfred sate, the aqueous wall behind,<br>
+Like some unhappy insect, amber-shrin’d.<br>
+A monster guards the gate — his bulk was roll’d<br>
+Voluminous, in many a scaly fold;<br>
+He rears his sparkling crest — but what avails<br>
+His breath of fire, his adamantine scales,<br>
+His venom’d fangs, or fascinating glance,<br>
+That chills its victim, ere the foe advance![^100]<br>
+Great Ariel’s spells the intended bound arrest;<br>
+A sudden sleep his glowing eyes opprest;<br>
+Senseless he fell, the warrior past the gate,<br>
+And reach’d the spot where mournful Alfred sate.<br>
+He wav’d his wand, the waters glide away,<br>
+As evening frosts before the morning ray;<br>
+The astonish’d youth a joyful greeting gave,<br>
+And sprang exulting from Lymnoria’s cave.<br>
+But now the ocean peers in council sate,<br>
+Not oft accustom’d for their king to wait,<br>
+Tir’d with the labours of the march and fight,<br>
+Vain was the summons of the morning light;<br>
+At length he comes, assumes his shelly throne,<br>
 And makes the business of the morning known.
 
+[^100]: A great deal has been said respecting the power of fascination supposed to be exerted by serpents over small animals: Dr. Liehtenstein, in his Travels in Southern Africa, has recorded an instance of it. On the brink of a ditch, he saw a large snake in pursuit of a field-mouse. “The poor animal was just at its hole, when it seemed in an instant to stop, as if unable to proceed, and without being touched by the snake, to be palsied with terror.” The head of the snake was raised over him, the mouth open, and the eyes stedfastly fixed on him. Both remained some time in this position, but as soon as the mouse made a motion to fly, the snake followed it immediately, as if he would stop him. After some minutes, the noise made by Dr. Lichtenstein’s approach alarmed the snake, who snapped up his prey instantly, and glided away into a bush. The Doctor appears rather to ascribe this phenomenon to the poisonous breath of the snake, which he thinks might really paralyse the limbs of the mouse, than to any influence of its fixed eye, or the dread of inevitable death.
 
-
-just at its hole, when it seemed in an instant to slop, as if unable to proceed,
-and without being touched by the snake, to be palsied with terror.The
-head of the snake was raised over him, the mouth open, and the eyes sted-
-fastly fixed on him. Both remained some time in this position, but as soon
-as the mouse made a motion to fly, the snake followed it immediately, as if
-he would stop him. After some minutes, the noise made by Dr. Lichten-
-stein's approach alarmed the snake, who snapped up his prey instantly, and
-glided away into a bush. The Doctor appears rather to ascribe this pheno-
-menon to the poisonous breath of the snake, which he thinks might really
-paralyse the limbs of the mouse, than to any influence of its fixed eye, or the
-dread of inevitable death.
-
-
-
-My friends,he said, in toil and danger prov'd,
-Still faithful found, respected and belov'd,
-M Time urges on; attend your king's request,
+“My friends,” he said, “in toil and danger prov’d,<br>
+Still faithful found, respected and belov’d,<br>
+Time urges on; attend your king’s request,<br>
 And by your actions be your zeal exprest.
 
 When next the morning sun illumes the tide,
