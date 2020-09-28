@@ -5244,6 +5244,7 @@ Then paus’d upon the bank, surpriz’d to view<br>
 The intermittive waters flow anew.[^141]<br>
 [^140]: Rivers, where the soil is much impregnated with silver, have generally a milky hue.
 [^141]: Intermittent springs are not very frequent, but there are three or four in England; the principal of which are those of Lay well, near Torbay, and of Buxton, in Derbyshire. In the former the water rises and falls twenty times in succession, and afterwards flows uniformly for two hours. In that of Buxton it intermits every quarter of an hour. But the most celebrated of intermittent springs are in the lake of Tschirnitz, in Carniola. This lake is about fourteen miles in length, and five in breadth. It is full of water during the greater part of the year, but about the beginning of July the water runs off by eighteen subterranean conduits; the fish either escape with it, or are destroyed, and cattle soon come to feed on the grass which rises quickly with great luxuriance in the bed of the lake. Three or four months after the water returns suddenly through the holes by which it was absorbed, with such violence that it spouts up to the height of several feet, and the lake is filled in less than twenty-four hours. For a farther account of intermittent fountains, and of the peculiar form of pipe which is necessary to produce them, see the fourth volume of Dr. Hutton’s *Mathematical Recreations*.
+
 Just as they reach’d Albruno’s stately dome,<br>
 To meet his council mov’d the lordly Gnome;<br>
 With loud acclaims the spacious galleries rang,<br>
