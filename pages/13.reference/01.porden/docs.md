@@ -5118,16 +5118,11 @@ One held a torch, and one the vessel steer’d.
 
 The bark rose slowly to the pit's dark side,
 At two small seats in silence points the guide,
-
-
-
-
 The Sylph supports and cheers the entering maid;
 Descend!the Gnome in voice of thunder said.
 Sad on her ear those hollow accents came,
 And thrill'd with horror all her shrinking frame.
 From his dark form she turn'd her glistening eyes,
-
 And fix'd them wildly on the azure skies.;
 Still less and less the lucid circle grew,
 Shrunk to a point, and vanish'd from her view.
@@ -5141,22 +5136,13 @@ I go a living victim to the tomb,
 
 Where shapes terrific haunt congenial gloom;
 Far from those scenes which memory turns to trace,
-Each well known spot, each ' dear familiar face/
+Each well known spot, each dear familiar face
 From love, from Henry,— then with look askance
 She casts upon the guide an anxious glance,
 Then on the aerial monarch, to descry,
 And diaw fresh hope from that which lit his eye;
-Yet still her heart is chill'd .by bodiug fears,
+Yet still her heart is chill'd by boding fears,
 And o'er her breast descend her streaming tears.
-r
-
-
-
-I
-\
-
-
-
 
 But now, with sudden cold, a dreadful sound
 Of rushing streams and torrents roaring round,
