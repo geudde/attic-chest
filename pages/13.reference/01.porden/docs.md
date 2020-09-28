@@ -4709,10 +4709,10 @@ I else had deem’d that Fay, whose magic pow’r<br>
 Paints on the distant waves our mimic shore,<br>
 Had left her rainbow dome and airy bower.”[^122]
 
-[^122]: The Fata, or Fairy, Morgana, supposed by the inhabitants to be the cause of a singular and beautiful phenomenon sometimes seen in the Faro of Messina. It occurs at the time when the sun surmounts the eastern hills behind Reggio, and rises high enough to form an angle of forty-five degrees on the water before the city, which at these times is smooth and glassy. The spectator standing with his back to the sun, on a sudden beholds in the water numberless series of pilasters, arches, castles, towers, magnificent palaces, groves of trees, plains covered with herds and flocks, armies of men, on foot and on horseback, &amp;c. &amp;c. in their natural colours, passing rapidly in succession along the surface of the sea.
-
-Sometimes, if the air be slightly hazy, these objects are surrounded with prismatic fringes; and sometimes, when the atmosphere is highly impregnated with vapour, the objects observed on the water are repeated, though more faintly, at a considerable height in the air.
-
+[^122]: The Fata, or Fairy, Morgana, supposed by the inhabitants to be the cause of a singular and beautiful phenomenon sometimes seen in the Faro of Messina. It occurs at the time when the sun surmounts the eastern hills behind Reggio, and rises high enough to form an angle of forty-five degrees on the water before the city, which at these times is smooth and glassy. The spectator standing with his back to the sun, on a sudden beholds in the water numberless series of pilasters, arches, castles, towers, magnificent palaces, groves of trees, plains covered with herds and flocks, armies of men, on foot and on horseback, &amp;c. &amp;c. in their natural colours, passing rapidly in succession along the surface of the sea.<br>
+<br>
+Sometimes, if the air be slightly hazy, these objects are surrounded with prismatic fringes; and sometimes, when the atmosphere is highly impregnated with vapour, the objects observed on the water are repeated, though more faintly, at a considerable height in the air.<br>
+<br>
 These images appear to be merely the multiplied reflexions of objects on shore. They probably, like the rainbow, owe their origin to the adverse sun, aided by very peculiar circumstances in the atmosphere; and like it, are precisely the same to no two spectators. A curious appearance is sometimes observable on Alpine heights. A company of adventurers ascending the brow of a mountain, with their backs to the rising sun, each person perceives, on a frozen cloud before him, his own shadow, but not that of any of his companions; its head crowned with a glory, and surrounded by various concentric rainbows. During the dense fogs which obumbrated London in January, 1814, many persons walking in the streets, and unable to distinguish their neighbours, were thus surprised by the company of their own shadows which started up at their sides as they past the lamps. All these phenomena appear to have a similar origin, but they are not sufficiently frequent for much investigation.
 
 “Nay, rather deem her some deluded nun,”<br>
@@ -4734,137 +4734,66 @@ As thro’ the night’s increasing gloom she stray’d:<br>
 Perchance St. Catharine left her spouse, to tame[^123]<br>
 The demon sprites that vex this land of flame.”
 
-
-
-
-Each listener's looks increasing dread display; )
-
-Enough,Alonzo thought, and turn'd away, \
-
-Nor heeds the strife of vestal, saint, or fay. 440J
-
-
-
-! * St. Catharine is a favourite saint with the Italians, and her marriage
-has afforded a subject to many of their best painters.
-
-
-
-
-And now, as chance a rugged pathway shew'd,
-
-The knight pursu'd the long laborious road.
-
-High o'er the mountain spread a lofty cloud,
-
-And wrapt the summit in its sable shroud;
-
-In vain he sought to pierce its dangerous womb,
-
-Sulphureous odours fill the fatal gloom,
-
-For mighty Kapnos, a gigantic guard,
-
-Waving his arms of mist,his progress barr'd;
-
-And leagued with hot Scirocco's baleful breath,
-
-Had spread around this atmosphere of death.*
-
-Rebellious Sylph! in vain thine arts essay
-
-To stop the knight; thy monarch guards his way. —
-
-Propitious power! till now my friend and guide,
-
-(t Oh! aid my progress here!Alonzo cried.
-
-He spoke; a sudden gale refresh’d the air,
-
-And mighty Boreas hasten'd at his pray'r;
-
-Not as to Albion Arctic blasts he brings,
-
-And second winter on his icy wings;
-
-
-
-* When the scirocco, or south-east wind prevails, Stromboli is covered by
-a great cloud of lurid smoke, impervious to the sun, except at the very edges,
-which are white. This cloud, composed of hot sulphureous vapours, often
-extends half way down the mountain, and a mile above it, and renders the
-ascent impracticable. During the north, or north-west wind, this cloud va-
-nishes almost entirely, and the mountain may be ascended with safety.
-
-Spallanzani,
-
-9
-
-
-
-
-Here the mild breezes own his gentle reign,
-
-And waft Apulian fragrance o'er the main,
-
-At distance fell Scirocco seem'd to know,
-
-And with instinctive terror shuns his foe;
-
-He spreads his tawny wings— he scours the plain,
-
-And seeks Sahara's boundless wilds again.
-
-Kapnos awhile delay'd, then rising high,
-
-Spread his gigantic form and vanish'd in the sky;
-
-Again the sun his orb unclouded shew'd,
-
-Alonzo hasten'd on his dangerous road,
-
-And reach'd the fiery gulf: a numerous band
-
-Of sprites around in hostile phalanx stand;
-
-In vain he states what wondrous causes bring
-
-A mortal knight a suppliant to their king,
-
-And prays their courtesy to guide him right —
-
-With levell'd spears the train provoke the fight;
-
-While Spintheros his arrows showers from far,
-
-The gallant Phlogos hastes to closer war.
-
-Short was the strife — what mortal could withstand
-
-The fierce attack of his unconquer'd hand!
-
-The knight invokes celestial aid in vain;
-
-His weary arms the faulchion scarce sustain;
-
-When Phlogos now, who saw his strength decay,
-
-Seized in his arms his unresisting prey;
-
-
-
-
-Faint with the heat, exhausted with the fight,
-He hung a lifeless burthen on the sprite,
-Who, while his comrade follow'd, swiftly bore
+[^123]: St. Catharine is a favourite saint with the Italians, and her marriage has afforded a subject to many of their best painters.
+
+Each listener’s looks increasing dread display;<br>
+“Enough,” Alonzo thought, and turn’d away,<br>
+Nor heeds the strife of vestal, saint, or fay.<br>
+And now, as chance a rugged pathway shew’d,<br>
+The knight pursu’d the long laborious road.<br>
+High o’er the mountain spread a lofty cloud,<br>
+And wrapt the summit in its sable shroud;<br>
+In vain he sought to pierce its dangerous womb,<br>
+Sulphureous odours fill the fatal gloom,<br>
+For mighty Kapnos, a gigantic guard,<br>
+Waving his “arms of mist,” his progress barr’d;<br>
+And leagued with hot Scirocco’s baleful breath,<br>
+Had spread around this atmosphere of death.[^124]<br>
+Rebellious Sylph! in vain thine arts essay<br>
+To stop the knight; thy monarch guards his way. —<br>
+“Propitious power! till now my friend and guide,<br>
+Oh! aid my progress here!” Alonzo cried.<br>
+He spoke; a sudden gale refresh’d the air,<br>
+And mighty Boreas hasten’d at his pray’r;<br>
+Not as to Albion Arctic blasts he brings,<br>
+And second winter on his icy wings;<br>
+Here the mild breezes own his gentle reign,<br>
+And waft Apulian fragrance o’er the main,<br>
+At distance fell Scirocco seem’d to know,<br>
+And with instinctive terror shuns his foe;<br>
+He spreads his tawny wings — he scours the plain,<br>
+And seeks Sahara’s boundless wilds again.<br>
+Kapnos awhile delay’d, then rising high,<br>
+Spread his gigantic form and vanish’d in the sky;<br>
+Again the sun his orb unclouded shew’d,<br>
+Alonzo hasten’d on his dangerous road,<br>
+And reach’d the fiery gulf: a numerous band<br>
+Of sprites around in hostile phalanx stand;<br>
+In vain he states what wondrous causes bring<br>
+A mortal knight a suppliant to their king,<br>
+And prays their courtesy to guide him right —<br>
+With levell’d spears the train provoke the fight;<br>
+While Spintheros his arrows showers from far,<br>
+The gallant Phlogos hastes to closer war.<br>
+Short was the strife — what mortal could withstand<br>
+The fierce attack of his unconquer’d hand!<br>
+The knight invokes celestial aid in vain;<br>
+His weary arms the faulchion scarce sustain;<br>
+When Phlogos now, who saw his strength decay,<br>
+Seized in his arms his unresisting prey;<br>
+Faint with the heat, exhausted with the fight,<br>
+He hung a lifeless burthen on the sprite,<br>
+Who, while his comrade follow’d, swiftly bore<br>
 His victim to the inhospitable shore.
 
-But whence,he cried, and who this knightly pair
-That treads these nether realms with dauntless air?
-At their approach the sprites in haste retire,
-And safe they move amid encircling fire!
-Stand knights! in death your trespass you atone, 4Q0
-Or win your dangerous passage with my own."
+[^124]: When the scirocco, or south-east wind prevails, Stromboli is covered by a great cloud of lurid smoke, impervious to the sun, except at the very edges, which are white. This cloud, composed of hot sulphureous vapours, often extends half way down the mountain, and a mile above it, and renders the ascent impracticable. During the north, or north-west wind, this cloud vanishes almost entirely, and the mountain may be ascended with safety. *Spallanzani*.
+
+“But whence,” he cried, “and who this knightly pair<br>
+That treads these nether realms with dauntless air?<br>
+At their approach the sprites in haste retire,<br>
+And safe they move amid encircling fire!<br>
+Stand knights! in death your trespass you atone,<br>
+Or win your dangerous passage with my own.”
 
 The summons soon obey'd, in deadly fight
 The dauntless warriors clos'd with either sprite.
