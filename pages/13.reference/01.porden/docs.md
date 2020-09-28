@@ -4721,29 +4721,21 @@ Heaven’s vengeance has destroy’d the guilty fair,<br>
 And let our voices rise in earnest prayer,<br>
 Lest we the horrors of her doom should share.”
 
-No!said a youth, be prayers and praises given
+“No!” said a youth, “be prayers and praises given<br>
+As to a saint that leaves her throne in heaven!<br>
+Last night, when all around was still and mute,<br>
+As at Lavinia’s bower I wak’d my lute,<br>
+In the dark sky I saw a floating cloud,<br>
+Where still the evening’s crimson lustre glow’d,<br>
+It sunk to earth, and seem’d to melt in air,<br>
+When in its place I saw a damsel fair;<br>
+Round her dark locks a silver glory play’d,<br>
+As thro’ the night’s increasing gloom she stray’d:<br>
+Perchance St. Catharine left her spouse, to tame[^123]<br>
+The demon sprites that vex this land of flame.”
 
-As to a saint that leaves her throne in heaven!
 
-Last night, when all around was still and mute,
 
-As at Lavinia's bower I wak'd my lute,
-
-In the dark sky I saw a floating cloud, 43C
-
-Where still the evening's crimson lustre glow'd,
-
-It sunk to earth, and seem'd to melt in air,
-
-When in its place I saw a damsel fair;
-
-Round her dark locks a silver glory play'd,
-
-As thro' the night's increasing gloom she stray 'd:
-
-Perchance St. Catharine left her spouse, to tame*
-
-The demon sprites that vex this land of flame."
 
 Each listener's looks increasing dread display; )
 
