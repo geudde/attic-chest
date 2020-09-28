@@ -4027,175 +4027,139 @@ Nor wish’d that blood should stain our nuptial bower,<br>
 He whom thy voice announces I command<br>
 Here in the lists to meet thee hand to hand.”
 
+Incens’d, the monarch spoke; the knight unknown<br>
+“Alfred!” proclaim’d, and flung his gauntlet down.<br>
+Amazement chill’d the youth accus’d; the maid<br>
+In changing hues surprize and fear betray’d;<br>
+In wondering silence sate the bride and king,<br>
+While “Alfred!” echo’d from the astonish’d ring;<br>
+At length Marino spoke: “The tale you bear<br>
+Is strange, and most unwelcome to our ear;<br>
+Still let me hope some mystery clouds your sight,<br>
+And while you combat, heaven defend the right!”
 
+The queen meanwhile the sad Miranda cheers,<br>
+“Alfred is true, then why these causeless fears?<br>
+His heart is brave, then in his valour trust!<br>
+Just is his cause, and heaven protects the just!”
 
-Incens'd, the monarch spoke; the knight unknown
-ft Alfred!proclaim'd, and flung his gauntlet down.
-Amazement chill'd the youth accus'd; the maid
-In changing hues surprize and fear betray 'd;
-In wondering silence sate the bride and king,
-While Alfred!echo'd from the astonish'd ring;
-At length Marino spoke: The tale you bear
+Impatient Henry mourns the impending fray,<br>
+Griev’d such a charge should thus their course delay,<br>
+While Alfred snatch’d the gauntlet from the ground,<br>
+And rode in haste the listed circle round,<br>
+“Come on,” he cried; “’tis false! my sword shall shame<br>
+Thy recreant heart, and vindicate my fame.”
 
-Is strange, and most unwelcome to our ear;
-Still let me hope some mystery clouds your sight,
-And while you combat, heaven defend the right!"
+The signal given, they ran, but stood the stroke,<br>
+And in their hands the faithless lances broke;<br>
+They seize their swords, but ward the blows so well,<br>
+That guiltless yet is either gleaming steel;<br>
+At length the Dolphin knight directs a blow<br>
+Which pierc’d the steed, but miss’d his wary foe:<br>
+It fell, though slight the wound! — The warrior stands<br>
+Recover’d, and on foot the fight demands.<br>
+While struggling on the ground, the horse betray’d<br>
+The fatal poison of the envenom’d blade;<br>
+The knights alone pursu’d the fight, nor heed<br>
+The clamorous circle, or expiring steed.<br>
+“The conflict cease!” exclaim’d the king; “the fight<br>
+Enough has clear’d the fame of Albion’s knight;<br>
+And on yon stain to knighthood’s noble name<br>
+Has fix’d the mark of infamy and shame,<br>
+Just guerdon of the coward, who in strife<br>
+Assails with poison’d arms his foeman’s life!”
 
-The queen meanwhile the sad Miranda cheers,
-11 Alfred is true, then why these causeless fears?
+The Dolphin warrior in amazement stood,<br>
+And now the steed, and now the falchion view’d;<br>
+The crowd pour on, ungovern’d in their rage,<br>
+And as a dog with pelting stones engage;<br>
+He rais’d his burnish’d helm — a face appears<br>
+By all remember’d, tho’ unseen for years!<br>
+Fresh wonder staid the throng, disgrace and shame<br>
+Could never mingle with Delphino’s name.<br>
+“Hear me, oh king! and by that honour gain’d<br>
+In many a dangerous field, and yet unstain’d,<br>
+My fame shall from this ordeal rise more bright,<br>
+Or hence I fly self-banish’d from your sight!
 
+“Thrice have the seasons chang’d, and thrice renew’d,<br>
+Since at your royal side in fight I stood;<br>
+The Gnomes before us fled — their artful flight<br>
+Too far I follow’d in the heat of fight.<br>
+Thro’ ways unknown escaped the dastard foe,<br>
+I sunk into a pit that yawn’d below;<br>
+By walls of firm basalt, secur’d and chain’d,<br>
+For three long years in darkness I remain’d.<br>
+A salamander heard rny moan; his aid<br>
+Thro’ the firm rock at length my passage made.
 
+This morn my native realm, and light of day,<br>
+Again I view’d rejoicing; on my way<br>
+I met a nymph: with many a streaming tear,<br>
+Her lips the tale of wrongs and woe declare,<br>
+And ask’d my aid. To day, she said, the king<br>
+Graced with his bride the tourney’s crowded ring.<br>
+Her faithless knight alone, whose artful dame<br>
+The court amus’d beneath a borrow’d name,<br>
+Bound on a feign’d adventure, shunn’d the fray —<br>
+My sword avenging must compel his stay,<br>
+On this disloyal wretch her wrongs requite,<br>
+And shame the dastard heart that fled the fight.<br>
+She told his name and arms, and bade me speed;<br>
+Unarm’d I stood; she gave these arms and steed,<br>
+I staid not till I reach’d this fatal place,<br>
+And thought to meet with honour, not disgrace.”
 
+“Disgrace,” the king exclaim’d, “on her alone!<br>
+Come to my arms, thou bulwark of my throne.<br>
+O! lost so long, so long as dead deplor’d!<br>
+And now, upon this happy day restor’d — <br>
+But say, what sister of the briny wave<br>
+To thee those arms and poison’d weapon gave?”
 
-His heart is brave, then in his valour trust!
+“Three weary years,” Delphino said, “have past<br>
+“Since, in your court, I saw Lymnoria last,<br>
+The stranger damsel veil’d her face with care,<br>
+But seem’d Lymnoria in her form and air.”
 
-Just is his cause, and heaven protects the just!"
+“Seek her! be swift!” the indignant monarch said,<br>
+Who not till then had miss’d the once lov’d maid.<br>
+Meanwhile a nymph, who breathless long had hung<br>
+On every accent of Delphino’s tongue,<br>
+When now she found his honour freed from stain,<br>
+Love’s fervent impulse could no more restrain,<br>
+She ran, — and, clasp’d with transport to his breast,<br>
+Her tears of joy bedew’d his silken vest.<br>
+Three years in sable weeds she mourn’d the knight,<br>
+And the same robes of pure and spotless white<br>
+Her queen that welcomed, greet the youth restor’d,<br>
+And grace her own, and sovereign’s bridal board.
 
-Impatient Henry mourns the impending fray,
-Griev'd such a charge should thus their course delay,
-While Alfred snatch'd the gauntlet from the ground,
-And rode in haste the listed circle round,
-Come on,he cried; ’tis false! my sword shall shame
-Thy recreant heart, and vindicate my fame."
-
-The signal given, they ran, but stood the stroke,
-And in their hands the faithless lances broke;
-They seize their swords, but ward the blows so well,
-That guiltless yet is either gleaming steel;
-At length the Dolphin knight directs a blow
-Which pierc'd the steed, but miss'd his wary foe:
-It fell, though slight the wound! — The warrior stands
-Recover'd, and on foot the fight demands.
-While struggling on the ground, the horse betray'd
-The fatal poison of the envenom'd blade;
-The knights alone pursu'd the fight, nor heed
-The clamorous circle, or expiring steed.
-
-
-
-The conflict cease!exclaim'd the king; the fight
-
-Enough has clear'd the fame of Albion's knight;
-
-And on yon stain to knighthood's noble name
-
-Has fix'd the mark of infamy and shame,
-
-Just guerdon of the coward, who in strife
-
-** Assails with poison'd arms his foeman's life!"
-
-The Dolphin warrior in amazement stood,
-And now the steed, and now the falchion view'd;
-The crowd pour on, ungovern'd in their rage,
-And as a dog with pelting stones engage;
-He rais'd his burnish'd helm — a face appears
-By all remember'd, tho' unseen for years!
-Fresh wonder staid the throng, disgrace and shame
-Could never mingle with Delphino's name.
-Hear me, oh king! and by that honour gain'd
-
-In many a dangerous field, and yet unstain'd,
-My fame shall from this ordeal rise more bright,
-Or hence I fly self-banish'd from your sight!
-
-Thrice have the seasons chang'd, and thrice renew'd,
-u Since at your royal side in fight 1 stood;
-The Gnomes before us fled — their artful flight
-Too far I follow'd in the heat of fight.
-
-
-
-
-Thro' ways unknown escaped the dastard foe,
-
-I sunk into a pit that yawn'd below;
-
-By walls of firm basalt, secur'd and chain'd,
-
-For three long years in darkness I remaiu'd.
-
-A salamander heard rny moan; his aid
-
-Thro' the firm rock at length my passage made.
-
-This morn my native realm, and light of day,
-Again I view'd rejoicing; on my way
-I met a nymph: with many a streaming tear,
-Her lips the tale of wrongs and woe declare,
-And ask'd my aid. To day, she said, the king
-Graced with his bride the tourney's crowded ring.
-Her faithless knight alone, whose artful dame
-
-The court amus'd beneath a borrow'd name,
-Bound on a feign'd adventure, shunn'd the fray —
-My sword avenging must compel his stay,
-On this disloyal wretch her wrongs requite,
-And shame the dastard heart that fled the fight.
-She told his name and arms, and bade me speed;
-Unarm'd I stood; she gave these arms and steed,
-"- I staid not till I reach'd this fatal place,
-And thought to meet with honour, not disgrace."
-
-
-
-
-Disgrace/' the king exclaim'd, on her alone!
-Come to my arms, thou bulwark of my throne.
-O! lost so long, so long as dead deplor'd!
-And now, upon this happy day restor'd — 
-But say, what sister of the briny wave
-To thee those arms and poison'd weapon gave?"
-
-Three weary years,Delphino said, have past
-Siuce, in your court, I saw Lymnoria last,
-The stranger damsel veil'd her face with care,
-But seem'd Lymnoria in her form and air."
-
-Seek her! be swift!the indignant monarch said,
-Who not till then had miss'd the once lov'd maid.
-Meanwhile a nymph, who breathless long had hung
-On every accent of Delphino's tongue,
-When now she found his honour freed from stain,
-Love's fervent impulse could no more restrain,
-She ran, — and, clasp'd with transport to his breast,
-Her tears of joy bedew'd his silken vest.
-Three years in sable weeds she mourn' d the knight,
-And the same robes of pure and spotless white
-Her queen that welcomed, greet the youth restor'd,
-And grace her own, aud sovereign's bridal board.
-
-
-
-But now Lymnoria came! her guilt was known;
-Scornful she stood, nor would the crime disown.
-Great is our sorrow,said the king, to find
-That lovely form bely so foul a mind:
-Thy arts our gentle suppliants to delay,
-The rocks and monsters that oppos'd their way,
-This maid by fraud deluded to thy cave —
-Unnotic'd all, our clemency forgave;
-But this rash act, which menac'd with disgrace,
-Not one brave knight alone, but all our race;
-Which, had not heaven forbade the hateful deed,
-And sav'd brave Alfred by his dying steed,
-Had lost a champion to his country dear,
-And drawn from beauty's eyes the bitter tear, —
-This wakes our sleeping wrath, our mercy shown
+But now Lymnoria came! her guilt was known;<br>
+Scornful she stood, nor would the crime disown.<br>
+“Great is our sorrow,” said the king, “to find<br>
+That lovely form bely so foul a mind:<br>
+Thy arts our gentle suppliants to delay,<br>
+The rocks and monsters that oppos’d their way,<br>
+This maid by fraud deluded to thy cave —<br>
+Unnotic’d all, our clemency forgave;<br>
+But this rash act, which menac’d with disgrace,<br>
+Not one brave knight alone, but all our race;<br>
+Which, had not heaven forbade the hateful deed,<br>
+And sav’d brave Alfred by his dying steed,<br>
+Had lost a champion to his country dear,<br>
+And drawn from beauty’s eyes the bitter tear, —<br>
+This wakes our sleeping wrath, our mercy shown<br>
 Rebukes, and calls our deepest vengeance down.
 
-While countless years their course unvaried roll
-In those drear seas that bathe the Antarctic pole,
-On sheets of ice where powerless sunbeams play,
-And fogs eternal mock the frustrate ray;
-Where man has never yet presum'd, nor dare
-The spirits of the deep to venture there:
-
-
-
-That is thy home! in fro/en solitude,
-
-There cleanse thy heart in deepest guilt embued."
+“While countless years their course unvaried roll<br>
+In those drear seas that bathe the Antarctic pole,<br>
+On sheets of ice where powerless sunbeams play,<br>
+And fogs eternal mock the frustrate ray;<br>
+Where man has never yet presum’d, nor dare<br>
+The spirits of the deep to venture there:<br>
+That is thy home! in frozen solitude,<br>
+There cleanse thy heart in deepest guilt embued.”
 
 With tears and prayers, and every suppliant art,
 The nymph too late assails Marino's heart;
