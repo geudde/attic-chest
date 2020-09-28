@@ -4689,103 +4689,37 @@ At length he heard, as on the shore he stray’d,<br>
 Some peasants talking of a stranger maid,<br>
 While every face surprize and fear betray’d.
 
+“Alone, at midnight’s silent hour, she came,<br>
+The shelter of my humble roof to claim,<br>
+No guardian veil conceal’d her lovely face<br>
+From evening blasts, or man’s intrusive gaze.<br>
+At morn she left me; Ubald for her guide;<br>
+Eager she climb’d the mountain’s rugged side:<br>
+And when she reach’d yon gulf of liquid fire,<br>
+In haste she bade the wondering youth retire.<br>
+He went: yet linger’d nigh, and thought to hear<br>
+His swift recall. At length he ventur’d near,<br>
+But not a vestige of the nymph was there;<br>
+Nor know we how she vanish’d, when, or where.<br>
+Her garb proclaim’d her from a foreign land,<br>
+Yet has no vessel touch’d this sable strand:<br>
+So bright her charms, her form so light and fair,<br>
+But for her eyes of jet, and sable hair,<br>
+I else had deem’d that Fay, whose magic pow’r<br>
+Paints on the distant waves our mimic shore,<br>
+Had left her rainbow dome and airy bower.”[^122]
 
+[^122]: The Fata, or Fairy, Morgana, supposed by the inhabitants to be the cause of a singular and beautiful phenomenon sometimes seen in the Faro of Messina. It occurs at the time when the sun surmounts the eastern hills behind Reggio, and rises high enough to form an angle of forty-five degrees on the water before the city, which at these times is smooth and glassy. The spectator standing with his back to the sun, on a sudden beholds in the water numberless series of pilasters, arches, castles, towers, magnificent palaces, groves of trees, plains covered with herds and flocks, armies of men, on foot and on horseback, &amp;c. &amp;c. in their natural colours, passing rapidly in succession along the surface of the sea.
 
-Alone, at midnight's silent hour, she came,
+Sometimes, if the air be slightly hazy, these objects are surrounded with prismatic fringes; and sometimes, when the atmosphere is highly impregnated with vapour, the objects observed on the water are repeated, though more faintly, at a considerable height in the air.
 
-The shelter of my humble roof to claim,
+These images appear to be merely the multiplied reflexions of objects on shore. They probably, like the rainbow, owe their origin to the adverse sun, aided by very peculiar circumstances in the atmosphere; and like it, are precisely the same to no two spectators. A curious appearance is sometimes observable on Alpine heights. A company of adventurers ascending the brow of a mountain, with their backs to the rising sun, each person perceives, on a frozen cloud before him, his own shadow, but not that of any of his companions; its head crowned with a glory, and surrounded by various concentric rainbows. During the dense fogs which obumbrated London in January, 1814, many persons walking in the streets, and unable to distinguish their neighbours, were thus surprised by the company of their own shadows which started up at their sides as they past the lamps. All these phenomena appear to have a similar origin, but they are not sufficiently frequent for much investigation.
 
-No guardian veil conceal'd her lovely face
-
-From evening blasts, or man's intrusive gaze.
-
-At morn she left me; Ubald for her guide;
-
-Eager she climb'd the mountain's rugged side:
-
-And when she reach'd yon gulf of liquid fire,
-
-In haste she bade the wondering youth retire.
-
-He went: yet linger'd nigh, and thought to hear
-
-His swift recall. At length he ventur'd near,
-
-Ci But not a vestige of the nymph was there;
-
-'' Nor know we how she vanish'd, when, or where.
-
-Her garb proclaim'd her from a foreign land,
-
-Yet has no vessel touch'd this sable strand:
-
-So bright her charms, her form so light and fair,
-
-'•' But for her eyes of jet, and sable hair,
-
-
-
-STROM BOLL
-
-
-
-I else had deem'd that Fay, whose magic pow'r
-Paints on the distant waves our mimic shore,
-
-0)
-
-
-
-}
-
-Had left her rainbow dome and airy bower."* 430 )
-
-
-
-Nay, rather deem her some deluded nun,"
-Another said, who seeks her vows to shun;
-
-
-
-*The Fata, or Fairy, Morgana, supposed by the inhabitants to be the cause
-of a singular and beautiful phenomenon sometimes seen in the Faro of Mes-
-sina. It occurs at the time when the sun surmounts the eastern hills behind
-Reggio, and rises high enough to form an angle of forty-five degrees on the
-water before the city, which at these times is smooth and glassy. The spec-
-tator standing with his back to the sun, on a sudden beholds in the water
-numberless series of pilasters, arches, castles, towers, magnificent palaces,
-groves of trees, plains covered with herds and flocks, armies of men, on foot
-and on horseback, &amp;c. &amp;c. in their natural colours, passing rapidly in suc-
-cession along the surface of the sea.
-
-Sometimes, if the air be slightly hazy, these objects are surrounded with
-prismatic fringes; and sometimes, when the atmosphere is highly impregna-
-ted with vapour, the objects observed on the water are repeated, though more
-faintly, at a considerable height in the air.
-
-These images appear to be merely the multiplied reflexions of objects on
-shore. They probably, like the rainbow, owe their origin to the adverse sun,
-aided by very peculiar circumstances in the atmosphere; and like it, are pre-
-cisely the same to no two spectators. A curious appearance is sometimes
-observable on Alpine heights. A company of adventurers ascending the
-brow of a mountain, with their backs to the rising sun, each person perceives,
-on a frozen cloud before him, his own shadow, but not that of any of his com-
-panions; its head crowned with a glory, and surrounded by various concen-
-tric rainbows. During the dense fogs which obumbrated London in January,
-1814, many persons walking in the streets, and unable to distinguish their
-neighbours, were thus surprised by the company of their own shadows
-which started up at their sides as they past the lamps. All these phenome-
-na appear to have a similar origin, but they are not sufficiently frequent for
-much investigation.
-
-
-
-
-Heaven's vengeance has destroy’d the guilty fair, ^
-
-And let our voices rise in earnest prayer, ^
-
-Lest we the horrors of her doom should share.J
+“Nay, rather deem her some deluded nun,”<br>
+Another said, “who seeks her vows to shun;<br>
+Heaven’s vengeance has destroy’d the guilty fair,<br>
+And let our voices rise in earnest prayer,<br>
+Lest we the horrors of her doom should share.”
 
 No!said a youth, be prayers and praises given
 
