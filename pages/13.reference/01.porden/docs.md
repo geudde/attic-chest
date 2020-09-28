@@ -3744,88 +3744,73 @@ And makes the business of the morning known.
 “My friends,” he said, “in toil and danger prov’d,<br>
 Still faithful found, respected and belov’d,<br>
 Time urges on; attend your king’s request,<br>
-And by your actions be your zeal exprest.
+And by your actions be your zeal exprest.<br>
+When next the morning sun illumes the tide,<br>
+Here will the spell conduct our destin’d bride.<br>
+Great were the shame, if we, in war’s alarms,<br>
+Forgot the homage due to beauty’s charms;<br>
+Then be our court in all its pomp array’d,<br>
+Let tilts and tourneys greet the chosen maid;<br>
+Such splendour in your arms and dress be seen,<br>
+As fits the welcome of your future queen;<br>
+And let our nymphs with care and homage sweet,<br>
+The lovely wanderer as a sister greet,<br>
+By every kind attention smooth the change<br>
+To realms unknown, and modes and manners strange.<br>
+Nor unattended must the damsel come<br>
+To this subaqueous clime, her future home;<br>
+Let Cuma, and Lymnocharis the fair,<br>
+With speed to Albion’s chalky strand repair,<br>
+There Potamos, Plemura, Clydon wait,<br>
+To guide her passage to her subject state.”
 
-When next the morning sun illumes the tide,
-Here will the spell conduct our destin'd bride.
-Great were the shame, if we, in war's alarms,
-Forgot the homage due to beauty's charms;
-Then be our court in all its pomp array 'd,
-Let tilts and tourneys greet the chosen maid;
-Such splendour in your arms and dress be seen,
-As fits the welcome of your future queen;
-And let our nymphs with care and homage sweet,
-The lovely wanderer as a sister greet,
-By every kind attention smooth the change
-
-To realms unknown, and modes and manners strange.
-Nor unattended must the damsel come
-To this subaqueous clime, her future home;
-Let Cuma, and Lymnocharis the fair,
-With speed to Albion's chalky strand repair,
-There Potamos, Plemura, Clydon wait,
-To guide her passage to her subject state."
-
-
-
-
-He ceas'd; yet still the parting chiefs delay'd,
-For still in musing mood Marino staid;
-Perchance fond fancy trac'd the form and mien, ,5C
-
-And all the beauties of his bride unseen.
-When lo! two damsels to the presence came.
-Whose graceful forms might colder hearts inflame:
-The one a veil's depending folds conceal'd,
-The other shone in all her charms reveal'd,
-And all unbound her flowing locks appear,
+He ceas’d; yet still the parting chiefs delay’d,<br>
+For still in musing mood Marino staid;<br>
+Perchance fond fancy trac’d the form and mien,<br>
+And all the beauties of his bride unseen.<br>
+When lo! two damsels to the presence came.<br>
+Whose graceful forms might colder hearts inflame:<br>
+The one a veil’s depending folds conceal’d,<br>
+The other shone in all her charms reveal’d,<br>
+And all unbound her flowing locks appear,<br>
 Those golden locks that every heart ensnare.
 
-Amaz'd, the enraptur'd king her charms survey 'd,
-And hop'd before him stood the appointed maid,
-For well her roseate bloom betray'd her birth,
-
-No ocean nymph, the lovely child of earth.
-Meanwhile, Miranda view'd his gentle eye,
-And gracious smile, with mingled hope and joy;
-Yet paus'd the bashful maid, and fear'd to find
+Amaz’d, the enraptur’d king her charms survey’d,<br>
+And hop’d before him stood the appointed maid,<br>
+For well her roseate bloom betray’d her birth,<br>
+No ocean nymph, the lovely child of earth.<br>
+Meanwhile, Miranda view’d his gentle eye,<br>
+And gracious smile, with mingled hope and joy;<br>
+Yet paus’d the bashful maid, and fear’d to find<br>
 Those gentle looks bely a sterner mind.
 
-Blest be the events unknown,exclaim'd the king,
-That to these realms so fair a stranger bring!
-"•' If ours to grant, we grant thy boon unheard.
-Or as a favour be thy suit declar'd,
+“Blest be the events unknown,” exclaim’d the king,<br>
+“That to these realms so fair a stranger bring!<br>
+If ours to grant, we grant thy boon unheard.<br>
+Or as a favour be thy suit declar’d,<br>
+=If wealth can aid, our treasur’d stores command,<br>
+If arms, ourself, and all our subject band!”
 
-
-
-
-If wealth can aid, our treasur'd stores command,
-If arms, ourself, and all our subject band!"
-
-Before his throne she fell; the monarch tried
-In vain to raise her, while she thus replied:
-Thanks, generous king! but till thine answer seals
-My future fortune, here thy suppliant kneels;
-Nor arms, nor wealth can aid; for tho' unknown,
-The boon I crave depends on thee alone.
-Soon will the charm's resistless force compel
-A weeping victim to thy regal cell,
-Unless thy soul relenting, shall resign .530
-
-The Veil that joins Miranda's fate with thine;
-Vain were thy love, thy splendour, to impart
-One throb of pleasure to her bleeding heart,
-For tho' thy graces might her favour claim,
-The heart once pledged, admits no second flame;
-O'er her young mind a valiant warrior reigns,
-Whom captive here a cruel nymph detains,
-His freedom grant — let my entreaties move,
-And wed a nymph who gives thee all her love;
-Before thee now she waits, in hope and fear —
-Oh! crown those hopes, and grant my earnest prayer!"
-
-
-
+Before his throne she fell; the monarch tried<br>
+In vain to raise her, while she thus replied:<br>
+“Thanks, generous king! but till thine answer seals<br>
+My future fortune, here thy suppliant kneels;<br>
+Nor arms, nor wealth can aid; for tho’ unknown,<br>
+The boon I crave depends on thee alone.<br>
+Soon will the charm’s resistless force compel<br>
+A weeping victim to thy regal cell,<br>
+Unless thy soul relenting, shall resign<br>
+The Veil that joins Miranda’s fate with thine;<br>
+Vain were thy love, thy splendour, to impart<br>
+One throb of pleasure to her bleeding heart,<br>
+For tho’ thy graces might her favour claim,<br>
+The heart once pledged, admits no second flame;<br>
+O’er her young mind a valiant warrior reigns,<br>
+Whom captive here a cruel nymph detains,<br>
+His freedom grant — let my entreaties move,<br>
+And wed a nymph who gives thee all her love;<br>
+Before thee now she waits, in hope and fear —<br>
+Oh! crown those hopes, and grant my earnest prayer!”
 
 Miranda ceas'd — delighted and amaz'd,
 The amorous monarch on his suppliant gaz'd;
