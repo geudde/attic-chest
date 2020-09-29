@@ -5993,7 +5993,7 @@ In the poem the new planets are made use of, but not on the system of Dr. Ollber
 He spoke. No words their gratitude express’d,<br>
 But Ariel read it in each joyful breast.
 
-### End of the Poem
+<div class="center"><p>End of the Poem</p></div>
 
 ---
 
