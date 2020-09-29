@@ -6090,10 +6090,10 @@ But Ariel read it in each joyful breast.
 
 * ALEINOS — *Hot*
 * ANTHRAX — *Lighted coal*
-* ANTHRACHIS — &emsp; 〃
+* ANTHRACHIS — &emsp;〃
 * CAUSIMOS — *Apt for burning*
 * CHLIAROTES — *Warmth*
-* CHLIAROS — &emsp; 〃
+* CHLIAROS — &emsp;〃
 * EMPREESMOS — *Aflame or fire, a burning*
 * EMPYROS — *Fiery, that which contains fire*
 * IGNICOMUS — *Fiery hair*
@@ -6102,7 +6102,7 @@ But Ariel read it in each joyful breast.
 * MARMARYGOS — *Brightness*
 * MIOANTE — *Glittering*
 * PERUSTOS — *Perustus*, Lat. *burnt up, or scorched*
-* PERICAUTHEIS — &emsp; 〃
+* PERICAUTHEIS — &emsp;〃
 * PHLEGON — *Burning* — the name of one of the horses of Apollo
 * PHLOGOS — *Flame*
 * PYRENEMOS — *Wind of fire*
@@ -6113,11 +6113,11 @@ But Ariel read it in each joyful breast.
 * PYRODES — *Fiery, burning hot*
 * PYRIDES — *Son of Pyros*
 * SCINTILLUS — *Spark*
-* SPINTHERA — &emsp; 〃
-* SPINTHEROS — &emsp; 〃
+* SPINTHERA — &emsp;〃
+* SPINTHEROS — &emsp;〃
 * SPODOS — *Ashes*
 * THERMOTES — *Heat*
-* THERMOS — &emsp; 〃
+* THERMOS — &emsp;〃
 * THERMANTICOS — *Having the power of making warm*
 * THERMASION — *Thermesia — warmth, heat*
 
@@ -6127,11 +6127,11 @@ But Ariel read it in each joyful breast.
 
 * CLYDON — *Tide*
 * CUMA — *Wave*
-* CUMOS — &emsp; 〃
+* CUMOS — &emsp;〃
 * DELPHINO — *Dolphin*
 * LYMNORIA — *From λυμνoς, a lake*
 * LYMXOCHARIS
 * MARGUERITA — *Pearl*
 * POTAMOS — *River*
 * PLEMMYRA — *Flowing*
-* PLEMURA — &emsp; 〃
+* PLEMURA — &emsp;〃
