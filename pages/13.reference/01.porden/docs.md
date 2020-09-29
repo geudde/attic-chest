@@ -5438,946 +5438,577 @@ From upper light to keep the hapless maid,<br>
 And hold her, when expir’d the fatal day,<br>
 Within his power an unresisting prey.
 
-Maria, weeping, with her friend withdrew,
-Nor found the prospect brighten on her view;
-Fate seemed to draw a darker circle round,
-Her Henry lost, herself more firmly bound —
-While Amiantha vainly strives to cheer
-Her drooping heart, and dry the frequent tear;
-Yet ever as the injur’d maid inclin’d
-In harsher hues to paint Albruno’s mind,
-She on the portrait milder colouring laid,
+Maria, weeping, with her friend withdrew,<br>
+Nor found the prospect brighten on her view;<br>
+Fate seemed to draw a darker circle round,<br>
+Her Henry lost, herself more firmly bound —<br>
+While Amiantha vainly strives to cheer<br>
+Her drooping heart, and dry the frequent tear;<br>
+Yet ever as the injur’d maid inclin’d<br>
+In harsher hues to paint Albruno’s mind,<br>
+She on the portrait milder colouring laid,<br>
 And gave it brighter tints and softer shade.
 
-Where Albion lifts her chalky cliffs on high,
-The first faint crimson streak'd the eastern sky,
-When thro' the nether realms the sounding gong
+Where Albion lifts her chalky cliffs on high,<br>
+The first faint crimson streak’d the eastern sky,<br>
+When thro’ the nether realms the sounding gong<br>
+Call’d to the lists Albruno’s vassal throng.<br>
+A brilliant ring! yet many a blooming maid,<br>
+And aged matron, mourning robes array’d,<br>
+And oft the anxious eye look’d round in vain<br>
+For warriors sleeping on the battle plain.<br>
+Her hands to heaven uprais’d, in earnest prayer<br>
+Maria sate, and seem’d a statue fair;<br>
+Or, by her wreath of flowers and suppliant eyes,<br>
+Some victim drest for ancient sacrifice.<br>
+The hour-glass told the fatal moment near,<br>
+Its last sands ran, yet was not Henry there.<br>
+“Ah!” thought Maria, “whither dost thou rove,<br>
+While instant danger threats thy distant love,<br>
+While I the moments count in torturing fear,<br>
+The day may pass, nor thou the summons hear;<br>
+To reach the spot thy distance may deny,<br>
+Or if thou com’st, thou only com’st to die;<br>
+u Ariel might aid me now, but thron’d in air,<br>
+He sits sublime, nor heeds a wretch’s prayer.”
 
-Call'd to the lists Albruno's vassal throng.
-A brilliant ring! yet many a blooming maid,
-And aged matron, mourning robes array'd,
-And oft the anxious eye look'd round in vain
-For warriors sleeping on the battle plain.
-Her hands to heaven uprais'd, in earnest prayer
-Maria sate, and seem'd a statue fair;
-Or, by her wreath of flowers and suppliant eyes,
-Some victim drest for ancient sacrifice.
-The hour-glass told the fatal moment near,
+Prepared for fight, now proud Albruno came,<br>
+His diamond shield and ruby armour flame:<br>
+With him Kassiteros, in white array’d,<br>
+His stately step vain confidence betray’d;<br>
+Chrysos was last, and seem’d to loath the cause<br>
+That from its sheath his golden falchion draws.<br>
+The martial trio past the barriers bright,<br>
+Where lamps depend in many an arch of light,<br>
+And thus the herald’s voice announc’d the fight:<br>
+“Our lord, Albruno, of a race divine,<br>
+Chief of the Gnomes, and Monarch of the Mine,<br>
+Whom earth thro’ all her realms obeys, and pours,<br>
+At his command, her never-failing stores,<br>
+Maria’s suitor, cloth’d in temper’d mail,<br>
+Now seeks her hand, affianc’d by the Veil,<br>
+And comes prepared, before the beauteous dame,<br>
+To fight with all who dare dispute his claim,<br>
+With him Kassiteros and Chrysos stand,<br>
+To prove his title to the maiden’s hand;<br>
+If any doubt his right, or dare deny,<br>
+Now let them come, and here his arm defy;<br>
+Before the maiden be their quarrel tried,<br>
+*Who wins the battle, wins the Veil and Bride,”*
 
-Its last sands ran, yet was not Henry there.
-Ah!thought Maria, whither dost thou rove,
-While instant danger threats thy distant love,
-While I the moments count in torturing fear,
-The day may pass, nor thou the summons hear;
-To reach the spot thy distance may deny,
-Or if thou com'st, thou only com'st to die;
-u Ariel might aid me now, but thron'd in air,
-He sits sublime, nor heeds a wretch's prayer."
-s
-
-
-
-
-Prepared for fight, now proud Albruno came,
-
-His diamond shield and ruby armour flame:
-With him Kassiteros, in white array'd,
-His stately step vain confidence betray'd;
-Chrysos was last, and seem'd to loath the cause
-That from its sheath his golden falchion draws.
-The martial trio past the barriers bright, J
-
-Where lamps depend in many an arch of light, &gt;
-
-And thus the herald's voice announc'd the fight:
-Our lord, Albruno, of a race divine,
-Chief of the Gnomes, and Monarch of the Mine,
-Whom earth thro' all her realms obeys, and pours,
-"At his command, her never-failing stores,
-Maria's suitor, cloth'd in temper'd mail,
-Now seeks her hand, affianc'd by the Veil,
-And comes prepared, before the beauteous dame,
-To fight with all who dare dispute his claim,
-With him Kassiteros and Chrysos stand,
-To prove his title to the maiden's hand;
-If any doubt his right, or dare deny,
-Now let them come, and here his arm defy;
-
-Before the maiden be their quarrel tried,
-Who wins the battle, wins the Veil and
-Bride,"
-
-
-
-
-Twice was the summons given, no answer came,
-.And a chill faintness seiz'd the maiden's frame;
-Again in louder tone the herald cried,
-Prepare — we come!a hollow voice replied.
-Yet vainly search'd the anxious eye around,
-No warrior entering, answered to the sound,
-But like the troubled waters of the main,
-The heaving earth now rose, now sunk again,
-
-Now yawn'd a cavern, whence with hissing noise,
-Sulphureous steams and azure flames arise,
-Upsprung three knights — thus Cadmus saw the field,
-His labour plough'd, an armed harvest yield.*
-First Henry came, and on Maria threw
-A cheerful glance, that wak'd her hopes anew,
-And as the throng stand speechless with surprize,
-To instant fight the astonish'd king defies.
-While Alfred and Alonzo, gallant pair!
+Twice was the summons given, no answer came,<br>
+And a chill faintness seiz’d the maiden’s frame;<br>
+Again in louder tone the herald cried,<br>
+“Prepare — we come!” a hollow voice replied.<br>
+Yet vainly search’d the anxious eye around,<br>
+No warrior entering, answered to the sound,<br>
+But like the troubled waters of the main,<br>
+The heaving earth now rose, now sunk again,<br>
+Now yawn’d a cavern, whence with hissing noise,<br>
+Sulphureous steams and azure flames arise,<br>
+Upsprung three knights — thus Cadmus saw the field,<br>
+His labour plough’d, an armed harvest yield.[^144]<br>
+First Henry came, and on Maria threw<br>
+A cheerful glance, that wak’d her hopes anew,<br>
+And as the throng stand speechless with surprize,<br>
+To instant fight the astonish’d king defies.<br>
+While Alfred and Alonzo, gallant pair!<br>
 Firm on the closing ground the conflict dare.
 
-All pause in wonder, but the most amaz'd,
-Albruno stood, and mutter'd as he gaz'd.
-
-* Crescitque seges clypeata virorum. — Ovid. Metam. Lib. Ill,
-s
-
-
-
-
-How comes he here?— by whom releas'd? — and how? —
-
-His treacherous guards — but ’tis no matter now,
-
-Success is sure, and when I end the fight,
-
-No common pangs their treason shall requite."
-
-He turn'd — Rash youth, and dost thou madly run
-
-To brave that arm which prudence bids thee shun?"
-
-Aloud he cried — then on, proud mortal, come,
-
-And from Albruno's sword receive thy doom,
-
-That fatal doom all rash intruders prove,
-
-Who vie with me in combat or in love."
-
-No answer Henry deign'd — the trumpets blew,
-And from their hands their beamy lances flew;
-Guiltless they fell — in nearer fight oppos'd
-They met — and now with Alfred Chrysos clos'd,
-While mindful of his recent fall, with fear
-Kassiteros beheld Alonzo near,
-And fled — but as he ran the barriers round,
-The spear, pursuing, pinn'd him to the ground.
-
-He fell unpity'd, not a warrior there,
-Or maid or matron, grae'd him with a tear:
-But anger glow'd on many a veteran's face,
-Griev'd for the wounded honour of their race;
-
-
-
-
-And inly blamed their monarch's tardy blade,
-
-And marvell'd at his vengeance thus delay'd.
-
-Fierce was the fight; by love and hate inspir'd,
-
-Warm'd by her presence whom they both desir'd;
-
-Swift rush'd the tide of life thro' every vein,
-
-They turn, they bend, and every sinew strain;
-
-Their shiver'd spears bestrew'd the glittering sand,
-
-Their threat'ning falchions beam'd in either hand;
-
-Albruno's sword, the toil of many a year,
-
-Hewn from the axis of this mundane sphere,
-
-That adamantine prism, whose branches shoot
-
-In all directions from their parent root,
-
-And when he bids its smallest fibre shake,
-
-The city falls, the solid mountains quake;*
-
-Keen was its edge, embued in many a charm,
-
-A weapon worthy of Albruno's arm.
-
-By Ariel's hand was Henry's sword bestow'd,
-
-The wondrous blade with fiery lustre glow'd;
-
-
-
-* The Oriental nations believe that the centre, or axis of the earth, is an
-immense stone, which they call Saxhrat. All the mountains of the earth
-(among them the celebrated Caucasus) are ramifications of this stone, and
-it has others within the surface. When God is displeased with any city or
-nation, he commands this stone to give motion to one of its fibres, and an
-earthquake instantly takes place.
-
-
-
-
-Form'd of concentred lightning, at its stroke
-The harden'd steel divides, and knotted oak,
-Yet now in vain repeated blows assail,
-A stronger charm secured Albruno's mail,*"
-Each with unwearied strength attacks his foe,
-Each stroke eludes, and blow returns for blow;
-Fast from their batter'd mail the flashes fly,
-The echoing caverns to the strokes reply.
-Yet neither yields — and Chrysos unsubdued,
-In dubious contest still with Alfred stood;
-Now on the champion's head his sword descends,
-The temper'd helm his threat'ned life defends,
-Yet glancing down, the falchion pierc'd his side,
-His burnish'd arms the crimson torrent dy'd:
-Sunk on his knee, and senseless from the blow,
-He seem'd an easy victim to his foe,
-But brave Alonzo came, his massy shield
-Received the stroke at Alfred's breast impell'd;
-With vigour unimpair'd he wag'd the fight,
-And with redoubled blows assails the Sprite.
-
-
-
-* All the gems are perfect non-conductors, and hence impervious to the
-electrical sword of Henry.
-
-
-
-
-Meanwhile recovered, gallant Alfred sought
-The spot where Henry and Albruno fought,
-A mighty blow the king at Henry sped,
-Palsied his arm, his hand resign'd the blade,
-But Alfred's ready sword the loss supplied,
-Again the knight the angry Gnome defied:
-Thus foil'd, whea victory seem'd secure, and cries
-Of joy and triumph fill'd the nether skies,
-Furious he turn'd, and shuun'd the former strife,
-To glut his vengeful soul with Alfred's life.
-Broke was the hero's spear- — his faithful brand,
-His only weapon, shone in Henry's hand;
-Yet on his breast he held his massy shield,
-And slow retreated o'er the ensanguin'd field;
-He came where, writhing with a mortal wound,
-Kassiteros lay struggling on the ground;
-Tho' lingering still, the spear forbade to rise,
-And on the fight he turn'd his dying eyes,
-Strain'd every nerve, and seiz'd with either hand
-Brave Alfred's foot, and stretch'd him on the sand.
-His crafty spirit at the effort fled —
-Beneath the monarch's arm the champion laid,
-His sword was lifted for the stroke of fate,
-When Henry's falchion fell with deadly weight;
-
-
-
-
-His broken mail his wounded shoulder shew'd,
-
-But from die wound no crimson torrent flow'd.
-
-Turn, if thou dar'st,cried Henry, coward Sprite!
-
-Or dar'st thou but with foes unarm'd the fight?550
-
-Stung with the taunt, Albruno turn'd — his foe
-
-Shunn'd with an agile bound the impending blow;
-
-With strength unwearied, and increasing. rage,
-
-In closer fight the valiant pair engage,
-
-Now this, now that, retiring seems to yield;
-
-Maria, trembling, eyed the doubtful field:
-
-Thrice Henry's falchion pierc'd the monarch's side,
-
-Albruno's twice in Henry's blood was dy'd;
-
-In silent agony the Gnomes survey'd
-
-The blow now hanging o'er their monarch's head,
-
-And had his own good weapon arm'd the knight,
-
-No more were needful to decide the fight.
-
-The monarch bent beneath the mighty stroke;
-
-In Henry's hand the faithless weapon broke;
-
-Who, swift as eagles seize their prey, threw down .
-
-The borrow'd falchion, and regain'd his own.
-
-Prepar'd to meet the monarch's arm he stood,
-
-Again they clos'd, again their fight renew'd.
-
-
-
-
-Chrysos meanwhile still braved his angry foe,
-And parries oft, but seldom aims a blow,
-
-Still as he fought, increasing strength he gains,
-The exhausted Spaniard scarce the fight sustains.
-When now, where Albion shines amid the main,
-The last faint sunbeam ting'd the watry plain,
-By turns Maria watch'd the doubtful fight,
-Or on the hour-glass fix'd her aching sight,
-And saw, as flow'd the shallow sands away,
-The jaws of ruin opening on their prey.
-Now proud Albruno, mad that mortal knight
-So long with him sustained a doubtful light,
-
-Infuriate spoke: Too long thy arts evade
-The fate impending on thy guilty head!
-What spells secure thy mail? what powerful charm
-Eludes the vengeance of Albruno's arm?
-No mortal strength, unaided, could withstand
-The deadly weight of this immortal hand!
-Yet now receive thy due,— and as he spoke,
-Full at his head he aim'd the dreadful stroke,
-The wary youth the threat'ning blow repell'd,
-Which spent its fury on his lifted shield;
-
-From his stunn'd arm the orb divided flew —
-Maria, trembling, sicken'd at the view,
-
-
-
-
-Sad on her ear the shouts of triumph fell,
-
-As to the orphan sounds her parent's knell,
-
-She saw her last faint hopes of conquest fail,
-
-Her love defenceless, lost the fatal Veil,
-
-While Amiantha's sympathizing heart
-
-Her sorrows wept, and bore herself a part;
-
-Then first did maiden wish, in battle field,
-
-To see her love before his rival yield.
-
-Meanwhile the dauntless youth collects his might,
-
-By one decisive blow to end the fight,
-
-To win or die; and while the king addrest ~\
-
-A mortal stroke at his defenceless breast, V
-
-He lurn'd the sword aside, and onward prest; J
-
-Then where thick plates of well-wrought brass unite
-
-His ruby arms and sapphire cuirass bright,
-
-He pierc'd Albruno's chest — no more avail
-
-His vaunted valour, or impassive mail,
-
-Swift to his heart the burning blade was thrust,
-
-The haughty monarch sunk upon the dust;
-
-For tho' immortal, yet of sense bereft,
-
-His heart forgot to beat, his cheek the colour left.
-
-Griev'd at the sad reverse, the astonish'd throng
-
-In silence stood, when struck the mighty gong:
-
-
-
-
-That solemn sound, which on Maria's ear,
-
-That morning fell, in anguish and despair,
-
-Which seem'd the knell of happiness to toll,
-
-Slave to a haughty tyrant's Ioath'd controul,
-
-Now told the setting sun, the finish'd fight,
-
-The Veil redeem'd, and safe her victor knight.
-
-With such sweet force the tide of rapture came,
-
-Its sudden weight o'erwhelm'd her weary frame;
-
-She sunk; but pleasure soon her eye relumed,
-
-And her wan face a livelier hue assumed.
-
-Albruno too revived — the languid tide
-
-Again more briskly swell'd his veins, and dyed
-
-His sallow cheek, but as he slowly rose,
-
-A sullen shame his gloomy looks disclose.
-
-Come! '; to the champions and the maid he cries,
-
-With stifled anger, take the Veil, your prize!
-
-Retire, ye Gnomes 5 no sprite of Gnomian race
-
-Shall view his monarch in this dire disgrace! "
-
-They reach'd the fatal spot; the chains that bound
-The crystal vase and emerald tripod round,
-The gloomy monarch seiz'd — and as he broke,
-Deep thunders roil'd, and all the fabric shook;
-
-
-
-
-Earth felt the shock in her remotest cave,
-
-Thro' air, thro' fire, and thro' the sapphire wave
-
-Each structure trembled; high the billows rear'd
-
-Their foaming crests, the bold Hydidae feared.
-
-The yawning ground admits the unusual day,
-
-And new volcanos burst their furious way,
-
-The gathering clouds deform the azure heaven,
-
-The mountains fall, by frequent lightning riven,
-
-Their prayers and tears affrighted mortals pour'd,
-
-And anxious Ariel knew the Veil kestor'd!
-
-He blest the sign, and from his throne on high,
-
-Shot like a falling meteor thro' the sky.
-
-The king meanwhile, with sad yet haughty look,
-To Henry gave the fatal Veil, and spoke:
-Fate crowns thy arms, proud mortal; I resign
-The precious pledge that makes perfection thine;
-Fool that I was, to risk the chance of arms,
-My dear bought right, and those unequall'd charms!
-Hence, daring warrior, to thy native land —
-There boast the triumphs of a mortal hand,
-By thee subdu'd, a chief the lord of flame,
-And ocean's king have vainly fought to tame!
-
-
-
-
-For thee! sweet maid, no language can impart
-
-The agony that rends Aibruno's heart.
-
-Oh! that my will, reversing nature's plan,
-
-My life could shorten to a mortal span,
-
-To him resign my wealth, my pomp, my power,
-
-So thy bright smile might gild the transient hour!
-
-Mayst thou be blest! yet hence thy joy remove,
-
-Nor swell the tortures of despairing love."
-
-He ceas'd; impatient to restore the Veil,
-At fair Maria's feet her hero fell,
-
-Before the magic glass unconscious kneels —
-
-A wondrous truth the magic glass reveals!
-Dropp'd from his youthful limbs his radiant arms,
-A grace ethereal heigh ten'd all his charms;
-Dyed in the rainbow's hues, his wings unfold
-Tl 3ir forms pellucid, starr'd with living gold,
-His roseate mantle flutter'd in the wind,
-His locks of waving amber flow'd behind;
-In heavenly beauty shines the Sylph confest,
-And thus his lips the astonish'd maid addrest.
-
-Fear not, Maria! — Since by chance reveal'd
-The truth from thee which yet I wish'd conceaPd;
-
-
-
-
-A wondrous tale Aurelio shall declare,
-
-And why constrain'd a human form to bear.
-
-Not ours alone to float on painted wing,
-
-And drink the fragrant incense of the spring;
-
-Nor yet our sole employ to guide on high
-
-The radiant orbs that gem the evening sky,
-
-In vacant air the mimic suns to form,
-
-Ride the bright sun-beam, or the rapid storm.
-
-Our gentler ministry, with soft controul,
-
-In virtue's path directs the female soul;
-
-Unseen, we whisper in the ear of youth,
-
-The golden rules of honour, wisdom, truth —
-
-Thus softly steals at eve the dewy shower, \
-
-tl The sunburnt fields reveal its balmy power V
-
+[^144]: Crescitque seges clypeata virorum. — *Ovid. Metam. Lib. III*.
+
+All pause in wonder, but the most amaz’d,<br>
+Albruno stood, and mutter’d as he gaz’d.<br>
+How comes he here?— by whom releas’d? — and how? —<br>
+His treacherous guards — but ’tis no matter now,<br>
+Success is sure, and when I end the fight,<br>
+No common pangs their treason shall requite.”<br>
+He turn’d — “Rash youth, and dost thou madly run<br>
+To brave that arm which prudence bids thee shun?”<br>
+Aloud he cried — “then on, proud mortal, come,<br>
+And from Albruno’s sword receive thy doom,<br>
+That fatal doom all rash intruders prove,<br>
+Who vie with me in combat or in love.”
+
+No answer Henry deign’d — the trumpets blew,<br>
+And from their hands their beamy lances flew;<br>
+Guiltless they fell — in nearer fight oppos’d<br>
+They met — and now with Alfred Chrysos clos’d,<br>
+While mindful of his recent fall, with fear<br>
+Kassiteros beheld Alonzo near,<br>
+And fled — but as he ran the barriers round,<br>
+The spear, pursuing, pinn’d him to the ground.<br>
+He fell unpity’d, not a warrior there,<br>
+Or maid or matron, grac’d him with a tear:<br>
+But anger glow’d on many a veteran’s face,<br>
+Griev’d for the wounded honour of their race;<br>
+And inly blamed their monarch’s tardy blade,<br>
+And marvell’d at his vengeance thus delay’d.<br>
+Fierce was the fight; by love and hate inspir’d,<br>
+Warm’d by her presence whom they both desir’d;<br>
+Swift rush’d the tide of life thro’ every vein,<br>
+They turn, they bend, and every sinew strain;<br>
+Their shiver’d spears bestrew’d the glittering sand,<br>
+Their threat’ning falchions beam’d in either hand;<br>
+Albruno’s sword, the toil of many a year,<br>
+Hewn from the axis of this mundane sphere,<br>
+That adamantine prism, whose branches shoot<br>
+In all directions from their parent root,<br>
+And when he bids its smallest fibre shake,<br>
+The city falls, the solid mountains quake;[^145]<br>
+Keen was its edge, embued in many a charm,<br>
+A weapon worthy of Albruno’s arm.<br>
+By Ariel’s hand was Henry’s sword bestow’d,<br>
+The wondrous blade with fiery lustre glow’d;<br>
+Form’d of concentred lightning, at its stroke<br>
+The harden’d steel divides, and knotted oak,<br>
+Yet now in vain repeated blows assail,<br>
+A stronger charm secured Albruno’s mail,[^146]<br>
+Each with unwearied strength attacks his foe,<br>
+Each stroke eludes, and blow returns for blow;<br>
+Fast from their batter’d mail the flashes fly,<br>
+The echoing caverns to the strokes reply.<br>
+Yet neither yields — and Chrysos unsubdued,<br>
+In dubious contest still with Alfred stood;<br>
+Now on the champion’s head his sword descends,<br>
+The temper’d helm his threat’ned life defends,<br>
+Yet glancing down, the falchion pierc’d his side,<br>
+His burnish’d arms the crimson torrent dy’d:<br>
+Sunk on his knee, and senseless from the blow,<br>
+He seem’d an easy victim to his foe,<br>
+But brave Alonzo came, his massy shield<br>
+Received the stroke at Alfred’s breast impell’d;<br>
+With vigour unimpair’d he wag’d the fight,<br>
+And with redoubled blows assails the Sprite.<br>
+Meanwhile recovered, gallant Alfred sought<br>
+The spot where Henry and Albruno fought,<br>
+A mighty blow the king at Henry sped,<br>
+Palsied his arm, his hand resign’d the blade,<br>
+But Alfred’s ready sword the loss supplied,<br>
+Again the knight the angry Gnome defied:<br>
+Thus foil’d, when victory seem’d secure, and cries<br>
+Of joy and triumph fill’d the nether skies,<br>
+Furious he turn’d, and shunn’d the former strife,<br>
+To glut his vengeful soul with Alfred’s life.<br>
+Broke was the hero’s spear — his faithful brand,<br>
+His only weapon, shone in Henry’s hand;<br>
+Yet on his breast he held his massy shield,<br>
+And slow retreated o’er the ensanguin’d field;<br>
+He came where, writhing with a mortal wound,<br>
+Kassiteros lay struggling on the ground;<br>
+Tho’ lingering still, the spear forbade to rise,<br>
+And on the fight he turn’d his dying eyes,<br>
+Strain’d every nerve, and seiz’d with either hand<br>
+Brave Alfred’s foot, and stretch’d him on the sand.<br>
+His crafty spirit at the effort fled —<br>
+Beneath the monarch’s arm the champion laid,<br>
+His sword was lifted for the stroke of fate,<br>
+When Henry’s falchion fell with deadly weight;<br>
+His broken mail his wounded shoulder shew’d,<br>
+But from the wound no crimson torrent flow’d.<br>
+“Turn, if thou dar’st,” cried Henry, “coward Sprite!<br>
+Or dar’st thou but with foes unarm’d the fight?”<br>
+Stung with the taunt, Albruno turn’d — his foe<br>
+Shunn’d with an agile bound the impending blow;<br>
+With strength unwearied, and increasing rage,<br>
+In closer fight the valiant pair engage,<br>
+Now this, now that, retiring seems to yield;<br>
+Maria, trembling, eyed the doubtful field:<br>
+Thrice Henry’s falchion pierc’d the monarch’s side,<br>
+Albruno’s twice in Henry’s blood was dy’d;<br>
+In silent agony the Gnomes survey’d<br>
+The blow now hanging o’er their monarch’s head,<br>
+And had his own good weapon arm’d the knight,<br>
+No more were needful to decide the fight.<br>
+The monarch bent beneath the mighty stroke;<br>
+In Henry’s hand the faithless weapon broke;<br>
+Who, swift as eagles seize their prey, threw down<br>
+The borrow’d falchion, and regain’d his own.<br>
+Prepar’d to meet the monarch’s arm he stood,<br>
+Again they clos’d, again their fight renew’d.
+
+[^145]: The Oriental nations believe that the centre, or axis of the earth, is an immense stone, which they call Saxhrat. All the mountains of the earth (among them the celebrated Caucasus) are ramifications of this stone, and it has others within the surface. When God is displeased with any city or nation, he commands this stone to give motion to one of its fibres, and an earthquake instantly takes place.
+
+[^146]: All the gems are perfect non-conductors, and hence impervious to the electrical sword of Henry.
+
+Chrysos meanwhile still braved his angry foe,<br>
+And parries oft, but seldom aims a blow,<br>
+Still as he fought, increasing strength he gains,<br>
+The exhausted Spaniard scarce the fight sustains.<br>
+When now, where Albion shines amid the main,<br>
+The last faint sunbeam ting’d the watry plain,<br>
+By turns Maria watch’d the doubtful fight,<br>
+Or on the hour-glass fix’d her aching sight,<br>
+And saw, as flow’d the shallow sands away,<br>
+The jaws of ruin opening on their prey.<br>
+Now proud Albruno, mad that mortal knight<br>
+So long with him sustained a doubtful light,<br>
+Infuriate spoke: “Too long thy arts evade<br>
+The fate impending on thy guilty head!<br>
+What spells secure thy mail? what powerful charm<br>
+Eludes the vengeance of Albruno’s arm?<br>
+No mortal strength, unaided, could withstand<br>
+The deadly weight of this immortal hand!<br>
+Yet now receive thy due,” — and as he spoke,<br>
+Full at his head he aim’d the dreadful stroke,<br>
+The wary youth the threat’ning blow repell’d,<br>
+Which spent its fury on his lifted shield;<br>
+From his stunn’d arm the orb divided flew —<br>
+Maria, trembling, sicken’d at the view,<br>
+Sad on her ear the shouts of triumph fell,<br>
+As to the orphan sounds her parent’s knell,<br>
+She saw her last faint hopes of conquest fail,<br>
+Her love defenceless, lost the fatal Veil,<br>
+While Amiantha’s sympathizing heart<br>
+Her sorrows wept, and bore herself a part;<br>
+Then first did maiden wish, in battle field,<br>
+To see her love before his rival yield.<br>
+Meanwhile the dauntless youth collects his might,<br>
+By one decisive blow to end the fight,<br>
+To win or die; and while the king addrest<br>
+A mortal stroke at his defenceless breast,<br>
+He lurn’d the sword aside, and onward prest;<br>
+Then where thick plates of well-wrought brass unite<br>
+His ruby arms and sapphire cuirass bright,<br>
+He pierc’d Albruno’s chest — no more avail<br>
+His vaunted valour, or impassive mail,<br>
+Swift to his heart the burning blade was thrust,<br>
+The haughty monarch sunk upon the dust;<br>
+For tho’ immortal, yet of sense bereft,<br>
+His heart forgot to beat, his cheek the colour left.<br>
+Griev’d at the sad reverse, the astonish’d throng<br>
+In silence stood, when struck the mighty gong:<br>
+That solemn sound, which on Maria’s ear,<br>
+That morning fell, in anguish and despair,<br>
+Which seem’d the knell of happiness to toll,<br>
+Slave to a haughty tyrant’s loath’d controul,<br>
+Now told the setting sun, the finish’d fight,<br>
+The Veil redeem’d, and safe her victor knight.<br>
+With such sweet force the tide of rapture came,<br>
+Its sudden weight o’erwhelm’d her weary frame;<br>
+She sunk; but pleasure soon her eye relumed,<br>
+And her wan face a livelier hue assumed.<br>
+Albruno too revived — the languid tide<br>
+Again more briskly swell’d his veins, and dyed<br>
+His sallow cheek, but as he slowly rose,<br>
+A sullen shame his gloomy looks disclose.<br>
+“Come!” to the champions and the maid he cries,<br>
+With stifled anger, “take the Veil, your prize!<br>
+Retire, ye Gnomes; no sprite of Gnomian race<br>
+Shall view his monarch in this dire disgrace!”
+
+They reach’d the fatal spot; the chains that bound<br>
+The crystal vase and emerald tripod round,<br>
+The gloomy monarch seiz’d — and as he broke,<br>
+Deep thunders roll’d, and all the fabric shook;<br>
+Earth felt the shock in her remotest cave,<br>
+Thro’ air, thro’ fire, and thro’ the sapphire wave<br>
+Each structure trembled; high the billows rear’d<br>
+Their foaming crests, the bold Hydidæ feared.<br>
+The yawning ground admits the unusual day,<br>
+And new volcanos burst their furious way,<br>
+The gathering clouds deform the azure heaven,<br>
+The mountains fall, by frequent lightning riven,<br>
+Their prayers and tears affrighted mortals pour’d,<br>
+*And anxious Ariel knew the Veil restor’d!*<br>
+He blest the sign, and from his throne on high,<br>
+Shot like a falling meteor thro’ the sky.
+
+The king meanwhile, with sad yet haughty look,<br>
+To Henry gave the fatal Veil, and spoke:<br>
+“Fate crowns thy arms, proud mortal; I resign<br>
+The precious pledge that makes perfection thine;<br>
+Fool that I was, to risk the chance of arms,<br>
+My dear bought right, and those unequall’d charms!<br>
+Hence, daring warrior, to thy native land —<br>
+There boast the triumphs of a mortal hand,<br>
+By thee subdu’d, a chief the lord of flame,<br>
+And ocean’s king have vainly fought to tame!<br>
+For thee! sweet maid, no language can impart<br>
+The agony that rends Albruno’s heart.<br>
+Oh! that my will, reversing nature’s plan,<br>
+My life could shorten to a mortal span,<br>
+To him resign my wealth, my pomp, my power,<br>
+So thy bright smile might gild the transient hour!<br>
+Mayst thou be blest! yet hence thy joy remove,<br>
+Nor swell the tortures of despairing love.”
+
+He ceas’d; impatient to restore the Veil,<br>
+At fair Maria’s feet her hero fell,<br>
+Before the magic glass unconscious kneels —<br>
+A wondrous truth the magic glass reveals!<br>
+Dropp’d from his youthful limbs his radiant arms,<br>
+A grace ethereal heigh ten’d all his charms;<br>
+Dyed in the rainbow’s hues, his wings unfold<br>
+Their forms pellucid, starr’d with living gold,<br>
+His roseate mantle flutter’d in the wind,<br>
+His locks of waving amber flow’d behind;<br>
+In heavenly beauty shines the Sylph confest,<br>
+And thus his lips the astonish’d maid addrest.
+
+“Fear not, Maria! — Since by chance reveal’d<br>
+The truth from thee which yet I wish’d conceal’d;<br>
+A wondrous tale Aurelio shall declare,<br>
+And why constrain’d a human form to bear.<br>
+Not ours alone to float on painted wing,<br>
+And drink the fragrant incense of the spring;<br>
+Nor yet our sole employ to guide on high<br>
+The radiant orbs that gem the evening sky,<br>
+In vacant air the mimic suns to form,<br>
+Ride the bright sun-beam, or the rapid storm.<br>
+Our gentler ministry, with soft controul,<br>
+In virtue’s path directs the female soul;<br>
+Unseen, we whisper in the ear of youth,<br>
+The golden rules of honour, wisdom, truth —<br>
+Thus softly steals at eve the dewy shower,<br>
+tl The sunburnt fields reveal its balmy power<br>
 In many a glistening herb, and fragrant flower.
 
-Two lovely infants drew a kindred birth —
-With me a Sylph descended to the earth;
-In opening youth each shew'd a form divine,
-His charge Elvira, Evelina mine.
-
-Ceruleo long had striven, with fruitless art,
-In virtue's paths to lead his pupil's heart,
-For ever varying, her inconstant mind
-Nor friendship fix'd, nor promises could bind;
-
-
-
-
-With every charm that wins the heart to love,
-
-A youth had woo'd the maid, nor vainly strove •
-
-In evil hour a wealthier rival came,
-
-He sought, he won — forgot her former flame —
-
-Tlie Sylph incens'd, withdrew his guardian power,
-
+“Two lovely infants drew a kindred birth —<br>
+With me a Sylph descended to the earth;<br>
+In opening youth each shew’d a form divine,<br>
+His charge Elvira, Evelina mine.<br>
+Ceruleo long had striven, with fruitless art,<br>
+In virtue’s paths to lead his pupil’s heart,<br>
+For ever varying, her inconstant mind<br>
+Nor friendship fix’d, nor promises could bind;<br>
+With every charm that wins the heart to love,<br>
+A youth had woo’d the maid, nor vainly strove;<br>
+In evil hour a wealthier rival came,<br>
+He sought, he won — forgot her former flame —<br>
+The Sylph incens’d, withdrew his guardian power,<br>
 Nor shed his blessing on their nuptial hour.
 
-u ' How long,' he cried, ' shall this capricious race
-Our labour baffle, and our care disgrace?
-Vainly we strive their wanderings to restrain,
-The sex is all inconstant, false, and vain.'
+“‘How long,’ he cried, ‘shall this capricious race<br>
+Our labour baffle, and our care disgrace?<br>
+Vainly we strive their wanderings to restrain,<br>
+The sex is all inconstant, false, and vain.’
 
-' Oh pause,' I cried; ' though one thy bosom vex,
-Waste not thy fury on the guiltless sex!
-11 How many a female name, from age to age,
-Has history blazon'd on her brightest page,
-&lt;' For virtues Sylphs can scarcely hope to gain,
-And constancy we emulate in vain!'
+“‘Oh pause,’ I cried; ‘though one thy bosom vex,<br>
+Waste not thy fury on the guiltless sex!<br>
+How many a female name, from age to age,<br>
+Has history blazon’d on her brightest page,<br>
+For virtues Sylphs can scarcely hope to gain,<br>
+And constancy we emulate in vain!’
 
-' Fruitless my toil' — the angry Sylph replied
-In harsher terms, and storied truth denied,
-He challeng'd me a mortal maid to shew,
-Despising wealth and power, to love and merit true.
-T
-
-
-
-
-His word I took in Evelina's name,
-And pledg'd her to redeem her sex's fame,
-For she was all that claims our fondest care,
-Like thee was virtuous, and almost as fair!
-And should she fail, I vow'd no more to view
-Yon starry regions of ethereal blue,
-
-A mortal form to bear, till came the time,
-When three fair nymphs, in youth and beauty's prime,
-Should scorn a monarch and despise his throne,
+“‘Fruitless my toil’ — the angry Sylph replied<br>
+In harsher terms, and storied truth denied,<br>
+He challeng’d me a mortal maid to shew,<br>
+Despising wealth and power, to love and merit true.<br>
+His word I took in Evelina’s name,<br>
+And pledg’d her to redeem her sex’s fame,<br>
+For she was all that claims our fondest care,<br>
+Like thee was virtuous, and almost as fair!<br>
+And should she fail, I vow’d no more to view<br>
+Yon starry regions of ethereal blue,<br>
+A mortal form to bear, till came the time,<br>
+When three fair nymphs, in youth and beauty’s prime,<br>
+Should scorn a monarch and despise his throne,<br>
 And death and fate defy, for love alone.
 
-I will uot tell, to slow disease a prey,
-How long I watch'd my pupil's charms decay,
-And as she lay upon her early bier,
-In human semblance dropp'd the frequent tear;
-For the stern Sylph, when Evelina died,
-Still claim'd the proof her early fate denied:
-
-How often hope revived her fading fire,
-Which glow'd awhile, yet blaz'd but to expire;
-As wandering in the gloom, a flash of light
-Gives tenfold darkness to surrounding night.
-At length I knew thee — could I fail to prove
-The fondest transports of a mortal's love,.
-
-
-
-
-With all that deeper tenderness refined,
-
-That fits the nature of the ethereal mind?
-
-But when I found thy love was sought in vain,
-
-By him whose mandate awes this vast domain,
-
-I hail'd with rapture pleasure's dawning ray,
-
-The happy prelude to her cloudless day.
-
-The rest thou know'st — no longer fate denies,
-
-I soar triumphant to my native skies."
-
-And wilt thou leave me,sigh'd the weeping fair,
-In this dark realm of anguish and despair?"
-
-Leave thee!Aurelio cried, bereft of thee,
-The realms of light would boast no charms for me!
-I call thee hence, a Sylph's pure joys to share
-In those bright fields of empyrean air.760
-
-Stay!said the king, in whom Aurelio's tale
-Wak'd a faint hope again to claim the Veil,
-Dar'st thou, a Sylph, and hence my mortal foe^
-Thus venture thro' the hostile realms below,
-E'en in my presence dare to own the offence,
-And hope to pass unmark'd, unpunish'd hence?— -
-
-T .0
-
-
-
-
-Ho! seize him guards!— he starapt upon the ground:
-
-The ready vassals enter'd at the sound,
-
-While his brave comrades hasten'd to defend
-
-The weeping damsel and their injur'd friend;
-
-When o'er their heads a dreadful crash was heard,
-
-A sudden fissure in the dome appear'd,
-
-The blazing lamps grew dim, an azure ray
-
-Shot thro' the dreary realm unwonted day,
-
-While down the steep descent, with rapid flight,
-
-His Sylphs great Ariel bore, enthron'd in light;
-
-And at his side was seen a lovely maid,
-
-Bright Amiantha, as a bride array'd.
-
-Is this a monarch's faith? these abject chains,"
-He cried, are these the meed a victor gains?
-
-Here at thy call he came, a mortal knight,
-With thee to prove the equal chance of fight.
-With mortal strength thy mightier arm he dar'd,
-And as a mortal claims his due reward;
-Claims for himself, these knights, and damsel fair,
-Free passage to the realms of light and air.
-What frenzy rules thee? why does passion blind
-The light of reason in thy noble mind?
-
-
-
-
-Has not experience taught thy soul to know
-
-u From purer sources purer pleasures flow?
-
-Shake off thy bonds; or since a monarch's throne
-
-Wants half its lustre while he rules alone,
-
-This maid behold! — nor can these regions find
-
-A nymph more fair in person or in mind;
-
-How long with smother'd fires she vainly lov'd
-
-I need not say, this every act has prov'd!
-
-And many a Gnome remembers yet the days
-
-Thine ear was pleas'd with Amiantha's praise.
-
-And more, thy life preserv'd from Pyros' hand,
-
-Who stretch'd her dying brother on the sand,
-
-u Claims this just tribute from a generous chief.
-
-And calls on thee to sooth a sister's grief."
-
-He ceas'd; with downcast eyes the monarch stands.
-Nor moves, nor speaks, in anguish clasp'd his hands;
-At length remorse and reason vanquish'd pride,
-And he with new affection hail'd his bride.
-
-I yield — forgive my errors past,he said,
-Ye valiant knights, and each afflicted maid;
-Oh! here may all Maria's sufferings close!
-Be this the last of Amiantha's woes!
-
-T
-
-
-
-
-For me! the memory of this painful hour
-
-Shall curb my passions, quench the thirst of power,
-
-And teach henceforth my sterner soul to find
-
-A gentle guide in Amiantha's mind;
-
-Between the Gnomes and Sylphs might discord cease,
-
-And mighty Ariel's voice confirm the peace."
-
-’Tis done,the Sylph replied: the Veil restor'd,
-I wage no war with earth's imperial lord;
-Peace in our realms shall rest, and stretch her chain
-O'er fire's bright regions, and the azure main.
-
-I lit the torch of war, the furious fire
-I fan no longer, and the flames expire!"
-
-
-
-The monarch spoke, and call'd Maria fair,
-With each brave knight, to mount the radiant chair;
+“I will not tell, to slow disease a prey,<br>
+How long I watch’d my pupil’s charms decay,<br>
+And as she lay upon her early bier,<br>
+In human semblance dropp’d the frequent tear;<br>
+For the stern Sylph, when Evelina died,<br>
+Still claim’d the proof her early fate denied:<br>
+How often hope revived her fading fire,<br>
+Which glow’d awhile, yet blaz’d but to expire;<br>
+As wandering in the gloom, a flash of light<br>
+Gives tenfold darkness to surrounding night.<br>
+At length I knew thee — could I fail to prove<br>
+The fondest transports of a mortal’s love,<br>
+With all that deeper tenderness refined,<br>
+That fits the nature of the ethereal mind?<br>
+But when I found thy love was sought in vain,<br>
+By him whose mandate awes this vast domain,<br>
+I hail’d with rapture pleasure’s dawning ray,<br>
+The happy prelude to her cloudless day.<br>
+The rest thou know’st — no longer fate denies,<br>
+I soar triumphant to my native skies.”
+
+“And wilt thou leave me,” sigh’d the weeping fair,<br>
+“In this dark realm of anguish and despair?”
+
+“Leave thee!” Aurelio cried, “bereft of thee,<br>
+The realms of light would boast no charms for me!<br>
+I call thee hence, a Sylph’s pure joys to share<br>
+In those bright fields of empyrean air.”
+
+“Stay!” said the king, in whom Aurelio’s tale<br>
+Wak’d a faint hope again to claim the Veil,<br>
+“Dar’st thou, a Sylph, and hence my mortal foe,<br>
+Thus venture thro’ the hostile realms below,<br>
+E’en in my presence dare to own the offence,<br>
+And hope to pass unmark’d, unpunish’d hence?<br>
+Ho! seize him guards!” — he stampt upon the ground:<br>
+The ready vassals enter’d at the sound,<br>
+While his brave comrades hasten’d to defend<br>
+The weeping damsel and their injur’d friend;<br>
+When o’er their heads a dreadful crash was heard,<br>
+A sudden fissure in the dome appear’d,<br>
+The blazing lamps grew dim, an azure ray<br>
+Shot thro’ the dreary realm unwonted day,<br>
+While down the steep descent, with rapid flight,<br>
+His Sylphs great Ariel bore, enthron’d in light;<br>
+And at his side was seen a lovely maid,<br>
+Bright Amiantha, as a bride array’d.
+
+“Is this a monarch’s faith? these abject chains,”<br>
+He cried, “are these the meed a victor gains?<br>
+Here at thy call he came, a mortal knight,<br>
+With thee to prove the equal chance of fight.<br>
+With mortal strength thy mightier arm he dar’d,<br>
+And as a mortal claims his due reward;<br>
+Claims for himself, these knights, and damsel fair,<br>
+Free passage to the realms of light and air.<br>
+What frenzy rules thee? why does passion blind<br>
+The light of reason in thy noble mind?<br>
+Has not experience taught thy soul to know<br>
+From purer sources purer pleasures flow?<br>
+Shake off thy bonds; or since a monarch’s throne<br>
+Wants half its lustre while he rules alone,<br>
+This maid behold! — nor can these regions find<br>
+A nymph more fair in person or in mind;<br>
+How long with smother’d fires she vainly lov’d<br>
+I need not say, this every act has prov’d!<br>
+And many a Gnome remembers yet the days<br>
+Thine ear was pleas’d with Amiantha’s praise.<br>
+And more, thy life preserv’d from Pyros’ hand,<br>
+Who stretch’d her dying brother on the sand,<br>
+Claims this just tribute from a generous chief.<br>
+And calls on thee to sooth a sister’s grief.”
+
+He ceas’d; with downcast eyes the monarch stands.<br>
+Nor moves, nor speaks, in anguish clasp’d his hands;<br>
+At length remorse and reason vanquish’d pride,<br>
+And he with new affection hail’d his bride.
+
+“I yield — forgive my errors past,” he said,<br>
+“Ye valiant knights, and each afflicted maid;<br>
+Oh! here may all Maria’s sufferings close!<br>
+Be this the last of Amiantha’s woes!<br>
+For me! the memory of this painful hour<br>
+Shall curb my passions, quench the thirst of power,<br>
+And teach henceforth my sterner soul to find<br>
+A gentle guide in Amiantha’s mind;<br>
+Between the Gnomes and Sylphs might discord cease,<br>
+And mighty Ariel’s voice confirm the peace.”
+
+“’Tis done,” the Sylph replied: “the Veil restor’d,<br>
+I wage no war with earth’s imperial lord;<br>
+Peace in our realms shall rest, and stretch her chain<br>
+O’er fire’s bright regions, and the azure main.<br>
+I lit the torch of war, the furious fire<br>
+I fan no longer, and the flames expire!”
+
+The monarch spoke, and call’d Maria fair,<br>
+With each brave knight, to mount the radiant chair;<br>
 The Sylphs ascending cleave the heavy air.
 
+Now to Albruno’s hall his subjects prest<br>
+In happy crowds to grace his nuptial feast.<br>
+Again by Chrysos rul’d, in paths of truth,<br>
+O’er his glad people reign’d the immortal youth;<br>
+And still, with gentle though unseen controul,<br>
+Mild Amiantha curb’d his fiery soul,<br>
+And oft the grateful Gnomes, in loud acclaim,<br>
+Join’d peace and love with Amiantha’s name.
 
-
-I
-
-
-
-Now to Albruno's hall his subjects prest
-In happy crowds to grace his nuptial feast.
-Again by Chrysos rul'd, in paths of truth,
-O'er his glad people reign'd the immortal youth;
-And still, with gentle though unseen controul,
-
-Mild Amiantha curb'd his fiery soul,
-
-
-
-
-And oft the grateful Gnomes, in loud acclaim,
-Join'd peace and love with Amiantha's name.
-
-Meanwhile, where Albion's fertile vales extend,
-Their chosen brides the three brave youths attend,
-The friendly Gnomes a sumptuous palace rais'd,
-Each marble hall with gems unnumber'd blaz'd;
-The sportive sisters of the deep, around
-The stately columns wreaths of coral bound,
-And all the shining treasures of the wave
-
-To frame a grot of ample size they gave.
-Innumerous seeds, the spoils of distant lands,
-The Sylphids scatter'd from their airy hands,
-The fiery spirits gently warm the earth,
-And push each gay exotic into birth;
-There, breathing fragrance, the Magnolias vied
-In snow-white innocence and purple pride;"
-While drest in roseate buds and leaves of green,
-The Kalmia rivals her delightful queen;
-Proud of her form, in classic grace array 'd,
-
-Tall Agapantha rears her purple head,*
-
-* The agapanthus umbellatus, is a Cape plant, and remarkable for the
-graceful form of its leaves and flowers. The leaves fall in a curve on each
-side of the stem, which, rising to the height of two feet, bears on its summit
-a cluster of blue flowers, that before they expand have a great similarity to
-the Grecian honey-suckle.
-
-
-
-
-In varying dyes each gay Protea springs,
-
-And Passiflora spreads her scarlet wings;
-
-O'er all superior, tall Agave tow'rs,
-
-And the bright Aloe glows with crimson flowers.
-
-The Sylphids caught, and rang'd in lines of light,
-
-The stars that shoot athwart the gloom of night.
-
-To sight reveal'd, in various forms they move,
-
-One Hymen seems, and one the God of Love,
-
-High in their hands their flaming torches bear, S6'0
-
+Meanwhile, where Albion’s fertile vales extend,<br>
+Their chosen brides the three brave youths attend,<br>
+The friendly Gnomes a sumptuous palace rais’d,<br>
+Each marble hall with gems unnumber’d blaz’d;<br>
+The sportive sisters of the deep, around<br>
+The stately columns wreaths of coral bound,<br>
+And all the shining treasures of the wave<br>
+To frame a grot of ample size they gave.<br>
+Innumerous seeds, the spoils of distant lands,<br>
+The Sylphids scatter’d from their airy hands,<br>
+The fiery spirits gently warm the earth,<br>
+And push each gay exotic into birth;<br>
+There, breathing fragrance, the Magnolias vied<br>
+“In snow-white innocence and purple pride;”<br>
+While drest in roseate buds and leaves of green,<br>
+The Kalmia rivals her delightful queen;<br>
+Proud of her form, in classic grace array’d,<br>
+Tall Agapantha rears her purple head,[^147]<br>
+In varying dyes each gay Protea springs,<br>
+And Passiflora spreads her scarlet wings;<br>
+O’er all superior, tall Agave tow’rs,<br>
+And the bright Aloe glows with crimson flowers.<br>
+The Sylphids caught, and rang’d in lines of light,<br>
+The stars that shoot athwart the gloom of night.<br>
+To sight reveal’d, in various forms they move,<br>
+One Hymen seems, and one the God of Love,<br>
+High in their hands their flaming torches bear,<br>
 And crown with roseate wreaths each happy pair.
 
-Great Ariel now appeared — his gentle look
-Glanced on each lovely maid, as thus he spoke:
-Hail! blooming nymphs, whose constancy restor'd
-My lov'd Aurelio to his happy lord.
-Your woes — a Sylph from human bondage freed—*
-Claim from his grateful king an ample meed,
-For thee, Maria! now his chosen bride,
-Nor less in virtue to our race allied:
-Ne'er shall thy lips resign the vital breath,
+[^147]: The agapanthus umbellatus, is a Cape plant, and remarkable for the graceful form of its leaves and flowers. The leaves fall in a curve on each side of the stem, which, rising to the height of two feet, bears on its summit a cluster of blue flowers, that before they expand have a great similarity to the Grecian honey-suckle.
 
-Thy roses fade, or close thine eyes in death.
-'Not like Tithonus, doom'd to bear the strife
-Ci Of mortal weakness with immortal life,
-
-
-
-
-Each circling year to that fair form and face
-
-Shall add fresh lustre, more ethereal grace,
-
-Till thy pure spirit shall spontaneous rise,
-
-And seek its destin'd station in the skies;
-
-As Alighieri, with his heavenly love,
-
-Soar'd to yon round of silver light above,
-
-A partner in thy joys, thy hopes, thy cares, 8SO
-
+Great Ariel now appeared — his gentle look<br>
+Glanced on each lovely maid, as thus he spoke:<br>
+Hail! blooming nymphs, whose constancy restor’d<br>
+My lov’d Aurelio to his happy lord.<br>
+Your woes — a Sylph from human bondage freed — <br>
+Claim from his grateful king an ample meed,<br>
+For thee, Maria! now his chosen bride,<br>
+Nor less in virtue to our race allied:<br>
+Ne’er shall thy lips resign the vital breath,<br>
+Thy roses fade, or close thine eyes in death.<br>
+Not like Tithonus, doom’d to bear the strife<br>
+Of mortal weakness with immortal life,<br>
+Each circling year to that fair form and face<br>
+Shall add fresh lustre, more ethereal grace,<br>
+Till thy pure spirit shall spontaneous rise,<br>
+And seek its destin’d station in the skies;<br>
+As Alighieri, with his heavenly love,<br>
+Soar’d to yon round of silver light above,<br>
+A partner in thy joys, thy hopes, thy cares,<br>
 Till then his human form Aurelio wears.
 
-Miranda, Leonora, lovely pair!
-And ye, brave knights, their mortal lot who share,
-Yours be each joy that cheers the child of earth,
-A blooming race shall deck your social hearth;
-And when, as all of human lineage must,
-Your breath expires, and dust returns to dust,
-No widow's eye shall weep her spouse's doom;
-One be your dying hour, and one your tomb.
-Your spirits rising in a train of light,
+“Miranda, Leonora, lovely pair!<br>
+And ye, brave knights, their mortal lot who share,<br>
+Yours be each joy that cheers the child of earth,<br>
+A blooming race shall deck your social hearth;<br>
+And when, as all of human lineage must,<br>
+Your breath expires, and dust returns to dust,<br>
+No widow’s eye shall weep her spouse’s doom;<br>
+One be your dying hour, and one your tomb.<br>
+Your spirits rising in a train of light,<br>
+Shall with new splendours grace yon vaulted height.[^148]<br>
+In that vast space, ’twixt Jove’s imperial sphere<br>
+And fiery Mars, four smaller orbs appear,<br>
+Yours be the task to rule their course on high,<br>
+And guide the kindred worlds along the sky.<br>
+Join’d in your fates below, and joined above<br>
+In mystic intercourse of holy love,<br>
+To circle yon pure source of day, and bound<br>
+In one bright sphere your planetary round.”
 
-Shall with new splendours grace yon vaulted height.*
+[^148]: Previous to the discovery of the four new planets, Ceres, Pallas, Juno, and Vesta, Mr. Maclaurin and others, from the general analogy of our system, entertained the idea of the existence of a planet between Mars and Jupiter, and the attention of astronomers was directed to that part of the heavens. In January, 1801, Mr. Piazzi discovered a planet in the expected situation, but not larger than our moon. This planet he named Ceres: but it was so small, that after it was lost in the beams of the sun, there was great difficulty in finding it again; and it was not till 1807 that it was recognized by Dr. Ollbers, of Bremen. In the meantime, Dr. Ollbers and Mr. Harding, in their search for this planet, discovered two others, (Juno and Pallas,) which, upon calculation, appeared to have orbits precisely the same as that of Ceres, in their distance from the sun, and only differing in obliquity. From this singular circumstauce, Dr. Ollbers conceived the idea that these three planets might have been originally combined in one larger orb, which had been divided by some violent commotion. Were this the case, the fragments, from the regulated attraction of the sun and the other planets, would continue to revolve at the same distance from the sun, but the obliquity of their orbits would be determined by the direction in which they were thrown off. These orbits would however possess two common points of intersection, or nodes, namely, the point in which the parent planet was, at the time when it was rent by the convulsion, and the point opposite to it. The orbits of the three new planets being calculated, appeared to have these points of intersection; and Dr. Ollbers, confirmed in his theory, and thinking there might be more planets, continued his observations, which, in September, 1808, were rewarded by the discovery of the planet Vesta. The orbit of Vesta intersects that of Pallas, but not in the place where it is cut by that of Ceres. — *Pond’s Lectures*.
 
+In the poem the new planets are made use of, but not on the system of Dr. Ollbers. I have supposed them not to be the fragments of one unhappy planet, but coeval in their birth, to have revolved from the beginning in the same sphere. We may presume that any convulsion sufficient to rend a planet would have produced a sensible effect on all parts of the solar system. The reciprocal attractions of the planets must have been altered, they must have been accelerated or retarded in their course, and such an extraordinary event, had it happened since the creation of man, could hardly have been unrecorded, if not in the writings of the learned, at least in the traditions of the vulgar.
 
-
-* Previous to the discovery of the four new planets, Ceres, Pailas, Juno,
-and Vesta, Mr. Maclaurin and others, from the general analogy of our sys-
-tem, entertained the idea of the existence of a planet between Mars and
-Jupiter, and the attention of astronomers was directed to that part of the
-heavens. In January, 1801, Mr. Piazzi discovered a planet in the expected
-situation, but not larger than our moon. This planet he named Ceres: but
-
-
-
-
-In that vast space, 'twixt Jove's imperial sphere
-
-And fiery Mars, four smaller orbs appear,
-
-Yours be the task to rule their course on high,
-
-And guide the kindred worlds along the sky.
-
-
-
-it was so small, that after it was lost in the beams of the sun, there was great
-difficulty in finding it again; and it was not till 1807 that it was recognized
-by Dr. Ollbers, of Bremen. In the meantime, Dr. Ollbers and Mr. Hard-
-ing, in their search for this planet, discovered two others, (Juno and Pallas,)
-which, upon calculation, appeared to have orbits precisely the same as that
-of Ceres, in their distance from the sun, and only differing in obliquity.
-From this singular circumstauce, Dr. Ollbers conceived the idea that these
-three planets might have been originally combined in one larger orb, which
-had been divided by some violent commotion. Were this the case, the frag-
-ments, from the regulated attraction of the sun and the other planets, would
-continue to revolve at the same distance from the sun, but the obliquity of
-their orbits would be determined by the direction in which they were thrown
-off. These orbits would however possess two common points of intersection,
-or nodes, namely, the point in which the parent planet was, at the time when
-it was rent by the convulsion, and the point opposite to it. The orbits of the
-three new planets being calculated, appeared to have these points of inter-
-section; and Dr. Ollbers, confirmed in his theory, and thinking there might
-be more planets, continued his observations, which, in September, 1808, werti
-rewarded by the discovery of the planet Vesta. The orbit of Vesta intersects
-that of Pallas, but not in the place where it is cut by that of Ceres.
-
-Pond's Lectures.
-In the poem the new planets are made use of, but not on the system of Dr.
-Ollbers. I have supposed them not to be the fragments of one unhappy
-planet, but coeval in their birth, to have revolved from the beginning in the
-same sphere. We may presume that any convulsion sufficient to rend a planet
-would have produced a sensible effect on all parts of the solar system. The re-
-ciprocal attractions of the planets must have been altered, they must have
-been accelerated or retarded in their course, and such an extraordinary event,
-had it happened since the creation of man, could hardly have been unre-
-corded, if not in the writings of the learned, at least in the traditions of the
-vulgar.
-
-
-
-
-Join'd in your fates below, and joined above
-
-In mystic intercourse of holy love,
-
-To circle yon pure source of day, and bound
-
-In one bright sphere your planetary round."
-
-He spoke. No words their gratitude express'd, yOO
+He spoke. No words their gratitude express’d,<br>
 But Ariel read it in each joyful breast.
 
+### End of the Poem
 
-
-END OF THE POEM.
-
-
+---
 
 ## Persons of the Poem
 
 ### Mortals
 
-* Alfred
-* Alonzo
-* Elvira
-* Evelina
-* Henry
-* Leonora
-* Maria
-* Miranda
+* ALFRED
+* ALONZO
+* ELVIRA
+* EVELINA
+* HENRY
+* LEONORA
+* MARIA
+* MIRANDA
 
 ### Gnomes
 
@@ -6459,10 +6090,10 @@ END OF THE POEM.
 
 * ALEINOS — *Hot*
 * ANTHRAX — *Lighted coal*
-* ANTHRACHIS&emsp; — 〃
+* ANTHRACHIS — &emsp; 〃
 * CAUSIMOS — *Apt for burning*
 * CHLIAROTES — *Warmth*
-* CHLIAROS —&emsp; 〃
+* CHLIAROS — &emsp; 〃
 * EMPREESMOS — *Aflame or fire, a burning*
 * EMPYROS — *Fiery, that which contains fire*
 * IGNICOMUS — *Fiery hair*
@@ -6471,7 +6102,7 @@ END OF THE POEM.
 * MARMARYGOS — *Brightness*
 * MIOANTE — *Glittering*
 * PERUSTOS — *Perustus*, Lat. *burnt up, or scorched*
-* PERICAUTHEIS —&emsp;〃
+* PERICAUTHEIS — &emsp; 〃
 * PHLEGON — *Burning* — the name of one of the horses of Apollo
 * PHLOGOS — *Flame*
 * PYRENEMOS — *Wind of fire*
@@ -6482,11 +6113,11 @@ END OF THE POEM.
 * PYRODES — *Fiery, burning hot*
 * PYRIDES — *Son of Pyros*
 * SCINTILLUS — *Spark*
-* SPINTHERA —&emsp;〃
-* SPINTHEROS —&emsp;〃
+* SPINTHERA — &emsp; 〃
+* SPINTHEROS — &emsp; 〃
 * SPODOS — *Ashes*
 * THERMOTES — *Heat*
-* THERMOS —&emsp;〃
+* THERMOS —&emsp; 〃
 * THERMANTICOS — *Having the power of making warm*
 * THERMASION — *Thermesia — warmth, heat*
 
@@ -6496,11 +6127,11 @@ END OF THE POEM.
 
 * CLYDON — *Tide*
 * CUMA — *Wave*
-* CUMOS —&emsp;〃
+* CUMOS — &emsp; 〃
 * DELPHINO — *Dolphin*
 * LYMNORIA — *From λυμνoς, a lake*
 * LYMXOCHARIS
 * MARGUERITA — *Pearl*
 * POTAMOS — *River*
 * PLEMMYRA — *Flowing*
-* PLEMURA —&emsp;〃
+* PLEMURA — &emsp; 〃
