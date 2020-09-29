@@ -1470,7 +1470,7 @@ In crimson arms was Sienitos drest.[^33]
 
 [^28]: The six primitive rocks; granite, porphyry, marble, serpentine, schist, and sienite.
 
-[^29]: The word [greek], *geranites*, granite, has sometimes been derived from [greek], *geranos*, a crane, as its colours are supposed to resemble those of the stork’s neck; but its name is more commonly supposed to have originated in its granular structure.
+[^29]: The word Γεϱανιτς, *geranites*, granite, has sometimes been derived from Γεϱανος, *geranos*, a crane, as its colours are supposed to resemble those of the stork’s neck; but its name is more commonly supposed to have originated in its granular structure.
 
 [^30]: Porphyry is usually found in smaller blocks than granite, and porphyrytic mountains do not attain so great a height.
 
