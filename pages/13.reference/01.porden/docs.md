@@ -5045,7 +5045,7 @@ The nature of heat, whether it be a substance or an action, a peculiar subtle fl
 
 [^131]: This alludes to the formation of water by the combination of oxygen and hydrogen, or inflammable air. It is a curious circumstance, that water, the greatest enemy to combustion, should be formed by the union of the greatest, and till lately believed, the sole supporter of combustion, with a gas itself inflammable.
 
-[^132]: The snow which fell last January, 1814, contained many beautiful little flat feathery stars, having usually six points. The largest were about a quar- ter of an iuch in diameter, but the size varied. Dr. Clarke in the first volume of his travels states that, while he was at St. Petersburgh, the thermometer of Celsius, being at 5° below the freezing point, with little or no wind, snow fell for three hours in the most beautiful and regular crystals, each being about the size of a split pea, and consisting of a star with six points. During this time no other snow fell.<br>
+[^132]: The snow which fell last January, 1814, contained many beautiful little flat feathery stars, having usually six points. The largest were about a quarter of an inch in diameter, but the size varied. Dr. Clarke in the first volume of his travels states that, while he was at St. Petersburgh, the thermometer of Celsius, being at 5° below the freezing point, with little or no wind, snow fell for three hours in the most beautiful and regular crystals, each being about the size of a split pea, and consisting of a star with six points. During this time no other snow fell.<br>
 <br>
 A similar phenomenon occurred at Cambridge on the 16th January, 1810, under precisely similar circumstances, and is recorded in the *Cambridge Chronicle*. The stars were, if possible, more perfect than at Petersburgh.<br>
 <br>
@@ -5436,7 +5436,7 @@ What could Albruno fear from mortal hand?<br>
 He only sought, by seeming good betray’d,<br>
 From upper light to keep the hapless maid,<br>
 And hold her, when expir’d the fatal day,<br>
-Within his power an unresisting prey.@
+Within his power an unresisting prey.
 
 Maria, weeping, with her friend withdrew,
 Nor found the prospect brighten on her view;
