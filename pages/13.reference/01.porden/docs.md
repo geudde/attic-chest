@@ -5242,9 +5242,6 @@ But as the Sylph approach’d, the waters fled,<br>
 And dry they journey’d o’er its silver bed,<br>
 Then paus’d upon the bank, surpriz’d to view<br>
 The intermittive waters flow anew.[^141]<br>
-[^140]: Rivers, where the soil is much impregnated with silver, have generally a milky hue.
-[^141]: Intermittent springs are not very frequent, but there are three or four in England; the principal of which are those of Lay well, near Torbay, and of Buxton, in Derbyshire. In the former the water rises and falls twenty times in succession, and afterwards flows uniformly for two hours. In that of Buxton it intermits every quarter of an hour. But the most celebrated of intermittent springs are in the lake of Tschirnitz, in Carniola. This lake is about fourteen miles in length, and five in breadth. It is full of water during the greater part of the year, but about the beginning of July the water runs off by eighteen subterranean conduits; the fish either escape with it, or are destroyed, and cattle soon come to feed on the grass which rises quickly with great luxuriance in the bed of the lake. Three or four months after the water returns suddenly through the holes by which it was absorbed, with such violence that it spouts up to the height of several feet, and the lake is filled in less than twenty-four hours. For a farther account of intermittent fountains, and of the peculiar form of pipe which is necessary to produce them, see the fourth volume of Dr. Hutton’s *Mathematical Recreations*.
-
 Just as they reach’d Albruno’s stately dome,<br>
 To meet his council mov’d the lordly Gnome;<br>
 With loud acclaims the spacious galleries rang,<br>
@@ -5259,332 +5256,201 @@ And when this form next bursts upon thine eye,<br>
 I come the harbinger of love and joy.”<br>
 He spoke, Maria answered with a sigh.
 
-Where round his throne the vassal monarchs wait,
-Albruno like an eastern despot sate,
-
-The bravest warriors quail'd beneath his eye,
-
-And scarcely dar'd to lift their looks so high.
-
-
-
-
-
-
-
-Those veteran chiefs who oft had brav'd in fight
-
-The hosts of fire, or bold Hydidae's might,
-
-With slavish fear obey their tyrant lord,
-
-Haste at his nod, and tremble at his word.
-
-Chrysos alone, a keen reproachful glance
-
-Darts on the king, more sharp than foeman's lance,
-
-Heeds not his angry look, and dares to frown
-
-On the pale Sprite that stands before the throne;
-
-Kassiteros, whose servile tongue display'd
-
-The wiles that lur'd the unsuspecting maid,
-
-And faltering told the unexpected aid;
-
-Which (while his towers immur'd, not her alone,
-
-Whom to decoy those towers delusive shone,
-
-But two fair maids, by spells congenial tied,)
-
-His triumph mock'd, and made his labour void,
-
-Releas'd the damsels, and the fort destroy'd.
-
-Pleas'd with their counsels known, the king forgave
-
-The fruitless toil, and smil'd upon his slave.
-
-When first this nether realm Albruno sway'd,
-His just commands a cheerful laud obey'd;
-By Chrysos guided, every happy hour,
-With blessings wing'd, bore record of his power,
-
-
-
-
-His prosperous realm was free from war's alarms,
-
-Or led by wisdom, glory crown'd his arms;
-
-Hope gaz'd with transport on his dawning sway,
-
-And blazon'd brighter still his noontide ray.
-
-But ah! too soon the monarch's heart around
-
-His serpent folds false Oreichalcon wound,
-
-Rous'd by his breath, his heart alternate strove
-
-With mad ambition and insensate love:
-
-One bred protracted wars and countless foes,
-
-One taught the fraud that caus'd Maria's woes;
-
-While flattery clouded truth's serener rays,
-
-And urged him to pursue their meteor blaze;
-
-And tho', his favourite dead, again his ear
-
-To Chrysos turn'd, with penitence sincere,
-
-Returning virtue vainly fought with pride,
-
-And love yet linger'd where ambition died.
-
-Nor could the sage's prudent voice persuade
-
-The stubborn monarch to release the maid;
-
-Tho' time yet lingers, soon the appointed hour
-
-Will place the beauteous virgin in my power,
-
-Then haste, ye Gnomes, and trim the bridal bower; J
-
-Let all that yields delight to eye or ear,
-
-Each pleasing tint, each soothing sound be there;
-
-
-
-I
-
-
-
-
-All that on earth the female heart can charm,
-
-All that on earth can female fancy warm;
-
-So shall my zeal the grateful damsel move,
-
-And wealth and splendour light the fires of love.Q50
-
-Thus spoke Albruno, when the entering maid
-
-Among his peers her fairy form display'd;
-
-A lovelier nymph these regions ne'er had seen,
-
-Of form more graceful, or more princely mien,
-
-Tho' from her cheeks their wonted bloom was fled,
-
-And chilling fear restrained her airy tread.
-
-The chiefs around in silent rapture pause,
-
-Or join the whisper'd murmur of applause.
-
-Not so the king! for tho' in mute delight
-
-On her lov'd form he fed his ravish'd sight,
-
-When he beheld how dim, how sunk her eye,
-
-How pale her cheek, and heard her long-drawn sigh,
-
-His conscience woke, and to his tortur'd heart
-
-Her scorpion stings their fiercest fury dart;
-
-He trembled lest the assembled Gnomes should know
-
-That he had caus'd such aggravated woe,
-
-And at her bidding rise in rebel arms,
-
-The prompt avengers of her injured charms,
-
-
-
-
-
-
-For all were taught that mutual vows allied }
-
-nV
-
-
-
-Their amorous monarch and his mortal bride,
-
+[^140]: Rivers, where the soil is much impregnated with silver, have generally a milky hue.
+
+[^141]: Intermittent springs are not very frequent, but there are three or four in England; the principal of which are those of Lay well, near Torbay, and of Buxton, in Derbyshire. In the former the water rises and falls twenty times in succession, and afterwards flows uniformly for two hours. In that of Buxton it intermits every quarter of an hour. But the most celebrated of intermittent springs are in the lake of Tschirnitz, in Carniola. This lake is about fourteen miles in length, and five in breadth. It is full of water during the greater part of the year, but about the beginning of July the water runs off by eighteen subterranean conduits; the fish either escape with it, or are destroyed, and cattle soon come to feed on the grass which rises quickly with great luxuriance in the bed of the lake. Three or four months after the water returns suddenly through the holes by which it was absorbed, with such violence that it spouts up to the height of several feet, and the lake is filled in less than twenty-four hours. For a farther account of intermittent fountains, and of the peculiar form of pipe which is necessary to produce them, see the fourth volume of Dr. Hutton’s *Mathematical Recreations*.
+
+Where round his throne the vassal monarchs wait,<br>
+Albruno like an eastern despot sate,<br>
+The bravest warriors quail’d beneath his eye,<br>
+And scarcely dar’d to lift their looks so high.<br>
+Those veteran chiefs who oft had brav’d in fight<br>
+The hosts of fire, or bold Hydidæ’s might,<br>
+With slavish fear obey their tyrant lord,<br>
+Haste at his nod, and tremble at his word.<br>
+Chrysos alone, a keen reproachful glance<br>
+Darts on the king, more sharp than foeman’s lance,<br>
+Heeds not his angry look, and dares to frown<br>
+On the pale Sprite that stands before the throne;<br>
+Kassiteros, whose servile tongue display’d<br>
+The wiles that lur’d the unsuspecting maid,<br>
+And faltering told the unexpected aid;<br>
+Which (while his towers immur’d, not her alone,<br>
+Whom to decoy those towers delusive shone,<br>
+But two fair maids, by spells congenial tied,)<br>
+His triumph mock’d, and made his labour void,<br>
+Releas’d the damsels, and the fort destroy’d.<br>
+Pleas’d with their counsels known, the king forgave<br>
+The fruitless toil, and smil’d upon his slave.
+
+When first this nether realm Albruno sway’d,<br>
+His just commands a cheerful laud obey’d;<br>
+By Chrysos guided, every happy hour,<br>
+With blessings wing’d, bore record of his power,<br>
+His prosperous realm was free from war’s alarms,<br>
+Or led by wisdom, glory crown’d his arms;<br>
+Hope gaz’d with transport on his dawning sway,<br>
+And blazon’d brighter still his noontide ray.<br>
+But ah! too soon the monarch’s heart around<br>
+His serpent folds false Oreichalcon wound,<br>
+Rous’d by his breath, his heart alternate strove<br>
+With mad ambition and insensate love:<br>
+One bred protracted wars and countless foes,<br>
+One taught the fraud that caus’d Maria’s woes;<br>
+While flattery clouded truth’s serener rays,<br>
+And urged him to pursue their meteor blaze;<br>
+And tho’, his favourite dead, again his ear<br>
+To Chrysos turn’d, with penitence sincere,<br>
+Returning virtue vainly fought with pride,<br>
+And love yet linger’d where ambition died.<br>
+Nor could the sage’s prudent voice persuade<br>
+The stubborn monarch to release the maid;<br>
+“Tho’ time yet lingers, soon the appointed hour<br>
+Will place the beauteous virgin in my power,<br>
+Then haste, ye Gnomes, and trim the bridal bower;<br>
+Let all that yields delight to eye or ear,<br>
+Each pleasing tint, each soothing sound be there;<br>
+All that on earth the female heart can charm,<br>
+All that on earth can female fancy warm;<br>
+So shall my zeal the grateful damsel move,<br>
+And wealth and splendour light the fires of love.”<br>
+Thus spoke Albruno, when the entering maid<br>
+Among his peers her fairy form display’d;<br>
+A lovelier nymph these regions ne’er had seen,<br>
+Of form more graceful, or more princely mien,<br>
+Tho’ from her cheeks their wonted bloom was fled,<br>
+And chilling fear restrained her airy tread.<br>
+The chiefs around in silent rapture pause,<br>
+Or join the whisper’d murmur of applause.<br>
+Not so the king! for tho’ in mute delight<br>
+On her lov’d form he fed his ravish’d sight,<br>
+When he beheld how dim, how sunk her eye,<br>
+How pale her cheek, and heard her long-drawn sigh,<br>
+His conscience woke, and to his tortur’d heart<br>
+Her scorpion stings their fiercest fury dart;<br>
+He trembled lest the assembled Gnomes should know<br>
+That he had caus’d such aggravated woe,<br>
+And at her bidding rise in rebel arms,<br>
+The prompt avengers of her injured charms,<br>
+For all were taught that mutual vows allied<br>
+Their amorous monarch and his mortal bride,<br>
 Though jealous Ariel would their loves divide.
 
-While thus he mused, before his throne she fell,
-And strongly urged him to restore the Veil:
-By reason's force, or soft persuasive art,
-She tried to move his unrelenting heart.
-Alas!she said, what hate thy bosom bears,
-Thus to rejoice and triumph in my tears,
-Destroy each vision youthful hope has wove,
-And wound thus deeply in the mask of love!
-Can this be love? — No; love is ever prone
-To prize its object's weal before its own;
-Ah, yet relent! ere, worn by lengthen'd grief,
-My frame decays, and death shall yield relief;
-And oh! if e'er thy bosom thrill'd with joy
-When tears of rapture fill'd the glistening eye,
-And virtue long opprest, by thee restor'd,
-A thousand blessings on thy name implor'd,
-Oh! let my voice, my woes, my tears prevail,
-My sufferings pity, and restore the Veil!"
+While thus he mused, before his throne she fell,<br>
+And strongly urged him to restore the Veil:<br>
+By reason’s force, or soft persuasive art,<br>
+She tried to move his unrelenting heart.<br>
+“Alas!” she said, “what hate thy bosom bears,<br>
+Thus to rejoice and triumph in my tears,<br>
+Destroy each vision youthful hope has wove,<br>
+And wound thus deeply in the mask of love!<br>
+Can this be love? — No; love is ever prone<br>
+To prize its object’s weal before its own;<br>
+Ah, yet relent! ere, worn by lengthen’d grief,<br>
+My frame decays, and death shall yield relief;<br>
+And oh! if e’er thy bosom thrill’d with joy<br>
+When tears of rapture fill’d the glistening eye,<br>
+And virtue long opprest, by thee restor’d,<br>
+A thousand blessings on thy name implor’d,<br>
+Oh! let my voice, my woes, my tears prevail,<br>
+My sufferings pity, and restore the Veil!”
 
-
-
-s
-
-
-
-
-Albruno gaz'd upon the maid and sigh'd;
-
-Awhile he musing stood, and then replied,
-Unhappy me! whom adverse fates compel
-To cause the woe of one I love so well;
-Oh! why that love with hate requite? and why
-Still ask a boon which love must still deny?
-Claim ought but this, and if to grant be mine,
-My power, my crown, my sceptre, all are thine!
-Thine are my treasures, all my secret store,
-By Gnome or mortal never view'd before;
-Thine Ophir's vaunted gold, the wealth that shines
-In proud Hispania's or Carinthia's mines;
-Or where Siberia's frozen plains expand,
-Or vast Sahara spreads her boundless sand;
-Golconda shall her glittering hoard resign,
-And Ethiopia's gems and gold be thine;
-Earth too has mines revealed to me alone,
-And wealth that slumbers in a world unknown,*
-u Yet if thou bid'st, for thee my Gnomes unfold
-Potosi's silver, and Peruvia's gold,
-
-
-
-* America was not discovered in the time of Edward the Third; it would
-however be known to the Gnomes.
-
-
-
-
-From AnahuaC* bring the various ores, 3 JO
-
+Albruno gaz’d upon the maid and sigh’d;<br>
+Awhile he musing stood, and then replied,<br>
+“Unhappy me! whom adverse fates compel<br>
+To cause the woe of one I love so well;<br>
+Oh! why that love with hate requite? and why<br>
+Still ask a boon which love must still deny?<br>
+Claim ought but this, and if to grant be mine,<br>
+My power, my crown, my sceptre, all are thine!<br>
+Thine are my treasures, all my secret store,<br>
+By Gnome or mortal never view’d before;<br>
+Thine Ophir’s vaunted gold, the wealth that shines<br>
+In proud Hispania’s or Carinthia’s mines;<br>
+Or where Siberia’s frozen plains expand,<br>
+Or vast Sahara spreads her boundless sand;<br>
+Golconda shall her glittering hoard resign,<br>
+And Ethiopia’s gems and gold be thine;<br>
+Earth too has mines revealed to me alone,<br>
+And wealth that slumbers in a world unknown,[^142]<br>
+u Yet if thou bid’st, for thee my Gnomes unfold<br>
+Potosi’s silver, and Peruvia’s gold,<br>
+From Anahuac[^143] bring the various ores,<br>
 And choicest diamonds from Brazilian shores.
 
-Doubtst thou my love! look round this realm and see
-What endless labours vex my slaves for thee!
-See, where yon hills rise towering on the sight,
-The landscape emulates the fields of light,
-Yon ruby sun now darts his mimic rays,
-This lofty dome the evening sky displays!
-Let these prevail, a favouring ear incline,
-And oh! by choice, and not by force be mine.
-Bid my glad spirits dress the nuptial bower,
+[^142]: America was not discovered in the time of Edward the Third; it would however be known to the Gnomes.
 
-For know, the Veil I never can restore."
-He ceas'd; the lingering ray of hope was fled,
-Which, while he spoke, sustain'd the anxious maid;
-Senseless she fell, but Chrysos rais'd the dame,
-And, at his bidding, Amiantha came,
-Long o'er the nymph employ’d her care in vain,
+[^143]: Anahuac, the great tract extending from Mexico northwards, and nearly the same with New Spain, is rich in ores of every kind, and in precious stones.
+
+“Doubtst thou my love! look round this realm and see<br>
+What endless labours vex my slaves for thee!<br>
+See, where yon hills rise towering on the sight,<br>
+The landscape emulates the fields of light,<br>
+Yon ruby sun now darts his mimic rays,<br>
+This lofty dome the evening sky displays!<br>
+Let these prevail, a favouring ear incline,<br>
+And oh! by choice, and not by force be mine.<br>
+Bid my glad spirits dress the nuptial bower,<br>
+For know, the Veil I never can restore.”<br>
+He ceas’d; the lingering ray of hope was fled,<br>
+Which, while he spoke, sustain’d the anxious maid;<br>
+Senseless she fell, but Chrysos rais’d the dame,<br>
+And, at his bidding, Amiantha came,<br>
+Long o’er the nymph employ’d her care in vain,<br>
 Before she woke to life and woe again.
 
-Meanwhile, Albruno mark'd the feeling strong
-That broke in murmurs from his vassal throng;
+Meanwhile, Albruno mark’d the feeling strong<br>
+That broke in murmurs from his vassal throng;<br>
+Fix’d not to yield, yet griev’d those sounds to hear,<br>
+Where indignation triumph’d over fear,<br>
+He pondered how to quench the rising flame,<br>
+To sooth her grief, yet not resign the dame;<br>
+When, long in craft, and wiles insidious tried,<br>
+The artful plan Kassiteros supplied,<br>
+And, as the damsel weeping left the hall,<br>
+Her faltering steps the monarch’s words recall.
 
-
-
-* Anahuac, the great tract extending from Mexico northwards, and nearly
-the same with New Spain, is rich in ores of every kind, and in precious stones.
-
-
-
-
-Fix'd not to yield, yet griev'd those sounds to hear,
-
-Where indignation triumph'd over fear,
-
-He pondered how to quench the rising flame,
-
-To sooth her grief, yet not resign the dame;
-
-When, long in craft, and wiles insidious tried,
-
-The artful plan Kassiteros supplied,
-
-And, as the damsel weeping left the hal),
-
-Her faltering steps the monarch's words recall.
-
-Stay, lov'd Maria, stay! my anxious heart
-Iu all thy sufferings bears an equal part,
-I mourn each shade of grief that clouds thine eye,
-Feel every tear, and echo every sigh.
-Oh could I dry those tears — that this might be
+“Stay, lov’d Maria, stay! my anxious heart<br>
+In all thy sufferings bears an equal part,<br>
+I mourn each shade of grief that clouds thine eye,<br>
+Feel every tear, and echo every sigh.<br>
+Oh could I dry those tears — that this might be<br>
 At any price but that of yielding thee!
 
-Too well I know why all my prayers are vain,
-As lunar beams to melt the frozen main;
-Shunn'd as a foe, and odious in thy sight,
-Why scorn and hate my proffer'd crown requite.
-What tho' my rival boast the careless mirth,
-The sportive gaiety of upper earth;
-For thee a love as warm, as pure, I bear,
-
-And call thee here a monarch's throne to share.
-
-
-
-
-Yet if with me in fight he dare to stand,
-Here let proud Henry combat for thy hand.
-To-morrow is the day, should heaven incline,
-The happy day that links thy fate with mine,
-Then let him meet me, then my force assail,
-Till sinks the sun, and win or lose the Veil.
-Nay more, let him two champions bring to fight,
-With me two Gnomes shall vindicate my right,
-And should my warriors vanquish'd press the field,
-Victor myself, I yet the pledge will yield;
-e&lt; (Oh, may the fates a happier doom decree!)
-Who wins the battle, wins the Veil and thee.
-And while my busy sprites the lists prepare,
-On earth my heralds shall the fight declare
-To Europe's farthest bounds, and whosoe'er
-Accepts the challenge, lead in safety here.
-Meanwhile, in this our realm, thy guide and frierld,
-Shall Amiantha on thy steps attend,
-Her gentle cares, her tender watchful love,
-
-Shall charm thine anxious fears to rest, and prove
-That not to day's ethereal realms alone
-The softer virtues of the soul are known:
-Though here the sun refuse his beam, we claim
-Alike a portion of that heavenly flame,
-s ( l
-
-
-
-
-That flows at once thro' earth, and air, and sky,
-One boundless flood of life, and love, and joy."
+“Too well I know why all my prayers are vain,<br>
+As lunar beams to melt the frozen main;<br>
+Shunn’d as a foe, and odious in thy sight,<br>
+Why scorn and hate my proffer’d crown requite.<br>
+What tho’ my rival boast the careless mirth,<br>
+The sportive gaiety of upper earth;<br>
+For thee a love as warm, as pure, I bear,<br>
+And call thee here a monarch’s throne to share.<br>
+Yet if with me in fight he dare to stand,<br>
+Here let proud Henry combat for thy hand.<br>
+To-morrow is the day, should heaven incline,<br>
+The happy day that links thy fate with mine,<br>
+Then let him meet me, then my force assail,<br>
+Till sinks the sun, and win or lose the Veil.<br>
+Nay more, let him two champions bring to fight,<br>
+With me two Gnomes shall vindicate my right,<br>
+And should my warriors vanquish’d press the field,<br>
+Victor myself, I yet the pledge will yield;<br>
+(Oh, may the fates a happier doom decree!)<br>
+Who wins the battle, wins the Veil and thee.<br>
+And while my busy sprites the lists prepare,<br>
+On earth my heralds shall the fight declare<br>
+To Europe’s farthest bounds, and whosoe’er<br>
+Accepts the challenge, lead in safety here.<br>
+Meanwhile, in this our realm, thy guide and friend,<br>
+Shall Amiantha on thy steps attend,<br>
+Her gentle cares, her tender watchful love,<br>
+Shall charm thine anxious fears to rest, and prove<br>
+That not to day’s ethereal realms alone<br>
+The softer virtues of the soul are known:<br>
+Though here the sun refuse his beam, we claim<br>
+Alike a portion of that heavenly flame,<br>
+That flows at once thro’ earth, and air, and sky,<br>
+One boundless flood of life, and love, and joy.”
 
 Fraudful he spoke, who deem'd securely chain' d,
 His deepest cell the captive youth detain'd,
