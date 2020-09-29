@@ -102,7 +102,7 @@ And tinged the eastern clouds with rosy red;<br>
 While from the west, a flood of amber light<br>
 Stream’d thro’ the foliage on the dazzled sight: <br>
 As in a forest’s wildering mazes straytd <br>
-A youthful warrior and a blooming maid.<br>
+A youthful warrior and a blooming maid.
 
 The Maid was fair, as Poets bent on praise<br>
 Have often painted in their flattering lays,<br>
@@ -920,7 +920,7 @@ Shall join to dew Alfonzo’s royal bier.<br>
 And mine may mingle well, for by his side,<br>
 My sire, with many a proud hidalgo, died,<br>
 And near him was the brave Alonzo found,<br>
-His manly bosom pierced with many a wound.<br>
+His manly bosom pierced with many a wound.
 
 “Oppression soon, in Pedro’s iron reign,<br>
 Check’d the sweet transports of reviving Spain.<br>
@@ -1128,12 +1128,11 @@ Of one vast diamond formed, his massy shield<br>
 Shone like the moon, and lightened all the field;<br>
 Less brilliant, though more fatal, those of yore<br>
 That valiant Arthur and Ruggiero bore.[^23]<br>
-
-[^23]: See Spenser and Ariosto.
-
 The knight on Henry cast a threat’ning look,<br>
 High o’er his head his beamy sword he shook,<br>
 Then stampt infuriate on the ground, and spoke:
+
+[^23]: See Spenser and Ariosto.
 
 “Rash youth, to me Maria’s charms resign,<br>
 Or meet in arms the Monarch of the Mine;<br>
@@ -1192,16 +1191,15 @@ Discordant elements in peace combine,<br>
 Their forms, proportions, properties define,<br>
 And curb, by rules as fixed, attraction’s force,<br>
 As hold the struggling planets in their course,[^24]<br>
-
-[^24]: These lines allude to the law of definite proportions, as started by Mr. Dalton, and farther developed by Professor Davy, and also to the rules of crystallization as lately defined. The French chemists have asserted that bodies do not combine in fixed proportions, but in proportion to their relative quantities; for instance, that carbonate of lime would, according to the relative quantities of its elements at its formation, contain a greater or less proportion of carbonic acid, or of lime. But the experiments of Davy and others appear completely to disprove this assertion, and establish Mr. Dalton’s theory. Carbonate of lime is uniformly found to consist of 44 parts of carbonic acid and 56 of lime. Nor does a body capriciously combine in different proportions with different substances. Whatever may be the definite proportion of the body with which it enters into combination, its own remains the same; or should it be augmented, the portion added is always either a multiple or a divisor of the original quantity. Thus oxygen, in all its various unions, with hydrogen, with nitrogen, or with the metals, preserves its fixed proportion of 15 parts by weight, and where more is added, the extra portion is always equal either to 7&frac12; or to 15. Thus nitrous oxyde consists of one proportion or 26 grains of nitrogen united to one proportion, or 15 grains of oxygen, making together 41, which is the proportion in which nitrous oxyde again combines with other bodies to make a tertiary compound. Nitric oxyde consists of 26 grains of nitrogen, united to two proportions, or 30 grains of oxygen, making together 56. Nitrous acid consists of 26 grains of nitrogen, united with four proportions, or 60 grains of oxygen, making together 86. And nitric acid consists of 26 grains of nitrogen united with five proportions, or 75 grains of oxygen, making together 101. Thus in all these combinations the same law is observed.<br>
-<br>
-Nor are the laws of crystallization less denned. A body unexamined may be known by the form of its crystals, and even where the general shape, as in different rhomboids, appears the same, the angles are found to differ. Thus in calcareous spar, from whatever quarter procured, however small or however large the crystals, whether whole, as taken from the mine, or broke: into a number of smaller ones, the form procured is always the rhomboic and that rhomboid has always the same angle, 105 degrees. Other bodies have a rhomboidal crystal, but no other rhomboid has the same angle. — *Davy and Brande’s Lectures.*
-
 Attend; and prove that not in fight alone<br>
 To you descend the wreaths your fathers won,<br>
 But in your counsels be their wisdom shewn;<br>
 For wisdom is the eye our hands obey,<br>
 Valour achieves, but wisdom points the way.
+
+[^24]: These lines allude to the law of definite proportions, as started by Mr. Dalton, and farther developed by Professor Davy, and also to the rules of crystallization as lately defined. The French chemists have asserted that bodies do not combine in fixed proportions, but in proportion to their relative quantities; for instance, that carbonate of lime would, according to the relative quantities of its elements at its formation, contain a greater or less proportion of carbonic acid, or of lime. But the experiments of Davy and others appear completely to disprove this assertion, and establish Mr. Dalton’s theory. Carbonate of lime is uniformly found to consist of 44 parts of carbonic acid and 56 of lime. Nor does a body capriciously combine in different proportions with different substances. Whatever may be the definite proportion of the body with which it enters into combination, its own remains the same; or should it be augmented, the portion added is always either a multiple or a divisor of the original quantity. Thus oxygen, in all its various unions, with hydrogen, with nitrogen, or with the metals, preserves its fixed proportion of 15 parts by weight, and where more is added, the extra portion is always equal either to 7&frac12; or to 15. Thus nitrous oxyde consists of one proportion or 26 grains of nitrogen united to one proportion, or 15 grains of oxygen, making together 41, which is the proportion in which nitrous oxyde again combines with other bodies to make a tertiary compound. Nitric oxyde consists of 26 grains of nitrogen, united to two proportions, or 30 grains of oxygen, making together 56. Nitrous acid consists of 26 grains of nitrogen, united with four proportions, or 60 grains of oxygen, making together 86. And nitric acid consists of 26 grains of nitrogen united with five proportions, or 75 grains of oxygen, making together 101. Thus in all these combinations the same law is observed.<br>
+<br>
+Nor are the laws of crystallization less denned. A body unexamined may be known by the form of its crystals, and even where the general shape, as in different rhomboids, appears the same, the angles are found to differ. Thus in calcareous spar, from whatever quarter procured, however small or however large the crystals, whether whole, as taken from the mine, or broke: into a number of smaller ones, the form procured is always the rhomboic and that rhomboid has always the same angle, 105 degrees. Other bodies have a rhomboidal crystal, but no other rhomboid has the same angle. — *Davy and Brande’s Lectures.*
 
 “A few short hours will view the truce expire<br>
 So late concluded with the Prince of Fire;<br>
@@ -1249,13 +1247,12 @@ Ere wintry storms defaced the lovely land,<br>
 Or sunk the streams in summer’s arid sand,<br>
 When mild the gales, and soft the genial showers,<br>
 And spring perpetual led the laughing hours,<br>
-
-[^25]: Gold was in all probability the first metal discovered, as it is much more frequently found native than any of the others, and if so, the age of gold, the age of silver, &amp;c. have probably derived their names not so much from any supposed alteration in the state or character of man, as from the discovery of the metals whose name they bear. *Davy’s Lectures*.
-
 He graced the earth; then virtue reign’d alone,<br>
 And vice, not even in her name was known;<br>
 And oft, while kindling with his theme, the sage<br>
 Has sung enraptured, of “the Golden Age.”
+
+[^25]: Gold was in all probability the first metal discovered, as it is much more frequently found native than any of the others, and if so, the age of gold, the age of silver, &amp;c. have probably derived their names not so much from any supposed alteration in the state or character of man, as from the discovery of the metals whose name they bear. *Davy’s Lectures*.
 
 On Chrysos’ accents hung the attentive crowd,<br>
 While from his lips the words of wisdom flow’d:
@@ -1460,11 +1457,6 @@ Six giants here, the patriarchs of the state,[^28]<br>
 His chosen guards, in barbarous grandeur wait;<br>
 Unbent with age, the vast Granites bears[^29]<br>
 The gather’d weight of twice three thousand years;<br>
-
-[^28]: The six primitive rocks; granite, porphyry, marble, serpentine, schist, and sienite.
-
-[^29]: The word [greek], *geranites*, granite, has sometimes been derived from [greek], *geranos*, a crane, as its colours are supposed to resemble those of the stork’s neck; but its name is more commonly supposed to have originated in its granular structure.
-
 Those varied hues his stubborn corslet deck,<br>
 That grace the stately crane’s o’erarching neck.<br>
 In purple armour Porphyrites came,[^30]<br>
@@ -1476,12 +1468,9 @@ With changing hues the varying texture glow’d;<br>
 A silvery lustre play’d o’er Schisto’s vest,<br>
 In crimson arms was Sienitos drest.[^33]
 
-Next, rang’d in order, the metallic line<br>
-Around their leader, honour’d Chrysos, shine.<br>
-By Oreichalcon’s harsh aspersions stung,<br>
-His peaceful robes aside the monarch flung,<br>
-And sought the fight, though still he feared to find<br>
-This seeming safety veil some ill behind,<br>
+[^28]: The six primitive rocks; granite, porphyry, marble, serpentine, schist, and sienite.
+
+[^29]: The word [greek], *geranites*, granite, has sometimes been derived from [greek], *geranos*, a crane, as its colours are supposed to resemble those of the stork’s neck; but its name is more commonly supposed to have originated in its granular structure.
 
 [^30]: Porphyry is usually found in smaller blocks than granite, and porphyrytic mountains do not attain so great a height.
 
@@ -1491,6 +1480,12 @@ This seeming safety veil some ill behind,<br>
 
 [^33]: Schist is said to derive its name from its bright and shining appearance. Sienite, not differing greally in its composition from granite, is frequently of a dull crimson.
 
+Next, rang’d in order, the metallic line<br>
+Around their leader, honour’d Chrysos, shine.<br>
+By Oreichalcon’s harsh aspersions stung,<br>
+His peaceful robes aside the monarch flung,<br>
+And sought the fight, though still he feared to find<br>
+This seeming safety veil some ill behind,<br>
 As the smooth surface and luxuriant grass<br>
 Float o’er the horrors of the deep morass.<br>
 And now in arms of purest gold array’d,<br>
@@ -1504,6 +1499,8 @@ Like him engag’d to aid the powers of fire,<br>
 Array’d in arms of every varying dye<br>
 That paints the rainbow of an April sky.[^34]
 
+[^34]: The ores of copper are remarkable for the variety and brilliancy of their hues.
+
 Near these, his dauntless band Magnetes drew,<br>
 True to their leader, to their sovereign true;<br>
 Train’d to the fight, and nurs’d in war’s alarms,<br>
@@ -1512,9 +1509,6 @@ There stood Sideros bold, and by his side<br>
 Chalyps, in many a fiery combat tried.<br>
 The sage Argyros with Molybdos near,<br>
 And brave Plumbago’s brother bands appear;<br>
-
-[^34]: The ores of copper are remarkable for the variety and brilliancy of their hues.
-
 And with these veterans, many a youthful name<br>
 Yet unrecorded on the rolls of fame,<br>
 Each thirsts for glory, and impatient draws<br>
@@ -1528,11 +1522,6 @@ In former combats with the powers of fire,<br>
 Immortal glory did these troops acquire;<br>
 Nor less their argillaceous brethren claim<br>
 The hard-earn’d wreath of never-fading fame.<br>
-
-[^35]: Stypterion, from Στυπτηρια, alumine or clay, pure argillaceous earth, one of the most indestructible substances in nature, and parent of all the gems known by the name of oriental, and included in the barbarous term Corundum: the oriental topaz, emerald, and sapphire, &amp;c. &amp;c.<br>
-<br>
-Nothing can be more different than the characters which alumine imparts to the gems and to the earths; in the first, hard, brittle, brilliant, and pellucid; in the second, opaque, devoid of lustre, and exhibiting, when broken, an earthy fracture. The argillaceous earths are soft to the touch, but harden by fire, absorb water greedily, retain it obstinately, and form, when moistened, a ductile and tenacious mass. When exposed to the action of heat they become, first of a bluish black, then white; they contract and exhibit variou? cracks and fissures, but fire has no farther action upon them, except in increasing the contraction. On this account pyrometers have been constructed of clay, with the hope of being able to measure very high degrees of temperature; but they are uncertain, as the clay does not contract uniformly in the same heat, and is almost as much affected by the duration, as the increase of temperature.
-
 Tho’ not “in glittering arms and glory drest,”<br>
 With equal ardour glow’d each generous breast,<br>
 Practis’d their flexile forms to turn, to bend,<br>
@@ -1544,18 +1533,19 @@ No foe appall’d, no force could make them yield,<br>
 Fresh fields to dare, to win, elate they ran,<br>
 And claim’d their right to combat in the van.
 
+[^35]: Stypterion, from Στυπτηρια, alumine or clay, pure argillaceous earth, one of the most indestructible substances in nature, and parent of all the gems known by the name of oriental, and included in the barbarous term Corundum: the oriental topaz, emerald, and sapphire, &amp;c. &amp;c.<br>
+<br>
+Nothing can be more different than the characters which alumine imparts to the gems and to the earths; in the first, hard, brittle, brilliant, and pellucid; in the second, opaque, devoid of lustre, and exhibiting, when broken, an earthy fracture. The argillaceous earths are soft to the touch, but harden by fire, absorb water greedily, retain it obstinately, and form, when moistened, a ductile and tenacious mass. When exposed to the action of heat they become, first of a bluish black, then white; they contract and exhibit variou? cracks and fissures, but fire has no farther action upon them, except in increasing the contraction. On this account pyrometers have been constructed of clay, with the hope of being able to measure very high degrees of temperature; but they are uncertain, as the clay does not contract uniformly in the same heat, and is almost as much affected by the duration, as the increase of temperature.
+
 Next was Titanos; his white arms diffuse[^36]<br>
 No changeful lustre, boast no varied hues;<br>
 Numerous his train, and like their leader drest,<br>
 But courage glow’d beneath the humble vest.
 
-Near these Silexis’ hardy veterans stand,[^37]<br>
-Unbent, untam’d, a firm determin’d band;<br>
-
 [^36]: Titanos, chalk. There is a general similarity in the appearance of all the calcareous stones. They are usually nearly white, opaque, and devoid of lustre, and are not sufficiently hard to scratch glass.
 
-[^37]: Silex is one of the hardest substances in nature, and the bodies in which it abounds are abundantly diffused. It enters into the composition of the primitive rocks&gt; but is not generally soluble in water, though the Geysers of Iceland, and some springs near Bath, prove that peculiar circumstances may render it so. Siliceous stones are more or less transparent,,nave a fine polish, and scratch glass. To this order belong all those gems which the lapidaries distinguish by the term occidental, in opposition to the oriental, or aluminous gems: also the carnelian, sardonyx, agate, opal, mocha, jasper, chalcedony, garnet, &amp;c. &amp;c.
-
+Near these Silexis’ hardy veterans stand,[^37]<br>
+Unbent, untam’d, a firm determin’d band;<br>
 Yet with their savage strength, and haughty mien,<br>
 The pride of splendour and of dress was seen;<br>
 Bright were their polish’d shields, their corslets beam’d,<br>
@@ -1568,9 +1558,6 @@ With them was Adamas, unconquer’d knight![^38]<br>
 His shield, his mail, insufferably bright;<br>
 In him, in action, as in form divine,<br>
 Achilles’ strength and manly beauty join.
-
-[^38]: Adamas, the diamond, which, though usually placed at the head of the gems, is very different in its composition. No bodies can differ more in external appearance, than charcoal, plumbago or black lead, and the diamond, yet their chemical analysis affords similar results. The diamond burns, like plumbago and charcoal, into pure carbonic acid, and the difference in their aspect probably arises, either from a slight excess or deficiency in the oxygen combined with the carbon, or perhaps only from the different form and arrangement of the particles in crystallization. In coal mines, the stratum of coal is occasionally seen passing, by sensible gradations, into plumbago. Some have supposed plumbago to be charcoal united with iron. Charcoal and plumbago are excellent conductors of electricity, but the diamond is a perfect non-conductor, which strengthens the idea that it contains a portion of oxygen combined with its carbonaceous basis, as this gas, however small in quantity, always destroys conducting power in the body with which it is combined.
-
 A leader’s place to him, in arms, they yield,<br>
 And gladly follow thro’ the embattled field.<br>
 Tho’ prized and honour’d for himself alone,<br>
@@ -1578,25 +1565,16 @@ Alike his lineage and his birth unknown;<br>
 But some (how far unlike his sire!) declare<br>
 Him Carbon’s offspring, by a nymph of air.
 
+[^37]: Silex is one of the hardest substances in nature, and the bodies in which it abounds are abundantly diffused. It enters into the composition of the primitive rocks&gt; but is not generally soluble in water, though the Geysers of Iceland, and some springs near Bath, prove that peculiar circumstances may render it so. Siliceous stones are more or less transparent,,nave a fine polish, and scratch glass. To this order belong all those gems which the lapidaries distinguish by the term occidental, in opposition to the oriental, or aluminous gems: also the carnelian, sardonyx, agate, opal, mocha, jasper, chalcedony, garnet, &amp;c. &amp;c.
+
+[^38]: Adamas, the diamond, which, though usually placed at the head of the gems, is very different in its composition. No bodies can differ more in external appearance, than charcoal, plumbago or black lead, and the diamond, yet their chemical analysis affords similar results. The diamond burns, like plumbago and charcoal, into pure carbonic acid, and the difference in their aspect probably arises, either from a slight excess or deficiency in the oxygen combined with the carbon, or perhaps only from the different form and arrangement of the particles in crystallization. In coal mines, the stratum of coal is occasionally seen passing, by sensible gradations, into plumbago. Some have supposed plumbago to be charcoal united with iron. Charcoal and plumbago are excellent conductors of electricity, but the diamond is a perfect non-conductor, which strengthens the idea that it contains a portion of oxygen combined with its carbonaceous basis, as this gas, however small in quantity, always destroys conducting power in the body with which it is combined.
+
 Nor plain, nor rich, Magnesios’ band was seen,<br>
 Each, like his chief, attir’d in glossy green[^39]<br>
 With them, Asbestos came, himself an host,<br>
 His foemen’s terror, and his kindred’s boast.<br>
 Strontia, Barytes, brother chiefs, were near:[^40]<br>
 Next Ittria, Zircon, and Glucine appear,[^41]<br>
-
-[^39]: The magnesian stones have almost all a green colour, and a shining, or silky appearance. They are soft and may be cut with a knife, and are seldom more than semi-transparent. They do not contract or harden on exposure to heat.
-
-[^40]: Barytes and strontia have not long been added to the catalogue of earths, and the stones in which they are predominant are not numerous. The barytic stones are particularly distinguished for their weight, which long before the discovery of the metal barium, by Professor Davy, gave rise to the suspicion that they must contain a metallic basis. They have a spongy appearance; when exposed to heat they emit a phosphorescent light, and they may be scratched with a knife.<br>
-<br>
-The colour of strontia is generally whitish or light green. Its surface is a little shining in parts, it is brittle, has a slight transparency, and may be scratched with a knife.
-
-[^41]: The earth called ittria is only found in gadolinite; zircon only in the stone which bears its name, and in the hyacinth; glucine is found in the beryl, in the Peruvian emerald, or smaragd, and in the euclase.<br>
-<br>
-It is to be wished, that it were practicable to avoid the mixture of the
-barbarous nomenclature of modern mineralogy with the more sonorous
-names of the Greek.
-
 Gay was their armour, verdant, red, or blue,<br>
 Their hearts were valiant, but their troops were few,<br>
 Of various lineage, what a countless throng,<br>
@@ -1609,6 +1587,14 @@ His feet and head, like Hermes, arm’d with wings:<br>
 A few short moments see their vanguard here;<br>
 Rang’d in a distant vale, the wat’ry line<br>
 Remain inactive, and the fight decline.”
+
+[^39]: The magnesian stones have almost all a green colour, and a shining, or silky appearance. They are soft and may be cut with a knife, and are seldom more than semi-transparent. They do not contract or harden on exposure to heat.
+
+[^40]: Barytes and strontia have not long been added to the catalogue of earths, and the stones in which they are predominant are not numerous. The barytic stones are particularly distinguished for their weight, which long before the discovery of the metal barium, by Professor Davy, gave rise to the suspicion that they must contain a metallic basis. They have a spongy appearance; when exposed to heat they emit a phosphorescent light, and they may be scratched with a knife.<br>
+<br>
+The colour of strontia is generally whitish or light green. Its surface is a little shining in parts, it is brittle, has a slight transparency, and may be scratched with a knife.
+
+[^41]: The earth called ittria is only found in gadolinite; zircon only in the stone which bears its name, and in the hyacinth; glucine is found in the beryl, in the Peruvian emerald, or smaragd, and in the euclase.<br> <br> It is to be wished, that it were practicable to avoid the mixture of the barbarous nomenclature of modern mineralogy with the more sonorous names of the Greek.
 
 He spoke: Albruno bids his squadrons form,<br>
 And still and silent wait the approaching storm.<br>
@@ -1629,19 +1615,18 @@ Your valour view, and glory in their race,<br>
 So may proud Pyros rue this fatal day,<br>
 And my glad bounty all your toils repay.”
 
-Albruno ceas'd, meanwhile, with loyal love,<br>
+Albruno ceas’d, meanwhile, with loyal love,<br>
 A snow-white scarf had Amiantha wove,[^42]<br>
-Tho' thin and flexile, yet, with wondrous art,<br>
-’Twas form'd impervious to the fiery dart.<br>
-Thro' the close ranks, with eager haste, she prest,<br>
-And twin'd its folds around the monarch's breast,<br>
-
-[^42]: The amianthus is more flexible than the asbestos. The ancients possessed the art of weaving its fibres into a kind of cloth which, when cleansed by fire, was of a dazzling whiteness, and, from its incombustibility, was purchased, in the days of Roman luxury, at an exorbitant price, to wrap the bodies of persons of superior rank on the funeral pyre. Their ashes were thus prevented from mingling with those of the wood. The art of weaving amianthine cloth is now lost, or at least neglected. The Tarantaise amianthus is most celebrated; but it is found in many countries: in Cornwall and Anglesea; in the islands of Corsica and Elba; in Saxony and in Sweden, &amp;c. &amp;c. &amp;c.
-
+Tho’ thin and flexile, yet, with wondrous art,<br>
+’Twas form’d impervious to the fiery dart.<br>
+Thro’ the close ranks, with eager haste, she prest,<br>
+And twin’d its folds around the monarch’s breast,<br>
 His grateful smiles and thanks her toil repaid,<br>
 And fill’d with trembling joy the blushing maid;<br>
 A sister’s glance she at Asbestos threw,<br>
 And then with swift, but timid, steps withdrew.
+
+[^42]: The amianthus is more flexible than the asbestos. The ancients possessed the art of weaving its fibres into a kind of cloth which, when cleansed by fire, was of a dazzling whiteness, and, from its incombustibility, was purchased, in the days of Roman luxury, at an exorbitant price, to wrap the bodies of persons of superior rank on the funeral pyre. Their ashes were thus prevented from mingling with those of the wood. The art of weaving amianthine cloth is now lost, or at least neglected. The Tarantaise amianthus is most celebrated; but it is found in many countries: in Cornwall and Anglesea; in the islands of Corsica and Elba; in Saxony and in Sweden, &amp;c. &amp;c. &amp;c.
 
 Now in the distance seen, a dim red light<br>
 Told where the foes rush’d onward to the fight:<br>
@@ -1848,9 +1833,6 @@ Nought now can save him — Yes! the gift of love,<br>
 “The snow-white scarf by Amiantha wove,”<br>
 Unpierc’d repels the thrice repeated blow,<br>
 And foils the vengeance of his furious foe.<br>
-
-[^49]: Πυραφλεκτος, *pyraphlectos*, burning, but not consumed by fire.
-
 Recovering now, again Albruno sway’d<br>
 With firmer grasp his adamantine blade.<br>
 With equal strength, and fir’d with equal rage,<br>
@@ -1859,6 +1841,8 @@ The blows to shun, alike they turn, they bend,<br>
 And swifter now the weighty strokes descend:<br>
 Loud clash’d their arms, and from their falchions bright,<br>
 Shields, helms, and corslets, stream’d the dazzling light.
+
+[^49]: Πυραφλεκτος, *pyraphlectos*, burning, but not consumed by fire.
 
 But Oreichalcon chose this moment dire,<br>
 To lead his troops to join the powers of fire;<br>
@@ -1941,11 +1925,6 @@ And Pyros, while the war allow’d, had eyed<br>
 His gallant offspring with a parent’s pride.<br>
 Amid the band a martial form was seen,<br>
 A Gallic prince, the bold Aventurine;[^53]<br>
-
-[^52]: When acted upon by fire, iron, cobalt, nickel, tellurium, and most of the metals, fly off in sparks, but zinc burns with a beautiful green flame, and its gaseous oxyde rises in clouds of white smoke.
-
-[^53]: The aventurine is a beautiful stone, consisting of brown, green, or red quartz or felspar, interspersed with small laminae of mica, which give it a spangled appearance: it is very brittle. It comes from France and from Siberia.
-
 Thick stars of gold adorn’d his crimson vest,<br>
 His crimson helmet bore a golden crest;<br>
 But from Pyrides’ arm a single stroke<br>
@@ -1981,11 +1960,14 @@ Nor sports and flutters in the noontide ray;<br>
 And near his cell if stray the sprites of fire,<br>
 Beneath his arm their smother’d hosts expire.[^54]
 
-But whence proceeds this sullen murmuring roar.<br>
-Like billows breaking on a rocky shore?<br>
+[^52]: When acted upon by fire, iron, cobalt, nickel, tellurium, and most of the metals, fly off in sparks, but zinc burns with a beautiful green flame, and its gaseous oxyde rises in clouds of white smoke.
+
+[^53]: The aventurine is a beautiful stone, consisting of brown, green, or red quartz or felspar, interspersed with small laminae of mica, which give it a spangled appearance: it is very brittle. It comes from France and from Siberia.
 
 [^54]: The diamond, when exposed to the action of fire, burns (as already stated) into pure carbonic acid. This gas possesses the property of extinguishing flame, and is equally destructive to the slow combustion of animal respiration. It is heavier than common air, in the proportion of 47 to 31, and this density in some degree opposes the tendency of gaseous bodies to universal diffusion, so that an accumulation of carbonic acid gas is frequently found near the floors of caverns, (as in the celebrated Grotto del Cane, at Naples,) at the bottom of deep wells, and of large beer vats; also in mines, where it passes by the name of the Choak Damp, and is often productive of the most fatal effects, as persons who inhale this poisonous air have no power to withdraw themselves from its influence, but fall instantly senseless, and those who hasten to their assistance arrive but to share their fate. In descending to such places, it is always prudent first to lower a candle, as a test of the atmosphere, as wherever that will burn, man may breathe.
 
+But whence proceeds this sullen murmuring roar.<br>
+Like billows breaking on a rocky shore?<br>
 And whence this coolness, this refreshing breeze,<br>
 Like Zephyrs breathing o’er the tranquil seas?<br>
 So late deprest, now rose the fiery line,<br>
@@ -2544,6 +2526,10 @@ They force a passage to the realms of day:<br>
 The Sylphs retire, and trembling with affright,<br>
 The Gnomes malignant eye the unusual light.[^68]
 
+[^68]: Volcanic eruptions are known to be connected with the flowing of water into subterranean caverns, and therefore probably owe their origin to the contention of fire and water, and the expansive force of steam. This conjecture appears to derive strength from the Geysers, or boiling fountains of Iceland, which throw up immense columns of steam to the height of 100 feet, with such force as to sustain bodies of considerable weight, and which undoubtedly arise from an immense reservoir of water continually boiling beneath that wonderful island; that strange mixture of frost and flame, where the inhabitants of the pole and of the equator might find their accustomed temperatures without losing sight of each other. The Geysers, with the ex- ception of some springs near Bath, are the only known waters which contain silcx in solution. Sir George Mackenzie, in the account of his Travels in Iceland, has given a very interesting description of these intermittent fountains of steam, and a probable theory of their origin.<br>
+<br>
+Professor, now Sir H. Davy, has imagined volcanic eruptions to arise from the metals of the earth, which existing in a pure state, beyond the contact of air and oxygen, are suddenly inflamed at the influx of water. The conflagration thus kindled might afterwards be extended and supported by other substances.
+
 ’Twas night’s meridian; on the tranquil scene<br>
 Pale Cynthia shed her silver ray serene,<br>
 And scarce a zephyr breath’d their sweets to bear<br>
@@ -2552,13 +2538,6 @@ Still were the hamlets in the glens below,<br>
 The flocks slept peaceful on the mountain’s brow,<br>
 When starting from the turf, in panic fear,<br>
 They clustering ran, as warn’d of danger near;[^69]<br>
-
-[^68]: Volcanic eruptions are known to be connected with the flowing of water into subterranean caverns, and therefore probably owe their origin to the contention of fire and water, and the expansive force of steam. This conjecture appears to derive strength from the Geysers, or boiling fountains of Iceland, which throw up immense columns of steam to the height of 100 feet, with such force as to sustain bodies of considerable weight, and which undoubtedly arise from an immense reservoir of water continually boiling beneath that wonderful island; that strange mixture of frost and flame, where the inhabitants of the pole and of the equator might find their accustomed temperatures without losing sight of each other. The Geysers, with the ex- ception of some springs near Bath, are the only known waters which contain silcx in solution. Sir George Mackenzie, in the account of his Travels in Iceland, has given a very interesting description of these intermittent fountains of steam, and a probable theory of their origin.<br>
-<br>
-Professor, now Sir H. Davy, has imagined volcanic eruptions to arise from the metals of the earth, which existing in a pure state, beyond the contact of air and oxygen, are suddenly inflamed at the influx of water. The conflagration thus kindled might afterwards be extended and supported by other substances.
-
-[^69]: Animals are usually observed to anticipate thunder and other such phenomena. It is probable that they are warned by some peculiarity in the atmosphere, or by some sign that escapes the notice of man.
-
 Their shaggy guards howl’d hideous at the sound<br>
 Of low deep thunder in the hollow ground.<br>
 Appall’d, the shepherd sees a mount arise —<br>
@@ -2599,6 +2578,8 @@ Thro’ the thick volumes of sulphureous smoke,<br>
 Or the red light that glow’d along the plain,<br>
 From gleaming arms, and fire’s expiring train.
 
+[^69]: Animals are usually observed to anticipate thunder and other such phenomena. It is probable that they are warned by some peculiarity in the atmosphere, or by some sign that escapes the notice of man.
+
 But Ariel now from rescued Henry flew,<br>
 And pierced the distant heaven’s ethereal blue:<br>
 Above the clouds, he reach’d his throne of light,<br>
@@ -2623,13 +2604,6 @@ Resolved to end the war — A glance lie cast<br>
 Where near his throne a minor planet past,<br>
 There oft these orbs their burning faces shew,<br>
 Their names are meteors with the world below.[^71]<br>
-
-[^70]: The famous throne of Hlidskialfa is in the palace, not of Valhalla, but of Valaskialf. This throne was so situated, that any one sitting upon it might behold all the regions of the world. It properly belonged to Odin and Frigga. — *Cottle’s Edda*.
-
-[^71]: <a id="meteor"></a>Sir John Pringle has imagined meteors to be a sort of minor planets rolling through various systems, and kindling on their entrance into our atmosphere. During their inflammation, they throw off those bodies called meteoric stones. That these bodies actually fall from the clouds appears now scarcely to admit a doubt, both from their peculiar composition, and the number of evidences that attest the fact. Meteoric stones have been frequently found hot, immediately after the passage of a meteor. Their elements invariably consist of iron, silex, magnesia, and nickel. The three latter ingredients are sometimes in such small quantities, as to leave the iron almost pure, and constituting what is called native iron. This iron is very different from that procured from the ore, which seems to arise from the mixture of nickel: it is harder, takes a fine polish, resists tarnishing, and is always magnetic. There is a large mass of this iron in Siberia, weighing 650 pounds; in Peru there is another of the enormous weight of 15 tons, and there is one similar at the Cape.<br>
-<br>
-Professor Davy has imagined, that meteors, whether planets or otherwise, may have consisted originally of the pure metals of silex and magnesia, united with iron and nickel. The two former would necessarily ignite on meeting with the oxygen of our atmosphere, and the meteors passing off to other systems, leave a part of their substance as a compensation for the weight of oxygen acquired.
-
 He seized the wanderer, reckless of its weight,<br>
 And swift thro’ ether wing’d his radiant flight;<br>
 Soon o’er the gulf he hung — the orb he cast,<br>
@@ -2644,6 +2618,12 @@ Yet still the cries of warriors maim’d in fight<br>
 Disturb the sacred silence of the night,<br>
 The dreary scene thick dust and ashes spread,<br>
 And broken arms, and bodies of the dead.
+
+[^70]: The famous throne of Hlidskialfa is in the palace, not of Valhalla, but of Valaskialf. This throne was so situated, that any one sitting upon it might behold all the regions of the world. It properly belonged to Odin and Frigga. — *Cottle’s Edda*.
+
+[^71]: <a id="meteor"></a>Sir John Pringle has imagined meteors to be a sort of minor planets rolling through various systems, and kindling on their entrance into our atmosphere. During their inflammation, they throw off those bodies called meteoric stones. That these bodies actually fall from the clouds appears now scarcely to admit a doubt, both from their peculiar composition, and the number of evidences that attest the fact. Meteoric stones have been frequently found hot, immediately after the passage of a meteor. Their elements invariably consist of iron, silex, magnesia, and nickel. The three latter ingredients are sometimes in such small quantities, as to leave the iron almost pure, and constituting what is called native iron. This iron is very different from that procured from the ore, which seems to arise from the mixture of nickel: it is harder, takes a fine polish, resists tarnishing, and is always magnetic. There is a large mass of this iron in Siberia, weighing 650 pounds; in Peru there is another of the enormous weight of 15 tons, and there is one similar at the Cape.<br>
+<br>
+Professor Davy has imagined, that meteors, whether planets or otherwise, may have consisted originally of the pure metals of silex and magnesia, united with iron and nickel. The two former would necessarily ignite on meeting with the oxygen of our atmosphere, and the meteors passing off to other systems, leave a part of their substance as a compensation for the weight of oxygen acquired.
 
 From conflict by their flying squadrons borne,<br>
 Again to fight the rival kings return.<br>
@@ -3623,9 +3603,6 @@ On their rude sides the weeds of ocean wave,<br>
 The nurturing seas their floating foliage lave.<br>
 And here the gay Zoanthæ emulate[^96]<br>
 Flora’s bright train and transitory state.<br>
-
-[^96]: The actiniæ or sea anemones, and sea marigolds, have received the name of zoanthæ or animal flowers. They are of an oblong form, and when closed, resemble a truncated cone. They are fixed by the base, and the upper part is surrounded with many tentacula?, in the centre of which is the mouth. Many of them are of very brilliant colours, and when their tentaculæ are expanded, they have the appearance of full blown flowers. They feed on small shell-fish and other marine animals, which coming within reach of the expanded tentaculæ, are immediately seized and drawn into the mouth, which closes over them. The shells, and other indigestible parts, are afterwards returned through the mouth.
-
 Mid scatter’d shells, and tufts of herbage green,<br>
 The sad remains of human toil are seen.<br>
 On wrecks of ships, that proudly bore afar<br>
@@ -3656,15 +3633,6 @@ Or sportive wheel in many a mazy ring,<br>
 Now soar on high, now sink on idle wing;<br>
 Thus o’er his head the finny nations glide,<br>
 And lash with strenuous tail the sparkling tide.<br>
-
-[^97]: The coral islands are formed with a rapidity that is astonishing, whether we consider the great depth from which they rise, or the extreme minuteness of the animals that produce them. It is chiefly in the Pacific Ocean that this growth of coral takes place, where many large islands are continually forming, and rise up, from immense depths almost perpendicularly, to the surface of the water. The sea then gradually filling up the interstices of the coral with mud and sand, a soil is formed, and by degrees the islands become the rich and fertile abodes of man and animals.<br>
-<br>
-Captain Flinders seems to have been particularly struck with the variety of form and colour presented by the corallines on the reefs of New Holland, or Australasia, “equalling in beauty, and excelling in grandeur, the most favourite parterre of the curious florist.”<br>
-<br>
-Some of the animals that form the coral, seem to live in a kind of commonwealth, their bodies being connected by a network of nerves. It should appear, that the food received by one affords benefit to the whole community, so that if one of them be indisposed to eat, he may subsist on the nutriment communicated by others.<br>
-<br>
-The growth of coral is much less observable in European seas, or in the Atlantic, except near the West Indies and in the Red Sea. There is coral in the Straits of Messina, and Spallanzani has given a long account of ths fishery there. — *Roget’s Lectures*.
-
 Like swallows marshall’d for their annual flight,<br>
 The smaller tribes in countless shoals unite,<br>
 Still as they roam, inhale the briny flood,<br>
@@ -3673,6 +3641,16 @@ Behind, the tyrants of the deep pursue,<br>
 Their savage hunger kindling at the view,<br>
 Their opening jaws the gates of death reveal,<br>
 And shoals are crush’d at one rapacious meal.
+
+[^96]: The actiniæ or sea anemones, and sea marigolds, have received the name of zoanthæ or animal flowers. They are of an oblong form, and when closed, resemble a truncated cone. They are fixed by the base, and the upper part is surrounded with many tentacula?, in the centre of which is the mouth. Many of them are of very brilliant colours, and when their tentaculæ are expanded, they have the appearance of full blown flowers. They feed on small shell-fish and other marine animals, which coming within reach of the expanded tentaculæ, are immediately seized and drawn into the mouth, which closes over them. The shells, and other indigestible parts, are afterwards returned through the mouth.
+
+[^97]: The coral islands are formed with a rapidity that is astonishing, whether we consider the great depth from which they rise, or the extreme minuteness of the animals that produce them. It is chiefly in the Pacific Ocean that this growth of coral takes place, where many large islands are continually forming, and rise up, from immense depths almost perpendicularly, to the surface of the water. The sea then gradually filling up the interstices of the coral with mud and sand, a soil is formed, and by degrees the islands become the rich and fertile abodes of man and animals.<br>
+<br>
+Captain Flinders seems to have been particularly struck with the variety of form and colour presented by the corallines on the reefs of New Holland, or Australasia, “equalling in beauty, and excelling in grandeur, the most favourite parterre of the curious florist.”<br>
+<br>
+Some of the animals that form the coral, seem to live in a kind of commonwealth, their bodies being connected by a network of nerves. It should appear, that the food received by one affords benefit to the whole community, so that if one of them be indisposed to eat, he may subsist on the nutriment communicated by others.<br>
+<br>
+The growth of coral is much less observable in European seas, or in the Atlantic, except near the West Indies and in the Red Sea. There is coral in the Straits of Messina, and Spallanzani has given a long account of ths fishery there. — *Roget’s Lectures*.
 
 [^98]: Many of the larger tribes of fishes feed on the smaller kinds, and are exceedingly voracious, but most fishes appear to derive their subsistence from the element which surrounds them. Perhaps the medusæ and other minute animals which inhabit the water, may contribute to their nutrition. Among birds which assemble for periodical migrations, those which fly first of the troop, eat up the country, and are strong and fat, while their unfortunate followers, unable to find sufficient provision, are weak and emaciated, and fall an easy prey to the tigers and hyenas that prowl behind. But in fish, where the shoals are infinitely more numerous, this is never the case, and the last of a shoal of herrings or of mackerel, is in as good condition as its predecessors. Did the majority of fishes require any other food than what is afforded by the water which surrounds them, where would the immense multitudes which inhabit the ocean find provision? It would be greedily devoured by the larger tribes, and they would be left to perish by famine. — *Roget’s Lectures*.
 
@@ -4352,14 +4330,11 @@ And brighten’d ocean with a glow of red;<br>
 Like distant thunder, burst a hollow sound,<br>
 Disturb’d the quivering air, and shook the shores around.[^105]
 
+[^105]: In the description of Stromboli, and of the descents of Leonora and Alonzo, the account of Spallanzani is chiefly followed. Stromboli is perhaps the most extraordinary of volcanoes. The island is entirely composed of streams of lava, that, from their direction, have evidently flowed from a crater at the top of the mountain, which is still remaining, but the time of its extinction is unknown. The present crater is about half way up the mountain. Stromboli does not, like other volcanoes, rage only at intervals, but appears, from the earliest times, to have been in unremitted action, yet no lava has ever flowed from the present crater. Strabo and others speak of the brightness of the eruptions, and Diodorus notices their constancy.
+
 Now on the coast the chariot sinks to land,<br>
 Where mingled lavas form’d the rugged strand,<br>
 And o’er the ground deep spread the sable sand[^106]<br>
-
-[^105]: In the description of Stromboli, and of the descents of Leonora and Alonzo, the account of Spallanzani is chiefly followed. Stromboli is perhaps the most extraordinary of volcanoes. The island is entirely composed of streams of lava, that, from their direction, have evidently flowed from a crater at the top of the mountain, which is still remaining, but the time of its extinction is unknown. The present crater is about half way up the mountain. Stromboli does not, like other volcanoes, rage only at intervals, but appears, from the earliest times, to have been in unremitted action, yet no lava has ever flowed from the present crater. Strabo and others speak of the brightness of the eruptions, and Diodorus notices their constancy.
-
-[^106]: The coast of Stromboli is covered to the east and north-east with a black shining sand, which extends to some distance into the sea. It arises from the scoriaceous lava ejected by the mountain, which is very friable and soon be- comes pulverized. — *Spallanzani*.
-
 And oft some broken rock or cavern show’d<br>
 Where o’er the first the later streams had flow’d.<br>
 As Leonora left her cloud-like car,<br>
@@ -4396,6 +4371,8 @@ He, pleas’d to see the infant race aspire,<br>
 They, proud to hear and emulate their sire,<br>
 And the glad hours had past in such delight,<br>
 That far the day had trespass’d on the night.
+
+[^106]: The coast of Stromboli is covered to the east and north-east with a black shining sand, which extends to some distance into the sea. It arises from the scoriaceous lava ejected by the mountain, which is very friable and soon be- comes pulverized. — *Spallanzani*.
 
 [^107]: Spallanzani notices the attachment of the natives of Stromboli to their rugged shore, and miserable huts, formed of pieces of lava rudely piled together, even in situations where their little vineyards frequently suffered from the sulphureous vapours and explosions of the mountain.
 
@@ -4531,13 +4508,6 @@ Some the fall’n woods, by earth long cover’d o’er,<br>
 With fumes sulphureous fill at every pore,<br>
 Bid dark bitumen now pervade the whole,<br>
 And change the forest’s leafy pride to coal,[^113]<br>
-
-[^111]: Vulcano has in all ages been remarkable for the immense volumes of sulphureous vapour arising in various parts of the island, and in particular from the crater. The soil is in many places so impregnated with them, that on turning it slightly over, large clods of sulphur are found, These were formerly a great article of traffic, but in consequence of the heat of the ground the search is now abandoned, though the sulphur continues as plentiful as formerly. Sulphur is a great agent in the decomposition of lava, which, when exposed to its vapours, becomes soft, is covered by a white crust, and gradually crumbles away.
-
-[^112]: Sir James Hall made many experiments to ascertain the effect of heat on bodies secured from the access of air, and under considerable pressure. In these circumstances, he found that chalk assumed the crystallized appearance of white marble, and that several of the earths were converted into lava.
-
-[^113]: However extraordinary it may appear, recent observations seem completely to establish the vegetable origin of coal. That immense forests should suddenly have been overwhelmed, and, by the action of sulphureous and bituminous vapours permeating their centre, have become completely mineralized, is less wonderful than that succeeding and again succeeding forests should have sprung and flourished on the site of their buried ancestors, and at last have shared their fate. Yet such is the scene exhibited by the numerous subjacent strata of our coalmines.
-
 While some with empyrean air combine,<br>
 And bid the crystal mass a diamond shine,<br>
 Or dark plumbago frown in sable pride,<br>
@@ -4546,6 +4516,12 @@ And some the elemental war sustain,<br>
 Where frost and fire contend for Thule’s reign,<br>
 Where her vast geysers’ boiling fountains flow,<br>
 And Hecla burns amid eternal snow.
+
+[^111]: Vulcano has in all ages been remarkable for the immense volumes of sulphureous vapour arising in various parts of the island, and in particular from the crater. The soil is in many places so impregnated with them, that on turning it slightly over, large clods of sulphur are found, These were formerly a great article of traffic, but in consequence of the heat of the ground the search is now abandoned, though the sulphur continues as plentiful as formerly. Sulphur is a great agent in the decomposition of lava, which, when exposed to its vapours, becomes soft, is covered by a white crust, and gradually crumbles away.
+
+[^112]: Sir James Hall made many experiments to ascertain the effect of heat on bodies secured from the access of air, and under considerable pressure. In these circumstances, he found that chalk assumed the crystallized appearance of white marble, and that several of the earths were converted into lava.
+
+[^113]: However extraordinary it may appear, recent observations seem completely to establish the vegetable origin of coal. That immense forests should suddenly have been overwhelmed, and, by the action of sulphureous and bituminous vapours permeating their centre, have become completely mineralized, is less wonderful than that succeeding and again succeeding forests should have sprung and flourished on the site of their buried ancestors, and at last have shared their fate. Yet such is the scene exhibited by the numerous subjacent strata of our coalmines.
 
 But now, emerg’d from Genoa’s ample bay,<br>
 The light felucca cuts its rapid way;<br>
@@ -4568,6 +4544,8 @@ And now arrived at Lipari’s isle, they moor<br>
 Their galley in its shelter’d port secure.<br>
 The harbour, with the town and castle crown’d,<br>
 Stretch’d like an amphitheatre around.
+
+
 
 [^114]: These medusæ are found in great numbers in the Straits of Messina and occasionally in the seas which surround the Eolian Isles. The Abbé Spallanzani has given a very long account of them in the fourth volume of his *Travels in the Two Sicilies*. He says that they shine like a torch, and that their light is visfble to the distance of some hundred paces. It is also visible when they are thirty-five feet below the water. The light is variable, and appears to depend on the motion of the animal. Sometimes it continues for a quarter of an hour or longer, at others it becomes suddenly extinct, and re-appears after a considerable interval.<br>
 <br>
@@ -5026,6 +5004,8 @@ Feels the attraction of our greater world;<br>
 Or as a minor planet swiftly moves<br>
 Thro’ various systems, kindling as it roves.[^125]
 
+[^125]: The subject of meteors and meteoric stones, and the numerous theories respecting them have been considered in a [note on the Third Book](#meteor), page 120.
+
 Thro’ the light air, and fann’d by fragrant gales,<br>
 As o’er the clouds the ethereal chariot sails,<br>
 The maiden marks the Sylphs their tasks pursue<br>
@@ -5036,15 +5016,6 @@ Hence countless suns to distant worlds appear,<br>
 And beaming planets gild each other’s sphere,[^126]<br>
 Some o’er the viewless rays of heat preside,<br>
 And thro’ ethereal realms their progress guide;[^127]<br>
-
-[^125]: The subject of meteors and meteoric stones, and the numerous theories respecting them have been considered in a [note on the Third Book](#meteor), page 120.
-
-[^126]: The rapidity with which light is transmitted is surpassed by nothing but electricity, which in its passage along a very extended chain, always appears to be in every part at the same instant. Whether light be a substance or an action, has been often debated, yet never decided; but its extreme swiftness cannot be better illustrated than by the simple fact, that the time in which it passes from the sun to the earth, a distance of nearly one hundred millions of miles, does not exceed eight minutes and a half.
-
-[^127]: Light and heat though usually, are not inseparably, connected, which is proved by the analysis of the ray by the prism. At the violet end of the spectrum, scarcely any heat is perceptible; but it increases gradually towards the red rays, and is strongest in certain invisible rays which extend beyond them. In a similar way, the chemical effects produced by the beams of the sun appear not to depend either on light or heat, but on a peculiar set of rays, different though connected with them. Horn, silver, or any other body, whose colour is changed or blackened by exposure to the sun, is scarcely affected by the red rays, but changes more rapidly when it approaches the violet end of the spectrum, and in certain invisible rays beyond them the effect is much the strongest.<br>
-<br>
-The nature of heat, whether it be a substance or an action, a peculiar subtle fluid that insinuates itself between the particles of bodies, and incites them to repel each other, or merely a series of pulsations or undulations, received arid transmitted by them, appears to be as little ascertained as the nature of light, and the French and English chemists have, as usual, embraced opposite sides of the question. — *Davy and Brande*.
-
 While borne diffuse on every side around<br>
 The quick vibrations of concentric sound.[^128]<br>
 Some bid the lightning flash, the thunder roll,<br>
@@ -5055,17 +5026,22 @@ Some paint in liveliest hues each various flower,<br>
 Fan the slow flame of being, and restore<br>
 In tenfold light, the torch’s fading ray,<br>
 Or bar the bold Electron’s rapid way.[^130]
+While some, with these in union, close combine,<br>
+And bid the leaves with pearly dew-drops shine;[^131]<br>
+Or where above, the sun less warmly glows,<br>
+In glittering stars congeal the feathery snows.[^132]
+
+[^126]: The rapidity with which light is transmitted is surpassed by nothing but electricity, which in its passage along a very extended chain, always appears to be in every part at the same instant. Whether light be a substance or an action, has been often debated, yet never decided; but its extreme swiftness cannot be better illustrated than by the simple fact, that the time in which it passes from the sun to the earth, a distance of nearly one hundred millions of miles, does not exceed eight minutes and a half.
+
+[^127]: Light and heat though usually, are not inseparably, connected, which is proved by the analysis of the ray by the prism. At the violet end of the spectrum, scarcely any heat is perceptible; but it increases gradually towards the red rays, and is strongest in certain invisible rays which extend beyond them. In a similar way, the chemical effects produced by the beams of the sun appear not to depend either on light or heat, but on a peculiar set of rays, different though connected with them. Horn, silver, or any other body, whose colour is changed or blackened by exposure to the sun, is scarcely affected by the red rays, but changes more rapidly when it approaches the violet end of the spectrum, and in certain invisible rays beyond them the effect is much the strongest.<br>
+<br>
+The nature of heat, whether it be a substance or an action, a peculiar subtle fluid that insinuates itself between the particles of bodies, and incites them to repel each other, or merely a series of pulsations or undulations, received arid transmitted by them, appears to be as little ascertained as the nature of light, and the French and English chemists have, as usual, embraced opposite sides of the question. — *Davy and Brande*.
 
 [^128]: The nature of sound cannot be better illustrated than by throwing a pebble into the water, and observing the concentric circles that immediately begin to spread, and becoming wider and fainter, cease at a considerable distance. Sound consists of a number of vibrations transmitted by the particles of air in concentric circles around the body which impels them. Denser bodies convey sound better and more rapidly than air, for instance, water, ice, the metals, &amp;c.
 
 [^129]: The spirits presiding over electricity are here intended. The phenomena of the Auroras Borealis and Australis are generally believed to be owing to the passage of electricity through the rare atmosphere of the poles.
 
 [^130]: It has been supposed that oxygen is the chief agent in producing the vivid hues of flowers, particularly the red tints. Its presence is necessary to combustion and to respiration, which appear to be of the same nature, carbonic acid being the result of both. It was formerly believed that oxygen entered into combination with the blood during respiration, and that it was absorbed; but experiment has proved this opinion to be incorrect, and that the whole of the oxygen, consumed in respiration, is employed in the formation of the carbonic acid evolved. It has been stated in a former note, that oxygen, on entering into combination with a body, destroys its conducting power; it is, therefore, said in the poem to obstruct the progress of electricity. *Davy, Brande,and Roget’s Lectures*.
-
-While some, with these in union, close combine,<br>
-And bid the leaves with pearly dew-drops shine;[^131]<br>
-Or where above, the sun less warmly glows,<br>
-In glittering stars congeal the feathery snows.[^132]<br>
 
 [^131]: This alludes to the formation of water by the combination of oxygen and hydrogen, or inflammable air. It is a curious circumstance, that water, the greatest enemy to combustion, should be formed by the union of the greatest, and till lately believed, the sole supporter of combustion, with a gas itself inflammable.
 
@@ -5188,6 +5164,8 @@ Their lord Albruno, sanctioned his decree.[^137]
 
 [^136]: A spacious hall surrounded by galleries is supported by columns of mine silver, which reflect in every direction the lamps that illume this subterranean region. A river passes along the centre of the hall; and the contrast of this scene of light, with the preceding descent, is very striking. — *M. de Bomare*.
 
+[^137]: These lines allude to silver, as being the usual standard of value among civilized nations, and determining the price even of gold.
+
 Thro’ the vast throng that crowd this ample hall,<br>
 The adventurers past, invisible to all;<br>
 They reach’d the portal, where, with Attic taste,<br>
@@ -5204,11 +5182,6 @@ And view, where turn’d by subterranean gales,<br>
 The restless mills expand their whirling sails.<br>
 But watchful Ariel shudder’d here to view<br>
 Each yellow flame decay in livid hue,<br>
-
-[^137]: These lines allude to silver, as being the usual standard of value among civilized nations, and determining the price even of gold.
-
-[^138]: In the mine of Salseberist there is a windmill turned by a subterranean current of air, and employed to raise the water, which might otherwise incommode the miners.
-
 And heard the thrilling shriek of woe and fear,<br>
 That told the mine’s malignant demon near.[^139]<br>
 Those fading flames attest his baleful breath,<br>
@@ -5223,6 +5196,8 @@ Or, withering at his touch, unhappy fair!<br>
 Thy fears and hopes at once had ended there! —<br>
 Bright beam the lamps, the Gnomes recovered rise,<br>
 And all again is bustle, life, and noise.
+
+[^138]: In the mine of Salseberist there is a windmill turned by a subterranean current of air, and employed to raise the water, which might otherwise incommode the miners.
 
 [^139]: An attempt is here made to give an idea of the phenomenon called by the miners Fire Damp. This is an explosion of hydrogen gas, which not unfrequently takes place in mines where ventilation is not properly attended to, and sometimes produces very fatal consequences. The hydrogen exhaling from some neglected part of the mine, takes fire at the lamps of the workmen, and produces a violent explosion, the effects of which are however less dreadful than those of the air rushing in to supply its place. If the miners have sufficient time, they endeavour to prevent the explosion by extinguishing their lights, or fall on their faces to avoid the return of the blast. Sometimes they observe a white film floating over their heads, which they instantly seize, and crush in their hands, to prevent its explosion. In mines which are much troubled with hydrogen gas, the men are not allowed lamps, but work by the light of a flint-mill, or of sparks struck from a wheel surrounded with blades of iron, like that of a razor-grinder, and turned rapidly round.
 
@@ -5452,31 +5427,27 @@ Alike a portion of that heavenly flame,<br>
 That flows at once thro’ earth, and air, and sky,<br>
 One boundless flood of life, and love, and joy.”
 
-Fraudful he spoke, who deem'd securely chain' d,
-His deepest cell the captive youth detain'd,
-Nor thought, for one unknown, the bravest knight 3SO
-Thro' Europe's realms would dare the unequal tight;
-Or rashly should some chief the held demand,
-What could Albruno fear from mortal hand?
-He only sought, by seeming good betray'd,
-From upper light to keep the hapless maid,
-And hold her, when expir'd the fatal day,
-Within his power an unresisting prey.
+Fraudful he spoke, who deem’d securely chain’d,<br>
+His deepest cell the captive youth detain’d,<br>
+Nor thought, for one unknown, the bravest knight<br>
+Thro’ Europe’s realms would dare the unequal tight;<br>
+Or rashly should some chief the held demand,<br>
+What could Albruno fear from mortal hand?<br>
+He only sought, by seeming good betray’d,<br>
+From upper light to keep the hapless maid,<br>
+And hold her, when expir’d the fatal day,<br>
+Within his power an unresisting prey.@
 
 Maria, weeping, with her friend withdrew,
 Nor found the prospect brighten on her view;
-Fate seemed to draw a darker circle round, ^90
-
+Fate seemed to draw a darker circle round,
 Her Henry lost, herself more firmly bound —
 While Amiantha vainly strives to cheer
 Her drooping heart, and dry the frequent tear;
-Yet ever as the injur'd maid inclin'd
-In harsher hues to paint Albruno's mind,
+Yet ever as the injur’d maid inclin’d
+In harsher hues to paint Albruno’s mind,
 She on the portrait milder colouring laid,
-And gave it brighter tints and softer shade .
-
-
-
+And gave it brighter tints and softer shade.
 
 Where Albion lifts her chalky cliffs on high,
 The first faint crimson streak'd the eastern sky,
