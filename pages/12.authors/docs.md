@@ -475,7 +475,7 @@ tntsearch:
 </div>
 
 [The Queen and Her Three Daughters](../../season-3/meeting-31/queen) → <span class="grey">&ensp;?</span>   
-[On the Summary of Alchemy](../../season-3/meeting-31/alchemy) → <span class="name">com. Mrs Flaxman</span>  <span class="alias">(Katterfelto)</span>
+[On the Summary of Alchemy](../../season-3/meeting-31/alchemy) → <span class="name">com. Mrs Flaxman</span> <span class="alias">(Katterfelto)</span>  
 [An Attempt to Delineate a Character](../../season-3/meeting-31/character) → <span class="name">com. Miss Richardson</span>  
 [On Phosphorus](../../season-3/meeting-31/phosphorus) → <span class="name">Miss Porden</span>  
 [The Fop’s Distress](../../season-3/meeting-31/fop) → <span class="name">Miss Porden</span>  
