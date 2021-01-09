@@ -20,7 +20,7 @@ Of the whole Art *it* is the *golden mean*,<br>
 Seek then what we a *Vapour* call; I ween,<br>
 For a live Animal, mistake it not<br>
 And yet, a red devouring lion ’tis, I wot,<br>
-In form of *flying mercury*, oft tis seen<br>
+In form of *flying mercury*, oft ’tis seen<br>
 And yet, no vulgar mercury ’tis I ween;<br>
 For *Pure* and *Clear*; yet ponderous it is not,<br>
 Unlike the common *argent vive*, I wot,<br>
