@@ -24,7 +24,7 @@ In form of *flying mercury*, oft tis seen<br>
 And yet, no vulgar mercury ’tis I ween;<br>
 For *pure* and *clear*; yet ponderous it is not,<br>
 Unlike the common *argent vive*, I wot,<br>
-Some wits in sport y’clept it *lion green*
+Some wits in sport y’clept it *lion green*<br>
 Just so, as like a blue-dog ’tis, I ween,<br>
 For herb, or brute, or bird, be sure ’tis not,<br>
 A *mineral, cum grano salis*, ’tis, I wot,<br>
