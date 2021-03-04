@@ -9,7 +9,7 @@ taxonomy:
         - docs
 visible: false
 tntsearch:
-    index: false
+    index: true
 ---
 
 <style>
