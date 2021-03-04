@@ -12,6 +12,8 @@ tntsearch:
     index: true
 ---
 
+<div style="text-align:right"><span class="dro">D8760/F/GEL/2/3/5</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fGEL%2f2%2f3%2f5&pos=8" target="_blank"><i class="fa fa-external-link"></i></a></div>
+
 14th June, 1815.  
 
 It is my wish to retrace in this paper the course of a conversation held last night with Miss Vardill, if but to show me, at some future time, how far my present opinions have been confirmed or changed by experience. Many of the ideas here started have long been familiar to my mind tho’ never before spoken of to any one, and many sprung up in my brain as we pursued the train of reasoning. Whether my opinions are new or trite, I know not. I never read any work on the subject here treated, and all that follows has arisen simply from reflexion on the nature and operations of my own mind and this habit of reflecting has doubtless been assisted by the peculiar circumstances in which I am placed. The uncommon mixture of Solitude and Society which has always been my lot.
