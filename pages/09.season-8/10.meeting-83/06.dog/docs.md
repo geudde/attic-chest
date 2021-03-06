@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 Inscription upon a stone erected to the memory of a favorite dog — interred in a park in Upper Saxony

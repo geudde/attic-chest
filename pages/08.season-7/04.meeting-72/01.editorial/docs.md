@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 We are disappointed in not having received any further contributions from the Hermit’s Dale; as we had fully hoped to have introduced our hearers to the 5th Brother this evening. Our Chest is however well supplied, and the Drama, which we shall this night present to our friends is of such length, as to leave but little space for other matter. The students of Positive House appear to have intended the Lunatics partly as a burlesque upon themselves, and tho’ Electromagus appears to regret Lord Aircastle’s absence, we think that had he been present he might have felt in the lunar voyage something like satire on the failure of his balloon.  

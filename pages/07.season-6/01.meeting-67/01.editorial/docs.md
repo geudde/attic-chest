@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 We had sketched in imagination a neat little paragraph expressive of the pleasure we feel in beholding our Attic Circle again assembled, and in finding that neither illness, fogs nor frost, have been able to with the foliage, to dim the brilliancy or blight the buds of their poetic laurels. One of our ingenious correspondents has however, obligingly relieved us from this part of our labors by a neat imitation of our Editorial remarks. By what means he became acquainted with a great part of the contents of our coffer we are at a loss to comprehend, but his remarks tho’ short, are appropriate. Indeed we cannot help suspecting that some wicked little Fairy has been sporting with the credulity of ourselves and our friends. Of the advertisement for an Attic Poet-Laureate we know nothing, but from whatever quarter it originated we cannot be displeased at a fraud that has filled out coffer with gems of such brilliancy as those that sparkle in the addresses of the various candidates.  

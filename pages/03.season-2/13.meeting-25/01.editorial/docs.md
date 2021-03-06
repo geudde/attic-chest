@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 The contest between the faults of the two sexes seems to draw near a termination, for Timon on the one side acknowledges himself conquered, and Incognita appears inclined to retire from the field, by relinquishing what she is entitled to, both by the laws of forensic war and the undisputed privilege of her sex, *the last word*. This Lady has given a solution of the riddle which circumscribes the virtues of the fair sex in the compass of a silver penny; but with submission to the gallant Amazon, who may reasonably be supposed to know her own meaning. We think a better solution may be found, and we throw the ball once more to our auditors, *and catch it who can.* As to Timon we look upon him as a recreant knight, for we do not remember to have seen him in the field, and unless he fought in borrowed armour, he has challenged and yielded, without either giving or receiving a blow. We hope the Ladies will sing his praises in hudibrastic heroics and give him a wreath of nettles as the fomentor of strife, instead of laurel that bind the brow of the honourable warrior.

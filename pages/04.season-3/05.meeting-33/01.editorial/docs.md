@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 The following List of contributions yet unread will prove to our hearers, that we did not exaggerate when we vaunted the richness of our repository, in our last introduction.

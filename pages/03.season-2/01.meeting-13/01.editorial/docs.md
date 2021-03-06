@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 The Editor and Editress of the Attic Chest rejoice to behold once more their friends assembled round this repository of rational amusement, furnished as they hope with abundance of materials collected during the summer recess to illumine and enliven the gloom of winter. The gayer seasons are usually considered as inducing mental idleness because we are then tempted by the chearful aspect of nature to loiter in groves and gardens rather than pursue our sedentary studies in the library. But to those who have been nurtured in habits of reading and reflection the season of relaxation is not the season of idleness. Like the bee, they are instinctively industrious to gather the honey of summer for the reflection of winter. To them every leaf and every flower, every incident and every new character and object is the parent of new ideas which interwoven with those previously acquired compose the wonderfully rich and ever-varying web of a cultivated mind. As our friends and correspondents have been so nurtured, and are bless'd with minds on which the labour of tuition has not been wasted we look forward with pleasing expectation of entertainments as various and excellent as their powers, though as yet *The Chest* is less plentifully stored than it was when we commenced our readings last year.

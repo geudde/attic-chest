@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 It is with much pleasure that we again welcome our assembled friends, and sincerely do we hope that no unfavourable accident may again interrupt the Attic Meetings. While we trust that to the shortness of our notice alone, we have to attribute that the Chest is less abundantly stored than it has been at the commencement of former seasons.  

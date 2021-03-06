@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 <span class="title">To a lady distinguished by her dutiful attention to an aged parent</span>

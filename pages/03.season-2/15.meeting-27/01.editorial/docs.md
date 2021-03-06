@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 We open our readings with a note from Incognita who seems to have strangely misapprehended our expression in the last Editorial remarks, when she supposed us to mean that she had “said or sung” enough, as it so very obvious that we advised her to think twice before she resigned the sex’s privilege to have on all occasions the *last word*. Should this answer be overheard “by the trusty Moth” we hope that she will speedily flutter with it to Incognita that the maiden’s rest may not be disturbed by unfounded surmises and that by knowing our genuine meaning she may be induced “again and often” to give us *more last words*. We have received some verses from 1810 in which he appears to consider that the ladies will lose nothing by resigning the last word, or smiles, and looks, will answer their purpose equally well. We agree with him, and believe these substitutes will preserve their empire over the male part of the creation much longer than a disputatious spirit that will never be silenced. In this sense it may be said that they “Stoop to Conquer”. Our wise correspondent — our Solomon 1810 — seems inclined by the symbols at the bottom of his verses, to put an extinguisher on female faults, and knock under to the ladies.

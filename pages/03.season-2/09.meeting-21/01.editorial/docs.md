@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 Our correspondents since our last meeting have been less numerous, and less industrious than usual; and we are afraid that the tumults in our streets have driven the Muses from their abodes, and deprived them of that serenity of mind which is necessary to poetry.

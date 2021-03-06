@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 The extraordinary severity of the frost appears to have congealed the intellects of all our ingenious correspondents, save Mr. Fitz-Pieria, whose fire defies the rigours of winter, and burns clearly even amid the turbid waters of a thaw. We anticipate the pleasure which our hearers will receive from a continuation of The Muses Vagaries which promised to afford amusement for several evenings to come and we flatter ourselves that as often as we open the Attic Chest the Nine Ladies will be apparent in the fruits of it, although their sensible forms are not made visible to our unhallowed eyes. We think that Fitz-Pieria is rather too hard upon our friend of travelling notoriety, who has collected and delivered, in pleasing language, much information of a minor and local nature, which his readers would not easily collect for themselves and would look for in vain in the works of grave historians, and sober philosophers, intermixed with matter of a superior nature that would not be disgraceful to either. The shafts of ridicule are frequently keenly pointed by witty malice and when justice does not direct their flight. The unhappy object is destroyed if candour does not interpose her celestial shield. On all occasions we would say to the satirist

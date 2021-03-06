@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 On this day when our Casket must close for the season we see with particular pleasure the numerous compositions which our contributors have furnished and congratulate them on the merit which distinguishes their productions and casts a degree of splendour on the setting sun that has not been equalled in any preceding year. In viewing the pieces that have appeared both in prose and verse we observe a progressive improvement which convinces us that our friends only want time and leisure to attain a high degree of literary excellence. The two larger poems “The Restoration” and “The Sylphiad” though we must consider them in the light of sketches for more elaborate works, display a degree of invention, imagination, and knowledge with such a facility of versification as would do honour to poets of much maturer years than their authors will be found to be when they step forward and acknowledge their works.  

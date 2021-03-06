@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 We have the pleasure of opening this number, with an address from the Attic Chest to her contributors and friends.

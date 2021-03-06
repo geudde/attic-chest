@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 We announce with satisfaction that our Chest has this week a superabundance of treasure, which obliges us to defer several pieces of merit. Some of them most reluctantly as the excellent letter from Mr Prosai Poetico. The Reading Baker, the verses signed E.R. &c. &c. &c. As we have already given our testimony of approbation to the sonnet addressed to a Tea Kettle we should be accused of irregular proceedings if we were to read it a second time. We however will do what we can to oblige a writer we so highly esteem, and therefor in the language of Parliament it is “ordered to lie on the Table.”

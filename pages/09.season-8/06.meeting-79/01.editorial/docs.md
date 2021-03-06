@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 Our correspondents have not we think, been so voluminous in their contributions this week, as on many former occasions, but when we reflect on the excellence of those which they have furnished, we should feel it unjust as well as foolish to complain that we have not the common spirit, rather than the distilled Ether.

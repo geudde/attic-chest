@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 The extreme severity of the weather, having prevented many of our friends from attending our last reading — we shall at their request commence this evening’s amusement, by repeating the former numbers. Among the novelties we have to present a Riddle, for the exercise of the investigatory faculties of our hearers, of which the subject is ingeniously enveloped in verse.

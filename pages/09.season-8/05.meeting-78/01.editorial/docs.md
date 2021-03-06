@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 We are much concerned to find from the letters of Mr Prosai Poetico, Secretary to the Hermits, that the delight excited by the lottery in our last number, vanished with the evening, and that the ladies in particular found divers reasons for discontent with the partners they had drawn. Miss Rebecca Nettletop had lodged a heavy complaint against Bibo de Montefiesco, alias Tony Petcalf Esq. and the amiable Emily Echowell has strong reason to complain of the interested conduct of the disinterested St Alme of Windermere. As for Clan Harold’s affair with the shawl we must not anticipate the decision of the jury, or pretend to divine the secret wishes of his bride on the occasion. We are sorry to understand that the seventh Brother is bona fide deceased. His history had excited much interest in his fate, and we had hoped to have found him in Positive House cured of his grief, and forgetting all past sorrows in the bewitching smiles of Lady Olivia Gossamer.    

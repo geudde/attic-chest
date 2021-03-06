@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 The number of new correspondents which have honoured the Attic Chest with their contributions since the last reading is highly gratifying to the Editor and Editress as a testimony of its increasing reputation while the merit of their productions promise it to be as permanent as extensive.

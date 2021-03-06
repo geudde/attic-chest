@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 We have in former seasons been indebted to good St Valentine for many a gem that has sparkled on Attic Evenings, and we have now to thank him for several that shine with no common lustre.  

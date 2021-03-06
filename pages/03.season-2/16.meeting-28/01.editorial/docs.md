@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 We are well pleased with Incognita’s translation of the last word and recommend it to the recollection of the ladies in all their disputations with the *superior* Sex but we doubt whether she means that the women should really submit, or only advises submission when they can speak no longer. As Quin or Apicius would advise a man to fast when he could eat no more. This indeed seems to be implied in the third stanza, as this condescending lady, while she affects to surrender the charter to the gentlemen, still claims the right of perpetually requiring from them another last word, and it seems impossible to extinguish her candle, while one particle of inflammable matter prevails. The song in imitation of Burns, “about it, and about it,” is very happy, and the simple pathetic tale by Fitz Wordsworth is an excellent satyr on that ridiculous style of composition introduced by the author alluded to and other such luminaries of the day, who mistake facility of writing, and childish diction for simplicity, and for great actions & sublimity of thought substitute every day occurrences and sentiments, of the most trifling kind, for good actions and sublimity of thought, which they would persuade us to be poetry. The *Taper Soup* by Fitz-gravy we hope will be received with indulgence as forgetfullness is often the consequence of too much thinking.

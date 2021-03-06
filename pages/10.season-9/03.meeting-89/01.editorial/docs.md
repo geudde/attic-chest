@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 The Festival of Nauruz, that beautiful poem which the want of time has twice reluctantly compelled us to defer, shall this evening commence our readings — for we should be sorry that any unforeseen accident should occasion it to be longer deferred.

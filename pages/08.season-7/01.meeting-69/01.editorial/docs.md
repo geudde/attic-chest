@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 It is with genuine pleasure that we greet our friends assembled after so long an absence, and we sincerely hope that no unfortunate circumstances will again occur to interrupt the course of mar the festivity of our Attic Evenings.  

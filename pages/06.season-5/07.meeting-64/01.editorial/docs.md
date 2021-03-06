@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 We have been very much amused with a letter from the facetious physician of Tabby Hall, Comfrey Cardamom Esq. M.D. and Poet, tho’ like Sancho’s with regard to his wife he appears either to have forgotten his Christian name or to have re-christened himself. We have no doubt but the fair spinsters will be greatly and sincerely obliged to him for having spared them the pain of discarding their unfortunate lovers. It would have been too much for their susceptible bosoms if they had seen the misery they inflicted, and their pity might have been dangerous.

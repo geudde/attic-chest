@@ -5,6 +5,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 Received on St Valentine’s Eve by a Member of Positive House  

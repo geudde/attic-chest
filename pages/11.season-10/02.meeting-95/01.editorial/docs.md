@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 Hail to the Count Léandre — or more properly hail to the Kaleidoscope which has conferred upon him the power of multiplication; and so completely that as in that instrument we cannot discover the true image from the refraction, and are at this very moment in doubt whether he is studying English at the Hotel Sablonniere in Leicester Square, or transcribing Greek manuscripts in Ionia. Yet if the truth must be told, we think the latter voyage rather too long for his courage, even in a packet, and are more inclined to put faith in the letter which tells us of his expedition from Calais, with all his apparatus of cork jackets, bladders, and other life preservers, and we verily declare that we would have given the best half of our sheet of paper, to have been present at the moment when he was caught by the English fishermen. His predecessor would indeed have been fortunate in a similar accident, but in his days, either fishing was less usual, or there is some difference between the shores of the Hellespont and of St George’s Channel. But, but to perplex ourselves on this topic, we are happy to hear that the Count is so near us; but we trust the present company will bear to testimony that our doors are not quite so churlish as to refuse entrance to all except the postman, and will join with us in a cordial invitation to the Count Léandre to favour us with his company at our next Attic Meeting, and in the assurance that so distinguished a contributor can ever be otherwise than welcome.

@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 Our correspondents have been unusually bountiful to us since our last meeting and have thus increased the difficulty of our task of selection, where all appear to have an equal claim upon our notice. As it is impossible to read all, many of our friends will necessarily find their productions deferred.  

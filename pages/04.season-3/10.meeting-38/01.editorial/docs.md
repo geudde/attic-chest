@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 The long pending suit between Mars and Mercury came on last Tuesday evening, and was determined in favour of the defendant, by the irresistible eloquence of his counsel. The plaintiff, however, met his adversary at a disadvantage, from the sudden indisposition of his leading advocate, for which all the ability of the junior counsel, tho’ exerted with much energy, and highly to his credit, was unable to compensate.

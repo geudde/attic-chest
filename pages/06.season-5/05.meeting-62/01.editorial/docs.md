@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 Our readings this evening will commence with an epistle from Miss Diana Dainty who therein announces herself as a candidate for admission to the Society of Spinsters at Tabby Hall. This lady appears to have so very delicate a taste that we cannot flatter her with the hope of finding a gentleman *perfect* in every respect, for perfection is not the lot of mortality, and we accordingly applaud her resolution.  

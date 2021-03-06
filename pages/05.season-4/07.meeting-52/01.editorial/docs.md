@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 We are highly indebted to Alopex for his report of Mr Bakewell’s third lecture, which if we have not *misplaced* his memoranda is full as deficient in method as those we have already laid before our auditory. Much indeed may be attributed to the unhappy state of poor Alopex for all of us know that “when love is in, the wit is out”, a proverb if not as old as Father Adam’s time, *might* have been so, as our common Papa would be compelled to acknowledge if he ventured to show his reverend face in our Society. Mr Bakewell however cannot be entirely exonerated from the charge of abrupt transition as he frequently exhibits a partiality for this Pindaric manner of discoursing, and in some instances we think he has exceeded the antient bard we allude to in poetic exaggeration, but notwithstanding this, his lectures contain much valuable information.

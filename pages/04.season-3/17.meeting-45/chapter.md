@@ -4,6 +4,8 @@ taxonomy:
     category: docs
 child_type: docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 # 16 July 1811

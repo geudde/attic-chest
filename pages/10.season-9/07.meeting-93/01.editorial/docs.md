@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 With the intention doubtless, of atoning for the late barrenness of their fancy, our friends have poured down upon us this morning, such a deluge that we felt in danger of being quite overwhelmed by it, and despair of being able to collect the various torrents into our single reservoir this evening.

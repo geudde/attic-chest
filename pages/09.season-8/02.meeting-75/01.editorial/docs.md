@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 It is not in vain that we have stimulated the industry of our members, for the supply they have furnished to the Chest has been ample and brilliant, and gives promise of a splendid season.

@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 We are greatly obliged to Alopex for his notes of Mr Bakewell’s first lecture on Geology, though they are written in such a strange manner that to render intelligible the science veiled in his hieroglyphical pothooks we have been under the necessity of transcribing the whole. As this gentleman has assumed the character of Prose Writer to our Society we think him in this instance a little careless of his reputation especially as he has laid some stress on his expected emoluments from this office in his letter to the advertising lady. We think the honour of such an appointment a sufficient remuneration; but were the Society inclined to give a salary to our Prose Writer it would be considerably reduced by the wages of his deputy. We however value his communications so highly that we can forgive the trouble of writing these lectures if he will furnish the materials though his letters should be with or without hair strokes and in form as clumsy as the Cadmoean characters or any characters not absolutely intelligible.  

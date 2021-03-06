@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 We have received such a <span data-tippy="deluge" class="green">number</span> of communications from Positive House that it is impossible for us to give them all room in the Chest this evening. We are therefore obliged tho’ reluctantly to defer the Addresses to Lord Aircastle on his visit, and to read only the introductory letters from Electromagus, Sir Pertinax Townly, and Mr Beauclerc. Sir Pertinax gives such a sprightly description of their mode of life that notwithstanding all his complaints we are half inclined to wish ourselves pupils also. The adventures of the laboratory would afford no bad subject for the artist’s pencil, and we admire the ingenuity of Electromagus in adapting his electric apparatus to the purposes of domestic economy. We wish he would construct for us one of his Voltaic Cooking Stoves.

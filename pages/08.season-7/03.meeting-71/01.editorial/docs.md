@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 Our correspondents have made our long vacation a season not of idleness but of industry, and the Chest is so abundantly stored that we have found great difficulty in determining not what to select, but what to reject.

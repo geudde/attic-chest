@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 We feared we had already perused the last chapter of the Romance of Positive House but have been agreeably surprised by a letter from Sir Pertinax giving a whimsical description of Lord Aircastle’s house and furniture and the — epithalamiums, must we call them, of the three bridegrooms. We thought that of Sir Pertinax was not new to us, and on perusing “the Editor’s” letter a second time we perceive an oblique hint that it has been published.

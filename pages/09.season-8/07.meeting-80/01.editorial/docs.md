@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 We shall open this evening’s reading with a poem on Snuff, which perhaps does not require explanation to be admired, but as we remember to have heard in our younger days a legend connected with it, we shall abridge it for the amusement of our audience. Tradition says, that in days of yore, there lived in some corner of this island, a new married pair, whose conjugal harmony for nearly the first three months of their union, inspired them with a hope of claiming at the expiration of the year the celebrated Dunmow Flitch. But alas! earthly happiness is a fading flower, and the Demon of Discord, envious of their felicity, appeared in the pocket of the constant swain, in the form of a richly ornamented gold box filled with the most odoriferous aphalic snuff. This malignant dust, ever prone to cause irritation and disturb tranquillity, had much strange fascination for the astonished youth, that he was never easy except when pressing it between his finger and thumb, conveying it to his nostrils, or tapping the lid of his beautiful box. But in proportion as his affection for it increased, the anger and aversion of his fair partner augmented, till in the end a quarrel arose as loud and long as the well-known contest between Sir Charles and Lady Rackett about the Diamond and the Club. Fortunately, however, their guardian angel suggested the propriety of referring this most weighty matter to their aunt, a famous Sybil, who delivered her reply in the verses now about to be read.

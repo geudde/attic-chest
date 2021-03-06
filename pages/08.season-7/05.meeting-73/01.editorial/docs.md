@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 The communications from Positive House are as usual numerous and excellent. Electromagus gives us an amusing account of a projector who seems to have adhered to him very pertinaciously. We think his project for warming the streets of London is the best, and we should not be surprised to find it patronized by Lord Aircastle.  

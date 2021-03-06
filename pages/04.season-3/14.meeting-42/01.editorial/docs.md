@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 At the beginning of our amusements this year we congratulated our Society and ourselves on the numerous contributions we had received, but we are sorry to observe that the warmth of spring which awakens the dormant power of Nature, and stimulates to action all her tribes of being, has had a different effect on our correspondents, and if they do not speedily rouse themselves we are apprehensive that the termination will not realize the expectation raised by such a splendid commencement. Indeed the authors of the Sylphiad and the Restoration still soar with unwearied pinion, but our Moth and our Philo Fillagree, and several others who have occasionally regaled us with a glass of Helicolian Spirit, have either been excluded from the sacred well or niggardly kept the liquor all to themselves. Pope says

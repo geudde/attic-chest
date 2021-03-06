@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 The Attic Chest this year is somewhat late in opening, but we trust that our Season though short may yet be brilliant, and that the cause which has partly delayed our meetings, may add to their splendour. We need not say that we allude to the visits paid to the Continent by many of our members during the summer recess, and who are now returned, we hope with recruited fancies and expanded ideas, to the enjoyment of a social English winter, and the charms of our literary evenings. One correspondent indeed promises to make us more familiar with the peculiarities of France then even the tours which have been poured so prodigally on the public, and tho’ Mr McLeasing pretends only to collect and condense the remarks scattered in these works, we yet suspect from internal evidence that he has really been in some of the scenes he professes to describe; and we shall receive with pleasure the mixture of sentiment and adventure with which he promises to season the letters of the fair.

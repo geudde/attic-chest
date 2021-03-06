@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 The eloquence natural to the fair sex has often been mentioned both by poets and philosophers and some have even gone so far as to wish to restrain the ladies in the use of that delightful organ, the tongue. Formerly however it was easy for these cynics to avoid in absence the effusion of a talent they were unable properly to value, but since the ladies have learned to talk on paper, absent or present they are equally able to assail us. What then must be the situation of the Editor who since the last meeting has been overwhelmed by the favours of the multiplied inhabitants of Tabby Hall, who being the genuine daughters of Eve are all exceedingly curious, and as incapable of containing a secret as a sieve is of holding water. On this occasion however the gentlemen appear to be as well inclined to talk as the ladies and the Editress has been repeatedly applied to for her interest, real or supposed, in the disposal of the important offices of Solicitor and Treasurer to the Society of Vestals. the lawyers indeed are privileged to talk, it is a part of their profession and she leaves them to plead their own cause.

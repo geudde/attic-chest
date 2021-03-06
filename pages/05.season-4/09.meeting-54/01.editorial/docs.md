@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 Poor Alopex is still alive but he raves sadly. It seems that he prefers a life of distress and trouble to dying for love, and as he cannot get the lady — why? — her renounces her. The grapes that were at first view so inviting are now become crude and sour. With his usual inconsistency he throws up his Office of Prose Writer and yet sends us a volume of his geological scrawls on the Rock Salt of Cheshire, which has cost our eyes and head a world of labour to decipher, but the subject is so interesting that we do not repine. Why this gentleman should be angry at the honour we do him and should so pertinaciously deny the papers that have afforded us so much pleasure, we cannot imagine. Philosophers and divines have said that the soul of man has two natures, one gross and prone to earthly passions and one that delights in intellectual pursuits and sublime contemplation. This appears to be exemplified in Alopex. When the former has the mastery he abuses us and raves at the lady, and when the other is predominant he studies geology. Let us hope that the more spiritual part will finally triumph and trample the other under foot. In the meanwhile as the Office of Prose Writer is become vacant by his resignation we hereby give notice that the Chest is open to the probationary compositions of gentlemen of sound mind, wit and understanding who may think proper to offer themselves as candidates for this honourable post, and we assure them that the Society will hear them with candour and in making their election will have no other motive of preference than superior merit.

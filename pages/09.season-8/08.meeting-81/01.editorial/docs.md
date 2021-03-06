@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 We are happy to find that our Recess has proved, at least in one respect, beneficial, by procuring us an ample supply for the entertainment of our audience. Mr Beauclerc’s third number of L’Acerbo is an interesting paper, and would command attention were it more carefully written. Several of the thoughts are, we think, not strictly just, but by a little qualification, and more correct expression, they would be rendered less faulty, if not entirely unexceptionable. Poetry in all countries is, in the first stages, bold, figurative, and hyperbolical. As civilization advances, taste corrects its extravagance and restrains the diction within the boundaries of truth, tho’ with a picturesque latitude that delights at once by its fidelity and strength of colouring. Gray says that our language is more deficient in picturesque expressions than it was two centuries ago, and assertion to which we do not implicitly assent, though it be certain that a more faithful attention to truth and nature has diminished its hyperbolical extravagance. This remark applies to some opinions advanced in L’Acerbo.

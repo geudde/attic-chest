@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 The readings of this evening will commence with a little poem from Fitz Almanac hinting that our Attic Amusements have power to dispel the gloom of St Thomas’s Day. Unfortunately for this Son of Song, Dr Moore (for we presume he has consulted his ingenious work) has deceived him, for this day, far from being dismal or uncomfortable, has worn a brighter aspect than most of its predecessors. However the poem is very elegant and we shall have no objection to Fitz Almanac’s furnishing us with a Clavis Calendaria for the whole season.  

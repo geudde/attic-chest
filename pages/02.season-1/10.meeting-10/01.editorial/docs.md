@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 In our last number we congratulated our readers that Fitz Helicon had completed his poem, which though the verse was careless and unpolished, was received with considerable approbation. The story is well conducted, the machinery happily introduced, and the whole brought to a satisfactory conclusion, without diverging into digressions or being encumbered with unnecessary circumstances.

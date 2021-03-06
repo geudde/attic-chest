@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 As many of our correspondents are doubtless ambitious of becoming popular writers, we cannot do better than to open our readings with “A Few Rules for Attaining that Object, from the German of Anton Wall”, which have been completely exemplified in “The Curse of Kehama” by Southey, a work where we find the greatest energy and elegance of language mingled with mean and vulgar phraseology that would not be tolerated in a poem of less intrinsic merit. A work that blends in an extraordinary manner the most sublime and beautiful imagery, the most interesting situations, and the most pathetic sentiments, with the most absurd and extravagant fictions, displayed in verse which has no regular measure and is without rhythm, which pretends to be in rhyme while many of the lines are without corresponding termination and some of them rhyme in the middle to the preceding or following verses. In a word, a versification of such and anomalous kind that it is almost impossible to read it, and distressing to hear it read. This work is a striking example of the necessity of taste to give efficacy and excellence to the labour of genius, two qualities of mind that are not infrequently disunited. In “The Curse of Kehama” we have all that constitutes a poet — the highest power of invention and expression, debase by meanness and puerile affectation of singularity, and we read the poem with much more admiration than pleasure. Why will he make us stare with wonder when he might make us at once admire and love him. In some of his juvenile works he has shown that the trammels of regular composition are not encumbrance to him. He wears his fetters gracefully when he chooses to wear them.

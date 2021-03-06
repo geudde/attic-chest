@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 We feel some concern for the health of the advertising lady, who in the last communication appeared to be in a desponding way and from her silence since we fear the gentleman for whom she expressed so much partiality has not yet entered his name in the list of her admirers. If reason could ever argue to my purpose against love we should advise her to forget the man who had proved himself insensible to her merits and select a husband from those who have shown themselves better disposed to unite with her in holy matrimony among whom we think the author of the verses address’d to her which will be read this evening has a fair claim to her notice. He reviews with spirit and humour the pretensions of his rivals and makes good his own with tolerable effect. We however have no desire to influence her decision but leave the choice to her own unbiassed understanding.

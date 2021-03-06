@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 <span class="pencil">Valentine to a Young Lady very studious in Astronomy, from Ouranos</span>

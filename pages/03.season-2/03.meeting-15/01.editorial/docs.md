@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 * Verses imitated from the French of Moliere “Si le Roi m’avoit donné”

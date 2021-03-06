@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 The productions to be read this evening are of a graver cast, than many that have made the entertainment of former meetings. We trust however that they will not be less gratifying to our auditors, as they are generally speaking distinguished by harmonious versification and poetical sentiment, and will perhaps afford a more durable pleasure than lighter pieces that exhilarate for the moment, and are then forgotten. The poem of Sun-rise joins in the qualities above mentioned, moral feeling that enhances their value. This poem will be followed by

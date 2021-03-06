@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 In our opening paper we congratulated our auditors on the number of contributions with which our readings commenced, and considered it as a proof of the pleasure received, and the advantages derived from a periodical stimulus to the exertion of their talents. We have not less reason to be satisfied with the productions which will be read this evening and we look forward with a well founded hope of a brilliant season.

@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 **N**ationibus, **A**utoritatem, **P**rincipibus, **O**bedientium,

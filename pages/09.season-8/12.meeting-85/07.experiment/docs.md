@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 An empty bottle being tightly corked and the top of the cork covered with sealing-wax to distinguish the end upon being fixed to a deep sea-line, and sunk, the bottom downwards to the depth of 100 fathoms was repeatedly found on being drawn up filled with water, and the cork inverted and firmly fixed in the neck of the bottle.  

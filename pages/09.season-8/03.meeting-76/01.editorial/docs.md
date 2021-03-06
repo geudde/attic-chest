@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 The bounty of our friends not only enables us again to offer a brilliant number for the amusement of our hearers, but has occasioned us much regret at the necessity of deferring many contributions whose excellence strongly called for immediate notice. Among these, we are sorry to be compelled to postpone the 2d number of the Modinhas or as we have denominated them, The Portuguese Melodies, The Spanish Armada, The Fairies’ Isle &c. &c. &c.

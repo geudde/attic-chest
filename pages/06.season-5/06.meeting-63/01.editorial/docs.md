@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 The attractive influence of the Spring, which draws the fashionable circles to the various amusements of the Metropolis and at the same time invites the admirers of Nature to behold her in her loveliest attire, has this Season had an early affect on our Society, and we have this evening to regret the absence of our most valuable members, who have already withdrawn to the contemplation of rural Beauty. Like Fairies however they have left tokens of their beneficence behind and we trust, tho’ our Circle may be small, that our reading will not be found deficient in Spirit.  

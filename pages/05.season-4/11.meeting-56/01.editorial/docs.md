@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 Our readings this evening commence with a letter from Alopex who appears anxious to show that he has not died for love and to think that to be abusive is to be witty. We shall assert the authority of our office and assure him that he is dismissed unless both his style and manners are reformed. When he thinks, writes and acts like a gentleman he will be well received, but in any other character we shall without ceremony shut the Chest against him. It is easy to throw dirt and a scavenger at that business will perform better than a man of sense and learning, and the latter will disdain to abuse a lady.  

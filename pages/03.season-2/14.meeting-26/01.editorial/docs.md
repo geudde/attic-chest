@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 Whether the contest between the faults of the Ladies and those of the Gentlemen is or is not concluded we do not know, but we have some pleasant lines to Incognita upon her renouncing the last word by 1810 in which he remonstrates with the fair Lady for giving up her sex’s privilege which has been acknowledged their right from time immemorial. He properly observes that were the custom general they would lose that valuable franchise of enraging and vexing from morn to night, and from night to morn again, as well as their powers of pleasing by the sweet sounds of their melodious voices. We recommend this to Incognita for her serious consideration.

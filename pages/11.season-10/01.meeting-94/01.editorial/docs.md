@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 We are happy to find that even upon short notice, and late in the Season, our Members are too much attached to their meetings to permit us to open with a Chest scantily furnished. All have indeed been industrious and successful, and while we feel real pleasure in recognising many and old friend, it is also gratifying to perceive that we have acquired some new ones.

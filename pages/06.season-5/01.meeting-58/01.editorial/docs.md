@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 The gloom of winter and all its attendant evils we hope is now passing away, and spring with health and the Muses in her train approaching to give new honours to the Attic Chest. We regret that its opening has been so long delayed and that we have been deprived of the society of our friends; but we may derive mental benefit from reflecting on the uncertainty of human enjoyments, when we find that amusements which seem to be unconnected with external causes like hunting and other active pursuits are indeed subject to atmospheric influence. A cold attended by a hoarseness as effectually destroys the reader’s power to entertain as storms and tempests prevent the pleasures of the field.

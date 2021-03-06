@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 We are favoured with a second act of the Tragedy entitled Allah ul Dien, of which the commencement was read at our last meeting. We think this more interesting than the former act, and it is certainly shorter. The Argument of the whole will be read again to recall the plot to the minds of our hearers.

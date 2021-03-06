@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 The Editor has been honoured with several letters from the members of the Society at Tabby Hall announced in a letter from the Secretary at our last meeting. The first from Miss Prudentia Quickset shows a laudable love of justice in asserting her claim to the honor of suggesting the plan of the Society which she founded on a poem, read last year from the Chest, that one of our visitors had partly remembered and repeated to her. This honour we cannot refuse her but we wonder much at her terrors respecting the admission of men to offices which are necessary to the Society as she cannot have obtained the venerable character she assumes without much intercourse with that dangerous sex; but we confess we see no reason to admit all of them as inmates unless Tabby Hall be a lone mansion at such a distance from any town that in case of emergency, medical assistance could not be obtained without dangerous and perhaps fatal delay in the dark and long nights of winter. But for the same reason we think a butcher might be necessary unless the ladies will be content to live on sucking pigs and poultry which might be tenderly sacrificed by females. This the Editor thinks it proper to mention because according to the knowledge collected from the observations of three-score years (he speaks with due submission to wiser men) food has always appeared to him as necessary as physic for ladies, and that beef and mutton are very useful articles in all families.

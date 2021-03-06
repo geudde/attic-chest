@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 We had hoped that our friends would have honor’d our closing Attic Night with a more ample supply. They have perhaps however judged wisely in leaving a portion of time for the unprecedented number of acknowledgements to be made in the course of this evening. Our present list embraces three seasons, and we are not quite certain that we shall not have to prompt the memories of some of our correspondents, who may have forgotten their own good deeds, tho’ they still live in the remembrance of others. We do not however forget that ours can be only conjectural prompting.

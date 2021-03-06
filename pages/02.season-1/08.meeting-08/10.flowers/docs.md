@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 <div class="author">Mrs Hoole communicated by <span data-tippy="S. H. Kay" class="green">Mrs Kay</span></div>

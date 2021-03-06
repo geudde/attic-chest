@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 Our Members have been hitherto so liberal, that it was with a feeling of disappointment that we perceived the Chest to be this week less abundantly stored than usual, and we trust that we shall not call in vain on the liberality and industry of our Members.

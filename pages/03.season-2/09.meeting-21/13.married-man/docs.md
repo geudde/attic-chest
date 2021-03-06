@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 <span class="title">O.B.I.C.,G.A.C.O.B.I.</span>

@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 It is with much regret we have to inform our friends that the Society of Tabby Hall is no more. The wiles of Cupid have succeeded and the amiable and interesting spinsters who composed it have given a fresh proof of the fickleness of their nature by entering with one consent into the holy estate of matrimony, and in their union with various officers of the establishment, present some striking examples of that contrast of character recommended by some philosophers as the ground-work of connubial happiness. It is true that discord is the parent of harmony, that the most violent and active elements produce harmless compounds, and that a certain proportion of bitter is necessary to give a zest to sweet. But altho’ two beings whose thoughts, tastes, and feelings were precisely in union would be the most insipid companions in the world, we think the principle of contrast may be carried too far, and do not prognosticate much felicity from the “conjugation” of Miss Quickset and the accomplished Pirouette. Miss Botherum might observe that it is like the combination of hydrogen and carbonic acid, the one light and inflammable, the other ponderous and extinguishing flame. But as this union is formed precisely on the principle recommended by Mr Bickerstaff and pursued by his family, we trust the posterity of this charming pair, partaking the nature of both their parents, will produce that golden mean which results from the combination of extremes.  

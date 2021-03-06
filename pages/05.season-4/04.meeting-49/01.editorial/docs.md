@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 The day of St Valentine which invites the youthful poet to declare his amorous wishes and to praise the object of his affections has this year been peculiarly propitious to the fair Eborina and stored our coffers with verses that rise far above the customary compliments of the season. For the truth of this character we appeal to the taste and judgement of our audience. The name by which this lady is known in these mundane regions is prettily played upon in the verses signed  in a German text. The furious ebullition by the poor waxy gentleman who at the concert had his senses so absorbed by the charms of the damsel that he stood motionless under the dripping chandelier till his coat was cased and his mouth closed with spermaceti breathes more of anger than affection, yet we must acknowledge that he scolds in good verse and displays eloquence and ingenuity in his rage. He is somewhat more severe in his ill wishes at the close of his poem than the loss of a coat and a scalded gullet will justify yet who knows but this anger so well expressed may make more impression on the wayward fair than the usual whinings of flowery meads and purling streams in which the hopeless lover sighs and dies! Some fortresses are conquered by sap and insinuation but Wellington takes them by storm. The tenderer strain is adopted by the swains whose poems will next be read and if the lady is to be won by gentle love displayed in well written verse her judgement may be puzzled in deciding between EE and John.

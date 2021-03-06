@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 We commence our readings this evening with a short poem called “Love and Wine, or Matter and Spirit” a title that is not exactly fitted to the poem and we doubt whether the author clearly knew his own meaning either in writing the verses or fixing the title. There are, however, some glimmerings of humour which may excite a smile. The Riddle which accompanies it is sufficiently enveloped in obscurity to exercise the sagacity of our auditors.

@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 visible: false
+tntsearch:
+    index: true
 ---
 
 We are sorry to find that in this number we must bid adieu to Positive House. The Institution is dissolved and even the copious supply of bride cake on the table will not reconcile us to the loss of our lively and instructing correspondents. We cannot say that we lament the self deception of Electromagus, with regard to the inspiring power of electricity. To us and our circle it has been a rich fund of amusement, and our hope and wishes will be much disappointed if any of is pupils should hereafter find reason to regret their sojourn in Positive House. To himself also we trust it will not be a permanent source of chagrin. His letter shows that his character rises in misfortune, and we trust that the friendship of Mr Beauclerc and Sir Pertinax Townly will soon be efficious in restoring him to comfort and confidence. We scarcely yet know what to think of Mr Scriblerus’s conduct. Did he feel it so blameless as he would wish us to believe, why should he not have stepped boldly forward, and have asserted to Lord Aircastle his claims to the gold box or to the fragment of his bill. But we feel that we are here anticipating our readers.
