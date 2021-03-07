@@ -15,7 +15,7 @@ tntsearch:
 <style>
 h1,h2,h3
 {
-	font-family: "Noto Sans", Montserrat, Verdana; sans-serif: ;
+	font-family: "Noto Sans", Montserrat, Verdana, sans-serif;
 	text-align: center;
 	color: black;
 }
@@ -37,7 +37,7 @@ h3 { font-size: 1.4rem; }
 h4
 {
 	font-size: 1.0rem;
-	font-family: "Noto Sans",sans-serif;
+	font-family: "Noto Sans", sans-serif;
 	color: maroon;
 }
 hr {width: 80%; margin: auto; margin-top: 3em; margin-bottom: 2rem;}
