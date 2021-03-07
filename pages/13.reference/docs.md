@@ -19,6 +19,6 @@ tntsearch:
 [Derbyshire Record Office Documents](https://www.derbyshire.gov.uk/leisure/record-office/derbyshire-record-office.aspx) 
 
 * Eleanor Anne Porden. [*Ghosts and Spirits*.](spirits)
-: Record of an evening at the Flaxmans’ and a conversation on the supernatural. Dated 24th October 1812.
+: Record of an evening at the Flaxmans’ and conversations on the supernatural. Dated 24th October 1812.
 * Eleanor Anne Porden. [*The Terror of Imagination*.](imagination)
 : Record of a conversation between Eleanor Anne Porden and Anna Jane Vardill on the subject of imagination. Dated 14th June 1815.
