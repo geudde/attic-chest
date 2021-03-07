@@ -3,7 +3,7 @@ title: 'Ghosts and Spirits'
 metadata:
     Author: 'Eleanor Anne Porden'
     Keywords: 'Porden, Franklin, Gell, Eleanor Anne Porden, John Franklin, Vardill, Anna Jane Vardill, Flaxman'
-    Description: 'Memorandum of evening discussion'
+    Description: 'Account of a discussion on ghosts and spirits'
 taxonomy:
     category:
         - docs
@@ -34,4 +34,12 @@ Mr. Flaxman related another circumstance which he had learned in the way of his 
 
 Mr. White, the celebrated preacher, had told Mr. Flaxman of a singular circumstance. His wife’s father had gone out on business one morning and was not to return till the next day. About two hours after he was gone, his daughter saw him come into the yard on horseback but did not stay to speak to him. When she got upstairs to her mother, she had seen him also from the window. Some hours after this vision, he was brought home having fallen from his horse when he was about two hours distance from home.
 
+Governor Franklin, it is well known was some time imprisoned when the disturbances broke out in America. During this time he had in vain endeavoured to obtain communication or correspondence with his wife. One night he dreamt that he was remarried to her, and was standing with her at the altar. On his release from confinement, he found that during that period she had pined and died (I believe at the time of his dream) and was buried under the very stone on which he believed they stood when he was married to her. The Governor said that in the course of the last six months he had three times heard a knocking at his bed, like that named in a former page. It had not been heard by his man who sleeps in the room with him, and from his manner he appeared to consider it as a warning to himself. He is now in his 86th year.
 
+Miss Vardill related a story of a gentleman who was attracted to the window by a noise of horses, and saw a very numerous cavalcade and among them his servant on horseback and leading a white horse. He asked him what he was doing. The servant replied, Sir, I am no longer in your service and the horse I lead is for you. He immediately made enquiries after the servant, and was told that they were just coming to inform him that he had died about ten minutes before in an apoplectic fit. The gentleman was shortly after killed by a white horse.
+
+Miss Vardill also told another story of a person, whose name I forget, who was obliged to conceal himself, having been seen by his housekeeper (who used to let him into the house at night on his presenting his head at the window) at the exact moment of his imprisonment. He was beheaded soon after or hung, but this story was not so remarkable as the others I have related, as she might easily fancy saw a head at the window, when she was accustomed to look for one there.
+
+Mr. Flaxman also told the story of —— who was brought up by Lorenzo di Medici in the study of the Greek and Latin languages for the purpose of translating from them, and who agreed with a friend, that whichever died first should return if permitted to inform the other if it was true that there was another world. One morning —— heard a horse galloping violently and went to the window, when he saw his friend riding on a white horse, who waved his hand to him and said, It’s true, It’s true. He soon after heard that he was dead.
+
+These are the most remarkable of the stories that were related. There were many others that were either not so particular, or that I do not remember so well.
