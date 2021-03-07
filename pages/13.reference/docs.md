@@ -16,9 +16,9 @@ tntsearch:
 * Eleanor Anne Porden. [*The Veils; or The Triumph of Constancy*.](porden) London: John Murray, 1815.
 * Edith Mary Gell. [*John Franklin’s Bride*.](gell) London: John Murray, 1930.
 
-[Derbyshire Record Office](https://www.derbyshire.gov.uk/leisure/record-office/derbyshire-record-office.aspx) <span class="maroon">Documents</span> 
+[Derbyshire Record Office Documents](https://www.derbyshire.gov.uk/leisure/record-office/derbyshire-record-office.aspx) 
 
-* Eleanor Anne Porden. [*Ghosts and Spirits*](flaxmans).
+* Eleanor Anne Porden. [*Ghosts and Spirits*.](flaxmans)
 : Record of an evening at the Flaxmans’ and a conversation on the supernatural. Dated 24th October 1812.
-* Eleanor Anne Porden. [*The Terror of Imagination*](imagination).
+* Eleanor Anne Porden. [*The Terror of Imagination*.](imagination)
 : Record of a conversation between Eleanor Anne Porden and Anna Jane Vardill on the subject of imagination. Dated 14th June 1815.
