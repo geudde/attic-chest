@@ -38,7 +38,9 @@ Contributions not preserved in the Gell Collection are coloured grey in the [lis
 
 > <span class="grey">A Description of Monkey Island → Mr Porden</span>
 
-**Illegibility:** The editors of the Attic Chest were often troubled by illegibility, as noted in William Porden’s editorial comment at the 28 April 1813 meeting:  
+A [list of missing contributions](../../../missing) can also be found in the [Authors](../../authors) section.
+
+**Illegibility:** The editors of the Attic Chest were often troubled by illegibility, as noted in the editorial comment at the 28 April 1813 meeting:  
 
 > We recommend it to some of our correspondents to be a little less sparing of their paper, and to lay in a fresh stock of pens and ink as the latter appears to have been too often watered already and their writing requires a microscope. Our friends must be sensible how much the spirit of their effusions must evaporate and the sense be lost while the reader is blundering over the hand, and endeavouring to make out the words.
 
