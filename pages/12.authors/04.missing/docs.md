@@ -18,15 +18,15 @@ A Description of Monkey Island → Mr Porden
 <span class="meeting">No. 5&emsp;(1809-02-21)</span><span class="dro">D8760/F/FEP/5/2</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f2" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
   
-Valentine to Ellen → Mr Bond
-Valentine in Greek → Mr Flaxman
+Valentine to Ellen → Mr Bond  
+Valentine in Greek → Mr Flaxman  
 Valentine in French → Miss Porden
 
 <div class="bottom">
 <span class="meeting">No. 8&emsp;(1809-04-04)</span><span class="dro">D8760/F/FEP/5/3</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f3" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
  
-The Fete de la Rose → Mrs. Hoole com. Mrs. Kay
+The Fete de la Rose → Mrs. Hoole com. Mrs. Kay  
 A Riddle on Buonaparte → &ensp;?  
 
 <div class="bottom">
@@ -41,7 +41,7 @@ Answer to the Riddle on Buonaparte → Mr Porden
 </div>
 
 The Apotheosis → Mr Flaxman  
-Query in Natural History → Mr Parkinson
+Query in Natural History → Mr Parkinson  
 Answer → Mr Porden   
 
 <div class="bottom">
@@ -66,7 +66,7 @@ The Restoration Cantos 1 and 2 → Miss Porden
 <span class="meeting">No. 35&emsp;(1811-02-26)</span><span class="dro">D8760/F/FEP/5/13</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f13" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
-The Sylphiad Canto 2nd → Mr Vignoles
+The Sylphiad Canto 2nd → Mr Vignoles  
 The Restoration Canto 3rd → Miss Porden
 
 <div class="bottom">
@@ -79,8 +79,8 @@ The Restoration Canto 4th, Canto 1st Book 2nd → Miss Porden
 <span class="meeting">No. 37&emsp;(1811-03-26)</span><span class="dro">D8760/F/FEP/5/13</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f13" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
-The Lazy Foot → Mrs Richardson
-The Protestation → Miss Flaxman
+The Lazy Foot → Mrs Richardson  
+The Protestation → Miss Flaxman  
 The Restoration Book 2d Canto 2d → Miss Porden
 
 <div class="bottom">
@@ -93,17 +93,17 @@ The Restoration Book 2d Canto 3d → Miss Porden
 <span class="meeting">No. 39&emsp;(1811-04-23)</span><span class="dro">D8760/F/FEP/5/14</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f14" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
-On Hearing the Proxies Read → Miss Porden
+On Hearing the Proxies Read → Miss Porden  
 The Restoration Book 2d Canto 4th → Miss Porden
 
 <div class="bottom">
 <span class="meeting">No. 40&emsp;(1811-05-07)</span><span class="dro">D8760/F/FEP/5/14</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f14" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
-Graeme of Balgowan, The Hero of Barrosa → com. Mrs Staveley
-The Sylphiad Canto 3d → Mr Vignoles
-Translation from the Greek → Miss Porden
-“Believe Me Love” → com. Miss Richardson
+Graeme of Balgowan, The Hero of Barrosa → com. Mrs Staveley  
+The Sylphiad Canto 3d → Mr Vignoles  
+Translation from the Greek → Miss Porden  
+“Believe Me Love” → com. Miss Richardson  
 
 <div class="bottom">
 <span class="meeting">No. 41&emsp;(1811-05-21)</span><span class="dro">D8760/F/FEP/5/14</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f14" target="_blank"><i class="fa fa-external-link"></i></a>
@@ -116,14 +116,14 @@ The Restoration Book 3d Cantos 1st and 2d → Miss Porden
 </div>
 
  
-The Sylphiad Canto 4th → Mr Vignoles
+The Sylphiad Canto 4th → Mr Vignoles  
 The Restoration Book 3d Cantos 3 and 4 → Miss Porden
 
 <div class="bottom">
 <span class="meeting">No. 43&emsp;(1811-06-18)</span><span class="dro">D8760/F/FEP/5/15</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f15" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
-The Sylphiad Canto 5th → Mr Vignoles
+The Sylphiad Canto 5th → Mr Vignoles  
 The Restoration Book 3d Canto 3 and 4 → Miss Porden
 
 <div class="bottom">
@@ -167,23 +167,23 @@ The First Book of the Restoration → Miss Porden
 <span class="meeting">No. 50&emsp;(1812-03-04)</span><span class="dro">D8760/F/FEP/5/17</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f17" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
-Account of Mr Bakewell’s first lecture on Geology → Miss Porden
-To Hope → Miss Porden
+Account of Mr Bakewell’s first lecture on Geology → Miss Porden  
+To Hope → Miss Porden  
 The Fifth Book of the Restoration → Miss Porden
 
 <div class="bottom">
 <span class="meeting">No. 51&emsp;(1812-03-18)</span><span class="dro">D8760/F/FEP/5/17</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f17" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
-Account of Mr Bakewell’s second lecture on Geology → Miss Porden
+Account of Mr Bakewell’s second lecture on Geology → Miss Porden  
 The Last Book of the Restoration → Miss Porden
 
 <div class="bottom">
 <span class="meeting">No. 52&emsp;(1812-04-01)</span><span class="dro">D8760/F/FEP/5/17</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f17" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
-Account of Mr Bakewell’s third lecture on Geology → Miss Porden
-To Mary → Miss Porden (Alfred) 
+Account of Mr Bakewell’s third lecture on Geology → Miss Porden  
+To Mary → Miss Porden (Alfred)  
 The Four First Cantos of the Sylphiad → Mr Vignoles
 
 <div class="bottom">
@@ -240,7 +240,7 @@ The 4th Lecture on Natural History → Miss Porden
 </div>
   
 
-Sir P. Townly → Miss Porden
+Sir P. Townly → Miss Porden  
 The 5th Lecture on Natural History → Miss Porden
 
 <div class="bottom">
@@ -261,15 +261,15 @@ Omnia vincit Honor! → com. Mrs Phillips
 <span class="meeting">No. 87&emsp;(1817-03-04)</span><span class="dro">D8760/F/FEP/5/37</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f37" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
  
-Valentine to Drawing → Miss and Master Kay</span> <span data-tippy="Children’s drawing. No text." class="info"><i class="fa fa-picture-o" aria-hidden="true"></i> 
+Valentine to Drawing → Miss and Master Kay</span> <span data-tippy="Children’s drawing. No text." class="info"><i class="fa fa-picture-o" aria-hidden="true"></i>  
 The 1st Act of Allah ul Din → com. Mr Porden
 
 <div class="bottom">
 <span class="meeting">No. 88&emsp;(1817-03-18)</span><span class="dro">D8760/F/FEP/5/37</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f37" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
  
-Continuation of Allah ul Din → com. Mr Porden
-Comte Leandre to the Editress → Mr Elliott
+Continuation of Allah ul Din → com. Mr Porden  
+Comte Leandre to the Editress → Mr Elliott  
 The Waterloo Button → Miss Vardill</span> <a href="https://vardill.org/relic.html"><i class="fa fa-external-link" aria-hidden="true"></i></a>  
 
 <div class="bottom">
