@@ -38,7 +38,7 @@ Contributions not preserved in the Gell Collection are coloured grey in the [lis
 
 > <span class="grey">A Description of Monkey Island → Mr Porden</span>
 
-A [list of missing contributions](../../../missing) can also be found in the [Authors](../../authors) section.
+A list [missing contributions](../../authors/missing) can also be found in the [Authors](../../authors) section.
 
 **Illegibility:** The editors of the Attic Chest were often troubled by illegibility, as noted in the editorial comment at the 28 April 1813 meeting:  
 
