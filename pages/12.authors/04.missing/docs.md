@@ -130,7 +130,7 @@ The Restoration Book 3d Canto 3 and 4 → Miss Porden
 <span class="meeting">No. 44&emsp;(1811-07-02)</span><span class="dro">D8760/F/FEP/5/15</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f15" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
   
-<span class="grey">The Restoration Book 4 Canto 3 → Miss Porden</span>
+The Restoration Book 4 Canto 3 → Miss Porden
 
 <div class="bottom">
 <span class="meeting">No. 45&emsp;(1811-07-16)</span><span class="dro">D8760/F/FEP/5/15</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f15" target="_blank"><i class="fa fa-external-link"></i></a>
@@ -149,19 +149,19 @@ The First Book of the Restoration → Miss Porden
 <span class="meeting">No. 47&emsp;(1812-01-22)</span><span class="dro">D8760/F/FEP/5/16</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f16" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
  
-<span class="grey">The Second Book of the Restoration → Miss Porden</span>
+The Second Book of the Restoration → Miss Porden
 
 <div class="bottom">
 <span class="meeting">No. 48&emsp;(1812-02-08)</span><span class="dro">D8760/F/FEP/5/16</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f16" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
-<span class="grey">The Third Book of the Restoration → Miss Porden</span>
+The Third Book of the Restoration → Miss Porden
 
 <div class="bottom">
 <span class="meeting">No. 49&emsp;(1812-02-19)</span><span class="dro">D8760/F/FEP/5/16</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f16" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
-<span class="grey">The Fourth Book of the Restoration → Miss Porden</span>
+The Fourth Book of the Restoration → Miss Porden
 
 <div class="bottom">
 <span class="meeting">No. 50&emsp;(1812-03-04)</span><span class="dro">D8760/F/FEP/5/17</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f17" target="_blank"><i class="fa fa-external-link"></i></a>
@@ -190,7 +190,7 @@ The Four First Cantos of the Sylphiad → Mr Vignoles
 <span class="meeting">No. 53&emsp;(1812-04-15)</span><span class="dro">D8760/F/FEP/5/17</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f17" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
-<span class="grey">The Four Last Cantos of the Sylphiad → Mr Vignoles</span>
+The Four Last Cantos of the Sylphiad → Mr Vignoles
 
 <div class="bottom">
 <span class="meeting">No. 54&emsp;(1812-04-29)</span><span class="dro">D8760/F/FEP/5/17</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f17" target="_blank"><i class="fa fa-external-link"></i></a>
@@ -202,25 +202,25 @@ Geological Notes on the Rock Salt of Cheshire → Mr Porden
 <span class="meeting">No. 60&emsp;(1813-04-14)</span><span class="dro">D8760/F/FEP/5/20</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f20" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
-<span class="grey">Enigma → Miss Vardill</span>
+Enigma → Miss Vardill
 
 <div class="bottom">
 <span class="meeting">No. 65&emsp;(1813-06-23)</span><span class="dro">D8760/F/FEP/5/22</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f22" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
-<span class="grey">Critical Trialogue → ?</span> 
+Critical Trialogue → ?
 
 <div class="bottom">
 <span class="meeting">No. 67&emsp;(1814-02-22)</span><span class="dro">D8760/F/FEP/5/23</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f23" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
   
-<span class="grey">First Lecture on Natural History → Miss Porden</span>
+First Lecture on Natural History → Miss Porden
 
 <div class="bottom">
 <span class="meeting">No. 68&emsp;(1814-03-09)</span><span class="dro">D8760/F/FEP/5/24</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f24" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
   
-<span class="grey">The 2d Lecture on Natural History → Miss Porden</span>
+The 2d Lecture on Natural History → Miss Porden
 
 <div class="bottom">
 <span class="meeting">No. 69&emsp;(1814-12-07)</span><span class="dro">D8760/F/FEP/5/25</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f25" target="_blank"><i class="fa fa-external-link"></i></a>
