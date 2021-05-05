@@ -808,7 +808,7 @@ tntsearch:
 <span class="grey">Account of Mr Bakewell’s third lecture on Geology → Miss Porden</span>  
 [To One of the Graces](../../season-4/meeting-52/graces) → <span class="name">Miss Vardill</span>  
 [Of Coughs and Colds](../../season-4/meeting-52/coughs) → <span class="name">Mr Hinckley</span>  
-<span class="grey">To Mary → >Miss Porden (Alfred)</span>   
+<span class="grey">To Mary → Miss Porden (Alfred)</span>   
 [To Ellen](../../season-4/meeting-52/ellen) → <span class="name">Miss Vardill</span>  
 <span class="grey">The Four First Cantos of the Sylphiad → Mr Vignoles</span>
 
