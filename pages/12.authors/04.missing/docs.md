@@ -260,7 +260,7 @@ Omnia vincit Honor! → com. Mrs Phillips
 <span class="meeting">No. 87&emsp;(1817-03-04)</span><span class="dro">D8760/F/FEP/5/37</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f37" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
  
-Valentine to Drawing → Miss and Master Kay</span> <span data-tippy="Children’s drawing. No text." class="info"><i class="fa fa-picture-o" aria-hidden="true"></i></span>
+Valentine to Drawing → Miss and Master Kay</span> <span data-tippy="Children’s drawing. No text." class="info"><i class="fa fa-picture-o" aria-hidden="true"></i></span>  
 The 1st Act of Allah ul Din → com. Mr Porden
 
 <div class="bottom">
