@@ -195,12 +195,13 @@ tntsearch:
 
 [A Morean Tale](../../season-8/meeting-84/morean) → <span class="name">Mr Elliott</span>  
 [Advertisement for a Lost Muse](../../season-9/meeting-87/lost) → <span class="name">Mr Elliott</span>  
-<span class="grey">Comte Leandre to the Editress → Mr Elliott</span>  
+
 
 <div class="bottom">
 <span class="meeting">No. 88&emsp;(1817-03-18)</span><span class="dro">D8760/F/FEP/5/37</span> <a href="https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D8760%2fF%2fFEP%2f5%2f37" target="_blank"><i class="fa fa-external-link"></i></a>
 </div>
 
+<span class="grey">Comte Leandre to the Editress → Mr Elliott</span>  
 [Vive l’Amour by Do.](../../season-9/meeting-88/amour) → <span class="name">Mr Elliott</span>  
 [Specimen of a New Official Style](../../season-9/meeting-88/style) → <span class="name">com. Mr Elliott</span>  
 
