@@ -52,12 +52,10 @@ blockquote
 ul {
   list-style-type: none;
 }
-
 </style>
 
 <div class="center">
 <p>
-Cœur de Lion;<br>
 or<br>
 The Third Crusade.<br>
 A Poem,<br>
@@ -72,24 +70,6 @@ and Other Poems.
 <span class="smallcaps">Richard</span> that robb’d the Lion of His Heart,<br>
 And fought the Holy Wars in Palestine.<br>
 &emsp;— *Shakespeare*
-</p>
-<p>
-In Two Volumes.
-</p>
-<p>
-Vol. I.
-</p>
-<p>
-London:<br>
-Printed For G. And W В. Whittaker,<br>
-Ave-Maria Lane
-</p>
-<p>
-1822
-</p>
-<p>
-Printed by Cox and Baylie, Great Queen Street,<br>
-Lincoln’s Inn Fields.
 </p>
 <p>
 To His Most Excellent Majesty<br>
