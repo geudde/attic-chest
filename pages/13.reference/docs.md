@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 metadata:
     Keywords: 'Vardill, Porden, Franklin, Attic Chest'
-    Description: 'Attic Chest reference materials'
+    Description: 'Attic Chest reference materials and published works'
 tntsearch:
     index: true
 ---
