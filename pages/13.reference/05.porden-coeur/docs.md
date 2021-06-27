@@ -41,7 +41,7 @@ h4
 	color: maroon;
 }
 hr {width: 80%; margin: auto; margin-top: 3em; margin-bottom: 2rem;}
-.smallcaps {color: maroon; font-size: 1.1rem; font-variant: small-caps;}
+.smallcaps {font-variant: small-caps; color: maroon; font-size: 1.1rem;}
 
 blockquote
 {
