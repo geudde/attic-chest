@@ -611,9 +611,9 @@ If she could yield those rights by birth her own,<br>
 Still Lusignan must fill the sacred throne,<br>
 If not—to doubt his claim is mine alone.[^7]<br>
 ’Tis mine the throne with Isabelle to share,<br>
-Amalric’s younger child, and now his heir.”
+Amalric’s younger child, and now his heir.”<br>
 &emsp;“Thy rights! as well might base-born kites aspire<br>
-To rule the eagle!” cried the Prince of Tyre.<sup>g</sup>
+To rule the eagle!” cried the Prince of Tyre.<sup>g</sup><br>
 “We leave at leisure, Lusignan and thee<br>
 To settle points of legal courtesie,<br>
 Thanks to your prowess! we may waive them now,<br>
