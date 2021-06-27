@@ -13,7 +13,8 @@ tntsearch:
 
 <span class="maroon">Books</span>
 
-* Eleanor Anne Porden. [*The Veils; or The Triumph of Constancy*.](porden) London: John Murray, 1815.
+* Eleanor Anne Porden. [*The Veils; or The Triumph of Constancy*.](porden-veils) London: John Murray, 1815.
+* Eleanor Anne Porden. [*Coeur de Lion; or The Third Crusade*.](porden-coeur) London: G. and W. B. Whittaker, 1822.
 * Edith Mary Gell. [*John Franklin’s Bride*.](gell) London: John Murray, 1930.
 
 [Derbyshire Record Office Documents](https://www.derbyshire.gov.uk/leisure/record-office/derbyshire-record-office.aspx) 

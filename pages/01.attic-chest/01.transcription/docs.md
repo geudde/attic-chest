@@ -18,7 +18,7 @@ The Attic Chest contributions exhibit marked irregularity of spelling, capitaliz
 
 **Abbreviation:** Contributors were consistent in their preference for `tho’` and `thro’` as abbreviations that, presumably, facilitated handwriting. The reasons for wide adoption of abbreviations such as `pow’r` or `clos’d` are less clear. Perhaps this use was intended to remove ambiguity in intonation. Such abbreviations have been preserved.
 
-**Annotations:** Many of the early contributions are annotated in pencil, usually in William Porden’s hand. Examples of such annotations are sequential numbering and provisional titles. They are indicated by an orange sans-serif typeface, thus: 
+**Annotations:** Many of the early contributions are annotated in pencil. Examples of such annotations are sequential numbering and provisional titles. They are indicated by an orange sans-serif typeface, thus: 
 
 > <span class="pencil">Letter to the Editor</span> 
 
