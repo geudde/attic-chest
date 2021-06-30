@@ -19,7 +19,7 @@ tntsearch:
 
 <span class="maroon">Journals</span>
 
-* “Contemporary Poets, and Writers of Fiction No. III: [The Late Mrs. Franklin”.](porden-obit) *La Belle Assemblée*, vol. 1, no. 4, pp. 143–7. 1825.
+* “Contemporary Poets, and Writers of Fiction: [No. III — The Late Mrs. Franklin”.](porden-obit) *La Belle Assemblée*, vol. 1, no. 4, pp. 143–7. 1825.
 
 [Derbyshire Record Office Documents](https://www.derbyshire.gov.uk/leisure/record-office/derbyshire-record-office.aspx) 
 
