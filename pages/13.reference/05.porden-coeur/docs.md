@@ -5077,7 +5077,7 @@ Come if thou darest! and prove it by thy death.”<br>
 &emsp;In murder’d Alberic’s costly mail indued,<br>
 The giant son of Acre’s ruler stood.<br>
 “Methink’st this spoil may teach your trembling host<br>
-That Aralchaîs breathes no idle boast.”<br>
+That Aralchaïs breathes no idle boast.”<br>
 He spoke; his hands the crooked sabre wield,<br>
 But dauntless <span class="smallcaps">Richard</span> on his lion shield<br>
 Received, nor shrunk beneath the powerful stroke,<br>
@@ -5086,16 +5086,195 @@ Wondering the Moslem gazed,—but <span class="smallcaps">Richard</span> now,<br
 That shield uplifting, with the sudden blow<br>
 Dash’d him to earth—upon his side he prest<br>
 His sinewy knee, and pierced his ample chest.
+“Winton,” he said, “strip thou this braggart foe,<br>
+And bear his spoils to Philip—bid him know<br>
+That I aveng’d his Marshal.”—Then again<br>
+To the fierce charge he leads his eager train;<br>
+They break the adverse ranks, and hurrying on,<br>
+With blood and clamour fill the spacious town.<br>
+But louder than the angry din of war,<br>
+The voice of Karacous resounds afar:<br>
+“Hold, thou that slay’st the fairest of the fold,<br>
+Thou murdrous Lion, scourge of Islam; hold!<br>
+Hear, and let terror cloud thy brutal joy,<br>
+A childless father claims his valiant boy,<br>
+His Aralchaïs.”—Stem the veteran stood,<br>
+His sabre reeking with a hero’s blood;<br>
+The blood of Mowbray, o’er whose castle gate<br>
+The helmet hung in hospitable state;<br>
+Where still the warmest seat and choicest wine<br>
+Hail’d the tired pilgrim from the holy shrine;<br>
+Who to tne Templars many a wide domain<br>
+Gave with a liberal hand, nor gave in vain;<br>
+Once had they saved him from the Soldan’s chain,<sup>d</sup><br>
+And sent to England,—happy if no more<br>
+His pious feet had trod the Syrian shore;<br>
+Yet to his worth a martyr’s crown is given,<br>
+On earth he slumbers, to awake in Heaven.<br>
+&emsp;Now met the warriors;<span class="smallcaps">Richard</span>casts below<br>
+A look of wonder on his pigmy foe,<br>
+With limbs curtail’d, unequal, and deform’d,<br>
+But the rude clay a soul of valour warm’d.<br>
+“Exult not, Monarch, in thy towering height,<br>
+Thy fair proportion, or thy boasted might;<br>
+The loftiest cedar feels the woodman’s stroke,<br>
+And the red lightning strikes the proudest rock:<br>
+’Tis I have shed your Christian blood like rain,<br>
+And made one grave of all yon ample plain.<br>
+I bid thee now thy fancied spoil resign,<br>
+For while I breathe believe not Acre thine;<br>
+The city’s fate is on our swords, on high<br>
+The vulture whets her beak, and knows that one shall die.”<br>
+&emsp;Each held a spear, but, by one impulse sway’d,<br>
+Cast it to earth, and drew the deadlier blade.<br>
+The sword of Karacous, in Beder’s field And Bosra’s,<br>
+once had Ali’s strength impell’d,<br>
+That giant strength whose single effort slew<br>
+The mail-clad warrior and the courser too.
+But <span class="smallcaps">Richard’s</span> magic steel, six ages gone,<br>
+Was fram’d by Merlin for Pendragon’s son.<br>
+The sage, lest meaner hand its edge should wield,<br>
+In wild romance the Monarch’s death conceal’d;<br>
+How, nurs’d by fairies in their bowers of bloom,<br>
+Th’ awakening hero should his reign resume.<br>
+But time reveal’d the truth—to England’s King<br>
+Of Arthur’s grave the bards of Gwyneth sing;<br>
+He sought fair Avalon’s romantic isle,<br>
+Where Severn circles Glaston’s time-worn pile,<br>
+And raised the stone beneath her altar’s shade,<br>
+Where by Geneura’s side the Monarch laid;<br>
+Time had not changed his form, august though pale,<br>
+Nor loos’d one rivet from his iron mail.<br>
+Kneeling, the King evoked the mighty dead,<br>
+Whose hand relaxing loos’d the gifted blade,<br>
+Then vow’d that sword, by favouring powers bestow’d,<br>
+Should fight the battles of his injur’d God.<sup>e</sup><br>
+Now first he wields it, and with forceful sway<br>
+Rends half th’ Egyptian’s turban’d casque away.<br>
+But Karacous, with strength that more became<br>
+The arm of Ali than his stunted frame,<br>
+Strikes on the groin, and though the hauberk broke<br>
+Its force, the palsied limb confest the stroke;
+Nor might the staggering King the blow repell<br>
+When on his arm the heavy sabre fell,<br>
+And but a chain the precious weapon bound,<br>
+Th’ unrivall’d Caliburn had press’d the ground.<br>
+“Spirit of Arthur! dost thou see,” he said,<br>
+“How ill this coward hand deserves thy blade!”<br>
+Stung with the thought he smites his gallant foe<br>
+Full on the chest, and blood succeeds the blow.<br>
+Now pours the storm of mutual wrath amain,<br>
+Nor e’er those gifted weapons fell in vain,—<br>
+For where no crimson current mark’d the stroke<br>
+Helmet and shield were pierced, and corselet broke.<br>
+But <span class="smallcaps">Richard’s</span> height, (though both alike were brave)<br>
+And length of arm superior vantage gave;<br>
+Till Karacous, who bled from many a wound,<br>
+Indignant flung his buckler to the ground;<br>
+Now with sinister hand the sabre held,<br>
+Now with the right, and now with both impell’d.<br>
+“Not, not alone!” he cried—but <span class=”smallcaps”>Richard’s</span> care<br>
+Check’d on his shield the effort of despair;<br>
+For where the dexter lion frown’d, the sword<br>
+Stuck in the golden mass; nor might its lord<br>
+Again withdraw, for <span class="smallcaps">Richard’s</span> angry thrust<br>
+Pierced through his side, and hurl’d him to the dust:<br>
+Yet fighting to the last, the vital breath<br>
+He yields unwilling, and contends witb death.<br>
+“Proud conqueror, lay me by my gallant boy,<br>
+And thou, Mahommed, ope thy gates of joy.”<br>
+&emsp;“Eternal source of good!” the victor cries,<br>
+As on the corse he fixed his thoughtful eyes,<br>
+“Is there no mercy? shall the trumpet wake<br>
+That gallant soul to haunt the penal lake?<br>
+Alas! his hope is built on sand; his trust,<br>
+Like Sodom’s glittering fruit, shall fade in dust.”<br>
+A shout arous’d him! from the citadel,<br>
+On the glad breeze the notes of triumph swell;<br>
+From its high towers, in conquering pride unroll’d,<br>
+The red cross flames, the lion burns in gold;<br>
+For Pardo by the stream’s deserted bed<br>
+With brave Thoulouse his bold Provencals led;<br>
+Through frighted streets with eager haste they flew,<br>
+Astonish’d all, dispers’d, o’erwhelm’d or slew.<br>
+In vain the citadel her portals barr’d,<br>
+They scaled the heights, o’erpower’d the feeble guard,<br>
+And made it theirs, while all that should defend,<br>
+Against the King their fruitless valour spend.<br>
+&emsp;But ah! while victory calls his careless host<br>
+From <span class="smallcaps">Richard’s</span> side, shall <span class="smallcaps">Richard’s</span> self be lost?
+A band of foes, that strove to force their way<br>
+From the fall’n town, perceive the royal prey,—<br>
+They thank their Prophet, from their phalanx spring,<br>
+Enclose him round, and shout “the King! the King!”[^86]<br>
+&emsp;“The King alone!” a voice familiar cried,<br>
+Young Pardo’s blows the yielding train divide,<br>
+He springs exulting to his sovereign’s side.<br>
+His troop succeeds, again the war they wage,<br>
+And, warm with fight, the yielding foe engage.<br>
+Amid the ranks, all red with Christian blood,<br>
+An Arab Prince, the bold Almanzor stood;<br>
+The dark egret, whose jewell’d sprays were seen<br>
+’Mid the rich foldings of his turban green,<br>
+Revealed his rank, while in that verdant hue<br>
+Respectful slaves the Caaba’s pilgrim knew;<br>
+He struck the youth, and from his arm he drew<br>
+A crimson current, bright as ever dyed<br>
+The insect-laboured gem of Omar’s tide.<br>
+With toil, with joy exhausted, with the pain,<br>
+Whose burning smart he never knew till then,<br>
+He faints—the Monarch caught him in his fall,<br>
+And, thus encumber’d, fights, and baffles all!<br>
+He dreads no danger from th’ unequal strife,<br>
+And trembles only for his favourite’s life.<br>
+But soon that livid cheek was flush’d with shame,<br>
+From Pardo’s eyes indignant lightning came,<br>
+He starts, in haste he binds the bleeding wound,<br>
+And wheels again his trenchant faulchion round;<br>
+While <span class="smallcaps">Richard</span> through the shrinking numbers flies,<br>
+The great Almanzor singles and defies.<br>
+Seldom had either met an equal foe;<br>
+Careless at first they give the random blow,<br>
+Then, by experience taught, rejoice to feel<br>
+Their rival’s worth, and summon all their skill.<br>
+They strike, they turn, they bend; the fell intent<br>
+Read in the eye,—they read it and prevent.<br>
+That scented scymitar of Syrian frame<sup>f</sup><br>
+Swift, like the flash of Summer lightning came,<br>
+Tough, supple, keen; but <span class="smallcaps">Richard’s</span> shield defied,<br>
+Or <span class="smallcaps">Richard’s</span> cunning turn’d the stroke aside,<br>
+Or impotent its baffled fury fell<br>
+On the tough chainwork of his Norman mail.<br>
+Not so the Monarch’s sword, though shunn’d with care,<br>
+Frequent its guiltless force was spent in air,<br>
+Nor Asia’s hardest steel, in happy hour,<br>
+Temper’d with magic herbs and words of power,<br>
+Nor yet the Koran’s holiest text, though brought<br>
+Even from his Prophet’s gifted tomb, and wrought<br>
+By vestals on his silken vest, defends<br>
+The bleeding flesh where Caliburn descends;<br>
+And now, though stiff with gems and woven gold,<br>
+It pierced the Mecca turban’s verdant fold,<br>
+Through the rich plaits the purple torrents flow,<br>
+Almanzor reels, he falls beneath the blow.<br>
+&emsp;Who next shall bleed? lo! only Pardo near,<br>
+Pours all his rapture in the Monarch’s ear;<br>
+Now doubly joyous that his Sovereign’s smile<br>
+Approves his prudence, and rewards his toil.<br>
+&emsp;Nor with a fate less prosperous Albert waits<br>
+Th’ expected sally from the Patriarch’s gates.<br>
+Happy that Syrian who survived to tell<br>
+To Asia’s Monarch how his comrades fell!<br>
+While o’er the heaps of dead the victors pour,<br>
+Force back the closing gates, and win the tower.<br>
+&emsp;Nor less through Acre’s streets, by Leicester led,<br>
+The English host her desert homes invade,<br>
+Till all, or slain, or captive, own their power,<br>
+Till Christian ensigns stream from every tower;<br>
+Those walls that England conquer’d first, alone<br>
+Her Lion-flag forgets to mark its own.
 
-“Winton," he said, " strip thou this braggart foe, And bear his spoils to Philip—bid him know That I aveng'd his Marshal."—Then again 220 To the fierce charge he leads his eager train; They break the adverse ranks, and hurrying on, With blood and clamour fill the spacious town. But louder than the angry din of war, The voice of Karacous resounds afar: " Hold, thou that slay'st the fairest of the fold, Thou murdrous Lion, scourge of Islam; hold! Hear, and let terror cloud thy brutal joy, A childless father claims his valiant boy, His Aralchais."—Stem the veteran stood, 230 His sabre reeking with a hero's blood; The blood of Mowbray, o'er whose castle gate The helmet hung in hospitable state; Where still the warmest seat and choicest wine Hail'd the tired pilgrim from the holy shrine; Who to tne Templars many a wide domain \ Gave with a liberal hand, nor gave in vain; ч Once had they saved him from the Soldan's chain, d j And sent to England,—happy if no more His pious feet had trod the Syrian shore; 240
-Yet to his worth a martyr's crown is given, On earth he slumbers, to awake in Heaven. Now met the warriors;<span class="smallcaps">Richard</span>casts below A look of wonder on his pigmy foe, With limbs curtail'd, unequal, and deform'd, But the rude clay a soul of valour warm'd. " Exult not, Monarch, in thy towering height, Thy fair proportion, or thy boasted might; The loftiest cedar feels the woodman's stroke, And the red lightning strikes the proudest rock: 250 ’Tis I have shed your Christian blood like rain, And made one grave of all yon ample plain. I bid thee now thy fancied spoil resign, For while I breathe believe not Acre thine; The city's fate is on our swords, on high The vulture whets her beak, and knows that one shall die." Each held a spear, but, by one impulse sway'd, Cast it to earth, and drew the deadlier blade. The sword of Karacous, in Beder's field And Bosra's, once had Ali's strength impell'd, 200 That giant strength whose single effort slew The mail-clad warrior and the courser too.
-But <span class="smallcaps">Richard’s</span> magic steel, six ages gone, Was fram'd by Merlin for Pendragon's son. The sage, lest meaner hand its edge should wield, In wild romance the Monarch's death coneeal'd; How, nurs'd by fairies in their bowers of bloom, Th' awakening hero should his reign resume. But time reveal'd the truth—to England's King Of Arthur's grave the bards of Gwyneth sing; 270 He sought fair Avalon's romantic isle, Where Severn circles Glaston's time-worn pile, And raised the stone beneath her altar's shade, Where by Gcneura's side the Monarch laid; Time had not changed his form, august though palej Nor loos'd one rivet from his iron mail. Kneeling, the King evoked the mighty dead, Whose hand relaxing loos'd the gifted blade, Then vow'd that sword, by favouring powers bcstow'd. Should fight the battles of his injur'd God. e 280 Now first he wields it, and with forceful sway Rends half th' Egyptian's turban'd casque away. But Karacous, with strength that more became The arm of Ali than his stunted frame, Strikes on the groin, and though the hauberk broke Its force, the palsied limb confest the stroke;
-Nor might the staggering King the blow repeli When on his arm the heavy sabre fell, And but a chain the precious weapon bound, Th' unrivall'd Caliburn had press' d the ground. 290 ' e Spirit of Arthur! dost thou see," he said, ie How t ill this coward hand deserves thy blade I" Stung with the thought he smites his gallant foe Full on the chest, and blood succeeds the blow. Now pours the storm of mutual wrath amain, Nor e'er those gifted weapons fell in vain,— For where no crimson current mark'd the stroke Helmet and shield were pierced, and corselet broke. But Richaiid's height, (though bothalike were brave) And length of arm superior vantage gave; 300 Till Karacous, who bled from many a wound, Indignant flung his buckler to the ground; Now with sinister hand the sabre held, Now with the right, and now with both impell'd. iC Not, not alone!" he cried—but <span class="smallcaps">Richard’s</span> care Check'd on his shield the effort of despair; For where the dexter lion frown'd, the sword Stuck in the golden mass; nor might its lord Again withdraw, for <span class="smallcaps">Richard’s</span> angry thrust Pierced through his side, and hurl'd him to the dust:
-Yet fighting to the last, the vital breath He yields unwilling, and contends witb death. " Proud conqueror, lay me by my gallant boy, And thou, Mahommed, ope thy gates of joy." ec Eternal source of good!" the victor cries, As on the corse he fixed his thoughtful eyes, " Is there no mercy? shall the trumpet wake That gallant soul to haunt the penal lake? Alas! his hope is built on sand; his trust, Like Sodom's glittering fruit, shall fade in dust." 320 A shout arous'd him! from the citadel, On the glad breeze the notes of triumph swell; From its high towers, in conquering pride unroll'd, The red cross flames, the lion burns in gold; For Pardo by the stream's deserted bed With brave Thoulouse his bold Provencals led; Through frighted streets with eager haste they flew, Astonish'd all, dispers'd, o'erwhelm'd or slew. In vain the citadel her portals barr'd, They scaled the heights, o'erpower'd the feeble guard, And made it theirs, while all that should defend, Against the King their fruitless valour spend. But ah! while victory calls his careless host From <span class="smallcaps">Richard’s</span> side, shall <span class="smallcaps">Richard’s</span> self be lost?
-A band of foes, that strove to force their way From the fall'n town, perceive the royal prey,— They thank their Prophet, from their phalanx spring, Enclose him round, and shout " the King! the King!"* te The King alone!" a voice familiar cried, i Young Pardo's blows the yielding train divide, 340?* He springs exulting to his sovereign's side. s His troop succeeds, again the war they wage, And, warm with fight, the yielding foe engage. Amid the ranks, all red with Christian blood, An Arab Prince, the bold Almanzor stood; The dark egret, whose jewell'd sprays were seen 'Mid the rich foldings of his turban green, Revealed his rank, while in that verdant hue \ Respectful slaves the Caaba's pilgrim knew; \ He struck the youth, and from his arm he drew 350^ A crimson current, bright as ever dyed The insect-laboured gem of Omar's tide. With toil, with joy exhausted, with the pain, Whose burning smart he never knew till then, He faints—the Monarch caught him in his fall, And, thus encumber'd, fights, and baffles all 1,* Historical.
-He dreads no danger from th' unequal strife, And trembles only for his favourite's life. But soon that livid cheek was flush'd with shame, From Pardo's eyes indignant lightning came, 360 He starts, in haste he binds the bleeding wound, And wheels again his trenchant faulchion round; While <span class="smallcaps">Richard</span> through the shrinking numbers flies, The great Almanzor singles and defies. Seldom had either met an equal foe; Careless at first they give the random blow, Then, by experience taught, rejoice to feel Their rival's worth, and summon all their skill. They strike, they turn, they bend; the fell intent Read in the eye,—they read it and prevent. 370 That scented scymitar of Syrian frame/ Swift, like the flash of Summer lightning came, Tough, supple, keen; but <span class="smallcaps">Richard’s</span> shield defied, Or <span class="smallcaps">Richard’s</span> cunning turn'd the stroke aside, Or impotent its baffled fury fell On the tough chainwork of his Norman mail. Not so the Monarch's sword, though shunn'd with care, Frequent its guiltless force was spent in air, Nor Asia's hardest steel, in happy hour, Temper'd with magic herbs and woidb of power, 380
-Nor yet the Koran's holiest text, though brought Even from his Prophet's gifted tomb, and wrought By vestals on his silken vest, defends The bleeding flesh where Caliburn descends; And now, though stiff with gems and woven gold, It pierced the Mecca turban's verdant fold, Through the rich plaits the purple torrents flow, Almanzor reels, he falls beneath the blow. Who next shall bleed? lo! only Pardo near, Pours all his rapture in the Monarch's ear; 390 Now doubly joyous that his Sovereign's smile Approves his prudence, and rewards his toil. Nor with a fate less prosperous Albert waits Th' expected sally from the Patriarch's gates. Happy that Syrian who survived to tell To Asia's Monarch how his comrades fell! While o'er the heaps of dead the victors pour, Force back the closing gates, and win the tower. Nor less through Acre's streets, by Leicester led, The English host her desert homes invade, 400 Till all, or slain, or captive, own their power, Till Christian ensigns stream from every tower; Those walls that England conquer'd first, alone Her Lion-flag forgets to mark its own. vol. i. it
-1 From what slight fault gigantic ills appear! For, like that little cloud the Prophet's prayer Called from the deep, that error shall expand, Till its black shadow darkens all the land. Slight is the joy that shines in smiles, alone, In silent tears is warmer rapture shewn: 410 But there's a higher agony of bliss, That knows nor tears nor smiles,—and such was this, Such <span class="smallcaps">Richard</span> felt; —so many conflicts past, His prayer, his nightly dream fnl fill'd at last. And was She his, that city, dearly won As Jove-prop'd Ilion, she whose every stone Had cost a martyr's blood, whose impious pride For three long years the Christian world defied? Defiled the Cross, blasphemed each holiest name, And gave her captive foes to lingering flame \ e 420 In one long upward look his thanks were given, His silent gratitude communed with Heaven. Meanwhile with Saladine the heralds met, And vain demands drew on a vain debate; Till hark! that shriek from shuddering Islam sent! He draws the silken curtains of his tent,—
+From what slight fault gigantic ills appear! For, like that little cloud the Prophet's prayer Called from the deep, that error shall expand, Till its black shadow darkens all the land. Slight is the joy that shines in smiles, alone, In silent tears is warmer rapture shewn: 410 But there's a higher agony of bliss, That knows nor tears nor smiles,—and such was this, Such <span class="smallcaps">Richard</span> felt; —so many conflicts past, His prayer, his nightly dream fnl fill'd at last. And was She his, that city, dearly won As Jove-prop'd Ilion, she whose every stone Had cost a martyr's blood, whose impious pride For three long years the Christian world defied? Defiled the Cross, blasphemed each holiest name, And gave her captive foes to lingering flame \ e 420 In one long upward look his thanks were given, His silent gratitude communed with Heaven. Meanwhile with Saladine the heralds met, And vain demands drew on a vain debate; Till hark! that shriek from shuddering Islam sent! He draws the silken curtains of his tent,—
 One look reveals the whole; his sickening sight Turns from that Cross on Acre's ramparts bright. That slow disease, still watchful for the hour When cankering cares the harass'd frame devour,430 Holds its permitted reign, and round their lord His servants tremble for a life adored. h Nor envious Philip read with less affright A rival's fame on every banner'd height; His avarice by that prompt success betray'd, His promised glories sunk in sudden shade. But Austria's crafty Duke, whose thirst of gold, His love, his hate, and even his fears controll'd, Resolves to share the spoil;—he calls his powers, Flies to the town, and mounts the conquer'd towers, And (for no banner there in mastery shone) His flag, presumptuous, marks them as his own. His troops, whose scanty hire but ill was paid,* For pillage ripe, his welcome call obey'd j With Bertrand join'd, their bloody way they force, And shrieks, and flames, and ruin mark their course.,и 2
 But полу the King, attentive to lepair The yawning breach his fury batter'd there, Inspects th' Accursed Tower,—amazed, he knew The golden Larks upon their field of blue. 450 " What means this insult? By those powers that crown My conquering arms, I bid the pageant down! Say whence, proud Duke, this daring madness springs, To mate tby banner with the badge of Kings?' Even on this tower, beneath that conscious sun Which saw its ramparts by my valour won, Canst thou believe I tamely will behold Another's flag? the flag of Leopold? Sooth! were thine own Imperial Suzerain near, He well might dread to plant his eagle here. 460 Conrad alone, that Heaven and man defies,— But words are idle,—there thy banner lies!" Even as he spoke, beneath his sword it falls, Th' offending ensign tumbles from the walls; 'Mid heaps of carnage in the moat it roll'd, And dust and blood defiled the gaudy gold. In wonder speechless stood its raging lord, His threatening eyes flash fire, he grasps his sword. ** Hold! haughty Chief," again the Monarch spoke, " Nor farther yet my righteous ire provoke, 4J0
 I dread thee not;—yet pardon if my tongue, By sudden anger moved, have done thee wrong. What though sole victor o'er this stubborn town, The glory is and shall be all my own; I know the rights of three long years of toil, And thou, and all, shall share her lawful spoil; But I endure no plunder—late I knew A lawless band, who bore thy cross of blue:— Recall them, for should one red hand be stain'd With needless blood, one sacred shrine profan'd, 480 By Heaven's bright throne, though Lydia's gold were there, And India's gems, that wealth they should not share." Many there are to dare, but not uphold The guilty deed, and such was Leopold. Brave as the best, if valour lie alone In shedding blood, or lavishing our own, Opinion bound him in her stern control, Nor he, like Conrad, ruled the shrinking soul. If ever worth or rank might envy claim, He envied Richard, long'd to blast his fame, 490 Yet dared not полу his kindled ire resent; Muttering and pale again he sought his tent. r 3
@@ -5507,3 +5686,5 @@ none of the house of Ayoub were likely to look with complacency on the worshippe
 [^84]: See Hovenden, folio 395. The eclipse lasted three hours.
 
 [^85]: At the time when Saladine approached the Holy City, after the battle of Tiberias, in which Lusignan was made prisoner, and at the moment when the deputies refused to surrender the town, a great eclipse of the sun “left all at once the heavens in darkness,” which was interpreted as an evil omen to the Christians.
+
+[^86]: Historical.
