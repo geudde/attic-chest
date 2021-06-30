@@ -1,0 +1,23 @@
+---
+title: Editorial
+taxonomy:
+    category:
+        - docs
+visible: false
+tntsearch:
+    index: true
+---
+
+As many of our correspondents are doubtless ambitious of becoming popular writers, we cannot do better than to open our readings with “A Few Rules for Attaining that Object, from the German of Anton Wall”, which have been completely exemplified in “The Curse of Kehama” by Southey, a work where we find the greatest energy and elegance of language mingled with mean and vulgar phraseology that would not be tolerated in a poem of less intrinsic merit. A work that blends in an extraordinary manner the most sublime and beautiful imagery, the most interesting situations, and the most pathetic sentiments, with the most absurd and extravagant fictions, displayed in verse which has no regular measure and is without rhythm, which pretends to be in rhyme while many of the lines are without corresponding termination and some of them rhyme in the middle to the preceding or following verses. In a word, a versification of such and anomalous kind that it is almost impossible to read it, and distressing to hear it read. This work is a striking example of the necessity of taste to give efficacy and excellence to the labour of genius, two qualities of mind that are not infrequently disunited. In “The Curse of Kehama” we have all that constitutes a poet — the highest power of invention and expression, debase by meanness and puerile affectation of singularity, and we read the poem with much more admiration than pleasure. Why will he make us stare with wonder when he might make us at once admire and love him. In some of his juvenile works he has shown that the trammels of regular composition are not encumbrance to him. He wears his fetters gracefully when he chooses to wear them.
+
+Of the Nursery Song we can only say that it is pretty, and would not disgrace the collections of lullabies for children two years old. The Verses Written on a Rustic Temple have a moral that might be remembered with profit by the young and rich; but those who are not blessed with affluence when they are young are compelled to employ their days more usefully and a few of such we hope feel the keenness of self-reproach. When the hand of time covers their head with the snow of life.
+
+The wit and humour of the Nuptial Song has afforded us pleasure, but our pleasure would have beeb double if we could divine what knight or what king’s daughter are alluded to. Perhaps they are imaginary beings like the Daphnes and Chloes of the majority of poets.
+
+The Verses to Anna are beautiful and who can praise so well that lovely flower “forget-me-not”.
+
+The Lawyer’s Ramble will afford amusement to all our hearers; but chiefly to the gentlemen of the long robe here present, is such there be. The lawyers have it so often in their power to *make game* of others, a power they rarely refuse to exercise, that every one delights to have a fling at them, and they do not dislike to have a fling at one another. However it is not wonderful that a lawyer who had spent all his life in a dusty closet among briefs and cases, should not know the difference between a carrion crow and a pheasant, though he possibly might distinguish between a cock sparrow and a cock turkey. But as to a soft tumble in the mud — why, it may be enjoyed by another as well as a lawyer, as a person we are acquainted with can testify, if called on so to do. We wonder most that he should have been so much afraid of being roasted as a lawyer is good for nothing if he cannot stand fire, and fire again. Neither his fear, however, that made him fly, nor his courage that caused him to return has saved his bacon; for the poet has roasted him and basted him too and he is *done enough*.
+
+The poem beginning “Nesting on the barren cliff” is a Juvenal production of a friend now no more, who had he lived would have held a distinguished place in society. The verses are incorrect but they are expressive of that elegant melancholy which frequently accompanies genius in adversity and a spirit rising above the accidents of its condition.
+
+“The Sonnet on Expression” which will succeed it seems to have been dictated by a kindred spirit. We have only to add that we have received the 3d Canto of 4th Book of the Restoration, in which the story of Miranda is advanced though not concluded; but that of the canto which ought to terminate the Sylphiad we have heard no tidings. We hope it is not been devoured by the salamanders.
