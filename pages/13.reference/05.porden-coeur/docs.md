@@ -97,7 +97,7 @@ Eleanor Anne Роrden
 <li><a href="#book03">III. The Nuptials of Richard and Berengaria</a></li>
 <li><a href="#book04">IV. The Median Fire</a></li>
 <li><a href="#book05">V. The Arrival of Richard in Palestine</a></li>
-<li><a href="#book05">VI. The Capture of Acre</a></li>
+<li><a href="#book06">VI. The Capture of Acre</a></li>
 <li>VII. The March to Arsouf</li>
 <li>VIII. The Battle of Arsouf</li>
 <li>Notes</a></li>
