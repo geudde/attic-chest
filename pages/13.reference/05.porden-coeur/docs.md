@@ -4984,7 +4984,7 @@ He smiled, and by his courage ruled alone,<br>
 Then rose the general shout, his warriors spread<br>
 Their broad tough bucklers o’er their Sovereign’s head.<br>
 Again the Syrian Chief dismiss’d the spear,<br>
-And aim’d too well, for <span class="maroon">Richard’s</span> fate was there;<br>
+And aim’d too well, for <span class="smallcaps">Richard’s</span> fate was there;<br>
 But a young knight, intrepid, rush’d between,<br>
 And made his bleeding breast his Monarch’s screen.<br>
 As his sad squires bore off their fainting load,<br>
@@ -5026,10 +5026,68 @@ Whate’er could rouse that heart to feel again.<br>
 Mosques, cupolas, and minarets of gold,<br>
 And blossom’d groves, when lo! a wall of fire<br>
 Shuts out each marble dome, each glittering spire!<br>
-Vast piles of wood, for other labours placed, And heaps of useless engines, fired in haste, Oppose their progress; but the Monarch cast 160 One glance inspiring, i( It must fade at last! Even now it fades! beyond are fame or death, The spoils of Acre, or the martyr's wreath." Now ranged behind, a wall of steel appears, So close the bucklers joined and glittering spears. ' e ’Tis well 3" again the ardent <span class="smallcaps">Richard</span> cries, (i The truly brave would scorn too cheap a prize." But was it lowering storm, or wizard spell, That on the fight unnatural darkness fell! No storm, for cloudless is th' ætherial blue, 170 Nor is it sober twilight's solemn hue, Nor the chaste smile of Cynthia's summer night, Her broad deep shadows, and her silver light. Yet to their nests the screaming ravens fly, And stars are glimmering in the mid-day sky! q 4
-Cold breathes the altered gale, a livid shade Dims every brow, the glowing banners fade j The moon invades the sun, whose golden ray, Bright in solstitial pride, contests her sway.* Still at th' appointed hour the awful night 180 Spreads her black veil, the morn her saffron light; Wrapt in the snowy tempest Winter conies, And bounteous Spring in fragrant mildness blooms. Nor pauses man, to question why or whence, For the familiar wonder palls the sense. He deems it awful, when the tempests wake The mountain echoes, when the forests shake, When lightning gilds the dark, and the gnarl'd oak, That braved a thousand winters, feels the stroke. Yet are those solemn changes most sublime, 190 That bursting seldom from the womb of Time, Recall th' Almighty Architect, and hold Their silent course, foreseen but not control'd;— That, breaking Nature's common laws, sustain, Her vast, immutable, eternal reign. The warring armies paus'd, and every eye, In mute devotion, sought the darken'd sky.
-ζί Ha! King of England, mark'st thou yonder sun? As erst when Sion by our arms was won,* That boasted emblem of thy Christian creed 200 Wanes to a crescent—do I rightly read?" " Aye! for that Crescent shall expire as soon As yon bright orb shakes off th' invading moon. Come! thou that gavest those vauntingaccents breath, Come if thou därest! and prove it by thy death." In murder'd Alberic's costly mail indued, The giant son of Acre's ruler stood. " Methink'st this spoil may teach your trembling host That Aralchais breathes no idle boast." He spoke; his hands the crooked sabre wield, 210 But dauntless <span class="smallcaps">Richard</span> on his lion shield Received, nor shrunk beneath the powerful stroke, Nor flew the buckler, nor the weapon broke. Wondering the Moslem gazed, —but <span class="smallcaps">Richard</span> now, That shield uplifting, with the sudden blow Dash'd him to earth—upon his side he prest His sinewy knee, and pierced his ample chest.
-cc Winton," he said, " strip thou this braggart foe, And bear his spoils to Philip—bid him know That I aveng'd his Marshal."—Then again 220 To the fierce charge he leads his eager train; They break the adverse ranks, and hurrying on, With blood and clamour fill the spacious town. But louder than the angry din of war, The voice of Karacous resounds afar: " Hold, thou that slay'st the fairest of the fold, Thou murdrous Lion, scourge of Islam; hold! Hear, and let terror cloud thy brutal joy, A childless father claims his valiant boy, His Aralchais."—Stem the veteran stood, 230 His sabre reeking with a hero's blood; The blood of Mowbray, o'er whose castle gate The helmet hung in hospitable state; Where still the warmest seat and choicest wine Hail'd the tired pilgrim from the holy shrine; Who to tne Templars many a wide domain \ Gave with a liberal hand, nor gave in vain; ч Once had they saved him from the Soldan's chain, d j And sent to England,—happy if no more His pious feet had trod the Syrian shore; 240
+Vast piles of wood, for other labours placed,<br>
+And heaps of useless engines, fired in haste,<br>
+Oppose their progress; but the Monarch cast<br>
+One glance inspiring, “It must fade at last!<br>
+Even now it fades! beyond are fame or death,<br>
+The spoils of Acre, or the martyr’s wreath.”<br>
+Now ranged behind, a wall of steel appears,<br>
+So close the bucklers joined and glittering spears.<br>
+“’Tis well!” again the ardent <span class="smallcaps">Richard</span> cries,<br>
+“The truly brave would scorn too cheap a prize.”<br>
+But was it lowering storm, or wizard spell,<br>
+That on the fight unnatural darkness fell!<br>
+No storm, for cloudless is th’ ætherial blue,<br>
+Nor is it sober twilight’s solemn hue,<br>
+Nor the chaste smile of Cynthia’s summer night,<br>
+Her broad deep shadows, and her silver light.<br>
+Yet to their nests the screaming ravens fly,<br>
+And stars are glimmering in the mid-day sky!<br>
+Cold breathes the altered gale, a livid shade<br>
+Dims every brow, the glowing banners fade;<br>
+The moon invades the sun, whose golden ray,<br>
+Bright in solstitial pride, contests her sway.[^84]<br>
+&emsp;Still at th’ appointed hour the awful night<br>
+Spreads her black veil, the morn her saffron light;<br>
+Wrapt in the snowy tempest Winter comes,<br>
+And bounteous Spring in fragrant mildness blooms.<br>
+Nor pauses man, to question why or whence,<br>
+For the familiar wonder palls the sense.<br>
+He deems it awful, when the tempests wake<br>
+The mountain echoes, when the forests shake,<br>
+When lightning gilds the dark, and the gnarl’d oak,<br>
+That braved a thousand winters, feels the stroke.<br>
+Yet are those solemn changes most sublime,<br>
+That bursting seldom from the womb of Time,<br>
+Recall th’ Almighty Architect, and hold<br>
+Their silent course, foreseen but not control’d;—<br>
+That, breaking Nature’s common laws, sustain,<br>
+Her vast, immutable, eternal reign.<br>
+&emsp;The warring armies paus’d, and every eye,<br>
+In mute devotion, sought the darken’d sky.<br>
+“Ha! King of England, mark’st thou yonder sun?<br>
+As erst when Sion by our arms was won,[^85]<br>
+That boasted emblem of thy Christian creed<br>
+Wanes to a crescent—do I rightly read?”<br>
+&emsp;“Aye! for that Crescent shall expire as soon<br>
+As yon bright orb shakes off th’ invading moon.<br>
+Come! thou that gavest those vaunting accents breath,<br>
+Come if thou darest! and prove it by thy death.”<br>
+&emsp;In murder’d Alberic’s costly mail indued,<br>
+The giant son of Acre’s ruler stood.<br>
+“Methink’st this spoil may teach your trembling host<br>
+That Aralchaîs breathes no idle boast.”<br>
+He spoke; his hands the crooked sabre wield,<br>
+But dauntless <span class="smallcaps">Richard</span> on his lion shield<br>
+Received, nor shrunk beneath the powerful stroke,<br>
+Nor flew the buckler, nor the weapon broke.<br>
+Wondering the Moslem gazed,—but <span class="smallcaps">Richard</span> now,<br>
+That shield uplifting, with the sudden blow<br>
+Dash’d him to earth—upon his side he prest<br>
+His sinewy knee, and pierced his ample chest.
+
+“Winton," he said, " strip thou this braggart foe, And bear his spoils to Philip—bid him know That I aveng'd his Marshal."—Then again 220 To the fierce charge he leads his eager train; They break the adverse ranks, and hurrying on, With blood and clamour fill the spacious town. But louder than the angry din of war, The voice of Karacous resounds afar: " Hold, thou that slay'st the fairest of the fold, Thou murdrous Lion, scourge of Islam; hold! Hear, and let terror cloud thy brutal joy, A childless father claims his valiant boy, His Aralchais."—Stem the veteran stood, 230 His sabre reeking with a hero's blood; The blood of Mowbray, o'er whose castle gate The helmet hung in hospitable state; Where still the warmest seat and choicest wine Hail'd the tired pilgrim from the holy shrine; Who to tne Templars many a wide domain \ Gave with a liberal hand, nor gave in vain; ч Once had they saved him from the Soldan's chain, d j And sent to England,—happy if no more His pious feet had trod the Syrian shore; 240
 Yet to his worth a martyr's crown is given, On earth he slumbers, to awake in Heaven. Now met the warriors;<span class="smallcaps">Richard</span>casts below A look of wonder on his pigmy foe, With limbs curtail'd, unequal, and deform'd, But the rude clay a soul of valour warm'd. " Exult not, Monarch, in thy towering height, Thy fair proportion, or thy boasted might; The loftiest cedar feels the woodman's stroke, And the red lightning strikes the proudest rock: 250 ’Tis I have shed your Christian blood like rain, And made one grave of all yon ample plain. I bid thee now thy fancied spoil resign, For while I breathe believe not Acre thine; The city's fate is on our swords, on high The vulture whets her beak, and knows that one shall die." Each held a spear, but, by one impulse sway'd, Cast it to earth, and drew the deadlier blade. The sword of Karacous, in Beder's field And Bosra's, once had Ali's strength impell'd, 200 That giant strength whose single effort slew The mail-clad warrior and the courser too.
 But <span class="smallcaps">Richard’s</span> magic steel, six ages gone, Was fram'd by Merlin for Pendragon's son. The sage, lest meaner hand its edge should wield, In wild romance the Monarch's death coneeal'd; How, nurs'd by fairies in their bowers of bloom, Th' awakening hero should his reign resume. But time reveal'd the truth—to England's King Of Arthur's grave the bards of Gwyneth sing; 270 He sought fair Avalon's romantic isle, Where Severn circles Glaston's time-worn pile, And raised the stone beneath her altar's shade, Where by Gcneura's side the Monarch laid; Time had not changed his form, august though palej Nor loos'd one rivet from his iron mail. Kneeling, the King evoked the mighty dead, Whose hand relaxing loos'd the gifted blade, Then vow'd that sword, by favouring powers bcstow'd. Should fight the battles of his injur'd God. e 280 Now first he wields it, and with forceful sway Rends half th' Egyptian's turban'd casque away. But Karacous, with strength that more became The arm of Ali than his stunted frame, Strikes on the groin, and though the hauberk broke Its force, the palsied limb confest the stroke;
 Nor might the staggering King the blow repeli When on his arm the heavy sabre fell, And but a chain the precious weapon bound, Th' unrivall'd Caliburn had press' d the ground. 290 ' e Spirit of Arthur! dost thou see," he said, ie How t ill this coward hand deserves thy blade I" Stung with the thought he smites his gallant foe Full on the chest, and blood succeeds the blow. Now pours the storm of mutual wrath amain, Nor e'er those gifted weapons fell in vain,— For where no crimson current mark'd the stroke Helmet and shield were pierced, and corselet broke. But Richaiid's height, (though bothalike were brave) And length of arm superior vantage gave; 300 Till Karacous, who bled from many a wound, Indignant flung his buckler to the ground; Now with sinister hand the sabre held, Now with the right, and now with both impell'd. iC Not, not alone!" he cried—but <span class="smallcaps">Richard’s</span> care Check'd on his shield the effort of despair; For where the dexter lion frown'd, the sword Stuck in the golden mass; nor might its lord Again withdraw, for <span class="smallcaps">Richard’s</span> angry thrust Pierced through his side, and hurl'd him to the dust:
@@ -5445,3 +5503,7 @@ none of the house of Ayoub were likely to look with complacency on the worshippe
 [^82]: Richard worked one of the Patrariæ for a considerable time.
 
 [^83]: Vinsauf, who adds that the stone was picked up and sent to Saladine.
+
+[^84]: See Hovenden, folio 395. The eclipse lasted three hours.
+
+[^85]: At the time when Saladine approached the Holy City, after the battle of Tiberias, in which Lusignan was made prisoner, and at the moment when the deputies refused to surrender the town, a great eclipse of the sun “left all at once the heavens in darkness,” which was interpreted as an evil omen to the Christians.
