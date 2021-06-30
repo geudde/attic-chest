@@ -4936,12 +4936,97 @@ Call’d to the Holy War the Cambrian youth.[^80]<br>
 King <span class="smallcaps">Richard’s</span> hand, and Mestoc’s side receives<br>
 Beneath his lifted arm!—it spared the life,<br>
 But forced th’ unwilling Emir from the strife.<br>
-
-Meanwhile the King, who mark'd his warriors fly The fate of Jerworth, lifts his voice on high: ic And can yc tremble, Christians! ye who fight 70 For Him who framed yon firmament of light; Him whose least word could crush yon rebel towers, Or arm embattled hosts of angel powers? But he to us ordains them, bids us dare The might of hell, and earn salvation there. Think of your sires, that o'ei this race prevail'd, Whom rescued Sólyma triumphant hail'd; Whose names th' eternal scrolls of heaven record, Then t' woe to him who wears a stainless sword.'"* His rallying troops th' inspiring call obey, 80 Again the missiles fly, the engines play; He guides the dread Petraria, f high he heaves A rocky mass; the whistling air it cleaves, It strikes the ramparts; by its weight o'erthrown, Twelve gasping Moslems sink beneath the stone. t,«2
-Again he loosed the engine, hurl'd below, The batter'd fort receives the fatal blow, Where Philip late had forced the breach; in haste To prop the tower were wooden stancheons placed, AH seem'd secure, but now the facings fall, 90 And the crush'd stone betrays th' imperfect wall. " A torch!" the Monarch cried, and Rodney's hand Snatch'd with undaunted zeal the flaming brand; The Moslems mark th' attempt, and from the height Shower all their fury on the daring Knight; Unharm'd he moves beneath his lifted shield, And thrice rush'd on, but thrice compell'd to yield; Again advanced, while England's archers drove The wounded Syrians from the walls above; 'Twas then that Karacous infuriate spoke: Î00 t'c Is death more fearful than the Christian yoke? Women of Asia! forward to the wall, What boots your dastard lives, if Acre fall?" He spoke, nor pausing, with tremendous blow Sends half the frowning battlement below; Just as the Knight the fatal flame applies, \ Crush'd by the weight a shapeless mass he lies, ч Commends his parting soul to Heaven, and dies I \
-Grieved, yet unaw'd, the King review'd his bands, No venturous Knight the dangerous task demands; He smiled, and by his courage ruled alone, iC ’Tis well," he cried, r ' *his glory is my own!"— Then rose the general shout, his warriors spread Their broad tough bucklers o'er their Sovereign's head. Again the Syrian Chief dismiss'd the spear, And aim'd too well, for Richakd's fate was there; But a young knight, intrepid, rush'd between, And made his bleeding breast his Monarch's screen. As his sad squires bore off their fainting load, One hasty glance the grateful King bestow'd; 120 But paus'd not in his course, " On! on!" he cries, He reached the tower, the bickering flames arise. " Ob, water! water!" Long that fearful cry Had Acre heard, nor found her springs reply; All shrunk in dust, so well with <span class="smallcaps">Richard’s</span> care The cloudless skies conspired, and glowing air, Not her drain'd tanks, nor yet her treacherous stream Could yield one drop to check that spreading flame; The heavy ramparts nod, the fires, devour Their last support—down falls th' "Accursed Tower." q 3
-" On to the breach, ye flower of England, on! The city falls, th' invincible is won." Ci Not yet, blasphemers I" Karacous replies, And by his hand the youthful Osbert dies; b — Osbert, of Clinton's blood, whose knightly grace And gentle worth adorned his noble race. Rotrou of Perche next storms the yawning breach, His rapid blows th' opposing Azim reach; But soon a blazing hoop en wreathed them round, 4 In one infernal orb of torture bound, 140 s. They fight, they writhe, they struggle on the ground, y Till kindred fire their gallant limbs consume, Foes in their lives, companions in the tomb- First on the height, uncheck'd by hosts of foes, The Moslem dread, Plantagenet arose; Next Bertrand sprung, the peril of the strife, Wounds, clamour, death, to him were joy, were life; His was an ardent heart, in youth deprest By one sad blow, it sunk, but not to rest; He loved to set his wealth upon the die, 150 He loved the banquets of intemperate joy, The bleeding hurry of the battle plain, Whate'er could rouse that heart to feel again.
-The warriors follow fast, yet scarce behold Mosques, cupolas, aud minarets of gold, And blossom'd groves, when lo! a wall of fire Shuts out each marble dome, each glittering spire! Vast piles of wood, for other labours placed, And heaps of useless engines, fired in haste, Oppose their progress; but the Monarch cast 160 One glance inspiring, i( It must fade at last! Even now it fades! beyond are fame or death, The spoils of Acre, or the martyr's wreath." Now ranged behind, a wall of steel appears, So close the bucklers joined and glittering spears. ' e ’Tis well 3" again the ardent <span class="smallcaps">Richard</span> cries, (i The truly brave would scorn too cheap a prize." But was it lowering storm, or wizard spell, That on the fight unnatural darkness fell! No storm, for cloudless is th' ætherial blue, 170 Nor is it sober twilight's solemn hue, Nor the chaste smile of Cynthia's summer night, Her broad deep shadows, and her silver light. Yet to their nests the screaming ravens fly, And stars are glimmering in the mid-day sky! q 4
+Meanwhile the King, who mark’d his warriors fly<br>
+The fate of Jerworth, lifts his voice on high:<br>
+“And can ye tremble, Christians! ye who fight<br>
+For Him who framed yon firmament of light;<br>
+Him whose least word could crush yon rebel towers,<br>
+Or arm embattled hosts of angel powers?<br>
+But he to us ordains them, bids us dare<br>
+The might of hell, and earn salvation there.<br>
+Think of your sires, that o’er this race prevail’d,<br>
+Whom rescued Solyma triumphant hail’d;<br>
+Whose names th’ eternal scrolls of heaven record,<br>
+Then ‘woe to him who wears a stainless sword.’”[^81]<br>
+&emsp;His rallying troops th’ inspiring call obey,<br>
+Again the missiles fly, the engines play;<br>
+He guides the dread Petraria,[^82] high he heaves<br>
+A rocky mass; the whistling air it cleaves,<br>
+It strikes the ramparts; by its weight o’erthrown,<br>
+Twelve gasping Moslems sink beneath the stone.[^83]
+Again he loosed the engine, hurl’d below,<br>
+The batter’d fort receives the fatal blow,<br>
+Where Philip late had forced the breach; in haste<br>
+To prop the tower were wooden stancheons placed,<br>
+All seem’d secure, but now the facings fall,<br>
+And the crush’d stone betrays th’ imperfect wall.<br>
+“A torch!” the Monarch cried, and Rodney’s hand<br>
+Snatch’d with undaunted zeal the flaming brand;<br>
+The Moslems mark th’ attempt, and from the height<br>
+Shower all their fury on the daring Knight;<br>
+Unharm’d he moves beneath his lifted shield,<br>
+And thrice rush’d on, but thrice compell’d to yield;<br>
+Again advanced, while England’s archers drove<br>
+The wounded Syrians from the walls above;<br>
+’Twas then that Karacous infuriate spoke:<br>
+“Is death more fearful than the Christian yoke?<br>
+Women of Asia! forward to the wall,<br>
+What boots your dastard lives, if Acre fall?”<br>
+He spoke, nor pausing, with tremendous blow<br>
+Sends half the frowning battlement below;<br>
+Just as the Knight the fatal flame applies,<br>
+Crush’d by the weight a shapeless mass he lies,<br>
+Commends his parting soul to Heaven, and dies!
+&emsp;Grieved, yet unaw’d, the King review’d his bands,<br>
+No venturous Knight the dangerous task demands;<br>
+He smiled, and by his courage ruled alone,<br>
+“’Tis well,” he cried, “this glory is my own!”—<br>
+Then rose the general shout, his warriors spread<br>
+Their broad tough bucklers o’er their Sovereign’s head.<br>
+Again the Syrian Chief dismiss’d the spear,<br>
+And aim’d too well, for <span class="smallcaps">Richard’s</span> fate was there;<br>
+But a young knight, intrepid, rush’d between,<br>
+And made his bleeding breast his Monarch’s screen.<br>
+As his sad squires bore off their fainting load,<br>
+One hasty glance the grateful King bestow’d;<br>
+But paus’d not in his course, “On! on!” he cries,<br>
+He reached the tower, the bickering flames arise.<br>
+&emsp;“Oh, water! water!” Long that fearful cry<br>
+Had Acre heard, nor found her springs reply;<br>
+All shrunk in dust, so well with <span class="smallcaps">Richard’s</span> care<br>
+The cloudless skies conspired, and glowing air,<br>
+Not her drain’d tanks, nor yet her treacherous stream<br>
+Could yield one drop to check that spreading flame;<br>
+The heavy ramparts nod, the fires devour<br>
+Their last support—down falls th’ “Accursed Tower.”<br>
+&emsp;“On to the breach, ye flower of England, on!<br>
+The city falls, th’ invincible is won.”<br>
+“Not yet, blasphemers!” Karacous replies,<br>
+And by his hand the youthful Osbert dies;<sup>b</sup><br>
+Osbert, of Clinton’s blood, whose knightly grace<br>
+And gentle worth adorned his noble race.<br>
+Rotrou of Perche next storms the yawning breach,<br>
+His rapid blows th’ opposing Azim reach;<br>
+But soon a blazing hoop enwreathed them round,<br>
+In one infernal orb of torture bound,<br>
+They fight, they writhe, they struggle on the ground,<br>
+Till kindred fire their gallant limbs consume,<br>
+Foes in their lives, companions in the tomb.<br>
+&emsp;First on the height, uncheck’d by hosts of foes,<br>
+The Moslem dread, <span class="smallcaps">Plantagenet</span> arose;<br>
+Next Bertrand sprung, the peril of the strife,<br>
+Wounds, clamour, death, to him were joy, were life;<br>
+His was an ardent heart, in youth deprest<br>
+By one sad blow, it sunk, but not to rest;<br>
+He loved to set his wealth upon the die,<br>
+He loved the banquets of intemperate joy,<br>
+The bleeding hurry of the battle plain,<br>
+Whate’er could rouse that heart to feel again.<br>
+&emsp;The warriors follow fast, yet scarce behold<br>
+Mosques, cupolas, and minarets of gold,<br>
+And blossom’d groves, when lo! a wall of fire<br>
+Shuts out each marble dome, each glittering spire!<br>
+Vast piles of wood, for other labours placed, And heaps of useless engines, fired in haste, Oppose their progress; but the Monarch cast 160 One glance inspiring, i( It must fade at last! Even now it fades! beyond are fame or death, The spoils of Acre, or the martyr's wreath." Now ranged behind, a wall of steel appears, So close the bucklers joined and glittering spears. ' e ’Tis well 3" again the ardent <span class="smallcaps">Richard</span> cries, (i The truly brave would scorn too cheap a prize." But was it lowering storm, or wizard spell, That on the fight unnatural darkness fell! No storm, for cloudless is th' ætherial blue, 170 Nor is it sober twilight's solemn hue, Nor the chaste smile of Cynthia's summer night, Her broad deep shadows, and her silver light. Yet to their nests the screaming ravens fly, And stars are glimmering in the mid-day sky! q 4
 Cold breathes the altered gale, a livid shade Dims every brow, the glowing banners fade j The moon invades the sun, whose golden ray, Bright in solstitial pride, contests her sway.* Still at th' appointed hour the awful night 180 Spreads her black veil, the morn her saffron light; Wrapt in the snowy tempest Winter conies, And bounteous Spring in fragrant mildness blooms. Nor pauses man, to question why or whence, For the familiar wonder palls the sense. He deems it awful, when the tempests wake The mountain echoes, when the forests shake, When lightning gilds the dark, and the gnarl'd oak, That braved a thousand winters, feels the stroke. Yet are those solemn changes most sublime, 190 That bursting seldom from the womb of Time, Recall th' Almighty Architect, and hold Their silent course, foreseen but not control'd;— That, breaking Nature's common laws, sustain, Her vast, immutable, eternal reign. The warring armies paus'd, and every eye, In mute devotion, sought the darken'd sky.
 ζί Ha! King of England, mark'st thou yonder sun? As erst when Sion by our arms was won,* That boasted emblem of thy Christian creed 200 Wanes to a crescent—do I rightly read?" " Aye! for that Crescent shall expire as soon As yon bright orb shakes off th' invading moon. Come! thou that gavest those vauntingaccents breath, Come if thou därest! and prove it by thy death." In murder'd Alberic's costly mail indued, The giant son of Acre's ruler stood. " Methink'st this spoil may teach your trembling host That Aralchais breathes no idle boast." He spoke; his hands the crooked sabre wield, 210 But dauntless <span class="smallcaps">Richard</span> on his lion shield Received, nor shrunk beneath the powerful stroke, Nor flew the buckler, nor the weapon broke. Wondering the Moslem gazed, —but <span class="smallcaps">Richard</span> now, That shield uplifting, with the sudden blow Dash'd him to earth—upon his side he prest His sinewy knee, and pierced his ample chest.
 cc Winton," he said, " strip thou this braggart foe, And bear his spoils to Philip—bid him know That I aveng'd his Marshal."—Then again 220 To the fierce charge he leads his eager train; They break the adverse ranks, and hurrying on, With blood and clamour fill the spacious town. But louder than the angry din of war, The voice of Karacous resounds afar: " Hold, thou that slay'st the fairest of the fold, Thou murdrous Lion, scourge of Islam; hold! Hear, and let terror cloud thy brutal joy, A childless father claims his valiant boy, His Aralchais."—Stem the veteran stood, 230 His sabre reeking with a hero's blood; The blood of Mowbray, o'er whose castle gate The helmet hung in hospitable state; Where still the warmest seat and choicest wine Hail'd the tired pilgrim from the holy shrine; Who to tne Templars many a wide domain \ Gave with a liberal hand, nor gave in vain; ч Once had they saved him from the Soldan's chain, d j And sent to England,—happy if no more His pious feet had trod the Syrian shore; 240
@@ -5354,3 +5439,9 @@ none of the house of Ayoub were likely to look with complacency on the worshippe
 [^79]: I need only refer the poetical reader to Mr. Southey’s Madoc. The real or supposed expedition of that Prince is placed in the reign of Henry II, after the battle in which Prince Hoel fell, and which determined the fate of North Wales.
 
 [^80]: Baldwin, Archibishop of Canterbury, made a pilgrimage to Wales for the purpose of preaching the Crusade; and his journey is embellished by Giraldus Cambrensis with as many miracles and wonders as Amadis encountered in the Firm Island. The story of the young Elidorus, who lived some time with the Gnomes in their subterranean world, till he learned their language (which strongly resembled Greek), is a very pleasing fiction. Baldwin is said to have made many proselytes; and the ardour of crusading, which was new to Wales, began with nearly the same vehemence as in other regions; but it soon expired, and very few Welch were among the followers of Richard to the Third Crusade.
+
+[^81]: See the Oration of St. Bernard at Vezelai; or Michaud, vol. ii., 124.
+
+[^82]: Richard worked one of the Patrariæ for a considerable time.
+
+[^83]: Vinsauf, who adds that the stone was picked up and sent to Saladine.
