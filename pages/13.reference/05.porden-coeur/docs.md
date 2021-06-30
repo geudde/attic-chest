@@ -4953,7 +4953,7 @@ Again the missiles fly, the engines play;<br>
 He guides the dread Petraria,[^82] high he heaves<br>
 A rocky mass; the whistling air it cleaves,<br>
 It strikes the ramparts; by its weight o’erthrown,<br>
-Twelve gasping Moslems sink beneath the stone.[^83]
+Twelve gasping Moslems sink beneath the stone.[^83]<br>
 Again he loosed the engine, hurl’d below,<br>
 The batter’d fort receives the fatal blow,<br>
 Where Philip late had forced the breach; in haste<br>
@@ -4976,7 +4976,7 @@ He spoke, nor pausing, with tremendous blow<br>
 Sends half the frowning battlement below;<br>
 Just as the Knight the fatal flame applies,<br>
 Crush’d by the weight a shapeless mass he lies,<br>
-Commends his parting soul to Heaven, and dies!
+Commends his parting soul to Heaven, and dies!<br>
 &emsp;Grieved, yet unaw’d, the King review’d his bands,<br>
 No venturous Knight the dangerous task demands;<br>
 He smiled, and by his courage ruled alone,<br>
@@ -4984,7 +4984,7 @@ He smiled, and by his courage ruled alone,<br>
 Then rose the general shout, his warriors spread<br>
 Their broad tough bucklers o’er their Sovereign’s head.<br>
 Again the Syrian Chief dismiss’d the spear,<br>
-And aim’d too well, for <span class="smallcaps">Richard’s</span> fate was there;<br>
+And aim’d too well, for <span class="maroon">Richard’s</span> fate was there;<br>
 But a young knight, intrepid, rush’d between,<br>
 And made his bleeding breast his Monarch’s screen.<br>
 As his sad squires bore off their fainting load,<br>
