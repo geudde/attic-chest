@@ -5085,7 +5085,7 @@ Nor flew the buckler, nor the weapon broke.<br>
 Wondering the Moslem gazed,—but <span class="smallcaps">Richard</span> now,<br>
 That shield uplifting, with the sudden blow<br>
 Dash’d him to earth—upon his side he prest<br>
-His sinewy knee, and pierced his ample chest.
+His sinewy knee, and pierced his ample chest.<br>
 “Winton,” he said, “strip thou this braggart foe,<br>
 And bear his spoils to Philip—bid him know<br>
 That I aveng’d his Marshal.”—Then again<br>
@@ -5127,10 +5127,10 @@ The city’s fate is on our swords, on high<br>
 The vulture whets her beak, and knows that one shall die.”<br>
 &emsp;Each held a spear, but, by one impulse sway’d,<br>
 Cast it to earth, and drew the deadlier blade.<br>
-The sword of Karacous, in Beder’s field And Bosra’s,<br>
-once had Ali’s strength impell’d,<br>
+The sword of Karacous, in Beder’s field<br>
+And Bosra’s, once had Ali’s strength impell’d,<br>
 That giant strength whose single effort slew<br>
-The mail-clad warrior and the courser too.
+The mail-clad warrior and the courser too.<br>
 But <span class="smallcaps">Richard’s</span> magic steel, six ages gone,<br>
 Was fram’d by Merlin for Pendragon’s son.<br>
 The sage, lest meaner hand its edge should wield,<br>
@@ -5154,7 +5154,7 @@ Rends half th’ Egyptian’s turban’d casque away.<br>
 But Karacous, with strength that more became<br>
 The arm of Ali than his stunted frame,<br>
 Strikes on the groin, and though the hauberk broke<br>
-Its force, the palsied limb confest the stroke;
+Its force, the palsied limb confest the stroke;<br>
 Nor might the staggering King the blow repell<br>
 When on his arm the heavy sabre fell,<br>
 And but a chain the precious weapon bound,<br>
@@ -5202,7 +5202,7 @@ They scaled the heights, o’erpower’d the feeble guard,<br>
 And made it theirs, while all that should defend,<br>
 Against the King their fruitless valour spend.<br>
 &emsp;But ah! while victory calls his careless host<br>
-From <span class="smallcaps">Richard’s</span> side, shall <span class="smallcaps">Richard’s</span> self be lost?
+From <span class="smallcaps">Richard’s</span> side, shall <span class="smallcaps">Richard’s</span> self be lost?<br>
 A band of foes, that strove to force their way<br>
 From the fall’n town, perceive the royal prey,—<br>
 They thank their Prophet, from their phalanx spring,<br>
@@ -5272,9 +5272,29 @@ The English host her desert homes invade,<br>
 Till all, or slain, or captive, own their power,<br>
 Till Christian ensigns stream from every tower;<br>
 Those walls that England conquer’d first, alone<br>
-Her Lion-flag forgets to mark its own.
+Her Lion-flag forgets to mark its own.<br>
+From what slight fault gigantic ills appear!<br>
+For, like that little cloud the Prophet’s prayer<br>
+Called from the deep, that error shall expand,<br>
+Till its black shadow darkens all the land.<br>
+Slight is the joy that shines in smiles, alone,<br>
+In silent tears is warmer rapture shewn:<br>
+But there’s a higher agony of bliss,<br>
+That knows nor tears nor smiles,—and such was this,<br>
+Such <span class="smallcaps">Richard</span> felt;—so many conflicts past,<br>
+His prayer, his nightly dream fulfill’d at last.<br>
+And was She his, that city, dearly won<br>
+As Jove-prop’d Ilion, she whose every stone<br>
+Had cost a martyr’s blood, whose impious pride<br>
+For three long years the Christian world defied?<br>
+Defiled the Cross, blasphemed each holiest name,<br>
+And gave her captive foes to lingering flame!<sup>g</sup><br>
+In one long upward look his thanks were given,<br>
+His silent gratitude communed with Heaven.
 
-From what slight fault gigantic ills appear! For, like that little cloud the Prophet's prayer Called from the deep, that error shall expand, Till its black shadow darkens all the land. Slight is the joy that shines in smiles, alone, In silent tears is warmer rapture shewn: 410 But there's a higher agony of bliss, That knows nor tears nor smiles,—and such was this, Such <span class="smallcaps">Richard</span> felt; —so many conflicts past, His prayer, his nightly dream fnl fill'd at last. And was She his, that city, dearly won As Jove-prop'd Ilion, she whose every stone Had cost a martyr's blood, whose impious pride For three long years the Christian world defied? Defiled the Cross, blasphemed each holiest name, And gave her captive foes to lingering flame \ e 420 In one long upward look his thanks were given, His silent gratitude communed with Heaven. Meanwhile with Saladine the heralds met, And vain demands drew on a vain debate; Till hark! that shriek from shuddering Islam sent! He draws the silken curtains of his tent,—
+Meanwhile with Saladine the heralds met,<br>
+And vain demands drew on a vain debate;<br>
+Till hark! that shriek from shuddering Islam sent! He draws the silken curtains of his tent,—
 One look reveals the whole; his sickening sight Turns from that Cross on Acre's ramparts bright. That slow disease, still watchful for the hour When cankering cares the harass'd frame devour,430 Holds its permitted reign, and round their lord His servants tremble for a life adored. h Nor envious Philip read with less affright A rival's fame on every banner'd height; His avarice by that prompt success betray'd, His promised glories sunk in sudden shade. But Austria's crafty Duke, whose thirst of gold, His love, his hate, and even his fears controll'd, Resolves to share the spoil;—he calls his powers, Flies to the town, and mounts the conquer'd towers, And (for no banner there in mastery shone) His flag, presumptuous, marks them as his own. His troops, whose scanty hire but ill was paid,* For pillage ripe, his welcome call obey'd j With Bertrand join'd, their bloody way they force, And shrieks, and flames, and ruin mark their course.,и 2
 But полу the King, attentive to lepair The yawning breach his fury batter'd there, Inspects th' Accursed Tower,—amazed, he knew The golden Larks upon their field of blue. 450 " What means this insult? By those powers that crown My conquering arms, I bid the pageant down! Say whence, proud Duke, this daring madness springs, To mate tby banner with the badge of Kings?' Even on this tower, beneath that conscious sun Which saw its ramparts by my valour won, Canst thou believe I tamely will behold Another's flag? the flag of Leopold? Sooth! were thine own Imperial Suzerain near, He well might dread to plant his eagle here. 460 Conrad alone, that Heaven and man defies,— But words are idle,—there thy banner lies!" Even as he spoke, beneath his sword it falls, Th' offending ensign tumbles from the walls; 'Mid heaps of carnage in the moat it roll'd, And dust and blood defiled the gaudy gold. In wonder speechless stood its raging lord, His threatening eyes flash fire, he grasps his sword. ** Hold! haughty Chief," again the Monarch spoke, " Nor farther yet my righteous ire provoke, 4J0
 I dread thee not;—yet pardon if my tongue, By sudden anger moved, have done thee wrong. What though sole victor o'er this stubborn town, The glory is and shall be all my own; I know the rights of three long years of toil, And thou, and all, shall share her lawful spoil; But I endure no plunder—late I knew A lawless band, who bore thy cross of blue:— Recall them, for should one red hand be stain'd With needless blood, one sacred shrine profan'd, 480 By Heaven's bright throne, though Lydia's gold were there, And India's gems, that wealth they should not share." Many there are to dare, but not uphold The guilty deed, and such was Leopold. Brave as the best, if valour lie alone In shedding blood, or lavishing our own, Opinion bound him in her stern control, Nor he, like Conrad, ruled the shrinking soul. If ever worth or rank might envy claim, He envied Richard, long'd to blast his fame, 490 Yet dared not полу his kindled ire resent; Muttering and pale again he sought his tent. r 3
