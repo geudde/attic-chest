@@ -98,7 +98,7 @@ Eleanor Anne Роrden
 <li><a href="#book04">IV. The Median Fire</a></li>
 <li><a href="#book05">V. The Arrival of Richard in Palestine</a></li>
 <li><a href="#book06">VI. The Capture of Acre</a></li>
-<li>VII. The March to Arsouf</li>
+<li><a href="#book07">VII. The March to Arsouf</a></li>
 <li>VIII. The Battle of Arsouf</li>
 <li>Notes</a></li>
 </ul>
@@ -5775,11 +5775,11 @@ Be Heaven or Hell my lot—delight, disgrace,<br>
 I make no compact with the hated race.”<br>
 &emsp;Meanwhile Maimoune sought th’ Ascanian wave,<br>
 Whose limpid tides her fair pavilion lave.<br>
-Oft when at noon th' unrippled face is clear,<br>
+Oft when at noon th’ unrippled face is clear,<br>
 Through the blue glass the fairy halls appear,<br>
 White as those fanes that time and man defy,<br>
-Nor rue one stain from Grecia's lovely sky.<br>
-O'er half the lake the beauteous vision spreads,<br>
+Nor rue one stain from Grecia’s lovely sky.<br>
+O’er half the lake the beauteous vision spreads,<br>
 Rich gilded domes, and marble colonnades;<br>
 While mortals, wandering on the shadowy shore,<br>
 Mourn for the buried palaces of yore.[^93]<br>
@@ -5787,23 +5787,23 @@ Here shells in mockery match the frailer flowers<br>
 That lend their beauty to our earthly bowers,<br>
 Soft banks of moss serenest sleep bestow,<br>
 And fragrant rills in soothing murmurs flow.<br>
-Nor lack'd there tenderer blossoms, such as give<br>
-Th' ambrosial scents by which the Peries live;<br>
+Nor lack’d there tenderer blossoms, such as give<br>
+Th’ ambrosial scents by which the Peries live;<br>
 While all around, in rich profusion strown,<br>
 ’Mid orient pearls the blushing coral shone;
-Th' amber's liquid light, and many a gem,<br>
-Rare as the boast of Stamboul's diadem.<br>
-Maimoune snatch'd a vase; in Paradise<br>
+Th’ amber’s liquid light, and many a gem,<br>
+Rare as the boast of Stamboul’s diadem.<br>
+Maimoune snatch’d a vase; in Paradise<br>
 Once had its radiance pleased celestial eyes,<br>
 And now, though sullied by her guilty touch,<br>
 Its light transcends the gems of earth as much<br>
-As Heaven's inferior angels would outshine<br>
-Those charms in Carmel's synod held divine.<br>
+As Heaven’s inferior angels would outshine<br>
+Those charms in Carmel’s synod held divine.<br>
 Within that shrine of sunny topaz beams<br>
-A lucid wave from Eden's sainted streams,<br>
+A lucid wave from Eden’s sainted streams,<br>
 With whose blest drops the Peri every day<br>
-Wash'd from her brow the stains of earth away<br>
-And now, as she through night's calm æther flew,<br>
+Wash’d from her brow the stains of earth away<br>
+And now, as she through night’s calm æther flew,<br>
 Pleased with her task, and conscious that she drew<br>
 From that good office, from the vase she bore,<br>
 Charms, since her loss of Heaven unknown before;<br>
@@ -5818,22 +5818,40 @@ Soft light and freshening odours through the tent;<br>
 And as above his wasted form she bent,<br>
 Scarce her mild eye severer sadness shews<br>
 Than pitying seraphs feel for human woes,<br>
-While from her hand Heaven's own sweet dewdrops came,<br>
+While from her hand Heaven’s own sweet dewdrops came,<br>
 Smoothed his distorted brow, and cooled his frame.<br>
 Such magic drops, as Grecian poets tell,<br>
-From young Aurora's rosy fingers fell;<br>
+From young Aurora’s rosy fingers fell;<br>
 Nor more reviving those ambrosial showers<br>
-To Tempe's drooping shrubs and faded flowers;<br>
-Nor yet Mahommed's wounded, weary crew,<br>
-From Gilead's balm diviner virtue drew,<br>
+To Tempe’s drooping shrubs and faded flowers;<br>
+Nor yet Mahommed’s wounded, weary crew,<br>
+From Gilead’s balm diviner virtue drew,<br>
 When at his prayers (for so the Suras feign)<br>
-The healing grove sprung up on Mecca's plain,[^95]<br>
+The healing grove sprung up on Mecca’s plain,[^95]<br>
+Than from those blessed drops, indeed divine,<br>
+Flow'd through the wasted frame of Saladine.<br>
+Nor warm with life, with health renew'd he seems,<br>
+Rose with the sun, and blest his golden beams.
 
-Than from those blessed drops, indeed divine, Flow'd through the wasted frame of Saladine. Nor warm with life, witb health renew'd he seems, Rose with the sun, and blest his golden beams.,END OF BOOK VI.
-CŒUR DE LION.,BOOK VIL,THE MARCH TO ARSOUF.
-ARGUMENT.,THE MARCH TO ARSOUF. Departure of Philip and Conrad — Embassy to Tyre —<span class="smallcaps">Richard’s</span>march from Acre — The encampment at the fountain — Hermesind — Pardo — The Emerald Knight—Albert — The submission of Cesarea — Tiie vale of Arsouf—The enchanted wood of Sharon — Terrors and delusions of the Christian Army — Of<span class="smallcaps">Richard</span>— Flight of Moozallil — Appearance of the Moslem forces — Preparations for battle.
-CŒUR DE LION.,BOOK VII.,THE MARCH TO ARSOUF. Nor vain Moozallil's threats: where'er it fell His torch awaked the latent fires of Hell! Till all who fought for Acre's towers erewhile, Like ravening vultures now contest her spoil. At length a seeming calm succeeds the storm, And fiendish malice wears a fairer form. With faltering voice, slow step, and visage pale, The specious Philip gilds his artful tale, How the long toils his pristine strength overcame, And Asia's sun unnerved his northern frame. 10
-" Brother of England! comrade of my youth! With soul propitious hear the voice of truth. The city's fall acquit> my vow; the gales With favouring breath invite me to Marseilles: Weak as I am, I yet my course delay, Nor heave one anchor, if thou bid'st me stay. Oh I had I lived unwedded to a throne, Drown a free sword, and fought for fame alone, Not life or Europe proffer aught so dear As for the Cross to fight and perish here! 20 But since I more the Christian weal can aid In France a monarch than in Asia dead, I bow to Heaven, I seek th' inglorious West, And leave the wrongs of Sion unredrest; Doom'd, when thy triumph rescued realms proclaim, To curb the jealous pang, and bless thy fame. Yet,—for my pious zeal unwilling draws One active weapon from the sacred cause,— Ten thousand spears, the choicest of my train, To aid your arms in Otho's care remain. 30 Then prove, my friend, though policy or pride Have sever'd those in happier youth allieu, That, like the nectar in its bloomy cells, Deep in our hearts one drop of sweetness dwells;
+![curlicue](cue.jpg)
+
+<a id="book07"></a>
+# Book VII
+
+## The March to Arsouf.
+
+Nor vain Moozallil’s threats: where’er it fell<br>
+His torch awaked the latent fires of Hell!<br>
+Till all who fought for Acre’s towers erewhile,<br>
+Like ravening vultures now contest her spoil.<br>
+At length a seeming calm succeeds the storm,<br>
+And fiendish malice wears a fairer form.<br>
+With faltering voice, slow step, and visage pale,<br>
+The specious Philip gilds his artful tale,<br>
+How the long toils his pristine strength overcame,<br>
+And Asia’s sun unnerved his northern frame.<br>
+
+"Brother of England! comrade of my youth! With soul propitious hear the voice of truth. The city's fall acquit> my vow; the gales With favouring breath invite me to Marseilles: Weak as I am, I yet my course delay, Nor heave one anchor, if thou bid'st me stay. Oh I had I lived unwedded to a throne, Drown a free sword, and fought for fame alone, Not life or Europe proffer aught so dear As for the Cross to fight and perish here! 20 But since I more the Christian weal can aid In France a monarch than in Asia dead, I bow to Heaven, I seek th' inglorious West, And leave the wrongs of Sion unredrest; Doom'd, when thy triumph rescued realms proclaim, To curb the jealous pang, and bless thy fame. Yet,—for my pious zeal unwilling draws One active weapon from the sacred cause,— Ten thousand spears, the choicest of my train, To aid your arms in Otho's care remain. 30 Then prove, my friend, though policy or pride Have sever'd those in happier youth allieu, That, like the nectar in its bloomy cells, Deep in our hearts one drop of sweetness dwells;
 . These chiefs have seen our discord, let them see Thou hold' s t my life as dear as thine to rae" a He spoke:—not oft to <span class="smallcaps">Richard’s</span> generous breast Suspicion came, or came a welcome guest; Yet when hi» rival, with such vain parade, Asserts a friendship he so oft betray'd, 40 Distrust awakes, he ьееь the covert snare, And feels for England's weal a sovereign's care. t'f I too, Augustus, have been taught to feel How ill these feeble bodies serve our zeal: Thus ever, when an arm of flesh we trust, We find th' important lesson, man is dust! Our early love was like a golden chain, Not lightly broke, nor broken, join'd again. If rivalry could here our souls inflame, Here, where our hope, our interest was the same, 50 Will fair occasion interdict the wrong? Will distance make expiring friendship strong ï Then pardon, Philip, if I bid thee stay, Again to pledge the vows of Vezelay/'— Those vows, that even from a rival's hand Demand the care of my unguarded land." " And fear'st thou, Richard, I would forfeit troth? Then fear no longer: 1 renew my oath j vol. ι. τ
 So thou before these Princes yield again A vassal's fealty for thy Norman reign." 60 But Richard, reading through the thin disguise The wish to sink him in his comrade's eyes, Paus'd not an instant; kneeling on the sand, His sword he tenders to his Suzerain's hand."* " For ducal Normandy, and Acquitaine, Touraine and Poitou, half thine ample reign, I render homage here; but England's throne, 4 Erin and Gwyneth, by my father won, f And Cyprus' conquer'd vales are mine, and mine i alone." J The chiefs in wonder heard the King display 70 The various regions that confest his sway, When Conrad rose, and with unbending look, Disdaining art, in open scorn he spoke: £( Warriors farewell í I pray not for your weal, I feign no friendship that I do not feel; Nor courage fails me, nor my scrip is low, Nor ape I sickness, ’tis my will to go.>—
 For thee, О chief! I spread no artful gloze, No love has bound us, and we may be foes, Since thou permitt'st yon phantom king to wear 80 My lawful title, and my standard bear. Nor think by words my purpose to restrain, I lack not gold, and flattery I disdain; Oh! may you mourn me, as th' Achaian host In blood and fire once mourn'd Pelides lost." They spoke and parted;—long with pain supprest, Indignant virtue blazed in <span class="smallcaps">Richard’s</span> breast. i( Hence, hence, ye recreants! ye that vow'd to bleed For Sion's love, yet leave her towers unfreed! Hence, for if interest lures, or fear appals, ЯО Ye are not worthy to behold her walls! c The God of Truth a livelier faith demands, And scorns the labour of reluctant hands." Now with redoubled zeal he bends bis care The walls to strengthen, and the towers repair; The ransom'd captives to their homes restor'd, \ While those deserted by their cruel lord > Paid the dire forfeit of his broken word. 4 } Then to the Templars, bravest of the brave, The conquer'd town, important trust! he gave; 100 τ 2
