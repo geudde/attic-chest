@@ -6443,7 +6443,7 @@ none of the house of Ayoub were likely to look with complacency on the worshippe
 
 [^99]: Ipsa tibi blandos fundent cunabula flores.<br>
 Occidet et serpens, et fallax herba veneni<br>
-Occidet; * * * *<br>
+Occidet;&emsp;\*&emsp;\*&emsp;\*&emsp;\*<br>
 Molli paullatim flavescet campus arista,<br>
 Incultisque rubens pendebit sentibus uva;<br>
 Et duræ quercus sudabunt roscida mella.
