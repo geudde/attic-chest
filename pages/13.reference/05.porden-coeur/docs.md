@@ -6007,9 +6007,39 @@ But this, of heavenly love and mercy’s healing stream.[^98]<br>
 The yellow cassia, with its rich perfume,<br>
 The cistus, lavish of its shortlived bloom,<br>
 Type of man’s hopes, all lovely at their birth,<br>
-But falling with the slightest touch to earth;
-A race as fair the next blythe morning weaves, And woos th' expecting gatherer, and deceives. There too that tree, whose rosy blossoms flame, As blushing to record a traitor's name; The name of him to self-destruction led' In vain repentance for his Lord betrayed. There loaded palms and ripening vines between The tall opuntia rears its prickly screen, I7Ö And round each ample leaf its flowers unfold Their rich festoons of crimson and of gold j* And there that cane, whence sweeter juice distils Than bees collect on Hybla's thymy hills. Ill fated plant î for man's delight design'd, But made by man the scourge of half his kind. How blest had ne'er a Norman ruler's hand, Pour'd the new nectar on Sicilia's strand! Thrice blest, had ne'er Iberian sails unfurPd, With this dire gift to curse th' Atlantic world. 1 180 All lovely yet appear'd that chosen land,'" Despite of war and Islam's iron hand. With awe they tread where e'en th' unconscious sod Was dear to memory, sacred to their God. Yet oh! how much more fragrant and more fair, When his celestial presence wander'd there! τ 4
-When earth, delighted, round his infant head Bade virgin flowers delicious odours shed; When serpents died, and every herb of ill, And native harvests redden'd every hill; 190 The thorny brakes with ruddy grapes were fiU'd, And the rough oaks a honied dew distill'd.* At Cana now the pilgrims pause, where first From the gross veil the present Godhead burst; Where, while through every heart amazement rush'd, " The conscious water saw its God and blush'd." Next at Saphura, reverend in decay, To Anna's shrine their duteous homage pay. n Till one fair eve, while lavish dews descend, And the clear stars attemper'd radiance lend, 200 Where the tall plane-trees join'd the acacia's shade, And through the turf a crystal fountain play'd, King <span class="smallcaps">Richard</span> pitch'd his camp, and all around Ten thousand tents coneeal'd the dusty ground. In haste the troops regale; with toil opprest They laid the helmet by, and sunk to rest. * Ipsa tibí blandos fundent cunabula flores. Occidet et serpens, et ŕaílax herba yeneni Occidet; ***** Molli paullaíi/n flavescet campus arista, IncultİMjııe rubens pendebit sentibus uva; Et duræ querei» sudabunt roscìda mella.
+But falling with the slightest touch to earth;<br>
+A race as fair the next blythe morning weaves,<br>
+And woos th’ expecting gatherer, and deceives.<br>
+There too that tree, whose rosy blossoms flame,<br>
+As blushing to record a traitor’s name;<br>
+The name of him to self-destruction led<sup>i</sup><br>
+In vain repentance for his Lord betrayed.<br>
+There loaded palms and ripening vines between<br>
+The tall opuntia rears its prickly screen,<br>
+And round each ample leaf its flowers unfold<br>
+Their rich festoons of crimson and of gold;<sup>k</sup><br>
+And there that cane, whence sweeter juice distils<br>
+Than bees collect on Hybla’s thymy hills.<br>
+Ill fated plant! for man’s delight design’d,<br>
+But made by man the scourge of half his kind.<br>
+How blest had ne’er a Norman ruler’s hand,<br>
+Pour’d the new nectar on Sicilia’s strand!<br>
+Thrice blest, had ne’er Iberian sails unfurl’d,<br>
+With this dire gift to curse th’ Atlantic world.<sup>l</sup><br>
+&emsp;All lovely yet appear’d that chosen land,<sup>m</sup><br>
+Despite of war and Islam’s iron hand.<br>
+With awe they tread where e’en th’ unconscious sod<br>
+Was dear to memory, sacred to their God.<br>
+Yet oh! how much more fragrant and more fair,<br>
+When his celestial presence wander’d there!<br>
+When earth, delighted, round his infant head<br>
+Bade virgin flowers delicious odours shed;<br>
+When serpents died, and every herb of ill,<br>
+And native harvests redden’d every hill;<br>
+The thorny brakes with ruddy grapes were fill’d,<br>
+And the rough oaks a honied dew distill’d.[^99]<br>
+
+At Cana now the pilgrims pause, where first From the gross veil the present Godhead burst; Where, while through every heart amazement rush'd, " The conscious water saw its God and blush'd." Next at Saphura, reverend in decay, To Anna's shrine their duteous homage pay. n Till one fair eve, while lavish dews descend, And the clear stars attemper'd radiance lend, 200 Where the tall plane-trees join'd the acacia's shade, And through the turf a crystal fountain play'd, King <span class="smallcaps">Richard</span> pitch'd his camp, and all around Ten thousand tents coneeal'd the dusty ground. In haste the troops regale; with toil opprest They laid the helmet by, and sunk to rest. * Ipsa tibí blandos fundent cunabula flores. Occidet et serpens, et ŕaílax herba yeneni Occidet; ***** Molli paullaíi/n flavescet campus arista, IncultİMjııe rubens pendebit sentibus uva; Et duræ querei» sudabunt roscìda mella.
 But, lured by silver Cynthia's rising beam, Round the green margin of the gurgling stream, The knights and damsels court the evening breeze; Of their rich burthen rob the bending trees, 210 On saffron turfs the rural banquet spread, *\ Or the cool tamarind's grateful acid shed ч In the clear nectar from the fountain head. 0 * While <span class="smallcaps">Richard</span> with his bride discours'd apart, Each sought the lady dearest to his heart. Flung on a mossy bank, young Raymond seems To count the murmurs of the lucid streams, But love was conscious of a sweeter spell, Where on the waves Matilda's image fell; Evanthe sought behind a leafy screen 220 A shadowy spot, where she might weep unseen; Near the pale heliotrope, whose flower with pain Turns to the sun, and loves, like her, in vain/ Nor heeds that Lusignan's enchanted soul Mark'd each bright tear that o'er her beauty stole. In sooth each knight some soft attraction found, Yet hid in fair excuse the chain that bound: One loved the opening of a laurel glade, 4 One the broad sycamore's majestic shade; \ But each, the spot where sate his favourite maid.230^
 Gay Hermesind, amid the moonbeam's glare, Drew all the youthful and the joyous there; Soft flattery, breathing from the careless heart, Or sighing slaves that dare not own their smart, Bids on her blushing cheek new graces rise, And calls fresh lustre from her laughing eyes. With playful wit she points her conscious charms, Fair, and capricious as those airy forms, That where the moon shines clear, and brighter springs Th' autumnal verdure, weave their mushroom rings, And quit the lily's spacious bell, to tread Their midnight mazes on th' enamell'd mead. Apart from all she mark'd the Knight Unknown, Propp'd on his ample shield, his vizor down, And as she spoke, with arch coquettish grace Flung back the roseate gauze that veil'd her face. i( Why does the Knight of Solitude disdain To mingle with Diana's vestal train? Now by thy grassy plume and emerald shield, By those coy lips in scornful silence seal'd, 250 Approach our ring; ’tis not the tell-tale noon, And vestal's veils are lifted to the moon." " Nay, lady! point not thus, nor thus intreat— I may not fill that envied, dangerous seat;
 For oft, ’tis said, ’mid honour's deathless leaves, If subtle love his fragrant roses weaves, With hue less bright the glossy laurels shine, Fade at his touch, and like the flowers decline. While Salem's throne the bold Amalric claim'd, While Baldwin ruled, this shadowy grove was famed; At earliest summer, round this sacred spring, His nobles wont tojóin Judea's King;* They met, on fire for glory, prompt to ride 'Gainst Sanguin's force, or tame Noureddin's pride. What fitter spot can hear the vows of one, Whose heart now beats at honour's voice alone. See, as I dipp'd my falchion in the stream, The moonlight touch'd it with propitious beam; I will not fear that e'en thy looks have shed A softer power to enervate the blade; 270 Yet not too long I trust that witching eye, I know my danger, and have strength to fly." Piqued at his coldness, vowing that his heart Should yet be hers if she had charms or art,
@@ -6410,3 +6440,10 @@ none of the house of Ayoub were likely to look with complacency on the worshippe
 [^97]: Dr. Clarke speaks in admiration of this beautiful and stately plant. Indeed I have scarcely changed the words in which he describes it on his journey from Acre to Nazareth. A variety of this thistle has its leaves dappled, as though some white liquid had been spilled upon it. The legend which ascribes this peculiarity to the milk of the Virgin, which accidentally fell upon the plant, seems to have borrowed somewhat of the fanciful character of Pagan mythology.
 
 [^98]: Ajax, who contested with Ulysses the armour of Achilles, and who, when the prize was awarded to his rival, became made and slew himself. From his blood sprung the hyacinth, which is said to have his name written on its petals.
+
+[^99]: Ipsa tibi blandos fundent cunabula flores.<br>
+Occidet et serpens, et fallax herba veneni<br>
+Occidet; * * * *<br>
+Molli paullatim flavescet campus arista,<br>
+Incultisque rubens pendebit sentibus uva;<br>
+Et duræ quercus sudabunt roscida mella.
