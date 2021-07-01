@@ -5587,8 +5587,50 @@ And Pardo, filtering in a doubtful track,<br>
 Thinks how his Sovereign’s trust commands him back,<br>
 When sudden by th’ electric flash was shewn<br>
 A warrior near, in armour, but alone.
-" Whoe'er thou art, for by this fitful light III may I read thy lofty crest aright, Now by thy spurs, I bid thee aid the fair! Now for the love of holy knighthood swear, Ere Carmel's brow with orient crimson shine, To lead these Arab maids to Saladine." rt In simple faith the precious charge to guide Be mine," the youth in Eastern speech replied. /20 " Though I, uncall'd, assume the knightly crest, Believe that honour fills an Arab's breast; I will not sue to hear that maiden's tale, Or see one eye beneath her half-raised veil." i£ And wilt thou leave me," sigh'd the trembling fair, " And leave me thus, beneath a stranger's care?" " Alas! sweet maid, may ne'er thy tender heart Be torn like mine,—unwilling I depart. Thy charms this night have lured me to forget A duty that was never irk i/ise yet; 730 While back to Acre's joyless walls it leads, My thoughts will linger where Amina treads."— "Thus, then," sheanswered, t'í if wc here must sever, Thus, like this jasmine, and, alas! for ever, At least forget not ere its bloom decline The maid w hose heart shall аоге each word of thine."
-Then drooping her fair head, she parts in haste The fragrant blossoms on her bosom placed; And had a ray been there, th' enamour'd Knight Had found a tear upon its starry white. 740 " No, till my death thy memory will be sweet, If—but brave Arab we at least shall meet; Ere this I should have ask'd with timely fear, Thy name, and what thy secret purpose here." (i My name I tell not полу, but thou may'st guess My daring hope, that, careless in success, Some ilb-watch'd fort might yield our valour way, And night reverse the glories of the day.— I hoped in vain—farewell, till time shall shew Thy faithful friend, at least thy generous foe; 7^0 My blue egret shall mark me in the field."— " And me the milkwhite gauze that veils my shield," Rejoin'd young Pardo, as with hasty tread And sinking heart he left the weeping maid. Scarce on his midnight watch again he stood When Albert came, and mark'd his musing mood. '* What! my best friend, my Pardo, art thou sad, (Thou ever gay I) when all around are glad? VOL. I. fc.
+&emsp;“Whoe’er thou art, for by this fitful light<br>
+Ill may I read thy lofty crest aright,<br>
+Now by thy spurs, I bid thee aid the fair!<br>
+Now for the love of holy knighthood swear,<br>
+Ere Carmel’s brow with orient crimson shine,<br>
+To lead these Arab maids to Saladine.”<br>
+&emsp;“In simple faith the precious charge to guide<br>
+Be mine,” the youth in Eastern speech replied.<br>
+“Though I, uncall’d, assume the knightly crest,<br>
+Believe that honour fills an Arab’s breast;<br>
+I will not sue to hear that maiden’s tale,<br>
+Or see one eye beneath her half-raised veil.”<br>
+&emsp;“And wilt thou leave me,” sigh’d the trembling fair,<br>
+“And leave me thus, beneath a stranger’s care?”<br>
+&emsp;“Alas! sweet maid, may ne’er thy tender heart<br>
+Be torn like mine,—unwilling I depart.<br>
+Thy charms this night have lured me to forget<br>
+A duty that was never irksome yet;<br>
+While back to Acre’s joyless walls it leads,<br>
+My thoughts will linger where Amina treads.”—<br>
+&emsp;“Thus, then,” she answered, “if we here must sever,<br>
+Thus, like this jasmine, and, alas! for ever,<br>
+At least forget not ere its bloom decline<br>
+The maid whose heart shall stоге each word of thine.”<br>
+Then drooping her fair head, she parts in haste<br>
+The fragrant blossoms on her bosom placed;<br>
+And had a ray been there, th’ enamour’d Knight<br>
+Had found a tear upon its starry white.<br>
+&emsp;“No, till my death thy memory will be sweet,<br>
+If—but brave Arab *we* at least shall meet;<br>
+Ere this I should have ask’d with timely fear,<br>
+Thy name, and what thy secret purpose here.”<br>
+&emsp;“My name I tell not поw, but thou may’st guess<br>
+My daring hope, that, careless in success,<br>
+Some ill-watch’d fort might yield our valour way,<br>
+And night reverse the glories of the day.—<br>
+I hoped in vain—farewell, till time shall shew<br>
+Thy faithful friend, at least thy generous foe;<br>
+My blue egret shall mark me in the field.”—<br>
+“And me the milkwhite gauze that veils my shield,”<br>
+Rejoin’d young Pardo, as with hasty tread<br>
+And sinking heart he left the weeping maid.
+
+Scarce on his midnight watch again he stood When Albert came, and mark'd his musing mood. '* What! my best friend, my Pardo, art thou sad, (Thou ever gay I) when all around are glad? VOL. I. fc.
 If budding honour thus tby spirit tame, Heaven shield thee from thy growing weight of fame! Come, I must rob thee of this gate's command, Thy last night'» toii, thy wound, this rest demand; Go to thy couch—nay, why that louring brow, Thou prompt'st the taunt I never thought till now: I will not say ’tis deep, but there is one Who loves thee as thou wert indeed his son; How would he grieve to see thy spirit lost, How mark that sigh! Come, I must have thy post. Thine is an eye that knows the spells of sleep, We love-lorn souls, thou say'st, but watch and weep; If we must watch, it little matters where—<span class="smallcaps">Richard</span>and Love's commands alike I bear; Yield to whichever shall р!еазе thy fancy best, Thy friend's intreaty, or thy King's behest." " To both," he cried, " and leave to thee the light, Thy laughing brow has stolen from mine to night j It may be that I feel a wound forgot, That I am weary, though I knew it not." But what bright image haunts his heated brain, And frights that slumber, ne'er implored in vain? 780 " An infidel, another's destined bride, I could not love, if love were mine," he cried.
 " What witchery this? our ghostly legends tell, That Demons oft in angel semblance dwell j Yet, though I perish, ne'er can I believe Her words unholy—that those looks deceive." But hark! that distant strain,—the stormy night Stills her rude blasts, and listens with delight. In stoles whose rich embroidery sweeps the ground, With censers breathing sacred odours round; 790 With tapers far their holy light revealing, With solemn music on the darkness stealing; With waving palms that fresher gales diffuse, And cleanse each shrine with consecrated dews, Sage Hubert speeds, amid his priestly train, Chaunts the high mass, and lustrales every faue. To Christian rites each blessed dome return'd, To every Saint the votive incense burn'd, And monarchs kneel, while zealous prelates raise The notes of triumph, piety and praise. 800 How rarely thus, with flowers that never fade, Religion's amaranth wreaths the CoNauEBoa's blade! Those lofty strains o'er Pardo's restless mind Breathed a pure calm, ennobled and refined: Yet though to prayer his inmost soul was given, Amina mingled with his thoughts of heaven; s 2
 Bright as she shone in Cynthia's silver beams, The angel vision cheers his broken dreams. Far other orgies, other sounds than those, From Carmel's dark divan of demons rose; 810 Abortive guile, and baffled hate were there, Contention, fury, weakness and despair.— Each blames his fellows, each himself extols, Th' infernal throng Alkarmel scarce controuls. " What madness, Genii, what blind rage is ours! Our safety hangs not on yon conquer'd towers. The wrecks of storm-tost barks that strew the main, The steams of death that rise from Acre's plain, Yon blighted fields, yon heaps of ashes tell How duly each has labour'd, and how well. 820 Say next, what evils can our hate conspire, By fraud, by force, by famine, plague or fire? The Pest has fell'd whom swords assail'd in vain— Speak, shall the deadly vapours rise again? Their course to govern, their success to cçe, Superb Moozallil, were a feast for thee."— " No! not for me, abhorr'd Alkarmel!—ask Thyself or Ullah for so mean a task.
