@@ -5586,7 +5586,7 @@ Heaves with the fears she check’d, but scarce supprest.<br>
 And Pardo, filtering in a doubtful track,<br>
 Thinks how his Sovereign’s trust commands him back,<br>
 When sudden by th’ electric flash was shewn<br>
-A warrior near, in armour, but alone.
+A warrior near, in armour, but alone.<br>
 &emsp;“Whoe’er thou art, for by this fitful light<br>
 Ill may I read thy lofty crest aright,<br>
 Now by thy spurs, I bid thee aid the fair!<br>
@@ -5630,9 +5630,55 @@ My blue egret shall mark me in the field.”—<br>
 Rejoin’d young Pardo, as with hasty tread<br>
 And sinking heart he left the weeping maid.
 
-Scarce on his midnight watch again he stood When Albert came, and mark'd his musing mood. '* What! my best friend, my Pardo, art thou sad, (Thou ever gay I) when all around are glad? VOL. I. fc.
-If budding honour thus tby spirit tame, Heaven shield thee from thy growing weight of fame! Come, I must rob thee of this gate's command, Thy last night'» toii, thy wound, this rest demand; Go to thy couch—nay, why that louring brow, Thou prompt'st the taunt I never thought till now: I will not say ’tis deep, but there is one Who loves thee as thou wert indeed his son; How would he grieve to see thy spirit lost, How mark that sigh! Come, I must have thy post. Thine is an eye that knows the spells of sleep, We love-lorn souls, thou say'st, but watch and weep; If we must watch, it little matters where—<span class="smallcaps">Richard</span>and Love's commands alike I bear; Yield to whichever shall р!еазе thy fancy best, Thy friend's intreaty, or thy King's behest." " To both," he cried, " and leave to thee the light, Thy laughing brow has stolen from mine to night j It may be that I feel a wound forgot, That I am weary, though I knew it not." But what bright image haunts his heated brain, And frights that slumber, ne'er implored in vain? 780 " An infidel, another's destined bride, I could not love, if love were mine," he cried.
-" What witchery this? our ghostly legends tell, That Demons oft in angel semblance dwell j Yet, though I perish, ne'er can I believe Her words unholy—that those looks deceive." But hark! that distant strain,—the stormy night Stills her rude blasts, and listens with delight. In stoles whose rich embroidery sweeps the ground, With censers breathing sacred odours round; 790 With tapers far their holy light revealing, With solemn music on the darkness stealing; With waving palms that fresher gales diffuse, And cleanse each shrine with consecrated dews, Sage Hubert speeds, amid his priestly train, Chaunts the high mass, and lustrales every faue. To Christian rites each blessed dome return'd, To every Saint the votive incense burn'd, And monarchs kneel, while zealous prelates raise The notes of triumph, piety and praise. 800 How rarely thus, with flowers that never fade, Religion's amaranth wreaths the CoNauEBoa's blade! Those lofty strains o'er Pardo's restless mind Breathed a pure calm, ennobled and refined: Yet though to prayer his inmost soul was given, Amina mingled with his thoughts of heaven; s 2
+Scarce on his midnight watch again he stood<br>
+When Albert came, and mark’d his musing mood.<br>
+“What! my best friend, my Pardo, art thou sad,<br>
+(Thou ever gay I) when all around are glad?<br>
+If budding honour thus thy spirit tame,<br>
+Heaven shield thee from thy growing weight of fame!<br>
+Come, I must rob thee of this gate’s command,<br>
+Thy last night’s toil, thy wound, this rest demand;<br>
+Go to thy couch—nay, why that louring brow,<br>
+Thou prompt’st the taunt I never thought till now:<br>
+I will not say ’tis deep, but there is one<br>
+Who loves thee as thou wert indeed his son;<br>
+How would he grieve to see thy spirit lost,<br>
+How mark that sigh! Come, I must have thy post.<br>
+Thine is an eye that knows the spells of sleep,<br>
+We love-lorn souls, thou say’st, but watch and weep;<br>
+If we must watch, it little matters where—<br>
+<span class="smallcaps">Richard</span>and Love’s commands alike I bear;<br>
+Yield to whichever shall рleasе thy fancy best,<br>
+Thy friend’s intreaty, or thy King’s behest.”<br>
+&emsp;“To both,” he cried, “and leave to thee the light,<br>
+Thy laughing brow has stolen from mine to night;<br>
+It may be that I feel a wound forgot,<br>
+That I am weary, though I knew it not.”<br>
+&emsp;But what bright image haunts his heated brain,<br>
+And frights that slumber, ne’er implored in vain?<br>
+“An infidel, another’s destined bride,<br>
+I could not love, if love were mine,” he cried.<br>
+“What witchery this? our ghostly legends tell,<br>
+That Demons oft in angel semblance dwell;<br>
+Yet, though I perish, ne’er can I believe<br>
+Her words unholy—that those looks deceive.”<br>
+But hark! that distant strain,—the stormy night<br>
+Stills her rude blasts, and listens with delight.<br>
+In stoles whose rich embroidery sweeps the ground,<br>
+With censers breathing sacred odours round;<br>
+With tapers far their holy light revealing,<br>
+With solemn music on the darkness stealing;<br>
+With waving palms that fresher gales diffuse,<br>
+And cleanse each shrine with consecrated dews,<br>
+Sage Hubert speeds, amid his priestly train,<br>
+Chaunts the high mass, and lustrates every fane.<br>
+To Christian rites each blessed dome return’d,<br>
+To every Saint the votive incense burn’d,<br>
+And monarchs kneel, while zealous prelates raise<br>
+The notes of triumph, piety and praise.<br>
+How rarely thus, with flowers that never fade,<br>
+Religion’s amaranth wreaths the <span class="smallcaps">Conqueror’s</span> blade!<br>
+Those lofty strains o'er Pardo's restless mind Breathed a pure calm, ennobled and refined: Yet though to prayer his inmost soul was given, Amina mingled with his thoughts of heaven; s 2
 Bright as she shone in Cynthia's silver beams, The angel vision cheers his broken dreams. Far other orgies, other sounds than those, From Carmel's dark divan of demons rose; 810 Abortive guile, and baffled hate were there, Contention, fury, weakness and despair.— Each blames his fellows, each himself extols, Th' infernal throng Alkarmel scarce controuls. " What madness, Genii, what blind rage is ours! Our safety hangs not on yon conquer'd towers. The wrecks of storm-tost barks that strew the main, The steams of death that rise from Acre's plain, Yon blighted fields, yon heaps of ashes tell How duly each has labour'd, and how well. 820 Say next, what evils can our hate conspire, By fraud, by force, by famine, plague or fire? The Pest has fell'd whom swords assail'd in vain— Speak, shall the deadly vapours rise again? Their course to govern, their success to cçe, Superb Moozallil, were a feast for thee."— " No! not for me, abhorr'd Alkarmel!—ask Thyself or Ullah for so mean a task.
 Her toad-like spirit would delight to sip The last blue venom from each livid lip. 830 She smiles when by disease the peasant dies, I joy alone in higher agonies;— Guilts's labouring throes, the Hell of vain remorse, And hate, and virtue writhing at its force. Vile as the beasts they rode, th' imperial band Might wait for thee, I lopp'd the master hand— Not I Comnenus' craven soul controlled, But the fierce Conrad, Bertrand, Leopold, These are my slaves, and Richard's, groans shall tell My skill directs their deadly malice well. 840 The arrow from a foe would scarce offend, Infernal hatred points it by a friend. ’Tis like that icy wind, whose odorous breath Shall woo man's helpless race to drink their death; * Or like those scented blades of Syrian steel, Whose venom'd fragrance aids their power to kill. Talk not of hope, from us for ever fled, The truly brave fight on when hope is dead: Let Adam's sons her baseless visions trust,<span class="smallcaps">Richard</span>must triumph, aud ye know he must; 850,s О
 But let us keep him from the rich repast, And drug the nectar he must drink at last."— " And how?" cried Ullah, (i not by idle words, The sole resource Moozallil's wit affords!"— *' Peace, murmurer! do not these contentions tell That discord is the deadliest curse of Hell? Still in the Christian host the fiend shall reign, Their efforts palsy,—make success their bane. Let this suffice, nor farther seek to know, Till Palestine in shrieks announce the blow."— 860 " But who shall match Plantagenet? for death," Mordash began, C( arrests the Soldan's breath." " Restore him—Asia from her terrors freed Shall thank her Prophet for the specious deed; Such task befits Maimoune's gentle mood— She loves the guilt tbat wears the mask of good." At this her form assumed a lovelier grace, A smile just lighten'd on her pensive face; On roscai«* 1 clouds she flies, while deeper hate And deadlier scorn on each swart visage sate. 870 As fades the moon, with wizard gloom o'erspread, So darkness deepen'd,, when the Peri fled; Loud rose the voice of wrath, red lightnings glare And all the furies fright the troubled air.
