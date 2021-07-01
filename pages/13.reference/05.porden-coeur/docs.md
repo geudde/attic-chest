@@ -5998,15 +5998,15 @@ Blew fresh and cool, while through the livelong day<br>
 A thousand beauties cheat the weary way;<br>
 Around profuse the purple thistle grew,[^97]<br>
 That clothes whole regions in its gorgeous hue;<br>
-While Nature's hand, eternal wonder! weaves<br>
+While Nature’s hand, eternal wonder! weaves<br>
 A holy legend in its dappled leaves:<br>
 Like that bright flower which still (as bards have sung)<br>
 Laments the hero from whose blood it sprung;—<br>
-That, the sad record of a heathen's shame—<br>
-But this, of heavenly love and mercy's healing stream.[^98]<br>
+That, the sad record of a heathen’s shame—<br>
+But this, of heavenly love and mercy’s healing stream.[^98]<br>
 The yellow cassia, with its rich perfume,<br>
 The cistus, lavish of its shortlived bloom,<br>
-Type of man's hopes, all lovely at their birth,<br>
+Type of man’s hopes, all lovely at their birth,<br>
 But falling with the slightest touch to earth;
 A race as fair the next blythe morning weaves, And woos th' expecting gatherer, and deceives. There too that tree, whose rosy blossoms flame, As blushing to record a traitor's name; The name of him to self-destruction led' In vain repentance for his Lord betrayed. There loaded palms and ripening vines between The tall opuntia rears its prickly screen, I7Ö And round each ample leaf its flowers unfold Their rich festoons of crimson and of gold j* And there that cane, whence sweeter juice distils Than bees collect on Hybla's thymy hills. Ill fated plant î for man's delight design'd, But made by man the scourge of half his kind. How blest had ne'er a Norman ruler's hand, Pour'd the new nectar on Sicilia's strand! Thrice blest, had ne'er Iberian sails unfurPd, With this dire gift to curse th' Atlantic world. 1 180 All lovely yet appear'd that chosen land,'" Despite of war and Islam's iron hand. With awe they tread where e'en th' unconscious sod Was dear to memory, sacred to their God. Yet oh! how much more fragrant and more fair, When his celestial presence wander'd there! τ 4
 When earth, delighted, round his infant head Bade virgin flowers delicious odours shed; When serpents died, and every herb of ill, And native harvests redden'd every hill; 190 The thorny brakes with ruddy grapes were fiU'd, And the rough oaks a honied dew distill'd.* At Cana now the pilgrims pause, where first From the gross veil the present Godhead burst; Where, while through every heart amazement rush'd, " The conscious water saw its God and blush'd." Next at Saphura, reverend in decay, To Anna's shrine their duteous homage pay. n Till one fair eve, while lavish dews descend, And the clear stars attemper'd radiance lend, 200 Where the tall plane-trees join'd the acacia's shade, And through the turf a crystal fountain play'd, King <span class="smallcaps">Richard</span> pitch'd his camp, and all around Ten thousand tents coneeal'd the dusty ground. In haste the troops regale; with toil opprest They laid the helmet by, and sunk to rest. * Ipsa tibí blandos fundent cunabula flores. Occidet et serpens, et ŕaílax herba yeneni Occidet; ***** Molli paullaíi/n flavescet campus arista, IncultİMjııe rubens pendebit sentibus uva; Et duræ querei» sudabunt roscìda mella.
