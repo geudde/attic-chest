@@ -5678,14 +5678,157 @@ And monarchs kneel, while zealous prelates raise<br>
 The notes of triumph, piety and praise.<br>
 How rarely thus, with flowers that never fade,<br>
 Religion’s amaranth wreaths the <span class="smallcaps">Conqueror’s</span> blade!<br>
-Those lofty strains o'er Pardo's restless mind Breathed a pure calm, ennobled and refined: Yet though to prayer his inmost soul was given, Amina mingled with his thoughts of heaven; s 2
-Bright as she shone in Cynthia's silver beams, The angel vision cheers his broken dreams. Far other orgies, other sounds than those, From Carmel's dark divan of demons rose; 810 Abortive guile, and baffled hate were there, Contention, fury, weakness and despair.— Each blames his fellows, each himself extols, Th' infernal throng Alkarmel scarce controuls. " What madness, Genii, what blind rage is ours! Our safety hangs not on yon conquer'd towers. The wrecks of storm-tost barks that strew the main, The steams of death that rise from Acre's plain, Yon blighted fields, yon heaps of ashes tell How duly each has labour'd, and how well. 820 Say next, what evils can our hate conspire, By fraud, by force, by famine, plague or fire? The Pest has fell'd whom swords assail'd in vain— Speak, shall the deadly vapours rise again? Their course to govern, their success to cçe, Superb Moozallil, were a feast for thee."— " No! not for me, abhorr'd Alkarmel!—ask Thyself or Ullah for so mean a task.
-Her toad-like spirit would delight to sip The last blue venom from each livid lip. 830 She smiles when by disease the peasant dies, I joy alone in higher agonies;— Guilts's labouring throes, the Hell of vain remorse, And hate, and virtue writhing at its force. Vile as the beasts they rode, th' imperial band Might wait for thee, I lopp'd the master hand— Not I Comnenus' craven soul controlled, But the fierce Conrad, Bertrand, Leopold, These are my slaves, and Richard's, groans shall tell My skill directs their deadly malice well. 840 The arrow from a foe would scarce offend, Infernal hatred points it by a friend. ’Tis like that icy wind, whose odorous breath Shall woo man's helpless race to drink their death; * Or like those scented blades of Syrian steel, Whose venom'd fragrance aids their power to kill. Talk not of hope, from us for ever fled, The truly brave fight on when hope is dead: Let Adam's sons her baseless visions trust,<span class="smallcaps">Richard</span>must triumph, aud ye know he must; 850,s О
-But let us keep him from the rich repast, And drug the nectar he must drink at last."— " And how?" cried Ullah, (i not by idle words, The sole resource Moozallil's wit affords!"— *' Peace, murmurer! do not these contentions tell That discord is the deadliest curse of Hell? Still in the Christian host the fiend shall reign, Their efforts palsy,—make success their bane. Let this suffice, nor farther seek to know, Till Palestine in shrieks announce the blow."— 860 " But who shall match Plantagenet? for death," Mordash began, C( arrests the Soldan's breath." " Restore him—Asia from her terrors freed Shall thank her Prophet for the specious deed; Such task befits Maimoune's gentle mood— She loves the guilt tbat wears the mask of good." At this her form assumed a lovelier grace, A smile just lighten'd on her pensive face; On roscai«* 1 clouds she flies, while deeper hate And deadlier scorn on each swart visage sate. 870 As fades the moon, with wizard gloom o'erspread, So darkness deepen'd,, when the Peri fled; Loud rose the voice of wrath, red lightnings glare And all the furies fright the troubled air.
-What spell arrests the storm? below, around, More felt than heard, and yet it seem'd a sound. At once they pause, their inward fears betray, And curse that call they dare not disobey; While low to earth the abject spirits bow, And silence reigns where Etna raged but now. 880 Alone Moozallil stands erect,—his eye Shoots angry flames, he mocks them as they fly. " False to yourselves as to your God, away! Lo Hassan calls, and Hassan's slaves obey! Hence I lest th' Assassin Prince infuriate rise, And dare arraign the children of the skies; Lest on some icy peak he bid you pine, Or deep in earth, in riven rocks confine. Go! ye that fear a mortal; doubly curst í Bound to those spells your folly taught him first. 890 Go! reckless now of your ætherial birth, To Heaven rebellious, yet the slaves of earth. For this ye lost the skies; ye would not bow To man when sinless, yet ye serve him now! Be Heaven or Hell my lot—delight, disgrace, I make no compact with the hated race.",s 4
-Meanwhile Maimoune sought th' Ascanian wave, Whose limpid tides her fair pavilion lave. Oft when at noon th' unrippled face is clear, Through the blue glass the fairy halls appear, 900 White as those fanes that time and man defy, Nor rue one stain from Grecia's lovely sky. O'er half the lake the beauteous vision spreads, Rich gilded domes, and marble colonnades; While mortals, wandering on the shadowy shore, Mourn for the buried palaces of yore.* Here shells in mockery match the frailer flowers That lend their beauty to our earthly bowers, Soft banks of moss serenest sleep bestow, And fragrant rills in soothing murmurs flow. 910 Nor lack'd there tenderer blossoms, such as give Th' ambrosial scents by which the Perics live; While all around, in rich profusion strown, 'Mid orient pearls the blushing coral shone;
-Th' amber's liquid light, and many a gem, Rare as the boast of Stamboul's diadem. Maimoune snatch'd a vase; in Paradise Once had its radiance pleased celestial eyes, And now, though sullied by her guilty touch, Its light transcends the gems of earth as much 920 As Heaven's inferior angels would outshine Those charms in Carmel's synod held divine. Within that shrine of sunny topaz beams A lucid wave from Eden's sainted streams, With whose blest drops the Peri every day Wash'd from her brow the stains of earth away· And now, as she through night's calm æther flew, Pleased with her task, and conscious that she drew From that good office, from the vase she bore, Charms, since her loss of Heaven unknown before; Flowers from her waving tresses load the wind, A wake of light and perfume spreads behind, And from her lips such magic notes distil, That Moslems deem them strains of israfil.*
-Where faint and pale, scarce conscious of the sound Of weeping friends and Imaums chaunting round, The Soldan lay,—»her radiant presence sent Soft light and freshening odours through the tent; And as above his wasted form she bent, Scarce her mild eye severer sadness shews 940 Than pitying seraphs feel for human woes, While from her hand Heaven's own sweet dewdrops came, Smoothed his distorted brow, and cooled his frame. Such magic drops, as Grecian poets tell, From young Aurora's rosy fingers fell; Nor more reviving those ambrosial showers To Tempe's drooping shrubs and faded flowers; Nor yet Mahommed's wounded, weary crew, From Gilead's balm diviner virtue drew, When at his prayers (for so the Suras feign) 950 The healing grove sprung up on Mecca's plain,*
+Those lofty strains o’er Pardo’s restless mind<br>
+Breathed a pure calm, ennobled and refined:<br>
+Yet though to prayer his inmost soul was given,<br>
+Amina mingled with his thoughts of heaven;<br>
+Bright as she shone in Cynthia’s silver beams,<br>
+The angel vision cheers his broken dreams.
+
+Far other orgies, other sounds than those,<br>
+From Carmel’s dark divan of demons rose;<br>
+Abortive guile, and baffled hate were there,<br>
+Contention, fury, weakness and despair.— <br>
+Each blames his fellows, each himself extols,<br>
+Th’ infernal throng Alkarmel scarce controuls.<br>
+“What madness, Genii, what blind rage is ours!<br>
+Our safety hangs not on yon conquer’d towers.<br>
+The wrecks of storm-tost barks that strew the main,<br>
+The steams of death that rise from Acre’s plain,<br>
+Yon blighted fields, yon heaps of ashes tell<br>
+How duly each has labour’d, and how well.<br>
+Say next, what evils can our hate conspire,<br>
+By fraud, by force, by famine, plague or fire?<br>
+The Pest has fell’d whom swords assail’d in vain—<br>
+Speak, shall the deadly vapours rise again?<br>
+Their course to govern, their success to see,<br>
+Superb Moozallil, were a feast for thee.”—<br>
+&emsp;“No! not for me, abhorr’d Alkarmel!—ask<br>
+Thyself or Ullah for so mean a task.<br>
+Her toad-like spirit would delight to sip<br>
+The last blue venom from each livid lip.<br>
+She smiles when by disease the peasant dies,<br>
+I joy alone in higher agonies;—<br>
+Guilt’s labouring throes, the Hell of vain remorse,<br>
+And hate, and virtue writhing at its force.<br>
+Vile as the beasts they rode, th’ imperial band<br>
+Might wait for thee, I lopp’d the master hand—<br>
+Not I Comnenus’ craven soul controlled,<br>
+But the fierce Conrad, Bertrand, Leopold,<br>
+These are my slaves, and <span class="smallcaps">Richard’s</span>, groans shall tell<br>
+My skill directs their deadly malice well.<br>
+The arrow from a foe would scarce offend,<br>
+Infernal hatred points it by a friend.<br>
+’Tis like that icy wind, whose odorous breath<br>
+Shall woo man’s helpless race to drink their death;[^92]<br>
+Or like those scented blades of Syrian steel,<br>
+Whose venom’d fragrance aids their power to kill.<br>
+Talk not of hope, from us for ever fled,<br>
+The truly brave fight on when hope is dead:<br>
+Let Adam’s sons her baseless visions trust,<br>
+<span class="smallcaps">Richard</span>must triumph, and ye know he must;<br>
+But let us keep him from the rich repast,<br>
+And drug the nectar he must drink at last.”—<br>
+&emsp;“And how?” cried Ullah, “not by idle words,<br>
+The sole resource Moozallil’s wit affords!”— <br>
+&emsp;“Peace, murmurer! do not these contentions tell<br>
+That discord is the deadliest curse of Hell?<br>
+Still in the Christian host the fiend shall reign,<br>
+Their efforts palsy,—make success their bane.<br>
+Let this suffice, nor farther seek to know,<br>
+Till Palestine in shrieks announce the blow.”—<br>
+&emsp;“But who shall match <span class="smallcaps">Plantagenet</span>? for death,”<br>
+Mordash began, “arrests the Soldan’s breath.”<br>
+&emsp;“Restore him—Asia from her terrors freed<br>
+Shall thank her Prophet for the specious deed;<br>
+Such task befits Maimoune’s gentle mood—<br>
+She loves the guilt that wears the mask of good.”<br>
+&emsp;At this her form assumed a lovelier grace,<br>
+A smile just lighten’d on her pensive face;<br>
+On roseate clouds she flies, while deeper hate<br>
+And deadlier scorn on each swart visage sate.<br>
+As fades the moon, with wizard gloom o’erspread,<br>
+So darkness deepen’d, when the Peri fled;<br>
+Loud rose the voice of wrath, red lightnings glare<br>
+And all the furies fright the troubled air.
+What spell arrests the storm? below, around,<br>
+More felt than heard, and yet it seem’d a sound.<br>
+At once they pause, their inward fears betray,<br>
+And curse that call they dare not disobey;<br>
+While low to earth the abject spirits bow,<br>
+And silence reigns where Etna raged but now.<br>
+Alone Moozallil stands erect,—his eye<br>
+Shoots angry flames, he mocks them as they fly.<br>
+“False to yourselves as to your God, away!<br>
+Lo Hassan calls, and Hassan’s slaves obey!<br>
+Hence! lest th’ Assassin Prince infuriate rise,<br>
+And dare arraign the children of the skies;<br>
+Lest on some icy peak he bid you pine,<br>
+Or deep in earth, in riven rocks confine.<br>
+Go! ye that fear a mortal; doubly curst!<br>
+Bound to those spells your folly taught him first.<br>
+Go! reckless now of your ætherial birth,<br>
+To Heaven rebellious, yet the slaves of earth.<br>
+For this ye lost the skies; ye would not bow<br>
+To man when sinless, yet ye serve him now!<br>
+Be Heaven or Hell my lot—delight, disgrace,<br>
+I make no compact with the hated race.”<br>
+&emsp;Meanwhile Maimoune sought th’ Ascanian wave,<br>
+Whose limpid tides her fair pavilion lave.<br>
+Oft when at noon th' unrippled face is clear,<br>
+Through the blue glass the fairy halls appear,<br>
+White as those fanes that time and man defy,<br>
+Nor rue one stain from Grecia's lovely sky.<br>
+O'er half the lake the beauteous vision spreads,<br>
+Rich gilded domes, and marble colonnades;<br>
+While mortals, wandering on the shadowy shore,<br>
+Mourn for the buried palaces of yore.[^93]<br>
+Here shells in mockery match the frailer flowers<br>
+That lend their beauty to our earthly bowers,<br>
+Soft banks of moss serenest sleep bestow,<br>
+And fragrant rills in soothing murmurs flow.<br>
+Nor lack'd there tenderer blossoms, such as give<br>
+Th' ambrosial scents by which the Peries live;<br>
+While all around, in rich profusion strown,<br>
+’Mid orient pearls the blushing coral shone;
+Th' amber's liquid light, and many a gem,<br>
+Rare as the boast of Stamboul's diadem.<br>
+Maimoune snatch'd a vase; in Paradise<br>
+Once had its radiance pleased celestial eyes,<br>
+And now, though sullied by her guilty touch,<br>
+Its light transcends the gems of earth as much<br>
+As Heaven's inferior angels would outshine<br>
+Those charms in Carmel's synod held divine.<br>
+Within that shrine of sunny topaz beams<br>
+A lucid wave from Eden's sainted streams,<br>
+With whose blest drops the Peri every day<br>
+Wash'd from her brow the stains of earth away<br>
+And now, as she through night's calm æther flew,<br>
+Pleased with her task, and conscious that she drew<br>
+From that good office, from the vase she bore,<br>
+Charms, since her loss of Heaven unknown before;<br>
+Flowers from her waving tresses load the wind,<br>
+A wake of light and perfume spreads behind,<br>
+And from her lips such magic notes distil,<br>
+That Moslems deem them strains of israfil.[^94]<br>
+Where faint and pale, scarce conscious of the sound<br>
+Of weeping friends and Imaums chaunting round,<br>
+The Soldan lay,—her radiant presence sent<br>
+Soft light and freshening odours through the tent;<br>
+And as above his wasted form she bent,<br>
+Scarce her mild eye severer sadness shews<br>
+Than pitying seraphs feel for human woes,<br>
+While from her hand Heaven's own sweet dewdrops came,<br>
+Smoothed his distorted brow, and cooled his frame.<br>
+Such magic drops, as Grecian poets tell,<br>
+From young Aurora's rosy fingers fell;<br>
+Nor more reviving those ambrosial showers<br>
+To Tempe's drooping shrubs and faded flowers;<br>
+Nor yet Mahommed's wounded, weary crew,<br>
+From Gilead's balm diviner virtue drew,<br>
+When at his prayers (for so the Suras feign)<br>
+The healing grove sprung up on Mecca's plain,[^95]<br>
+
 Than from those blessed drops, indeed divine, Flow'd through the wasted frame of Saladine. Nor warm with life, witb health renew'd he seems, Rose with the sun, and blest his golden beams.,END OF BOOK VI.
 CŒUR DE LION.,BOOK VIL,THE MARCH TO ARSOUF.
 ARGUMENT.,THE MARCH TO ARSOUF. Departure of Philip and Conrad — Embassy to Tyre —<span class="smallcaps">Richard’s</span>march from Acre — The encampment at the fountain — Hermesind — Pardo — The Emerald Knight—Albert — The submission of Cesarea — Tiie vale of Arsouf—The enchanted wood of Sharon — Terrors and delusions of the Christian Army — Of<span class="smallcaps">Richard</span>— Flight of Moozallil — Appearance of the Moslem forces — Preparations for battle.
@@ -6085,3 +6228,11 @@ none of the house of Ayoub were likely to look with complacency on the worshippe
 [^90]: A large mantle or outer garment of dark brown cloth, which completely conceals the dress and rank of the wearer. These are worn by the women of the East when they go abroad. Those belonging to the lower classes are very coarse in their texture.
 
 [^91]: This is a broad belt, formed of the choicest spices, and slung over one shoulder. The golden anklets are often massive to a very inconvenient degree.
+
+[^92]: The Sarzar, a cold and fragrant wind, which, according to the Mahommedans, shall blow upon the last day, and destroy all living creatures.
+
+[^93]: Nice, or Is Nik, the capital of Bithynia, is situated on the banks of the Lake Ascanius, now alled Ac Sou (*Eau blanche*). The inhabitants pretend that, when the waters of the lake are low, majestic edifices and massy towers are seen beneath the waves, the remains of a submerged city, which they suppose formerly to have occupied the site, and to have been destroyed by an earthquake. It is possible that this fable may have originated from the reflexion of the buildings of Is Nik in the water, but similar stories are not uncommon in the East.
+
+[^94]: Israfil is one of the four Archangels; the angel of music, who is to sound the trumpet on the day of resurrection, and whose ravishing strains will delight the true believers in Paradise.
+
+[^95]: In one of Mahommed’s battles many of his followers were grievously wounded: but, at the Prophet’s prayer, the plant from which the balm of Gilead or Tolu is obtained, sprung up like a grove, and their gashes soon yielded to the force of the miraculous balsam. The Suras are the divisions or chapters of the Koran.
