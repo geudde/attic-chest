@@ -5324,7 +5324,7 @@ The golden Larks upon their field of blue.<br>
 “What means this insult? By those powers that crown<br>
 My conquering arms, I bid the pageant down!<br>
 Say whence, proud Duke, this daring madness springs,<br>
-To mate thy banner with the badge of Kings?<sup>i</sup><br>
+To mate thy banner with the badge of Kings?<br>
 Even on this tower, beneath that conscious sun<br>
 Which saw its ramparts by my valour won,<br>
 Canst thou believe I tamely will behold<br>
@@ -5417,9 +5417,59 @@ And claim his ready justice from thy King?—<br>
 Thou answer’st not, De Carreo! must I then,<br>
 Where I had hoped to praise, reprove agen?<br>
 The forest laws my royal fathers framed,<br>
-By thy rash youth were outraged, and I blamed: For this resign s't thou thy paternal state? Was I unjust } or think'st thou I forget The blood that from the Chiefs of Norway springs, Thy sires ennobled ere my own were Kings? Through whom my father's yoke proud Gwyneth bore, Through whom I rule Ierne's emerald shore; Thy noble parent, in whose guardian power My mother rests, and Windsor's regal tower? Or think'st thou I forget his loyal son Who for my menaced life exposed his own? Give mc thy banner j"—once again outspread, \ The silver saltier parts the sanguine red. > He lopp'd the pennon's forked points, 1 and said— 7
-" Disdain not from a grateful Sovereign's hand A nobler banner, and enlarged command; To thee the fame of Othoer's race I trust: Now prove him false that called his King unjust."" " Now most unjust," the blushing youth replied, " My pride transgress'd, and thou reward'st my pride. What wond'rous power thy princely soul displays, With gifts to humble, with reproof to raise! How I receive the lesson, Sire, my speech Is poor to utter, but my life shall teach." 570 Faint he sunk back, the King's attentive mind To his own Leech th' exhausted Knight consign'd.* Then sought Almanzor's couch, whose desperate hand Tore from his bleeding brow the healing band: Unmoved by Ermengard, he mocks his prayers, His pious skill, and unrelaxing cares, And vows that never Infidel shall shed His hateful ointments on a Hadji's head.
-ί( Brave Emir," spoke the King with generous heat, " I love that spirit, proudest in defeat; Yet for thy future fame consent to live, And ask whate'er a Monarch's power can give." 580 el What canst thou give, thou murderer of my fame, Thou canst not give me back a warrior's name! Yes! I will live, but live alone that thou May'st lie my thrall, as I before thee now; A living victim long thou should'st not be, I scorn thy mercies, Christian dog, and thee. Yet if thy words be not the idle breath Of one whose secret malice seeks my death, Send me to him I love, and Saladine Shall teach to quell that arm which humbled mine." tc So be it, Prince, as to thy grasp I yield This glove, my pledge to meet thee in the field, And on my casque thy proud egret will wear, } Nor wear dishonours; not thyself shall dare > To think it tarnish'd, when thou seest it there." J ’Tis night, and Pardo with a chosen power Protects the gate that leads from David's tower. The rising moon two female forms betray'd, Who linger'd near, and seem'd to court the shade;
+By thy rash youth were outraged, and I blamed:<br>
+For this resigns’t thou thy paternal state?<br>
+Was I unjust? or think’st thou I forget<br>
+The blood that from the Chiefs of Norway springs,<br>
+Thy sires ennobled ere my own were Kings?<br>
+Through whom my father’s yoke proud Gwyneth bore,<br>
+Through whom I rule Ierne’s emerald shore;<br>
+Thy noble parent, in whose guardian power<br>
+My mother rests, and Windsor’s regal tower?<br>
+Or think’st thou I forget his loyal son<br>
+Who for my menaced life exposed his own?<br>
+Give me thy banner;”—once again outspread,<br>
+The silver saltier parts the sanguine red.<br>
+He lopp’d the pennon’s forked points,<sup>i</sup> and said—<br>
+“Disdain not from a grateful Sovereign’s hand<br>
+A nobler banner, and enlarged command;<br>
+To thee the fame of Othoer’s race I trust:<br>
+Now prove him false that called his King unjust.”<sup>k</sup><br>
+&emsp;“Now most unjust,” the blushing youth replied,<br>
+“My pride transgress’d, and thou reward’st my pride.<br>
+What wond’rous power thy princely soul displays,<br>
+With gifts to humble, with reproof to raise!<br>
+How I receive the lesson, Sire, my speech<br>
+Is poor to utter, but my life shall teach.”<br>
+&emsp;Faint he sunk back, the King’s attentive mind<br>
+To his own Leech th’ exhausted Knight consign’d.[^89]<br>
+Then sought Almanzor’s couch, whose desperate hand<br>
+Tore from his bleeding brow the healing band:<br>
+Unmoved by Ermengard, he mocks his prayers,<br>
+His pious skill, and unrelaxing cares,<br>
+And vows that never Infidel shall shed<br>
+His hateful ointments on a Hadji’s head.<br>
+“Brave Emir,” spoke the King with generous heat,<br>
+“I love that spirit, proudest in defeat;<br>
+Yet for thy future fame consent to live,<br>
+And ask whate’er a Monarch’s power can give.”<br>
+&emsp;“What canst thou give, thou murderer of my fame,<br>
+Thou canst not give me back a warrior’s name!<br>
+Yes! I will live, but live alone that thou<br>
+May’st lie my thrall, as I before thee now;<br>
+A living victim long thou should’st not be,<br>
+I scorn thy mercies, Christian dog, and thee.<br>
+Yet if thy words be not the idle breath<br>
+Of one whose secret malice seeks my death,<br>
+Send me to him I love, and Saladine<br>
+Shall teach to quell that arm which humbled mine.”<br>
+&emsp;“So be it, Prince, as to thy grasp I yield<br>
+This glove, my pledge to meet thee in the field,<br>
+And on my casque thy proud egret will wear,<br>
+Nor wear dishonours; not thyself shall dare<br>
+To think it tarnish’d, when thou seest it there.”
+
+’Tis night, and Pardo with a chosen power Protects the gate that leads from David's tower. The rising moon two female forms betray'd, Who linger'd near, and seem'd to court the shade;
 Seized by his warriors, one of matron years, 600 Drops her coarse veil, and through contending tears Speaks of the robbers that had come by night, And insults to her child that counsel I'd flight. But accents gentle as the breeze that blows In amorous fragrance o'er the expanding rose, And sweet as murmurs of the streams that lave The frail Mimosa imaged in their wave, Reproving spoke:—" Dear guardian of my youth, Stoop'st thou to falsehood who hast taught me truth! Let guilt from fraud extort her poor defence, 610 But truth's the native guard of innocence. Oh, Knight! nor fear nor insult we endure, Still are the Haram's sacred bounds secure. The city's fate unknown, I calmly led Through folds of Syrian silk the golden thread, When shrieks of woe, resounding from the street, To the forbidden Golphor lured my feet. Alas í my sire, whose smile at eve and morn, Still told or promised of his safe return, Loav on a bier his senseless form was laid/ 620 With honour borne, yet honour'd as the dead; His bloody turban!—but I saw no more Till my thick veil my weeping damsels tore,
 And said Almanzor lived; but hence removed To Kaisan's camp, nor nursed by those he loved. Can ev'n the generous Saladine supply A daughter's cares, or read the asking eye? Then blame not that, emboldened by despair, I bade my nurse two barracans prepare,* Such as befit our meanest slaves alone, 630 So might we pass, I deem'd, unmark'd, unknown: But ah! how helpless and how weak a flower Is woman when she quits her guardian bower! Oh, let me seek its sacred walls again, To weep I left them, since I left in vain." " No, not in vain! behold a loyal knight Kneels at thy feet, and vows to aid thy flight; I grant thy wish, for I believe thy tale, Yet drop, one instant drop, that envious veil. Perchance (and I methinks should bless the hour) 640 The fate of war may lead me to thy bower; Warriors are rude when rushing from the field, And I would know thy beauties but to shield,"
 As shone the moon, then bursting from a cloud, So dawn'd Amina from her sable shroud. ’Tis not the diamonds in her raven hair, Or the strung jasmine wreath'd in contrast there, The golden links that round her ancles hung, The belt of perfume o'er her shoulder flung,* Her jewell'd caftan, or her shawl of gold, 650 That the gay youth in mute enchantment hold; But that fine form that match'd the palm in height, Firm as the cedar, as the acacia light; Those eyes, in which a chastened spirit dwells, Mild as the dove's, yet bright as the gazelle's. Perchance her cheek too warm a glow had won From the keen ray of Yemen's fervid sun, Yet o'er its charms the vivid blush that broke, Outvied Damascus' rose, when thus she spoke: " Not far are those who if this scene they guest, Might deem their daggers' fittest sheath my breast; Yet think not I a spotless fame despise, ~\ If at thy suit I drop my dark disguise, > Nor worse than death abhor a stranger's eyes. j
@@ -5829,3 +5879,5 @@ none of the house of Ayoub were likely to look with complacency on the worshippe
 [^87]: As in this Crusade each Chief was obliged to support his own troop, the leaders generally allotted a fixed stipend to each man.
 
 [^88]: Leopold changed his armorial bearings after the siege of Acre. His original shield was, six Larks Or, in a field of Azure. The story is that at one battle during the siege, he fought so bravely that his armour was entirely covered with blood, save his belt, which remained white. In commemoration of this circumstance, the Emperor assigned to him and his successors their new device, Gules, a fess Argent.
+
+[^89]: The sons of Esculapius may be interested to learn that this was no less a personage than Richard de Higel, Bishop of London, and the first who is mentioned as bearing the title of King’s Apothecary. In our degenerate days the functions of “soul-curer and body-curer” are not ordinarily thus united; but the clergy engrossed all the little learning of that semi-barbarous age, and the practice of pharmacy was not uncommon, even in the highest dignitaries.
