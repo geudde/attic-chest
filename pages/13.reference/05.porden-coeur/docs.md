@@ -5111,7 +5111,7 @@ And sent to England,—happy if no more<br>
 His pious feet had trod the Syrian shore;<br>
 Yet to his worth a martyr’s crown is given,<br>
 On earth he slumbers, to awake in Heaven.<br>
-&emsp;Now met the warriors;<span class="smallcaps">Richard</span>casts below<br>
+&emsp;Now met the warriors; <span class="smallcaps">Richard</span> casts below<br>
 A look of wonder on his pigmy foe,<br>
 With limbs curtail’d, unequal, and deform’d,<br>
 But the rude clay a soul of valour warm’d.<br>
@@ -5340,7 +5340,7 @@ And dust and blood defiled the gaudy gold.<br>
 In wonder speechless stood its raging lord,<br>
 His threatening eyes flash fire, he grasps his sword.<br>
 &emsp;“Hold! haughty Chief,” again the Monarch spoke,<br>
-“Nor farther yet my righteous ire provoke, 4J0
+“Nor farther yet my righteous ire provoke,<br>
 I dread thee not;—yet pardon if my tongue,<br>
 By sudden anger moved, have done thee wrong.<br>
 What though sole victor o’er this stubborn town,<br>
@@ -5384,10 +5384,40 @@ The gallant Rodney bears it to his grave:<br>
 Thus may ye live to glory,—thus may all<br>
 In life adorn it, honour in their fall.<br>
 But say—who now the vacant prize shall grace,<br>
-Who best deserves to fill a hero's place?—<br>
+Who best deserves to fill a hero’s place?—<br>
 Thanks, my brave Peers, for this your silent voice,<br>
-Those speaking looks that single out my choice. Pardo, if right thy generous heart I see, Nor rank nor riches have such charms for thee; This kindled envy once—young Knight, t'were wrotig, That heart like thine should strive with envy long;520 With thee our fame in Acre's fall is shared, Nor favour gives it, ’tis thy just reward. Long since my love had given, and love alone Deferr'd the guerdon, till thy worth had won." From his own knee meanwhile with ready hand He loosens, and presents the azure band. But Pardo's swelling heart no words supplied, "\ Kneeling he kiss'd the badge, and flew to hide \ The bursting stream of gratitude and pride. J " One debt remains," the generous Monarch said, " A Knight whose shield a clouded moon displayed, Whose legend mourn'd injustice—if severe His hurt forbid not, lead the warrior here." Borne on a litter came the wounded Knight, And shunn'd with downcast looks his Sovereign's sight. 4
-CŒUR DE LION. »оок vi. But vainly he a well known face coneeal'd, The Monarch paus'd, then rais'd the pictur'd shield: t'í Say, my young friend, what clouds thy opening morn? What wrongs oppress, what injury hast thou borne? Why dost thou fight disguised? why leave behind 540 Thy train, nor give thy banner to the wind? Why not to me thy secret sorrows bring, And claim his ready justice from thy King?— Thou answer's^ not, De Carreo í must I then, Where I had hoped to praise, reprove agen? The forest laws my royal fathers framed, By tby rash youth were outraged, and I blamed: For this resign s't thou thy paternal state? Was I unjust } or think'st thou I forget The blood that from the Chiefs of Norway springs, Thy sires ennobled ere my own were Kings? Through whom my father's yoke proud Gwyneth bore, Through whom I rule Ierne's emerald shore; Thy noble parent, in whose guardian power My mother rests, and Windsor's regal tower? Or think'st thou I forget his loyal son Who for my menaced life exposed his own? Give mc thy banner j"—once again outspread, \ The silver saltier parts the sanguine red. > He lopp'd the pennon's forked points, 1 and said— 7
+Those speaking looks that single out my choice.<br>
+Pardo, if right thy generous heart I see,<br>
+Nor rank nor riches have such charms for thee;<br>
+This kindled envy once—young Knight, t’were wrong,<br>
+That heart like thine should strive with envy long;<br>
+With thee our fame in Acre’s fall is shared,<br>
+Nor favour gives it, ’tis thy just reward.<br>
+Long since my love had given, and love alone<br>
+Deferr’d the guerdon, till thy worth had won.”<br>
+From his own knee meanwhile with ready hand <br>
+He loosens, and presents the azure band.<br>
+&emsp;But Pardo’s swelling heart no words supplied,<br>
+Kneeling he kiss’d the badge, and flew to hide<br>
+The bursting stream of gratitude and pride.<br>
+&emsp;“One debt remains,” the generous Monarch said,<br>
+“A Knight whose shield a clouded moon displayed,<br>
+Whose legend mourn’d injustice—if severe<br>
+His hurt forbid not, lead the warrior here.”<br>
+&emsp;Borne on a litter came the wounded Knight,<br>
+And shunn’d with downcast looks his Sovereign’s sight.<br>
+But vainly he a well known face coneeal’d,<br>
+The Monarch paus’d, then rais’d the pictur’d shield:<br>
+“Say, my young friend, what clouds thy opening morn?<br>
+What wrongs oppress, what injury hast thou borne?<br>
+Why dost thou fight disguised? why leave behind<br>
+Thy train, nor give thy banner to the wind?<br>
+Why not to me thy secret sorrows bring,<br>
+And claim his ready justice from thy King?—<br>
+Thou answer’st not, De Carreo! must I then,<br>
+Where I had hoped to praise, reprove agen?<br>
+The forest laws my royal fathers framed,<br>
+By thy rash youth were outraged, and I blamed: For this resign s't thou thy paternal state? Was I unjust } or think'st thou I forget The blood that from the Chiefs of Norway springs, Thy sires ennobled ere my own were Kings? Through whom my father's yoke proud Gwyneth bore, Through whom I rule Ierne's emerald shore; Thy noble parent, in whose guardian power My mother rests, and Windsor's regal tower? Or think'st thou I forget his loyal son Who for my menaced life exposed his own? Give mc thy banner j"—once again outspread, \ The silver saltier parts the sanguine red. > He lopp'd the pennon's forked points, 1 and said— 7
 " Disdain not from a grateful Sovereign's hand A nobler banner, and enlarged command; To thee the fame of Othoer's race I trust: Now prove him false that called his King unjust."" " Now most unjust," the blushing youth replied, " My pride transgress'd, and thou reward'st my pride. What wond'rous power thy princely soul displays, With gifts to humble, with reproof to raise! How I receive the lesson, Sire, my speech Is poor to utter, but my life shall teach." 570 Faint he sunk back, the King's attentive mind To his own Leech th' exhausted Knight consign'd.* Then sought Almanzor's couch, whose desperate hand Tore from his bleeding brow the healing band: Unmoved by Ermengard, he mocks his prayers, His pious skill, and unrelaxing cares, And vows that never Infidel shall shed His hateful ointments on a Hadji's head.
 ί( Brave Emir," spoke the King with generous heat, " I love that spirit, proudest in defeat; Yet for thy future fame consent to live, And ask whate'er a Monarch's power can give." 580 el What canst thou give, thou murderer of my fame, Thou canst not give me back a warrior's name! Yes! I will live, but live alone that thou May'st lie my thrall, as I before thee now; A living victim long thou should'st not be, I scorn thy mercies, Christian dog, and thee. Yet if thy words be not the idle breath Of one whose secret malice seeks my death, Send me to him I love, and Saladine Shall teach to quell that arm which humbled mine." tc So be it, Prince, as to thy grasp I yield This glove, my pledge to meet thee in the field, And on my casque thy proud egret will wear, } Nor wear dishonours; not thyself shall dare > To think it tarnish'd, when thou seest it there." J ’Tis night, and Pardo with a chosen power Protects the gate that leads from David's tower. The rising moon two female forms betray'd, Who linger'd near, and seem'd to court the shade;
 Seized by his warriors, one of matron years, 600 Drops her coarse veil, and through contending tears Speaks of the robbers that had come by night, And insults to her child that counsel I'd flight. But accents gentle as the breeze that blows In amorous fragrance o'er the expanding rose, And sweet as murmurs of the streams that lave The frail Mimosa imaged in their wave, Reproving spoke:—" Dear guardian of my youth, Stoop'st thou to falsehood who hast taught me truth! Let guilt from fraud extort her poor defence, 610 But truth's the native guard of innocence. Oh, Knight! nor fear nor insult we endure, Still are the Haram's sacred bounds secure. The city's fate unknown, I calmly led Through folds of Syrian silk the golden thread, When shrieks of woe, resounding from the street, To the forbidden Golphor lured my feet. Alas í my sire, whose smile at eve and morn, Still told or promised of his safe return, Loav on a bier his senseless form was laid/ 620 With honour borne, yet honour'd as the dead; His bloody turban!—but I saw no more Till my thick veil my weeping damsels tore,
