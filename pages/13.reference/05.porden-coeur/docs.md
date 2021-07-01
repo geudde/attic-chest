@@ -57,8 +57,13 @@ ul {
 
 <div class="center">
 <p>
-or<br>
-The Third Crusade. A Poem in Sixteen Books
+or
+</p>
+<h3>
+The Third Crusade
+</h3>
+<p>
+A Poem in Sixteen Books
 </p>
 <p>
 By Eleanor Anne Porden,<br>
@@ -5850,13 +5855,144 @@ With faltering voice, slow step, and visage pale,<br>
 The specious Philip gilds his artful tale,<br>
 How the long toils his pristine strength overcame,<br>
 And Asia’s sun unnerved his northern frame.<br>
+“Brother of England! comrade of my youth!<br>
+With soul propitious hear the voice of truth.<br>
+The city’s fall acquits my vow; the gales<br>
+With favouring breath invite me to Marseilles:<br>
+Weak as I am, I yet my course delay,<br>
+Nor heave one anchor, if thou bid’st me stay.<br>
+Oh I had I lived unwedded to a throne,<br>
+Drown a free sword, and fought for fame alone,<br>
+Not life or Europe proffer aught so dear<br>
+As for the Cross to fight and perish here!<br>
+But since I more the Christian weal can aid<br>
+In France a monarch than in Asia dead,<br>
+I bow to Heaven, I seek th’ inglorious West,<br>
+And leave the wrongs of Sion unredrest;<br>
+Doom’d, when thy triumph rescued realms proclaim,<br>
+To curb the jealous pang, and bless thy fame.<br>
+Yet,—for my pious zeal unwilling draws<br>
+One active weapon from the sacred cause,—<br>
+Ten thousand spears, the choicest of my train,<br>
+To aid your arms in Otho’s care remain.<br>
+Then prove, my friend, though policy or pride<br>
+Have sever’d those in happier youth allied,<br>
+That, like the nectar in its bloomy cells,<br>
+Deep in our hearts one drop of sweetness dwells;<br>
+These chiefs have seen our discord, let them see<br>
+Thou hold’st my life as dear as thine to me.”<sup>a</sup><br>
+He spoke:—not oft to <span class="smallcaps">Richard’s</span> generous breast<br>
+Suspicion came, or came a welcome guest;<br>
+Yet when his rival, with such vain parade,<br>
+Asserts a friendship he so oft betray’d,<br>
+Distrust awakes, he ьееь the covert snare,<br>
+And feels for England’s weal a sovereign’s care.<br>
+“I too, Augustus, have been taught to feel<br>
+How ill these feeble bodies serve our zeal:<br>
+Thus ever, when an arm of flesh we trust,<br>
+We find th’ important lesson, man is dust!<br>
+Our early love was like a golden chain,<br>
+Not lightly broke, nor broken, join’d again.<br>
+If rivalry could here our souls inflame,<br>
+Here, where our hope, our interest was the same,<br>
+Will fair occasion interdict the wrong?<br>
+Will distance make expiring friendship strong?<br>
+Then pardon, Philip, if I bid thee stay,<br>
+Again to pledge the vows of Vezelay,<sup>b</sup><br>
+Those vows, that even from a rival’s hand<br>
+Demand the care of my unguarded land.”<br>
+&emsp;“And fear'st thou, <span class="smallcaps">Richard</span>, I would forfeit troth?<br>
+Then fear no longer: I renew my oath;<br>
+So thou before these Princes yield again<br>
+A vassal’s fealty for thy Norman reign.”<br>
+&emsp;But <span class="smallcaps">Richard</span>, reading through the thin disguise<br>
+The wish to sink him in his comrade’s eyes,<br>
+Paus’d not an instant; kneeling on the sand,<br>
+His sword he tenders to his Suzerain’s hand.”[^96]<br>
+&emsp;“For ducal Normandy, and Acquitaine,<br>
+Touraine and Poitou, half thine ample reign,<br>
+I render homage here; but England’s throne,<br>
+Erin and Gwyneth, by my father won,<br>
+And Cyprus’ conquer’d vales are mine, and mine alone.”<br>
+&emsp;The chiefs in wonder heard the King display<br>
+The various regions that confest his sway,<br>
+When Conrad rose, and with unbending look,<br>
+Disdaining art, in open scorn he spoke:<br>
+&emsp;“Warriors farewell! I pray not for your weal,<br>
+I feign no friendship that I do not feel;<br>
+Nor courage fails me, nor my scrip is low,<br>
+Nor ape I sickness, ’tis my will to go.—<br>
+For thee, О chief! I spread no artful gloze,<br>
+No love has bound us, and we may be foes,<br>
+Since thou permitt’st yon phantom king to wear<br>
+My lawful title, and my standard bear.<br>
+Nor think by words my purpose to restrain,<br>
+I lack not gold, and flattery I disdain;<br>
+Oh! may you mourn me, as th’ Achaian host<br>
+In blood and fire once mourn’d Pelides lost.”<br>
+&emsp;They spoke and parted;—long with pain supprest,<br>
+Indignant virtue blazed in <span class="smallcaps">Richard’s</span> breast.<br>
+“Hence, hence, ye recreants! ye that vow’d to bleed<br>
+For Sion’s love, yet leave her towers unfreed!<br>
+Hence, for if interest lures, or fear appals,<br>
+Ye are not worthy to behold her walls!<sup>c</sup><br>
+The God of Truth a livelier faith demands,<br>
+And scorns the labour of reluctant hands.”
 
-"Brother of England! comrade of my youth! With soul propitious hear the voice of truth. The city's fall acquit> my vow; the gales With favouring breath invite me to Marseilles: Weak as I am, I yet my course delay, Nor heave one anchor, if thou bid'st me stay. Oh I had I lived unwedded to a throne, Drown a free sword, and fought for fame alone, Not life or Europe proffer aught so dear As for the Cross to fight and perish here! 20 But since I more the Christian weal can aid In France a monarch than in Asia dead, I bow to Heaven, I seek th' inglorious West, And leave the wrongs of Sion unredrest; Doom'd, when thy triumph rescued realms proclaim, To curb the jealous pang, and bless thy fame. Yet,—for my pious zeal unwilling draws One active weapon from the sacred cause,— Ten thousand spears, the choicest of my train, To aid your arms in Otho's care remain. 30 Then prove, my friend, though policy or pride Have sever'd those in happier youth allieu, That, like the nectar in its bloomy cells, Deep in our hearts one drop of sweetness dwells;
-. These chiefs have seen our discord, let them see Thou hold' s t my life as dear as thine to rae" a He spoke:—not oft to <span class="smallcaps">Richard’s</span> generous breast Suspicion came, or came a welcome guest; Yet when hi» rival, with such vain parade, Asserts a friendship he so oft betray'd, 40 Distrust awakes, he ьееь the covert snare, And feels for England's weal a sovereign's care. t'f I too, Augustus, have been taught to feel How ill these feeble bodies serve our zeal: Thus ever, when an arm of flesh we trust, We find th' important lesson, man is dust! Our early love was like a golden chain, Not lightly broke, nor broken, join'd again. If rivalry could here our souls inflame, Here, where our hope, our interest was the same, 50 Will fair occasion interdict the wrong? Will distance make expiring friendship strong ï Then pardon, Philip, if I bid thee stay, Again to pledge the vows of Vezelay/'— Those vows, that even from a rival's hand Demand the care of my unguarded land." " And fear'st thou, Richard, I would forfeit troth? Then fear no longer: 1 renew my oath j vol. ι. τ
-So thou before these Princes yield again A vassal's fealty for thy Norman reign." 60 But Richard, reading through the thin disguise The wish to sink him in his comrade's eyes, Paus'd not an instant; kneeling on the sand, His sword he tenders to his Suzerain's hand."* " For ducal Normandy, and Acquitaine, Touraine and Poitou, half thine ample reign, I render homage here; but England's throne, 4 Erin and Gwyneth, by my father won, f And Cyprus' conquer'd vales are mine, and mine i alone." J The chiefs in wonder heard the King display 70 The various regions that confest his sway, When Conrad rose, and with unbending look, Disdaining art, in open scorn he spoke: £( Warriors farewell í I pray not for your weal, I feign no friendship that I do not feel; Nor courage fails me, nor my scrip is low, Nor ape I sickness, ’tis my will to go.>—
-For thee, О chief! I spread no artful gloze, No love has bound us, and we may be foes, Since thou permitt'st yon phantom king to wear 80 My lawful title, and my standard bear. Nor think by words my purpose to restrain, I lack not gold, and flattery I disdain; Oh! may you mourn me, as th' Achaian host In blood and fire once mourn'd Pelides lost." They spoke and parted;—long with pain supprest, Indignant virtue blazed in <span class="smallcaps">Richard’s</span> breast. i( Hence, hence, ye recreants! ye that vow'd to bleed For Sion's love, yet leave her towers unfreed! Hence, for if interest lures, or fear appals, ЯО Ye are not worthy to behold her walls! c The God of Truth a livelier faith demands, And scorns the labour of reluctant hands." Now with redoubled zeal he bends bis care The walls to strengthen, and the towers repair; The ransom'd captives to their homes restor'd, \ While those deserted by their cruel lord > Paid the dire forfeit of his broken word. 4 } Then to the Templars, bravest of the brave, The conquer'd town, important trust! he gave; 100 τ 2
-And bids his knights (nor were th^y loth) prepare For the long march, the toils and wounds of war, To quit her glittering domes, her citron shades, And the soft converse of her dark-eyed maids. But first from Acre to the Tyrian court The Austrian Duke, and proud Beauvais resort; Beauvais, who ere his limbs the hauberk wore, The pastoral staff and golden mitre bore. Them, charged with courteous speech, the Monarch sent, So might, perchance, the angry chief repent, 110 And Philip, still in friendly Tyre confined By adverse ocean, or his wavering mind. e ({ He \vho restrain'd the west'ring sun," he said, " And through the parted waves his chosen led, Again may open yon ætherial realm, With stones or fire an impious race to whelm; Yet wills not that presumptuous man despise The licens'd means his narrow skill supplies," Meanwhile the pilgrim host their course began; f First rode D'Avesnes, and either Lusignan, 120 The Templars, (all that Acre's safety spared), And brave Toulouse, for every chance prepared.
-Next with the centre royal England came j There round their King the glancing pennons flame; There from its towery height the standard flow'd, And princely dames on gentle palfreys rode. Otho, behind, th' Ausonian force commands, The Gallic chivalry, and Austrian bands j With him, in robes of glittering scarlet, moved The Champions of the Tomb, in combat proved. 130 Arm'd with their bows the yeomanry attend, And, sheathed in stubborn mail, the flanks defend; 8 While proudly riding o'er the purple tide, The copious fleet each rising want suppUed. h The air was calm, and every hill around Sent joyful echoes to the trumpet's sound; The morn was bright, and every golden ray Wanton'd ’mid tossing plumes and banners gay; The winding Belus past, and Menmon's tomb, And Kishon's stream, and Carmel's brow of bloom, And Shafamora, that sequester'd lies Beneath green ridges that successive rise To princely Lebanon, whose peaks of snow Shine o'er her dusky wilderness below; 'Mid many a fragrant herb they wander on Through the delightful plains of Zàbulon. тЗ
+Now with redoubled zeal he bends bis care<br>
+The walls to strengthen, and the towers repair;<br>
+The ransom’d captives to their homes restor’d,<br>
+While those deserted by their cruel lord<br>
+Paid the dire forfeit of his broken word.<br>
+Then to the Templars, bravest of the brave,<br>
+The conquer’d town, important trust! he gave;<br>
+And bids his knights (nor were they loth) prepare<br>
+For the long march, the toils and wounds of war,<br>
+To quit her glittering domes, her citron shades,<br>
+And the soft converse of her dark-eyed maids.<br>
+&emsp;But first from Acre to the Tyrian court<br>
+The Austrian Duke, and proud Beauvais resort;<br>
+Beauvais, who ere his limbs the hauberk wore,<br>
+The pastoral staff and golden mitre bore.<br>
+Them, charged with courteous speech, the Monarch sent,<br>
+So might, perchance, the angry chief repent,<br>
+And Philip, still in friendly Tyre confined<br>
+By adverse ocean, or his wavering mind.<sup>e</sup><br>
+&emsp;“He who restrain’d the west’ring sun,” he said,<br>
+“And through the parted waves his chosen led,<br>
+Again may open yon ætherial realm,<br>
+With stones or fire an impious race to whelm;<br>
+Yet wills not that presumptuous man despise<br>
+The licens’d means his narrow skill supplies,”<br>
+Meanwhile the pilgrim host their course began;<sup>f</sup><br>
+First rode D’Avesnes, and either Lusignan,<br>
+The Templars, (all that Acre’s safety spared),<br>
+And brave Toulouse, for every chance prepared.
+Next with the centre royal <span class="smallcaps">England</span> came;<br>
+There round their King the glancing pennons flame;<br>
+There from its towery height the standard flow’d,<br>
+And princely dames on gentle palfreys rode.<br>
+Otho, behind, th’ Ausonian force commands,<br>
+The Gallic chivalry, and Austrian bands;<br>
+With him, in robes of glittering scarlet, moved<br>
+The Champions of the Tomb, in combat proved.<br>
+Arm’d with their bows the yeomanry attend,<br>
+And, sheathed in stubborn mail, the flanks defend;<sup>g</sup><br>
+While proudly riding o’er the purple tide,<br>
+The copious fleet each rising want supplied.<sup>h</sup><br>
+The air was calm, and every hill around<br>
+Sent joyful echoes to the trumpet’s sound;<br>
+The morn was bright, and every golden ray<br>
+Wanton’d ’mid tossing plumes and banners gay;<br>
+The winding Belus past, and Menmon’s tomb,<br>
+And Kishon’s stream, and Carmel’s brow of bloom,<br>
+And Shafamora, that sequester’d lies<br>
+Beneath green ridges that successive rise<br>
+To princely Lebanon, whose peaks of snow<br>
+Shine o’er her dusky wilderness below;<br>
+’Mid many a fragrant herb they wander on<br>
+Through the delightful plains of Zabulon.<br>
+
 'Twas sultry noon,—'twas August,—yet the breeze From the tall hills, the near though hidden seas, Blew fresh and cool, while through the livelong day A thousand beauties cheat the weary way; 150 Around profuse the purple thistle grew,* That clothes whole regions in its gorgeous hue; While Nature's hand, eternal wonder! weaves A holy legend in its dappled leaves: Like that bright flower which still (as bards have sung) Laments the hero from whose blood it sprung;— That, the sad record of a heathen's shame— But this, of heavenly love and mercy's healing stream.f The yellow cassia, with its rich perfume, The cistus, lavish of its shortlived bloom, 160 Type of man's hopes, all lovely at their birth, But falling with the slightest touch to earth;
 A race as fair the next blythe morning weaves, And woos th' expecting gatherer, and deceives. There too that tree, whose rosy blossoms flame, As blushing to record a traitor's name; The name of him to self-destruction led' In vain repentance for his Lord betrayed. There loaded palms and ripening vines between The tall opuntia rears its prickly screen, I7Ö And round each ample leaf its flowers unfold Their rich festoons of crimson and of gold j* And there that cane, whence sweeter juice distils Than bees collect on Hybla's thymy hills. Ill fated plant î for man's delight design'd, But made by man the scourge of half his kind. How blest had ne'er a Norman ruler's hand, Pour'd the new nectar on Sicilia's strand! Thrice blest, had ne'er Iberian sails unfurPd, With this dire gift to curse th' Atlantic world. 1 180 All lovely yet appear'd that chosen land,'" Despite of war and Islam's iron hand. With awe they tread where e'en th' unconscious sod Was dear to memory, sacred to their God. Yet oh! how much more fragrant and more fair, When his celestial presence wander'd there! τ 4
 When earth, delighted, round his infant head Bade virgin flowers delicious odours shed; When serpents died, and every herb of ill, And native harvests redden'd every hill; 190 The thorny brakes with ruddy grapes were fiU'd, And the rough oaks a honied dew distill'd.* At Cana now the pilgrims pause, where first From the gross veil the present Godhead burst; Where, while through every heart amazement rush'd, " The conscious water saw its God and blush'd." Next at Saphura, reverend in decay, To Anna's shrine their duteous homage pay. n Till one fair eve, while lavish dews descend, And the clear stars attemper'd radiance lend, 200 Where the tall plane-trees join'd the acacia's shade, And through the turf a crystal fountain play'd, King <span class="smallcaps">Richard</span> pitch'd his camp, and all around Ten thousand tents coneeal'd the dusty ground. In haste the troops regale; with toil opprest They laid the helmet by, and sunk to rest. * Ipsa tibí blandos fundent cunabula flores. Occidet et serpens, et ŕaílax herba yeneni Occidet; ***** Molli paullaíi/n flavescet campus arista, IncultİMjııe rubens pendebit sentibus uva; Et duræ querei» sudabunt roscìda mella.
@@ -6254,3 +6390,5 @@ none of the house of Ayoub were likely to look with complacency on the worshippe
 [^94]: Israfil is one of the four Archangels; the angel of music, who is to sound the trumpet on the day of resurrection, and whose ravishing strains will delight the true believers in Paradise.
 
 [^95]: In one of Mahommed’s battles many of his followers were grievously wounded: but, at the Prophet’s prayer, the plant from which the balm of Gilead or Tolu is obtained, sprung up like a grove, and their gashes soon yielded to the force of the miraculous balsam. The Suras are the divisions or chapters of the Koran.
+
+[^96]: It was the custom for the vassal, when rendering homage, to present his sword to his Suzerain, and kneeling on one knee, with his hands between the knees of his feudal lord, to repeat the vow of fealty for such and such lands, saving his allegiance to some other lord for other lands and honours, or excepting such possessions as were unconditionally his own.
