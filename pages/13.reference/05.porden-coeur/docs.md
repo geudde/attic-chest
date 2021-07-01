@@ -5750,7 +5750,7 @@ And deadlier scorn on each swart visage sate.<br>
 As fades the moon, with wizard gloom o’erspread,<br>
 So darkness deepen’d, when the Peri fled;<br>
 Loud rose the voice of wrath, red lightnings glare<br>
-And all the furies fright the troubled air.
+And all the furies fright the troubled air.<br>
 What spell arrests the storm? below, around,<br>
 More felt than heard, and yet it seem’d a sound.<br>
 At once they pause, their inward fears betray,<br>
@@ -5790,7 +5790,7 @@ And fragrant rills in soothing murmurs flow.<br>
 Nor lack’d there tenderer blossoms, such as give<br>
 Th’ ambrosial scents by which the Peries live;<br>
 While all around, in rich profusion strown,<br>
-’Mid orient pearls the blushing coral shone;
+’Mid orient pearls the blushing coral shone;<br>
 Th’ amber’s liquid light, and many a gem,<br>
 Rare as the boast of Stamboul’s diadem.<br>
 Maimoune snatch’d a vase; in Paradise<br>
@@ -5838,7 +5838,7 @@ Rose with the sun, and blest his golden beams.
 <a id="book07"></a>
 # Book VII
 
-## The March to Arsouf.
+## The March to Arsouf
 
 Nor vain Moozallil’s threats: where’er it fell<br>
 His torch awaked the latent fires of Hell!<br>
