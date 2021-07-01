@@ -5469,12 +5469,124 @@ And on my casque thy proud egret will wear,<br>
 Nor wear dishonours; not thyself shall dare<br>
 To think it tarnish’d, when thou seest it there.”
 
-’Tis night, and Pardo with a chosen power Protects the gate that leads from David's tower. The rising moon two female forms betray'd, Who linger'd near, and seem'd to court the shade;
-Seized by his warriors, one of matron years, 600 Drops her coarse veil, and through contending tears Speaks of the robbers that had come by night, And insults to her child that counsel I'd flight. But accents gentle as the breeze that blows In amorous fragrance o'er the expanding rose, And sweet as murmurs of the streams that lave The frail Mimosa imaged in their wave, Reproving spoke:—" Dear guardian of my youth, Stoop'st thou to falsehood who hast taught me truth! Let guilt from fraud extort her poor defence, 610 But truth's the native guard of innocence. Oh, Knight! nor fear nor insult we endure, Still are the Haram's sacred bounds secure. The city's fate unknown, I calmly led Through folds of Syrian silk the golden thread, When shrieks of woe, resounding from the street, To the forbidden Golphor lured my feet. Alas í my sire, whose smile at eve and morn, Still told or promised of his safe return, Loav on a bier his senseless form was laid/ 620 With honour borne, yet honour'd as the dead; His bloody turban!—but I saw no more Till my thick veil my weeping damsels tore,
-And said Almanzor lived; but hence removed To Kaisan's camp, nor nursed by those he loved. Can ev'n the generous Saladine supply A daughter's cares, or read the asking eye? Then blame not that, emboldened by despair, I bade my nurse two barracans prepare,* Such as befit our meanest slaves alone, 630 So might we pass, I deem'd, unmark'd, unknown: But ah! how helpless and how weak a flower Is woman when she quits her guardian bower! Oh, let me seek its sacred walls again, To weep I left them, since I left in vain." " No, not in vain! behold a loyal knight Kneels at thy feet, and vows to aid thy flight; I grant thy wish, for I believe thy tale, Yet drop, one instant drop, that envious veil. Perchance (and I methinks should bless the hour) 640 The fate of war may lead me to thy bower; Warriors are rude when rushing from the field, And I would know thy beauties but to shield,"
-As shone the moon, then bursting from a cloud, So dawn'd Amina from her sable shroud. ’Tis not the diamonds in her raven hair, Or the strung jasmine wreath'd in contrast there, The golden links that round her ancles hung, The belt of perfume o'er her shoulder flung,* Her jewell'd caftan, or her shawl of gold, 650 That the gay youth in mute enchantment hold; But that fine form that match'd the palm in height, Firm as the cedar, as the acacia light; Those eyes, in which a chastened spirit dwells, Mild as the dove's, yet bright as the gazelle's. Perchance her cheek too warm a glow had won From the keen ray of Yemen's fervid sun, Yet o'er its charms the vivid blush that broke, Outvied Damascus' rose, when thus she spoke: " Not far are those who if this scene they guest, Might deem their daggers' fittest sheath my breast; Yet think not I a spotless fame despise, ~\ If at thy suit I drop my dark disguise, > Nor worse than death abhor a stranger's eyes. j
-Though now adorn'd with every Syrian art, To lure a master's gaze, not touch his heart; Such were not once my cares," she paus'd and sigh'd, tc Ere I was destined for Moheddin's bride: The new restraint my liberal soul disdains, For I was nurs'd on Yemen's happy plains, 670 Free as the soaring bird, the mountain gales, Or streams that leap, rejoicing, to the vales. My ardent spirit, from my dear kitarr Delights to call the inspiring strains of war, Or warriors' loves, but sickens when I suit Voluptuous accents to the Persian lute. I love to bend the bow, to urge the chase, And on th' unsaddled courser win the race; To dress my father's meal, and twine at eve Those webs tha* only Arab maids can weave ý 680 Where towering date-trees shade the saffron mead, m And tents are pitch'd, and peaceful camels feed j But weep, now doom'd to waste the breezy morn In joyless splendour, and in arts I scorn. Perchance in Syria yet my soul retains The Grecian fire that warm'd my mother's veins! The ire that kindled when she told her doom; Snatch'd by the ruthless Tartars from her home,
-In a rude sack borne o'er the burning sand, And sold, half-lifeless, to a stranger's hand." 690 But steps approach s"— she ceased, and closely drew The veil which Rezia o'er her features threw. t'c Be swift," cried Pardo, " bring my stoutest steed, Watch well the portal, I return with speed: For thee, bright damsel, I transgress, nor pause To risk my fame in beauty's sacred cause, Nor fear a generous King the deed will chide; To friendly hands I pledge me now thy guide; But duty then requires to break the spell, And my reluctant lips must breathe farewell." 700 Soon on the steed the grateful dames he placed, Unbarred the gates and led them forth in haste. By this the moon withdrew her guiding light, The dark dense vapours blot th' etherial height, From Carmel's brow the pealing thunders roar, And the full clouds their angry torrents pour. Unused to Nature's frown, Amina's breast Heaves with the fears she check'd, but scarce supprest. And Pardo, filtering in a doubtful track, Thinks how his Sovereign's trust commands him back, When sudden by th' electric flash was shewn A warrior near, iu armour, but alone.
+’Tis night, and Pardo with a chosen power<br>
+Protects the gate that leads from David’s tower.<br>
+The rising moon two female forms betray’d,<br>
+Who linger’d near, and seem’d to court the shade;<br>
+Seized by his warriors, one of matron years,<br>
+Drops her coarse veil, and through contending tears<br>
+Speaks of the robbers that had come by night,<br>
+And insults to her child that counsell’d flight.<br>
+But accents gentle as the breeze that blows<br>
+In amorous fragrance o’er the expanding rose,<br>
+And sweet as murmurs of the streams that lave<br>
+The frail Mimosa imaged in their wave,<br>
+Reproving spoke:—“Dear guardian of my youth,<br>
+Stoop’st thou to falsehood who hast taught me truth!<br>
+Let guilt from fraud extort her poor defence,<br>
+But truth’s the native guard of innocence.<br>
+Oh, Knight! nor fear nor insult we endure,<br>
+Still are the Haram’s sacred bounds secure.<br>
+The city’s fate unknown, I calmly led<br>
+Through folds of Syrian silk the golden thread,<br>
+When shrieks of woe, resounding from the street,<br>
+To the forbidden Golphor lured my feet.<br>
+Alas! my sire, whose smile at eve and morn,<br>
+Still told or promised of his safe return,<br>
+Low on a bier his senseless form was laid,<br>
+With honour borne, yet honour’d as the dead;<br>
+His bloody turban!—but I saw no more<br>
+Till my thick veil my weeping damsels tore,<br>
+And said Almanzor lived; but hence removed<br>
+To Kaisan’s camp, nor nursed by those he loved.<br>
+Can ev’n the generous Saladine supply<br>
+A daughter’s cares, or read the asking eye?<br>
+Then blame not that, emboldened by despair,<br>
+I bade my nurse two barracans prepare,[^90]<br>
+Such as befit our meanest slaves alone,<br>
+So might we pass, I deem’d, unmark’d, unknown:<br>
+But ah! how helpless and how weak a flower<br>
+Is woman when she quits her guardian bower!<br>
+Oh, let me seek its sacred walls again,<br>
+To weep I left them, since I left in vain.”<br>
+&emsp;“No, not in vain! behold a loyal knight<br>
+Kneels at thy feet, and vows to aid thy flight;<br>
+I grant thy wish, for I believe thy tale,<br>
+Yet drop, one instant drop, that envious veil.<br>
+Perchance (and I methinks should bless the hour)<br>
+The fate of war may lead me to thy bower;<br>
+Warriors are rude when rushing from the field,<br>
+And I would know thy beauties but to shield,”
+
+As shone the moon, then bursting from a cloud,<br>
+So dawn’d Amina from her sable shroud.<br>
+’Tis not the diamonds in her raven hair,<br>
+Or the strung jasmine wreath’d in contrast there,<br>
+The golden links that round her ankles hung,<br>
+The belt of perfume o’er her shoulder flung,[^91]<br>
+Her jewell’d caftan, or her shawl of gold,<br>
+That the gay youth in mute enchantment hold;<br>
+But that fine form that match’d the palm in height,<br>
+Firm as the cedar, as the acacia light;<br>
+Those eyes, in which a chastened spirit dwells,<br>
+Mild as the dove’s, yet bright as the gazelle’s.<br>
+Perchance her cheek too warm a glow had won<br>
+From the keen ray of Yemen’s fervid sun,<br>
+Yet o’er its charms the vivid blush that broke,<br>
+Outvied Damascus’ rose, when thus she spoke:<br>
+“Not far are those who if this scene they guest,<br>
+Might deem their daggers’ fittest sheath my breast;<br>
+Yet think not I a spotless fame despise,<br>
+If at thy suit I drop my dark disguise,<br>
+Nor worse than death abhor a stranger’s eyes.<br>
+Though now adorn’d with every Syrian art,<br>
+To lure a master’s gaze, not touch his heart;<br>
+Such were not once my cares,” she paus’d and sigh’d,<br>
+“Ere I was destined for Moheddin’s bride:<br>
+The new restraint my liberal soul disdains,<br>
+For I was nurs’d on Yemen’s happy plains,<br>
+Free as the soaring bird, the mountain gales,<br>
+Or streams that leap, rejoicing, to the vales.<br>
+My ardent spirit, from my dear kitarr<br>
+Delights to call the inspiring strains of war,<br>
+Or warriors’ loves, but sickens when I suit<br>
+Voluptuous accents to the Persian lute.<br>
+I love to bend the bow, to urge the chase,<br>
+And on th’ unsaddled courser win the race;<br>
+To dress my father’s meal, and twine at eve<br>
+Those webs that only Arab maids can weave;<sup>l</sup><br>
+Where towering date-trees shade the saffron mead,<sup>m</sup><br>
+And tents are pitch’d, and peaceful camels feed;<br>
+But weep, now doom’d to waste the breezy morn<br>
+In joyless splendour, and in arts I scorn.<br>
+Perchance in Syria yet my soul retains<br>
+The Grecian fire that warm’d my mother’s veins!<br>
+The ire that kindled when she told her doom;<br>
+Snatch’d by the ruthless Tartars from her home,<br>
+In a rude sack borne o’er the burning sand,<br>
+And sold, half-lifeless, to a stranger’s hand.”<sup>n</sup><br>
+But steps approach:”— she ceased, and closely drew <br>
+The veil which Rezia o’er her features threw.<br>
+&emsp;“Be swift,” cried Pardo, “ bring my stoutest steed,<br>
+Watch well the portal, I return with speed:<br>
+For thee, bright damsel, I transgress, nor pause<br>
+To risk my fame in beauty’s sacred cause,<br>
+Nor fear a generous King the deed will chide;<br>
+To friendly hands I pledge me now thy guide;<br>
+But duty then requires to break the spell,<br>
+And my reluctant lips must breathe farewell.”<br>
+&emsp;Soon on the steed the grateful dames he placed,<br>
+Unbarred the gates and led them forth in haste.<br>
+By this the moon withdrew her guiding light,<br>
+The dark dense vapours blot th’ etherial height,<br>
+From Carmel’s brow the pealing thunders roar,<br>
+And the full clouds their angry torrents pour.<br>
+Unused to Nature’s frown, Amina’s breast<br>
+Heaves with the fears she check’d, but scarce supprest.<br>
+And Pardo, filtering in a doubtful track,<br>
+Thinks how his Sovereign’s trust commands him back,<br>
+When sudden by th’ electric flash was shewn<br>
+A warrior near, in armour, but alone.
 " Whoe'er thou art, for by this fitful light III may I read thy lofty crest aright, Now by thy spurs, I bid thee aid the fair! Now for the love of holy knighthood swear, Ere Carmel's brow with orient crimson shine, To lead these Arab maids to Saladine." rt In simple faith the precious charge to guide Be mine," the youth in Eastern speech replied. /20 " Though I, uncall'd, assume the knightly crest, Believe that honour fills an Arab's breast; I will not sue to hear that maiden's tale, Or see one eye beneath her half-raised veil." i£ And wilt thou leave me," sigh'd the trembling fair, " And leave me thus, beneath a stranger's care?" " Alas! sweet maid, may ne'er thy tender heart Be torn like mine,—unwilling I depart. Thy charms this night have lured me to forget A duty that was never irk i/ise yet; 730 While back to Acre's joyless walls it leads, My thoughts will linger where Amina treads."— "Thus, then," sheanswered, t'í if wc here must sever, Thus, like this jasmine, and, alas! for ever, At least forget not ere its bloom decline The maid w hose heart shall аоге each word of thine."
 Then drooping her fair head, she parts in haste The fragrant blossoms on her bosom placed; And had a ray been there, th' enamour'd Knight Had found a tear upon its starry white. 740 " No, till my death thy memory will be sweet, If—but brave Arab we at least shall meet; Ere this I should have ask'd with timely fear, Thy name, and what thy secret purpose here." (i My name I tell not полу, but thou may'st guess My daring hope, that, careless in success, Some ilb-watch'd fort might yield our valour way, And night reverse the glories of the day.— I hoped in vain—farewell, till time shall shew Thy faithful friend, at least thy generous foe; 7^0 My blue egret shall mark me in the field."— " And me the milkwhite gauze that veils my shield," Rejoin'd young Pardo, as with hasty tread And sinking heart he left the weeping maid. Scarce on his midnight watch again he stood When Albert came, and mark'd his musing mood. '* What! my best friend, my Pardo, art thou sad, (Thou ever gay I) when all around are glad? VOL. I. fc.
 If budding honour thus tby spirit tame, Heaven shield thee from thy growing weight of fame! Come, I must rob thee of this gate's command, Thy last night'» toii, thy wound, this rest demand; Go to thy couch—nay, why that louring brow, Thou prompt'st the taunt I never thought till now: I will not say ’tis deep, but there is one Who loves thee as thou wert indeed his son; How would he grieve to see thy spirit lost, How mark that sigh! Come, I must have thy post. Thine is an eye that knows the spells of sleep, We love-lorn souls, thou say'st, but watch and weep; If we must watch, it little matters where—<span class="smallcaps">Richard</span>and Love's commands alike I bear; Yield to whichever shall р!еазе thy fancy best, Thy friend's intreaty, or thy King's behest." " To both," he cried, " and leave to thee the light, Thy laughing brow has stolen from mine to night j It may be that I feel a wound forgot, That I am weary, though I knew it not." But what bright image haunts his heated brain, And frights that slumber, ne'er implored in vain? 780 " An infidel, another's destined bride, I could not love, if love were mine," he cried.
@@ -5881,3 +5993,7 @@ none of the house of Ayoub were likely to look with complacency on the worshippe
 [^88]: Leopold changed his armorial bearings after the siege of Acre. His original shield was, six Larks Or, in a field of Azure. The story is that at one battle during the siege, he fought so bravely that his armour was entirely covered with blood, save his belt, which remained white. In commemoration of this circumstance, the Emperor assigned to him and his successors their new device, Gules, a fess Argent.
 
 [^89]: The sons of Esculapius may be interested to learn that this was no less a personage than Richard de Higel, Bishop of London, and the first who is mentioned as bearing the title of King’s Apothecary. In our degenerate days the functions of “soul-curer and body-curer” are not ordinarily thus united; but the clergy engrossed all the little learning of that semi-barbarous age, and the practice of pharmacy was not uncommon, even in the highest dignitaries.
+
+[^90]: A large mantle or outer garment of dark brown cloth, which completely conceals the dress and rank of the wearer. These are worn by the women of the East when they go abroad. Those belonging to the lower classes are very coarse in their texture.
+
+[^91]: This is a broad belt, formed of the choicest spices, and slung over one shoulder. The golden anklets are often massive to a very inconvenient degree.
