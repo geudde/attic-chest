@@ -5294,12 +5294,99 @@ His silent gratitude communed with Heaven.
 
 Meanwhile with Saladine the heralds met,<br>
 And vain demands drew on a vain debate;<br>
-Till hark! that shriek from shuddering Islam sent! He draws the silken curtains of his tent,—
-One look reveals the whole; his sickening sight Turns from that Cross on Acre's ramparts bright. That slow disease, still watchful for the hour When cankering cares the harass'd frame devour,430 Holds its permitted reign, and round their lord His servants tremble for a life adored. h Nor envious Philip read with less affright A rival's fame on every banner'd height; His avarice by that prompt success betray'd, His promised glories sunk in sudden shade. But Austria's crafty Duke, whose thirst of gold, His love, his hate, and even his fears controll'd, Resolves to share the spoil;—he calls his powers, Flies to the town, and mounts the conquer'd towers, And (for no banner there in mastery shone) His flag, presumptuous, marks them as his own. His troops, whose scanty hire but ill was paid,* For pillage ripe, his welcome call obey'd j With Bertrand join'd, their bloody way they force, And shrieks, and flames, and ruin mark their course.,и 2
-But полу the King, attentive to lepair The yawning breach his fury batter'd there, Inspects th' Accursed Tower,—amazed, he knew The golden Larks upon their field of blue. 450 " What means this insult? By those powers that crown My conquering arms, I bid the pageant down! Say whence, proud Duke, this daring madness springs, To mate tby banner with the badge of Kings?' Even on this tower, beneath that conscious sun Which saw its ramparts by my valour won, Canst thou believe I tamely will behold Another's flag? the flag of Leopold? Sooth! were thine own Imperial Suzerain near, He well might dread to plant his eagle here. 460 Conrad alone, that Heaven and man defies,— But words are idle,—there thy banner lies!" Even as he spoke, beneath his sword it falls, Th' offending ensign tumbles from the walls; 'Mid heaps of carnage in the moat it roll'd, And dust and blood defiled the gaudy gold. In wonder speechless stood its raging lord, His threatening eyes flash fire, he grasps his sword. ** Hold! haughty Chief," again the Monarch spoke, " Nor farther yet my righteous ire provoke, 4J0
-I dread thee not;—yet pardon if my tongue, By sudden anger moved, have done thee wrong. What though sole victor o'er this stubborn town, The glory is and shall be all my own; I know the rights of three long years of toil, And thou, and all, shall share her lawful spoil; But I endure no plunder—late I knew A lawless band, who bore thy cross of blue:— Recall them, for should one red hand be stain'd With needless blood, one sacred shrine profan'd, 480 By Heaven's bright throne, though Lydia's gold were there, And India's gems, that wealth they should not share." Many there are to dare, but not uphold The guilty deed, and such was Leopold. Brave as the best, if valour lie alone In shedding blood, or lavishing our own, Opinion bound him in her stern control, Nor he, like Conrad, ruled the shrinking soul. If ever worth or rank might envy claim, He envied Richard, long'd to blast his fame, 490 Yet dared not полу his kindled ire resent; Muttering and pale again he sought his tent. r 3
-ί( Enjoy thy triumph, Prince! and think my hate Short as thy wrath, but thou shalt feel it yet; This outraged flag, which long my fathers bore, This outraged banner Austria bears no more.* What though in flowers I deign my sting to hide, ’Tis but more surely to abase thy pride; The shallow waters chafe, but where they sleep Lurks danger most, for they are dark and deep." 500 But now the King, for all alike prepared, Surveys the town, the towers, appoints the guard; Gracious to all, a just attention paid, Captive and friend, the dying and the dead. Freed from th* incumbent load, a warlike bier Now Rodney graced, and claim'd a passing tear; Twined round his mangled limb, the Monarch's eyes Itb azure cincture mark, and thus he cries: " Lo 1 first of those to whom that badge I gave, The gallant Rodney bears it to his grave: 510
-Thus may ye live to glory,—thus may all In life adorn it, honour in their fall. But say—w r ho now the vacant prize shall grace, Who best deserves to fill a hero's place?— Thanks, my brave Peers, for this your silent voice, Those speaking looks that single out my choice. Pardo, if right thy generous heart I see, Nor rank nor riches have such charms for thee; This kindled envy once—young Knight, t'were wrotig, That heart like thine should strive with envy long;520 With thee our fame in Acre's fall is shared, Nor favour gives it, ’tis thy just reward. Long since my love had given, and love alone Deferr'd the guerdon, till thy worth had won." From his own knee meanwhile with ready hand He loosens, and presents the azure band. But Pardo's swelling heart no words supplied, "\ Kneeling he kiss'd the badge, and flew to hide \ The bursting stream of gratitude and pride. J " One debt remains," the generous Monarch said, " A Knight whose shield a clouded moon displayed, Whose legend mourn'd injustice—if severe His hurt forbid not, lead the warrior here." Borne on a litter came the wounded Knight, And shunn'd with downcast looks his Sovereign's sight. 4
+Till hark! that shriek from shuddering Islam sent!<br>
+He draws the silken curtains of his tent,—<br>
+One look reveals the whole; his sickening sight<br>
+Turns from that Cross on Acre’s ramparts bright.<br>
+That slow disease, still watchful for the hour<br>
+When cankering cares the harass’d frame devour,<br>
+Holds its permitted reign, and round their lord<br>
+His servants tremble for a life adored.<sup>h</sup>
+
+Nor envious Philip read with less affright<br>
+A rival’s fame on every banner’d height;<br>
+His avarice by that prompt success betray’d,<br>
+His promised glories sunk in sudden shade.<br>
+But Austria’s crafty Duke, whose thirst of gold,<br>
+His love, his hate, and even his fears controll’d,<br>
+Resolves to share the spoil;—he calls his powers,<br>
+Flies to the town, and mounts the conquer’d towers,<br>
+And (for no banner there in mastery shone)<br>
+His flag, presumptuous, marks them as his own.<br>
+His troops, whose scanty hire but ill was paid,[^87]<br>
+For pillage ripe, his welcome call obey’d;<br>
+With Bertrand join’d, their bloody way they force,<br>
+And shrieks, and flames, and ruin mark their course.<br>
+But поw the King, attentive to repair<br>
+The yawning breach his fury batter’d there,<br>
+Inspects th’ Accursed Tower,—amazed, he knew<br>
+The golden Larks upon their field of blue.<br>
+“What means this insult? By those powers that crown<br>
+My conquering arms, I bid the pageant down!<br>
+Say whence, proud Duke, this daring madness springs,<br>
+To mate thy banner with the badge of Kings?<sup>i</sup><br>
+Even on this tower, beneath that conscious sun<br>
+Which saw its ramparts by my valour won,<br>
+Canst thou believe I tamely will behold<br>
+Another’s flag? the flag of Leopold?<br>
+Sooth! were thine own Imperial Suzerain near,<br>
+He well might dread to plant his eagle here.<br>
+Conrad alone, that Heaven and man defies,— <br>
+But words are idle,—there thy banner lies!”<br>
+Even as he spoke, beneath his sword it falls,<br>
+Th’ offending ensign tumbles from the walls;<br>
+’Mid heaps of carnage in the moat it roll’d,<br>
+And dust and blood defiled the gaudy gold.<br>
+In wonder speechless stood its raging lord,<br>
+His threatening eyes flash fire, he grasps his sword.<br>
+&emsp;“Hold! haughty Chief,” again the Monarch spoke,<br>
+“Nor farther yet my righteous ire provoke, 4J0
+I dread thee not;—yet pardon if my tongue,<br>
+By sudden anger moved, have done thee wrong.<br>
+What though sole victor o’er this stubborn town,<br>
+The glory is and shall be all my own;<br>
+I know the rights of three long years of toil,<br>
+And thou, and all, shall share her lawful spoil;<br>
+But I endure no plunder—late I knew<br>
+A lawless band, who bore thy cross of blue:—<br>
+Recall them, for should one red hand be stain’d<br>
+With needless blood, one sacred shrine profan’d,<br>
+By Heaven’s bright throne, though Lydia’s gold were there,<br>
+And India’s gems, that wealth they should not share.”<br>
+&emsp;Many there are to dare, but not uphold<br>
+The guilty deed, and such was Leopold.<br>
+Brave as the best, if valour lie alone<br>
+In shedding blood, or lavishing our own,<br>
+Opinion bound him in her stern control,<br>
+Nor he, like Conrad, ruled the shrinking soul.<br>
+If ever worth or rank might envy claim,<br>
+He envied <span class="smallcaps">Richard</span>, long’d to blast his fame,<br>
+Yet dared not полу his kindled ire resent;<br>
+Muttering and pale again he sought his tent.<br>
+&emsp;“Enjoy thy triumph, Prince! and think my hate<br>
+Short as thy wrath, but thou shalt feel it yet;<br>
+This outraged flag, which long my fathers bore,<br>
+This outraged banner Austria bears no more.[^88]<br>
+What though in flowers I deign my sting to hide,<br>
+’Tis but more surely to abase thy pride;<br>
+The shallow waters chafe, but where they sleep<br>
+Lurks danger most, for they are dark and deep.”<br>
+&emsp;But now the King, for all alike prepared,<br>
+Surveys the town, the towers, appoints the guard;<br>
+Gracious to all, a just attention paid,<br>
+Captive and friend, the dying and the dead.<br>
+Freed from th’ incumbent load, a warlike bier<br>
+Now Rodney graced, and claim’d a passing tear;<br>
+Twined round his mangled limb, the Monarch’s eyes<br>
+Its azure cincture mark, and thus he cries:<br>
+&emsp;“Lo! first of those to whom that badge I gave,<br>
+The gallant Rodney bears it to his grave:<br>
+Thus may ye live to glory,—thus may all<br>
+In life adorn it, honour in their fall.<br>
+But say—who now the vacant prize shall grace,<br>
+Who best deserves to fill a hero's place?—<br>
+Thanks, my brave Peers, for this your silent voice,<br>
+Those speaking looks that single out my choice. Pardo, if right thy generous heart I see, Nor rank nor riches have such charms for thee; This kindled envy once—young Knight, t'were wrotig, That heart like thine should strive with envy long;520 With thee our fame in Acre's fall is shared, Nor favour gives it, ’tis thy just reward. Long since my love had given, and love alone Deferr'd the guerdon, till thy worth had won." From his own knee meanwhile with ready hand He loosens, and presents the azure band. But Pardo's swelling heart no words supplied, "\ Kneeling he kiss'd the badge, and flew to hide \ The bursting stream of gratitude and pride. J " One debt remains," the generous Monarch said, " A Knight whose shield a clouded moon displayed, Whose legend mourn'd injustice—if severe His hurt forbid not, lead the warrior here." Borne on a litter came the wounded Knight, And shunn'd with downcast looks his Sovereign's sight. 4
 CŒUR DE LION. »оок vi. But vainly he a well known face coneeal'd, The Monarch paus'd, then rais'd the pictur'd shield: t'í Say, my young friend, what clouds thy opening morn? What wrongs oppress, what injury hast thou borne? Why dost thou fight disguised? why leave behind 540 Thy train, nor give thy banner to the wind? Why not to me thy secret sorrows bring, And claim his ready justice from thy King?— Thou answer's^ not, De Carreo í must I then, Where I had hoped to praise, reprove agen? The forest laws my royal fathers framed, By tby rash youth were outraged, and I blamed: For this resign s't thou thy paternal state? Was I unjust } or think'st thou I forget The blood that from the Chiefs of Norway springs, Thy sires ennobled ere my own were Kings? Through whom my father's yoke proud Gwyneth bore, Through whom I rule Ierne's emerald shore; Thy noble parent, in whose guardian power My mother rests, and Windsor's regal tower? Or think'st thou I forget his loyal son Who for my menaced life exposed his own? Give mc thy banner j"—once again outspread, \ The silver saltier parts the sanguine red. > He lopp'd the pennon's forked points, 1 and said— 7
 " Disdain not from a grateful Sovereign's hand A nobler banner, and enlarged command; To thee the fame of Othoer's race I trust: Now prove him false that called his King unjust."" " Now most unjust," the blushing youth replied, " My pride transgress'd, and thou reward'st my pride. What wond'rous power thy princely soul displays, With gifts to humble, with reproof to raise! How I receive the lesson, Sire, my speech Is poor to utter, but my life shall teach." 570 Faint he sunk back, the King's attentive mind To his own Leech th' exhausted Knight consign'd.* Then sought Almanzor's couch, whose desperate hand Tore from his bleeding brow the healing band: Unmoved by Ermengard, he mocks his prayers, His pious skill, and unrelaxing cares, And vows that never Infidel shall shed His hateful ointments on a Hadji's head.
 ί( Brave Emir," spoke the King with generous heat, " I love that spirit, proudest in defeat; Yet for thy future fame consent to live, And ask whate'er a Monarch's power can give." 580 el What canst thou give, thou murderer of my fame, Thou canst not give me back a warrior's name! Yes! I will live, but live alone that thou May'st lie my thrall, as I before thee now; A living victim long thou should'st not be, I scorn thy mercies, Christian dog, and thee. Yet if thy words be not the idle breath Of one whose secret malice seeks my death, Send me to him I love, and Saladine Shall teach to quell that arm which humbled mine." tc So be it, Prince, as to thy grasp I yield This glove, my pledge to meet thee in the field, And on my casque thy proud egret will wear, } Nor wear dishonours; not thyself shall dare > To think it tarnish'd, when thou seest it there." J ’Tis night, and Pardo with a chosen power Protects the gate that leads from David's tower. The rising moon two female forms betray'd, Who linger'd near, and seem'd to court the shade;
@@ -5708,3 +5795,7 @@ none of the house of Ayoub were likely to look with complacency on the worshippe
 [^85]: At the time when Saladine approached the Holy City, after the battle of Tiberias, in which Lusignan was made prisoner, and at the moment when the deputies refused to surrender the town, a great eclipse of the sun “left all at once the heavens in darkness,” which was interpreted as an evil omen to the Christians.
 
 [^86]: Historical.
+
+[^87]: As in this Crusade each Chief was obliged to support his own troop, the leaders generally allotted a fixed stipend to each man.
+
+[^88]: Leopold changed his armorial bearings after the siege of Acre. His original shield was, six Larks Or, in a field of Azure. The story is that at one battle during the siege, he fought so bravely that his armour was entirely covered with blood, save his belt, which remained white. In commemoration of this circumstance, the Emperor assigned to him and his successors their new device, Gules, a fess Argent.
