@@ -6119,7 +6119,7 @@ A softer power to enervate the blade;<br>
 Yet not too long I trust that witching eye,<br>
 I know my danger, and have strength to fly.”<br>
 &emsp;Piqued at his coldness, vowing that his heart<br>
-Should yet be hers if she had charms or art,
+Should yet be hers if she had charms or art,<br>
 She ponder’d on his words, and vainly tried<br>
 To pierce the secret sense they seem’d to hide.<br>
 (The voice, through the barr’d vizor heard alone,<br>
@@ -6141,7 +6141,7 @@ The jetty cohol to enhance their fire?<br>
 Or would she brook to waste a morning’s care,<br>
 The jasmine twining in her sable hair,<br>
 While stiff with gems her radiant vesture shone,<br>
-To please one cold or jealous eye alone?
+To please one cold or jealous eye alone?<br>
 No! for she emulates that orb divine<br>
 Whose sultry beams on all creation shine,<br>
 And brighter arms her eyes’ destructive ray,<br>
@@ -6251,8 +6251,41 @@ Or prudence, levelled by a random blow;<br>
 No space is theirs to charge or to career,<br>
 Skill, valour, strength, alike are frustrate here.
 
-At length a hoary wood the heights o'erspread j ч With caution due the harass'd host survey'd, V And hope for safety in its friendly shade; y Yet deeply marvel that the Soldan's care, Of late so wakeful, plants no ambush there! The hasty trench is dug, the frequent stroke 410 Fells for the solid fjence the knotty oak, While the lopp'd branches, heap'd in many a pjre, Prepare to guard the forest camp with fire. One half the host their anxious vigils keep, Stretched on their arms, the rest solicit sleep. vol. i. и
-But ьооп their minds disastrous thoughts invade, With withering hue they scan the wond'rous shade; What though no mighty stems, luxuriant, wove Their boughs umbrageous, patriarchs of the grove, The tninkswere white with age, with moss o'ergrown, Deform'd, and struggling with th' incumbent stone. Not like those woods where Nature's hand profuse A thousand forms displays, a thousand hues, Where all the children of the hill combine; Nor like those stately sheets of towering pine Whose graceful pyramids on Jura rise, And blend her misty summits with the skies:— One rounded dwarfish form, one sullen leaf, Clothes the'wide forest in perennial grief; One leaf that, when the naked Winter mourns, 430 Fades not, nor brightens when the Spring returns.' In vain their foes have fled the fatal wood, No rest they found, by deadlier ills pursued. Fiends, that to grieve the noble Tancred there, Could erst the form of armed Clorinda bear, Or wore Armida's smiles, but wore in vain, Send the loud shriek, and clank the heavy chain. Cold poisonous serpents hiss along the ground, The vulture screams, the lion roars around,
+At length a hoary wood the heights o'erspread;<br>
+With caution due the harass'd host survey'd,<br>
+And hope for safety in its friendly shade;<br>
+Yet deeply marvel that the Soldan's care,<br>
+Of late so wakeful, plants no ambush there!<br>
+The hasty trench is dug, the frequent stroke<br>
+Fells for the solid fence the knotty oak,<br>
+While the lopp'd branches, heap'd in many a pyre,<br>
+Prepare to guard the forest camp with fire.<br>
+One half the host their anxious vigils keep,<br>
+Stretched on their arms, the rest solicit sleep.<br>
+But sооп their minds disastrous thoughts invade,<br>
+With withering hue they scan the wond'rous shade;<br>
+What though no mighty stems, luxuriant, wove<br>
+Their boughs umbrageous, patriarchs of the grove,<br>
+The trunks were white with age, with moss o'ergrown,<br>
+Deform'd, and struggling with th' incumbent stone.<br>
+Not like those woods where Nature's hand profuse<br>
+A thousand forms displays, a thousand hues,<br>
+Where all the children of the hill combine;<br>
+Nor like those stately sheets of towering pine<br>
+Whose graceful pyramids on Jura rise,<br>
+And blend her misty summits with the skies:—<br>
+One rounded dwarfish form, one sullen leaf,<br>
+Clothes the wide forest in perennial grief;<br>
+One leaf that, when the naked Winter mourns,<br>
+Fades not, nor brightens when the Spring returns.<sup>t</sup><br>
+In vain their foes have fled the fatal wood,<br>
+No rest they found, by deadlier ills pursued.<br>
+Fiends, that to grieve the noble Tancred there,<br>
+Could erst the form of armed Clorinda bear,<br>
+Or wore Armida's smiles, but wore in vain,<br>
+Send the loud shriek, and clank the heavy chain.<br>
+Cold poisonous serpents hiss along the ground,<br>
+The vulture screams, the lion roars around,
 And ever where the thickest branches play'd 440 His dreadful eyes are twinkling in the shade. With naked swords the affrighted warriors hear, Their snorting steeds are bathed in dews of fear \ In vain industrious hands provoke the fire, The rebel flames in dust and blood expire. With sad funereal sound the moaning breeze Swells to a storm, and bends the stubborn trees; The thunder roars, the forked flash appals, And sanguine rain, that blisters where it falls; To each scared wretch his ghastly comrade seems 450 Like those pale forms that haunt distemper'd dreams. Loud scream'd the owl, the raven croaking flew, E'en darkness wore a strange unnatural hue, And her black void is fill'd with shapes of woe; Terrific sights, that day shall never know. Now valour falters,—they that proudly bore The brunt of battle, are themselves no more; Fearless alone, Plantagenet imparts His own brave spirit to their sinking hearts; Cheers, strengthens all—till now at random thrown On a vast slab of dark and rugged stone, Beyond that joyless scene his fancy soars, Reviews the past, the future page explores; и '2
 When lo! a blaze of fiercer lightning came, The wood is radiant with a lambent flame; Shrill shrieks succeed,—Evanthe pale, aghast, Bursts through the adverse boughs and rushes past; Foaming with rage, a ravenous beast pursued, And dreadful roarings echo through the wood; From its broad shoulders streamed its shaggy hair,470 And its red eyes with rage portentous glare. No time to seek the spear or draw the blade, Dauntless he rushed to screen the affrighted maid; O'er his stout arm his velvet mantle wound, And, undismayed, receives the dreadful bound; Huge claws and gnashing teeth in vain assail, Entangled, blunted by his woven mail; Till, as more wide the furious jaws expand, Down the fell throat he thrusts his mighty hand. Tears with resistless force its heart away, 480 And far before him casts the lifeless prey. u Evanthe next he seeks,—with 'wildered look Her slender arms entwined a rugged oak; But, with the weight of gratitude opprest, She comes, she falls on her deliverer's breast. Loose are her tresses, bare her rounded arms, Their faded hue gives interest to her charms,
 Till, as new light inspires her opening eyes, On her pale features burning blushes rise, And, starting from his hold, she strives to hide 490 Her glowing face, and sinks at <span class="smallcaps">Richard’s</span> side. " Oh! why again so generous? wherefore save A wretch, whose only hope is now the grave? Why, why for me so dear a life expose? Too well, alas! this wretched bosom knows, Too deeply feels the gratitude it owes." Astonished at her words, perplexed, amazed, Reproving, pitying half, the Monarch gazed, While o'er his soul, but whence he knew not, came The fascination of that mystic dream, 500 Which, when he slumber'd in th' expiring storm, In added grace fore?hewed the stranger form. But soon his better thoughts the spell resist, He answer'd calm, as though his ear had miss'd The sense of words by strong emotion wrung, Unknown, at least unbidden from her tongue. "Nay, rate not thus," he spoke, * 4 illustrious maid! So slight a service,—in itself repaid. Thou tremblest yet!—let Berengaria's care Thy terrors soothe, thy harass'd frame repair. 510 ü3
