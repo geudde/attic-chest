@@ -5967,7 +5967,7 @@ The licens’d means his narrow skill supplies,”<br>
 Meanwhile the pilgrim host their course began;<sup>f</sup><br>
 First rode D’Avesnes, and either Lusignan,<br>
 The Templars, (all that Acre’s safety spared),<br>
-And brave Toulouse, for every chance prepared.
+And brave Toulouse, for every chance prepared.<br>
 Next with the centre royal <span class="smallcaps">England</span> came;<br>
 There round their King the glancing pennons flame;<br>
 There from its towery height the standard flow’d,<br>
@@ -6047,7 +6047,8 @@ To Anna’s shrine their duteous homage pay.<sup>n</sup><br>
 Till one fair eve, while lavish dews descend,<br>
 And the clear stars attemper’d radiance lend,<br>
 Where the tall plane-trees join’d the acacia’s shade,<br>
-And through the turf a crystal fountain play’d, King <span class="smallcaps">>Richard</span> pitch’d his camp, and all around<br>
+And through the turf a crystal fountain play’d,<br>
+King <span class="smallcaps">>Richard</span> pitch’d his camp, and all around<br>
 Ten thousand tents conceal’d the dusty ground.<br>
 In haste the troops regale; with toil opprest<br>
 They laid the helmet by, and sunk to rest.<br>
