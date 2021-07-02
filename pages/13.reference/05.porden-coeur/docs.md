@@ -7203,7 +7203,7 @@ As on his couch a lingering moon he lay, Bright rainbow visions wiled its lapse 
 
 ## Book I
 
-<a id=""note01-a"></a>
+<a id="note01-a"></a>
 Note (a), page 8, line 42. *Alkarmel, fellest of Messiah’s foes*.
 
 Mount Carmel is memorable in Sacred History as the spot on which Elijah confounded the priests of Baal, and also as the scene of his retirement. The cavern which the Prophet inhabited is still shewn. This mountain seems to have been indeed one of those “high places” selected for religious ceremonies in all ages, and to have witnessed them in all their variety. After the fire of Heaven had thus once destroyed idolatry, we have the authority of Suetonius, that a pagan divinity of the same name with the mountain was worshipped there. He had an altar, and sacrifices, but no temple or statue. Him the Romans transformed into the Carmelian Jove, to whom Vespasian offered a sacrifice, when he came into Syria to subdue the rebel Jews. The Convent of the Virgin next occupied the height; it was in its turn profaned by Mahommedan superstition, but was afterwards restored, and gave rise to the military order of “Our Lady of Mount Carmel,” instituted by Henry the Fourth of France. I believe this convent is still in existence. Carmel has shared the fate of the rest of Syria, where neglect and oppression have made a desert of regions that nature formed a garden. Its summit is craggy, but even there a few wild vines and olive trees attest the fertility for which it was once so famous, and whence it derived its name, Carmel signifying in Hebrew, “the vine of God.” The mountain forms one of the most remarkable headlands on the coast of the Mediterranean.&#160;<a href="#ref01-a" class="footnote-backref">↩</a>
