@@ -7248,7 +7248,7 @@ And presents given, and fix’d th’ auspicious hour,<br>
 When droop’d the nymph—in vain the Imaums pray’d,<br>
 Or bound with holy scrolls her burning head;<br>
 Pale as the unconscious tenant of the tomb,<br>
-Or blossom withering in the hot simoom,
+Or blossom withering in the hot simoom,<br>
 Her spark of life seems twinkling to expire;<br>
 So Rezia weeping said—her wretched sire<br>
 Explores a cause in vain, but none can tell,<br>
@@ -7310,19 +7310,300 @@ And strove the sins of early life to clear<br>
 By fast and prayer, and penitence austere,<br>
 Despite of texts inwoven with his mail,<br>
 Falls, nor his Prophet nor his prayers avail.<br>
-Thus (like Hyperion, when his orient ray Gives gracious promise of a golden day) While the young hero track’d his way with blood, Aghast in wonder hoary veterans stood; E’en Cœur ώβ Lion check’d his foaming horse, 740 Amazed, exulting in his favourite’s force. A Christian Knight,—but let the page of fame Refuse its record to the dastard’s name—,ζ 2
-By Aladm’s ungated sword pursued, Sought fatal refuge in th’ Enchanted Wood; He sought and found—for through the waving leaves White vests and glittec’mg arms the Prince perceives; Nor longer for the craven’s blood he burn’d .But from the grove his docile charger turn’d; An instant sees him at Zorayda’s side. 750 “ Bright moon of earth, ray soul’s best gem,” he cried, “ Vain is our struggle here, our valour vain, 4 He who could yonder wolf of war restrain \ Might bid the wither’d leaves be green again. J * Yet if for vengeance pine my injur’d love, The Monarch’s Haram waits in yonder grove, Slight seems the guard, not slight our triumph won If in his consort’s fate we rule hib own.” Strong in the wilüng aid of Almahide They quit the field, and through the forest ride; 760 And soon they came where, fearless of a snare, Far from the clash of arms, the shouts of war, Each royal beauty through the waving shade Seem’d nymph, or dryad of the shadowy glade; Anxious, yet calm, their thoughts to heaven addrest, With pious hopes they charm their fears to rest.
-The reckless Hermesind, in smiles arraj’d, Lists to Ricardo, who beside her laid, Pours his delicious flattery on her ear, Or turns with looks of livelier joy;o hear 770 Her converse brilliant, sprightly, and refined, But like the dew, that leaves no trace behind. Unhappy youth, forbear the moonlight grove, Break thy soft lute, and cease thy songs of love; Nor hope, bewilder’d in her witching snare, To touch that heart, if yet a heart bc there. Drown Love in War:—and hark! that war is near, On his smooth shield rings Albert’s warning spear; And fifty warriors, starting at the sound, In steely phalanx guard their treasure round. 780 His vizor down, his ashen spear in rest, ‘Gainst Aladin the ready Albert prest; But he, who saw th’ expected prize so nigh, Disdains the single fight, and past him by. Not so Noureddin’s child; with lance opposed She meets her foe, and soon in combat closed; Both hope an easy spoil, and grieve to feel A warrior worthy of their practised steel. Meanwhile the Persian Prince and Gallic maid With baleful eyes the iron ring survey’d. 79J z í)
-lil vain with taunts they rouse each faithful knight, Each curbs his rising wrath, and shuns the fight; While sure destruction threatens him who dares To rush, unhappy, on their hedge of spears. But the young warrior, tempering force with skill, Aims his light dart, to torture not to kill; Helias’ steed receives the smarting wound ^ In his left eye, and flinging to the ground ν His startled lord, he spreads confusion round. J The line thus broke, prepared the Persian stood, 800 His vantage seized, and bathed his sword in blood.— The Pisan Ugo welters in his gore, Iberian Carlos sinks to rise no more; Carlos, who loved the proud Castilian maid, Whose heartless taunts his faithful vows repaid His life unblest, yet happy in his death, Since for her sake he yields his wretched breath. Her lover’s dec is Zorayda’s soul inspire, Her pride they kindle and her envy fire; She spares not those of Gaul’s paternal soil, 810 Nor those once dear in Albion’s happy isle. Where each devoted ivarrior seeks alone ч His sovereign’s safety, and neglects his own, > Rich were her spoils, her laurels cheaply won. j
-Of fifty, late the guardians of the shade, Cold on the turf are thirty heroes laid; While scarce the rest their ponderous arms sustain, And with a sanguine deluge bathe the plain. Count Mirlo piercing in her mad career, (Her cousin once, when France or kin were dear.)82J Now through the broken ring the fury flies, And hope already grasps th’ expected prize; Evanthe, sickening, faints in mute despair, With clasped hands Matilda sinks in prayer; While Berengaria from a lifeless hand Snatch’d the broad shield, and waved the shiningbrand. “ Death, not pollution for a hero’s bride, For <span class="smallcaps">Richard’s</span> Queen 1” th’ intrepid beauty cried. “■ For <span class="smallcaps">Richard’s</span> Queen!” her ruthless foe replied; {f And who art thou that därest such rank assume? 830 False bird, this hand shall strip thy borrow’d plume.” But Albert sees, no more can Almahide Detain the Knight, he seek his Sovereign’s side; What demon then might match Zorayda’s rage, Again compell’d a desperate strife to wage? Robb’d of a prize that seemed already won, Her glory tarnished, and her vengeance gone. 7. 4
-Nor less Aleppo s Princess blames the Knight, She calls him craven, and demands the fight; While anxious only from Zorayda’s hand 840 To save his Queen, he slights her fierce demand. And she, too generous with unequal force To press a single warrior, turns her horse, And crossing, as she fled, Matilda’s way, Bears through the forest her defenceless prey. Fair Hermesind’s rich robes and courtly mien To Mosul’s erring Prince exprest a Queen j Fawnlike she fled, she seeks the thicker wood, While on his goaded horse the Prince pursued. In vain Ricardo, desperate, crost his way, 850 To buy with life one instant of delay; And seized with powerful grasp the rein of gold, His wounded arm reluctant yields its hold; Yet scarce he feels the smart, one pang possest His faithful soul, and silenced all the rest. It chanced a path the flying virgin took Where dash’d o’er mossy stones a brawling brook; So close the rocks arose, and twining boughs,, That scarce its dizzy verge a pass allows. In need less desperate, ill the timid maid 860 Had dared that narrow dangerous way to tread;
-At least had claim’d Ricardo’s help, and shewn A thousand pretty fears, half feign’d and half her own. Yet fearless now she skims the slippery shore, Nor sees the foam, nor hears the waters roar. Ricardo saw, and while the Persian steed His tedious way with painful labour freed, He, fleetest of the fleet, in wanton course Who oft outmatch’d the stag, or generous horse, Now in the tangled brake by love sustain’d 3 870 Through nearer ways the angry torrent gain’d. Where to the rock above a cedar clung Impending o’er the path; aloft he sprung-— The crashing fibres yield, the falling shade Divides the eager prince and flying maid. In vain 1 —his steed scarce pausing, dares the bound, And lights uninjur’d on the slippery ground; He gains each moment on her slackening flight, He grasps her mantle; while the wretched knight, Crush’d by the load, and struggling in the wave, 880 Hears her loud shrieks,—he hears and cannot save î Who in that deadliest регЦ rush’d between? The Knight Unknown, the Knight of armour green! He who by coy disdain and silent pride Had touch’d a heart to pleading love denied.
-In combat late with Egypt’s King engaged By Arsouf’s stream, his dauntless valour waged The íengthen’d contest, till when Asia’s lord With England stood, they sheath’d the mutual sword; Nor since reviving war with fiercer hate Her fires rekindled, had the warriors met. “ 890 Now warn’d by Saiem’s King, who love-inspired, Mark’d where the Moslem Chiefs from fight retired, With him be followed, and as Lusignan To aid the Queen, to raise Evan the ran, For Hermesind he rush’d to fiercest fight, For Hermesind,— who check’d her weary flight. They tought, till Adel spurring through the shade, “ And think not thus to shun my sword,” he said, “ Turn, Christian! turn; and thou young Prince, resign The fight unjust, yon craven’s spoils are mine.” 900 “ Behold me here prepared,” the Knight replied, (i For both or either; be ye both defied! Yet better might thy taunts be aim’d at those Who quit the field to war on female foes.” t’t’ On female foes!” indignant Adel críes, As round the wood he rolls his searching eyes; i( Now praised be Alia! praised the Prophet’s name, No true believer shares this deed of shame.
-Thou, through thy visor’d casque so rarely seen, Whate’er thou art, apostate, Nazarene, 910 And thou young Fatimite, far hence remove, v Too much ye trespass on my brother’s love. And know ye not that, when a city falls, E’en the rude conqueror spares the haram walls? z Christian! in combat we shall meet again — Meanwhile accept for each fair victim slain, Whate’er the price, her double worth in gold, Or two, the fairest that my harams hold. Hundreds they boast that well might pay the debt, Whose veils to me were never lifted yet.”— 920 t’í Moslem! not thus a woman’s worth we prize,” With all a Christian’s auger, Albert cries. “ Say, should thy walls some Cleopatra boast, More fair than her for whom a world was lost, Poor were that ransom for Matilda paid, Our Monarch’s sister, now dishonour’d, dead.” (i Thy foul reproach, ungenerous Christian, spare, Nor stain our glory with so base a fear,” Cried Mosul’s Prince - t —*’ by flattering demons led, We sought in bonds to biud each royal maid, 930 That he who fills Damascus’ Avails with gloom, Who makes our towns a waste, our lands a tomb.
-Who loves the widow’s and the orphan’s cry, Might find one grief to cloud his victory; Nor farther had our sated rage pursued, Nor stain’d one sword in unoffending blood; Then fear not for your captive, none,” he cried, “ Dares doubt the spotless faith of Almahide.” That dreadful name which oft had spread despair Through marshall’d ranks, now silenced every fear. ίζ Enough,” the monarch said, distrust and shame Ply from her presence^—I forbear to blame. And you, brave Christians! let your valiant Lord Forego his fears, and trust an Arab’s word. We fight as sovereigns, not as fiends, to gain Or guard our faith, our glory, and our reign. Revenge we love, yet boast our hearts have wou A generous spark from yon all-bounteous sun; And by that only God, whose ruling will Perchance for good designs this seeming ill, By highest heaven, where saints and angels dwell, By the dread bridge and endless flames of hell, To England’s King an Arab’s faith I plight To bring the Princess with the orient light.” 950 He spoke, and from the scene of contest leads, Abash’d and sad young Aladin proceeds;
-While Gaul’s proud maid her rival lingering view’d, And curs’d the sword that fail’d to shed her blood. Oh í if our will such baleful power could give, No mortal eye might meet that glance and live. But Hermesind, whose vanity was still Her beacon-light, that led to good or ill -, Graceful before her brave preserver knelt, Pour’d all her thanks, and more than all she felt. 960 Oh! who could hear unmoved, of mortal mould, Such gratitude, so eloquently told In tones so sweet, from lips of hue so bright, Such glowing cheeks, and eyes of liquid light! Yet if slight waving of the warrior’s crest, Or silken scarf, some rebel thoughts confest, His words were calm and few.—” T’was knighthood’s care, Her boast, her oath, to guard and aid the fair, T’was duty and no more.”— “ Yet hear,” she said, “ Nor deem that guile inspires a simple maid, 970 Or curious folly, if I fain would know, To whom my life, or more than life, I owe? Whate’er the cause that makes thee court disguise, My lips shall guard the trust my heart will prize,
-Safe as the wealth to caves of ocean given, Nor breathed, save in my orisons to heaven; Those orisons which call its saints to save, For deathless fame, the generous and the brave.” In swifter beat the heaving scarf appear’d, The murmur of preluding speech was heard; 980 When, as by some mistrustful thought inspired, He bowed a mute refusal, and retired. Baffled again, her angry feelings rise, And lightnings flash indignant from her eyes, They glance upon Ricardo’s pallid face, And all again is gentleness and grace. Devoted more, but less by fortune blest, Still the fall’n tree his wounded limbs opprest. Who knew like her each fascinating art, In dreams of heaven to lap the willing heart! 990 Her eyes shone bright in tears, her tender hand Was gentlest, first, to fix each needful band; Nor her warm thanks with less of nature came, Though often check’d, as if by virgin shame; Or fear to raise,—since love to hope is prone— Hopes that her calmer reason might disown. Drest by such hands could wounds forbear to close, Could heart so happy vainly court repose?
-As on his couch a lingering moon he lay, Bright rainbow visions wiled its lapse away. 1090 His was a courteous soul, whose livelier powers Could gild the stream of pleasure’s social hours; But ‘twas a radiance cold and rarely given, Like gleams of sunshine on December’s heaven. Sweet were his songs, and framed with tuneful art To soothe or soften, not to raise the heart; While love, which fires the proud to arduous deeds In his mild breast its native sadness feeds. Yet ne’er had pleasure spread such halcyon calm, Ne’er seem’d his hours so redolent of balm, 1010 As now, though oft to thrilling pangs a prey— (Unheeded pangs)—for still with every day She came, like some angelic guest, to bring To his exhausted thoughts another spring. Short was her stay, by modesty restrain’d, Yet like soft fragrance on his soul remain’d Some look, some motion, as she left the tent, Some word or tone, as o’er his couch she bent. He longs for strength, for her to fight, to die; He trembles lest his dream of bliss should fly.
+&emsp;Thus (like Hyperion, when his orient ray<br>
+Gives gracious promise of a golden day)<br>
+While the young hero track’d his way with blood,<br>
+Aghast in wonder hoary veterans stood;<br>
+E’en <span class="smallcaps">Cœur de Lion</span> check’d his foaming horse,<br>
+Amazed, exulting in his favourite’s force.
+
+A Christian Knight,—but let the page of fame<br>
+Refuse its record to the dastard’s name—<br>
+By Aladin’s ungated sword pursued,<br>
+Sought fatal refuge in th’ Enchanted Wood;<br>
+He sought and found—for through the waving leaves<br>
+White vests and glittering arms the Prince perceives;<br>
+Nor longer for the craven’s blood he burn’d<br>
+But from the grove his docile charger turn’d;<br>
+An instant sees him at Zorayda’s side.<br>
+“Bright moon of earth, my soul’s best gem,” he cried,<br>
+“Vain is our struggle here, our valour vain,<br>
+He who could yonder wolf of war restrain<br>
+Might bid the wither’d leaves be green again.<br>
+Yet if for vengeance pine my injur’d love,<br>
+The Monarch’s Haram waits in yonder grove,<br>
+Slight seems the guard, not slight our triumph won<br>
+If in his consort’s fate we rule his own.”<br>
+&emsp;Strong in the willing aid of Almahide<br>
+They quit the field, and through the forest ride;<br>
+And soon they came where, fearless of a snare,<br>
+Far from the clash of arms, the shouts of war,<br>
+Each royal beauty through the waving shade<br>
+Seem’d nymph, or dryad of the shadowy glade;<br>
+Anxious, yet calm, their thoughts to heaven addrest,<br>
+With pious hopes they charm their fears to rest.<br>
+The reckless Hermesind, in smiles array’d,<br>
+Lists to Ricardo, who beside her laid,<br>
+Pours his delicious flattery on her ear,<br>
+Or turns with looks of livelier joy to hear<br>
+Her converse brilliant, sprightly, and refined,<br>
+But like the dew, that leaves no trace behind.<br>
+&emsp;Unhappy youth, forbear the moonlight grove,<br>
+Break thy soft lute, and cease thy songs of love;<br>
+Nor hope, bewilder’d in her witching snare,<br>
+To touch that heart, if yet a heart be there.<br>
+Drown Love in War:—and hark! that war is near,<br>
+On his smooth shield rings Albert’s warning spear;<br>
+And fifty warriors, starting at the sound,<br>
+In steely phalanx guard their treasure round.<br>
+&emsp;His vizor down, his ashen spear in rest,<br>
+’Gainst Aladin the ready Albert prest;<br>
+But he, who saw th’ expected prize so nigh,<br>
+Disdains the single fight, and past him by.<br>
+Not so Noureddin’s child; with lance opposed<br>
+She meets her foe, and soon in combat closed;<br>
+Both hope an easy spoil, and grieve to feel<br>
+A warrior worthy of their practised steel.<br>
+&emsp;Meanwhile the Persian Prince and Gallic maid<br>
+With baleful eyes the iron ring survey’d.<br>
+In vain with taunts they rouse each faithful knight,<br>
+Each curbs his rising wrath, and shuns the fight;<br>
+While sure destruction threatens him who dares<br>
+To rush, unhappy, on their hedge of spears.<br>
+But the young warrior, tempering force with skill,<br>
+Aims his light dart, to torture not to kill;<br>
+Helias’ steed receives the smarting wound <br>
+In his left eye, and flinging to the ground<br>
+His startled lord, he spreads confusion round.<br>
+The line thus broke, prepared the Persian stood,<br>
+His vantage seized, and bathed his sword in blood.—<br>
+The Pisan Ugo welters in his gore,<br>
+Iberian Carlos sinks to rise no more;<br>
+Carlos, who loved the proud Castilian maid,<br>
+Whose heartless taunts his faithful vows repaid<br>
+His life unblest, yet happy in his death,<br>
+Since for her sake he yields his wretched breath.<br>
+Her lover’s deeds Zorayda’s soul inspire,<br>
+Her pride they kindle and her envy fire;<br>
+She spares not those of Gaul’s paternal soil,<br>
+Nor those once dear in Albion’s happy isle.<br>
+Where each devoted warrior seeks alone<br>
+His sovereign’s safety, and neglects his own,<br>
+Rich were her spoils, her laurels cheaply won.<br>
+Of fifty, late the guardians of the shade,<br>
+Cold on the turf are thirty heroes laid;<br>
+While scarce the rest their ponderous arms sustain,<br>
+And with a sanguine deluge bathe the plain.<br>
+Count Mirlo piercing in her mad career,<br>
+(Her cousin once, when France or kin were dear.)<br>
+Now through the broken ring the fury flies,<br>
+And hope already grasps th’ expected prize;<br>
+Evanthe, sickening, faints in mute despair,<br>
+With clasped hands Matilda sinks in prayer;<br>
+While Berengaria from a lifeless hand<br>
+Snatch’d the broad shield, and waved the shining brand.<br>
+“Death, not pollution for a hero’s bride,<br>
+For <span class="smallcaps">Richard’s</span> Queen!” th’ intrepid beauty cried.<br>
+“For <span class="smallcaps">Richard’s</span> Queen!” her ruthless foe replied;<br>
+“And who art thou that darest such rank assume?<br>
+False bird, this hand shall strip thy borrow’d plume.”<br>
+&emsp;But Albert sees, no more can Almahide<br>
+Detain the Knight, he seek his Sovereign’s side;<br>
+What demon then might match Zorayda’s rage,<br>
+Again compell’d a desperate strife to wage?<br>
+Robb’d of a prize that seemed already won,<br>
+Her glory tarnished, and her vengeance gone.<br>
+Nor less Aleppo s Princess blames the Knight,<br>
+She calls him craven, and demands the fight;<br>
+While anxious only from Zorayda’s hand<br>
+To save his Queen, he slights her fierce demand.<br>
+And she, too generous with unequal force<br>
+To press a single warrior, turns her horse,<br>
+And crossing, as she fled, Matilda’s way,<br>
+Bears through the forest her defenceless prey.<br>
+&emsp;Fair Hermesind’s rich robes and courtly mien<br>
+To Mosul’s erring Prince exprest a Queen;<br>
+Fawnlike she fled, she seeks the thicker wood,<br>
+While on his goaded horse the Prince pursued.<br>
+In vain Ricardo, desperate, crost his way,<br>
+To buy with life one instant of delay;<br>
+And seized with powerful grasp the rein of gold,<br>
+His wounded arm reluctant yields its hold;<br>
+Yet scarce he feels the smart, one pang possest<br>
+His faithful soul, and silenced all the rest.<br>
+It chanced a path the flying virgin took<br>
+Where dash’d o’er mossy stones a brawling brook;<br>
+So close the rocks arose, and twining boughs,<br>
+That scarce its dizzy verge a pass allows.<br>
+In need less desperate, ill the timid maid<br>
+Had dared that narrow dangerous way to tread;<br>
+At least had claim’d Ricardo’s help, and shewn<br>
+A thousand pretty fears, half feign’d and half her own.<br>
+Yet fearless now she skims the slippery shore,<br>
+Nor sees the foam, nor hears the waters roar.<br>
+Ricardo saw, and while the Persian steed<br>
+His tedious way with painful labour freed,<br>
+He, fleetest of the fleet, in wanton course<br>
+Who oft outmatch’d the stag, or generous horse,<br>
+Now in the tangled brake by love sustain’d,<br>
+Through nearer ways the angry torrent gain’d.<br>
+Where to the rock above a cedar clung<br>
+Impending o’er the path; aloft he sprung—<br>
+The crashing fibres yield, the falling shade<br>
+Divides the eager prince and flying maid.<br>
+In vain—his steed scarce pausing, dares the bound,<br>
+And lights uninjur’d on the slippery ground;<br>
+He gains each moment on her slackening flight,<br>
+He grasps her mantle; while the wretched knight,<br>
+Crush’d by the load, and struggling in the wave,<br>
+Hears her loud shrieks,—he hears and cannot save!<br>
+&emsp;Who in that deadliest регЦ rush’d between?<br>
+The Knight Unknown, the Knight of armour green!<br>
+He who by coy disdain and silent pride<br>
+Had touch’d a heart to pleading love denied.<br>
+In combat late with Egypt’s King engaged<br>
+By Arsouf’s stream, his dauntless valour waged<br>
+The lengthen’d contest, till when Asia’s lord<br>
+With England stood, they sheath’d the mutual sword;<br>
+Nor since reviving war with fiercer hate<br>
+Her fires rekindled, had the warriors met.<br>
+Now warn’d by Salem’s King, who love-inspired,<br>
+Mark’d where the Moslem Chiefs from fight retired,<br>
+With him be followed, and as Lusignan<br>
+To aid the Queen, to raise Evanthe ran,<br>
+For Hermesind he rush’d to fiercest fight,<br>
+For Hermesind,— who check’d her weary flight.<br>
+They tought, till Adel spurring through the shade,<br>
+“And think not thus to shun my sword,” he said,<br>
+“ Turn, Christian! turn; and thou young Prince, resign<br>
+The fight unjust, yon craven’s spoils are mine.”<br>
+&emsp;“ Behold me here prepared,” the Knight replied,<br>
+“For both or either; be ye both defied!<br>
+Yet better might thy taunts be aim’d at those<br>
+Who quit the field to war on female foes.”<br>
+&emsp;“On female foes!” indignant Adel críes,<br>
+As round the wood he rolls his searching eyes;<br>
+“Now praised be Alla! praised the Prophet’s name,<br>
+No true believer shares this deed of shame.<br>
+Thou, through thy visor’d casque so rarely seen,<br>
+Whate’er thou art, apostate, Nazarene,<br>
+And thou young Fatimite, far hence remove,<sup>y</sup><br>
+Too much ye trespass on my brother’s love.<br>
+And know ye not that, when a city falls,<br>
+E’en the rude conqueror spares the haram walls?<sup>z</sup><br>
+Christian! in combat we shall meet again—<br>
+Meanwhile accept for each fair victim slain,<br>
+Whate’er the price, her double worth in gold,<br>
+Or two, the fairest that my harams hold.<br>
+Hundreds they boast that well might pay the debt,<br>
+Whose veils to me were never lifted yet.”—<br>
+&emsp;“Moslem! not thus a woman’s worth we prize,”<br>
+With all a Christian’s auger, Albert cries.<br>
+“Say, should thy walls some Cleopatra boast,<br>
+More fair than her for whom a world was lost,<br>
+Poor were that ransom for Matilda paid,<br>
+Our Monarch’s sister, now dishonour’d, dead.”<br>
+&emsp;“Thy foul reproach, ungenerous Christian, spare,<br>
+Nor stain our glory with so base a fear,”<br>
+Cried Mosul’s Prince;—“by flattering demons led,<br>
+We sought in bonds to bind each royal maid,<br>
+That he who fills Damascus’ walls with gloom,<br>
+Who makes our towns a waste, our lands a tomb.<br>
+Who loves the widow’s and the orphan’s cry,<br>
+Might find one grief to cloud his victory;<br>
+Nor farther had our sated rage pursued,<br>
+Nor stain’d one sword in unoffending blood;<br>
+Then fear not for your captive, none,” he cried,<br>
+“Dares doubt the spotless faith of Almahide.”<br>
+&emsp;That dreadful name which oft had spread despair<br>
+Through marshall’d ranks, now silenced every fear.<br>
+“Enough,” the monarch said, distrust and shame<br>
+Fly from her presence—I forbear to blame.<br>
+And you, brave Christians! let your valiant Lord<br>
+Forego his fears, and trust an Arab’s word.<br>
+We fight as sovereigns, not as fiends, to gain<br>
+Or guard our faith, our glory, and our reign.<br>
+Revenge we love, yet boast our hearts have won<br>
+A generous spark from yon all-bounteous sun;<br>
+And by that only God, whose ruling will<br>
+Perchance for good designs this seeming ill,<br>
+By highest heaven, where saints and angels dwell,<br>
+By the dread bridge and endless flames of hell,<br>
+To England’s King an Arab’s faith I plight<br>
+To bring the Princess with the orient light.”<br>
+&emsp;He spoke, and from the scene of contest leads,<br>
+Abash’d and sad young Aladin proceeds;<br>
+While Gaul’s proud maid her rival lingering view’d,<br>
+And curs’d the sword that fail’d to shed her blood.<br>
+Oh! if our will such baleful power could give,<br>
+No mortal eye might meet that glance and live.
+
+But Hermesind, whose vanity was still<br>
+Her beacon-light, that led to good or ill;<br>
+Graceful before her brave preserver knelt,<br>
+Pour’d all her thanks, and more than all she felt.<br>
+Oh! who could hear unmoved, of mortal mould,<br>
+Such gratitude, so eloquently told<br>
+In tones so sweet, from lips of hue so bright,<br>
+Such glowing cheeks, and eyes of liquid light!<br>
+Yet if slight waving of the warrior’s crest,<br>
+Or silken scarf, some rebel thoughts confest,<br>
+His words were calm and few.—“T’was knighthood’s care,<br>
+Her boast, her oath, to guard and aid the fair,<br>
+T’was duty and no more.”— “Yet hear,” she said,<br>
+“Nor deem that guile inspires a simple maid,<br>
+Or curious folly, if I fain would know,<br>
+To whom my life, or more than life, I owe?<br>
+Whate’er the cause that makes thee court disguise,<br>
+My lips shall guard the trust my heart will prize,<br>
+Safe as the wealth to caves of ocean given,<br>
+Nor breathed, save in my orisons to heaven;<br>
+Those orisons which call its saints to save,<br>
+For deathless fame, the generous and the brave.”<br>
+&emsp;In swifter beat the heaving scarf appear’d,<br>
+The murmur of preluding speech was heard;<br>
+When, as by some mistrustful thought inspired,<br>
+He bowed a mute refusal, and retired.<br>
+Baffled again, her angry feelings rise,<br>
+And lightnings flash indignant from her eyes,<br>
+They glance upon Ricardo’s pallid face,<br>
+And all again is gentleness and grace.<br>
+Devoted more, but less by fortune blest,<br>
+Still the fall’n tree his wounded limbs opprest.<br>
+Who knew like her each fascinating art,<br>
+In dreams of heaven to lap the willing heart!<br>
+Her eyes shone bright in tears, her tender hand<br>
+Was gentlest, first, to fix each needful band;<br>
+Nor her warm thanks with less of nature came,<br>
+Though often check’d, as if by virgin shame;<br>
+Or fear to raise,—since love to hope is prone—<br>
+Hopes that her calmer reason might disown.<br>
+&emsp;Drest by such hands could wounds forbear to close,<br>
+Could heart so happy vainly court repose?<br>
+As on his couch a lingering moon he lay,<br>
+Bright rainbow visions wiled its lapse away.<br>
+His was a courteous soul, whose livelier powers<br>
+Could gild the stream of pleasure’s social hours;<br>
+But ‘twas a radiance cold and rarely given,<br>
+Like gleams of sunshine on December’s heaven.<br>
+Sweet were his songs, and framed with tuneful art<br>
+To soothe or soften, not to raise the heart;<br>
+While love, which fires the proud to arduous deeds<br>
+In his mild breast its native sadness feeds.<br>
+Yet ne’er had pleasure spread such halcyon calm,<br>
+Ne’er seem’d his hours so redolent of balm,<br>
+As now, though oft to thrilling pangs a prey—<br>
+(Unheeded pangs)—for still with every day<br>
+She came, like some angelic guest, to bring<br>
+To his exhausted thoughts another spring.<br>
+Short was her stay, by modesty restrain’d,<br>
+Yet like soft fragrance on his soul remain’d<br>
+Some look, some motion, as she left the tent,<br>
+Some word or tone, as o’er his couch she bent.<br>
+He longs for strength, for her to fight, to die;<br>
+He trembles lest his dream of bliss should fly.
+
+<hr>
 
 <a id="notes01"></a>
 # Notes
