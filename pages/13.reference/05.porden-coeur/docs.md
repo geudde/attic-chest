@@ -6921,9 +6921,32 @@ The son of Ascelin had swell’d the slain.<br>
 &emsp;And now the conquering Prince his rowels hides<br>
 In Safie’s flank,—the affrighted crowd divides;<br>
 Alike he spurns the living and the slain,<br>
-And dares with impious touch the car prophane.
-Bold Harcourt hastesto save; and Stanley’s knight, Talbot and Compton, dragons of the fight; 350 While Turneham and heroic Pelham spread The groaning sand with heaps of Persian dead: This soon the Prince observ’d,—his horn he wound (His studded horn that gave a silver sound); First at his call the youthful Osman rush’d, O’er friends and foes impetuous Ghazi push’d; Afdhal, Zorayda, Zenghi, Almahide, Forego the spoil, and to his succour ride; But (for what speed can match a father’s fears?) Seiffeddin first with foaming steed appears. 360 Now man to man and horse to horse opposed, In one small space is all the war enclosed. Here armour rings, and broken weapons fly, Blood dyes the earth, and dust obscures the sky! Now Hamo fell, the prey of Almahide;* Khorassan’s Prince by powerful Leicester died. By Roland pierced, rose Alp’s expiring yell, By Afdhal’s hand the conquering Roland fell. The young Fitzaubert, who on Arsoufs plain Nurs’d the fond hope of gilded spurs in vain, 370,v 2
-By Almahide to lasting slumber sent, His faithful sqtiire shall Leicester long lament. Loud rings the clash of arms;—the press of war Nearer and nearer thickens round the car: Its purpled wheels are choked with mounds of slain, And its white veils receive a crimson stain. The Christians yield I the Prince with powerful spear Strikes from his seat the hardy charioteer; While Solyman, of all the Mamluke train Bravest and first, usurps the vacant rein.” 380 ‘Twas then, while Múlton with impetuous force On Mosul’s hope impell’d his powerful horse, That Grosvenor (from his hand the falchion thrown) Springs on the wheels, and drags the Moslem down, While his strong knee his struggling foe comprest, His dagger’s point th’ unwilling soul dismist. Orasmin, long his partner of the war, Seeks from the field his dying friend to bear; In vain,—his arms and gilded helm inspire Fierce Bertrand’s grasping soul with strong desire; O’er his slain foe his mighty shield he spread, And by his side he lays Orasmin dead. Alike in Ayoub’s yellow livery drest The field Bedreddin and Miralis prest.
+And dares with impious touch the car prophane.<br>
+Bold Harcourt hastes to save; and Stanley’s knight,<br>
+Talbot and Compton, dragons of the fight;<br>
+While Turneham and heroic Pelham spread<br>
+The groaning sand with heaps of Persian dead:<br>
+This soon the Prince observ’d,—his horn he wound<br>
+(His studded horn that gave a silver sound);<br>
+First at his call the youthful Osman rush’d,<br>
+O’er friends and foes impetuous Ghazi push’d;<br>
+Afdhal, Zorayda, Zenghi, Almahide,<br>
+Forego the spoil, and to his succour ride;<br>
+But (for what speed can match a father’s fears?)<br>
+Seiffeddin first with foaming steed appears.<br>
+ Now man to man and horse to horse opposed,<br>
+In one small space is all the war enclosed.<br>
+Here armour rings, and broken weapons fly,<br>
+Blood dyes the earth, and dust obscures the sky!<br>
+Now Hamo fell, the prey of Almahide;[^110]<br>
+Khorassan’s Prince by powerful Leicester died.<br>
+By Roland pierced, rose Alp’s expiring yell,<br>
+By Afdhal’s hand the conquering Roland fell.<br>
+The young Fitzaubert, who on Arsouf’s plain<br>
+Nurs’d the fond hope of gilded spurs in vain,<br>
+By Almahide to lasting slumber sent,<br>
+His faithful squire shall Leicester long lament.<br>
+&emsp;Loud rings the clash of arms;—the press of war Nearer and nearer thickens round the car: Its purpled wheels are choked with mounds of slain, And its white veils receive a crimson stain. The Christians yield I the Prince with powerful spear Strikes from his seat the hardy charioteer; While Solyman, of all the Mamluke train Bravest and first, usurps the vacant rein.” 380 ‘Twas then, while Múlton with impetuous force On Mosul’s hope impell’d his powerful horse, That Grosvenor (from his hand the falchion thrown) Springs on the wheels, and drags the Moslem down, While his strong knee his struggling foe comprest, His dagger’s point th’ unwilling soul dismist. Orasmin, long his partner of the war, Seeks from the field his dying friend to bear; In vain,—his arms and gilded helm inspire Fierce Bertrand’s grasping soul with strong desire; O’er his slain foe his mighty shield he spread, And by his side he lays Orasmin dead. Alike in Ayoub’s yellow livery drest The field Bedreddin and Miralis prest.
 On Kaled next the bold De Karreo flies, And, cleft by Harcourt’s axe, Shirazin dies. But Bertrand, like some massy tower, defied Abdallah’s strength and overweening pride; Three half-armed Franks upon his lance had bled, “ Breathes there a fourth dares meet its force? “ he said: The Viscount, striking ere he deem’d him near, Lopp’d with his trenchant blade the lifted spear; Then as his arm his sabre’s hilt explored, Deep in his side he drove the fatal sword. But now from Arsouf’s forest moving on, The knights of France and warriors of St. John, With shrill-voiced clarions pierce the troubled air, Fall on the Moslems, and reverse the war; And, long victorious on the neighbouring height, To seek fresh foes descends the Emerald Knight. 410 Graceful as Mars he reins his matchless steed, A milk white jennet of Iberian breed. Meantime th’ Egyptian King the fight survey’d— His arm in dust twice twenty knights had laid, Whose dauntless fronts the snowy Cross display’d. Ţ Now resting from the field, he sees advance The fresh attack—he grasp’d his powerful lance, y 3
 And sought the Soldan —who from war retired, As Moslem rites at glowing noon required, First on his hands the cleansing water pour’d, 420 Then, bent to earth, the God of Heaven adored. His beauteous dwarfs around the Monarch stand, Λ And chaunt harmonious, as their laws command, > That holiest Koran, traced by Omar’s hand; j While all the rush of war, the mingled cry Of rout or conquest, swept unheeded by. c In admiration lost, th’ Egyptian stood, Nor on his brother’s silence dared intrude Till Saladine arose. Then, “ Lo! he cried, i( Where from yon wood Gaul’s red-cross warrio ibride, And with proud Austria’s azure legions come, Our ancient foes, the Champions of the Tomb.” “Charge, Adel! charge! we give them to the sword, In Alla’s name,—be Alla’s name adored!” And calm as when the quiet sod he prest, The dauntless Soldan fix’d the lance in rest; To check th’ advancing squadrons, ere they gain The level ground, and join the English train. Half lost in herbage, where a torreni crost The narrow path, he plant*· his little host; 440
 Soon its blue waves run purple to the main, And the rose-laurel wears a deeper stain. First, pierc’d by Adel’s Land, De Coucy fell, Whose hapless tale Provençal bards shall tell; For ere his soul its earthly prison broke, With faltering accents to his squire he spoke: “ To Fayel’s bride convey this bleeding heart, Whose hapless passion scarce with life shall part; Perchance, though to its living woes severe, She then may grace it with a pitying tear;— 450 Fame, and her love, and Paradise, to gain, I wear the Cross, nor let me wear in vain.”— Alas! the squire, while he his route explored, Met in a wood the lady’s jealous lord; And, all unconscious, to his ear disclosed Within the urn what precious heart reposed. He hears, and credits half the tide: the rest In frightful hues his jaundiced fancy drest; His phrenzy deepens, nor believes the dame, Loved by such knight, could scorn his faithful flame. With savoury spice the wretched heart he drest, And saw his bride enjoy the dreadful feast! Then told the whole;—when she who prized his truth, Even while her virtue shunn’d the hapless youth, γ 4
@@ -7309,3 +7332,5 @@ Et duræ quercus sudabunt roscida mella.
 [^108]: Osmere was the son of Elphege de Toketon, now Tufton.
 
 [^109]: The arms of Grovesnor are a wheat-sheaf: those of Perceval, three white crosses on a field Gules; motto, “*Sub cruce candida*.”
+
+[^110]: From Hamo is derived the family name of Amherst.
