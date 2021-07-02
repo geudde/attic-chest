@@ -7178,13 +7178,139 @@ The Soldan snatch’d a second from his slave,<br>
 To <span class="smallcaps">Richard’s</span> hand a second Pardo gave;<br>
 Again th’ impetuous chiefs the course renew,<br>
 Again on earth the shining splinters flew;<br>
-
-Till either Sovereign, casting from his hand The shiver’d truncheon, bares his glittering brand. Now blows descend, above, below, around The lightning flashes and the arms resound; The Soldan’s sword, at <span class="smallcaps">Richard’s</span> head add rest, Cleft from his morion half its broomy crest; While Caliburn through helm and turban glides, 610 And from the Soldan’s arm the mail divides. The Soldan strikes again,—his furious blow- Rings on the buckler of his mighty foe,— It lops the golden boss j but <span class="smallcaps">Richard</span> lent A dreadful stroke, which, on his shoulder sent, Forced him to earth, while, from his burthen freed, Pranced through th’ affrighted rank» the startledsteed. Now <span class="smallcaps">Richard</span> springs to ground, to wage the war On equal terms; but Mosul’s generous heir, Who mark’d his Sovereign’s need, dismounts in haste, And on his seat the wounded Soldan placed. In vain would <span class="smallcaps">Richard</span> now the fight prolong, Around their Chief the faithful Mamlukes throng; With England’s King a desperate strife maintain, And in the press was beauteous Favel slain/ Just as the Monarch with an active bound, Leaped to the seat, he felt the erring wound;
-Deep in his side received the stroke of death, Bent on his knees, and gasp’d his latest breath. Oh î then what wrath in <span class="smallcaps">Richard’s</span> bosom rose, 630 A wrath that issued not in words but blows. What wrath inflamed his Peers! on all the plain With fiercer fires the combat wakes again. On foot the Monarch fights,—the dastard crowd Flies from his single arm; he shouts aloud, i( Bring forth my generous Lyard 1”—at the sound The Norman war-horse paws the echoing ground. Black were his limbs as Pluto’s murky reign, And glittering bells adorn his glossy mane; His furniture was gold;—with wings outspread, 640 A dreadful raven nodded o’er his head. Long had he mourn’d to see the Cyprian steed Usurp his master’s love j—from bondage freed, And prancing to his lord, he joys again In his proud load, and spurns the purple plain, He champs his golden bit, his eyes flash fire, Beneath his hoofs the trampled crowds expire; The living fly, they see their comrades bleed, Nor deem that wond’rous horse of mortal breed. While Caliburn now these, now those, bereft 650 Of life and limb, or to the saddle cleft.
-Such fear ensues, that had not Adel’s hand Enforced the valour which his words command, And been himself their shield, that fatal day Had swept the boast of Ayoub’s race away. But with surpassing rage the Leopard Knight Pursues the Moslem who disturb’d the fight; Seiffeddin’s offspring, by his father’s care Already mounted, and engaged in war. They met, and each the half sheath’d falchion drew, Λ And rais*d, and dropp’d; for each together knew, > One the veil’d shield, and one th’ egret of blue, j t’í Nay,” Pardo cried, t’í our force let others feel, Nor hands once clasp’d in friendship urge the steel; Farewell!”— (i Yet pause,” said Aladin, “ and hear If to thy heart Almanzor’s child be dear: Thou know’st that long (though wars» might intervene) Moheddin sought her for his haram’s queen. Prepared already was her ample dower, And presents given, and fix’d th’ auspicious hour,670 When droop’d the nymph—in vain the Imaums pray’d, Or bound with holy scrolls her burning head; Pale as the unconscious tenant of the tomb, Or blossom withering in the hot simoom,
-Her spark of life seems twinkling to expire; So Rezia weeping said—her wretched sire Explores a cause in vain, but none can tell, Unless thy conscious heart resolve the spell.” He paus’d; but Pardo vainly sought reply, Till feeling burst in one convulsive sigh. 680 “ Ah! what avails it—Oh! could both forget, Thus doom’d to meet no more, that e’er they met! What now remains but to bewail thy doom, And pine like thee, and perish on thy tomb!” if Hope yet sb^ll live!” cried Aladin: “ attend— Foe to thy faith, believe me yet thy friend: Though sacred laws perchance, or jealous pride, Have here to love his sweetest food denied, Soft looks, and ‘ whispered thought of hearts allied:’ Yet he who swims the moat, and scales the wall, 690 Gains strength from bars like these, to leap them all. He teaches language to the silent flowers; And not a blossom decks Arabian bowers, How scentless, small soe’er, or faint of dye, But bears some sense to conscious beauty’s eye. Such will í twine—I know their legends well— The passion-flower a Christian Knight shall tell; vol. i. z
-And hope, and fear, and mutual love exprest, Amina’s fluttering heart may read the rest. But see, while thus the precious hour I waste, 700 What demon sweeps our ranks!”—he waved in haste His graceful hand, and spurred his foaming horse, While death and terror mark his conquering course. But Pardo sits entranced:—the flying throng, That Richahd scatters, pass’d uncheck’d along, Till Mahmoud spoke: “ Is this a place of sleep? “ Christian 1 thy slumber shall be long and deep; Deep as the grave.”—But, waking from his trance At the rude summons of the Arab lance, Young Pardo spurs his steed; to earth he bore *J\ 0 The vanquished Saracen, to rise no more. Urged by that inward grief that knows not balm, And rage, which only Moslem blood can calm, The Knight, whose courteous manners all admired, Now seem’d some fiend, with wrath infernal fired. Grave Ibrahim, whose beard of snowy white Down to his girdle flow’d, a reverend sight, Seized by that snowy beard, contends in vain, His headless trunk falls bleeding on the plain. Reft of an arm the Nubian Calaf died, 720 The deadly weapon pierced Melcazar’s side:—
-Melcazar, sweetest of the youths that sung His own Bokhara’s odorous shades among; Her shepherds oft by fount or citron grove Wept as he pictured hapless Mejnoun’s love; Whilenymphs, like Leila fair, the bowers would throng, And with applauding roses crown the song; Or shower’d sweet jasmine from their latticed screen, Like fairy favours, dropp’d by hands unseen. Shahriar, who in Medina’s house of gloom 730 Thrice saw his Prophet’s self-suspended tomb, And strove the sins of early life to clear By fast and prayer, and penitence austere, Despite of texts inwoven with his mail, Falls, nor his Prophet nor his prayers avail. Thus (like Hyperion, when his orient ray Gives gracious promise of a golden day) While the young hero track’d his way with blood, Aghast in wonder hoary veterans stood; E’en Cœur ώβ Lion check’d his foaming horse, 740 Amazed, exulting in his favourite’s force. A Christian Knight,—but let the page of fame Refuse its record to the dastard’s name—,ζ 2
+Till either Sovereign, casting from his hand<br>
+The shiver’d truncheon, bares his glittering brand.<br>
+Now blows descend, above, below, around<br>
+The lightning flashes and the arms resound;<br>
+The Soldan’s sword, at <span class="smallcaps">Richard’s</span> head addrest,<br>
+Cleft from his morion half its broomy crest;<br>
+While Caliburn through helm and turban glides,<br>
+And from the Soldan’s arm the mail divides.<br>
+The Soldan strikes again,—his furious blow<br>
+Rings on the buckler of his mighty foe,—<br>
+It lops the golden boss; but <span class="smallcaps">Richard</span> lent<br>
+A dreadful stroke, which, on his shoulder sent,<br>
+Forced him to earth, while, from his burthen freed,<br>
+Pranced through th’ affrighted ranks the startled steed.<br>
+Now <span class="smallcaps">Richard</span> springs to ground, to wage the war<br>
+On equal terms; but Mosul’s generous heir,<br>
+Who mark’d his Sovereign’s need, dismounts in haste,<br>
+And on his seat the wounded Soldan placed.<br>
+In vain would <span class="smallcaps">Richard</span> now the fight prolong,<br>
+Around their Chief the faithful Mamlukes throng;<br>
+With England’s King a desperate strife maintain,<br>
+And in the press was beauteous Favel slain.<sup>x</sup><br>
+Just as the Monarch with an active bound,<br>
+Leaped to the seat, he felt the erring wound;<br>
+Deep in his side received the stroke of death,<br>
+Bent on his knees, and gasp’d his latest breath.<br>
+&emsp;Oh! then what wrath in <span class="smallcaps">Richard’s</span> bosom rose,<br>
+A wrath that issued not in words but blows.<br>
+What wrath inflamed his Peers! on all the plain<br>
+With fiercer fires the combat wakes again.<br>
+On foot the Monarch fights,—the dastard crowd<br>
+Flies from his single arm; he shouts aloud,<br>
+“Bring forth my generous Lyard!”—at the sound<br>
+The Norman war-horse paws the echoing ground.<br>
+Black were his limbs as Pluto’s murky reign,<br>
+And glittering bells adorn his glossy mane;<br>
+His furniture was gold;—with wings outspread,<br>
+A dreadful raven nodded o’er his head.<br>
+Long had he mourn’d to see the Cyprian steed<br>
+Usurp his master’s love;—from bondage freed,<br>
+And prancing to his lord, he joys again<br>
+In his proud load, and spurns the purple plain,<br>
+He champs his golden bit, his eyes flash fire,<br>
+Beneath his hoofs the trampled crowds expire;<br>
+The living fly, they see their comrades bleed,<br>
+Nor deem that wond’rous horse of mortal breed.<br>
+While Caliburn now these, now those, bereft<br>
+Of life and limb, or to the saddle cleft.<br>
+Such fear ensues, that had not Adel’s hand<br>
+Enforced the valour which his words command,<br>
+And been himself their shield, that fatal day<br>
+Had swept the boast of Ayoub’s race away.<br>
+&emsp;But with surpassing rage the Leopard Knight<br>
+Pursues the Moslem who disturb’d the fight;<br>
+Seiffeddin’s offspring, by his father’s care<br>
+Already mounted, and engaged in war.<br>
+They met, and each the half sheath’d falchion drew,<br>
+And rais’d, and dropp’d; for each together knew,<br>
+One the veil’d shield, and one th’ egret of blue,<br>
+“Nay,” Pardo cried, “our force let others feel,<br>
+Nor hands once clasp’d in friendship urge the steel;<br>
+Farewell!”—“Yet pause,” said Aladin, “and hear<br>
+If to thy heart Almanzor’s child be dear:<br>
+Thou know’st that long (though wars might intervene)<br>
+Moheddin sought her for his haram’s queen.<br>
+Prepared already was her ample dower,<br>
+And presents given, and fix’d th’ auspicious hour,<br>
+When droop’d the nymph—in vain the Imaums pray’d,<br>
+Or bound with holy scrolls her burning head;<br>
+Pale as the unconscious tenant of the tomb,<br>
+Or blossom withering in the hot simoom,
+Her spark of life seems twinkling to expire;<br>
+So Rezia weeping said—her wretched sire<br>
+Explores a cause in vain, but none can tell,<br>
+Unless thy conscious heart resolve the spell.”<br>
+&emsp;He paus’d; but Pardo vainly sought reply,<br>
+Till feeling burst in one convulsive sigh.<br>
+“Ah! what avails it—Oh! could both forget,<br>
+Thus doom’d to meet no more, that e’er they met!<br>
+What now remains but to bewail thy doom,<br>
+And pine like thee, and perish on thy tomb!”<br>
+&emsp;“Hope yet shall live!” cried Aladin: “attend—<br>
+Foe to thy faith, believe me yet thy friend:<br>
+Though sacred laws perchance, or jealous pride,<br>
+Have here to love his sweetest food denied,<br>
+Soft looks, and ‘whispered thought of hearts allied:’<br>
+Yet he who swims the moat, and scales the wall,<br>
+Gains strength from bars like these, to leap them all.<br>
+He teaches language to the silent flowers;<br>
+And not a blossom decks Arabian bowers,<br>
+How scentless, small soe’er, or faint of dye,<br>
+But bears some sense to conscious beauty’s eye.<br>
+Such will I twine—I know their legends well—<br>
+The passion-flower a Christian Knight shall tell;<br>
+And hope, and fear, and mutual love exprest,<br>
+Amina’s fluttering heart may read the rest.<br>
+But see, while thus the precious hour I waste,<br>
+What demon sweeps our ranks!”—he waved in haste<br>
+His graceful hand, and spurred his foaming horse,<br>
+While death and terror mark his conquering course.<br>
+&emsp;But Pardo sits entranced:—the flying throng,<br>
+That <span class="smallcaps">Richard</span> scatters, pass’d uncheck’d along,<br>
+Till Mahmoud spoke: “Is this a place of sleep?<br>
+Christian! thy slumber shall be long and deep;<br>
+Deep as the grave.”—But, waking from his trance<br>
+At the rude summons of the Arab lance,<br>
+Young Pardo spurs his steed; to earth he bore<br>
+The vanquished Saracen, to rise no more.<br>
+Urged by that inward grief that knows not balm,<br>
+And rage, which only Moslem blood can calm,<br>
+The Knight, whose courteous manners all admired,<br>
+Now seem’d some fiend, with wrath infernal fired.<br>
+Grave Ibrahim, whose beard of snowy white<br>
+Down to his girdle flow’d, a reverend sight,<br>
+Seized by that snowy beard, contends in vain,<br>
+His headless trunk falls bleeding on the plain.<br>
+Reft of an arm the Nubian Calaf died,<br>
+The deadly weapon pierced Melcazar’s side:—<br>
+Melcazar, sweetest of the youths that sung<br>
+His own Bokhara’s odorous shades among;<br>
+Her shepherds oft by fount or citron grove<br>
+Wept as he pictured hapless Mejnoun’s love;<br>
+While nymphs, like Leila fair, the bowers would throng,<br>
+And with applauding roses crown the song;<br>
+Or shower’d sweet jasmine from their latticed screen,<br>
+Like fairy favours, dropp’d by hands unseen.<br>
+&emsp;Shahriar, who in Medina’s house of gloom <br>
+Thrice saw his Prophet’s self-suspended tomb,<br>
+And strove the sins of early life to clear<br>
+By fast and prayer, and penitence austere,<br>
+Despite of texts inwoven with his mail,<br>
+Falls, nor his Prophet nor his prayers avail.<br>
+Thus (like Hyperion, when his orient ray Gives gracious promise of a golden day) While the young hero track’d his way with blood, Aghast in wonder hoary veterans stood; E’en Cœur ώβ Lion check’d his foaming horse, 740 Amazed, exulting in his favourite’s force. A Christian Knight,—but let the page of fame Refuse its record to the dastard’s name—,ζ 2
 By Aladm’s ungated sword pursued, Sought fatal refuge in th’ Enchanted Wood; He sought and found—for through the waving leaves White vests and glittec’mg arms the Prince perceives; Nor longer for the craven’s blood he burn’d .But from the grove his docile charger turn’d; An instant sees him at Zorayda’s side. 750 “ Bright moon of earth, ray soul’s best gem,” he cried, “ Vain is our struggle here, our valour vain, 4 He who could yonder wolf of war restrain \ Might bid the wither’d leaves be green again. J * Yet if for vengeance pine my injur’d love, The Monarch’s Haram waits in yonder grove, Slight seems the guard, not slight our triumph won If in his consort’s fate we rule hib own.” Strong in the wilüng aid of Almahide They quit the field, and through the forest ride; 760 And soon they came where, fearless of a snare, Far from the clash of arms, the shouts of war, Each royal beauty through the waving shade Seem’d nymph, or dryad of the shadowy glade; Anxious, yet calm, their thoughts to heaven addrest, With pious hopes they charm their fears to rest.
 The reckless Hermesind, in smiles arraj’d, Lists to Ricardo, who beside her laid, Pours his delicious flattery on her ear, Or turns with looks of livelier joy;o hear 770 Her converse brilliant, sprightly, and refined, But like the dew, that leaves no trace behind. Unhappy youth, forbear the moonlight grove, Break thy soft lute, and cease thy songs of love; Nor hope, bewilder’d in her witching snare, To touch that heart, if yet a heart bc there. Drown Love in War:—and hark! that war is near, On his smooth shield rings Albert’s warning spear; And fifty warriors, starting at the sound, In steely phalanx guard their treasure round. 780 His vizor down, his ashen spear in rest, ‘Gainst Aladin the ready Albert prest; But he, who saw th’ expected prize so nigh, Disdains the single fight, and past him by. Not so Noureddin’s child; with lance opposed She meets her foe, and soon in combat closed; Both hope an easy spoil, and grieve to feel A warrior worthy of their practised steel. Meanwhile the Persian Prince and Gallic maid With baleful eyes the iron ring survey’d. 79J z í)
 lil vain with taunts they rouse each faithful knight, Each curbs his rising wrath, and shuns the fight; While sure destruction threatens him who dares To rush, unhappy, on their hedge of spears. But the young warrior, tempering force with skill, Aims his light dart, to torture not to kill; Helias’ steed receives the smarting wound ^ In his left eye, and flinging to the ground ν His startled lord, he spreads confusion round. J The line thus broke, prepared the Persian stood, 800 His vantage seized, and bathed his sword in blood.— The Pisan Ugo welters in his gore, Iberian Carlos sinks to rise no more; Carlos, who loved the proud Castilian maid, Whose heartless taunts his faithful vows repaid His life unblest, yet happy in his death, Since for her sake he yields his wretched breath. Her lover’s dec is Zorayda’s soul inspire, Her pride they kindle and her envy fire; She spares not those of Gaul’s paternal soil, 810 Nor those once dear in Albion’s happy isle. Where each devoted ivarrior seeks alone ч His sovereign’s safety, and neglects his own, > Rich were her spoils, her laurels cheaply won. j
