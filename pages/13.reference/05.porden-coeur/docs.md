@@ -6340,12 +6340,131 @@ And, starting from his hold, she strives to hide<br>
 Her glowing face, and sinks at <span class="smallcaps">Richard’s</span> side.<br>
 &emsp;“Oh! why again so generous? wherefore save<br>
 A wretch, whose only hope is now the grave?<br>
-Why, why for me so dear a life expose? Too well, alas! this wretched bosom knows, Too deeply feels the gratitude it owes." Astonished at her words, perplexed, amazed, Reproving, pitying half, the Monarch gazed, While o'er his soul, but whence he knew not, came The fascination of that mystic dream, 500 Which, when he slumber'd in th' expiring storm, In added grace fore?hewed the stranger form. But soon his better thoughts the spell resist, He answer'd calm, as though his ear had miss'd The sense of words by strong emotion wrung, Unknown, at least unbidden from her tongue. "Nay, rate not thus," he spoke, * 4 illustrious maid! So slight a service,—in itself repaid. Thou tremblest yet!—let Berengaria's care Thy terrors soothe, thy harass'd frame repair. 510 ü3
-Rise, Princess, nor disdain the aid I lend, My arm shall guide thee to thy gentle friend. (i To her, beloved of Richard, shall I go, And bid her, as she caused, enjoy my woe? No, first, inhuman! shed ray vital blood, Or give me to the monsters of the wood. Rent from a crown, myself, my sire a slave, I bore resign'd,—I loved thee, and forgave; I loved, I saw thee wed another bride, And lived, alas! to wish I then had died. 520 Now self-betray'd—ah! whither shall I fly? How meet thine own, or Berengaria's eye! Oh! hide me in some cave, where none that knew Her happier days, Evanthe's grief can view; Some spot (if such there be) where never fame With joyful tongue shall whisper <span class="smallcaps">Richard’s</span> name; There shall cold vigils waste my youthful prime, And tears efface th' involuntary crime: Or rather, since those frowning looks disclose Far less than pity for thy victim's woes, 530 Now let me quit this load of life, and find, Chief of the iron-heart, this steel more kind."
-(t Hear not, ye Heavens!" cried Richard, as he sprung, And from her hand the lifted dagger flung. " Alas! unhappy maid! this awful night Bereaves thy wandering mind of reason's light! Is this Evanthe? she so meekly given In calm devotion to her sire and Heaven? Whose bosom seem'd so pure, that none might dare To deem one thought forbidden harbour'd there! 540 Now in her words can guilty passion speak, Glow in her eye, and redden on her cheek? Where is the downcast look, the pensive air, The Cross Evanthe ever wont to wear? Hold fast, lost Princess! hold that sacred sign, It cures all sorrows, let it solace thine," "Ha! am I mock'd!" the beauteous semblance cries, While each fair feature swells to giant size, While blood-red arms the phantom limbs invest, And the red helm displays a sanguine crest: 550 i( Yet tremble, thou hast spurn'd Evanthe's charms, But what shall save thee from infernal arms?" " What but that higher Power that Christians trust, A Saviour's blood, a God for ever just." ν 4
-He hurls tho fiend to earth; the bands unlace, The falling helm betrays a female face, Though not Evanthe's —but the blood forsook The Monarch's cheek, and every fibre shook.— He knew those charms in opening youth that stole With such seducing witchery on his soul; 560 He dared for them with hostile France conspire, For them in rebel arms assail'd his sire; On holy Pandulph rais'd his impious spear, Till Heaven in thunder check'd his mad career. 1 From hence what length of wars, what weight of woes, What long remorse,—but oh! what glory rose! For bence in penance to th' Elect of Heaven, With humble heart he sued to be forgiven, And robed in sackcloth to their scourges bow'd.* Hence, to atone the guilty deed, he vow'd 570 His banneron the Sacred Plains should shine, His arm affront the conquering Saladine.
-Hence, where Calabria's mountain-hermit dwelt, On each rude rock in pilgrim garb he knelt, And wondering heard, what heaven-descended sights On Judah's hills had blest his wakeful nights, How from th' Apocalypse his gifted view The past expounded and the future knew; Where prescient Heaven, in mystic phrases seal'd Its pardon of the Monarch's crime reveal'd; 580 And bade, when Syria saw his flag unmrl'd, His name outshine the conquerors of the world. v Hence, when the vital spark should quit his breast, Had <span class="smallcaps">Richard</span> will'd, that though his heart might rest In that dear city which he ioved the best, (Delighted when her Minster's fretted height, Grew like a child beneath the parent's sight,) His corse, where Everard's holy springs distil, Placet! at his father's feet, should ask forgiveness still. 1 * Such painful thoughts officious memory rais'd, 590 As bending o'er the prostrate form, he gazed, On charms unseen since he believed them pure, And vow'd his love should with his life endure: While feelings that had slept for years, again Burst in full force upon his aching brain,
-" Demon!" he cried, " how well thou know'st the art, To torture though thou can'st not shake my heart. ’Tis but a semblance, yet Alasia's form Arrests my vengeance and unnerves my arm. Hence, in His name this blessed sign who bore, 600 Delude my sense, and vex these groves no more." " Fond man! thou robb'st me of an instant's power, I scent th' advancing dawn, and know my hour. But mark this crest, this armour; mark them yet— The face methink'st thou can'st not well forget; Thy heart in vain the vision may despise, The dread reality shall blast thine eyes." As from her narrow cell Aurelia springs, And spreads to summer suns her ample wings, Thus from the bursting mail Moozallil rose, 610 The trembling wood its mighty master knows. So vast his stature, that the proudest oaks Reached not one ringlet of his raven locks. On his dark brow a thousand furies sate, Revenge, and pride, and e ver- during hate; He shuns th' approaching sun, but leaves the sod All black and blasted, where his steps had trod.
+Why, why for me so dear a life expose?<br>
+Too well, alas! this wretched bosom knows,<br>
+Too deeply feels the gratitude it owes.”<br>
+&emsp;Astonished at her words, perplexed, amazed,<br>
+Reproving, pitying half, the Monarch gazed,<br>
+While o’er his soul, but whence he knew not, came<br>
+The fascination of that mystic dream,<br>
+Which, when he slumber’d in th’ expiring storm,<br>
+In added grace foreshewed the stranger form.<br>
+But soon his better thoughts the spell resist,<br>
+He answer’d calm, as though his ear had miss’d<br>
+The sense of words by strong emotion wrung,<br>
+Unknown, at least unbidden from her tongue.<br>
+&emsp;“Nay, rate not thus,” he spoke, “illustrious maid!<br>
+So slight a service,—in itself repaid.<br>
+Thou tremblest yet!—let Berengaria’s care<br>
+Thy terrors soothe, thy harass’d frame repair.<br>
+Rise, Princess, nor disdain the aid I lend,<br>
+My arm shall guide thee to thy gentle friend.<br>
+&emsp;“To her, beloved of Richard, shall I go,<br>
+And bid her, as she caused, enjoy my woe?<br>
+No, first, inhuman! shed ray vital blood,<br>
+Or give me to the monsters of the wood.<br>
+Rent from a crown, myself, my sire a slave,<br>
+I bore resign’d,—I loved thee, and forgave;<br>
+I loved, I saw thee wed another bride,<br>
+And lived, alas! to wish I then had died.<br>
+Now self-betray’d—ah! whither shall I fly?<br>
+How meet thine own, or Berengaria’s eye!<br>
+Oh! hide me in some cave, where none that knew<br>
+Her happier days, Evanthe’s grief can view;<br>
+Some spot (if such there be) where never fame<br>
+With joyful tongue shall whisper <span class=”smallcaps”>Richard’s</span> name;<br>
+There shall cold vigils waste my youthful prime,<br>
+And tears efface th’ involuntary crime:<br>
+Or rather, since those frowning looks disclose<br>
+Far less than pity for thy victim’s woes,<br>
+Now let me quit this load of life, and find,<br>
+Chief of the iron-heart, this steel more kind.”<br>
+&emsp;“Hear not, ye Heavens!” cried Richard, as he sprung,<br>
+And from her hand the lifted dagger flung.<br>
+“Alas! unhappy maid! this awful night<br>
+Bereaves thy wandering mind of reason’s light!<br>
+Is this Evanthe? she so meekly given<br>
+In calm devotion to her sire and Heaven?<br>
+Whose bosom seem’d so pure, that none might dare<br>
+To deem one thought forbidden harbour’d there!<br>
+Now in her words can guilty passion speak,<br>
+Glow in her eye, and redden on her cheek?<br>
+Where is the downcast look, the pensive air,<br>
+The Cross Evanthe ever wont to wear?<br>
+Hold fast, lost Princess! hold that sacred sign,<br>
+It cures all sorrows, let it solace thine,”<br>
+&emsp;“Ha! am I mock’d!” the beauteous semblance cries,<br>
+While each fair feature swells to giant size,<br>
+While blood-red arms the phantom limbs invest,<br>
+And the red helm displays a sanguine crest:<br>
+“Yet tremble, thou hast spurn’d Evanthe’s charms,<br>
+But what shall save thee from infernal arms?”<br>
+&emsp;“What but that higher Power that Christians trust,<br>
+A Saviour’s blood, a God for ever just.”<br>
+He hurls the fiend to earth; the bands unlace,<br>
+The falling helm betrays a female face,<br>
+Though not Evanthe’s —but the blood forsook<br>
+The Monarch’s cheek, and every fibre shook.—<br>
+He knew those charms in opening youth that stole<br>
+With such seducing witchery on his soul;<br>
+He dared for them with hostile France conspire,<br>
+For them in rebel arms assail’d his sire;<br>
+On holy Pandulph rais’d his impious spear,<br>
+Till Heaven in thunder check’d his mad career.<sup>x</sup><br>
+From hence what length of wars, what weight of woes,<br>
+What long remorse,—but oh! what glory rose!<br>
+For hence in penance to th’ Elect of Heaven,<br>
+With humble heart he sued to be forgiven,<br>
+And robed in sackcloth to their scourges bow’d.[^101]<br>
+Hence, to atone the guilty deed, he vow’d<br>
+His banner on the Sacred Plains should shine,<br>
+His arm affront the conquering Saladine.<br>
+Hence, where Calabria’s mountain-hermit dwelt,<br>
+On each rude rock in pilgrim garb he knelt,<br>
+And wondering heard, what heaven-descended sights<br>
+On Judah’s hills had blest his wakeful nights,<br>
+How from th’ Apocalypse his gifted view<br>
+The past expounded and the future knew;<br>
+Where prescient Heaven, in mystic phrases seal’d<br>
+Its pardon of the Monarch’s crime reveal’d;<br>
+And bade, when Syria saw his flag unfurl’d,<br>
+His name outshine the conquerors of the world.<sup>y</sup><br>
+Hence, when the vital spark should quit his breast,<br>
+Had <span class=”smallcaps”>Richard</span> will’d, that though his heart might rest<br>
+In that dear city which he loved the best,<br>
+(Delighted when her Minster’s fretted height,<br>
+Grew like a child beneath the parent’s sight,)<br>
+His corse, where Everard’s holy springs distil,<br>
+Placed at his father’s feet, should ask forgiveness still.<sup>z</sup><br>
+&emsp;Such painful thoughts officious memory rais’d,<br>
+As bending o’er the prostrate form, he gazed,<br>
+On charms unseen since he believed them pure,<br>
+And vow’d his love should with his life endure:<br>
+While feelings that had slept for years, again<br>
+Burst in full force upon his aching brain,<br>
+“Demon!” he cried, “how well thou know’st the art,<br>
+To torture though thou can’st not shake my heart.<br>
+’Tis but a semblance, yet Alasia’s form<br>
+Arrests my vengeance and unnerves my arm.<br>
+Hence, in His name this blessed sign who bore,<br>
+Delude my sense, and vex these groves no more.”<br>
+&emsp;“Fond man! thou robb’st me of an instant’s power,<br>
+I scent th’ advancing dawn, and know my hour.<br>
+But mark this crest, this armour; mark them yet—<br>
+The face methink’st thou can’st not well forget;<br>
+Thy heart in vain the vision may despise,<br>
+The dread reality shall blast thine eyes.”<br>
+&emsp;As from her narrow cell Aurelia springs,<br>
+And spreads to summer suns her ample wings,<br>
+Thus from the bursting mail Moozallil rose,<br>
+The trembling wood its mighty master knows.<br>
+So vast his stature, that the proudest oaks<br>
+Reached not one ringlet of his raven locks.<br>
+On his dark brow a thousand furies sate,<br>
+Revenge, and pride, and ever-during hate;<br>
+He shuns th’ approaching sun, but leaves the sod<br>
+All black and blasted, where his steps had trod.
+
 What sacred spell is in the morning light, That with the darkness melts the fears of night? Fatigue and pain, and sounds and sights accurst G20 Are vanish'd, like the dreadful dreams they nurst; Up springs each warrior, springs with joyous bound, And calls with cheerful voice his comrades round; At his own fears amazed, and the control Of night and darkness on his alter'd soul. Yet, though with that pervading radiance came Health to the mind, and vigour to the frame, Fresh care succeeds; those stores that prudence pil'd, Are drench'd by rain, by birds obscene defiled. In vain they seek, if haply there may twine 630 The juicy melon, or th' uncultur'd vine; For every fruit in those dark brakes that grew, Scared by its nauseous taste and livid hue. Rank lurid herbs that wizard hands distil, With potent juice to aid their powers of ill; Some whose foul scents their innate guilt declare, Or thorny fruits bid careless hands beware; And some more dangerous far, of fragrant breath, Whose taste is poison, or whose touch is death. Beneath those shades (whose wondering echoes rung With discord harsh) were holy matins sung,
 When <span class="smallcaps">Richard</span> bade to hasten on their way, Nor lose one hour of vigour in delay. ' r Ere night our swords shall all we need obtain. Or force a passage to the friendly main." Now Berengaria came, and on her arm Evanthe, bright in every youthful charm. Well had Moozallil mock'd her eye of blue, Her lips, her cheeks, like roses wash'd in dew; But could not mock that purity of soul, 650 Which breathed a holier beauty through the whole. In every act, each modest glance exprest, In every folding of her spotless vest. Oh! if those powers accurst, that only live In prompting man to ill, could ever give Those charms one moment's sway in <span class="smallcaps">Richard’s</span> heart, 'Twas when in thought he scorn'd their baffled art. The march began, but wearisome and slow,—· Above the woods impede, the bogs below: Blythe were the warriors, when the orb of day, 660 Thro' boughs less dense could send a brighter ray; And when the tainted gale betray'd no more, The damp unwholesome marsh it linger'd o'er. But short their joy, the lessening umbrage shews On Arsouf's heights arrayed the wary foes
 Thick as the blades of grass in vernal hour, Or locusts that those tender blades devour; Gay as the fields when bright with summer dews, Or beds of tulips, deck'd in rainbow hues. (What time to cheat the Haram's weary hours, 670 Voluptuous lamps illume the gaudy flowers.) ad " Ah!" thought the King, c ' how oft my eager sight Has sought this foe, and long'd to close in fight! But now with bands dishearten'd, spent, opprest^— Yet spare these murmurs, Heaven decrees the best. Let our stout yeomen close in firmest rank To form our van, and guard each íengthen'd flank, While all the knights the white-veil'd car surround, Nor trust their steeds amid the broken ground. Albert, Ricardo, long beloved and tried, 680 \ To you with fifty warriors we confide, > In yonder wood, our sister and our bride.— j * St, George for England Ï' be the signal given, Till then restrain your rage, and trust in heaven." Oh, courage! though thy bold, unshrinking hand From flaming pyres could pluck the lighted brand, An army's chief implores a higher power To nerve his mind in battle's awful hour.
@@ -6737,3 +6856,5 @@ Incultisque rubens pendebit sentibus uva;<br>
 Et duræ quercus sudabunt roscida mella.
 
 [^100]: This fountain, frequently mentioned in the history of the Crusades, is about a mile to the south-east of Saphura, between the town and Nazareth. It was a place of rendezvous for the armies belonging to the Kings of Jerusalem, particularly during the reigns of Almaric and Baldwin the Fourth. *Clarke’s Travels*.
+
+[^101]: Richard seems throughout his after life to have been actuated by a sincere repentance for his rebellion to his father. At his accession, he shewed no favour to those who had been his abettors, while he distinguished the faithful friends and counsellors of Henry. On one occasion he prostrated himself, clothed in sackcloth, to an assembly of priests and bishops, confessed his sins, submitted to their reproofs, and even to their scourges, and at last received their absolution.
