@@ -66,8 +66,8 @@ The Third Crusade
 A Poem in Sixteen Books
 </p>
 <p>
-By Eleanor Anne Porden,<br>
-Author of “The Veils,” “The Arctic Expeditions,” and Other Poems.
+by Eleanor Anne Porden,<br>
+Author of “The Veils,” “The Arctic Expeditions,” and Other Poems
 </p>
 <p>
 <span class="smallcaps">Richard</span> that robb’d the Lion of His Heart,<br>
@@ -104,8 +104,8 @@ Eleanor Anne Роrden
 <li><a href="#book05">V. The Arrival of Richard in Palestine</a></li>
 <li><a href="#book06">VI. The Capture of Acre</a></li>
 <li><a href="#book07">VII. The March to Arsouf</a></li>
-<li>VIII. The Battle of Arsouf</li>
-<li>Notes</a></li>
+<li><a href="#book08">VIII. The Battle of Arsouf</a></li>
+<li><a href="#notes01">Notes</a></li>
 </ul>
 </div>
 <div>
@@ -6463,18 +6463,169 @@ Reached not one ringlet of his raven locks.<br>
 On his dark brow a thousand furies sate,<br>
 Revenge, and pride, and ever-during hate;<br>
 He shuns th’ approaching sun, but leaves the sod<br>
-All black and blasted, where his steps had trod.
+All black and blasted, where his steps had trod.<br>
+&emsp;What sacred spell is in the morning light,<br>
+That with the darkness melts the fears of night?<br>
+Fatigue and pain, and sounds and sights accurst<br>
+Are vanish’d, like the dreadful dreams they nurst;<br>
+Up springs each warrior, springs with joyous bound,<br>
+And calls with cheerful voice his comrades round;<br>
+At his own fears amazed, and the control<br>
+Of night and darkness on his alter’d soul.<br>
+Yet, though with that pervading radiance came<br>
+Health to the mind, and vigour to the frame,<br>
+Fresh care succeeds; those stores that prudence pil’d,<br>
+Are drench’d by rain, by birds obscene defiled.<br>
+In vain they seek, if haply there may twine<br>
+The juicy melon, or th’ uncultur’d vine;<br>
+For every fruit in those dark brakes that grew,<br>
+Scared by its nauseous taste and livid hue.<br>
+Rank lurid herbs that wizard hands distil,<br>
+With potent juice to aid their powers of ill;<br>
+Some whose foul scents their innate guilt declare,<br>
+Or thorny fruits bid careless hands beware;<br>
+And some more dangerous far, of fragrant breath,<br>
+Whose taste is poison, or whose touch is death.<br>
+&emsp;Beneath those shades (whose wondering echoes rung<br>
+With discord harsh) were holy matins sung,<br>
+When <span class="smallcaps">Richard</span> bade to hasten on their way,<br>
+Nor lose one hour of vigour in delay.<br>
+“Ere night our swords shall all we need obtain.<br>
+Or force a passage to the friendly main.”<br>
+Now Berengaria came, and on her arm<br>
+Evanthe, bright in every youthful charm.<br>
+Well had Moozallil mock’d her eye of blue,<br>
+Her lips, her cheeks, like roses wash’d in dew;<br>
+But could not mock that purity of soul,<br>
+Which breathed a holier beauty through the whole.<br>
+In every act, each modest glance exprest,<br>
+In every folding of her spotless vest.<br>
+Oh! if those powers accurst, that only live<br>
+In prompting man to ill, could ever give<br>
+Those charms one moment’s sway in <span class="smallcaps">Richard’s</span> heart,<br>
+’Twas when in thought he scorn’d their baffled art.<br>
+The march began, but wearisome and slow,—<br>
+Above the woods impede, the bogs below:<br>
+Blythe were the warriors, when the orb of day,<br>
+Thro’ boughs less dense could send a brighter ray;<br>
+And when the tainted gale betray’d no more,<br>
+The damp unwholesome marsh it linger’d o’er.<br>
+But short their joy, the lessening umbrage shews<br>
+On Arsouf’s heights arrayed the wary foes<br>
+Thick as the blades of grass in vernal hour,<br>
+Or locusts that those tender blades devour;<br>
+Gay as the fields when bright with summer dews,<br>
+Or beds of tulips, deck’d in rainbow hues.<br>
+(What time to cheat the Haram’s weary hours,<br>
+Voluptuous lamps illume the gaudy flowers.)<sup>aa</sup><br>
+“Ah!” thought the King, “how oft my eager sight<br>
+Has sought this foe, and long’d to close in fight!<br>
+But now with bands dishearten’d, spent, opprest—<br>
+Yet spare these murmurs, Heaven decrees the best.<br>
+Let our stout yeomen close in firmest rank<br>
+To form our van, and guard each lengthen’d flank,<br>
+While all the knights the white-veil’d car surround,<br>
+Nor trust their steeds amid the broken ground.<br>
+Albert, Ricardo, long beloved and tried,<br>
+To you with fifty warriors we confide,<br>
+In yonder wood, our sister and our bride.—<br>
+‘St, George for England!’ be the signal given,<br>
+Till then restrain your rage, and trust in heaven.”<br>
+&emsp;Oh, courage! though thy bold, unshrinking hand<br>
+From flaming pyres could pluck the lighted brand,<br>
+An army’s chief implores a higher power<br>
+To nerve his mind in battle’s awful hour.<br>
+The cool quick sight that marks each peril nigh,<br>
+Nor madly braves, nor basely turns to fly;<br>
+The soul that now its valour can repress,<br>
+Now seize the point when daring gives success.<br>
+All these were his, who with one piercing glance<br>
+Each present evil saw, each future chance;<br>
+How well their post the adverse army chose,<br>
+Where on one side th’ Enchanted Forest rose,<br>
+On one fierce Arsouf’s foaming torrent flows,<br>
+While pent in narrow broken ground, unknown,<br>
+Or known to fear, what perils wait his own;<br>
+Who marks each danger, marks it but to foil,<br>
+And, nobly conscious, glories in’his toil.<br>
+&emsp;And these are his whom Europe late beheld,<br>
+When vaunting Gaul, by British might compell’d,<br>
+Left her lost eagles on the fatal field!<br>
+Nor scorn, illustrious Chief! my humble praise—<br>
+Not yet the hour is come when bards shall raise<br>
+Thine far above an elder Arthur’s fame;<br>
+When age shall teach, and infants lisp thy name.<br>
+I speak not of a bloody despot, hurl’d<br>
+From ill-got empire—or a rescued world—<br>
+But (dreadful only in his distant roar)<br>
+That present War deform’d not Albion’s shore;<br>
+That still our altars and our throne endure,<br>
+Our fields are fruitful and our hearths secure;<br>
+That every peaceful home unaltered shews<br>
+Those nameless comforts England only knows.<br>
+All these, our grateful tears confess it true,<br>
+All these to thee, to thee and Heaven are due!
 
-What sacred spell is in the morning light, That with the darkness melts the fears of night? Fatigue and pain, and sounds and sights accurst G20 Are vanish'd, like the dreadful dreams they nurst; Up springs each warrior, springs with joyous bound, And calls with cheerful voice his comrades round; At his own fears amazed, and the control Of night and darkness on his alter'd soul. Yet, though with that pervading radiance came Health to the mind, and vigour to the frame, Fresh care succeeds; those stores that prudence pil'd, Are drench'd by rain, by birds obscene defiled. In vain they seek, if haply there may twine 630 The juicy melon, or th' uncultur'd vine; For every fruit in those dark brakes that grew, Scared by its nauseous taste and livid hue. Rank lurid herbs that wizard hands distil, With potent juice to aid their powers of ill; Some whose foul scents their innate guilt declare, Or thorny fruits bid careless hands beware; And some more dangerous far, of fragrant breath, Whose taste is poison, or whose touch is death. Beneath those shades (whose wondering echoes rung With discord harsh) were holy matins sung,
-When <span class="smallcaps">Richard</span> bade to hasten on their way, Nor lose one hour of vigour in delay. ' r Ere night our swords shall all we need obtain. Or force a passage to the friendly main." Now Berengaria came, and on her arm Evanthe, bright in every youthful charm. Well had Moozallil mock'd her eye of blue, Her lips, her cheeks, like roses wash'd in dew; But could not mock that purity of soul, 650 Which breathed a holier beauty through the whole. In every act, each modest glance exprest, In every folding of her spotless vest. Oh! if those powers accurst, that only live In prompting man to ill, could ever give Those charms one moment's sway in <span class="smallcaps">Richard’s</span> heart, 'Twas when in thought he scorn'd their baffled art. The march began, but wearisome and slow,—· Above the woods impede, the bogs below: Blythe were the warriors, when the orb of day, 660 Thro' boughs less dense could send a brighter ray; And when the tainted gale betray'd no more, The damp unwholesome marsh it linger'd o'er. But short their joy, the lessening umbrage shews On Arsouf's heights arrayed the wary foes
-Thick as the blades of grass in vernal hour, Or locusts that those tender blades devour; Gay as the fields when bright with summer dews, Or beds of tulips, deck'd in rainbow hues. (What time to cheat the Haram's weary hours, 670 Voluptuous lamps illume the gaudy flowers.) ad " Ah!" thought the King, c ' how oft my eager sight Has sought this foe, and long'd to close in fight! But now with bands dishearten'd, spent, opprest^— Yet spare these murmurs, Heaven decrees the best. Let our stout yeomen close in firmest rank To form our van, and guard each íengthen'd flank, While all the knights the white-veil'd car surround, Nor trust their steeds amid the broken ground. Albert, Ricardo, long beloved and tried, 680 \ To you with fifty warriors we confide, > In yonder wood, our sister and our bride.— j * St, George for England Ï' be the signal given, Till then restrain your rage, and trust in heaven." Oh, courage! though thy bold, unshrinking hand From flaming pyres could pluck the lighted brand, An army's chief implores a higher power To nerve his mind in battle's awful hour.
-The cool quick sight that marks each peril nigh, Nor madly braves, nor basely turns to fly; 690 The soul that now its valour can repress, Now seize the point when daring gives success. All these were his, who with one piercing glance Each present evil saw, each future chance; How well their post the adverse army chose, Where on one side th' Enchanted Forest rose, On one fierce Arsouf s foaming torrent flows, While pent in narrow broken ground, unknown, Or known to fear, what perils wait his own; Who marks each danger, marks it but to foil, 700 And, nobly conscious, glories in'his toil. And these are his whom Europe late beheld, When vaunting Gaul, by'British might compell'd, Left her lost eagles on the fatal field! Nor scorn, illustrious Chief! my humble praise— Not yet the hour is come when bttrds shall raise Thine far above an elder Arthur's famej When age shall teach, and infants lisp thy name. I speak not öf a bloody despot, hurl'd From ill-got émpire-^or a rescued world— 710 But (dreadful tíríly in 'his distant roar) That present War deform'd not Albion's shore;
-That still our altars and our throne endure, Our fields are fruitful and our hearths secure; That every peaceful home unaltered shews Those nameless comforts England only knows. All these, our grateful tears confess it true, All these to thee, to thee and Heaven are due!,END OF BOOK VII,
-CŒUR DE LION.,BOOK VIH.,THE BATTLE OF ARSOUF.,VOL, b X
-ARGUMENT.,THE BATTLE OF ARSOUF. The Moslems begin the battle — Are driven back by D'Avesnes — Death ofthat hero-—Exploits of<span class="smallcaps">Richard</span>~—He kills Omar and pursues the Saracens to the torrent of Arsouf — Adel and Saladine fall on the centre — Death of Anglure, of Ferrars } Percy } and the Duke of Suabia — Aladin s Zorayda, and Alma- hide defeat the van, and attach the standard — Death of D'Oyley and Perceval — Advance of the reserve— Piety of Saladine — His prowess — Death of De Coney f and others. — Vision of St. George—Combat between <span class="smallcaps">Richard</span> and Saladine — Meeting of Aladin and Pardo —<span class="smallcaps">Richard</span>routs the Musulman army — Attack on the royal ladies in the forest—Captivity of Matilda — Danger and rescue of Hermesind — Noble conduct of Adel — The Emerald Knight — Hermesind and Ricardo.
-CŒUR DE LION.,BOOK VIH.,THE BATTLE OF ARSOUF* On Arsoufs hill the Moslem myriads shone, Their yellow standards glittering in the sun. 'Mid shouts of " Allah!" and the martial call Of shrill Nacaire, and Zel, and Atabal,* The Soldan views his ranks,—a barded steed On either side attendant Mamlukes lead;,χ 2
-There plumes and banners sink and rise again Like foam on billows of the chafing main; While, motionless as rocks that guard its flow, \ And silent as th' untrodden mountain's brow, 10 > The Christian army frowns in shade below. 7 The sable hauberks clothe the fields in night, \ Save when some biazon'd pennon beams to sight, > Or glares the thirsty steel's portentous light. J The wolves, that hail the thunder-cloud of Avar, Look from their dens; the vultures speed from far. Now showers of javelins hurtle through the sky, Like wintry snows the plumy arrows fly; a The Moslems bleed; their happier foes endure The baffled storm, in stronger mail secure, 20 Their hearts with valour arm'd, their limbs with steel, Unmoved as sculptured forms that cannot feel, They stand,—till <span class="smallcaps">Richard</span> mark'd the Moslems pour From their exhausted sheaves a scantier shower; The signal sounds,—at once the lances beam, The banners wave, and, like a mountain stream, Led by D'Avesnes, burst forth his eager knight3, Drive back the foe, and win the nearer heights. But Mosul's lord, and Mosul's braver heir, Arbelia's pride, and Sandjar' s Prince were there, 30
-Omar and Afdhal, like the morning star, The Soldan's eldest hope, and new to war. They meet the chief, who, all to fury given, Shouts loud his war-cry, " ’Tis the will of Heaven!"* Twice he rush'd on, and twice repulsed, again Spurs his stout charger o'er the heaps of slain. But Adel from a distant height survey'd His brother's wavering bands, and hastes to aid. The arrows bristled in each jewell'd fold Of the rich turban round his helmet roll'd, 40 White waved his triple plume, but white no more, 4 Soon was its silver down bedew'd with gore, \ And each bright fringe his chesnut courser wore, j Where'er he came gay shields in shivers flew, Crests, arms, and mangled limbs the plain bestrew, And steeds ran masterless,—deep groans were mixt With clash of arms, and shouts that rose betwixt. Pierced by his spear was sage Bertulpho slain, Albrando next, both vassals of Louvain; And Antwerp's lord; till, tired of meaner foes, 50 Furious he seeks with great D'Avesnes to close.,x 3
+![curlicue](cue.jpg)
+
+<a id="book08"></a>
+# Book VIII<br>
+
+## The Battle Of Arsouf
+
+On Arsouf’s hill the Moslem myriads shone,<br>
+Their yellow standards glittering in the sun.<br>
+’Mid shouts of “Allah!” and the martial call<br>
+Of shrill Nacaire, and Zel, and Atabal,[^102]<br>
+The Soldan views his ranks,—a barded steed<br>
+On either side attendant Mamlukes lead;<br>
+There plumes and banners sink and rise again<br>
+Like foam on billows of the chafing main;<br>
+While, motionless as rocks that guard its flow,<br>
+And silent as th’ untrodden mountain’s brow,<br>
+The Christian army frowns in shade below.<br>
+The sable hauberks clothe the fields in night,<br>
+Save when some blazon’d pennon beams to sight,<br>
+Or glares the thirsty steel’s portentous light.<br>
+The wolves, that hail the thunder-cloud of war,<br>
+Look from their dens; the vultures speed from far.
+
+&emsp;Now showers of javelins hurtle through the sky,<br>
+Like wintry snows the plumy arrows fly;<sup>a</sup><br>
+The Moslems bleed; their happier foes endure<br>
+The baffled storm, in stronger mail secure,<br>
+Their hearts with valour arm’d, their limbs with steel,<br>
+Unmoved as sculptured forms that cannot feel,<br>
+They stand,—till <span class="smallcaps">Richard</span> mark’d the Moslems pour<br>
+From their exhausted sheaves a scantier shower;<br>
+The signal sounds,—at once the lances beam,<br>
+The banners wave, and, like a mountain stream,<br>
+Led by D’Avesnes, burst forth his eager knights,<br>
+Drive back the foe, and win the nearer heights.<br>
+But Mosul’s lord, and Mosul’s braver heir,<br>
+Arbelia’s pride, and Sandjar’s Prince were there,<br>
+Omar and Afdhal, like the morning star,<br>
+The Soldan’s eldest hope, and new to war.<br>
+They meet the chief, who, all to fury given,<br>
+Shouts loud his war-cry, “’Tis the will of Heaven!”[^103]<br>
+Twice he rush’d on, and twice repulsed, again<br>
+Spurs his stout charger o’er the heaps of slain.<br>
+But Adel from a distant height survey’d<br>
+His brother’s wavering bands, and hastes to aid.<br>
+The arrows bristled in each jewell’d fold<br>
+Of the rich turban round his helmet roll’d,<br>
+White waved his triple plume, but white no more,<br>
+Soon was its silver down bedew’d with gore,<br>
+And each bright fringe his chesnut courser wore,<br>
+Where’er he came gay shields in shivers flew,<br>
+Crests, arms, and mangled limbs the plain bestrew,<br>
+And steeds ran masterless,—deep groans were mixt<br>
+With clash of arms, and shouts that rose betwixt.<br>
+Pierced by his spear was sage Bertulpho slain,<br>
+Albrando next, both vassals of Louvain;<br>
+And Antwerp’s lord; till, tired of meaner foes,<br>
+Furious he seeks with great D’Avesnes to close.<br>
+
 The Flemish lance on Adel's buckler broke, But Adel's scymitar, with mightier stroke Lopp'd one stout leg; nor present death can tame The martyr's soul, such death as leads to fame; His frighted steed pranced wildly o'er the plain, Yet still he grasp'd the unrelaxing rein, Collecting all his strength, to right to left His sword descends, and helm and corslet cleft; Though all the ground was redden'd as he past, 60 Though now each stroke was feebler than the last, He yields not yet, till Adel comes again, And hand and sword fall sever'd to the plain. He sinks in blood, but with his dying breath He calls on Richarb to avenge his death. íc í come, brave Count!" th' impetuous Monarch cried, And plunged his golden spurs in Favel's side: Nor waits his troops; —determined squadrons nigh Oppose his arm, they feel it and they fly, Adel he seeks, but Add distant far, /0 On Otho's bands now waged destructive war: His Egypt bleeds the while; tõ one proud heart Drove <span class="smallcaps">Richard’s</span> spear, then drawing back the dart, He through his comrade thrust with mightier force, And pinn'd him dying to his dying horse,
 Whose spine received the point; the lance he leaves, And to the brain his sword Benama? cleaves. Now Reduan came:—where Thebes of old to war Pour'd through an hundred gates the rattling car His fathers dwelt; he bears no waving crest, 80 Nor brass nor steel his mighty limbs invest · Once (when deserted by the ebbing Nile) He found and slew the slumbering crocodile; Sheathed in its spoils thenceforth he scorns the shield, And either practised hand the sword can wield. But Caliburn, 'gainst which no fence avails, Shivers iike glass the adamantine scales; He falls, he stains the verdant skin with red, "4 His comrade flies, but shooting as he fled, V To <span class="smallcaps">Richard’s</span> ear th' unerring arrow sped. 90* Slight was the wound, such wound as but inspires The hero's soul, and rouses all his fires. He snatch'd an archer's bow,—the Egyptian steed In vain was swift, more swift the winged reed; Beneath his shoulder was the barb addrest, The barb empurpled issued at his breast. Now numbers perish'd, nor the muse may tell Their names, or how by various deaths they fell, Or bravely, or by wounds dishonest gored, Yet few were found to wait th' Armorie sword. 100
 Omar alone, to none whose valour yields, Omar, the hero of an hundred fields, Waves high the yellow badge of Ayoub's blood, While his round shield in proud defiance shew'd A Moslem trampling on the Holy Rood. The King beheld; with fiercer fury stung, He seized the axe that by his saddle hung; The breaking helm was heard, the crashing bone, And Omar from his seat a shapeless mass was thrown. Nought now restrains Plantagenet, —his blows In hideous ruin crush the shrinking foes; While like some winged courser Favel flew, To Arsouf s stream he drives the trembling crew; Alike they fall beneath his axe, or brave The foaming tide, and perish in the wave. Now to the cliffs they rush, nor heed below The rocks, the seas, so much they fear their foe. Again in blood they dye that guilty shore, Of old so deeply stain'd with virgin gore, Till he, the saint that Albion's sons implore, 120 Freed from the dragon's jaws the royal maid, And at her feet the slaughtered monster laid.*
@@ -6516,11 +6667,12 @@ Thou, through thy visor'd casque so rarely seen, Whate'er thou art, apostate, Na
 Who loves the widow's and the orphan's cry, Might find one grief to cloud his victory; Nor farther had our sated rage pursued, Nor stain'd one sword in unoffending blood; Then fear not for your captive, none," he cried, " Dares doubt the spotless faith of Almahide." That dreadful name which oft had spread despair Through marshall'd ranks, now silenced every fear. ίζ Enough," the monarch said, distrust and shame Ply from her presence^—I forbear to blame. And you, brave Christians! let your valiant Lord Forego his fears, and trust an Arab's word. We fight as sovereigns, not as fiends, to gain Or guard our faith, our glory, and our reign. Revenge we love, yet boast our hearts have wou A generous spark from yon all-bounteous sun; And by that only God, whose ruling will Perchance for good designs this seeming ill, By highest heaven, where saints and angels dwell, By the dread bridge and endless flames of hell, To England's King an Arab's faith I plight To bring the Princess with the orient light." 950 He spoke, and from the scene of contest leads, Abash'd and sad young Aladin proceeds;
 While Gaul's proud maid her rival lingering view'd, And curs'd the sword that fail'd to shed her blood. Oh í if our will such baleful power could give, No mortal eye might meet that glance and live. But Hermesind, whose vanity was still Her beacon-light, that led to good or ill -, Graceful before her brave preserver knelt, Pour'd all her thanks, and more than all she felt. 960 Oh! who could hear unmoved, of mortal mould, Such gratitude, so eloquently told In tones so sweet, from lips of hue so bright, Such glowing cheeks, and eyes of liquid light! Yet if slight waving of the warrior's crest, Or silken scarf, some rebel thoughts confest, His words were calm and few.—" T'was knighthood's care, Her boast, her oath, to guard and aid the fair, T'was duty and no more."— " Yet hear," she said, " Nor deem that guile inspires a simple maid, 970 Or curious folly, if I fain would know, To whom my life, or more than life, I owe? Whate'er the cause that makes thee court disguise, My lips shall guard the trust my heart will prize,
 Safe as the wealth to caves of ocean given, Nor breathed, save in my orisons to heaven; Those orisons which call its saints to save, For deathless fame, the generous and the brave." In swifter beat the heaving scarf appear'd, The murmur of preluding speech was heard; 980 When, as by some mistrustful thought inspired, He bowed a mute refusal, and retired. Baffled again, her angry feelings rise, And lightnings flash indignant from her eyes, They glance upon Ricardo's pallid face, And all again is gentleness and grace. Devoted more, but less by fortune blest, Still the fall'n tree his wounded limbs opprest. Who knew like her each fascinating art, In dreams of heaven to lap the willing heart! 990 Her eyes shone bright in tears, her tender hand Was gentlest, first, to fix each needful band; Nor her warm thanks with less of nature came, Though often check'd, as if by virgin shame; Or fear to raise,—since love to hope is prone— Hopes that her calmer reason might disown. Drest by such hands could wounds forbear to close, Could heart so happy vainly court repose?
-As on his couch a lingering moon he lay, Bright rainbow visions wiled its lapse away. 1090 His was a courteous soul, whose livelier powers Could gild the stream of pleasure's social hours; But 'twas a radiance cold and rarely given, Like gleams of sunshine on December's heaven. Sweet were his songs, and framed with tuneful art To soothe or soften, not to raise the heart; While love, which fires the proud to arduous deeds In his mild breast its native sadness feeds. Yet ne'er had pleasure spread such halcyon calm, Ne'er seem'd his hours so redolent of balm, 1010 As now, though oft to thrilling pangs a prey— (Unheeded pangs)—for still with every day She came, like some angelic guest, to bring To his exhausted thoughts another spring. Short was her stay, by modesty restrain'd, Yet like soft fragrance on his soul remain'd Some look, some motion, as she left the tent, Some word or tone, as o'er his couch she bent. He longs for strength, for her to fight, to die; He trembles lest his dream of bliss should fly. 1020,END OF BOOK VIU.
+As on his couch a lingering moon he lay, Bright rainbow visions wiled its lapse away. 1090 His was a courteous soul, whose livelier powers Could gild the stream of pleasure's social hours; But 'twas a radiance cold and rarely given, Like gleams of sunshine on December's heaven. Sweet were his songs, and framed with tuneful art To soothe or soften, not to raise the heart; While love, which fires the proud to arduous deeds In his mild breast its native sadness feeds. Yet ne'er had pleasure spread such halcyon calm, Ne'er seem'd his hours so redolent of balm, 1010 As now, though oft to thrilling pangs a prey— (Unheeded pangs)—for still with every day She came, like some angelic guest, to bring To his exhausted thoughts another spring. Short was her stay, by modesty restrain'd, Yet like soft fragrance on his soul remain'd Some look, some motion, as she left the tent, Some word or tone, as o'er his couch she bent. He longs for strength, for her to fight, to die; He trembles lest his dream of bliss should fly.
 
-## Notes
+<a id="notes01"></a>
+# Notes
 
-BOOK I.
+## Book I
 
 Note (a), page 8, line 42. *Alkarmel, fellest of Messiah’s foes*.
 
@@ -6858,3 +7010,7 @@ Et duræ quercus sudabunt roscida mella.
 [^100]: This fountain, frequently mentioned in the history of the Crusades, is about a mile to the south-east of Saphura, between the town and Nazareth. It was a place of rendezvous for the armies belonging to the Kings of Jerusalem, particularly during the reigns of Almaric and Baldwin the Fourth. *Clarke’s Travels*.
 
 [^101]: Richard seems throughout his after life to have been actuated by a sincere repentance for his rebellion to his father. At his accession, he shewed no favour to those who had been his abettors, while he distinguished the faithful friends and counsellors of Henry. On one occasion he prostrated himself, clothed in sackcloth, to an assembly of priests and bishops, confessed his sins, submitted to their reproofs, and even to their scourges, and at last received their absolution.
+
+[^102]: The nacaire, or long Saracen trumpet, was much used in the times of the Crusades. It is figured in Mr. Hamilton Smith’s Ancient Costume of England. The principal circumstances of the description in the poem are from the Arabic historians. The noise of drums and trumpets, and other martial instruments in the Musulman ranks, is frequently contrasted with the silence of the crusading armies.
+
+[^103]: This was, in former Crusades, the general cry of the soldiers of Christ, but is named as having been particularly used by James of Avesnes in this battle. All the circumstances of his attack and death are historical.
