@@ -380,7 +380,7 @@ With harpings loud and steam of victims slain,<br>
 Invok’d their slumb’ring Baal from morn till even,<br>
 The Prophet’s voice drew down the fire from heaven;<br>
 In after times, Alkarmel’s Altar rose—<br>
-Alkarmel,<sup><a id="#ref01-a" href="note01-a">a</a></sup> fellest of Messiah’s foes;<br>
+Alkarmel,<sup><a id="ref01-a" href="#note01-a">a</a></sup> fellest of Messiah’s foes;<br>
 Though ne’er in walls his vot’ries dared enshrine<br>
 His horrid vastness, or his: form define.<br>
 But hence expell’d, by Mary’s vestal choirs,<br>
