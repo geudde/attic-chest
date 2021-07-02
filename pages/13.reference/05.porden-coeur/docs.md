@@ -6038,10 +6038,66 @@ When serpents died, and every herb of ill,<br>
 And native harvests redden’d every hill;<br>
 The thorny brakes with ruddy grapes were fill’d,<br>
 And the rough oaks a honied dew distill’d.[^99]<br>
-
-At Cana now the pilgrims pause, where first From the gross veil the present Godhead burst; Where, while through every heart amazement rush'd, " The conscious water saw its God and blush'd." Next at Saphura, reverend in decay, To Anna's shrine their duteous homage pay. n Till one fair eve, while lavish dews descend, And the clear stars attemper'd radiance lend, 200 Where the tall plane-trees join'd the acacia's shade, And through the turf a crystal fountain play'd, King <span class="smallcaps">Richard</span> pitch'd his camp, and all around Ten thousand tents coneeal'd the dusty ground. In haste the troops regale; with toil opprest They laid the helmet by, and sunk to rest. * Ipsa tibí blandos fundent cunabula flores. Occidet et serpens, et ŕaílax herba yeneni Occidet; ***** Molli paullaíi/n flavescet campus arista, IncultİMjııe rubens pendebit sentibus uva; Et duræ querei» sudabunt roscìda mella.
-But, lured by silver Cynthia's rising beam, Round the green margin of the gurgling stream, The knights and damsels court the evening breeze; Of their rich burthen rob the bending trees, 210 On saffron turfs the rural banquet spread, *\ Or the cool tamarind's grateful acid shed ч In the clear nectar from the fountain head. 0 * While <span class="smallcaps">Richard</span> with his bride discours'd apart, Each sought the lady dearest to his heart. Flung on a mossy bank, young Raymond seems To count the murmurs of the lucid streams, But love was conscious of a sweeter spell, Where on the waves Matilda's image fell; Evanthe sought behind a leafy screen 220 A shadowy spot, where she might weep unseen; Near the pale heliotrope, whose flower with pain Turns to the sun, and loves, like her, in vain/ Nor heeds that Lusignan's enchanted soul Mark'd each bright tear that o'er her beauty stole. In sooth each knight some soft attraction found, Yet hid in fair excuse the chain that bound: One loved the opening of a laurel glade, 4 One the broad sycamore's majestic shade; \ But each, the spot where sate his favourite maid.230^
-Gay Hermesind, amid the moonbeam's glare, Drew all the youthful and the joyous there; Soft flattery, breathing from the careless heart, Or sighing slaves that dare not own their smart, Bids on her blushing cheek new graces rise, And calls fresh lustre from her laughing eyes. With playful wit she points her conscious charms, Fair, and capricious as those airy forms, That where the moon shines clear, and brighter springs Th' autumnal verdure, weave their mushroom rings, And quit the lily's spacious bell, to tread Their midnight mazes on th' enamell'd mead. Apart from all she mark'd the Knight Unknown, Propp'd on his ample shield, his vizor down, And as she spoke, with arch coquettish grace Flung back the roseate gauze that veil'd her face. i( Why does the Knight of Solitude disdain To mingle with Diana's vestal train? Now by thy grassy plume and emerald shield, By those coy lips in scornful silence seal'd, 250 Approach our ring; ’tis not the tell-tale noon, And vestal's veils are lifted to the moon." " Nay, lady! point not thus, nor thus intreat— I may not fill that envied, dangerous seat;
+&emsp;At Cana now the pilgrims pause, where first<br>
+From the gross veil the present Godhead burst;<br>
+Where, while through every heart amazement rush’d,<br>
+&emsp;“The conscious water saw its God and blush’d.”<br>
+Next at Saphura, reverend in decay,<br>
+To Anna’s shrine their duteous homage pay.<sup>n</sup><br>
+Till one fair eve, while lavish dews descend,<br>
+And the clear stars attemper’d radiance lend,<br>
+Where the tall plane-trees join’d the acacia’s shade,<br>
+And through the turf a crystal fountain play’d, King <span class="smallcaps">>Richard</span> pitch’d his camp, and all around<br>
+Ten thousand tents conceal’d the dusty ground.<br>
+In haste the troops regale; with toil opprest<br>
+They laid the helmet by, and sunk to rest.<br>
+But, lured by silver Cynthia’s rising beam,<br>
+Round the green margin of the gurgling stream,<br>
+The knights and damsels court the evening breeze;<br>
+Of their rich burthen rob the bending trees,<br>
+On saffron turfs the rural banquet spread,<br>
+Or the cool tamarind’s grateful acid shed<br>
+In the clear nectar from the fountain head.<sup>o</sup><br>
+While <span class="smallcaps">Richard</span> with his bride discours’d apart,<br>
+Each sought the lady dearest to his heart.<br>
+Flung on a mossy bank, young Raymond seems<br>
+To count the murmurs of the lucid streams,<br>
+But love was conscious of a sweeter spell,<br>
+Where on the waves Matilda’s image fell;<br>
+Evanthe sought behind a leafy screen<br>
+A shadowy spot, where she might weep unseen;<br>
+Near the pale heliotrope, whose flower with pain<br>
+Turns to the sun, and loves, like her, in vain<sup>p</sup><br>
+Nor heeds that Lusignan’s enchanted soul<br>
+Mark’d each bright tear that o’er her beauty stole.<br>
+In sooth each knight some soft attraction found,<br>
+Yet hid in fair excuse the chain that bound:<br>
+One loved the opening of a laurel glade,<br>
+One the broad sycamore’s majestic shade;<br>
+But each, the spot where sate his favourite maid.<br>
+Gay Hermesind, amid the moonbeam’s glare,<br>
+Drew all the youthful and the joyous there;<br>
+Soft flattery, breathing from the careless heart,<br>
+Or sighing slaves that dare not own their smart,<br>
+Bids on her blushing cheek new graces rise,<br>
+And calls fresh lustre from her laughing eyes.<br>
+With playful wit she points her conscious charms,<br>
+Fair, and capricious as those airy forms,<br>
+That where the moon shines clear, and brighter springs<br>
+Th’ autumnal verdure, weave their mushroom rings,<br>
+And quit the lily’s spacious bell, to tread<br>
+Their midnight mazes on th’ enamell’d mead.<br>
+&emsp;Apart from all she mark’d the Knight Unknown,<br>
+Propp’d on his ample shield, his vizor down,<br>
+And as she spoke, with arch coquettish grace<br>
+Flung back the roseate gauze that veil’d her face.<br>
+&emsp;“Why does the Knight of Solitude disdain<br>
+To mingle with Diana’s vestal train?<br>
+Now by thy grassy plume and emerald shield,<br>
+By those coy lips in scornful silence seal’d,<br>
+Approach our ring; ’tis not the tell-tale noon,<br>
+And vestal’s veils are lifted to the moon.”<br>
+&emsp;“Nay, lady! point not thus, nor thus intreat— I may not fill that envied, dangerous seat;
 For oft, ’tis said, ’mid honour's deathless leaves, If subtle love his fragrant roses weaves, With hue less bright the glossy laurels shine, Fade at his touch, and like the flowers decline. While Salem's throne the bold Amalric claim'd, While Baldwin ruled, this shadowy grove was famed; At earliest summer, round this sacred spring, His nobles wont tojóin Judea's King;* They met, on fire for glory, prompt to ride 'Gainst Sanguin's force, or tame Noureddin's pride. What fitter spot can hear the vows of one, Whose heart now beats at honour's voice alone. See, as I dipp'd my falchion in the stream, The moonlight touch'd it with propitious beam; I will not fear that e'en thy looks have shed A softer power to enervate the blade; 270 Yet not too long I trust that witching eye, I know my danger, and have strength to fly." Piqued at his coldness, vowing that his heart Should yet be hers if she had charms or art,
 She ponder'd on his words, and vainly tried To pierce the secret sense they seem'd to hide. (The voice, through the barr'd vizor heard alone, Nor yet familiar seem'd, nor quite unknown.) With seeming triumph in her looks, the while She blest Ricardo with her sweetest smile. 280 " Lo! he hath spoken—some few trials past Shall find this Orson humanized at last." Then glancing round: " How sweet these moonlight shades, How blest the lot of Syria's happy maids! No toils are theirs, no care but to enjoy All art can give, beneath so pure a sky; Where nature, prodigal of bounty, yields All bards have fabled of Elysian fields."— t't' Ah!" Pardo cried, " can Syria's daughters be The source of envy to a maid like thee! 290 Will Hermesind confess her eyes require The jetty cohol to enhance their fire? Or would she brook to waste a morning's care, The jasmine twining in her sable hair, While stiff with gems her radiant vesture shone, To please one cold or jealous eye alone?
 No! for she emulates that orb divine Whose sultry beams on all creation shine, And brighter arms her eyes' destructive ray, As more sad victims droop beneath their sway." 300 " Nay! scoffing is not safe! some luckless hour E'en thy cold breast may melt in beauty's pow'r."— Her words aroused a serpent at his heart, Yet his gay brow refused to own the smart. t'í Aye, nymph! but never will I bend to one Who loves to break all hearts, but pities none; That like the fen-fire shines but to beguile, Death in her frown, and treachery in her smile; Though thou hast brighter lips, and cheeks, and eyes, Than grace the bowers of Moslem Paradise, 310 If such the heaven thou seek'st to gain, beware; Mahommed paints his houris kind as fair."— But Albeit, silent on a bank reclined, In fancy's glass compares each damsel's mind. Some flowers there are so delicately bright Their leaves expand but to meridian light, And drink, where most Hyperion's fervours stream, With eagle gaze the fullness of his beam; And such was Hermersind, whose beauty shone In the broad sunshine of a court alone, 320
