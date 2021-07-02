@@ -13,7 +13,7 @@ visible: false
 <style>
 h1,h2,h3
 {
-	font-family: “Noto Sans”, Montserrat, Verdana, sans-serif;
+	font-family: "Noto Sans", Montserrat, Verdana, sans-serif;
 	text-align: center;
 	color: black;
 }
@@ -35,7 +35,7 @@ h3 { font-size: 1.4rem; }
 h4
 {
 	font-size: 1.0rem;
-	font-family: “Noto Sans”,sans-serif;
+	font-family: "Noto Sans",sans-serif;
 	color: maroon;
 }
 hr {width: 80%; margin: auto; margin-top: 3em; margin-bottom: 2rem;}
@@ -90,22 +90,22 @@ Eleanor Anne Роrden
 </div>
  
 <hr>
-<div class=”flex-container”>
+<div class="flex-container">
 <div>
 
 <h3>Volume I</h3>
 <ul>
-<li><a href=”#ode”>Ode to the King</a></li>
-<li><a href=”#preface”>Preface</a></li>
-<li><a href=”#book01”>I. The Siege of Acre</a></li>
-<li><a href=”#book02”>II. The Conquest of Cyprus</a></li>
-<li><a href=”#book03”>III. The Nuptials of Richard and Berengaria</a></li>
-<li><a href=”#book04”>IV. The Median Fire</a></li>
-<li><a href=”#book05”>V. The Arrival of Richard in Palestine</a></li>
-<li><a href=”#book06”>VI. The Capture of Acre</a></li>
-<li><a href=”#book07”>VII. The March to Arsouf</a></li>
-<li><a href=”#book08”>VIII. The Battle of Arsouf</a></li>
-<li><a href=”#notes01”>Notes</a></li>
+<li><a href="#ode">Ode to the King</a></li>
+<li><a href="#preface">Preface</a></li>
+<li><a href="#book01">I. The Siege of Acre</a></li>
+<li><a href="#book02">II. The Conquest of Cyprus</a></li>
+<li><a href="#book03">III. The Nuptials of Richard and Berengaria</a></li>
+<li><a href="#book04">IV. The Median Fire</a></li>
+<li><a href="#book05">V. The Arrival of Richard in Palestine</a></li>
+<li><a href="#book06">VI. The Capture of Acre</a></li>
+<li><a href="#book07">VII. The March to Arsouf</a></li>
+<li><a href="#book08">VIII. The Battle of Arsouf</a></li>
+<li><a href="#notes01">Notes</a></li>
 </ul>
 </div>
 <div>
@@ -127,7 +127,7 @@ Eleanor Anne Роrden
 
 <hr>
 
-<a id=”ode”></a>
+<a id="ode"></a>
 ## Ode tо thе King’s Most Excellent Majesty
 
 Ruler of a happy Land!<br>
@@ -275,7 +275,7 @@ True to her equal Laws, her Altar and her King.
 
 <hr>
 
-<a id=”preface”></a>
+<a id="preface"></a>
 ## PREFACE
 
 The greatness of an enterprize, while it increases the diffidence of an Author, almost destroys the right of apology. If, in attempting to celebrate the heroic achievements of <span class="smallcaps">Richard Cœur de Lion</span> in Palestine, and the events of the Third Crusade, I have ventured beyond my strength, I can only say that my fancy was captivated by the chivalrous and romantic spirit which breathes from every page of their history, and that in the wish to see them poetically treated, I forgot my own deficiencies, and also that much of the necessary information was to be derived from sources almost inaccessible to a female.
@@ -306,7 +306,7 @@ In this brief abstract I have merely attempted to recall to the memory of the re
 It only remains for me to express my thanks to those friends who have assisted my labours. To Mr. Gifford, for the benefit which I have derived from his friendly criticism; and to Mr. D’Israeli, and Messrs. Longman and Rees, for the loan of many valuable books.
 
 ![curlicue](cue.jpg)
-<a id=”book01”></a>
+<a id="book01"></a>
 # Book I
 
 While Britain’s annals shine with many a name,<br>
@@ -1279,7 +1279,7 @@ And bids the parting soul ascend to joy.
 
 ![curlicue](cue.jpg)
 
-<a id=”book02”></a>
+<a id="book02"></a>
 # Book II
 
 ## The Conquest of Cyprus
@@ -1894,7 +1894,7 @@ And mock the Tyrant they no longer fear.
 
 ![curlicue](cue.jpg)
 
-<a id=”book03”></a>
+<a id="book03"></a>
 # Book III
 
 ## The Nuptials of Richard and Berengaria
@@ -2957,7 +2957,7 @@ Till morn should rouse to plough the foaming deep.
 
 ![curlicue](cue.jpg)
 
-<a id=”book04”></a>
+<a id="book04"></a>
 # Book IV
 
 ## The Median Fire
@@ -3864,7 +3864,7 @@ And weep their loss, and from their toils repose.
 
 ![curlicue](cue.jpg)
 
-<a id=”book05”></a>
+<a id="book05"></a>
 # Book V
 
 ## The Arrival of Richard in Palestine
@@ -4868,7 +4868,7 @@ Sate silent on her perch, and pined, and died.
 
 ![curlicue](cue.jpg)
 
-<a id=”book06”></a>
+<a id="book06"></a>
 # Book VI
 
 ## The Capture of Acre
@@ -5840,7 +5840,7 @@ Rose with the sun, and blest his golden beams.
 
 ![curlicue](cue.jpg)
 
-<a id=”book07”></a>
+<a id="book07"></a>
 # Book VII
 
 ## The March to Arsouf
@@ -6568,7 +6568,7 @@ All these to thee, to thee and Heaven are due!
 
 ![curlicue](cue.jpg)
 
-<a id=”book08”></a>
+<a id="book08"></a>
 # Book VIII<br>
 
 ## The Battle of Arsouf
@@ -6952,7 +6952,7 @@ While Gaul’s proud maid her rival lingering view’d, And curs’d the sword t
 Safe as the wealth to caves of ocean given, Nor breathed, save in my orisons to heaven; Those orisons which call its saints to save, For deathless fame, the generous and the brave.” In swifter beat the heaving scarf appear’d, The murmur of preluding speech was heard; 980 When, as by some mistrustful thought inspired, He bowed a mute refusal, and retired. Baffled again, her angry feelings rise, And lightnings flash indignant from her eyes, They glance upon Ricardo’s pallid face, And all again is gentleness and grace. Devoted more, but less by fortune blest, Still the fall’n tree his wounded limbs opprest. Who knew like her each fascinating art, In dreams of heaven to lap the willing heart! 990 Her eyes shone bright in tears, her tender hand Was gentlest, first, to fix each needful band; Nor her warm thanks with less of nature came, Though often check’d, as if by virgin shame; Or fear to raise,—since love to hope is prone— Hopes that her calmer reason might disown. Drest by such hands could wounds forbear to close, Could heart so happy vainly court repose?
 As on his couch a lingering moon he lay, Bright rainbow visions wiled its lapse away. 1090 His was a courteous soul, whose livelier powers Could gild the stream of pleasure’s social hours; But ‘twas a radiance cold and rarely given, Like gleams of sunshine on December’s heaven. Sweet were his songs, and framed with tuneful art To soothe or soften, not to raise the heart; While love, which fires the proud to arduous deeds In his mild breast its native sadness feeds. Yet ne’er had pleasure spread such halcyon calm, Ne’er seem’d his hours so redolent of balm, 1010 As now, though oft to thrilling pangs a prey— (Unheeded pangs)—for still with every day She came, like some angelic guest, to bring To his exhausted thoughts another spring. Short was her stay, by modesty restrain’d, Yet like soft fragrance on his soul remain’d Some look, some motion, as she left the tent, Some word or tone, as o’er his couch she bent. He longs for strength, for her to fight, to die; He trembles lest his dream of bliss should fly.
 
-<a id=”notes01”></a>
+<a id="notes01"></a>
 # Notes
 
 ## Book I
