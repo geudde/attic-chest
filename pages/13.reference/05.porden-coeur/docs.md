@@ -6946,16 +6946,239 @@ The young Fitzaubert, who on Arsouf’s plain<br>
 Nurs’d the fond hope of gilded spurs in vain,<br>
 By Almahide to lasting slumber sent,<br>
 His faithful squire shall Leicester long lament.<br>
-&emsp;Loud rings the clash of arms;—the press of war Nearer and nearer thickens round the car: Its purpled wheels are choked with mounds of slain, And its white veils receive a crimson stain. The Christians yield I the Prince with powerful spear Strikes from his seat the hardy charioteer; While Solyman, of all the Mamluke train Bravest and first, usurps the vacant rein.” 380 ‘Twas then, while Múlton with impetuous force On Mosul’s hope impell’d his powerful horse, That Grosvenor (from his hand the falchion thrown) Springs on the wheels, and drags the Moslem down, While his strong knee his struggling foe comprest, His dagger’s point th’ unwilling soul dismist. Orasmin, long his partner of the war, Seeks from the field his dying friend to bear; In vain,—his arms and gilded helm inspire Fierce Bertrand’s grasping soul with strong desire; O’er his slain foe his mighty shield he spread, And by his side he lays Orasmin dead. Alike in Ayoub’s yellow livery drest The field Bedreddin and Miralis prest.
-On Kaled next the bold De Karreo flies, And, cleft by Harcourt’s axe, Shirazin dies. But Bertrand, like some massy tower, defied Abdallah’s strength and overweening pride; Three half-armed Franks upon his lance had bled, “ Breathes there a fourth dares meet its force? “ he said: The Viscount, striking ere he deem’d him near, Lopp’d with his trenchant blade the lifted spear; Then as his arm his sabre’s hilt explored, Deep in his side he drove the fatal sword. But now from Arsouf’s forest moving on, The knights of France and warriors of St. John, With shrill-voiced clarions pierce the troubled air, Fall on the Moslems, and reverse the war; And, long victorious on the neighbouring height, To seek fresh foes descends the Emerald Knight. 410 Graceful as Mars he reins his matchless steed, A milk white jennet of Iberian breed. Meantime th’ Egyptian King the fight survey’d— His arm in dust twice twenty knights had laid, Whose dauntless fronts the snowy Cross display’d. Ţ Now resting from the field, he sees advance The fresh attack—he grasp’d his powerful lance, y 3
-And sought the Soldan —who from war retired, As Moslem rites at glowing noon required, First on his hands the cleansing water pour’d, 420 Then, bent to earth, the God of Heaven adored. His beauteous dwarfs around the Monarch stand, Λ And chaunt harmonious, as their laws command, > That holiest Koran, traced by Omar’s hand; j While all the rush of war, the mingled cry Of rout or conquest, swept unheeded by. c In admiration lost, th’ Egyptian stood, Nor on his brother’s silence dared intrude Till Saladine arose. Then, “ Lo! he cried, i( Where from yon wood Gaul’s red-cross warrio ibride, And with proud Austria’s azure legions come, Our ancient foes, the Champions of the Tomb.” “Charge, Adel! charge! we give them to the sword, In Alla’s name,—be Alla’s name adored!” And calm as when the quiet sod he prest, The dauntless Soldan fix’d the lance in rest; To check th’ advancing squadrons, ere they gain The level ground, and join the English train. Half lost in herbage, where a torreni crost The narrow path, he plant*· his little host; 440
-Soon its blue waves run purple to the main, And the rose-laurel wears a deeper stain. First, pierc’d by Adel’s Land, De Coucy fell, Whose hapless tale Provençal bards shall tell; For ere his soul its earthly prison broke, With faltering accents to his squire he spoke: “ To Fayel’s bride convey this bleeding heart, Whose hapless passion scarce with life shall part; Perchance, though to its living woes severe, She then may grace it with a pitying tear;— 450 Fame, and her love, and Paradise, to gain, I wear the Cross, nor let me wear in vain.”— Alas! the squire, while he his route explored, Met in a wood the lady’s jealous lord; And, all unconscious, to his ear disclosed Within the urn what precious heart reposed. He hears, and credits half the tide: the rest In frightful hues his jaundiced fancy drest; His phrenzy deepens, nor believes the dame, Loved by such knight, could scorn his faithful flame. With savoury spice the wretched heart he drest, And saw his bride enjoy the dreadful feast! Then told the whole;—when she who prized his truth, Even while her virtue shunn’d the hapless youth, γ 4
-Would with no meaner food pollute his tomb, And pining, met the voluntary doom/ Yet did not his fond heart forget to beat, Nor Coucy’s soul desert its earthly seat; Till Ermengard, neglectful of the fight, Of all his sins had shrieved the pious knight. 470 Meanwhile the battle bleeds. On Adel’s spear Died noble Clermont, and the brave San cerre. The Count of Dreux, beside his own arrays His brother’s troop, the vassals of Beauvais; Vaunting he came—but when his eye beheld The scene of death, by sudden terror quell’d, He turn’d his steed; and through his squadrons spread Their leader’s fears, till all in tumult fled. Not so St. Paul’s brave Earl; beneath him slain, Three noble steeds are stiffening on the plain, 480 Fearless he mounts a fourth; his dreadful brand With hideous ruin sweeps the Mamluke band; The Knights of Sion, fired with rage, imbue Their scarlet mantles in a deeper hue. Here Ermengard for deathless fame contends, Here storms Fougères, and Mestoc there defends. But, like some tiger springing from his lair, In battie dreadful as devout in prayer,
-The Soldan seems—on horse and foot alike, His blows descend, and kill where’er they strike. 490 First of the noble fell Tilli ères, and then Castillan’s Baron, and the bold Turenne; Gournay and Ponthieu; q and a warrior drest In sable arms, his helm without a crest; A cedar, once the patriarch of the glade, Crush’d by the bolts of Heaven, his shield display’d, “ How fall’n, and whence!” the mournful legend said. Alas, he perish’d! Not a squire unlaced His casque, or friend the words of peace addrest; None knew that in that humble guise was quell’d 500 A chief that once Edessa’s sceptre held, Whose house should give (from Moslem conquerors won) A race of sovereigns to Byzantium’s throne/ But when unhorsed the Lord of Newburg fell, Lamenting thousands raised the piercing yell; That heart which ne’er to asking want denied, That hand which Europe’s famish’d host supplied, When, whelm’d with countless ills, on Acre’s plain They look’d to Tyre’s relentless Prince in vain,* Is cold! But angel harpings hail on high 510 The “ faithful servant “ to eternal joy.
-Brave as that Lysoi, from whose triumph came His lineal pride, and Montmorency’s name; Graceful in youth, the noble Joscelin flies To proof of arms, and Saladine defies. One in the flower of youth, when just began The supple joints to knit and fix in matı; And one in vigorous age, ere slow decay Unnerved those joints and stole his strength away. Meanwhile where Hubert heap’d thefield with dead, “ Turn, Sarum! turn!” a voice of thunder said; “ Turn, hateful recreant to thy vows profest! How ill those stains beseem thy priestly vest. Has earth or hell an union more abhorr’d? Peace on thy lips, and carnage on thy sword!” He turn’d,—his foe was red with Christian gore, His shield the Prophet’s moony ensign bore; Th’ unvizor’d helm Rodolpho’s face betray’d, A Templar once, but now a renegade.* “ Thou, ti’aitor! say whom most his God shall prize, The man whose sword defends him, or defies?” The priest return’d; by righteous anger sway’d, Deep in Rodolpho’s throat he drove the blade;
-While the warmlife-blood chokes hisstrugglingbreath, His fate he curses, and blasphemes in death. But near the Prelate’s side Guiscardo stood, And spoke aloud, by sudden fear subdued: “ St. George! thou guardian of our English host, Now lend thy aid, or Christendom is lost.’* Sage Hubert smiled: “ Heaven loves not those that fear, 540 A firmer faith had made thy sight more clear. О thou, the strength of England’s line, dispense A brighter beam to his benighted sense.” He pray’d, and Guiscard sees a stranger knight, Steed, arms, and vesture, ail of silver light; But on his casque he bore a dragon crest, A sanguine cross his diamond shield imprest; His lance was gold, and as the lightning glides Through hardest rocks, the Moslem mail divides; Blood spouts around, yet not one drop might dare To stain his radiant arms or glittering spear; While each true martyr, ere he yield his breath, Looks to that stranger’s eye, and smiles in death. Now shouts are heard! from Arsouf s crimson stream Willi thundering speed triumphant Richauj? came.
-He, not too far by present glory led To scorn the havoc far behind him made; Changed like a god the fortune of the war, And the foil’d Moslems quit the half-won car. Oh, Cœur db Lion! why withhold the name 560 With which applauding comrades stamp’d thy fame; When armies fled before thy withering glance, And victory waited on a single lance? Äs earth, and rocks, and bristling wood betray Where the spring torrent forced its furious way, Though Alpine snows supply its rage no more, And the hot sun have wasted all its store; Of arms and steeds, the wounded and the slain, A ghastly track grows dreadful o’er the plain. Such then the terrors of his arm, that still 570 At Richaed’s name Arabian bosoms thrill! The restive courser starts that sound to hear, And infant cries are check’d by sudden fear. u Where yet by Arsouf’s wood the Moslems fought, Dismay and death his biting falchion brought. What checks his conquering course?—a form, a face, Whose youthful beauty oft he loved to trace, Defaced with many a gaping wound, and known By Montmorency’s eaglet-crest alone.
-“ Ah! whence this cruel deed?”—The dying lord 580 Waves the red remnant of his broken sword, And points to Saladine, who on the right Still urged the fainting Lombards into flight. The Monarch spurs to vengeance. “Turn!” he cried, (C By England’s King is Saladine defied. Ah î what avails this throng of martyrs slain? While we, the authors of the war, remain? Let angry strife suspend its mutual rage “4 While we for Sion and for fame engage— 4 Thy fabling Koran, and th’ Eternal Page.” 590^ (i I never brought a ruthless host from far To seek thy crown, and rouse thy world to war; Me not with curses ravaged Europe names, Her harvests trampled, and her towns in flames! The war is thine!—Yet come,” the Soldan cried, 4 “ Ne’er was it said that Saladine denied \ To meet a foe that Islam’s faith defied.” y They wheel around, they rush in full career, Each sits unmoved, and breaks his faithless spear. The Soldan snatch’d a second from his slave, 600 To <span class="smallcaps">Richard’s</span> hand a second Pardo gave; Again th’ impetuous chiefs the course renew, Again on earth the shining splinters flew;
+&emsp;Loud rings the clash of arms;—the press of war<br>
+Nearer and nearer thickens round the car:<br>
+Its purpled wheels are choked with mounds of slain,<br>
+And its white veils receive a crimson stain.<br>
+The Christians yield! the Prince with powerful spear<br>
+Strikes from his seat the hardy charioteer;<br>
+While Solyman, of all the Mamluke train<br>
+Bravest and first, usurps the vacant rein.<sup>n</sup><br>
+‘Twas then, while Multon with impetuous force<br>
+On Mosul’s hope impell’d his powerful horse,<br>
+That Grosvenor (from his hand the falchion thrown)<br>
+Springs on the wheels, and drags the Moslem down,<br>
+While his strong knee his struggling foe comprest,<br>
+His dagger’s point th’ unwilling soul dismist.<br>
+Orasmin, long his partner of the war,<br>
+Seeks from the field his dying friend to bear;<br>
+In vain,—his arms and gilded helm inspire<br>
+Fierce Bertrand’s grasping soul with strong desire;<br>
+O’er his slain foe his mighty shield he spread,<br>
+And by his side he lays Orasmin dead.<br>
+Alike in Ayoub’s yellow livery drest<br>
+The field Bedreddin and Miralis prest.<br>
+On Kaled next the bold De Karreo flies,<br>
+And, cleft by Harcourt’s axe, Shirazin dies.<br>
+But Bertrand, like some massy tower, defied<br>
+Abdallah’s strength and overweening pride;<br>
+Three half-armed Franks upon his lance had bled,<br>
+“Breathes there a fourth dares meet its force?” he said:<br>
+The Viscount, striking ere he deem’d him near,<br>
+Lopp’d with his trenchant blade the lifted spear;<br>
+Then as his arm his sabre’s hilt explored,<br>
+Deep in his side he drove the fatal sword.<br>
+But now from Arsouf’s forest moving on,<br>
+The knights of France and warriors of St. John,<br>
+With shrill-voiced clarions pierce the troubled air,<br>
+Fall on the Moslems, and reverse the war;<br>
+And, long victorious on the neighbouring height,<br>
+To seek fresh foes descends the Emerald Knight.<br>
+Graceful as Mars he reins his matchless steed,<br>
+A milk white jennet of Iberian breed.<br>
+Meantime th’ Egyptian King the fight survey’d—<br>
+His arm in dust twice twenty knights had laid,<br>
+Whose dauntless fronts the snowy Cross display’d.<br>
+Now resting from the field, he sees advance<br>
+The fresh attack—he grasp’d his powerful lance,<br>
+And sought the Soldan —who from war retired,<br>
+As Moslem rites at glowing noon required,<br>
+First on his hands the cleansing water pour’d,<br>
+Then, bent to earth, the God of Heaven adored.<br>
+His beauteous dwarfs around the Monarch stand,<br>
+And chaunt harmonious, as their laws command,<br>
+That holiest Koran, traced by Omar’s hand;<br>
+While all the rush of war, the mingled cry<br>
+Of rout or conquest, swept unheeded by.<sup>c</sup><br>
+In admiration lost, th’ Egyptian stood,<br>
+Nor on his brother’s silence dared intrude<br>
+Till Saladine arose. Then, “Lo! he cried,<br>
+“Where from yon wood Gaul’s red-cross warriors ride,<br>
+And with proud Austria’s azure legions come,<br>
+Our ancient foes, the Champions of the Tomb.”<br>
+&emsp;“Charge, Adel! charge! we give them to the sword,<br>
+In Alla’s name,—be Alla’s name adored!”<br>
+And calm as when the quiet sod he prest,<br>
+The dauntless Soldan fix’d the lance in rest;<br>
+To check th’ advancing squadrons, ere they gain<br>
+The level ground, and join the English train.<br>
+Half lost in herbage, where a torreni crost<br>
+The narrow path, he plants his little host;<br>
+Soon its blue waves run purple to the main,<br>
+And the rose-laurel wears a deeper stain.<br>
+First, pierc’d by Adel’s Land, De Coucy fell,<br>
+Whose hapless tale Provençal bards shall tell;<br>
+For ere his soul its earthly prison broke,<br>
+With faltering accents to his squire he spoke:<br>
+“To Fayel’s bride convey this bleeding heart,<br>
+Whose hapless passion scarce with life shall part;<br>
+Perchance, though to its living woes severe,<br>
+She then may grace it with a pitying tear;—<br>
+Fame, and her love, and Paradise, to gain,<br>
+I wear the Cross, nor let me wear in vain.”—<br>
+Alas! the squire, while he his route explored,<br>
+Met in a wood the lady’s jealous lord;<br>
+And, all unconscious, to his ear disclosed<br>
+Within the urn what precious heart reposed.<br>
+He hears, and credits half the tide: the rest<br>
+In frightful hues his jaundiced fancy drest;<br>
+His phrenzy deepens, nor believes the dame,<br>
+Loved by such knight, could scorn his faithful flame.<br>
+With savoury spice the wretched heart he drest,<br>
+And saw his bride enjoy the dreadful feast!<br>
+Then told the whole;—when she who prized his truth,<br>
+Even while her virtue shunn’d the hapless youth,<br>
+Would with no meaner food pollute his tomb,<br>
+And pining, met the voluntary doom,<sup>p</sup><br>
+Yet did not his fond heart forget to beat,<br>
+Nor Coucy’s soul desert its earthly seat;<br>
+Till Ermengard, neglectful of the fight,<br>
+Of all his sins had shrieved the pious knight.<br>
+&emsp;Meanwhile the battle bleeds. On Adel’s spear<br>
+Died noble Clermont, and the brave Sancerre.<br>
+The Count of Dreux, beside his own arrays<br>
+His brother’s troop, the vassals of Beauvais;<br>
+Vaunting he came—but when his eye beheld<br>
+The scene of death, by sudden terror quell’d,<br>
+He turn’d his steed; and through his squadrons spread<br>
+Their leader’s fears, till all in tumult fled.<br>
+Not so St. Paul’s brave Earl; beneath him slain,<br>
+Three noble steeds are stiffening on the plain,<br>
+Fearless he mounts a fourth; his dreadful brand<br>
+With hideous ruin sweeps the Mamluke band;<br>
+The Knights of Sion, fired with rage, imbue<br>
+Their scarlet mantles in a deeper hue.<br>
+Here Ermengard for deathless fame contends,<br>
+Here storms Fougères, and Mestoc there defends.<br>
+&emsp;But, like some tiger springing from his lair,<br>
+In battle dreadful as devout in prayer,<br>
+The Soldan seems—on horse and foot alike,<br>
+His blows descend, and kill where’er they strike.<br>
+First of the noble fell Tillières, and then<br>
+Castillan’s Baron, and the bold Turenne;<br>
+Gournay and Ponthieu;<sup>q</sup> and a warrior drest<br>
+In sable arms, his helm without a crest;<br>
+A cedar, once the patriarch of the glade,<br>
+Crush’d by the bolts of Heaven, his shield display’d,<br>
+“How fall’n, and whence!” the mournful legend said.<br>
+Alas, he perish’d! Not a squire unlaced<br>
+His casque, or friend the words of peace addrest;<br>
+None knew that in that humble guise was quell’d<br>
+A chief that once Edessa’s sceptre held,<br>
+Whose house should give (from Moslem conquerors won)<br>
+A race of sovereigns to Byzantium’s throne.<sup>r</sup><br>
+&emsp;But when unhorsed the Lord of Newburg fell,<br>
+Lamenting thousands raised the piercing yell;<br>
+That heart which ne’er to asking want denied,<br>
+That hand which Europe’s famish’d host supplied,<br>
+When, whelm’d with countless ills, on Acre’s plain<br>
+They look’d to Tyre’s relentless Prince in vain,<sup>s</sup><br>
+Is cold! But angel harpings hail on high<br>
+The “faithful servant” to eternal joy.<br>
+Brave as that Lysoi, from whose triumph came<br>
+His lineal pride, and Montmorency’s name;<br>
+Graceful in youth, the noble Joscelin flies<br>
+To proof of arms, and Saladine defies.<br>
+One in the flower of youth, when just began<br>
+The supple joints to knit and fix in man;<br>
+And one in vigorous age, ere slow decay<br>
+Unnerved those joints and stole his strength away.<br>
+&emsp;Meanwhile where Hubert heap’d the field with dead,<br>
+“Turn, Sarum! turn!” a voice of thunder said;<br>
+“Turn, hateful recreant to thy vows profest!<br>
+How ill those stains beseem thy priestly vest.<br>
+Has earth or hell an union more abhorr’d?<br>
+Peace on thy lips, and carnage on thy sword!”<br>
+&emsp;He turn’d,—his foe was red with Christian gore,<br>
+His shield the Prophet’s moony ensign bore;<br>
+Th’ unvizor’d helm Rodolpho’s face betray’d,<br>
+A Templar once, but now a renegade.[^111]<br>
+“Thou, traitor! say whom most his God shall prize,<br>
+The man whose sword defends him, or defies?”<br>
+The priest return’d; by righteous anger sway’d,<br>
+Deep in Rodolpho’s throat he drove the blade;<br>
+While the warm life-blood chokes his struggling breath,<br>
+His fate he curses, and blasphemes in death.<br>
+&emsp;But near the Prelate’s side Guiscardo stood,<br>
+And spoke aloud, by sudden fear subdued:<br>
+“St. George! thou guardian of our English host,<br>
+Now lend thy aid, or Christendom is lost.”<sup>t</sup><br>
+&emsp;Sage Hubert smiled: “Heaven loves not those that fear,<br>
+A firmer faith had made thy sight more clear.<br>
+О thou, the strength of England’s line, dispense<br>
+A brighter beam to his benighted sense.”<br>
+&emsp;He pray’d, and Guiscard sees a stranger knight,<br>
+Steed, arms, and vesture, all of silver light;<br>
+But on his casque he bore a dragon crest,<br>
+A sanguine cross his diamond shield imprest;<br>
+His lance was gold, and as the lightning glides<br>
+Through hardest rocks, the Moslem mail divides;<br>
+Blood spouts around, yet not one drop might dare<br>
+To stain his radiant arms or glittering spear;<br>
+While each true martyr, ere he yield his breath,<br>
+Looks to that stranger’s eye, and smiles in death.
+
+Now shouts are heard! from Arsouf’s crimson stream<br>
+With thundering speed triumphant <span class="smallcaps">Richard</span> came.<br>
+He, not too far by present glory led<br>
+To scorn the havoc far behind him made;<br>
+Changed like a god the fortune of the war,<br>
+And the foil’d Moslems quit the half-won car.<br>
+Oh, <span class="smallcaps">Cœur de Lion</span>! why withhold the name<br>
+With which applauding comrades stamp’d thy fame;<br>
+When armies fled before thy withering glance,<br>
+And victory waited on a single lance?<br>
+As earth, and rocks, and bristling wood betray<br>
+Where the spring torrent forced its furious way,<br>
+Though Alpine snows supply its rage no more,<br>
+And the hot sun have wasted all its store;<br>
+Of arms and steeds, the wounded and the slain,<br>
+A ghastly track grows dreadful o’er the plain.<br>
+Such then the terrors of his arm, that still<br>
+At Richaed’s name Arabian bosoms thrill!<br>
+The restive courser starts that sound to hear,<br>
+And infant cries are check’d by sudden fear.<sup>u</sup>u<br>
+&emsp;Where yet by Arsouf’s wood the Moslems fought,<br>
+Dismay and death his biting falchion brought.<br>
+What checks his conquering course?—a form, a face,<br>
+Whose youthful beauty oft he loved to trace,<br>
+Defaced with many a gaping wound, and known<br>
+By Montmorency’s eaglet-crest alone.<br>
+“Ah! whence this cruel deed?”—The dying lord<br>
+Waves the red remnant of his broken sword,<br>
+And points to Saladine, who on the right<br>
+Still urged the fainting Lombards into flight.<br>
+The Monarch spurs to vengeance. “Turn!” he cried,<br>
+“By England’s King is Saladine defied.<br>
+Ah! what avails this throng of martyrs slain?<br>
+While we, the authors of the war, remain?<br>
+Let angry strife suspend its mutual rage<br>
+While we for Sion and for fame engage—<br>
+Thy fabling Koran, and th’ Eternal Page.”<br>
+&emsp;“I never brought a ruthless host from far<br>
+To seek thy crown, and rouse thy world to war;<br>
+Me not with curses ravaged Europe names,<br>
+Her harvests trampled, and her towns in flames!<br>
+The war is thine!—Yet come,” the Soldan cried,<br>
+“Ne’er was it said that Saladine denied<br>
+To meet a foe that Islam’s faith defied.”<br>
+&emsp;They wheel around, they rush in full career,<br>
+Each sits unmoved, and breaks his faithless spear.<br>
+The Soldan snatch’d a second from his slave,<br>
+To <span class="smallcaps">Richard’s</span> hand a second Pardo gave;<br>
+Again th’ impetuous chiefs the course renew,<br>
+Again on earth the shining splinters flew;<br>
+
 Till either Sovereign, casting from his hand The shiver’d truncheon, bares his glittering brand. Now blows descend, above, below, around The lightning flashes and the arms resound; The Soldan’s sword, at <span class="smallcaps">Richard’s</span> head add rest, Cleft from his morion half its broomy crest; While Caliburn through helm and turban glides, 610 And from the Soldan’s arm the mail divides. The Soldan strikes again,—his furious blow- Rings on the buckler of his mighty foe,— It lops the golden boss j but <span class="smallcaps">Richard</span> lent A dreadful stroke, which, on his shoulder sent, Forced him to earth, while, from his burthen freed, Pranced through th’ affrighted rank» the startledsteed. Now <span class="smallcaps">Richard</span> springs to ground, to wage the war On equal terms; but Mosul’s generous heir, Who mark’d his Sovereign’s need, dismounts in haste, And on his seat the wounded Soldan placed. In vain would <span class="smallcaps">Richard</span> now the fight prolong, Around their Chief the faithful Mamlukes throng; With England’s King a desperate strife maintain, And in the press was beauteous Favel slain/ Just as the Monarch with an active bound, Leaped to the seat, he felt the erring wound;
 Deep in his side received the stroke of death, Bent on his knees, and gasp’d his latest breath. Oh î then what wrath in <span class="smallcaps">Richard’s</span> bosom rose, 630 A wrath that issued not in words but blows. What wrath inflamed his Peers! on all the plain With fiercer fires the combat wakes again. On foot the Monarch fights,—the dastard crowd Flies from his single arm; he shouts aloud, i( Bring forth my generous Lyard 1”—at the sound The Norman war-horse paws the echoing ground. Black were his limbs as Pluto’s murky reign, And glittering bells adorn his glossy mane; His furniture was gold;—with wings outspread, 640 A dreadful raven nodded o’er his head. Long had he mourn’d to see the Cyprian steed Usurp his master’s love j—from bondage freed, And prancing to his lord, he joys again In his proud load, and spurns the purple plain, He champs his golden bit, his eyes flash fire, Beneath his hoofs the trampled crowds expire; The living fly, they see their comrades bleed, Nor deem that wond’rous horse of mortal breed. While Caliburn now these, now those, bereft 650 Of life and limb, or to the saddle cleft.
 Such fear ensues, that had not Adel’s hand Enforced the valour which his words command, And been himself their shield, that fatal day Had swept the boast of Ayoub’s race away. But with surpassing rage the Leopard Knight Pursues the Moslem who disturb’d the fight; Seiffeddin’s offspring, by his father’s care Already mounted, and engaged in war. They met, and each the half sheath’d falchion drew, Λ And rais*d, and dropp’d; for each together knew, > One the veil’d shield, and one th’ egret of blue, j t’í Nay,” Pardo cried, t’í our force let others feel, Nor hands once clasp’d in friendship urge the steel; Farewell!”— (i Yet pause,” said Aladin, “ and hear If to thy heart Almanzor’s child be dear: Thou know’st that long (though wars» might intervene) Moheddin sought her for his haram’s queen. Prepared already was her ample dower, And presents given, and fix’d th’ auspicious hour,670 When droop’d the nymph—in vain the Imaums pray’d, Or bound with holy scrolls her burning head; Pale as the unconscious tenant of the tomb, Or blossom withering in the hot simoom,
@@ -6968,7 +7191,7 @@ lil vain with taunts they rouse each faithful knight, Each curbs his rising wrat
 Of fifty, late the guardians of the shade, Cold on the turf are thirty heroes laid; While scarce the rest their ponderous arms sustain, And with a sanguine deluge bathe the plain. Count Mirlo piercing in her mad career, (Her cousin once, when France or kin were dear.)82J Now through the broken ring the fury flies, And hope already grasps th’ expected prize; Evanthe, sickening, faints in mute despair, With clasped hands Matilda sinks in prayer; While Berengaria from a lifeless hand Snatch’d the broad shield, and waved the shiningbrand. “ Death, not pollution for a hero’s bride, For <span class="smallcaps">Richard’s</span> Queen 1” th’ intrepid beauty cried. “■ For <span class="smallcaps">Richard’s</span> Queen!” her ruthless foe replied; {f And who art thou that därest such rank assume? 830 False bird, this hand shall strip thy borrow’d plume.” But Albert sees, no more can Almahide Detain the Knight, he seek his Sovereign’s side; What demon then might match Zorayda’s rage, Again compell’d a desperate strife to wage? Robb’d of a prize that seemed already won, Her glory tarnished, and her vengeance gone. 7. 4
 Nor less Aleppo s Princess blames the Knight, She calls him craven, and demands the fight; While anxious only from Zorayda’s hand 840 To save his Queen, he slights her fierce demand. And she, too generous with unequal force To press a single warrior, turns her horse, And crossing, as she fled, Matilda’s way, Bears through the forest her defenceless prey. Fair Hermesind’s rich robes and courtly mien To Mosul’s erring Prince exprest a Queen j Fawnlike she fled, she seeks the thicker wood, While on his goaded horse the Prince pursued. In vain Ricardo, desperate, crost his way, 850 To buy with life one instant of delay; And seized with powerful grasp the rein of gold, His wounded arm reluctant yields its hold; Yet scarce he feels the smart, one pang possest His faithful soul, and silenced all the rest. It chanced a path the flying virgin took Where dash’d o’er mossy stones a brawling brook; So close the rocks arose, and twining boughs,, That scarce its dizzy verge a pass allows. In need less desperate, ill the timid maid 860 Had dared that narrow dangerous way to tread;
 At least had claim’d Ricardo’s help, and shewn A thousand pretty fears, half feign’d and half her own. Yet fearless now she skims the slippery shore, Nor sees the foam, nor hears the waters roar. Ricardo saw, and while the Persian steed His tedious way with painful labour freed, He, fleetest of the fleet, in wanton course Who oft outmatch’d the stag, or generous horse, Now in the tangled brake by love sustain’d 3 870 Through nearer ways the angry torrent gain’d. Where to the rock above a cedar clung Impending o’er the path; aloft he sprung-— The crashing fibres yield, the falling shade Divides the eager prince and flying maid. In vain 1 —his steed scarce pausing, dares the bound, And lights uninjur’d on the slippery ground; He gains each moment on her slackening flight, He grasps her mantle; while the wretched knight, Crush’d by the load, and struggling in the wave, 880 Hears her loud shrieks,—he hears and cannot save î Who in that deadliest регЦ rush’d between? The Knight Unknown, the Knight of armour green! He who by coy disdain and silent pride Had touch’d a heart to pleading love denied.
-In combat late with Egypt’s King engaged By Arsouf s stream, his dauntless valour waged The íengthen’d contest, till when Asia’s lord With England stood, they sheath’d the mutual sword; Nor since reviving war with fiercer hate Her fires rekindled, had the warriors met. “ 890 Now warn’d by Saiem’s King, who love-inspired, Mark’d where the Moslem Chiefs from fight retired, With him be followed, and as Lusignan To aid the Queen, to raise Evan the ran, For Hermesind he rush’d to fiercest fight, For Hermesind,— who check’d her weary flight. They tought, till Adel spurring through the shade, “ And think not thus to shun my sword,” he said, “ Turn, Christian! turn; and thou young Prince, resign The fight unjust, yon craven’s spoils are mine.” 900 “ Behold me here prepared,” the Knight replied, (i For both or either; be ye both defied! Yet better might thy taunts be aim’d at those Who quit the field to war on female foes.” t’t’ On female foes!” indignant Adel críes, As round the wood he rolls his searching eyes; i( Now praised be Alia! praised the Prophet’s name, No true believer shares this deed of shame.
+In combat late with Egypt’s King engaged By Arsouf’s stream, his dauntless valour waged The íengthen’d contest, till when Asia’s lord With England stood, they sheath’d the mutual sword; Nor since reviving war with fiercer hate Her fires rekindled, had the warriors met. “ 890 Now warn’d by Saiem’s King, who love-inspired, Mark’d where the Moslem Chiefs from fight retired, With him be followed, and as Lusignan To aid the Queen, to raise Evan the ran, For Hermesind he rush’d to fiercest fight, For Hermesind,— who check’d her weary flight. They tought, till Adel spurring through the shade, “ And think not thus to shun my sword,” he said, “ Turn, Christian! turn; and thou young Prince, resign The fight unjust, yon craven’s spoils are mine.” 900 “ Behold me here prepared,” the Knight replied, (i For both or either; be ye both defied! Yet better might thy taunts be aim’d at those Who quit the field to war on female foes.” t’t’ On female foes!” indignant Adel críes, As round the wood he rolls his searching eyes; i( Now praised be Alia! praised the Prophet’s name, No true believer shares this deed of shame.
 Thou, through thy visor’d casque so rarely seen, Whate’er thou art, apostate, Nazarene, 910 And thou young Fatimite, far hence remove, v Too much ye trespass on my brother’s love. And know ye not that, when a city falls, E’en the rude conqueror spares the haram walls? z Christian! in combat we shall meet again — Meanwhile accept for each fair victim slain, Whate’er the price, her double worth in gold, Or two, the fairest that my harams hold. Hundreds they boast that well might pay the debt, Whose veils to me were never lifted yet.”— 920 t’í Moslem! not thus a woman’s worth we prize,” With all a Christian’s auger, Albert cries. “ Say, should thy walls some Cleopatra boast, More fair than her for whom a world was lost, Poor were that ransom for Matilda paid, Our Monarch’s sister, now dishonour’d, dead.” (i Thy foul reproach, ungenerous Christian, spare, Nor stain our glory with so base a fear,” Cried Mosul’s Prince - t —*’ by flattering demons led, We sought in bonds to biud each royal maid, 930 That he who fills Damascus’ Avails with gloom, Who makes our towns a waste, our lands a tomb.
 Who loves the widow’s and the orphan’s cry, Might find one grief to cloud his victory; Nor farther had our sated rage pursued, Nor stain’d one sword in unoffending blood; Then fear not for your captive, none,” he cried, “ Dares doubt the spotless faith of Almahide.” That dreadful name which oft had spread despair Through marshall’d ranks, now silenced every fear. ίζ Enough,” the monarch said, distrust and shame Ply from her presence^—I forbear to blame. And you, brave Christians! let your valiant Lord Forego his fears, and trust an Arab’s word. We fight as sovereigns, not as fiends, to gain Or guard our faith, our glory, and our reign. Revenge we love, yet boast our hearts have wou A generous spark from yon all-bounteous sun; And by that only God, whose ruling will Perchance for good designs this seeming ill, By highest heaven, where saints and angels dwell, By the dread bridge and endless flames of hell, To England’s King an Arab’s faith I plight To bring the Princess with the orient light.” 950 He spoke, and from the scene of contest leads, Abash’d and sad young Aladin proceeds;
 While Gaul’s proud maid her rival lingering view’d, And curs’d the sword that fail’d to shed her blood. Oh í if our will such baleful power could give, No mortal eye might meet that glance and live. But Hermesind, whose vanity was still Her beacon-light, that led to good or ill -, Graceful before her brave preserver knelt, Pour’d all her thanks, and more than all she felt. 960 Oh! who could hear unmoved, of mortal mould, Such gratitude, so eloquently told In tones so sweet, from lips of hue so bright, Such glowing cheeks, and eyes of liquid light! Yet if slight waving of the warrior’s crest, Or silken scarf, some rebel thoughts confest, His words were calm and few.—” T’was knighthood’s care, Her boast, her oath, to guard and aid the fair, T’was duty and no more.”— “ Yet hear,” she said, “ Nor deem that guile inspires a simple maid, 970 Or curious folly, if I fain would know, To whom my life, or more than life, I owe? Whate’er the cause that makes thee court disguise, My lips shall guard the trust my heart will prize,
@@ -7334,3 +7557,5 @@ Et duræ quercus sudabunt roscida mella.
 [^109]: The arms of Grovesnor are a wheat-sheaf: those of Perceval, three white crosses on a field Gules; motto, “*Sub cruce candida*.”
 
 [^110]: From Hamo is derived the family name of Amherst.
+
+[^111]: This incident of a Templar renegade is on record.
