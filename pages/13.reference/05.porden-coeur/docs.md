@@ -7611,11 +7611,15 @@ He trembles lest his dream of bliss should fly.
 ## Book I
 
 <a id="note01-a"></a>
-Note (a), page 8, line 42. *Alkarmel, fellest of Messiah’s foes*.
+Note (a), page 8, line 42.
+
+*Alkarmel, fellest of Messiah’s foes*.
 
 Mount Carmel is memorable in Sacred History as the spot on which Elijah confounded the priests of Baal, and also as the scene of his retirement. The cavern which the Prophet inhabited is still shewn. This mountain seems to have been indeed one of those “high places” selected for religious ceremonies in all ages, and to have witnessed them in all their variety. After the fire of Heaven had thus once destroyed idolatry, we have the authority of Suetonius, that a pagan divinity of the same name with the mountain was worshipped there. He had an altar, and sacrifices, but no temple or statue. Him the Romans transformed into the Carmelian Jove, to whom Vespasian offered a sacrifice, when he came into Syria to subdue the rebel Jews. The Convent of the Virgin next occupied the height; it was in its turn profaned by Mahommedan superstition, but was afterwards restored, and gave rise to the military order of “Our Lady of Mount Carmel,” instituted by Henry the Fourth of France. I believe this convent is still in existence. Carmel has shared the fate of the rest of Syria, where neglect and oppression have made a desert of regions that nature formed a garden. Its summit is craggy, but even there a few wild vines and olive trees attest the fertility for which it was once so famous, and whence it derived its name, Carmel signifying in Hebrew, “the vine of God.” The mountain forms one of the most remarkable headlands on the coast of the Mediterranean.&#160;<a href="#ref01-a" rev="footnote" class="footnote-backref">↩</a>
 
-Note (b), page 9, line 77. *Joy! for this night the Queen Sybilla dies*.
+Note (b), page 9, line 77.
+
+*Joy! for this night the Queen Sybilla dies*.
 
 Sybilla was daughter to Amalric King of Jerusalem, by his first wife Agnes de Courtenay, only child to Joceline de Courtenay, third and last Count of Edessa. She was first married to William Longsword, son of William the Third, Marquis of Montferrat, and elder brother of Conrad of Montferrat. By him she had issue Baldwin the Fifth. Her first husband dying, Sibylla married Guy de Lusignan, whom she is said to have chosen for his personal beauty. At her father’s death, her brother, Baldwin the Fourth, succeeded to the throne of Jerusalem: but he was a leper, and his talents, though considerable, were not equal to supply the inexperience of youth and the defects of nature. He soon fell a victim to his malady, and the unhappy realm of Jerusalem, already involved in dangers from which only the greatest prudence and courage could extricate it, devolved on the infant son of Sybilla and Montferrat. Raymond Count of Tripoli was chosen as his guardian and regent of the kingdom: but he insisted, as he was next male heir to the throne, that the custody of the young king should be shared by Joceline Count of Edessa. The character of Raymond might have been deemed above suspicion, but the event shewed that his fears were prudent, for in less than six months the little Baldwin died, and his mother succeeded him aa Queen, not without suspicion of having contributed to his death.
 
