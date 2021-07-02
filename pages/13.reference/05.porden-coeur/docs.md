@@ -1,9 +1,9 @@
 ---
-title: ‘Coeur de Lion’
+title: 'Coeur de Lion'
 metadata:
-    Author: ‘Eleanor Anne Porden’
-    Keywords: ‘Porden, Eleanor Anne Porden, Richard, Coeur de Lion’
-    Description: ‘Epic poem by Eleanor Anne Porden’
+    Author: 'Eleanor Anne Porden'
+    Keywords: 'Porden, Eleanor Anne Porden, Richard, Coeur de Lion'
+    Description: 'Epic poem by Eleanor Anne Porden'
 taxonomy:
     category:
         - docs
@@ -55,7 +55,7 @@ ul {
 }
 </style>
 
-<div class=”center”>
+<div class="center">
 <p>
 or
 </p>
