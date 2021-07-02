@@ -6098,14 +6098,160 @@ Now by thy grassy plume and emerald shield,<br>
 By those coy lips in scornful silence seal’d,<br>
 Approach our ring; ’tis not the tell-tale noon,<br>
 And vestal’s veils are lifted to the moon.”<br>
-&emsp;“Nay, lady! point not thus, nor thus intreat— I may not fill that envied, dangerous seat;
-For oft, ’tis said, ’mid honour's deathless leaves, If subtle love his fragrant roses weaves, With hue less bright the glossy laurels shine, Fade at his touch, and like the flowers decline. While Salem's throne the bold Amalric claim'd, While Baldwin ruled, this shadowy grove was famed; At earliest summer, round this sacred spring, His nobles wont tojóin Judea's King;* They met, on fire for glory, prompt to ride 'Gainst Sanguin's force, or tame Noureddin's pride. What fitter spot can hear the vows of one, Whose heart now beats at honour's voice alone. See, as I dipp'd my falchion in the stream, The moonlight touch'd it with propitious beam; I will not fear that e'en thy looks have shed A softer power to enervate the blade; 270 Yet not too long I trust that witching eye, I know my danger, and have strength to fly." Piqued at his coldness, vowing that his heart Should yet be hers if she had charms or art,
-She ponder'd on his words, and vainly tried To pierce the secret sense they seem'd to hide. (The voice, through the barr'd vizor heard alone, Nor yet familiar seem'd, nor quite unknown.) With seeming triumph in her looks, the while She blest Ricardo with her sweetest smile. 280 " Lo! he hath spoken—some few trials past Shall find this Orson humanized at last." Then glancing round: " How sweet these moonlight shades, How blest the lot of Syria's happy maids! No toils are theirs, no care but to enjoy All art can give, beneath so pure a sky; Where nature, prodigal of bounty, yields All bards have fabled of Elysian fields."— t't' Ah!" Pardo cried, " can Syria's daughters be The source of envy to a maid like thee! 290 Will Hermesind confess her eyes require The jetty cohol to enhance their fire? Or would she brook to waste a morning's care, The jasmine twining in her sable hair, While stiff with gems her radiant vesture shone, To please one cold or jealous eye alone?
-No! for she emulates that orb divine Whose sultry beams on all creation shine, And brighter arms her eyes' destructive ray, As more sad victims droop beneath their sway." 300 " Nay! scoffing is not safe! some luckless hour E'en thy cold breast may melt in beauty's pow'r."— Her words aroused a serpent at his heart, Yet his gay brow refused to own the smart. t'í Aye, nymph! but never will I bend to one Who loves to break all hearts, but pities none; That like the fen-fire shines but to beguile, Death in her frown, and treachery in her smile; Though thou hast brighter lips, and cheeks, and eyes, Than grace the bowers of Moslem Paradise, 310 If such the heaven thou seek'st to gain, beware; Mahommed paints his houris kind as fair."— But Albeit, silent on a bank reclined, In fancy's glass compares each damsel's mind. Some flowers there are so delicately bright Their leaves expand but to meridian light, And drink, where most Hyperion's fervours stream, With eagle gaze the fullness of his beam; And such was Hermersind, whose beauty shone In the broad sunshine of a court alone, 320
-Where, while around imperial splendour plays, Her eye might bask in, and reflect the blaze. While pale Evanthe, gentle, anxious maid, A pensive violet in its leafy shade, Though from that sun her light of life she drew, Dares not on him to lift her timid view; Yet far unlike the cloister's pallid maids, Or flowers that open as the daylight fades, With charms half lost amid the doubtful light, And incense wasted on th' unconscious night: 330 Her' s was no useless bloom, no lavish'd balm, She sought the lowly dell, the shadowy calm; Yet smiling in the sun, serene in showers, That crush'd or blasted, gayer, prouder flowers, In weal or woe her sweetness would impart, To please the joyous, cheer the drooping heart. " But," thought he, as his mind the theme pursues, ¿And from the scene imbibes its eastern hues, " What flower is she that in her lonely dell Droops mournful now, my own sweet Rosabelle? 340 Ah! when, loved blossom, shalt thou cease to mourn? When shall thy wandering nightingale return? " Now gentle sleep each sparkling eye deprest And rich pavilions tempt to balmy rest:
-For Europe's scanty tents were laid aside, And Western warriors loved Arabian pride, To see rich carpets on the turf unroll'd, And every damask curtain loop'd with gold; While flowery wreaths their midnight scents exhale, And perfumed waters cool the sultry gale. 350 They loved whate'er of gorgeous and of gay Might shed a grace o'er battle's stern array. Yet ere the East proclaimed the rising sun, The tents were lifted and the march begun. Beneath their feet profuse that lily springs Whose golden bloom outvies the robe of kings, 4 And the pale star, by pious pilgrims named From that whose beams a Saviour's birth proclaim'd. r But when at noon the heavy casque opprest, In Nazareth's consecrated shades they rest; 360 Their golden beads with pious reverence tell, And slake their ardour at the Virgin's well. Still with the dawn Arabian maidens bring Their thirsty vases to the sacred spring, But all unconscious of its ancient fame, They breathe no humble prayer to Mary's name; No shrine records where once a Saviour trod, And gladden'd earth confest the infant God.
-Now through Esdrælon's smiling vale they crost, Where Cesarea awes the rocky coast. 370 They halt—but none their conquering course oppose, And at their call the friendly gates unclose. An ample guard the Monarch leaves behind; Then as through Arsouf s rocky vale they wind He counsels caution. Melting in the sky, No more the vast horizon shuns the eye; Not this fair Zabulon's delightful plain, Here ambush'd fraud might lurk, nor lurk in vain/ Where to the south, the angry seas enclose, And to their left the heights of Napolose -, 380 While in the narrow space that wound between Frowns many a broken rock and deep ravine. Here torrents cut the path, here rampant grass, And towering reeds betray the near morass. Nor false the leader's fears—from every height Soon flew the deadly shafts in frequent flight; From mighty blocks of weather-tinctured stone, That seem'd in wrath by warring Titans thrown On the crush'd forest, start the wary foes, From each green tuft, each Avail, each hollow, rose; Each little hamlet seems a fortress now, No spot is safe, no step without a blow.
-Where each rude fragment is a post to gain, Where not one stream is passed till choked with slain. Strange to the ground, with practi&ed foes they meet, Prompt in advance and prompter in retreat; Who see the Christians with their darts perplext, Then quit this lair and wait them from the next; While still the broken ground forbids to close, Nor day brings safety, nor the night repose. 400 In vain is force before a viewless foe, Or prudence, levelfd by a random blow; No space is theirs to charge or to career, Skill, valour, strength, alike are frustrate here. At length a hoary wood the heights o'erspread j ч With caution due the harass'd host survey'd, V And hope for safety in its friendly shade; y Yet deeply marvel that the Soldan's care, Of late so wakeful, plants no ambush there! The hasty trench is dug, the frequent stroke 410 Fells for the solid fjence the knotty oak, While the lopp'd branches, heap'd in many a pjre, Prepare to guard the forest camp with fire. One half the host their anxious vigils keep, Stretched on their arms, the rest solicit sleep. vol. i. и
+&emsp;“Nay, lady! point not thus, nor thus intreat—<br>
+I may not fill that envied, dangerous seat;<br>
+For oft, ’tis said, ’mid honour’s deathless leaves,<br>
+If subtle love his fragrant roses weaves,<br>
+With hue less bright the glossy laurels shine,<br>
+Fade at his touch, and like the flowers decline.<br>
+While Salem’s throne the bold Amalric claim’d,<br>
+While Baldwin ruled, this shadowy grove was famed;<br>
+At earliest summer, round this sacred spring,<br>
+His nobles wont to join Judea’s King;[^100]<br>
+They met, on fire for glory, prompt to ride<br>
+’Gainst Sanguin’s force, or tame Noureddin’s pride.<br>
+What fitter spot can hear the vows of one,<br>
+Whose heart now beats at honour’s voice alone.<br>
+See, as I dipp’d my falchion in the stream,<br>
+The moonlight touch’d it with propitious beam;<br>
+I will not fear that e’en thy looks have shed<br>
+A softer power to enervate the blade;<br>
+Yet not too long I trust that witching eye,<br>
+I know my danger, and have strength to fly.”<br>
+&emsp;Piqued at his coldness, vowing that his heart<br>
+Should yet be hers if she had charms or art,
+She ponder’d on his words, and vainly tried<br>
+To pierce the secret sense they seem’d to hide.<br>
+(The voice, through the barr’d vizor heard alone,<br>
+Nor yet familiar seem’d, nor quite unknown.)<br>
+With seeming triumph in her looks, the while<br>
+She blest Ricardo with her sweetest smile.<br>
+“Lo! he hath spoken—some few trials past<br>
+Shall find this Orson humanized at last.”<br>
+Then glancing round: “How sweet these moonlight shades,<br>
+How blest the lot of Syria’s happy maids!<br>
+No toils are theirs, no care but to enjoy<br>
+All art can give, beneath so pure a sky;<br>
+Where nature, prodigal of bounty, yields<br>
+All bards have fabled of Elysian fields.”—<br>
+&emsp;“Ah!” Pardo cried, “can Syria’s daughters be<br>
+The source of envy to a maid like thee!<br>
+Will Hermesind confess her eyes require<br>
+The jetty cohol to enhance their fire?<br>
+Or would she brook to waste a morning’s care,<br>
+The jasmine twining in her sable hair,<br>
+While stiff with gems her radiant vesture shone,<br>
+To please one cold or jealous eye alone?
+No! for she emulates that orb divine<br>
+Whose sultry beams on all creation shine,<br>
+And brighter arms her eyes’ destructive ray,<br>
+As more sad victims droop beneath their sway.”<br>
+&emsp;“Nay! scoffing is not safe! some luckless hour<br>
+E’en thy cold breast may melt in beauty’s pow’r.”—<br>
+Her words aroused a serpent at his heart,<br>
+Yet his gay brow refused to own the smart.<br>
+“Aye, nymph! but never will I bend to one<br>
+Who loves to break all hearts, but pities none;<br>
+That like the fen-fire shines but to beguile,<br>
+Death in her frown, and treachery in her smile;<br>
+Though thou hast brighter lips, and cheeks, and eyes,<br>
+Than grace the bowers of Moslem Paradise,<br>
+If such the heaven thou seek’st to gain, beware;<br>
+Mahommed paints his houris kind as fair.”—<br>
+&emsp;But Albert, silent on a bank reclined,<br>
+In fancy’s glass compares each damsel’s mind.<br>
+Some flowers there are so delicately bright<br>
+Their leaves expand but to meridian light,<br>
+And drink, where most Hyperion’s fervours stream,<br>
+With eagle gaze the fullness of his beam;<br>
+And such was Hermersind, whose beauty shone<br>
+In the broad sunshine of a court alone,<br>
+Where, while around imperial splendour plays,<br>
+Her eye might bask in, and reflect the blaze.<br>
+While pale Evanthe, gentle, anxious maid,<br>
+A pensive violet in its leafy shade,<br>
+Though from that sun her light of life she drew,<br>
+Dares not on him to lift her timid view;<br>
+Yet far unlike the cloister’s pallid maids,<br>
+Or flowers that open as the daylight fades,<br>
+With charms half lost amid the doubtful light,<br>
+And incense wasted on th’ unconscious night:<br>
+Hers was no useless bloom, no lavish’d balm,<br>
+She sought the lowly dell, the shadowy calm;<br>
+Yet smiling in the sun, serene in showers,<br>
+That crush’d or blasted, gayer, prouder flowers,<br>
+In weal or woe her sweetness would impart,<br>
+To please the joyous, cheer the drooping heart.<br>
+“But,” thought he, as his mind the theme pursues,<br>
+And from the scene imbibes its eastern hues,<br>
+“What flower is she that in her lonely dell<br>
+Droops mournful now, my own sweet Rosabelle?<br>
+Ah! when, loved blossom, shalt thou cease to mourn?<br>
+When shall thy wandering nightingale return?”<br>
+&emsp;Now gentle sleep each sparkling eye deprest<br>
+And rich pavilions tempt to balmy rest:<br>
+For Europe’s scanty tents were laid aside,<br>
+And Western warriors loved Arabian pride,<br>
+To see rich carpets on the turf unroll’d,<br>
+And every damask curtain loop’d with gold;<br>
+While flowery wreaths their midnight scents exhale,<br>
+And perfumed waters cool the sultry gale.<br>
+They loved whate’er of gorgeous and of gay<br>
+Might shed a grace o’er battle’s stern array.<br>
+&emsp;Yet ere the East proclaimed the rising sun,<br>
+The tents were lifted and the march begun.<br>
+Beneath their feet profuse that lily springs<br>
+Whose golden bloom outvies the robe of kings,<sup>q</sup><br>
+And the pale star, by pious pilgrims named<br>
+From that whose beams a Saviour’s birth proclaim’d.<sup>r</sup><br>
+But when at noon the heavy casque opprest,<br>
+In Nazareth’s consecrated shades they rest;<br>
+Their golden beads with pious reverence tell,<br>
+And slake their ardour at the Virgin’s well.<br>
+Still with the dawn Arabian maidens bring<br>
+Their thirsty vases to the sacred spring,<br>
+But all unconscious of its ancient fame,<br>
+They breathe no humble prayer to Mary’s name;<br>
+No shrine records where once a Saviour trod,<br>
+And gladden’d earth confest the infant God.<br>
+&emsp;Now through Esdrælon’s smiling vale they crost,<br>
+Where Cesarea awes the rocky coast.<br>
+They halt—but none their conquering course oppose,<br>
+And at their call the friendly gates unclose.<br>
+An ample guard the Monarch leaves behind;<br>
+Then as through Arsouf’s rocky vale they wind<br>
+He counsels caution. Melting in the sky,<br>
+No more the vast horizon shuns the eye;<br>
+Not this fair Zabulon’s delightful plain,<br>
+Here ambush’d fraud might lurk, nor lurk in vain,<sup>s</sup><br>
+Where to the south, the angry seas enclose,<br>
+And to their left the heights of Napolose;<br>
+While in the narrow space that wound between<br>
+Frowns many a broken rock and deep ravine.<br>
+Here torrents cut the path, here rampant grass,<br>
+And towering reeds betray the near morass.<br>
+Nor false the leader’s fears—from every height<br>
+Soon flew the deadly shafts in frequent flight;<br>
+From mighty blocks of weather-tinctured stone,<br>
+That seem’d in wrath by warring Titans thrown<br>
+On the crush’d forest, start the wary foes,<br>
+From each green tuft, each wall, each hollow, rose;<br>
+Each little hamlet seems a fortress now,<br>
+No spot is safe, no step without a blow.<br>
+Where each rude fragment is a post to gain,<br>
+Where not one stream is passed till choked with slain.<br>
+Strange to the ground, with practised foes they meet,<br>
+Prompt in advance and prompter in retreat;<br>
+Who see the Christians with their darts perplext,<br>
+Then quit this lair and wait them from the next;<br>
+While still the broken ground forbids to close,<br>
+Nor day brings safety, nor the night repose.<br>
+In vain is force before a viewless foe,<br>
+Or prudence, levelled by a random blow;<br>
+No space is theirs to charge or to career,<br>
+Skill, valour, strength, alike are frustrate here.
+
+At length a hoary wood the heights o'erspread j ч With caution due the harass'd host survey'd, V And hope for safety in its friendly shade; y Yet deeply marvel that the Soldan's care, Of late so wakeful, plants no ambush there! The hasty trench is dug, the frequent stroke 410 Fells for the solid fjence the knotty oak, While the lopp'd branches, heap'd in many a pjre, Prepare to guard the forest camp with fire. One half the host their anxious vigils keep, Stretched on their arms, the rest solicit sleep. vol. i. и
 But ьооп their minds disastrous thoughts invade, With withering hue they scan the wond'rous shade; What though no mighty stems, luxuriant, wove Their boughs umbrageous, patriarchs of the grove, The tninkswere white with age, with moss o'ergrown, Deform'd, and struggling with th' incumbent stone. Not like those woods where Nature's hand profuse A thousand forms displays, a thousand hues, Where all the children of the hill combine; Nor like those stately sheets of towering pine Whose graceful pyramids on Jura rise, And blend her misty summits with the skies:— One rounded dwarfish form, one sullen leaf, Clothes the'wide forest in perennial grief; One leaf that, when the naked Winter mourns, 430 Fades not, nor brightens when the Spring returns.' In vain their foes have fled the fatal wood, No rest they found, by deadlier ills pursued. Fiends, that to grieve the noble Tancred there, Could erst the form of armed Clorinda bear, Or wore Armida's smiles, but wore in vain, Send the loud shriek, and clank the heavy chain. Cold poisonous serpents hiss along the ground, The vulture screams, the lion roars around,
 And ever where the thickest branches play'd 440 His dreadful eyes are twinkling in the shade. With naked swords the affrighted warriors hear, Their snorting steeds are bathed in dews of fear \ In vain industrious hands provoke the fire, The rebel flames in dust and blood expire. With sad funereal sound the moaning breeze Swells to a storm, and bends the stubborn trees; The thunder roars, the forked flash appals, And sanguine rain, that blisters where it falls; To each scared wretch his ghastly comrade seems 450 Like those pale forms that haunt distemper'd dreams. Loud scream'd the owl, the raven croaking flew, E'en darkness wore a strange unnatural hue, And her black void is fill'd with shapes of woe; Terrific sights, that day shall never know. Now valour falters,—they that proudly bore The brunt of battle, are themselves no more; Fearless alone, Plantagenet imparts His own brave spirit to their sinking hearts; Cheers, strengthens all—till now at random thrown On a vast slab of dark and rugged stone, Beyond that joyless scene his fancy soars, Reviews the past, the future page explores; и '2
 When lo! a blaze of fiercer lightning came, The wood is radiant with a lambent flame; Shrill shrieks succeed,—Evanthe pale, aghast, Bursts through the adverse boughs and rushes past; Foaming with rage, a ravenous beast pursued, And dreadful roarings echo through the wood; From its broad shoulders streamed its shaggy hair,470 And its red eyes with rage portentous glare. No time to seek the spear or draw the blade, Dauntless he rushed to screen the affrighted maid; O'er his stout arm his velvet mantle wound, And, undismayed, receives the dreadful bound; Huge claws and gnashing teeth in vain assail, Entangled, blunted by his woven mail; Till, as more wide the furious jaws expand, Down the fell throat he thrusts his mighty hand. Tears with resistless force its heart away, 480 And far before him casts the lifeless prey. u Evanthe next he seeks,—with 'wildered look Her slender arms entwined a rugged oak; But, with the weight of gratitude opprest, She comes, she falls on her deliverer's breast. Loose are her tresses, bare her rounded arms, Their faded hue gives interest to her charms,
@@ -6504,3 +6650,5 @@ Occidet;&emsp;\*&emsp;\*&emsp;\*&emsp;\*<br>
 Molli paullatim flavescet campus arista,<br>
 Incultisque rubens pendebit sentibus uva;<br>
 Et duræ quercus sudabunt roscida mella.
+
+[^100]: This fountain, frequently mentioned in the history of the Crusades, is about a mile to the south-east of Saphura, between the town and Nazareth. It was a place of rendezvous for the armies belonging to the Kings of Jerusalem, particularly during the reigns of Almaric and Baldwin the Fourth. *Clarke’s Travels*.
