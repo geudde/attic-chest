@@ -4162,7 +4162,7 @@ For boldly standing on the castled prow,<br>
 He climbs its loftier side, and leaps below.<br>
 Him Leicester followed, fighting as he rose,<br>
 Richmond and Nevile, dealing blows for blows.<br>
-With envy fired, De Vere<sup id="ref05-a"><a href="#note05-a" class="footnote-ref">a</a></sup> and Sackville<sup id="ref05-b"><a href="#note05-b" class="footnote-ref">b</a></sup> spring<br>
+With envy fired, De Vere<sup id="ref05-a"><a href="#note05-a" class="footnote-ref">a</a></sup> and Sackville<sup id="ref05-b"><a href="#note05-a" class="footnote-ref">b</a></sup> spring<br>
 From either rival bark, to aid their King.<br>
 Fast flows the purple tide,—yet wherefore tell<br>
 How Albert fought, or stout Fitzharding<sup id="ref05-c"><a href="#note05-c" class="footnote-ref">c</a></sup> fell,<br>
