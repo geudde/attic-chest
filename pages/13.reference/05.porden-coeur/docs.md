@@ -54,7 +54,6 @@ ul {
   list-style-type: none;
 }
 
-sup {color: red;}
 </style>
 
 <div class="center">
@@ -1315,7 +1314,7 @@ On summer lakes the courtly and the fair.<br>
 Frail as it is, its painted sides contain<br>
 The best and fairest of his princely train,<br>
 Matilda, less in blood than love allied,<br>
-And Berengaria, his affianced bride.<sup>a</sup><br>
+And Berengaria, his affianced bride.<sup id="ref02-a"><a href="#note02-a" class="footnote-ref">a</a></sup><br>
 He hears their cries amid the tempest’s roar,<br>
 He sees them kneeling, him and Heaven implore;<br>
 But as he gazed, to shroud them from his eyes,<br>
@@ -1401,7 +1400,7 @@ Soft odours, strangers to our northern shores.<br>
 &emsp;The wanderer, long by winds and currents driven,<br>
 Finds earth a garden, every port a heaven;<br>
 Can hail Muscovia’s rocks and gelid gloom,<br>
-Though stripes and slavery be the stranger’s doom:<sup>b</sup><br>
+Though stripes and slavery be the stranger’s doom:<sup id="ref02-b"><a href="#note02-b" class="footnote-ref">b</a></sup><br>
 Then in this eager host what raptures rise<br>
 As morn unfolds an earthly Paradise.<br>
 “Prais’d be the Virgin! or what gracious power<br>
@@ -1426,14 +1425,14 @@ Condemn’d, like fabled Tantalus, to bear<br>
 The sight of pleasures which it cannot share.<br>
 Nor more the King approves his herald’s stay,<br>
 “And whence,” he said, “this long, this strange delay?<br>
-Methinks Byzantium’s exiled Lords retain<sup>c</sup><br>
+Methinks Byzantium’s exiled Lords retain<sup id="ref02-c"><a href="#note02-c" class="footnote-ref">c</a></sup><br>
 Their fathers’ pride, though not their fathers’ reign.<br>
 Our shatter’d state demands a speedier aid,<br>
 Nor thanks that love which lingers for parade.”<br>
 &emsp;“Perchance, my liege,” a youthful Noble cried,<br>
 “Far from the shore the Cypriot Chiefs reside.”—<br>
 “Perchance, Earl Leicester! but my father’s coast<br>
-Was still a haven to the tempest tost;<sup>d</sup><br>
+Was still a haven to the tempest tost;<sup id="ref02-d"><a href="#note02-d" class="footnote-ref">d</a></sup><br>
 Ill rules the Sovereign, where a servile train<br>
 Dares wait his royal leave to be humane.<br>
 Our Irish Kernes, Barbarians though they be,<br>
@@ -1472,7 +1471,7 @@ From Christian Prince can Christian Pilgrim fear?”<br>
 “A Christian Prince! Oh no! my generous Lord,<br>
 By Isaac’s soul is Asia’s God ador’d;<br>
 With Saladine eternal faith he swore,<br>
-They lanced their veins, and drank the mingled gore.<sup>c</sup><br>
+They lanced their veins, and drank the mingled gore.<sup id="ref02-e"><a href="#note02-e" class="footnote-ref">e</a></sup><br>
 But I have happier tidings—proud to bear<br>
 Kind greetings from thy Lady of Navarre,<br>
 And England’s Princess—moor’d in safety near,<br>
@@ -1505,7 +1504,7 @@ Nor seem’d her tender dove so void of guile.<br>
 Thy faith, thy country, to my heart are dear,<br>
 And every morn before the Virgin’s shrine,<br>
 I pray for those that fight in Palestine.<br>
-Alas! while yet I speak, thine eyes upbraid;<sup>f</sup><br>
+Alas! while yet I speak, thine eyes upbraid;<sup id="ref02-f"><a href="#note02-f" class="footnote-ref">f</a></sup><br>
 But how may I, a weak and erring maid,<br>
 Unvers’d in state or policy, presume<br>
 To blame those laws that fix the stranger’s doom!<br>
@@ -1520,7 +1519,7 @@ To save my sire from guilt, his wrath I dare.<br>
 Two royal dames are anchor’d nigh, and one<br>
 To whose lost spouse that parent ow’d his throne,[^26]<br>
 But if they touch this inauspicious shore<br>
-Or life or freedom may be theirs no more.<sup>g</sup><br>
+Or life or freedom may be theirs no more.<sup id="ref02-g"><a href="#note02-g" class="footnote-ref">g</a></sup><br>
 So speak my fears—but haste, the task is mine<br>
 To fill this vase with Commanderian wine,<br>
 That wine unmatch’d beneath the bright abodes,<br>
@@ -1628,7 +1627,7 @@ With cautious counsels vex’d his Sovereign’s ear.<br>
 “Most reverend Clerk!” the impatient Chief replies,<br>
 “Read o’er thy Scriptures, there we hold thee wise,<br>
 But know the sword is ours; yet pause—in haste<br>
-A boat puts off—’tis Pembroke comes at last.”<sup>h</sup><br>
+A boat puts off—’tis Pembroke comes at last.”<sup id="ref02-h"><a href="#note02-h" class="footnote-ref">h</a></sup><br>
 He climbs the arduous deck, and climbing speaks,<br>
 “Descend, О King! and crush these treacherous Greeks,<br>
 That outrage Heaven and man—Dread Monarch, see<br>
@@ -1636,7 +1635,7 @@ Thy friendship spurn’d, thyself despis’d in me.<br>
 The mean usurper boasts thy Queen detain’d,<br>
 Unknightly deed! thy shipwreck’d friends enchain’d;<br>
 His Seneschal, who dar’d the act arraign,<br>
-Reft of his ears, will scarce offend again<sup>i</sup><br>
+Reft of his ears, will scarce offend again<sup id="ref02-i"><a href="#note02-i" class="footnote-ref">i</a></sup><br>
 Thou shalt not land! so Isaac swears in scorn,<br>
 Thou dar’st not land! but is he not forsworn?”<br>
 &emsp;Aye, my brave Earl! preventive of thy zeal,”<br>
@@ -1664,7 +1663,7 @@ The Lion’s match, can eagles fear the dove?<br>
 But hark! from Paphian hills a joyful shout!<br>
 Back on his sword returns the flying rout:<br>
 ’Tis Turnham’s well known banner shines on high,<br>
-’Tis Harcourt’s word of battle rends the sky.<sup>k</sup><br>
+’Tis Harcourt’s word of battle rends the sky.<sup id="ref02-k"><a href="#note02-k" class="footnote-ref">k</a></sup><br>
 Where late they languish’d in a dungeon’s gloom<br>
 And shameless Isaac will’d a felon’s doom,<br>
 Urg’d by despair, that fires the noble mind,<br>
@@ -1676,7 +1675,7 @@ Some hostile bosom bleeds, and death attends.<br>
 The Greeks recoil, then first compell’d to know<br>
 The cloth-yard shaft, the force of England’s bow.<br>
 Brave Harcourt seiz’d a steed: “Our fortunes bloom<br>
-In hope no more, the favouring hour is come<sup>l</sup>.”[^30]<br>
+In hope no more, the favouring hour is come<sup id="ref02-l"><a href="#note02-l" class="footnote-ref">l</a></sup>.”[^30]<br>
 So spoke the Knight, his vassals took the word<br>
 And snatch’d from slaughter’d foes the dart or sword.<br>
 Meanwhile the Queen addrest her little band:<br>
@@ -1777,7 +1776,7 @@ And honey flows from each melodious tongue.<br>
 They love to wander in Idalian bowers,<br>
 And wreathe their golden locks with virgin flowers;<br>
 Or as they strip them from the vernal grove<br>
-To bid the senseless blossoms whisper love.<sup>m</sup><br>
+To bid the senseless blossoms whisper love.<sup id="ref02-m"><a href="#note02-m" class="footnote-ref">m</a></sup><br>
 &emsp;But she who, as in birth, in form transcends,<br>
 Before the throne, a beauteous mourner, bends,<br>
 And drops her veil; still humble, meek in power,<br>
@@ -1890,7 +1889,7 @@ Thou harmless snake, unworthy hate or fears;<br>
 Whose secret venom wants the fangs to kill,<br>
 Curst with the wish, without the power of ill.<br>
 But thank thy better stars that I withhold<br>
-The Persian Tyrant’s doom; to starve on gold.”<sup>n</sup><br>
+The Persian Tyrant’s doom; to starve on gold.”<sup id="ref02-n"><a href="#note02-n" class="footnote-ref">n</a></sup><br>
 &emsp;He spoke: the Greeks with smiles obsequious hear,<br>
 And mock the Tyrant they no longer fear.
 
@@ -7748,11 +7747,30 @@ their conquest of England, bounded their voyages to the passage of the channel. 
 ## Book II
 
 <a id="note02-a"></a>
-Note (a), page 54, line 30.&emsp;And Berengaria, his affianced bride.*
+Note (a), page 54, line 30.&emsp;*And Berengaria, his affianced bride.*
 
-Vinesauf speaks of the vessel which contained the Queens as being light and fragile. Note (b), page 58, line 116. Though stripes and slavery be the strangers doom. All those frightful tales of cruelty to the unhappy wanderer, which now appear almost as dreams of imagination, seem to have been realized in Russia during the middle ages. Tbat country was then sunk in the abyss of slavery and ignorance—knowledge was forbidden, and even the recent introduction of an imperfect Christianity had not ameliorated the condition of the people. The unfortunate pilgrim who was 2 в 3
-bhipwrecked, or led by any accident t that inhospitable чЬоге, became a slave, and the attempt to ìeturn to his own country was punished with death.— Mmlhf, &c. Note (c), page 59, line 141. Methinks Bi/zantium s exiled Lords i dai n Cyprus was at this period undei the dominion of Isaac Comnenus, nephew to Manuel Comnenus, the last of that house who filled the throne of Constantinople. In the dib- ordeib which followed on the usurpation of the imperial dignity by the mfamoub Andromcus, Isaac fled to Cyprus, and forging letters from the new empeior, and obtaining the assistance of the fleet, sent by William Kmg of Sicily to the Crusades, he was acknowledged as governor of that island. But he soon threw off his feigned allegiance, and u&urped the imperial title. Note (d), page 59, line 148. Was still a haven to the tempest tost. il Henry ьо far abolished the barbarous and absurd practice of confiscating àhips which had been wrecked on the coast, that he ordained, that if one man or animal were ah\e in the ship, that the vessel and goods should be restored to its owners ‘ —Hume, Henry II. Fuller commends <span class="smallcaps">Richard</span> for confnming and extending these lawb The ruless which he enacted for the maintenance of order on board his fleet, though strongly marked with the character of the times, seem to have been dictated by good policy. Ricuahd has also had the credit of a set of regulations t ompiled m Trance under bt. Lows, and chiefly borrowed from the “ Consolato del Mare,” or earhebt man time code of the middle ages, which was promulgated at Barcelona in the beginning ot the thirteenth century, and bemg acceded to by Philip Augustus and the Count of Provence, became binding in the Mediterranean, Mr. Hallam
-says, that these regulations were called the “ Laws of Oleron,” from an idle story that they were enacted by <span class="smallcaps">Richard</span> I., while his fleet lay at anchor in that island on its voyage to the Holy Land. But it is unlikely that another nation should give an English Sovereign the credit of any improvement which it might itself have disputed, and I think it probable that the “ Laws of Oleron” originated with Richard, though they may have been first collected and consolidated under St. Louis. The time of <span class="smallcaps">Richard</span> was then too recent, for a forgery to have derived any advantage from the supposed antiquity. Note (e), page 61, line 186. They lanced their veins, and drank the mingled gore. Vinesauf, after having observed that Cyprus, which had formerly been a source of wealth of Palestine, now became its enemy, adds, in speaking of Isaac, ‘* Saladino dicebatur familiáris, et mutuum singuíi hausisse cruorem, in signum et testimonium initæ invicem confsederationis, tanquam ex commixtione sanguinis exterius revera fièrent consanguinei.” The story is probably fabulous, but this superstitious and revolting rite of friendship does not yet seem to be totally obsolete among the Greeks. Kote (f), page 69, line 200. As guests we enter d, but as captives staid. This account is principally taken from Vinesauf. Note (g), page 63, line 234. Or life or freedom?nay be theirs no more. It appears to have been a custom with Isaac to rob and imprison strangers, but the rank and power of the guests whom he was now incensing shoidd have told liini that humanity was prudence. 2 в 4
+Vinesauf speaks of the vessel which contained the Queens as being light and fragile.&#160;<a href="#ref02-a" rev="footnote" class="footnote-backref">↩</a> 
+
+<a id="note02-b"></a>
+Note (b), page 58, line 116.&emsp;*Though stripes and slavery be the stranger’s doom.*
+
+All those frightful tales of cruelty to the unhappy wanderer, which now appear almost as dreams of imagination, seem to have been realized in Russia during the middle ages. That country was then sunk in the abyss of slavery and ignorance—knowledge was forbidden, and even the recent introduction of an imperfect Christianity had not ameliorated the condition of the people. The unfortunate pilgrim who was shipwrecked, or led by any accident to that inhospitable shоге, became a slave, and the attempt to return to his own country was punished with death. — *Mailly, &c.*&#160;<a href="#ref02-b" rev="footnote" class="footnote-backref">↩</a> 
+
+<a id="note02-c"></a>
+Note (c), page 59, line 141.&emsp;*Methinks Byzantium’s exiled Lords return.*
+
+Cyprus was at this period under the dominion of Isaac Comnenus, nephew to Manuel Comnenus, the last of that house who filled the throne of Constantinople. In the disorders which followed on the usurpation of the imperial dignity by the infamous Andronicus, Isaac fled to Cyprus, and forging letters from the new emperor, and obtaining the assistance of the fleet, sent by William King of Sicily to the Crusades, he was acknowledged as governor of that island. But he soon threw off his feigned allegiance, and usurped the imperial title.&#160;<a href="#ref02-c" rev="footnote" class="footnote-backref">↩</a>
+
+<a id="note02-d"></a>
+Note (d), page 59, line 148.&emsp;*Was still a haven to the tempest tost.*
+
+“Henry sо far abolished the barbarous and absurd practice of confiscating ships which had been wrecked on the coast, that he ordained, that if one man or animal were alive in the ship, that the vessel and goods should be restored to its owners.” — *Hume, Henry II.*
+
+Fuller commends <span class=”smallcaps”>Richard</span> for confnming and extending these lawS. The ruless which he enacted for the maintenance of order on board his fleet, though strongly marked with the character of the times, seem to have been dictated by good policy. <span class=”smallcaps”>Richard</span> has also had the credit of a set of regulations compiled in France under St. Louis, and chiefly borrowed from the “Consolato del Mare,” or earliest maritime code of the middle ages, which was promulgated at Barcelona in the beginning ot the thirteenth century, and being acceded to by Philip Augustus and the Count of Provence, became binding in the Mediterranean, Mr. Hallam says, that these regulations were called the “Laws of Oleron,” from an idle story that they were enacted by <span class=”smallcaps”>Richard</span> I, while his fleet lay at anchor in that island on its voyage to the Holy Land. But it is unlikely that another nation should give an English Sovereign the credit of any improvement which it might itself have disputed, and I think it probable that the “Laws of Oleron” originated with Richard, though they may have been first collected and consolidated under St. Louis. The time of <span class=”smallcaps”>Richard</span> was then too recent, for a forgery to have derived any advantage from the supposed antiquity.&#160;<a href=”#ref02-d” rev=”footnote” class=”footnote-backref”>↩</a>
+
+Note (e), page 61, line 186. They lanced their veins, and drank the mingled gore. Vinesauf, after having observed that Cyprus, which had formerly been a source of wealth of Palestine, now became its enemy, adds, in speaking of Isaac, ‘* Saladino dicebatur familiáris, et mutuum singuíi hausisse cruorem, in signum et testimonium initæ invicem confsederationis, tanquam ex commixtione sanguinis exterius revera fièrent consanguinei.” The story is probably fabulous, but this superstitious and revolting rite of friendship does not yet seem to be totally obsolete among the Greeks.
+
+Note (f), page 69, line 200. As guests we enter d, but as captives staid. This account is principally taken from Vinesauf. Note (g), page 63, line 234. Or life or freedom?nay be theirs no more. It appears to have been a custom with Isaac to rob and imprison strangers, but the rank and power of the guests whom he was now incensing shoidd have told liini that humanity was prudence. 2 в 4
 Note (h), page 68, hne 341. A haat puU off—tis Pembroke comes at last. The name of the clerk was Hugo del Mare, the anecdote is fiom Vinesauf. Note (i), page 69, line 349. Heft of his ears, will scarce offend again. It is a great proof of the respect in which Richaro held the laws of honour and of nations, that notwithstanding his impetuous character, and the distressed state of his vessels, he should have waited so long for the return of his ambassadors, «horn Isaac had the temerity to dismiss with insult. The incident of the Seneschal is from the metrical romance of “ Cœur de Lion,” in which the Emperor orders hib nose to be cut off, and the reader is gravely informed that his face was spoiled in consequence. The story accords sufficiently w ith the historical character of the Usurper, and is likewise countenanced by a passage in Hoveden, \vhith has been already noticed by Mr. Ellis. Note, page 70, line 376. ‘Tıs Turnham’s well known banner shines on high. Sir Stephen Turnham, the King’s Marshal and Tiea- surer. Note, page 70, line 377. One Bosco seized, foi knighthood scorn’d not then Wdham de Bosco, a Norman. See Vinesauf. Wote, page 71, line 399. The gallant Robert, heir of Grosvenors line. Sir Robert le Grosvenor distinguished himself at Messina and at Cyprus, as well as m the subsequent events of the Crusades.
 Note (m), page 75, line 490. To bid the senseless blossoms whisper love. The women of Cyprus are said to be skilful in the language of flowers, and to be remarkable for their attachment to them as an ornament, in preference to any other; not- vnthstanding that the island abounds in mineral wealth, and that the Paphian diamonds are exported to many nations of the Levant, who value them more highly. Note (n), page 80, line 603. The Persian tyrant’s doom, to starve on gold. The Persian monarch Khosroes, having an idea of causing his son Mardasan to be crowned as his successor, his eldest born Siróes, jealous of this preference, followed the example which Khosroes had set him in rebelling against his own father, and shut him up in a place called the Tower of Darkness, which he had built as the repository of his treasures. Gold and precious stones were heaped around him, and when he asked for food, be was bidden to feast on thpt wealth of which be had been so insatiable: and thus grief and hunger terminated the existence of a prince, whose reign had been among the most glorious in the Persian annals.,BOOK III. Note (a), page 87, line 92. From Tancred forced her freedom and her dowo. The author must here beg pardon of all who may be interested in the fame of William the Second of Sicily, for having, to suit her story, bestowed upon that monarch a less amiable character than history assigns to him; in short, for having arrayed him rather in bis grandfather’s colours than his own; though the appellations of the Bad and the Good
 are neither of them perfectly consistent with historical truth. At the death of William, Sicily became a scene of confusion. Constantia, daughter of Roger, the father of William, and married by the ambitious policy of Fredciic Barbarossa to his second son Henry, afterwards emperor, was the legitimate heiress. But Tancred, the bastard oiFspnng of William, with the aid of a strong party in the lisland, which could ill brook the idea of a foreign master, or a female reign, usurped the sovereignty, and threw Matilda the widow of William into prison.<span class="smallcaps">Richard</span>arrived shortly after at Messina, wher Tancred found it prudent to set her at libeity, and to compromise the claims which <span class="smallcaps">Richard</span> made upon him for her dower, and for the wealth which William had bequeathed to Henry the Second of England, by the payment of twenty thousand ounces of golà as a compensation for the dower, twenty thousand ounces for the legacies, and by agreeing to equip ten gallies and six palanders or horse transports, for the use of the Crusaders.— Hoveden, Mills, fyc. Note (b), page 87, line 100. To England’s P? imate gave the Cypi um crown. Matthew Paris gives a particular account of the ceremonies of King <span class="smallcaps">Richard’s</span> Coionation in England; and аь the forms of this august festival have lately been so much an object of public interest, I perhaps cannot do better than transcribe Dr. Milner’s translation of, and remarks upon the passage, from his letter in “ Carter’s Specimens of Ancient Sculpture and Painting.” “ As we have m Matthew Paris, an account of the dress in which Henry the Second was buried, so have we of that in which <span class="smallcaps">Richard</span> the First was crowaed. Having described the ornaments, and mode of procession of the assistants, the monk of St. Alban ‘s goes on; i They then stripped him of all his clothes except hiß breeches and his shirt, which was unsewed between the bhoulders, for the convenience of anoiating; being thin-shod with sandale worked with gold, the Archbishop Baldwiu
