@@ -8284,8 +8284,9 @@ During the siege of Acre the Christians often received intelligence of the inten
 ## Book VI
 
 <a id="note06-a"></a>
-§ Note (a), page 224, line 20. The toui of wa — ш youth had Jtrwotth s hand. Both the houses oi Cddogan and Hampden tiace then lineage back to the lenowned Caradoc Fruch bias oi Впи bas, one of the most famoub of Aitimi s peei*, and no les.* lenowntd f oi his fidelity in lo\e, than hi* \aloui in wai. fiie poem alludes to the Fabliau ol · T!u Vaatle made amiss’ in which Sn Сакнюсъ ladj wm* the magit gaib, which would ht no damsel who*c heait had e\ei been touched
-with inconstancy. Jerwortli was a family name of the hoi.se of Hampden or Trevor. 
+§ Note (a), page 224, line 20.&emsp;*The soul of war—in youth had Jerworth’s hand.*
+
+Both the houses of Cadogan and Hampden trace their lineage back to the renowned Caradoc *Friech bras* or *Вrise bras*, one of the most famous of Arthur’s peers, and no less renowned for his fidelity in love, than his valour in war. The poem alludes to the Fabliau of “The Mantle made amiss” in which Sir Caradoc’s lady wins the magic garb, which would fit no damsel whose heart had ever been touched with inconstancy. Jerworth was a family name of the house of Hampden or Trevor.&#160;<a href="#ref06-a" rev="footnote" class="footnote-backref">↩</a>
 
 Nore(b), page 230, Ime 131. And by hi’, hand the youthful Oibert die·;. Obbeit, descended from Geofhev de Clinton, Loid Cham- bei lain and fie as urer to Henry the Fust. His descendant·s are now Duket* of Newcastle. 
 
