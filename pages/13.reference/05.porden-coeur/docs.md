@@ -7766,7 +7766,7 @@ Cyprus was at this period under the dominion of Isaac Comnenus, nephew to Manuel
 
 “Henry sо far abolished the barbarous and absurd practice of confiscating ships which had been wrecked on the coast, that he ordained, that if one man or animal were alive in the ship, that the vessel and goods should be restored to its owners.” — *Hume, Henry II.*
 
-Fuller commends <span class=”smallcaps”>Richard</span> for confnming and extending these laws. The rules which he enacted for the maintenance of order on board his fleet, though strongly marked with the character of the times, seem to have been dictated by good policy. <span class=”smallcaps”>Richard</span> has also had the credit of a set of regulations compiled in France under St. Louis, and chiefly borrowed from the “Consolato del Mare,” or earliest maritime code of the middle ages, which was promulgated at Barcelona in the beginning ot the thirteenth century, and being acceded to by Philip Augustus and the Count of Provence, became binding in the Mediterranean, Mr. Hallam says, that these regulations were called the “Laws of Oleron,” from an idle story that they were enacted by <span class=”smallcaps”>Richard</span> I, while his fleet lay at anchor in that island on its voyage to the Holy Land. But it is unlikely that another nation should give an English Sovereign the credit of any improvement which it might itself have disputed, and I think it probable that the “Laws of Oleron” originated with Richard, though they may have been first collected and consolidated under St. Louis. The time of <span class=”smallcaps”>Richard</span> was then too recent, for a forgery to have derived any advantage from the supposed antiquity.&#160;<a href=”#ref02-d” rev=”footnote” class=”footnote-backref”>↩</a>
+Fuller commends <span class=”smallcaps”>Richard</span> for confnming and extending these laws. The rules which he enacted for the maintenance of order on board his fleet, though strongly marked with the character of the times, seem to have been dictated by good policy. <span class=”smallcaps”>Richard</span> has also had the credit of a set of regulations compiled in France under St. Louis, and chiefly borrowed from the “Consolato del Mare,” or earliest maritime code of the middle ages, which was promulgated at Barcelona in the beginning ot the thirteenth century, and being acceded to by Philip Augustus and the Count of Provence, became binding in the Mediterranean, Mr. Hallam says, that these regulations were called the “Laws of Oleron,” from an idle story that they were enacted by <span class=”smallcaps”>Richard</span> I, while his fleet lay at anchor in that island on its voyage to the Holy Land. But it is unlikely that another nation should give an English Sovereign the credit of any improvement which it might itself have disputed, and I think it probable that the “Laws of Oleron” originated with Richard, though they may have been first collected and consolidated under St. Louis. The time of <span class=”smallcaps”>Richard</span> was then too recent, for a forgery to have derived any advantage from the supposed antiquity.&#160;<a href="#ref02-d" rev="footnote" class="footnote-backref">↩</a>
 
 <a id="note02-e"></a>
 § Note (e), page 61, line 186.&emsp;*They lanced their veins, and drank the mingled gore.*
@@ -7776,32 +7776,32 @@ Vinesauf, after having observed that Cyprus, which had formerly been a source of
 <a id="note02-f"></a>
 § Note (f), page 69, line 200.&emsp;*As guests we enter’d, but as captives staid.*
 
-This account is principally taken from Vinesauf.&#160;<a href=”#ref02-f” rev=”footnote” class=”footnote-backref”>↩</a>
+This account is principally taken from Vinesauf.&#160;<a href="#ref02-f" rev="footnote" class="footnote-backref">↩</a>
 
 <a id="note02-g"></a>
 § Note (g), page 63, line 234.&emsp;*Or life or freedom may be theirs no more.*
 
-It appears to have been a custom with Isaac to rob and imprison strangers, but the rank and power of the guests whom he was now incensing should have told him that humanity was prudence.&#160;<a href=”#ref02-g” rev=”footnote” class=”footnote-backref”>↩</a>
+It appears to have been a custom with Isaac to rob and imprison strangers, but the rank and power of the guests whom he was now incensing should have told him that humanity was prudence.&#160;<a href="#ref02-g" rev="footnote" class="footnote-backref">↩</a>
 
 <a id="note02-h"></a>
 § Note (h), page 68, line 341.&emsp;*A boat puts off—’tis Pembroke comes at last.*
 
-The name of the clerk was Hugo del Mare, the anecdote is from Vinesauf.&#160;<a href=”#ref02-h” rev=”footnote” class=”footnote-backref”>↩</a>
+The name of the clerk was Hugo del Mare, the anecdote is from Vinesauf.&#160;<a href="#ref02-h" rev="footnote" class="footnote-backref">↩</a>
 
 <a id="note02-i"></a>
 § Note (i), page 69, line 349.&emsp;*Reft of his ears, will scarce offend again.*
 
-It is a great proof of the respect in which <span class="smallcaps">Richard</span> held the laws of honour and of nations, that notwithstanding his impetuous character, and the distressed state of his vessels, he should have waited so long for the return of his ambassadors, whom Isaac had the temerity to dismiss with insult. The incident of the Seneschal is from the metrical romance of “Cœur de Lion,” in which the Emperor orders his *nose* to be cut off, and the reader is gravely informed that his face was spoiled in consequence. The story accords sufficiently with the historical character of the Usurper, and is likewise countenanced by a passage in Hoveden, which has been already noticed by Mr. Ellis.&#160;<a href=”#ref02-i” rev=”footnote” class=”footnote-backref”>↩</a>
+It is a great proof of the respect in which <span class="smallcaps">Richard</span> held the laws of honour and of nations, that notwithstanding his impetuous character, and the distressed state of his vessels, he should have waited so long for the return of his ambassadors, whom Isaac had the temerity to dismiss with insult. The incident of the Seneschal is from the metrical romance of “Cœur de Lion,” in which the Emperor orders his *nose* to be cut off, and the reader is gravely informed that his face was spoiled in consequence. The story accords sufficiently with the historical character of the Usurper, and is likewise countenanced by a passage in Hoveden, which has been already noticed by Mr. Ellis.&#160;<a href="#ref02-i" rev="footnote" class="footnote-backref">↩</a>
 
 <a id="note02-k"></a>
 § Note, page 70, line 376.&emsp;*’Tis Turnham’s well known banner shines on high.*
 
-Sir Stephen Turnham, the King’s Marshal and Treasurer.&#160;<a href=”#ref02-k” rev=”footnote” class=”footnote-backref”>↩</a>
+Sir Stephen Turnham, the King’s Marshal and Treasurer.&#160;<a href="#ref02-k" rev="footnote" class="footnote-backref">↩</a>
 
 <a id="note02-l"></a>
 § Note (l), page 70, line 377.&emsp;*One Bosco seized, for knighthood scorn’d not then.*
 
-William de Bosco, a Norman. See Vinesauf.&#160;<a href=”#ref02-l” rev=”footnote” class=”footnote-backref”>↩</a>
+William de Bosco, a Norman. See Vinesauf.&#160;<a href="#ref02-l" rev="footnote" class="footnote-backref">↩</a>
 
 § Note, page 71, line 399.&emsp;*The gallant Robert, heir of Grosvenor’s line.*
 
@@ -7810,12 +7810,12 @@ Sir Robert le Grosvenor distinguished himself at Messina and at Cyprus, as well 
 <a id="note02-m"></a>
 § Note (m), page 75, line 490.&emsp;*To bid the senseless blossoms whisper love.*
 
-The women of Cyprus are said to be skilful in the language of flowers, and to be remarkable for their attachment to them as an ornament, in preference to any other; notwithstanding that the island abounds in mineral wealth, and that the Paphian diamonds are exported to many nations of the Levant, who value them more highly.&#160;<a href=”#ref02-m” rev=”footnote” class=”footnote-backref”>↩</a>
+The women of Cyprus are said to be skilful in the language of flowers, and to be remarkable for their attachment to them as an ornament, in preference to any other; notwithstanding that the island abounds in mineral wealth, and that the Paphian diamonds are exported to many nations of the Levant, who value them more highly.&#160;<a href="#ref02-m" rev="footnote" class="footnote-backref">↩</a>
 
 <a id="note02-n"></a>
 § Note (n), page 80, line 603.&emsp;*The Persian tyrant’s doom, to starve on gold.*
 
-The Persian monarch Khosroes, having an idea of causing his son Mardasan to be crowned as his successor, his eldest born Siroes, jealous of this preference, followed the example which Khosroes had set him in rebelling against his own father, and shut him up in a place called the Tower of Darkness, which he had built as the repository of his treasures. Gold and precious stones were heaped around him, and when he asked for food, be was bidden to feast on that wealth of which be had been so insatiable: and thus grief and hunger terminated the existence of a prince, whose reign had been among the most glorious in the Persian annals.&#160;<a href=”#ref02-n” rev=”footnote” class=”footnote-backref”>↩</a>
+The Persian monarch Khosroes, having an idea of causing his son Mardasan to be crowned as his successor, his eldest born Siroes, jealous of this preference, followed the example which Khosroes had set him in rebelling against his own father, and shut him up in a place called the Tower of Darkness, which he had built as the repository of his treasures. Gold and precious stones were heaped around him, and when he asked for food, be was bidden to feast on that wealth of which be had been so insatiable: and thus grief and hunger terminated the existence of a prince, whose reign had been among the most glorious in the Persian annals.&#160;<a href="#ref02-n" rev="footnote" class="footnote-backref">↩</a>
 
 ## Book III
 
