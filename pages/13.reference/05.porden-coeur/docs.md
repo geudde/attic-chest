@@ -7902,12 +7902,12 @@ Louis D’Arselles and Bernard de St. Valery, two noble Normans, who are mention
 Roger de St. John, descended from the family of Ports, Lords of Basing, in Southampton, from the time of the Conquest, and maternally from William de St. John, of St. John, near Rouen, who came to England with William the Conqueror, as grand-master of the artillery, and supervisor of the waggons and carriages; whence the horses’ hemes, or collar, was borne as his cognizance. One of his descendants was second wife of Bernard de St. Valery, Lord of Ambroseden, in Oxfordshire, and who took his name from the castle and town of St. Valery, in France, whence the Conqueror sailed to England. This Bernard was, I believe, the grandfather of the Bernard already mentioned.&#160;<a href="#ref03-q" rev="footnote" class="footnote-backref">↩</a>
 
 <a id="note03-r"></a>
-<span class="red">§</span> Note (r), page 105, line 482.&emsp;*And stout St. John, and Arnulph of St. Clair.*
+<i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Note (r), page 105, line 482.&emsp;*And stout St. John, and Arnulph of St. Clair.*
 
 Another Norman, who appears, in the history of that country, as one of its bravest crusaders.&#160;<a href="#ref03-r" rev="footnote" class="footnote-backref">↩</a>
 
 <a id="note03-s"></a>
-<span class="maroon">§</span> Note (s), page 105, line 483.&emsp;*Harvey, whose axe was never rais’d in vain.*
+<i class="fa fa-info-circle" aria-hidden="true"></i> Note (s), page 105, line 483.&emsp;*Harvey, whose axe was never rais’d in vain.*
 
 The Harveys, anciently Fitz-Harveys, descended from Robert Fitz-Harvey, younger son of Harvey Duke of Orleans, who came over to England with William. Harvey de Yuon, in the reign of Henry the Second, died on his way to the Holy Land. His son, Henry de Harvey, accompanied <span class="smallcaps">Richard</span>. Of this family come the Earls of Bristol.&#160;<a href="#ref03-s" rev="footnote" class="footnote-backref">↩</a>
 
