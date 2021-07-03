@@ -2996,7 +2996,7 @@ His glittering steel, and thunders to the field.<br>
 The Turk, not yet to opiate drugs a prey.<br>
 In stupor lost, and dreaming life away;<br>
 Proud of that strength which Persia’s lion fled,<br>
-And Rome’s degenerate eagles learn’d to dread.<sup>b</sup>
+And Rome’s degenerate eagles learn’d to dread.<sup id="ref04-b"><a href="#note04-b" class="footnote-ref">b</a></sup>
 And Tartar tribes, whose names not oft are heard<br>
 Beyond those valleys where their steeds are rear’d;<br>
 They fight, they bleed, yet History shuts her page,<br>
@@ -3027,14 +3027,14 @@ Sell not to impious hands the wretched slave,[^56]<br>
 Nor let thy hatred reach beyond the grave.
 
 In robes that with no splendid jewels shone,<br>
-The placid Soldan fill’d his simple throne.<sup>c</sup><br>
+The placid Soldan fill’d his simple throne.<sup id="ref04-c"><a href="#note04-c" class="footnote-ref">c</a></sup><br>
 Five youthful chiefs, and each a monarch’s heir,<br>
 Their vassal aid to Asia’s ruler bear:<br>
 Prince of Aleppo, ardent Ghazi stands;<br>
 Zeineddin, leader of Arbelia’s bands;<br>
 Osman from eastern Omar’s rocky isle,<br>
 And Zenghi, lord of Sandjar’s burning soil;<br>
-And Aladin, whom youth’s warm hopes inspire,<sup>d</sup><br>
+And Aladin, whom youth’s warm hopes inspire,<sup id="ref04-d"><a href="#note04-d" class="footnote-ref">d</a></sup><br>
 (Seiffeddin’s glory), joins his raptur’d sire;<br>
 His sire, who sees his early honours bloom,<br>
 And dreams of conquest and of power to come;<br>
@@ -3071,7 +3071,7 @@ And knightly hands the glorious labour share.<br>
 &emsp;A fourth bright morning dawns—the gates unfold,<br>
 On levers rais’d, on wheels unnumber’d roll’d,<br>
 And thickly hemm’d by ranks of chosen powers,<br>
-The labouring steers drag on the ponderous towers<sup>e</sup><br>
+The labouring steers drag on the ponderous towers<sup id="ref04-e"><a href="#note04-e" class="footnote-ref">e</a></sup><br>
 With all those pests of war, the mining Sow,<br>
 The Cat which clings, and guards the troops below,[^57]<br>
 Petraria, Catapult, and Mangonell,<br>
@@ -3084,7 +3084,7 @@ The royal lilies on their field of blue.<br>
 Last mov’d that banner, victory’s holy sign,<br>
 The sacred portrait, traced by hands divine,<br>
 Where shone the saint, who not less good than brave,<br>
-To shivering want his own rich mantle gave;<sup>f</sup><br>
+To shivering want his own rich mantle gave;<sup id="ref04-f"><a href="#note04-f" class="footnote-ref">f</a></sup><br>
 Though boiling pitch, and darts, and sheets of flame<br>
 Pour on their heads in many a scorching stream,<br>
 With earth, with stones collected from the plain,<br>
@@ -3168,7 +3168,7 @@ But Karacous, who clung unhurt on high,<br>
 Springs to the breach—the Gallic King defies,<br>
 And walls and warriors to the town supplies.<br>
 Curved like the moon, he waves his Syrian blade,<br>
-While Philip’s hand his keen francisque displayed;<sup>g</sup><br>
+While Philip’s hand his keen francisque displayed;<sup id="ref04-g"><a href="#note04-g" class="footnote-ref">g</a></sup><br>
 Behind, with rage his bold Ribaldi flame-<br>
 But Karacous, though short his awkward frame,<br>
 (For Nature form’d him in some wayward hour<br>
@@ -3222,7 +3222,7 @@ Cast on the ground in breathless agony,<br>
 He loathes his food, he seeks his grief to hide,<br>
 Nor dare his sons approach their father’s side;<br>
 Deaf to affection’s voice, to pity’s tone<br>
-He moves not, speaks not, lives to pain alone.<sup>h</sup><br>
+He moves not, speaks not, lives to pain alone.<sup id="ref04-h"><a href="#note04-h" class="footnote-ref">h</a></sup><br>
 ’Tis night’s chill noon, yet rest his bosom flies—<br>
 Still in his tent, exhausted, pale, he lies;<br>
 He starts, he groans, cold dews suffuse his frame,<br>
@@ -3231,7 +3231,7 @@ And hoarse and low his painful accents came.<br>
 Health, peace, whate’er of earthly good were mine,<br>
 Thou who hast forced on my reluctant brow<br>
 The plumes of empire, wilt thou leave me now?<br>
-Oh! had I Ali’s strength, or Kaled’s sword,<sup>i</sup><br>
+Oh! had I Ali’s strength, or Kaled’s sword,<sup id="ref04-i"><a href="#note04-i" class="footnote-ref">i</a></sup><br>
 No morn from rest should rouse that race abhorr’d—<br>
 Yet thou permitt’st their triumph!—Thou hast arm’d<br>
 Their hands with terror, and their engines charm’d!<br>
@@ -3287,7 +3287,7 @@ And basilisks, whose glance ’tis death to meet;<br>
 The Carbuncle that burns, self-pois’d in air,<br>
 And Talismans, that e’en the Demons fear,<br>
 And jewels precious as the vase long hid,<br>
-His Genii workmen brought to Giamschid,<sup>k</sup><br>
+His Genii workmen brought to Giamschid,<sup id="ref04-k"><a href="#note04-k" class="footnote-ref">k</a></sup><br>
 Whose azure depths were privileg’d to shine<br>
 With the first beverage of the purple vine;<br>
 While all around the “charming poison” quaff’d,<br>
@@ -3315,7 +3315,7 @@ Thy race destroyed, than waste one spell on thee.”<br>
 &emsp;He spoke, and his dilated form became<br>
 A vast terrific mass of whirling flame;<br>
 Still as it grew, his features shrunk from sight,<br>
-And vanish’d in a pyramid of light.<sup>l</sup><br>
+And vanish’d in a pyramid of light.<sup id="ref04-l"><a href="#note04-l" class="footnote-ref">l</a></sup><br>
 &emsp;The Soldan clapp’d his hands, th’ attendants ran,<br>
 And the loud trumpet calls the full Divan.<br>
 Wond’ring the Princes came, and find their Lord<br>
@@ -3326,7 +3326,7 @@ Behold the sacred pledge of conquest given,<br>
 The gracious promise of approving Heaven;<br>
 Not framed by man, or brought by mortal powers,<br>
 It holds destruction to the Christian towers.<br>
-Oh! who but courts th’ emprize, the glory rare,<sup>m</sup><br>
+Oh! who but courts th’ emprize, the glory rare,<sup id="ref04-m"><a href="#note04-m" class="footnote-ref">m</a></sup><br>
 Even through yon camp to Karacous to bear<br>
 Our Acre’s safety, and her foe’s despair?”<br>
 &emsp;His cheerful words heroic ardour shed,<br>
@@ -3409,7 +3409,7 @@ And sprang through flying numbers to the main.<br>
 “See, see, my friend! kind Alla lends the bark,<br>
 Our foes are scattered, and the night is dark.”<br>
 &emsp;Screen’d by a rock, not then in story known,<br>
-But call’d in after years “the English stone,”<sup>n</sup><br>
+But call’d in after years “the English stone,”<sup id="ref04-n"><a href="#note04-n" class="footnote-ref">n</a></sup><br>
 With desperate strength they push her from the shore,<br>
 Unfurl the canvas, and employ the oar,<br>
 And unmolested reach the ancient fort,<br>
@@ -3623,7 +3623,7 @@ And the White Cross adorned no braver knight.[^65]<br>
 His eye was keen, his features pale and spare,<br>
 And the rough casque had thinn’d his silver hair;<br>
 Yet strong must be his horse, and firm his seat,<br>
-Who dared that chief in battle-shock to meet.<sup>o</sup><br>
+Who dared that chief in battle-shock to meet.<sup id="ref04-o"><a href="#note04-o" class="footnote-ref">o</a></sup><br>
 &emsp;Fill’d with like hope, with like desire of fame,<br>
 On their fleet steeds the flower of Asia came,<br>
 By Omar led, who now to strength restored,<br>
@@ -3673,7 +3673,7 @@ They seek that tower Moheddin sought so late;<br>
 The “Tower of Sacrifice,” by Pagan doom,<br>
 Where bled to Jove the votive hecatomb;<br>
 Built on a rock, amid the waves it stands,<br>
-Protects the mole, the shelter’d port commands.<sup>p</sup><br>
+Protects the mole, the shelter’d port commands.<sup id="ref04-p"><a href="#note04-p" class="footnote-ref">p</a></sup><br>
 &emsp;First Alberic wakes the war—an arrowy shower<br>
 Drives its brave guardians from the Patriarch’s tower;<br>
 He calls his warriors, lets the drawbridge down,<br>
@@ -3701,7 +3701,7 @@ The Syrian wastes, the herald of his God;<br>
 The sculptor’s art his wond’rous story shew’d,<br>
 The desert rocks, and Jordan’s sacred flood;<br>
 While sever’d heads, in grim and ghastly row<br>
-Record his death, and Herod’s impious vow.<sup>q</sup><br>
+Record his death, and Herod’s impious vow.<sup id="ref04-q"><a href="#note04-q" class="footnote-ref">q</a></sup><br>
 So high the spot that thence their eyes command<br>
 The town beneath, the ocean and the land.<br>
 But what the sight that both confounds? and why<br>
@@ -3758,7 +3758,7 @@ Meanwhile the Austrian, in his floating tower,<br>
 Leads to the fierce assault his naval power;<br>
 The fort was slightly mann’d, and ill prepared,<br>
 No arm of prowess animates the guard<br>
-What though a random spear had pierced his side,<sup>r</sup><br>
+What though a random spear had pierced his side,<sup id="ref04-r"><a href="#note04-r" class="footnote-ref">r</a></sup><br>
 He mounts aloft, nor heeds the sanguine tide.<br>
 Where on the ramparts warlike engines stood<br>
 With flaming torch he fires the arid wood;<br>
@@ -3817,7 +3817,7 @@ With strenuous arms he beat the foaming tide,<br>
 And reach’d the shore; but peace nor rest was there,<br>
 All was confusion, carnage, and despair.<br>
 To their strong camp the hunted Christians fly,<br>
-And thank the care that rais’d its walls so high;<sup>s</sup><br>
+And thank the care that rais’d its walls so high;<sup id="ref04-s"><a href="#note04-s" class="footnote-ref">s</a></sup><br>
 While on their rear the Moslems press, to gain<br>
 That la«t defence, and make its shelter vain.<br>
 Before the open gate the Count of Bar,<br>
@@ -3855,7 +3855,7 @@ And long that wound shall Karacous deplore.<br>
 Then with one shrill, one final shriek of pain,<br>
 He fell expiring on the mound of slain,<br>
 While spreading o’er the whole, that wondrous fire<br>
-Blends all his victims in one funeral pyre.<sup>t</sup><br>
+Blends all his victims in one funeral pyre.<sup id="ref04-t"><a href="#note04-t" class="footnote-ref">t</a></sup><br>
 &emsp;Yet even in death his weeping friends he saved,<br>
 And aw’d that foe his living arm had braved.<br>
 That mighty blaze, extending o’er the plain,<br>
@@ -8047,8 +8047,13 @@ See Rastell’s Chronicle, Origin of the Garter. “Some do affirme that this or
 
 Vinesauf speaks of the Bedouins or Bedeuvini, “horrible, darker than smoke, bearing the bow and quiver and the small round shield.”&#160;<a href="#ref04-a" rev="footnote" class="footnote-backref">↩</a>
 
-Note (b), page 134, line 34. And Rome’s degenerate eagles learn’d to dread. Some of the most splendid monarchs of Persia belonged to the Seljoukian dynasty, which expired in the year 1194. The kindred Sultan of Roum, whose capital waa first at Nice, and afterwards at Iconium, rent many of its fairest provinces from the Greek empire, and maintained itself till 1308. It is from this branch of the Seljouc Turks that the Ottomans now upon the throne of Constantinople are descended. The Seljouc dynasties of Caramania, of Aleppo, and Damascus, were of shorter date. The last was that of Damascus, which city was given up to Noureddin by Ayoub, the father of Saladme, who was then Vizir to the last Seljouc prince, Modgireddin Abe. Ayoub had been under great obligations to Noureddin, and his brother,
-Shiracoush, was then in his service. The Sultan rewarded them both with liberality, and Ayoub received the government of the yielded town ‘as the meed of his treachery. These two emirs were also endowed with the peculiar privilege of sitting in the presence of Noureddin, without waiting for permission. Note (c), page 136, line 64. The placid Soldan fill’d his simple throne. Luxury has been the common reproach of the east: yet it may be remarked, that its greatest conquerors, at least in modern days, have been distinguished by the simplicity and even austerity of their manners. Such were Noureddin and Saladine, Ghenghis Khan, and his descendant Tamerlane. Note (d), page 136, line 71. And Äladin, whom youth’s warm hopes inspire. From the many names which belong to these young princes, I have endeavoured to select those most capable of being moulded into English verse. The history of the Arabs (Universal History) relates, page 514, that Saladine, having alighted from his horse to take a more ceremonious leave of Kaisar Shah, son of Kih’dge Arselan, Sultan of Iconium, and who had married a daughter of Malek Adel, Kaisar Shah in return held the stirrup and assisted the Sol- dan to remount, while Aladin arranged his clothes, on which a bystander observed, “ O, son of Ayoub, you need not now care what death you die; a prince of the house of Seljouc has helped you on horseback, and a descendant of the Atabek Zenghi has adjusted your garments.” Seiffeddin, the father of Aladin, had been engaged in long and ruinous wars with the Sultan, and his friendship was never cordial. 2 d 3
+<a id="note04-b"></a>
+§ Note (b), page 134, line 34.&emsp;*And Rome’s degenerate eagles learn’d to dread.*
+
+Some of the most splendid monarchs of Persia belonged to the Seljoukian dynasty, which expired in the year 1194. The kindred Sultan of Roum, whose capital was first at Nice, and afterwards at Iconium, rent many of its fairest provinces from the Greek empire, and maintained itself till 1308. It is from this branch of the Seljouc Turks that the Ottomans now upon the throne of Constantinople are descended. The Seljouc dynasties of Caramania, of Aleppo, and Damascus, were of shorter date. The last was that of Damascus, which city was given up to Noureddin by Ayoub, the father of Saladine, who was then Vizir to the last Seljouc prince, Modgireddin Abe. Ayoub had been under great obligations to Noureddin, and his brother, Shiracoush, was then in his service. The Sultan rewarded them both with liberality, and Ayoub received the government of the yielded town as the meed of his treachery. These two emirs were also endowed with the peculiar privilege of sitting in the presence of Noureddin, without waiting for permission.&#160;<a href="#ref04-b" rev="footnote" class="footnote-backref">↩</a>
+
+
+Note (c), page 136, line 64. The placid Soldan fill’d his simple throne. Luxury has been the common reproach of the east: yet it may be remarked, that its greatest conquerors, at least in modern days, have been distinguished by the simplicity and even austerity of their manners. Such were Noureddin and Saladine, Ghenghis Khan, and his descendant Tamerlane. Note (d), page 136, line 71. And Äladin, whom youth’s warm hopes inspire. From the many names which belong to these young princes, I have endeavoured to select those most capable of being moulded into English verse. The history of the Arabs (Universal History) relates, page 514, that Saladine, having alighted from his horse to take a more ceremonious leave of Kaisar Shah, son of Kih’dge Arselan, Sultan of Iconium, and who had married a daughter of Malek Adel, Kaisar Shah in return held the stirrup and assisted the Sol- dan to remount, while Aladin arranged his clothes, on which a bystander observed, “ O, son of Ayoub, you need not now care what death you die; a prince of the house of Seljouc has helped you on horseback, and a descendant of the Atabek Zenghi has adjusted your garments.” Seiffeddin, the father of Aladin, had been engaged in long and ruinous wars with the Sultan, and his friendship was never cordial. 2 d 3
 § Note (e), page 188, Une İÜ8. The labouring steers drag on the ponderous towers. These towers were similar in nature to those employed by Godfrey at the siege of Jerusalem, and even in an age when we hear familiarly of the destructive powers of our modern artillery, there is something imposing in the account of such gigantic engines; these were higher than the walls of the city, and each was capable of containing five hundred men. They consisted of three stories: in the first story were the battering rams; in the second, the Balistæ and Catapults, which threw darts and stones to the distance of one hundred and twenty-five feet. The atones were from three hundred to four hundred pounds weight; they crushed the roofs of houses, overturned the machines of the enemy, and shook the walls: the third and last story contained one hundred warriors, who were armed with axes, maces, &c, and protected by a roof from the stones and fire which were hurled from the engines of the besieged. It was also provided with a pont levis, or flying bridge, which could be let down upon the walls. These moving castles were raised upon wheels, and covered with leather hardened in vinegar, to render them impenetrable to common flame, and to the ordinary Greek fire. After the earth had been levelled, and a part of the fosse filled up, they were rolled forward by means of levers. See Mailly, Marin, Sţc. Note (f), page 138, line 121. To shivering want his own neh mantle gave. The banners of France were three, the royal or personal standard of the King, the “ Chape de St. Martin,” and the oriflamme. The royal standard was a square banner, or gonfalon, of a blue colour, and powdered with lilies of gold. This was usually entrusted to some vassal of valour and consequence, who was called the gonfalonier, a name in
 later years confined to him who bears the standard of the Holy See. At the battle of Bouvines, the standard of Philip Augustus was borne by Gallon de Montigny, who, when the King was unhorsed, gave notice of his danger by lowering it several times. The “ Chape de St. Martin,” according to Le Gendre, was a banner of taffeta, on which the Saint was depicted, and which had acquired extraordinary virtues, from having been allowed to remain some time upon his tomb. Other writers assert that it was the mantle of the Saint, and some have pretended that it was worn by the Kings of France in battle. Others suppose it to have been die banner belonging to the Abbey of St. Martin of Tours, and others again contend that it was not a banner, but a coffer or portable pavilion, containing the relics of many saints, and among others those of St. Martin, which the Kings of’ France held in the highest veneration. Whichever of these opinions may rest on the best authority, the presence of the Chape de St. Martin was supposed to ensure victory, and its place in battle was immediately after the royal standard. The oriflamme has been already considered, but the dignity of bearing it was sought by the most renowned knights, and contested with almost as much eagerness as the principal command, at least if we may judge from the instance of Arnoul d’Andrenhem, who under Charles the Fifth resigned his office of Maréchal of France, that he might exercise that of Pone Oriflamme. The bearer, however, had no authority, except over the troop at the head of which he carried his banner; but that troop consisted of all which chivalry could boast, of most noble and most valiant:—added to which, the oriflamme was always in the van, either in march or in battle, consequently in the post of danger and honour; and when it was present, even the banner of the King became of small account, and was called only the royal pennon. 2 ь 4
 Nothing can more decidedly mark the respect in which the oriflamme was held, than the oath administered to the bearer. “ You swear and promise, on the precious body of Christ Jesus, here present, and on the bodies of Monseigneur St. Denis and his companions, here also, that you will loyally, in your own person, guard and govern the oriflamme of our Lord the King, also present, to the honour and profit of himself and his kingdom, and that you will not abandon it, neither for the fear of death nor for any other cause, but that you will in all things do your duty as beseems a good and loyal knight towards your Sovereign and liege Lord.”-~ See MaiUy, vol. i. Note (g), page 142, line 205. While Philip’s hand his keen francisque displayed. The francia or francisque, a kind of battle-axe, from which the Franks are supposed to have derived their name, as the Saxons did from the se-ax, a similar weapon which they used in battle. Some modern authors assert that the axe and bipennis were solely used by the Danes. Perhaps a weapon of this sort was originally employed by all the barbarous tribes of northern Europe, but relinquished in the progress of civilization; and the Danes being the last of the northern invaders, might also be the last to abandon it.— Smith’s Antient Costume of England, Note (h), page 144, line 257. He moves not, speaks not, lives to pain alone. The general suffrage of mankind seems to have established Saladine as the greatest man of the age in which he lived; yet in the power of supporting any reverse of fortune, he shewed himself much inferior to his antagonist,<span class="smallcaps">Richard</span>Cœur de Lion. Some historians have said that the English Monarch was never so great as in his dungeon of
