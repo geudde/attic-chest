@@ -415,7 +415,7 @@ Then while his frame in fiendish transport shook,<br>
 Alkarmel rose, and thus in thunder spoke:<br>
 &emsp;“Woe to the Gospel! to the Koran joy[^3]<br>
 On yonder plain ten thousand Christians lie.<br>
-Joy! for this night the Queen Sybilla<sup id="ref01-b"><a href="#note01-b" class="footnote-ref">b</sup> dies,<br>
+Joy! for this night the Queen Sybilla<sup id="ref01-b"><a href="#note01-b" class="footnote-ref">b</a></sup> dies,<br>
 And fierce contentions round her bier arise.<br>
 Fools! for a name, a realm yet unsubdued,<br>
 Hark to their clamour! may it end in blood!<br>
