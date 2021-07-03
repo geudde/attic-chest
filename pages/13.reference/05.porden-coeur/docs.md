@@ -7762,7 +7762,7 @@ Note (c), page 59, line 141.&emsp;*Methinks Byzantium’s exiled Lords return.*
 Cyprus was at this period under the dominion of Isaac Comnenus, nephew to Manuel Comnenus, the last of that house who filled the throne of Constantinople. In the disorders which followed on the usurpation of the imperial dignity by the infamous Andronicus, Isaac fled to Cyprus, and forging letters from the new emperor, and obtaining the assistance of the fleet, sent by William King of Sicily to the Crusades, he was acknowledged as governor of that island. But he soon threw off his feigned allegiance, and usurped the imperial title.&#160;<a href="#ref02-c" rev="footnote" class="footnote-backref">↩</a>
 
 <a id="note02-d"></a>
-<span class="green">Note (d), page 59, line 148.</span>&emsp;*Was still a haven to the tempest tost.*
+§ Note (d), page 59, line 148.&emsp;*Was still a haven to the tempest tost.*
 
 “Henry sо far abolished the barbarous and absurd practice of confiscating ships which had been wrecked on the coast, that he ordained, that if one man or animal were alive in the ship, that the vessel and goods should be restored to its owners.” — *Hume, Henry II.*
 
