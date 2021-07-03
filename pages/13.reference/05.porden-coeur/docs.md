@@ -447,7 +447,7 @@ Vers’d in the counsels to his father’s dear,<br>
 The faithless, fatal policy of fear.<br>
 That Turk and Christian hates alike, and pays,<br>
 Feeds, clothes, enriches both, and both betrays,<br>
-The Cyprian sceptre base Comnenus sways.<sup id="ref01-c"><a href="#note01-c" class="footnote-ref">c</sup><br>
+The Cyprian sceptre base Comnenus sways.<sup id="ref01-c"><a href="#note01-c" class="footnote-ref">c</a></sup><br>
 The Lion King shall struggle in the toils;<br>
 Not Demons match Comnenus’ race in wiles;<br>
 Not all our arts have served the Faith so well,<br>
@@ -486,12 +486,12 @@ Those trusting zealots served their God too well,<br>
 We found no vantage, and the city fell.<br>
 But these are brave in vain—their hearts are ours:<br>
 Ha! floats our standard not from Sion’s towers?<br>
-Have we not crush’d Imperial Conrad’s host?<sup id="ref01-d"><a href="#note01-d" class="footnote-ref">d</sup><br>
+Have we not crush’d Imperial Conrad’s host?<sup id="ref01-d"><a href="#note01-d" class="footnote-ref">d</a></sup><br>
 And Gaul’s gay troop at proud Damascus crost?<br>
 We bade the Earthquake towns and towers destroy<br>
 We hurl’d red meteors through the flaming sky!<br>
 We sear’d the grain! we dried the crystal springs!<br>
-We fill’d with leprosy the courts of kings!<sup id="ref01-e"><a href="#note01-e" class="footnote-ref">e</sup><br>
+We fill’d with leprosy the courts of kings!<sup id="ref01-e"><a href="#note01-e" class="footnote-ref">e</a></sup><br>
 Look on yon plain, Demroosh! thou can’st not fear<br>
 Each spotted Conscience will be wash’d so clear,<br>
 That not one fiend shall win his entrance there.<br>
@@ -508,7 +508,7 @@ To brook the trifling of a powerless king;<br>
 On Stamboul’s faithless towers his flag was spread,<br>
 The treacherous Turks before his army fled.<br>
 And proud Iconium’s Sultan found too late,<br>
-Who trifles with his friendship, sports with fate.”<sup id="ref01-f"><a href="#note01-f" class="footnote-ref">f</sup><br>
+Who trifles with his friendship, sports with fate.”<sup id="ref01-f"><a href="#note01-f" class="footnote-ref">f</a></sup><br>
 “Fear, doubt, alarm from Frederic’s might is o’er,<br>
 His army baffled, and its chief no more!”<br>
 Thus spoke the fierce Moozallil, as he came,<br>
@@ -632,7 +632,7 @@ If not—to doubt his claim is mine alone.[^7]<br>
 ’Tis mine the throne with Isabelle to share,<br>
 Amalric’s younger child, and now his heir.”<br>
 &emsp;“Thy rights! as well might base-born kites aspire<br>
-To rule the eagle!” cried the Prince of Tyre.<sup id="ref01-g"><a href="#note01-g" class="footnote-ref">g</sup><br>
+To rule the eagle!” cried the Prince of Tyre.<sup id="ref01-g"><a href="#note01-g" class="footnote-ref">g</a></sup><br>
 “We leave at leisure, Lusignan and thee<br>
 To settle points of legal courtesie,<br>
 Thanks to your prowess! we may waive them now,<br>
@@ -643,7 +643,7 @@ So say those Priests that Heaven’s high dictates scan,<br>
 And chain or loose the ready faith of man.<br>
 But for his Queen—Oh! could my brother know<br>
 His widow’d bride would dare to stoop so low!<br>
-Or when her warlike peers no more obey’d<sup id="ref01-h"><a href="#note01-h" class="footnote-ref">h</sup><br>
+Or when her warlike peers no more obey’d<sup id="ref01-h"><a href="#note01-h" class="footnote-ref">h</a></sup><br>
 Her minion’s rule, the solemn farce she play’d!<br>
 The feign’d divorce, the pledge from morn till even<br>
 To seek in prayer the guiding hand of Heaven.<br>
@@ -681,7 +681,7 @@ And more than Salem would reward my zeal.”<br>
 &emsp;Bold Thoron’s answering falchion quits the sheath,<br>
 Frowns dark Avesnes, and Geoffrey threatens death,<br>
 While by the side of Conrad, fierce and bold<br>
-Like some strong tower, stood Austrian Leopold.<sup id="ref01-i"><a href="#note01-i" class="footnote-ref">i</sup><br>
+Like some strong tower, stood Austrian Leopold.<sup id="ref01-i"><a href="#note01-i" class="footnote-ref">i</a></sup><br>
 When rose the King, and even that lawless throng<br>
 In silence heard a Chief obey’d so long.<br>
 “Oh! let not weapons that should stream alone<br>
@@ -715,7 +715,7 @@ And who that hears me has the right to blame?<br>
 Not you, his subjects, rebels to his power,<br>
 And false to Sion in her dangerous hour;<br>
 Not you, ye Templars, who the strife renew’d,<br>
-Your robes polluting with a Herald’s blood;<sup id="ref01-k"><a href="#note01-k" class="footnote-ref">k</sup><br>
+Your robes polluting with a Herald’s blood;<sup id="ref01-k"><a href="#note01-k" class="footnote-ref">k</a></sup><br>
 Not Eudon, scorning my prophetic word,<br>
 Who forced a fatal counsel on his Lord.<br>
 ’Twas then the Soldan girt Tabaria’s wall—<br>
@@ -731,7 +731,7 @@ Ye call me traitor! I retort the name.<br>
 Is this the meed for acts so great and bold<br>
 As should have lived in everlasting gold?<br>
 This warp’d my brain, this foul reproach has riven<br>
-The bonds of life, this pains my sires in Heaven.<sup id="ref01-l"><a href="#note01-l" class="footnote-ref">l</sup><br>
+The bonds of life, this pains my sires in Heaven.<sup id="ref01-l"><a href="#note01-l" class="footnote-ref">l</a></sup><br>
 Woe, woe for Sion! for her hearths profaned,<br>
 Her murder’d children, and her temples stain’d;<br>
 Oh recreants! traitors to the Cross ye bear!<br>
@@ -766,7 +766,7 @@ Though he had laid his saintly garb aside<br>
 For the dark hauberk and the helmet’s pride,<br>
 He deem’d it duty; nor that warrior-age<br>
 Disdain’d to blend the soldier and the sage,<br>
-But lauded Hubert’s martial pilgrimage.<sup id="ref01-m"><a href="#note01-m" class="footnote-ref">m</sup><br>
+But lauded Hubert’s martial pilgrimage.<sup id="ref01-m"><a href="#note01-m" class="footnote-ref">m</a></sup><br>
 &emsp;“Ye Franks and Syrians, Knights and Princes,<br>
 Hear for his sake whose sacred badge ye wear;<br>
 Has the keen sabre swept whole ranks away,<br>
@@ -788,7 +788,7 @@ Would he with gold his humble brows adorn.[^9]<br>
 Art thou more pure that thou thy head canst rear,<br>
 And bid the God of Empires fix it there?<br>
 Oh! think on Antioch—vain was valour’s sword<br>
-Till contrite hearts appeas’d the offended Lord.<sup id="ref01-n"><a href="#note01-n" class="footnote-ref">n</sup><br>
+Till contrite hearts appeas’d the offended Lord.<sup id="ref01-n"><a href="#note01-n" class="footnote-ref">n</a></sup><br>
 Even now two powerful Sovereigns stem the tide,<br>
 Let Philip, let Plantagenet decide;<br>
 Meanwhile let sabres clash, and lances shine,<br>
@@ -853,7 +853,7 @@ And melts at Lusignan’s unmanly tears.<br>
 Think not I come in passion; unprepared;<br>
 He shall not keep the rights he will not guard.<br>
 In youth’s first dawn, ere reason learned to guide,<br>
-My mother gave me, an unwilling bride;<sup id="ref01-o"><a href="#note01-o" class="footnote-ref">o</sup><br>
+My mother gave me, an unwilling bride;<sup id="ref01-o"><a href="#note01-o" class="footnote-ref">o</a></sup><br>
 Edessa’s Priest shall free me from my vows.<br>
 So thou my interests and myself espouse,<br>
 Together we our claims, our arms combine,<br>
