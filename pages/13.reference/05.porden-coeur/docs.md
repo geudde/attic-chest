@@ -53,6 +53,8 @@ blockquote
 ul {
   list-style-type: none;
 }
+
+sup {color: red;}
 </style>
 
 <div class="center">
