@@ -1,5 +1,5 @@
 ---
-title: 'Coeur de Lion'
+title: 'Volume 1'
 metadata:
     Author: 'Eleanor Anne Porden'
     Keywords: 'Porden, Eleanor Anne Porden, Richard, Coeur de Lion'
@@ -98,7 +98,7 @@ Eleanor Anne Роrden
 <ul>
 <li><a href="#ode">Ode to the King</a></li>
 <li><a href="#preface">Preface</a></li>
-<li><a href="#volume01/book01">I. The Siege of Acre</a></li>
+<li><a href="#book01">I. The Siege of Acre</a></li>
 <li><a href="#book02">II. The Conquest of Cyprus</a></li>
 <li><a href="#book03">III. The Nuptials of Richard and Berengaria</a></li>
 <li><a href="#book04">IV. The Median Fire</a></li>
@@ -306,7 +306,7 @@ In this brief abstract I have merely attempted to recall to the memory of the re
 
 It only remains for me to express my thanks to those friends who have assisted my labours. To Mr. Gifford, for the benefit which I have derived from his friendly criticism; and to Mr. D’Israeli, and Messrs. Longman and Rees, for the loan of many valuable books.
 
-![curlicue](cue.jpg)
+![curlicue](../cue.jpg)
 <a id="book01"></a>
 # Book I
 
