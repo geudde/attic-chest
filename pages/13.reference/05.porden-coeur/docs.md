@@ -99,14 +99,14 @@ Eleanor Anne Роrden
 <li><a href="#ode">Ode to the King</a></li>
 <li><a href="#preface">Preface</a></li>
 <li><a href="https://attic.vardill.org/reference/porden-coeur/volume01#book01">I. The Siege of Acre</a></li>
-<li><a href="#book02">II. The Conquest of Cyprus</a></li>
-<li><a href="#book03">III. The Nuptials of Richard and Berengaria</a></li>
-<li><a href="#book04">IV. The Median Fire</a></li>
-<li><a href="#book05">V. The Arrival of Richard in Palestine</a></li>
-<li><a href="#book06">VI. The Capture of Acre</a></li>
-<li><a href="#book07">VII. The March to Arsouf</a></li>
-<li><a href="#book08">VIII. The Battle of Arsouf</a></li>
-<li><a href="#notes01">Notes</a></li>
+<li><a href="https://attic.vardill.org/reference/porden-coeur/volume01#book02">II. The Conquest of Cyprus</a></li>
+<li><a href="https://attic.vardill.org/reference/porden-coeur/volume01#book03">III. The Nuptials of Richard and Berengaria</a></li>
+<li><a href="https://attic.vardill.org/reference/porden-coeur/volume01#book04">IV. The Median Fire</a></li>
+<li><a href="https://attic.vardill.org/reference/porden-coeur/volume01#book05">V. The Arrival of Richard in Palestine</a></li>
+<li><a href="https://attic.vardill.org/reference/porden-coeur/volume01#book06">VI. The Capture of Acre</a></li>
+<li><a href="https://attic.vardill.org/reference/porden-coeur/volume01#book07">VII. The March to Arsouf</a></li>
+<li><a href="https://attic.vardill.org/reference/porden-coeur/volume01#book08">VIII. The Battle of Arsouf</a></li>
+<li><a href="https://attic.vardill.org/reference/porden-coeur/volume01#notes01">Notes</a></li>
 </ul>
 </div>
 <div>
@@ -131,148 +131,148 @@ Eleanor Anne Роrden
 <a id="ode"></a>
 ## Ode tо thе King’s Most Excellent Majesty
 
-Ruler of a happy Land!<br>
-England’s far-descended King!<br>
-Sprung from Him whose dreadful band<br>
-Fought beneath the Raven’s wing:<br>
-Whom his Cimbrian galleys bore<br>
-To found on Neustria’s yielding shore,<br>
-Beneath serener skies, a wider reign;<br>
-Till, slighting realms so cheaply won,<br>
-His brave Descendant launch’d anew, to gain<br>
-Fair Albion for his Bride, and fill her Island Throne.
-
-Sprung from those whom Britain’s call<br>
-Summon’d in an earlier age.<br>
-When her violated wall<br>
-Felt the Pictish spoiler’s rage—<br>
-Soon a milder, purer creed,<br>
-Changed to white their sablе steed:<br>
-Soon in one orb the sevenfold гаys combined;<br>
-Her vanquish’d foes confest the flame,<br>
-And England with her budding laurels twined<br>
-Beyond the reach of Time, the wreath of Alfred’s fame.
-
-Mourn not, if their mutual force<br>
-Oft the plains in crimson dyed;<br>
-If the Saxon’s generous Horse<br>
-Stoop’d beneath the Lion’s pride.<br>
-Thus two mountain springs descend,<br>
-Thus their meeting waves contend:<br>
-Long the fierce waters foam, and clash, and roar,<br>
-Till to their strife the channel yields,<br>
-Green turf and fragrant blossoms clothe the shore,<br>
-And the broad tranquil stream spreads plenty through the fields.
-
-With the broomy garland crown’d<br>
-See the conquering Henry shine!<br>
-<span class="smallcaps">Plantagenet</span>! that lofty sound,<br>
-Blends the boast of either line,<br>
-See the Silver Cross display’d<br>
-O’er th’ impetuous <span class="smallcaps">Richard’s</span> head!<br>
-On Syria’s holy plains, to win or bleed,<br>
-Pours his devoted host along,<br>
-While he, triumphant on his Cyprian steed,<br>
-Scatters like morning clouds the misbelieving throng.
-
-<span class="smallcaps">Monarch</span>! him I dare to sing!<br>
-Him! thy kindred Henry’s son.<br>
-From his gallant warriors spring<br>
-They who late thy battles won.<br>
-England now, from fields of strife<br>
-Guards her Sovereign’s sacred life.<br>
-Yet still aloft her star of glory shines;<br>
-For He that late her Trident bore,<br>
-And he to whom thy hand her Sword consigns,<br>
-Shall mate with Arthur’s peers, and <span class="smallcaps">Richard’s</span> knights of yore.
-
-Though no Cross their bosoms seal’d,<br>
-Their march no mail-clad Prelates led;<br>
-Sacred be each laurell’d field!<br>
-In a hallow’d cause they bled.<br>
-England’s thunders swept the sеа
-That her brethren might be free;<br>
-Nor for herself were fruitful regions gain’d:<br>
-She the trampled fought to raise,<br>
-And of a rescued world alone retain’d<br>
-The honour of the strife, th’ imperishable praise.
-
-Beneath Italia’s purple heaven<br>
-Two gifted Sons of song divine<br>
-To Immortality have given<br>
-Thy parent Esté’s princely line;<br>
-And ever when pale Cynthia pours<br>
-Her radiance on its summer shores,<br>
-Along the Adriatic’s listening waves<br>
-Still sings the merry gondolier;<br>
-His glistening oar to Roland’s glory laves,<br>
-Or with Rinaldo woos some new Armida’s car.
-
-Long may they sing—but shall not He<br>
-Whom England proudly calls her own,<br>
-Whose deeds of song and chivalry<br>
-Once gave new lustre to her throne,<br>
-One mellifluous strain inspire,<br>
-Or rouse one warrior’s latent fire;<br>
-Even as Himself could erst the gales invite<br>
-To waft his bark to Syrian plains,<br>
-Or call’d indignant from Trivallis’ height<br>
-His lingering peers to loose their King’s ignoble chains? 
-
-Say not Chivalry is dead;<br>
-That her spirit charms no more—<br>
-Noble souls still love to tread<br>
-Paths of legendary lore:<br>
-She speaks from every craggy steep,<br>
-Yet crown’d with some embattled keep,<br>
-Or stream that lave the Convent’s ruin’d cells,<br>
-And in the Minster’s aisles of pride,<br>
-Still many a sculptured Hero proudly tells.<br>
-For her he bravely fought, for Heaven and England died.
-
-She lives, while England is a name,<br>
-While native in her sons shall spring<br>
-That heaven-born zeal, that loyal flame<br>
-Which binds her People to her King<br>
-That zeal all selfish thoughts above<br>
-Which lives but in its country’s love.<br>
-Which seeks for Honour in the front of war,<br>
-Which, as it stamps the Tyrant’s doom,<br>
-Spreads with her rule the light of Truth afar;<br>
-While Justice guides her sword, and Virtue guards her home.
-
-<span class="smallcaps">Monarch</span>, hold that spirit dear!<br>
-Prize the Muse that gives it fame!<br>
-So, to some future Sovereign’s ear<br>
-Shall Bards unborn thy worth proclaim,<br>
-Or pausing on thy Father’s reign,<br>
-Own their loftiest numbers vain,<br>
-To picture one in every virtue blest;<br>
-Who firm amid the tempest stood,<br>
-Friend of the friendless, Champion of th’ opprest,<br>
-Thine and thy People’s Sire—the Glorious and the Good!
-
-Or how thine own majestic hand,<br>
-Ending works so well begun,<br>
-Led to an exulting land,<br>
-<span class="smallcaps">Peace</span>, by noble daring won.<br>
-Which long—but let not man presume<br>
-To lift the veil of years to come,<br>
-Suffice it that Eternal Wisdom sways.—<br>
-That we to Heaven our eyes may cast,<br>
-For present good our grateful anthems raise<br>
-And wish that future years may but reflect the past.
-
-To <span class="smallcaps">Thee</span>, of Arts and Song the Friend,<br>
-Fearless the Bard her tribute bears,<br>
-With vows for all that Heaven can send<br>
-Of lengthen’d reign and prosperous years!<br>
-And pardon Her whose minstrelsie<br>
-Ambitious dwells on themes so high,<br>
-Though haply she in vain the Muse may woo,<br>
-And to thy footstool only bring<br>
-A heart in every pulse to England true,<br>
-True to her equal Laws, her Altar and her King.
+> Ruler of a happy Land!<br>
+> England’s far-descended King!<br>
+> Sprung from Him whose dreadful band<br>
+> Fought beneath the Raven’s wing:<br>
+> Whom his Cimbrian galleys bore<br>
+> To found on Neustria’s yielding shore,<br>
+> Beneath serener skies, a wider reign;<br>
+> Till, slighting realms so cheaply won,<br>
+> His brave Descendant launch’d anew, to gain<br>
+> Fair Albion for his Bride, and fill her Island Throne.
+> 
+> Sprung from those whom Britain’s call<br>
+> Summon’d in an earlier age.<br>
+> When her violated wall<br>
+> Felt the Pictish spoiler’s rage—<br>
+> Soon a milder, purer creed,<br>
+> Changed to white their sablе steed:<br>
+> Soon in one orb the sevenfold гаys combined;<br>
+> Her vanquish’d foes confest the flame,<br>
+> And England with her budding laurels twined<br>
+> Beyond the reach of Time, the wreath of Alfred’s fame.
+> 
+> Mourn not, if their mutual force<br>
+> Oft the plains in crimson dyed;<br>
+> If the Saxon’s generous Horse<br>
+> Stoop’d beneath the Lion’s pride.<br>
+> Thus two mountain springs descend,<br>
+> Thus their meeting waves contend:<br>
+> Long the fierce waters foam, and clash, and roar,<br>
+> Till to their strife the channel yields,<br>
+> Green turf and fragrant blossoms clothe the shore,<br>
+> And the broad tranquil stream spreads plenty through the fields.
+> 
+> With the broomy garland crown’d<br>
+> See the conquering Henry shine!<br>
+> <span class="smallcaps">Plantagenet</span>! that lofty sound,<br>
+> Blends the boast of either line,<br>
+> See the Silver Cross display’d<br>
+> O’er th’ impetuous <span class="smallcaps">Richard’s</span> head!<br>
+> On Syria’s holy plains, to win or bleed,<br>
+> Pours his devoted host along,<br>
+> While he, triumphant on his Cyprian steed,<br>
+> Scatters like morning clouds the misbelieving throng.
+> 
+> <span class="smallcaps">Monarch</span>! him I dare to sing!<br>
+> Him! thy kindred Henry’s son.<br>
+> From his gallant warriors spring<br>
+> They who late thy battles won.<br>
+> England now, from fields of strife<br>
+> Guards her Sovereign’s sacred life.<br>
+> Yet still aloft her star of glory shines;<br>
+> For He that late her Trident bore,<br>
+> And he to whom thy hand her Sword consigns,<br>
+> Shall mate with Arthur’s peers, and <span class="smallcaps">Richard’s</span> knights of yore.
+> 
+> Though no Cross their bosoms seal’d,<br>
+> Their march no mail-clad Prelates led;<br>
+> Sacred be each laurell’d field!<br>
+> In a hallow’d cause they bled.<br>
+> England’s thunders swept the sеа
+> That her brethren might be free;<br>
+> Nor for herself were fruitful regions gain’d:<br>
+> She the trampled fought to raise,<br>
+> And of a rescued world alone retain’d<br>
+> The honour of the strife, th’ imperishable praise.
+> 
+> Beneath Italia’s purple heaven<br>
+> Two gifted Sons of song divine<br>
+> To Immortality have given<br>
+> Thy parent Esté’s princely line;<br>
+> And ever when pale Cynthia pours<br>
+> Her radiance on its summer shores,<br>
+> Along the Adriatic’s listening waves<br>
+> Still sings the merry gondolier;<br>
+> His glistening oar to Roland’s glory laves,<br>
+> Or with Rinaldo woos some new Armida’s car.
+> 
+> Long may they sing—but shall not He<br>
+> Whom England proudly calls her own,<br>
+> Whose deeds of song and chivalry<br>
+> Once gave new lustre to her throne,<br>
+> One mellifluous strain inspire,<br>
+> Or rouse one warrior’s latent fire;<br>
+> Even as Himself could erst the gales invite<br>
+> To waft his bark to Syrian plains,<br>
+> Or call’d indignant from Trivallis’ height<br>
+> His lingering peers to loose their King’s ignoble chains? 
+> 
+> Say not Chivalry is dead;<br>
+> That her spirit charms no more—<br>
+> Noble souls still love to tread<br>
+> Paths of legendary lore:<br>
+> She speaks from every craggy steep,<br>
+> Yet crown’d with some embattled keep,<br>
+> Or stream that lave the Convent’s ruin’d cells,<br>
+> And in the Minster’s aisles of pride,<br>
+> Still many a sculptured Hero proudly tells.<br>
+> For her he bravely fought, for Heaven and England died.
+> 
+> She lives, while England is a name,<br>
+> While native in her sons shall spring<br>
+> That heaven-born zeal, that loyal flame<br>
+> Which binds her People to her King<br>
+> That zeal all selfish thoughts above<br>
+> Which lives but in its country’s love.<br>
+> Which seeks for Honour in the front of war,<br>
+> Which, as it stamps the Tyrant’s doom,<br>
+> Spreads with her rule the light of Truth afar;<br>
+> While Justice guides her sword, and Virtue guards her home.
+> 
+> <span class="smallcaps">Monarch</span>, hold that spirit dear!<br>
+> Prize the Muse that gives it fame!<br>
+> So, to some future Sovereign’s ear<br>
+> Shall Bards unborn thy worth proclaim,<br>
+> Or pausing on thy Father’s reign,<br>
+> Own their loftiest numbers vain,<br>
+> To picture one in every virtue blest;<br>
+> Who firm amid the tempest stood,<br>
+> Friend of the friendless, Champion of th’ opprest,<br>
+> Thine and thy People’s Sire—the Glorious and the Good!
+> 
+> Or how thine own majestic hand,<br>
+> Ending works so well begun,<br>
+> Led to an exulting land,<br>
+> <span class="smallcaps">Peace</span>, by noble daring won.<br>
+> Which long—but let not man presume<br>
+> To lift the veil of years to come,<br>
+> Suffice it that Eternal Wisdom sways.—<br>
+> That we to Heaven our eyes may cast,<br>
+> For present good our grateful anthems raise<br>
+> And wish that future years may but reflect the past.
+> 
+> To <span class="smallcaps">Thee</span>, of Arts and Song the Friend,<br>
+> Fearless the Bard her tribute bears,<br>
+> With vows for all that Heaven can send<br>
+> Of lengthen’d reign and prosperous years!<br>
+> And pardon Her whose minstrelsie<br>
+> Ambitious dwells on themes so high,<br>
+> Though haply she in vain the Muse may woo,<br>
+> And to thy footstool only bring<br>
+> A heart in every pulse to England true,<br>
+> True to her equal Laws, her Altar and her King.
 
 <hr>
 
@@ -305,6 +305,8 @@ In the mean time the loss of the Holy City spread dismay in Europe. Some years p
 In this brief abstract I have merely attempted to recall to the memory of the reader a few of the principal events which preceded the action of the Poem. The recent publication of Mr. Mills’s History of the Crusades, has rendered more minuteness unnecessary. It is needless to say, that in a poem, much of fiction is necessarily blended, but where I have drawn from history, I have endeavoured to be correct For one great anachronism I must throw myself on the mercy of the critic, but it seemed to me otherwise impossible to preserve any unity of story without omitting the most romantic part of <span class="smallcaps">Richard’s</span> life.
 
 It only remains for me to express my thanks to those friends who have assisted my labours. To Mr. Gifford, for the benefit which I have derived from his friendly criticism; and to Mr. D’Israeli, and Messrs. Longman and Rees, for the loan of many valuable books.
+
+<!-- 
 
 ![curlicue](cue.jpg)
 <a id="book01"></a>
@@ -8929,3 +8931,4 @@ Et duræ quercus sudabunt roscida mella.
 [^110]: From Hamo is derived the family name of Amherst.
 
 [^111]: This incident of a Templar renegade is on record.
+ -->
