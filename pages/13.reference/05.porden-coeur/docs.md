@@ -8568,7 +8568,7 @@ This extraordinary man was the Abbé Joachim, who after his return from Jerusale
 <a id="note07-aa"></a>
 § Note (aa), page 301, line 671.&emsp;*Voluptuous lamps illume the gaudy flowers.*
 
-Aboulfeda. The position of the armies ¡s also historical.&#160;<a href="#ref07-aa" rev="footnote" class="footnote-backref">↩</a>
+Aboulfeda. The position of the armies is also historical.&#160;<a href="#ref07-aa" rev="footnote" class="footnote-backref">↩</a>
 
 
 ## Book VIII
@@ -8686,7 +8686,7 @@ The Montmorencies derive their name from an incident in the time of Charles Mart
 The Saracens, who saw their sovereign unhorsed, interrupted the combat. The death of Favel has had the honour to be frequently mentioned by the poets who have spoken of <span class="smallcaps">Richard</span>; and among others by Drayton. Vineeauf says that his velocity was incomparable. The romance states that Favel and Lyard were both among the spoils of Cyprus: but as Normandy was celebrated for its horses, its capital having given its name to the roan steeds still so common in that province, I have ventured to make Lyard a Norman. It was the coal-black charger of <span class="smallcaps">Richard</span> which the Saracens declared to be a devil. The raven upon Lyard’s head is from the romance.&#160;<a href="#ref08-x" rev="footnote" class="footnote-backref">↩</a>
 
 <a id="note08-y"></a>
-§ Note (y), page 347, line 911.&**And thou young Fatimite, far hence remove.*
+§ Note (y), page 347, line 911.&emsp;*And thou young Fatimite, far hence remove.*
 
 Aladin, being a Persian, was probably a Shiite, or Fatimite; that is, a Mahommedan of the sect of Ali. The orthodox Musulmans hold these sectaries in still greater detestation than either Christians or Idolaters, and believe them to be farther from paradise. As one of the earliest exploits of Saladine was the suppression of the Egyptian or Fatimite Caliphs, and as the Soldan prided himself on his orthodoxy,
 none of the house of Ayoub were likely to look with complacency on the worshippers of Ali&#160;<a href="#ref08-y" rev="footnote" class="footnote-backref">↩</a>
