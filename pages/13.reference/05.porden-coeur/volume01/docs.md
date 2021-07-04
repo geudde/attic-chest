@@ -1,5 +1,5 @@
 ---
-title: 'Volume 1'
+title: 'Volume I'
 metadata:
     Author: 'Eleanor Anne Porden'
     Keywords: 'Porden, Eleanor Anne Porden, Richard, Coeur de Lion'
@@ -1282,7 +1282,7 @@ The gaping wound, he heals the tortur’d mind,<br>
 Holds mercy’s pledge before the closing eye,<br>
 And bids the parting soul ascend to joy.
 
-![curlicue](cue.jpg)
+![curlicue](../cue.jpg)
 
 <a id="book02"></a>
 # Book II
@@ -1897,7 +1897,7 @@ The Persian Tyrant’s doom; to starve on gold.”<sup id="ref02-n"><a href="#no
 &emsp;He spoke: the Greeks with smiles obsequious hear,<br>
 And mock the Tyrant they no longer fear.
 
-![curlicue](cue.jpg)
+![curlicue](../cue.jpg)
 
 <a id="book03"></a>
 # Book III
@@ -2960,7 +2960,7 @@ Each fervent vow in solemn silence paid;<br>
 Departing then they sink in peaceful sleep,<br>
 Till morn should rouse to plough the foaming deep.
 
-![curlicue](cue.jpg)
+![curlicue](../cue.jpg)
 
 <a id="book04"></a>
 # Book IV
@@ -3867,7 +3867,7 @@ Drives from th’ assaulted camp the impious train.<br>
 Secure at length the ponderous valves they close,<br>
 And weep their loss, and from their toils repose.
 
-![curlicue](cue.jpg)
+![curlicue](../cue.jpg)
 
 <a id="book05"></a>
 # Book V
@@ -4871,7 +4871,7 @@ Shunn’d all once loved, but most her master’s hand;<br>
 To hear his call, to taste his bread denied,<br>
 Sate silent on her perch, and pined, and died.
 
-![curlicue](cue.jpg)
+![curlicue](../cue.jpg)
 
 <a id="book06"></a>
 # Book VI
@@ -5843,7 +5843,7 @@ Flow’d through the wasted frame of Saladine.<br>
 Nor warm with life, with health renew’d he seems,<br>
 Rose with the sun, and blest his golden beams.
 
-![curlicue](cue.jpg)
+![curlicue](../cue.jpg)
 
 <a id="book07"></a>
 # Book VII
@@ -6571,7 +6571,7 @@ Those nameless comforts England only knows.<br>
 All these, our grateful tears confess it true,<br>
 All these to thee, to thee and Heaven are due!
 
-![curlicue](cue.jpg)
+![curlicue](../cue.jpg)
 
 <a id="book08"></a>
 # Book VIII
