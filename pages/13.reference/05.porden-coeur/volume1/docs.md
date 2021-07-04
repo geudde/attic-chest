@@ -7613,7 +7613,7 @@ He trembles lest his dream of bliss should fly.
 <a id="notes01"></a>
 # Notes
 
-#### Book I
+### Book I
 
 <a id="note01-a"></a>
 § Note (a), page 8, line 42.&emsp;*Alkarmel, fellest of Messiah’s foes*.
@@ -7748,7 +7748,7 @@ The Oriflamme, or sacred banner of France, was reported to have descended from h
 In ages when the ocean has become the readiest means of communication between distant regions, it is hardly possible for us to conceive adequately the terrors of such an expedition as the voyage from France or England to Jerusalem in the twelfth century, and it is probable, that nothing short of the almost incredible waste of human life which had been occasioned by the land journeys of the pilgrims, would have prompted the hazardous enterprize. In the time of Magnus the third of Norway, Skopte Augmundson, allied to the Royal Family, had warm discussions with the king about the succession of an estate, and not obtaining his demands, left the court. In 1100 he equipped five vessels for the East, and took with him his three sons: but they all died before they reached Palestine. He was however the first Scandinavian who had passed the straits. The ardour of crusading was kindled. Sigurd, one of the sons of Magnus, embarked from Norway with sixty vessels; was well received on his way by Henry the first of England; took the fort of Cintra in Lusitania from the Saracens, beat them next at Lisbon and Alcazar; twice fought their piratical fleet, passed the straits, and in the Isle Formentera attacked the cave of some infidel pirates. It was overhung by a rock, which the Norwegians mounted, and crushed them with stones; then lighted wood before its mouth, and almost stifled the brigands, who made a desperate sally, but in vain; they were all destroyed. Sigurd gained a great booty, and received the solemn thanks of Yvica and Formentera for their deliverance. He was afterwards kindly received by Roger the Second of Sicily, and in 1110 landed at Ascalon, whence he made the pilgrimage to Jerusalem, and assisted at the siege of Sidon, The voyage had occupied more than two years, and this expediton, which has been strangely neglected by historians, was considered as one of the most remarkable of those which occurred during the Crusades. But it was only the nations of the Baltic and Adriatic who possessed any share of maritime spirit or power. In the days of Charlemagne, France had something like a navy, but it declined under his feeble successors, and was annihilated after the usurpation of Hugues Capet. England was not better provided. The Saxons had lost all the naval pride of their ancestors, and the Normen, or Normans, whose Danish forefathers had been the scourge of Britain, after
 their conquest of England, bounded their voyages to the passage of the channel. Genoa, Pisa, Venice, and the Saracens of Barcelona, engrossed the whole commerce of Europe, and Philip Augustus and <span class="smallcaps">Richard</span> were alike compelled to hire from the Genoese the vessels which conveyed them to Palestine. Nor were these vessels the floating castles of modern England. Closely resembling the Liburnian galleys of the Romans, they trusted more to oars than sails. The compass was not then in use, and every nautical art imperfect and ill understood. The relation which Hoveden and others have given of the voyage of <span class="smallcaps">Richard</span>, proves how completely the pilots stuck to the shore, and how much they feared the element which they pretended to govern. Even in the thirteenth century it was rare for a British ship to be seen in the Mediterranean. — *Catteau Calleville, Révolutions de la Norvège. — Mailly, &.*&#160;<a href="#ref01-x" rev="footnote" class="footnote-backref">↩</a>
 
-#### Book II
+### Book II
 
 <a id="note02-a"></a>
 § Note (a), page 54, line 30.&emsp;*And Berengaria, his affianced bride.*
@@ -7821,7 +7821,7 @@ The women of Cyprus are said to be skilful in the language of flowers, and to be
 
 The Persian monarch Khosroes, having an idea of causing his son Mardasan to be crowned as his successor, his eldest born Siroes, jealous of this preference, followed the example which Khosroes had set him in rebelling against his own father, and shut him up in a place called the Tower of Darkness, which he had built as the repository of his treasures. Gold and precious stones were heaped around him, and when he asked for food, be was bidden to feast on that wealth of which be had been so insatiable: and thus grief and hunger terminated the existence of a prince, whose reign had been among the most glorious in the Persian annals.&#160;<a href="#ref02-n" rev="footnote" class="footnote-backref">↩</a>
 
-#### Book III
+### Book III
 
 <a id="note03-a"></a>
 § Note (a), page 87, line 92.&emsp;*From Tancred forced her freedom and her dower.*
@@ -8044,7 +8044,7 @@ Saladine was touched by the grief of Sybilla, and promised that as soon as his p
 
 See Rastell’s Chronicle, Origin of the Garter. “Some do affirme that this order beganne firste by <span class="smallcaps">King Richard Cœur de Lyon</span>, at the siege of the citie of Acre, where in his great necessytie there were but twentie-five knightes that firmlye and surelye abode by him, whene he caused them all to weare thongs of blue leythere aboute their legges, and afterwards they were called knights.” Sir Egerton Brydges, in his notice of the family of St. John, in Collins’s Peerage, says, “This Roger de St. John was with <span class="smallcaps">Richard the First</span> at Acre, when that Monarch thought of this device. He tied a leathern thong, or garter, around the left leg of a certain number of his knights, to excite them to greater courage. This some think was the first occasion of the institution of the Order of the Garter.” It suited me better to place the investiture at Cyprus than at Acre.&#160;<a href="#ref03-rr" rev="footnote" class="footnote-backref">↩</a>
 
-#### Book IV
+### Book IV
 
 <a id="note04-a"></a>
 § Note (a), page 134, line 22.&emsp;*For want and thirst have keener stings than war.*
@@ -8142,7 +8142,7 @@ The Christian camp at Acre, by means of successive additions and entrenchments h
 See Michaud, vol.ii. p. 892, where he speaks of a Christian knight who singly defended one of the gates of the camp against a crowd of Saracens. The Arabian authors compare him to a demon, animated by all the fires of hell. An
 enormous cuirass covered him entirely, arrows, stones, and lances were showered in vain upon him, destroying all that approached, he seemed himself invulnerable, till at last he fell a victim to the Greek fire—*“Devoré par les flammes, il périt, semblable à ces machines énormes des Chrétiens que les assiégés avaient brûlées sous les murailles de la ville.”* Marin distinguishes this herо as the Count of Bar, to whom his valour had procured the title of the French Achilles.&#160;<a href="#ref04-t" rev="footnote" class="footnote-backref">↩</a>
 
-#### Book V
+### Book V
 
 § Note, page 177, line 32.&emsp;*Whose was the single ship, the single arm?*
 
@@ -8285,7 +8285,7 @@ The private interests of Philip Augustus, and the lukewarmness or disagreement o
 
 During the siege of Acre the Christians often received intelligence of the intentions of the besieged by means of arrows with labels attached, which were shot into the camp by some friend within the town, and who was supposed to have perished before the surrender of the place, as he never made himself known. Saladine kept up his communication with the city by means of divers, and of carrier pigeons. These winged messengers had long been in use in the east, and were particularly employed under his predecessor Noureddin.&#160;<a href="#ref05-s" rev="footnote" class="footnote-backref">↩</a>
 
-#### Book VI
+### Book VI
 
 <a id="note06-a"></a>
 § Note (a), page 224, line 20.&emsp;*The soul of war—in youth had Jerworth’s hand.*
@@ -8359,7 +8359,7 @@ Saffron was one of the principal exports of the East in the middle ages, and the
 
 The “Letters from Tripoli” contain many distressing relations of the manner in which Georgian and Circassian girls are kidnapped by the Tartars, and hurried across the desert in sacks slung on the back of a camel. Many die on the journey, or never recover their fatigues, though they are afterwards fattened with the greatest care, and instructed in such accomplishments as are considered most marketable. Of these stories the most interesting is that of Lilla Haluma, who after many sufferings was sold to Hadgi Abderahman, afterward ambassador in England; and by her beauty and gentleness not only induced her master to marry her, but to grant her many indulgences not often accorded to the Moorish females, and among others, that of receiving intelligence from her native country, and relieving the wants of her family, who had fallen into distress. Many of the poorer Georgians educate their daughters expressly for the Turkish market, and themselves dispose of them to the Tartars.&#160;<a href="#ref06-n" rev="footnote" class="footnote-backref">↩</a>
 
-#### Book VII
+### Book VII
 
 <a id="note07-a"></a>
 § Note (a), page 273, line 36.&emsp;*Thou hold’st my life as dear as thine to me.*
@@ -8575,7 +8575,7 @@ This extraordinary man was the Abbé Joachim, who after his return from Jerusale
 Aboulfeda. The position of the armies is also historical.&#160;<a href="#ref07-aa" rev="footnote" class="footnote-backref">↩</a>
 
 
-#### Book VIII
+### Book VIII
 
 <a id="note08-a"></a>
 § Note (a), page 308, line 18.&emsp;*Like wintry snows the plumy arrows fly.*
