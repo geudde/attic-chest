@@ -56,6 +56,7 @@ ul {
 
 </style>
 
+<!-- 
 <div class="center">
 <p>
 or
@@ -89,6 +90,7 @@ Humbly Inscribed by His Majesty’s Most Dutiful and Devoted Servant,
 Eleanor Anne Роrden
 </p>
 </div>
+ -->
  
 <hr>
 <div class="flex-container">
@@ -128,6 +130,7 @@ Eleanor Anne Роrden
 
 <hr>
 
+<!-- 
 <a id="ode"></a>
 ## Ode tо thе King’s Most Excellent Majesty
 
@@ -305,6 +308,7 @@ In the mean time the loss of the Holy City spread dismay in Europe. Some years p
 In this brief abstract I have merely attempted to recall to the memory of the reader a few of the principal events which preceded the action of the Poem. The recent publication of Mr. Mills’s History of the Crusades, has rendered more minuteness unnecessary. It is needless to say, that in a poem, much of fiction is necessarily blended, but where I have drawn from history, I have endeavoured to be correct For one great anachronism I must throw myself on the mercy of the critic, but it seemed to me otherwise impossible to preserve any unity of story without omitting the most romantic part of <span class="smallcaps">Richard’s</span> life.
 
 It only remains for me to express my thanks to those friends who have assisted my labours. To Mr. Gifford, for the benefit which I have derived from his friendly criticism; and to Mr. D’Israeli, and Messrs. Longman and Rees, for the loan of many valuable books.
+ -->
 
 ![curlicue](../cue.jpg)
 <a id="book01"></a>
