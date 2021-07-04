@@ -98,8 +98,6 @@ Eleanor Anne Роrden
 
 <h3>Volume I</h3>
 <ul>
-<li><a href="#ode">Ode to the King</a></li>
-<li><a href="#preface">Preface</a></li>
 <li><a href="https://attic.vardill.org/reference/porden-coeur/volume01#book01">I. The Siege of Acre</a></li>
 <li><a href="https://attic.vardill.org/reference/porden-coeur/volume01#book02">II. The Conquest of Cyprus</a></li>
 <li><a href="https://attic.vardill.org/reference/porden-coeur/volume01#book03">III. The Nuptials of Richard and Berengaria</a></li>
