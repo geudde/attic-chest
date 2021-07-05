@@ -202,10 +202,88 @@ That other seasons, other stars adorn,<br>
 And fade in night when ours salute the morn:<br>
 Yet what of wealth shall mightiest conqueror save,<br>
 But the cold sheet that winds him in the grave?<sup id="ref09-d"><a href="#note09-d" class="footnote-ref">d</a></sup><br>
-While one poor peasant from 1иь hamlet driven, Has power to blast him ou the bridge of Heaven.* A few short years, perforce our strife m .bt cease, Our sons may fight, but we shall sleep in peace». Cc Behold me then, for either chance prepared, For peace or war, as now thy lips award; Say why, innumerous as the crested waves, Your annual fleet the wondering Ocean braves? What rancour fires to quit your tranquil reign? What shun ye there, what here attempt to gain?" 150 i( Twice fifty snows are gone since Godfrey bore," Thus Richard spoke, " the Cross on Syria's shore, And asks your Monarch now, why all most dear, Friends, kindred, home, we leave to perish here 5 — The land from hence to Jordan's sacred tide, The precious Cross where meek Messiah died, His tomb, and where Jehovah's temple stood— These have we vow'd to purchase with our blood." i( And these," said Adel, (i while these climes retain Their faith, their Prophet, must thou never gain. 160
-That senseless wood ye prize—it once was ours j But, if by Genii curst, or Angel powers, Rapt from our view, 'tis ours to yield no more, Might we that scandal to our creed restore. 6 Nor can we to rebellious hands resign The sacred City (and it ne'er was thine), Salem, nor last nor meanest of the seven That Islam honours by command of Heaven; For there the faithful Genii meet, and there Rose the great Prophet through ambrosial air, I7O What time, yet clothed in mortal flesh, he trod The sevenfold heavens, and view'd the living God. But if thou wilt, this contest yet shall cease, And Strife's crude apple yield the seeds of peace, " As late thy sister to the Soldan's breast Recalľd a form in halcyon youth imprest, When Eleanora with her former lord* In Antioch dwelt, by Turk and Frank adored, He wept to think how he with deadly strife Pursued her son—that late he sought thy life; 180 But I with less paternal eyes beheld Matilda's charms, and rued my pledge to yield.
-" Hear then, great King! and if your martial vow ~\ And jealous faith such bridal rites allow, \> Beneath our blended sway shall Syria bow; j in all that splendour shall Matilda live That Egypt's wealth to Judah's throne can give. Free as in Christian lands, her gates of gold To ail she lists shall unreproved unfold; While in my îealms, unquestioned as in thine, 190 Shall Christians pass to every sacred shrine; My slaves obedient shall protect their faith, And aid them dying, and entomb in death. i( Then ponder well, a hostile realm to gain, By arms to win it, and by arms maintain, Or bid at once the strife of ages cease, And all the ends of war acquire by peace." " Vast is the stake, nor lightly to decide Becomes my youth;" the English King replied. " True, I have kingdoms, fruitful realms and fair, 200 That now, perchance, demand a Sovereign's caie: Unmatch'd in arts and arms, a fertile isle, Whose vaici are green in Summer's temperate smile; Where nor hot winds nor fierce tornadoes blow, Nor Winter bring* unmitigated snow ,
-While half those regions Philip calls his own, In corn and vines are clothed for me alone: Yet may I not desert a promise gis r en, Or quit for earthly cares the Cause of Heaven. Salem has yet a King,—a King my friend, 210 Can I crush rights I pledg'd me to defend? Or should nor Heaven nor Lusignan withstand, Without her sanction plight Matilda's hand?— I call my council,—thou meanwhile may'st bear My courteous greetings to the Soldan's ear; Whate'er of friendship war like ours can know, Christian and Infidel, or foe and foe.— Suy, should we close our contest or reness', If e'er again шу native land I view, Not his own bards in warmer phrase than mine 220 Shall sing the power, the worth of Saladine." Soon to his Peers convoked, the Monarch shew'd The proffer'd terms of peace, and then pursued: c ' Thus speaks the Soldan —and I yield the choice Of truce or conflict to the general voice. Think, if such terms our faith with Heaven fulfil? To leave the Turk on Sion's Holy Hill; To yield a Christian Princess, and to prize As friends and kindred those our God denies?
+While one poor peasant from his hamlet driven,<br>
+Has power to blast him on the bridge of Heaven.[^3]<br>
+A few short years, perforce our strife must cease,<br>
+Our sons may fight, but we shall sleep in peace.<br>
+&emsp;“Behold me then, for either chance prepared,<br>
+For peace or war, as now thy lips award;<br>
+Say why, innumerous as the crested waves,<br>
+Your annual fleet the wondering Ocean braves?<br>
+What rancour fires to quit your tranquil reign?<br>
+What shun ye there, what here attempt to gain?”<br>
+&emsp;“Twice fifty snows are gone since Godfrey bore,”<br>
+Thus <span class="smallcaps">Richard</span> spoke, “the Cross on Syria's shore,<br>
+And asks your Monarch now, why all most dear,<br>
+Friends, kindred, home, we leave to perish here? —<br>
+The land from hence to Jordan’s sacred tide,<br>
+The precious Cross where meek Messiah died,<br>
+His tomb, and where Jehovah’s temple stood—<br>
+These have we vow’d to purchase with our blood.”<br>
+&emsp;“And these,” said Adel, “while these climes retain<br>
+Their faith, their Prophet, must thou never gain.<br>
+That senseless wood ye prize—it once was ours;<br>
+But, if by Genii curst, or Angel powers,<br>
+Rapt from our view, “tis ours to yield no more,<br>
+Might we that scandal to our creed restore.<sup>e</sup><br>
+Nor can we to rebellious hands resign<br>
+The sacred City (and it ne’er was thine),<br>
+Salem, nor last nor meanest of the seven<br>
+That Islam honours by command of Heaven;<br>
+For there the faithful Genii meet, and there<br>
+Rose the great Prophet through ambrosial air,<br>
+What time, yet clothed in mortal flesh, he trod<br>
+The sevenfold heavens, and view’d the living God.<br>
+But if thou wilt, this contest yet shall cease,<br>
+And Strife’s crude apple yield the seeds of peace,<br>
+&emsp;“As late thy sister to the Soldan’s breast<br>
+Recall’d a form in halcyon youth imprest,<br>
+When Eleanora with her former lord[^4]<br>
+In Antioch dwelt, by Turk and Frank adored,<br>
+He wept to think how he with deadly strife<br>
+Pursued her son—that late he sought thy life;<br>
+But I with less paternal eyes beheld<br>
+Matilda’s charms, and rued my pledge to yield.<br>
+&emsp;“Hear then, great King! and if your martial vow<br>
+And jealous faith such bridal rites allow,<br>
+Beneath our blended sway shall Syria bow;<br>
+In all that splendour shall Matilda live<br>
+That Egypt’s wealth to Judah’s throne can give.<br>
+Free as in Christian lands, her gates of gold<br>
+To all she lists shall unreproved unfold;<br>
+While in my realms, unquestioned as in thine,<br>
+Shall Christians pass to every sacred shrine;<br>
+My slaves obedient shall protect their faith,<br>
+And aid them dying, and entomb in death.<br>
+77“Then ponder well, a hostile realm to gain,<br>
+By arms to win it, and by arms maintain,<br>
+Or bid at once the strife of ages cease,<br>
+And all the ends of war acquire by peace.”<br>
+&emsp;“Vast is the stake, nor lightly to decide<br>
+Becomes my youth;” the English King replied.<br>
+“True, I have kingdoms, fruitful realms and fair,<br>
+That now, perchance, demand a Sovereign’s care:<br>
+Unmatch’d in arts and arms, a fertile isle,<br>
+Whose vales are green in Summer’s temperate smile;<br>
+Where nor hot winds nor fierce tornadoes blow,<br>
+Nor Winter brings unmitigated snow;<br>
+While half those regions Philip calls his own,<br>
+In corn and vines are clothed for me alone:<br>
+Yet may I not desert a promise given,<br>
+Or quit for earthly cares the Cause of Heaven.<br>
+Salem has yet a King,—a King my friend,<br>
+Can I crush rights I pledg’d me to defend?<br>
+Or should nor Heaven nor Lusignan withstand,<br>
+Without her sanction plight Matilda’s hand?—<br>
+I call my council,—thou meanwhile may’st bear<br>
+My courteous greetings to the Soldan’s ear;<br>
+Whate’er of friendship war like ours can know,<br>
+Christian and Infidel, or foe and foe.—<br>
+Say, should we close our contest or renew,<br>
+If e’er again mу native land I view,<br>
+Not his own bards in warmer phrase than mine<br>
+Shall sing the power, the worth of Saladine.”<br>
+Soon to his Peers convoked, the Monarch shew'd The proffer'd terms of peace, and then pursued: c ' Thus speaks the Soldan —and I yield the choice Of truce or conflict to the general voice. Think, if such terms our faith with Heaven fulfil? To leave the Turk on Sion's Holy Hill; To yield a Christian Princess, and to prize As friends and kindred those our God denies?
 Ye miiiisters of Heaven! its -will explain; 230 Thou, Lusignan! thy menaced rights maintain; Be every claim in equal balance tried, Weigh Λνβΐΐ, oh Princes! лveigh them, and decide." He spoke, and wondrous, not a breath was heard, Nor whispered murmur, nor dissentient word. It.seem'd as some Lethean spell had crept Round each fierce heart —that even discord slept: Till, like the last faint sigh when tempests cease, One sound they uttered, and that sound was " Peace!" The Asian prelates, Acre, Nazareth, Tyre, 240 And peers of France, that France and home desire, Wearied of war, and conscious that the shame Or praise alike will cling to Richard's name, Each in his turn the offered rites allows, And brings meet instance of resembling vowb. How oft Amalric leagued in strict accord With great Noureddin, and Iconium's Lord; Nor fear'd in Egypt Chaver's cause to join, Even in his youth, the foe of Saladine/ i( Ha!" Raymond thought, " no martial voice, not one! Discord and valour both with Conrad gone! But Lusignan arises,—heavenly power! Thy priests arc faithless in this fatal hour,
 Make then the claims of pride and interest strong— Matilda's fate is trembling on his tongue." Yes, Lusignan arose, and ne'er before So sweet a grace bis calm, fair visage wore. From his bright hair Judea's crown he took, And view'd awhile with mild and pensive look. " Beloved in life, and honour'd in the grave, 260 To me this wreath Amalric's daughter gave; Pledge of her truth, affection's sweet reward, I hail'd the glittering weight, and vow'd to guard. Yet few like me, the sport of fate, have found What thorns are hidden in its golden round; That this wide earth contains no wretched thing Despised, insulted, like a throneless King! Not by ambition, but by duty driven, I prized what seem'd the sacred gift of Heaven; Nor grief, nor chains, nor Conrad's threats unjust, 2/0 Could make my faithful soul desert its trust;—■ But now if heaven resume it, I resign— Heroic Richard, be its glories thine! Guard if thou wilt, or where thou wilt bestow, No jealous pangs this grateful heart shall know;— May he ss'ho wears, his realm in triumph free, Like me be faithful, but more blest than me.
 Some tranquil small domain, alone 1 crave; A place of rest, an uncontested grave."— " Enough, my friend—till Heavens decree be known, 280 In trust I take the delegated crown; Not for myself—my own paternal land Is amply s r ast to fill one sceptred hand. Yet must not thou, who «¡aw'st the mightiest bend Beneath thy rule, from kingly rank descend. My recent prize, beyond description fair, Deserves a Monarch's undivided care; One half the Templars hold, the rest be thine its wealth, its regal honours I resign."^— Ç( Too generous King!" glad Lusignan replies, 290 " Not the wide earth could yield so dear a prize. Hail, Cyprus î fairest isle beneath the sun, So freely yielded, as so nobly won."— The Monarch smiled, when Raymond, struggling long, For looks less troubled and less faltering tongue, Abruptly spoke:— i( Is all our virtue gone > " Plead I for heaven's, for glory's rights alone?— Is war so irksome now, that in the field, The hour of conquest, ye those conquests yield!
@@ -632,3 +710,7 @@ This remark of Saladine has been related in various ways. It is generally believ
 [^1]: Valour, and the passion for crusading, were hereditary in the family of D’Avesnes; and Gerard, the ancestor of James, was appointed to the government of Arsouf, on its reduction by Godfrey of Bouillon. The funeral of James D’Avesnes was celebrated by <span class="smallcaps">Richard</span> with peculiar honour, on the day succeeding the battle of Arsouf.
 
 [^2]: Joseph, who according to Mahommedan tradition was buried in one of the Pyramids. The delight which Saladin had in asserting his descent from his patriarchal namesake has been before alluded to.
+
+[^3]: The bridge of Al Sirat, which has already been mentioned; where the curses of those whom we have injured in this life will become gusts of wind, to shake our footing on its perilous edge.
+
+[^4]: See Note on Book III, respecting the supposed acquaintance between Eleanor of Guyenne and the young Saladine, at Antioch.
