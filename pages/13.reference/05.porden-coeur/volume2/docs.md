@@ -923,12 +923,109 @@ When Solyman the sons of fire control'd,<br>
 And piled stupendous many a fabric fair,<br>
 Colossal works! man's envy and despair.<br>
 &emsp;’Twas night—with unaccustom'd toil opprest,<br>
-Now Peers and Princes seek the couch of rest; When hark! a thousand clamorous tongues require The wearied king—the lords return from Tyre. 10
-Impatient throngs explore each clouded look, That told of evil ere a word was spoke. And soon with tears was many a cheek bedew'd, For sad the tale—a tale of guilt and blood. From Acre's plain the noble envoys crost Scandalion's ridge, and gain'd the Tyrian coast. By Asia's fervid suns unnerved no more, Now Philip linger'd on Phoenicia's shore; While Saladine, with policy refined, In princely gifts display'd his courteous mind. 20 With these, to heal the Monarch's languid frame, Abdollatiph, the pride of Asia, came, a With all the lore of Ind or Persia fraught, That Avicene, or sage Averrhoes taught; b That Grecian erst, or wise Chaldæan told, And all Damascus' royal schools unfold. Unwearied yet he hastens to explore, What lingering knowledge lives on Nilus' shore; That shore where first she lit her mystic fire, So soon to flourish, and so soon expire. 30 And now, though grief for Arsouf's ravish'd fight Secludes the Soldan from his servant's sight, His bounty graced the sage—he bids him shew His wonted wisdom, and restore his foe.
-But vain was all his healing skill to find The King's disease, the canker of the mind; As vain the zealous Prelate's earnest prayer, \ Or envious Austria's, fill’d with timely fear, V Lest hated Richard rule without a Peer. } " Canst thou," the Duke began, (e so deeply taste Of glory's cup, yet quit the rich repast? Or see those laurels by thy vassal won, Which, near his lord, he durst not call his own?" ťf Degenerate offspring of a sainted sire," The priest exclaim'd, with all a zealot's fire, " Flow far unlike to him whose active youth Bled in the cause of Sion and of truth;* Whose honour'd age a pontiff's wants supplied, And gave that home his rebel states denied, 0 Thou, but that bounteous Heaven delay'd thy reign, Hadst join'd the kings of England and Almayne. How may'st thou now, oh, sceptred recreant! bear That outraged palm, that Cross abandon'd wear? Or yield at Dionysius' honour'd shrine, With festal hymns, his Oriflamme divine?f,Philip
-Thy injur'd God beholds; he speaks his claim In that gaunt malady which wastes thy frame. His curse shall linger on thy tainted life, Treason, and conflict, and domestic strife." They plead, they threat,—but prayers and threats are vain, 60 He climbs his ship, and launches on the main; To Paris' walls the Soldan's gifts he bore, A nation's wonder on that distant shore. Far other Conrad's mien,—austere and high, He checked reproof, and made a proud reply: " Prelate, forbear thy threats, and thou, my friend, These vain entreaties,—Conrad cannot bend. I once defied your church, and know that man May live and prosper though he bear its ban.* Me nor false hopes nor bigot zeal inspire, 70 My quest dominion, glory my desire. Would Richard win my love, its price is known, I treat with none that brings not Sion's crown: Though well is all his former scorn repaid, When that proud tyrant seeks Montferraťs aid.
-Yet Leopold, even for thy triple claim Of kindred blood, of danger, and of fame, Thus far I yield:—On my behalf to treat, Now Sidon's Prince and Asia's Soldan meet; Wait then th' event,—should Ayoub's son decline 8!) The peace, then Richard's foes again are mine. But mark! no more in common fight to blend- Foe of his foe, but never Richard's friend." Impatiently they waited many a day, Λ Till Conrad kindled at the long delay, > His greatness outraged in his herald's stay; J He scorned to veil his thoughts, and at a feast, Whose princely splendour dazzled either guest, i( Let Saladine beware," he sternly said, " Dire be my warfare if he scorn my aid!" 90 The Prelate, anxious still th' accord to bind, And fix the changing current of his mind, Cried, as he pledged him in Ionian wine, " As I your guest, be you to-morrow miue." Day past, and bright the evening banquet shone, And Conrad graced the feast, but not alone; Rinaldo swell'd his train % and, ere he spoke,* The envoys knew th' expected concord broke.
-Their blighted hopes alike the Tyrians feel, And all in silence sped their tasteless meal j 100 When Conrad rising, from his purple vest Drew forth a scroll, and thus the Peers addrest: ' ť The Soldan, yielding to our terms of peace, Is well content to bid the contest cease; Unransom'd he restores our captive sire,* He owns us sovereign potentates of Tyre:— Envoys of England, learn your errand vain, And tell your Lord, that when we meet again The ground he holds his falchion must maintain." The Austrian stood aghast, in mute amaze,— 110 " All-seeing power!" cried Philip of Beauvais, Sl Was ever yet so foul an union sped? Heaven linked with Hell, the living with the dead!" " Peace, Prelate, peace! and practise what you teach:-— Go! to your own neglected Normans preach j But learn I govern here ', and Tyrian lords Are wont to guard their honour with their swords. What, thine is sharp! but let its hilt be still, This froward humour suits thy mitre ill;
+Now Peers and Princes seek the couch of rest;<br>
+When hark! a thousand clamorous tongues require<br>
+The wearied king—the lords return from Tyre.<br>
+Impatient throngs explore each clouded look,<br>
+That told of evil ere a word was spoke.<br>
+And soon with tears was many a cheek bedew'd,<br>
+For sad the tale—a tale of guilt and blood.<br>
+&emsp;From Acre's plain the noble envoys crost<br>
+Scandalion's ridge, and gain'd the Tyrian coast.<br>
+By Asia's fervid suns unnerved no more,<br>
+Now Philip linger'd on Phoenicia's shore;<br>
+While Saladine, with policy refined,<br>
+In princely gifts display'd his courteous mind.<br>
+With these, to heal the Monarch's languid frame,<br>
+Abdollatiph, the pride of Asia, came,<sup>a</sup><br>
+With all the lore of Ind or Persia fraught,<br>
+That Avicene, or sage Averrhöes taught;<sup>b</sup><br>
+That Grecian erst, or wise Chaldæan told,<br>
+And all Damascus' royal schools unfold.<br>
+Unwearied yet he hastens to explore,<br>
+What lingering knowledge lives on Nilus' shore;<br>
+That shore where first she lit her mystic fire,<br>
+So soon to flourish, and so soon expire.<br>
+And now, though grief for Arsouf's ravish'd fight<br>
+Secludes the Soldan from his servant's sight,<br>
+His bounty graced the sage—he bids him shew<br>
+His wonted wisdom, and restore his foe.<br>
+But vain was all his healing skill to find<br>
+The King's disease, the canker of the mind;<br>
+As vain the zealous Prelate's earnest prayer,<br>
+Or envious Austria’s, fill’d with timely fear,<br>
+Lest hated Richard rule without a Peer.<br>
+&emsp;“Canst thou,” the Duke began, “so deeply taste<br>
+Of glory’s cup, yet quit the rich repast?<br>
+Or see those laurels by thy vassal won,<br>
+Which, near his lord, he durst not call his own?”<br>
+&emsp;“Degenerate offspring of a sainted sire,”<br>
+The priest exclaim’d, with all a zealot’s fire,<br>
+“How far unlike to him whose active youth<br>
+Bled in the cause of Sion and of truth;[^14]<br>
+Whose honour’d age a pontiff’s wants supplied,<br>
+And gave that home his rebel states denied.<sup>c</sup><br>
+Thou, but that bounteous Heaven delay’d thy reign,<br>
+Hadst join’d the kings of England and Almayne.<br>
+How may’st thou now, oh, sceptred recreant! bear<br>
+That outraged palm, that Cross abandon’d wear?<br>
+Or yield at Dionysius’ honour’d shrine,<br>
+With festal hymns, his Oriflamme divine?[^15]<br>
+Thy injur’d God beholds; he speaks his claim<br>
+In that gaunt malady which wastes thy frame.<br>
+His curse shall linger on thy tainted life,<br>
+Treason, and conflict, and domestic strife.”<br>
+&emsp;They plead, they threat,—but prayers and threats are vain,<br>
+He climbs his ship, and launches on the main;<br>
+To Paris’ walls the Soldan’s gifts he bore,<br>
+A nation’s wonder on that distant shore.<br>
+&emsp;Far other Conrad’s mien,—austere and high,<br>
+He checked reproof, and made a proud reply:<br>
+“Prelate, forbear thy threats, and thou, my friend,<br>
+These vain entreaties,—Conrad cannot bend.<br>
+I once defied your church, and know that man<br>
+May live and prosper though he bear its ban.[^16]<br>
+Me nor false hopes nor bigot zeal inspire,<br>
+My quest dominion, glory my desire.<br>
+Would <span class="smallcaps">Richard</span> win my love, its price is known,<br>
+I treat with none that brings not Sion’s crown:<br>
+Though well is all his former scorn repaid,<br>
+When that proud tyrant seeks Montferrat’s aid.<br>
+Yet Leopold, even for thy triple claim<br>
+Of kindred blood, of danger, and of fame,<br>
+Thus far I yield:—On my behalf to treat,<br>
+Now Sidon’s Prince and Asia’s Soldan meet;<br>
+Wait then th’ event,—should Ayoub’s son decline<br>
+The peace, then <span class="smallcaps">Richard’s</span> foes again are mine.<br>
+But mark! no more in common fight to blend-<br>
+Foe of his foe, but never <span class="smallcaps">Richard’s</span> friend.”<br>
+&emsp;Impatiently they waited many a day,<br>
+Till Conrad kindled at the long delay,<br>
+His greatness outraged in his herald's stay;<br>
+He scorned to veil his thoughts, and at a feast,<br>
+Whose princely splendour dazzled either guest,<br>
+“Let Saladine beware," he sternly said,<br>
+"Dire be my warfare if he scorn my aid!"<br>
+The Prelate, anxious still th' accord to bind,<br>
+And fix the changing current of his mind,<br>
+Cried, as he pledged him in Ionian wine,<br>
+“As I your guest, be you to-morrow mine."<br>
+&emsp;Day past, and bright the evening banquet shone,<br>
+And Conrad graced the feast, but not alone;<br>
+Rinaldo swell'd his train; and, ere he spoke,[^17]<br>
+The envoys knew th' expected concord broke.<br>
+Their blighted hopes alike the Tyrians feel,<br>
+And all in silence sped their tasteless meal;<br>
+When Conrad rising, from his purple vest<br>
+Drew forth a scroll, and thus the Peers addrest:<br>
+&emsp;“The Soldan, yielding to our terms of peace,<br>
+Is well content to bid the contest cease;<br>
+Unransom'd he restores our captive sire,[^18]<br>
+He owns us sovereign potentates of Tyre:—<br>
+Envoys of England, learn your errand vain,<br>
+And tell your Lord, that when we meet again<br>
+The ground he holds his falchion must maintain."<br>
+&emsp;The Austrian stood aghast, in mute amaze,— 110 " All-seeing power!" cried Philip of Beauvais, Sl Was ever yet so foul an union sped? Heaven linked with Hell, the living with the dead!" " Peace, Prelate, peace! and practise what you teach:-— Go! to your own neglected Normans preach j But learn I govern here ', and Tyrian lords Are wont to guard their honour with their swords. What, thine is sharp! but let its hilt be still, This froward humour suits thy mitre ill;
 Though well I deem, of' Asia's Pagan throng 120 Thy steel has more converted than thy tongue. Nor on my head the holy thunders cast, My breast is adamant, it scorns the blast; And policy forbids to hurl them forth Save on the fools whose terrors raise their worth. Yet more,—that Uichard, whom your zealots sing The Church's prop, the model for a King, He too is leagued with Saladine!—'tis said He yields his sister's charms to Adcl's bed. Nay \vhy that unbelieving scorn? Behold 130 The wondrous legend, character'd in gold! May I not now the proud example own? Or are his faults in Richard prais'd alone?" iC Not so, blaspheming wretch! Alike on all Who stain our faith, th' impartial censures fall; The more I lately prized his worth, the more I blame his fall—I wonder and deplore. But thou, that Heaven's great delegate defied, Thou worse than faithless to a blameless bride, Link'd with another's wife, in bonds that shame 140 Revolted Europe, and the Christian name! No wonder can another crime impart; The interdict I spare is in thy heart. vol. и. к
 Heaven suffers long, but will not always bear; Its s'engeance may be near thee—Prince, beware!" The Prelate cetsed; but where was Conrad gone? Threat'ning he left the crowded hall alone, But back he came not. Hark! that piercing shriek, Which drives the blood from every fading cheek! Each seized a torch, and rushing forth in fear, 150 Ran to a grove that rose in darkness near. They start, they scream, 'twas Conrad's bleetling form, So lately rich with life, with fury warm, Thus murder'd, unconfessing, unforgiven. And meditating outrages on Heaven. Beside him sate a female, ghastly, fair, As though to shame the torches' ruddy glare, Struggling through stormy clouds, tbe moonlight threw On her pale form a cold unearthly hue. How sunk her rayless eye î her cheek how spare! Yet beauty, rapture, love, had once been there; And passion's April changes lent their glow To features fix'd in deadliest anguish now. Forgetful of herself, of all around, Her soul seem'd lost in Conrad's gory wound. Sf Too well avenged," in smother'd tones she cried, And tore her robes to stop the welling tide.
 Scarce was their midnight deed of horror sped, When at her phrenzied shriek th' assassins fled. With desperate impulse to his side she flew, I7O At once her pitying glance he caught and knew; O'er his stern brow a strong convulsion past, The pang she gave his keenest and his last. The Leach approach'd; with accents of command And frantic look she check'd th' officious hand; " Hold! hold! not Isabelle should now divide My Conrad from his first, his lawful bride. She has not rights so holy, so divine, Hers was his living couch, his grave be mine. Methinks (yet ah! these sunken eyes are dim, 180 And all around unreal shadows swim,) Yet if some bold Crusaders hear me now, That heard in Sophia's fane our bridal vow, Defend, I charge ye, by your fathers' fame, To that last home sad Theodora's claim. Oh! from that hour when fame too truly shew'd His broken faith, and o'er the angry flood I came, rash pilgrim, fated to behold,— But hush! and be the guilty rites untold,— I fled, I lived,—but ask not where or how; 190 Somewhat of cold, of drenching damps I know, к 2
@@ -1350,3 +1447,13 @@ Note (e), page 354, line 713. Tke easy price of that triumphant day. Only two pe
 [^12]: The golden gate of Jerusalem opened into the valley of Kedron, not far from Silöc.
 
 [^13]: Seven thousand camels with all their merchandize were the spoil of this adventure. I do not know the precise number of <span class="smallcaps">Richard’s</span> troop, but it was inconsiderable.
+
+[^14]: Alluding to the Crusade of Louis VII.
+
+[^15]: The pilgrims to the Holy Land were furnished with staff and scrip. On their return they usually carried, in addition, a branch of palm. Philip Augustus, at his arrival in France, replaced the Oriflamme with solemn pomp in the church of St. Denis, and hung the palm branch over the altar.
+
+[^16]: Alluding to the schism in the church which has been already mentioned. Conrad was the nephew of Barbarossa.
+
+[^17]: Rinaldo, Prince of Sidon.
+
+[^18]: The captivity of the Marquis of Montferrat, father to Conrad, has been named in a former note. He continued for some years in the hands of Saladine.
