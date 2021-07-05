@@ -485,8 +485,50 @@ Nor knit the bonds of concord, till we know <br>
 If Tyre’s proud Chieftain rest a friend or foe.<br>
 Fierce though he be, in one communion join’d,<br>
 No separate truce our selfish hands should bind.”<br>
-&emsp;“Yet hear me, King, one moment I implore, By this, the ensign of my pastoral power!" 'Twas Hubert spoke. " I had not paused so long? ( ' But hoped the sanction of some elder tongue. Richard, not yours the choice of' war or peace, Nor can yourselves your own free vows release: Alone to one on earth such power is given, 430 The one, unerring delegate of Heaven; It may be He this compact shall allow, His praise confirm Matilda's generous vow: Yet, by your wealth, your blood, so nobly shed, Risk not his censure on your regal head; Still let the choice be his, his sacred word, Which rousM to war, direct or sheathe the sword; Wc need not fear our conquests to maintain, Till your swift envoy seek these shores again." e( Such mild reproofs, oh! Prelate, ever bring The keenest shame," rejoin'd the generous King; " I blush to think that my rebellious thought Could dream of treaty, his consent unsought.
-To Celestine shall Leicester now repair, Our mandate thou to Asia's sovereign bear: Say Heaven's vicegerent only can release Our plighted faith, and sheathe our swords in peace; Till his decree be known, we still must keep Our hostile state, nor let the conflict sleep." The Synod parts, and with a friendly wind 450 Soon Leicester leaves the Syrian shore behind. And now the changing gales to Richard bear His mother's tablets, fraught with weighty care. " How Ely govern'd with too proud a hand, Till discontent was rife throughout the land; And John, to rebel courses ever prone, Declared his brother dead, and claim'd the throne." tc Alas! dear England! while I speak, perchance These broils are foster'd by perfidious France. (Forgive me, comrade of my youth, that now 460 My heart has bodings which distrust thy vow;) Yet hence vain fears—to Heaven my sword was given, And my lone kingdom is the charge of Heas r cn," Arsouf meanss r hile, despoii'd of all her pride, Daroun and Ramla fling their portals wide; f i
+&emsp;“Yet hear me, King, one moment I implore,<br>
+By this, the ensign of my pastoral power!”<br>
+’Twas Hubert spoke. “I had not paused so long?<br>
+But hoped the sanction of some elder tongue.<br>
+<span class="smallcaps">Richard</span>, not yours the choice of war or peace,<br>
+Nor can yourselves your own free vows release:<br>
+Alone to one on earth such power is given,<br>
+The one, unerring delegate of Heaven;<br>
+It may be He this compact shall allow,<br>
+His praise confirm Matilda’s generous vow:<br>
+Yet, by your wealth, your blood, so nobly shed,<br>
+Risk not his censure on your regal head;<br>
+Still let the choice be his, his sacred word,<br>
+Which rous’d to war, direct or sheathe the sword;<br>
+We need not fear our conquests to maintain,<br>
+Till your swift envoy seek these shores again.”<br>
+&emsp;“Such mild reproofs, oh! Prelate, ever bring<br>
+The keenest shame,” rejoin’d the generous King;<br>
+“I blush to think that my rebellious thought<br>
+Could dream of treaty, his consent unsought.<br>
+To Celestine shall Leicester now repair,<br>
+Our mandate thou to Asia’s sovereign bear:<br>
+Say Heaven’s vicegerent only can release<br>
+Our plighted faith, and sheathe our swords in peace;<br>
+Till his decree be known, we still must keep<br>
+Our hostile state, nor let the conflict sleep.”
+
+The Synod parts, and with a friendly wind<br>
+Soon Leicester leaves the Syrian shore behind.<br>
+And now the changing gales to Richard bear<br>
+His mother’s tablets, fraught with weighty care.<br>
+“How Ely govern’d with too proud a hand,<br>
+Till discontent was rife throughout the land;<br>
+And John, to rebel courses ever prone,<br>
+Declared his brother dead, and claim’d the throne.”<br>
+“Alas! dear England! while I speak, perchance<br>
+These broils are foster’d by perfidious France.<br>
+(Forgive me, comrade of my youth, that now<br>
+My heart has bodings which distrust thy vow;)<br>
+Yet hence vain fears—to Heaven my sword was given,<br>
+And my lone kingdom is the charge of Heaven,”
+
+Arsouf meanswhile, despoil'd of all her pride,<br>
+Daroun and Ramla fling their portals wide; f i
 While Jaffa, which the Soldan threats in vain, Exulting turns to Christian rule again. From Tyre to Gaza, Palestine implores The conqueror's mercy, and receives his powers. The Moslems, scarce in menaced Sion sure, 470 With stronger walls her native strength secure; And Richard leads his gallant comrades on, To win Damascus' rival—Ascalon. Each eager eye explored the naked plain, And scann'd th' horizon's ample bound in s r ain. No marble domes the vacant scene adorn, No gilded turrets glitter in the morn; From no strong fort the tawny standard flies; Nor walls, nor towers, nor minarets arise. (i Oft have I heard," the wondering Pardo cried, " That imps malign in Asian wilds reside; In arid sands bid seeming lak^s delude, And shade with gorgeous piles the mimic flood: But now, methinks, some envious demon shrouds The actual city in aerial clouds."— ' ( Nay," Albert spoke, ζζ observe upon our right в Those low-built dwellings, glittering in the light, Like Moslem tombs; they speak the city nigh, ’Tis but yon grove that veils it from the eye."
 Swift to the spot the eager troops advance, 490 Then, fill'd with assc, exchange th' inquiring glance. " Where is the proud, the mighty city gone? Were these white stones imperial Ascalon? " Far as the keen-eyed lynx can measure round The splendid fragments cover all the ground; The column's broken shaft, the painted dome, Soft carpets, glowing from the Persian loom, Mirrors and cloth of gold, defiled and scorn'd, That tell how rich the halls they once adorn'd. But all was silent, save the breeze that sigh'd 500 O'er those fair ruins, late an empire's pride. Has earth, beneath the weight of marble prest, Heaved the proud structure from her jealous breast? Or man, unfaithful to his father's trust, The луогк of ages levelľd with the dust? Oh! not when Carthage met her dreadful doom, In rival vengeance seal'd by conquering Rome, When nor rude axe nor hungry flame forbore, And night and silence fled th' affrighted shore: Not then her sons o'er fairer domes bewaiľd, 510 In ruin scatter'd or in fire exhaled. Now changed the scene: with painful steps they trod Where treacherous ashes hide the burniug sod;
 And ever, as some smouldering heap they broke, Oozed from its black recess the heated smoke. The vulture haunts the desert house of prayer, The ruin'd palace is th' hyena's lair; And wondering thousands unreproved explore Sequester'd beauty's desolated bower— Her pomp, her pride, her busy crowds are gone, 520 And Syria's spouse is fall'n like Babylon. One tower alone, a massy structure, stood, Reared on the confines of the land and flood; Though scathed with flame, with angry blows assail'd, Dark frown'd its antique walls, and steel and fire had fail'd.* Wondering the warriors view th' unshaken stone,— When from its vaults resounds a sullen moan! Keen was their search, and soon in piteous plight They drag a wasted wretch to upper light. On his dark brow, though stain'd with dust, were seen Some tatter'd shreds of Mecca's holy green; His beard was silver'd with the snows of age, Yet glared his eyes with unextinguish'd rage; While, as from some sepulchral cavern, came A voice ill-suited to so worn a frame,
