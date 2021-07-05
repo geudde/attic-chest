@@ -91,8 +91,8 @@ Provokes deceit, and makes the falsehood just.<br>
 Arabs have faith, and Adel’s worth is known<br>
 In deeds not prais’d by Moslem lips alone.<br>
 But if the dawn a broken compact shew,<br>
-Thou shalt not find a brother’s vengeance slow.”
-Meanwhile the Christians, resting from iheir toil,<br>
+Thou shalt not find a brother’s vengeance slow.”<br>
+Meanwhile the Christians, resting from their toil,<br>
 Spread through the desert camp, and share its spoil.<br>
 Night closes round, but frequent watchfires gleam<br>
 On Arsouf’s tented slope and mountain stream;<br>
@@ -121,9 +121,68 @@ Hang o’er the winding waters whence they rise.<br>
 &emsp;Far off, emerging from a woody glen,<br>
 Now seen, now veil’d by hills or groves agen,<br>
 A moving line appears, and flashing light<br>
-Glows, as from helms or spears, on Raymond's sight. Now borne upon tbc breeze a gentle sound, Like strains of elfin harpers, breathes around; A crag obstructs his gaze, but on his ear Λ The welcome music swells, till full and clear > The royal drum proclaims a Monarch near. y Now from the hill to view distinct advance Warriors with glittering helm, and shield and lance; Standards whose black and tawny volumes roll'd O'er turbans, rich with purple, green, and gold; Eunuchs, whose robes of spotless muslin flew, 70 In wayward contrast to their Nubian hue; And Mamlukes, leading by the gilded rein Arabi η steeds, that scarcely touch the plain; And fair-form'd slaves, whose veils of dazzling white, Imperial presents screen'd from vulgar sight. Next Adel rode, conspicuous o'er the rest By the white waving of his triple crest.
-Behind, tvs'O chosen youths of Georgian race Led on a camel, train'd to gentlest pace, The roseate folds of whose rich palanquin 80 From curious eyes some rovai beauty screen. iio more th' enraptured Raymond paus'd to view, On wings of lose from Arsouf's cliff he flcss T , And breathless reach'd the distant camp, as staid At Richard's tent the gorgeous cavalcade; As on its knees the well-taught camel bends, And glad Matilda from her seat descends. Tbe courteous Adel guides her trembling frame, And to her brother yields the royal dame; While his fair Queen, her peer in youthful charms,90 Folds her loved si.ster in rejoicing arms. To Adel then a thousand thanks were pour'd, And ready menials spread the festive board. In each bright eye confiding pleasure sate, And concord smootb'd the wrinkled front of hate. But when his Mamlukes spread to Richard's s iew The Soldan's gifts, the sister-Queens withdrew; And Raymond too retired, to ease a breast, With rapture now, as erst with grief opprest. в 4
-Rich vests of honour, gems that knew no price, 100 And bowls enchased with many a rare device; Hot Saba's spicy wealth, and Yemen's gums, Whose fragrant fume from silver censers comes: Conserves, till now to Western taste unknown, And fruits, the produce of a warmer zone; l ' Sabres, whose blades delicious odours breathe, And amulets, that warn of guile or death. All these display'd, the slaves «tood meekly round, With folded arms and eyes that soug'it the ground, When Adel spoke: " I do not wait to hear 110 Repeated thanks that sicken on my ear, But I, myself no common herald, bring The proffer'd friendship of no common King. " Thus then of Ayoub's blood, of Joseph's line, Shield of the Faith, speaks mighty Saladine— His days may Alia guard, his power increase, Till earth be changed for Heaven's eternal peace! e< When baffled hunters quit the idle chace, When distanced runners feign to yield the race, Fearpromptg,orshame; and some might deem that fear Brings me for peace a vanquislľd suppliant here:
+Glows, as from helms or spears, on Raymond’s sight.<br>
+Now borne upon the breeze a gentle sound,<br>
+Like strains of elfin harpers, breathes around;<br>
+A crag obstructs his gaze, but on his ear<br>
+The welcome music swells, till full and clear<br>
+The royal drum proclaims a Monarch near.<br>
+Now from the hill to view distinct advance<br>
+Warriors with glittering helm, and shield and lance;<br>
+Standards whose black and tawny volumes roll’d<br>
+O’er turbans, rich with purple, green, and gold;<br>
+Eunuchs, whose robes of spotless muslin flew,<br>
+In wayward contrast to their Nubian hue;<br>
+And Mamlukes, leading by the gilded rein<br>
+Arabian steeds, that scarcely touch the plain;<br>
+And fair-form’d slaves, whose veils of dazzling white,<br>
+Imperial presents screen’d from vulgar sight.<br>
+Next Adel rode, conspicuous o’er the rest<br>
+By the white waving of his triple crest.
+Behind, two chosen youths of Georgian race<br>
+Led on a camel, train’d to gentlest pace,<br>
+The roseate folds of whose rich palanquin<br>
+From curious eyes some royal beauty screen.<br>
+&emsp;No more th’ enraptured Raymond paus’d to view,<br>
+On wings of love from Arsouf’s cliff he flew,<br>
+And breathless reach’d the distant camp, as staid<br>
+At <span class="smallcaps">Richard’s</span> tent the gorgeous cavalcade;<br>
+As on its knees the well-taught camel bends,<br>
+And glad Matilda from her seat descends.<br>
+The courteous Adel guides her trembling frame,<br>
+And to her brother yields the royal dame;<br>
+While his fair Queen, her peer in youthful charms,<br>
+Folds her loved sister in rejoicing arms.<br>
+To Adel then a thousand thanks were pour’d,<br>
+And ready menials spread the festive board.<br>
+In each bright eye confiding pleasure sate,<br>
+And concord smooth’d the wrinkled front of hate.<br>
+But when his Mamlukes spread to <span class="smallcaps">Richard’s</span> view<br>
+The Soldan's gifts, the sister-Queens withdrew;<br>
+And Raymond too retired, to ease a breast,<br>
+With rapture now, as erst with grief opprest.<br>
+&emsp;Rich vests of honour, gems that knew no price,<br>
+And bowls enchased with many a rare device;<br>
+Hot Saba's spicy wealth, and Yemen's gums,<br>
+Whose fragrant fume from silver censers comes:<br>
+Conserves, till now to Western taste unknown,<br>
+And fruits, the produce of a warmer zone;<sup id="ref09-b"><a href="#note09-b" class="footnote-ref">b</a></sup><br>
+Sabres, whose blades delicious odours breathe,<br>
+And amulets, that warn of guile or death.<br>
+All these display’d, the slaves stood meekly round,<br>
+With folded arms and eyes that sought the ground,<br>
+When Adel spoke: “I do not wait to hear<br>
+Repeated thanks that sicken on my ear,<br>
+But I, myself no common herald, bring<br>
+The proffer’d friendship of no common King.<br>
+&emsp;“Thus then of Ayoub’s blood, of Joseph’s line,<br>
+Shield of the Faith, speaks mighty Saladine—<br>
+His days may Alla guard, his power increase,<br>
+Till earth be changed for Heaven’s eternal peace!<br>
+&emsp;“When baffled hunters quit the idle chace,<br>
+When distanced runners feign to yield the race,<br>
+Fear prompts, or shame; and some might deem that fear<br>
+Brings me for peace a vanquish’d suppliant here:
 Yet think what hosts shall anu at my command From Cashmere's vales, from Nubia's sultry sand; From Egypt, where within his giant tomb The Patriarch sleeps from whom my fathers come;* To mighty Kaf, on whose untrodden brow The Bird of Ages dwells in endless snow, Where Sultans ruled ere Adam's race began, Where Angels bow'd, and Eblis scoff'd at man. c All these, and more, beneath my favour shine, 130 Л And blend in prayer their Caliph's name with mine! Then say if fear can dwell with Saladine ? To one less great could Joseph's heir descend, Or seek one less than Richard as a friend ? " Perchance as numerous tribes thy rule obey, And realms as various bless thy Western sway, That other seasons, other stars adorn, And fade in night when ours salute the morn: Yet what of wealth shall mightiest conqueror save, But the cold sheet that winds him in the grave ? d 140
 While one poor peasant from 1иь hamlet driven, Has power to blast him ou the bridge of Heaven.* A few short years, perforce our strife m .bt cease, Our sons may fight, but we shall sleep in peace». Cc Behold me then, for either chance prepared, For peace or war, as now thy lips award; Say why, innumerous as the crested waves, Your annual fleet the wondering Ocean braves ? What rancour fires to quit your tranquil reign ? What shun ye there, what here attempt to gain ?" 150 i( Twice fifty snows are gone since Godfrey bore," Thus Richard spoke, " the Cross on Syria's shore, And asks your Monarch now, why all most dear, Friends, kindred, home, we leave to perish here 5 — The land from hence to Jordan's sacred tide, The precious Cross where meek Messiah died, His tomb, and where Jehovah's temple stood— These have we vow'd to purchase with our blood." i( And these," said Adel, (i while these climes retain Their faith, their Prophet, must thou never gain. 160
 That senseless wood ye prize—it once was ours j But, if by Genii curst, or Angel powers, Rapt from our view, 'tis ours to yield no more, Might we that scandal to our creed restore. 6 Nor can we to rebellious hands resign The sacred City (and it ne'er was thine), Salem, nor last nor meanest of the seven That Islam honours by command of Heaven; For there the faithful Genii meet, and there Rose the great Prophet through ambrosial air, I7O What time, yet clothed in mortal flesh, he trod The sevenfold heavens, and view'd the living God. But if thou wilt, this contest yet shall cease, And Strife's crude apple yield the seeds of peace, " As late thy sister to the Soldan's breast Recalľd a form in halcyon youth imprest, When Eleanora with her former lord* In Antioch dwelt, by Turk and Frank adored, He wept to think how he with deadly strife Pursued her son—that late he sought thy life; 180 But I with less paternal eyes beheld Matilda's charms, and rued my pledge to yield.
@@ -536,8 +595,10 @@ Note (e), page 354, line 713. Tke easy price of that triumphant day. Only two pe
 
 ## Book IX
 
-<a id="note01-a"></a>
-§ Note (a), page 8, line 42.&emsp;*Alkarmel, fellest of Messiah’s foes*.
+<a id="note01-b"></a>
+§ Note (b), page 8, line 105.&emsp;*And fruits, the produce of a warmer zone*.
+
+Many of these articles sound trifling in a modern ear; but fruits, sherbets and ices, were frequent presents of Saladine to the Christian chiefs..&#160;<a href="#ref09-a" rev="footnote" class="footnote-backref">↩</a>
 
 
 
