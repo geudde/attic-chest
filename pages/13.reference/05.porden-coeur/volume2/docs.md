@@ -554,7 +554,7 @@ Those low-built dwellings, glittering in the light,<br>
 Like Moslem tombs; they speak the city nigh,<br>
 ’Tis but yon grove that veils it from the eye.”<br>
 Swift to the spot the eager troops advance,<br>
-Then, fill’d with awe, exchange th’ inquiring glance.
+Then, fill’d with awe, exchange th’ inquiring glance.<br>
 “Where is the proud, the mighty city gone?<br>
 Were these white stones imperial Ascalon?”<br>
 &emsp;Far as the keen-eyed lynx can measure round<br>
@@ -604,10 +604,10 @@ To <span class="smallcaps">Richard’s</span> words the spectre form replied:<br
 &emsp;“But that the tale may grieve thee, Infidel!<br>
 Not all thy tortures should one sound compel.<br>
 Go gaze on Shiraz, on Damascus gaze,<br>
-Or where through Cassius' vale Orontes strays;<br>
+Or where through Cassius’ vale Orontes strays;<br>
 Bid Saba all her spicy wealth exhale,<br>
-Cull all the sweets of Cashmere's palmy vale;<br>
-Then may'st thou guess how fair thy treasure gone,<br>
+Cull all the sweets of Cashmere’s palmy vale;<br>
+Then may’st thou guess how fair thy treasure gone,<br>
 And half the pride of ruin’d Ascalon!<br>
 But far her splendour and her wealth above<br>
 Her zealous offspring prized their Prophet’s love,—<br>
@@ -621,9 +621,78 @@ The fated city knew her hour was come,<br>
 And the sad Soldan, shuddering spoke her doom.<br>
 Yet t’was not when the powerful throng’d the gate,<br>
 When camels sunk beneath their costly freight;<br>
-When music wail'd, or houri forms were seen Half to undraw the silken palanquin, To see once more the only home they knew, 560 And left but once, yet left for ever too; Nor when the new, the gorgeous palace fell, That desolation rais'd her fearful yell. The great have wealth to м in another home, And spread a Paradise where'er they roam; But when the poor, that saw their dwellings fall, In every little hut bewail'd their all,— When houseless infants round their fathers clung, When on their arms their wives imploring hung,— E'en by their very weight to stay the blow, 570 And check an arm already weak with woe; 'Twas then the Soldan wept, and in despair, Called on his Mufties to relent and spare— Th' averted head, that sought the mantle's fold, The frequent sob, their dreadful sentence told; * Oh! I had rather that these walls had stood, Like Acre, purpled with her offspring's blood; But Islam's weal demands'—he spoke, and then Snatch'd the red torch, and led his weeping train. Himself he fired whate'er was precious, rare, 580 The tombs of ancient "-aints, the mosques of prayer;
-Till the high feeling caught from man to man, Each with his home the work of fate began; O'er its slow wreck his sullen vigil kept, The eye was tearless, 'twas the heart that wept. Each fatal hour some princely pile consumed, Night after night terrific fires illumed; Till the dark heavens their silent sorrows shed O'er the wide havoc which their winds had spread.h " Mourn, then, tbou miscreant! thou the cause of all! On thee may Islam's gather'd curses fall! Think of this jewel lost, the weight of care, The toils, the battles thou hast yet to dare, With those who thus to death and flames consign All they most love, ere they will yield it thine." f ' Think thou what fervor Christian hearts must fill Who strive with such, nor doubt of conquest still! Short is your triumph:" thus the King replies, (t This phœnix from her fuueral flames shall rise. Exult! my friends! proud city! live once more. 600 Thy sons destroy'd thee, but thy foes restore.— Go! tell thy Lord, in vain his soul exceeds All record shews of great and daring deeds; Undazzled we his radiant course can trace, And hope to match—perchance outstrip his race."
-" Even as thou wilt, but here my sorrows close; This spot that first beheld shall end my woes— Once blest with all that mortal might desire, A happy husband, an exulting sire, I prized Morayma's worth all wealth above, 610 Nor gave a rival to her faithful love. The plague broke forth—with every wretched day My comrades died, my household pined away; My children sicken'd—less than mother's care Had turn'd appall'd from features late so fair; But fearless, speechless, o'er their couch of death That angel watch'd, nor shunn'd their tainted breath; Till as her fingers, moisten'd in the wave, To their blue lips a moment's freshness gave, She sunk, Affection's martyr, at my side, 620 Raised to my face her pitying eyes, and died! What followed ask not—stupor seized my frame, I saw not, heard not, till when reason came I stood on yonder tower; the Eunuchs gas r e My heart's lost treasure to a wat'iy grave; Pale, but yet lovely, for not death might dare To change the mansion of a soul so fair. Still with her last, her fondest look, she gazed, And as she fell her snowy arms were rais'd—
+When music wail’d, or houri forms were seen<br>
+Half to undraw the silken palanquin,<br>
+To see once more the only home they knew,<br>
+And left but once, yet left for ever too;<br>
+Nor when the new, the gorgeous palace fell,<br>
+That desolation rais’d her fearful yell.<br>
+The great have wealth to win another home,<br>
+And spread a Paradise where’er they roam;<br>
+But when the poor, that saw their dwellings fall,<br>
+In every little hut bewail’d their all,—<br>
+When houseless infants round their fathers clung,<br>
+When on their arms their wives imploring hung,—<br>
+E’en by their very weight to stay the blow,<br>
+And check an arm already weak with woe;<br>
+’Twas then the Soldan wept, and in despair,<br>
+Called on his Mufties to relent and spare—<br>
+Th’ averted head, that sought the mantle’s fold,<br>
+The frequent sob, their dreadful sentence told;<br>
+‘Oh! I had rather that these walls had stood,<br>
+Like Acre, purpled with her offspring’s blood;<br>
+But Islam’s weal demands’—he spoke, and then<br>
+Snatch’d the red torch, and led his weeping train.<br>
+Himself he fired whate’er was precious, rare,<br>
+The tombs of ancient saints, the mosques of prayer;<br>
+Till the high feeling caught from man to man,<br>
+Each with his home the work of fate began;<br>
+O’er its slow wreck his sullen vigil kept,<br>
+The eye was tearless, ’twas the heart that wept.<br>
+Each fatal hour some princely pile consumed,<br>
+Night after night terrific fires illumed;<br>
+Till the dark heavens their silent sorrows shed<br>
+O’er the wide havoc which their winds had spread.<sup>h</sup><br>
+&emsp;“Mourn, then, thou miscreant! thou the cause of all!<br>
+On thee may Islam’s gather’d curses fall!<br>
+Think of this jewel lost, the weight of care,<br>
+The toils, the battles thou hast yet to dare,<br>
+With those who thus to death and flames consign<br>
+All they most love, ere they will yield it thine.”<br>
+&emsp;“Think thou what fervor Christian hearts must fill<br>
+Who strive with such, nor doubt of conquest still!<br>
+Short is your triumph:” thus the King replies,<br>
+&emsp;“This phœnix from her fuueral flames shall rise.<br>
+Exult! my friends! proud city! live once more.<br>
+Thy sons destroy’d thee, but thy foes restore.<br>
+Go! tell thy Lord, in vain his soul exceeds<br>
+All record shews of great and daring deeds;<br>
+Undazzled we his radiant course can trace,<br>
+And hope to match—perchance outstrip his race.”
+“Even as thou wilt, but here my sorrows close;<br>
+This spot that first beheld shall end my woes—<br>
+Once blest with all that mortal might desire,<br>
+A happy husband, an exulting sire,<br>
+I prized Morayma’s worth all wealth above,<br>
+Nor gave a rival to her faithful love.<br>
+The plague broke forth—with every wretched day<br>
+My comrades died, my household pined away;<br>
+My children sicken’d—less than mother’s care<br>
+Had turn’d appall’d from features late so fair;<br>
+But fearless, speechless, o’er their couch of death<br>
+That angel watch’d, nor shunn’d their tainted breath;<br>
+Till as her fingers, moisten’d in the wave,<br>
+To their blue lips a moment’s freshness gave,<br>
+She sunk, Affection’s martyr, at my side,<br>
+Raised to my face her pitying eyes, and died!<br>
+What followed ask not—stupor seized my frame,<br>
+I saw not, heard not, till when reason came<br>
+I stood on yonder tower; the Eunuchs gave<br>
+My heart’s lost treasure to a wat’ry grave;<br>
+Pale, but yet lovely, for not death might dare<br>
+To change the mansion of a soul so fair.<br>
+Still with her last, her fondest look, she gazed,<br>
+And as she fell her snowy arms were rais’d—
 Was it a dream—they pointed to my boy, 630 The latest, dearest pledge of vanish'd joy! I snatch'd him from the slaves, I watch'd the луауе Till even its ripples died, then sought the cave Where late you found me stretch'd, and, spent and wild, Gazed like a nurse that tends her sleeping child. I could not pray, I had no hope,—I sate As one whose senseless sorrow mock'd at fate. Methought he moved, and with the sudden start The blood thrilľd backward from my stiffening heart. For hours I felt his languid temples beat, 640 And gently chafed the slow-returning heat; Till tearb, to ease my bursting bosom, came, Warm'd his cold limbs, relax'd his rigid frame,— Why need I say how my young Ali grew "4 Whate'er my hopes had feign'd, my wishes knew, > And pleasure's emptied chalice brimm'd anew! J Nor careless of the power that saved his days, On Mecca's sands 1 knelt in prayer and praise. Heard'st thou not, Heaven!—but gaze not thus опте, Christian! my woes shall be no jest for thee!" 650 " Where is this boy?" " Where! that should I demand— u On Arsouf's plain he perish'd by thy hand!
 Where sleeps he now? perchance that cruel breast— ’Tis said thy hatred loves the impious feast." 1 u Nay, ’tis thy frenzied malice forged the tale— Old man, I know how little words avail, Yet oft I mourn the blood my hand has shed; What would'st thou now? can I relieve or aid?" " No! nought from thee—not aught from Christian hand; Not e'en to hide these aged limbs with sand, 6Ţ0 Will Helim ask—not sorrow's last request To share his Ali's grave—that barbarous breast. Recoiling Nature points a fitter tomb; Yet glory not, while gazing on my doom; Here in the grave shall ail my griefs repose, But thy rash triumph finds no quiet close. For me the gates of Paradise unfold, For me Al Cawthar chafes its sands of gold.* For me th' eternal groves of Eden flower, For me Morayma decks her pearly bower. 680 Hark! for the warbling gates invite me in— But thou, aye drain thy painted cup of sin; Drain to the dregs, for poison harbours there, Then sleep—the trump shall wake thee to despair."
 At once his limbs a youthful vigour found, And breaking from th' astonish'd guards around, Onward he springs, with Herculean power Clasps the rough stones, and climbs the lofty tower. t( That prayer at least th' Eternal heard," he said, " The axes broke, the hungry flames were staid, 690 Now fall, and whelm yon interdicted traiu;"— Then wildly gazing on the foaming main, " I come, Morayma, to thy tranquil grave."— He spoke, and plunged and perish'd in the wave. Now through the desert town the Monarch hies, Marks the wide moat, or bids the ramparts rise. " Here form the massy citadel, and here Shrin'd in its breast Messiah's temple rear; k A princely bower, a spacious arsenal there; And where those orange groves bloom fresh and fair, Let the calm convent from their bosom rise, \ And holy hymns, and penitential sighs, ч Float with their native incense to the skies." y Vast was the labour,—but the means were vast; An army wrought, and proudest Princes cast Their crested helms and blazon'd vests aside, To mix in works a Monarch deign'd to guide: vol. п. о
