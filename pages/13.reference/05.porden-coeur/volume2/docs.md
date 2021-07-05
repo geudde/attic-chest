@@ -1001,33 +1001,88 @@ But mark! no more in common fight to blend-<br>
 Foe of his foe, but never <span class="smallcaps">Richard’s</span> friend.”<br>
 &emsp;Impatiently they waited many a day,<br>
 Till Conrad kindled at the long delay,<br>
-His greatness outraged in his herald's stay;<br>
+His greatness outraged in his herald’s stay;<br>
 He scorned to veil his thoughts, and at a feast,<br>
 Whose princely splendour dazzled either guest,<br>
-“Let Saladine beware," he sternly said,<br>
-"Dire be my warfare if he scorn my aid!"<br>
-The Prelate, anxious still th' accord to bind,<br>
+“Let Saladine beware,” he sternly said,<br>
+“Dire be my warfare if he scorn my aid!”<br>
+The Prelate, anxious still th’ accord to bind,<br>
 And fix the changing current of his mind,<br>
 Cried, as he pledged him in Ionian wine,<br>
-“As I your guest, be you to-morrow mine."<br>
+“As I your guest, be you to-morrow mine.”<br>
 &emsp;Day past, and bright the evening banquet shone,<br>
 And Conrad graced the feast, but not alone;<br>
-Rinaldo swell'd his train; and, ere he spoke,[^17]<br>
-The envoys knew th' expected concord broke.<br>
+Rinaldo swell’d his train; and, ere he spoke,[^17]<br>
+The envoys knew th’ expected concord broke.<br>
 Their blighted hopes alike the Tyrians feel,<br>
 And all in silence sped their tasteless meal;<br>
 When Conrad rising, from his purple vest<br>
 Drew forth a scroll, and thus the Peers addrest:<br>
 &emsp;“The Soldan, yielding to our terms of peace,<br>
 Is well content to bid the contest cease;<br>
-Unransom'd he restores our captive sire,[^18]<br>
+Unransom’d he restores our captive sire,[^18]<br>
 He owns us sovereign potentates of Tyre:—<br>
 Envoys of England, learn your errand vain,<br>
 And tell your Lord, that when we meet again<br>
-The ground he holds his falchion must maintain."<br>
-&emsp;The Austrian stood aghast, in mute amaze,— 110 " All-seeing power!" cried Philip of Beauvais, Sl Was ever yet so foul an union sped? Heaven linked with Hell, the living with the dead!" " Peace, Prelate, peace! and practise what you teach:-— Go! to your own neglected Normans preach j But learn I govern here ', and Tyrian lords Are wont to guard their honour with their swords. What, thine is sharp! but let its hilt be still, This froward humour suits thy mitre ill;
-Though well I deem, of' Asia's Pagan throng 120 Thy steel has more converted than thy tongue. Nor on my head the holy thunders cast, My breast is adamant, it scorns the blast; And policy forbids to hurl them forth Save on the fools whose terrors raise their worth. Yet more,—that Uichard, whom your zealots sing The Church's prop, the model for a King, He too is leagued with Saladine!—'tis said He yields his sister's charms to Adcl's bed. Nay \vhy that unbelieving scorn? Behold 130 The wondrous legend, character'd in gold! May I not now the proud example own? Or are his faults in Richard prais'd alone?" iC Not so, blaspheming wretch! Alike on all Who stain our faith, th' impartial censures fall; The more I lately prized his worth, the more I blame his fall—I wonder and deplore. But thou, that Heaven's great delegate defied, Thou worse than faithless to a blameless bride, Link'd with another's wife, in bonds that shame 140 Revolted Europe, and the Christian name! No wonder can another crime impart; The interdict I spare is in thy heart. vol. и. к
-Heaven suffers long, but will not always bear; Its s'engeance may be near thee—Prince, beware!" The Prelate cetsed; but where was Conrad gone? Threat'ning he left the crowded hall alone, But back he came not. Hark! that piercing shriek, Which drives the blood from every fading cheek! Each seized a torch, and rushing forth in fear, 150 Ran to a grove that rose in darkness near. They start, they scream, 'twas Conrad's bleetling form, So lately rich with life, with fury warm, Thus murder'd, unconfessing, unforgiven. And meditating outrages on Heaven. Beside him sate a female, ghastly, fair, As though to shame the torches' ruddy glare, Struggling through stormy clouds, tbe moonlight threw On her pale form a cold unearthly hue. How sunk her rayless eye î her cheek how spare! Yet beauty, rapture, love, had once been there; And passion's April changes lent their glow To features fix'd in deadliest anguish now. Forgetful of herself, of all around, Her soul seem'd lost in Conrad's gory wound. Sf Too well avenged," in smother'd tones she cried, And tore her robes to stop the welling tide.
+The ground he holds his falchion must maintain.”<br>
+&emsp;The Austrian stood aghast, in mute amaze,—<br>
+“All-seeing power!” cried Philip of Beauvais,<br>
+“Was ever yet so foul an union sped?<br>
+Heaven linked with Hell, the living with the dead!”<br>
+&emsp;“Peace, Prelate, peace! and practise what you teach:—<br>
+Go! to your own neglected Normans preach;<br>
+But learn I govern here; and Tyrian lords<br>
+Are wont to guard their honour with their swords.<br>
+What, thine is sharp! but let its hilt be still,<br>
+This froward humour suits thy mitre ill;<br>
+Though well I deem, of Asia’s Pagan throng<br>
+Thy steel has more converted than thy tongue.<br>
+Nor on my head the holy thunders cast,<br>
+My breast is adamant, it scorns the blast;<br>
+And policy forbids to hurl them forth<br>
+Save on the fools whose terrors raise their worth.<br>
+Yet more,—that <span class="smallcaps">Richard</span>, whom your zealots sing<br>
+The Church’s prop, the model for a King,<br>
+He too is leagued with Saladine!—’tis said<br>
+He yields his sister’s charms to Adel’s bed.<br>
+Nay why that unbelieving scorn? Behold<br>
+The wondrous legend, character’d in gold!<br>
+May I not now the proud example own?<br>
+Or are his faults in <span class="smallcaps">Richard</span> prais’d alone?”<br>
+&emsp;“Not so, blaspheming wretch! Alike on all<br>
+Who stain our faith, th’ impartial censures fall;<br>
+The more I lately prized his worth, the more<br>
+I blame his fall—I wonder and deplore.<br>
+But thou, that Heaven’s great delegate defied,<br>
+Thou worse than faithless to a blameless bride,<br>
+Link’d with another’s wife, in bonds that shame<br>
+Revolted Europe, and the Christian name!<br>
+No wonder can another crime impart;<br>
+The interdict I spare is in thy heart.<br>
+Heaven suffers long, but will not always bear;<br>
+Its vengeance may be near thee—Prince, beware!”<br>
+&emsp;The Prelate ceased; but where was Conrad gone?<br>
+Threat’ning he left the crowded hall alone,<br>
+But back he came not. Hark! that piercing shriek,<br>
+Which drives the blood from every fading cheek!<br>
+Each seized a torch, and rushing forth in fear,<br>
+ Ran to a grove that rose in darkness near.<br>
+They start, they scream, ’twas Conrad’s bleeding form,<br>
+So lately rich with life, with fury warm,<br>
+Thus murder’d, unconfessing, unforgiven.<br>
+And meditating outrages on Heaven.<br>
+Beside him sate a female, ghastly, fair,<br>
+As though to shame the torches’ ruddy glare,<br>
+Struggling through stormy clouds, the moonlight threw<br>
+On her pale form a cold unearthly hue.<br>
+How sunk her rayless eye! her cheek how spare!<br>
+Yet beauty, rapture, love, had once been there;<br>
+And passion’s April changes lent their glow<br>
+To features fix’d in deadliest anguish now.<br>
+Forgetful of herself, of all around,<br>
+Her soul seem’d lost in Conrad’s gory wound.<br>
+“Too well avenged,” in smother’d tones she cried,<br>
+And tore her robes to stop the welling tide.
 Scarce was their midnight deed of horror sped, When at her phrenzied shriek th' assassins fled. With desperate impulse to his side she flew, I7O At once her pitying glance he caught and knew; O'er his stern brow a strong convulsion past, The pang she gave his keenest and his last. The Leach approach'd; with accents of command And frantic look she check'd th' officious hand; " Hold! hold! not Isabelle should now divide My Conrad from his first, his lawful bride. She has not rights so holy, so divine, Hers was his living couch, his grave be mine. Methinks (yet ah! these sunken eyes are dim, 180 And all around unreal shadows swim,) Yet if some bold Crusaders hear me now, That heard in Sophia's fane our bridal vow, Defend, I charge ye, by your fathers' fame, To that last home sad Theodora's claim. Oh! from that hour when fame too truly shew'd His broken faith, and o'er the angry flood I came, rash pilgrim, fated to behold,— But hush! and be the guilty rites untold,— I fled, I lived,—but ask not where or how; 190 Somewhat of cold, of drenching damps I know, к 2
 Of mountain caves, of chambers of the dead, Of hinds that from my moonlight spectre fled, Of happy chance, behind a leafy screen That shew'd my Conrad's form, my own unseen: One hope sustain'd me—Oh, mysterious Heaven, Wh) is it cross'd? ss'by died he unforgiven? I lived to tread tbe earth that Conrad trod, To reconcile the offending wretch to God j I lived —J saw him fall a murderer's prey, 200 I saw his spirit pass unblest away.— Earth i« a desert now, and oh, despair! Heas en too were joyless, for hc is not there! {i But see that drop—those noble limbs are chill! But round lib heart warm life may linger itili; Mine too are cold—the fever of my brain Has buck'd the blood from every waited vein. Yet could I to his bleeding frame resign The last faint heat that feebly beats in mine, 'Twere worth whole lives for meaner purpose given, The »take eternity, the purchase Heaven." She stretched her limbs upon his lifeless breast, To hte cold cheek her paler lips she prest, And clung with such a fond, devoted grace, She seem'd to slumber in the dear embrace.
 At length they raised her, but her languid head Hung powerless back, and either soul had fled. How fares the Queen?—the heart that shed no tear For her lost sister, mourns not o'er their bier. Yet for herself she feels, her power is gone, 220 Her dreams of glory fled—she stands alone. Where may she fly, to what protector turn ' The good must hate her, and the proud would spurn. Thoron once loved her, and if she descend To kneel for pardon—no! she could not bend. In sooth the dame, of rarest beauty vain, Had mark'd its power on Henry of Champagne; She knew him young, ambitious, fond of rule, Yet one a meaner mind than hers might school, And more, his blood to England's King allied, 230 Might win respect for claims he late denied,— She called her maidens, deign'd such weeds to wear As made each beauteous feature seem more fair; Left Tyre and all its weeping train behind, Coil'd like a serpent round her lover's mind; And ere the day when funeral anthems gave Her lord and victim to their silent grave, Again was Acre stain'd with guilty joy, At rites that outraged every holy tye. c E 3
