@@ -138,7 +138,7 @@ Arabian steeds, that scarcely touch the plain;<br>
 And fair-form’d slaves, whose veils of dazzling white,<br>
 Imperial presents screen’d from vulgar sight.<br>
 Next Adel rode, conspicuous o’er the rest<br>
-By the white waving of his triple crest.
+By the white waving of his triple crest.<br>
 Behind, two chosen youths of Georgian race<br>
 Led on a camel, train’d to gentlest pace,<br>
 The roseate folds of whose rich palanquin<br>
@@ -595,7 +595,7 @@ Note (e), page 354, line 713. Tke easy price of that triumphant day. Only two pe
 
 ## Book IX
 
-<a id="note01-b"></a>
+<a id="note09-b"></a>
 § Note (b), page 8, line 105.&emsp;*And fruits, the produce of a warmer zone*.
 
 Many of these articles sound trifling in a modern ear; but fruits, sherbets and ices, were frequent presents of Saladine to the Christian chiefs..&#160;<a href="#ref09-a" rev="footnote" class="footnote-backref">↩</a>
