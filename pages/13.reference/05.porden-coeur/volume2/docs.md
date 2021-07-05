@@ -692,7 +692,7 @@ My heart’s lost treasure to a wat’ry grave;<br>
 Pale, but yet lovely, for not death might dare<br>
 To change the mansion of a soul so fair.<br>
 Still with her last, her fondest look, she gazed,<br>
-And as she fell her snowy arms were rais’d—
+And as she fell her snowy arms were rais’d—<br>f
 Was it a dream—they pointed to my boy,<br>
 The latest, dearest pledge of vanish’d joy!<br>
 I snatch’d him from the slaves, I watch’d the wavе<br>
@@ -715,7 +715,7 @@ On Mecca’s sands I knelt in prayer and praise.<br>
 Heard’st thou not, Heaven!—but gaze not thus on me,<br>
 Christian! my woes shall be no jest for thee!”<br>
 &emsp;“Where is this boy?” “Where! that should I demand—<br>
-On Arsouf’s plain he perish’d by thy hand!
+On Arsouf’s plain he perish’d by thy hand!<br>
 Where sleeps he now? perchance that cruel breast—<br>
 ’Tis said thy hatred loves the impious feast.”<br>
 &emsp;“Nay, ’tis thy frenzied malice forged the tale—<br>
@@ -728,7 +728,7 @@ Will Helim ask—not sorrow’s last request<br>
 To share his Ali’s grave—that barbarous breast.<br>
 Recoiling Nature points a fitter tomb;<br>
 Yet glory not, while gazing on my doom;<br>
-Here in the grave shall ail my griefs repose,<br>
+Here in the grave shall all my griefs repose,<br>
 But thy rash triumph finds no quiet close.<br>
 For me the gates of Paradise unfold,<br>
 For me Al Cawthar chafes its sands of gold.[^7]<br>
@@ -908,6 +908,8 @@ In plenitude of splendour beaming round<br>
 His light of life to earth’s remotest bound;<br>
 Thus through his radiant course the Monarch goes,<br>
 Blest in each blessing that his hand bestows.
+
+![curlicue](../cue.jpg)
 
 <a id="book10"></a>
 ## Book X
