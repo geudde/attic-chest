@@ -114,7 +114,7 @@ Eleanor Anne Роrden
 <h3>Volume II</h3>
 <ul>
 <li><a href="https://attic.vardill.org/reference/porden-coeur/volume2#book09">IX. The Embassy of Adel</a></li>
-<li>X. The Quarrel of Richard and Leopold</li>
+<li><a href="https://attic.vardill.org/reference/porden-coeur/volume2#book10">X. The Quarrel of Richard and Leopold</a></li>
 <li>XI. The Prince of the Assassins</li>
 <li>XII. The Pilgrimage of Berengaria</li>
 <li>XIII. The Castle of Trivallis</li>
