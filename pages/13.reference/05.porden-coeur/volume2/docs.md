@@ -598,7 +598,7 @@ Note (e), page 354, line 713. Tke easy price of that triumphant day. Only two pe
 <a id="note09-b"></a>
 § Note (b), page 8, line 105.&emsp;*And fruits, the produce of a warmer zone*.
 
-Many of these articles sound trifling in a modern ear; but fruits, sherbets and ices, were frequent presents of Saladine to the Christian chiefs..&#160;<a href="#ref09-a" rev="footnote" class="footnote-backref">↩</a>
+Many of these articles sound trifling in a modern ear; but fruits, sherbets and ices, were frequent presents of Saladine to the Christian chiefs..&#160;<a href="#ref09-b" rev="footnote" class="footnote-backref">↩</a>
 
 
 
