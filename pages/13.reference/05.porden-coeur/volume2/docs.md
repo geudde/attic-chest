@@ -528,11 +528,99 @@ Yet hence vain fears—to Heaven my sword was given,<br>
 And my lone kingdom is the charge of Heaven,”
 
 Arsouf meanswhile, despoil'd of all her pride,<br>
-Daroun and Ramla fling their portals wide; f i
-While Jaffa, which the Soldan threats in vain, Exulting turns to Christian rule again. From Tyre to Gaza, Palestine implores The conqueror's mercy, and receives his powers. The Moslems, scarce in menaced Sion sure, 470 With stronger walls her native strength secure; And Richard leads his gallant comrades on, To win Damascus' rival—Ascalon. Each eager eye explored the naked plain, And scann'd th' horizon's ample bound in s r ain. No marble domes the vacant scene adorn, No gilded turrets glitter in the morn; From no strong fort the tawny standard flies; Nor walls, nor towers, nor minarets arise. (i Oft have I heard," the wondering Pardo cried, " That imps malign in Asian wilds reside; In arid sands bid seeming lak^s delude, And shade with gorgeous piles the mimic flood: But now, methinks, some envious demon shrouds The actual city in aerial clouds."— ' ( Nay," Albert spoke, ζζ observe upon our right в Those low-built dwellings, glittering in the light, Like Moslem tombs; they speak the city nigh, ’Tis but yon grove that veils it from the eye."
-Swift to the spot the eager troops advance, 490 Then, fill'd with assc, exchange th' inquiring glance. " Where is the proud, the mighty city gone? Were these white stones imperial Ascalon? " Far as the keen-eyed lynx can measure round The splendid fragments cover all the ground; The column's broken shaft, the painted dome, Soft carpets, glowing from the Persian loom, Mirrors and cloth of gold, defiled and scorn'd, That tell how rich the halls they once adorn'd. But all was silent, save the breeze that sigh'd 500 O'er those fair ruins, late an empire's pride. Has earth, beneath the weight of marble prest, Heaved the proud structure from her jealous breast? Or man, unfaithful to his father's trust, The луогк of ages levelľd with the dust? Oh! not when Carthage met her dreadful doom, In rival vengeance seal'd by conquering Rome, When nor rude axe nor hungry flame forbore, And night and silence fled th' affrighted shore: Not then her sons o'er fairer domes bewaiľd, 510 In ruin scatter'd or in fire exhaled. Now changed the scene: with painful steps they trod Where treacherous ashes hide the burniug sod;
-And ever, as some smouldering heap they broke, Oozed from its black recess the heated smoke. The vulture haunts the desert house of prayer, The ruin'd palace is th' hyena's lair; And wondering thousands unreproved explore Sequester'd beauty's desolated bower— Her pomp, her pride, her busy crowds are gone, 520 And Syria's spouse is fall'n like Babylon. One tower alone, a massy structure, stood, Reared on the confines of the land and flood; Though scathed with flame, with angry blows assail'd, Dark frown'd its antique walls, and steel and fire had fail'd.* Wondering the warriors view th' unshaken stone,— When from its vaults resounds a sullen moan! Keen was their search, and soon in piteous plight They drag a wasted wretch to upper light. On his dark brow, though stain'd with dust, were seen Some tatter'd shreds of Mecca's holy green; His beard was silver'd with the snows of age, Yet glared his eyes with unextinguish'd rage; While, as from some sepulchral cavern, came A voice ill-suited to so worn a frame,
-With quivering lips, but unabated pride, To Richard's words the spectre form replied: " But that the tale may grieve thee, Infidel i Not all thy tortures should one sound compel. Go gaze on Shiraz, on Damascus gaze, 540 Or where through Cassius' vale Orontes strays; Bid Saba all her spicy wealth exhale, CuU all the sweets of Cashmere's palmy vale; Then may'st thou guess how fair thy treasure gone, And half the pride of ruin'd Ascalon! But far her splendour and her wealth above Her zealous offspring prized their Prophet's love,— That never here should Infidel command, Or Egypt's wealth be borne to Christian hand,* They vow'd—they heard of Acre's fall—again 550 The screaming vultures told of Arsouf's plain; Dark o'er the splendid domes a cloud was hung, And night and day with direful portents rung. The fated city knew her hour was come, And the sad Soldan, shuddering spoke her doom. Yet t'was not when the powerful throng'd the gate, When camels sunk beneath their costly freight;
+Daroun and Ramla fling their portals wide;<br>
+While Jaffa, which the Soldan threats in vain,<br>
+Exulting turns to Christian rule again.<br>
+From Tyre to Gaza, Palestine implores<br>
+The conqueror's mercy, and receives his powers.<br>
+The Moslems, scarce in menaced Sion sure,<br>
+With stronger walls her native strength secure;<br>
+And <span class="smallcaps">Richard</span> leads his gallant comrades on,<br>
+To win Damascus’ rival—Ascalon.<br>
+&emsp;Each eager eye explored the naked plain,<br>
+And scann’d th’ horizon’s ample bound in  vain.<br>
+No marble domes the vacant scene adorn,<br>
+No gilded turrets glitter in the morn;<br>
+From no strong fort the tawny standard flies;<br>
+Nor walls, nor towers, nor minarets arise.<br>
+&emsp;“Oft have I heard,” the wondering Pardo cried,<br>
+“That imps malign in Asian wilds reside;<br>
+In arid sands bid seeming lakes delude,<br>
+And shade with gorgeous piles the mimic flood:<br>
+But now, methinks, some envious demon shrouds<br>
+The actual city in aerial clouds.”<br>
+&emsp;“Nay,” Albert spoke, “observe upon our right<br>
+Those low-built dwellings, glittering in the light,<br>
+Like Moslem tombs; they speak the city nigh,<br>
+’Tis but yon grove that veils it from the eye.”<br>
+Swift to the spot the eager troops advance,<br>
+Then, fill’d with awe, exchange th’ inquiring glance.
+“Where is the proud, the mighty city gone?<br>
+Were these white stones imperial Ascalon?”<br>
+&emsp;Far as the keen-eyed lynx can measure round<br>
+The splendid fragments cover all the ground;<br>
+The column’s broken shaft, the painted dome,<br>
+Soft carpets, glowing from the Persian loom,<br>
+Mirrors and cloth of gold, defiled and scorn’d,<br>
+That tell how rich the halls they once adorn’d.<br>
+But all was silent, save the breeze that sigh’d<br>
+O’er those fair ruins, late an empire’s pride.<br>
+&emsp;Has earth, beneath the weight of marble prest,<br>
+Heaved the proud structure from her jealous breast?<br>
+Or man, unfaithful to his father’s trust,<br>
+The work of ages levelľd with the dust?<br>
+Oh! not when Carthage met her dreadful doom,<br>
+In rival vengeance seal’d by conquering Rome,<br>
+When nor rude axe nor hungry flame forbore,<br>
+And night and silence fled th’ affrighted shore:<br>
+Not then her sons o’er fairer domes bewail’d,<br>
+In ruin scatter’d or in fire exhaled.<br>
+&emsp;Now changed the scene: with painful steps they trod<br>
+Where treacherous ashes hide the burning sod;<br>
+And ever, as some smouldering heap they broke,<br>
+Oozed from its black recess the heated smoke.<br>
+The vulture haunts the desert house of prayer,<br>
+The ruin’d palace is th’ hyena’s lair;<br>
+And wondering thousands unreproved explore<br>
+Sequester’d beauty’s desolated bower—<br>
+Her pomp, her pride, her busy crowds are gone,<br>
+And Syria’s spouse is fall’n like Babylon.<br>
+&emsp;One tower alone, a massy structure, stood,<br>
+Reared on the confines of the land and flood;<br>
+Though scathed with flame, with angry blows assail’d,<br>
+Dark frown’d its antique walls, and steel and fire had fail’d.[^5]<br>
+Wondering the warriors view th’ unshaken stone,—<br>
+When from its vaults resounds a sullen moan!<br>
+Keen was their search, and soon in piteous plight<br>
+They drag a wasted wretch to upper light.<br>
+On his dark brow, though stain’d with dust, were seen<br>
+Some tatter’d shreds of Mecca’s holy green;<br>
+His beard was silver’d with the snows of age,<br>
+Yet glared his eyes with unextinguish’d rage;<br>
+While, as from some sepulchral cavern, came<br>
+A voice ill-suited to so worn a frame,<br>
+With quivering lips, but unabated pride,<br>
+To <span class="smallcaps">Richard’s</span> words the spectre form replied:<br>
+&emsp;“But that the tale may grieve thee, Infidel!<br>
+Not all thy tortures should one sound compel.<br>
+Go gaze on Shiraz, on Damascus gaze,<br>
+Or where through Cassius' vale Orontes strays;<br>
+Bid Saba all her spicy wealth exhale,<br>
+Cull all the sweets of Cashmere's palmy vale;<br>
+Then may'st thou guess how fair thy treasure gone,<br>
+And half the pride of ruin’d Ascalon!<br>
+But far her splendour and her wealth above<br>
+Her zealous offspring prized their Prophet’s love,—<br>
+That never here should Infidel command,<br>
+Or Egypt’s wealth be borne to Christian hand,[^6]<br>
+They vow’d—they heard of Acre’s fall—again<br>
+The screaming vultures told of Arsouf’s plain;<br>
+Dark o’er the splendid domes a cloud was hung,<br>
+And night and day with direful portents rung.<br>
+The fated city knew her hour was come,<br>
+And the sad Soldan, shuddering spoke her doom.<br>
+Yet t’was not when the powerful throng’d the gate,<br>
+When camels sunk beneath their costly freight;<br>
 When music wail'd, or houri forms were seen Half to undraw the silken palanquin, To see once more the only home they knew, 560 And left but once, yet left for ever too; Nor when the new, the gorgeous palace fell, That desolation rais'd her fearful yell. The great have wealth to м in another home, And spread a Paradise where'er they roam; But when the poor, that saw their dwellings fall, In every little hut bewail'd their all,— When houseless infants round their fathers clung, When on their arms their wives imploring hung,— E'en by their very weight to stay the blow, 570 And check an arm already weak with woe; 'Twas then the Soldan wept, and in despair, Called on his Mufties to relent and spare— Th' averted head, that sought the mantle's fold, The frequent sob, their dreadful sentence told; * Oh! I had rather that these walls had stood, Like Acre, purpled with her offspring's blood; But Islam's weal demands'—he spoke, and then Snatch'd the red torch, and led his weeping train. Himself he fired whate'er was precious, rare, 580 The tombs of ancient "-aints, the mosques of prayer;
 Till the high feeling caught from man to man, Each with his home the work of fate began; O'er its slow wreck his sullen vigil kept, The eye was tearless, 'twas the heart that wept. Each fatal hour some princely pile consumed, Night after night terrific fires illumed; Till the dark heavens their silent sorrows shed O'er the wide havoc which their winds had spread.h " Mourn, then, tbou miscreant! thou the cause of all! On thee may Islam's gather'd curses fall! Think of this jewel lost, the weight of care, The toils, the battles thou hast yet to dare, With those who thus to death and flames consign All they most love, ere they will yield it thine." f ' Think thou what fervor Christian hearts must fill Who strive with such, nor doubt of conquest still! Short is your triumph:" thus the King replies, (t This phœnix from her fuueral flames shall rise. Exult! my friends! proud city! live once more. 600 Thy sons destroy'd thee, but thy foes restore.— Go! tell thy Lord, in vain his soul exceeds All record shews of great and daring deeds; Undazzled we his radiant course can trace, And hope to match—perchance outstrip his race."
 " Even as thou wilt, but here my sorrows close; This spot that first beheld shall end my woes— Once blest with all that mortal might desire, A happy husband, an exulting sire, I prized Morayma's worth all wealth above, 610 Nor gave a rival to her faithful love. The plague broke forth—with every wretched day My comrades died, my household pined away; My children sicken'd—less than mother's care Had turn'd appall'd from features late so fair; But fearless, speechless, o'er their couch of death That angel watch'd, nor shunn'd their tainted breath; Till as her fingers, moisten'd in the wave, To their blue lips a moment's freshness gave, She sunk, Affection's martyr, at my side, 620 Raised to my face her pitying eyes, and died! What followed ask not—stupor seized my frame, I saw not, heard not, till when reason came I stood on yonder tower; the Eunuchs gas r e My heart's lost treasure to a wat'iy grave; Pale, but yet lovely, for not death might dare To change the mansion of a soul so fair. Still with her last, her fondest look, she gazed, And as she fell her snowy arms were rais'd—
@@ -957,3 +1045,7 @@ Note (e), page 354, line 713. Tke easy price of that triumphant day. Only two pe
 [^3]: The bridge of Al Sirat, which has already been mentioned; where the curses of those whom we have injured in this life will become gusts of wind, to shake our footing on its perilous edge.
 
 [^4]: See Note on Book III, respecting the supposed acquaintance between Eleanor of Guyenne and the young Saladine, at Antioch.
+
+[^5]: The tower is said to be still in existence.
+
+[^6]: Ascalon was the principal port of communication between Syria and Egypt.
