@@ -1578,9 +1578,69 @@ Anxious alone, when death should end her woes,<br>
 To perish faithful—or perchance to move<br>
 Some wandering knight to guide her to her love.
 
-Such was her story,—but till poet's art Can paint the joy that shone in either heart; Her silver tone, the inexpressive grace That lit her dark blue eyes, and glowing face; 111 may he teach what made that hour ьо dear, Or that slight tale so sweet to Pardo's ear. But never on affection's stream, in sooth, Long smiles the sun, or is itb channel smooth.* The sable Lyard, Richard's favourite steed, 660 With one bold effort from his bridle freed, Bounds through the glade, while Pardo strives in vain To rush before and catch the broken rein: Still as he came the wayward horse was gone, Yet such slight space as lured the warrior on; Nor marked he, till again he soothed its pride, How far it led him from Amina's side.
-Bewilder'd now, and by his haste betray'd, He wanders farther from the anxious maid. " Thou sable beast," th' impatient lover cried, 670 Λ " Scarce are thy pranks by Moslem fears belied, > Which swear some demon fills thy dusky hide! j Yc£ poor the sport, all vicious as thou art, To syring with grief a true and tender heart." The daylight sunk—in vain he look'd on high, And curs'd, what late be wish'd, the moonless sky -, Bewilder'd, wearied, till the morning shone On the new walls of distant Ascalon. Revived by hope, he spurs his steed, but there All was confusion, terror and despair; 680 Pale every cheek; one single thought opprest And still'd the warring crowd of every breast; And soon he hears a dreadful tale, that drove Even from a lover's heart the dream of love; In one sad tone, one mournful phrase they spoke, (( Their Mouarch captive to the Soldan's yoke." Th' assembled Peers in dismal conclave sate, How best to bear, and how reverse his fate $ Their minds benumb'd, partake the general gloom, A thousand plans propose, reject, resume; 690
-Even heroes scarce were men; when needed most, Courage, and hope, and sense itself seem'd lost.— But hark! a shout—they see a knightly train, As captives long deplored, or wept as slain ,* The matted locks, the pale and wrinkled brow Spoke suffering past, but all was rapture now; And happy Albert from the grateful ring Bounds in his transport, and demands the King. " Hast thou not heard,"the mournful Raymond said,"How in his slumber to the foe betray'd—" 700 " Nay! my loved friend, no Moslem chains confine The Lion Heart, the captive lot was mine! With sylvan sport and noontide heat opprest, A gurgling fountain lull'd the King to rest; I slumber'd near, when from a happy dream I started, waken'd by a woman's scream, And saw a maid, who wept with anguish wild As stern Almanzor claim'd his truant child. Large was the hostile band, too large for strife, The pressing danger threaten'd Richard's life, 7Ю (For well I knew, by honour unreprest, What deadly hatred fired the Arab's breast;) And boldly rushing ’mid the armed ring, ( Preserve my life!' I cried, ' preserve the King!' 2
+Such was her story,—but till poet’s art<br>
+Can paint the joy that shone in either heart;<br>
+Her silver tone, the inexpressive grace<br>
+That lit her dark blue eyes, and glowing face;<br>
+Ill may he teach what made that hour sо dear,<br>
+Or that slight tale so sweet to Pardo’s ear.<br>
+But never on affection’s stream, in sooth,<br>
+Long smiles the sun, or is its channel smooth.[^21]<br>
+The sable Lyard, <span class="smallcaps">Richard’s</span> favourite steed,<br>
+With one bold effort from his bridle freed,<br>
+Bounds through the glade, while Pardo strives in vain<br>
+To rush before and catch the broken rein:<br>
+Still as he came the wayward horse was gone,<br>
+Yet such slight space as lured the warrior on;<br>
+Nor marked he, till again he soothed its pride,<br>
+How far it led him from Amina’s side.<br>
+Bewilder’d now, and by his haste betray’d,<br>
+He wanders farther from the anxious maid.<br>
+“Thou sable beast,” th’ impatient lover cried,<br>
+“Scarce are thy pranks by Moslem fears belied,<br>
+Which swear some demon fills thy dusky hide!<br>
+Yet poor the sport, all vicious as thou art,<br>
+To wring with grief a true and tender heart.”<br>
+&emsp;The daylight sunk—in vain he look’d on high,<br>
+And curs’d, what late be wish’d, the moonless sky;<br>
+Bewilder’d, wearied, till the morning shone<br>
+On the new walls of distant Ascalon.<br>
+Revived by hope, he spurs his steed, but there<br>
+All was confusion, terror and despair;<br>
+Pale every cheek; one single thought opprest<br>
+And still’d the warring crowd of every breast;<br>
+And soon he hears a dreadful tale, that drove<br>
+Even from a lover’s heart the dream of love;<br>
+In one sad tone, one mournful phrase they spoke,<br>
+“Their Monarch captive to the Soldan’s yoke.”<br>
+Th’ assembled Peers in dismal conclave sate,<br>
+How best to bear, and how reverse his fate;<br>
+Their minds benumb’d, partake the general gloom,<br>
+A thousand plans propose, reject, resume;<br>
+Even heroes scarce were men; when needed most,<br>
+Courage, and hope, and sense itself seem’d lost.<br>
+But hark! a shout—they see a knightly train,<br>
+As captives long deplored, or wept as slain;<br>
+The matted locks, the pale and wrinkled brow<br>
+Spoke suffering past, but all was rapture now;<br>
+And happy Albert from the grateful ring<br>
+Bounds in his transport, and demands the King.<br>
+&emsp;“Hast thou not heard,” the mournful Raymond said,<br>
+“How in his slumber to the foe betray’d—”<br>
+&emsp;“Nay! my loved friend, no Moslem chains confine<br>
+The Lion Heart, the captive lot was mine!<br>
+With sylvan sport and noontide heat opprest,<br>
+A gurgling fountain lull’d the King to rest;<br>
+I slumber’d near, when from a happy dream<br>
+I started, waken’d by a woman’s scream,<br>
+And saw a maid, who wept with anguish wild<br>
+As stern Almanzor claim’d his truant child.<br>
+Large was the hostile band, too large for strife,<br>
+The pressing danger threaten’d <span class="smallcaps">Richard’s</span> life,<br>
+(For well I knew, by honour unreprest,<br>
+What deadly hatred fired the Arab’s breast;)<br>
+And boldly rushing ’mid the armed ring,<br>
+‘Preserve my life!’ I cried, ‘preserve the King!’<sup>g</sup><br>
 Nor fail'd the fraud,—though all in battle field Had known his broomy crest and lion shield, The peaceful garb deceived; the valleys rung With shouts of rapture as we pac'd along, And oft my secret fancy wander'd here To paint your fears, and joy that vanquish'd fear. 720 Yon woods may still the wandering King detain, But England's glory wears no Moslem chain." te Alas!" said Raymond, "'twere a happier doom; Some beast may tear him now, or gulf entomb."— " Peace, Raven S croak not yet," young Pardo cried " Hope is a fairer and a safer guide. 'Tis madness thus th' inflicted grief to swell;—■ But speak, dear Albert, how thy fetters fell?" " Nor were the tale of pleasing interest void In happier hour," the gentle youth replied. /30 " They led me to the Soldan: nor his eye Flash'd with the meteors of intemperate joy, Nor glared with rage, when, as the truth I shew'd, His baffled satraps clamour' d for my blood. ( That King must ill a Sovereign's duty know Who harms the loyal, though he serve a foe,' He answer'd mild; ' such zeal in half my train Had made thy Monarch's bold invasion vain,
 Yet not too lightly must such knight be freec — Twice fifty thousand bysants bc the meed.' 740 " With grief I heard, beyond a subject's power, My ransom rated at a princely dower. When now the Soldan smiling led me forth, ' Nor mourn,' he said, { this tribute to thy worth; The Christian warriors, when they hear thy plight, Shall vie with gifts to ransom such a Knight: And trust me, though a different faith be mine, I hold the name of chivalry divine; Too well, in sooth, its foes are taught to prize What такеь frail man so glorious and so wise. 750 Fain would my soul th' ennobling precepts hear, And fain my limbs the sacred tokens wear.' " Amazed I ponder'd—could the holy flame Descend to warm a misbelieving frame? " c Believe,' he cried, l with no impure desires To join your Order Saladine aspires, Nor were its glory tarnish'd, should a part' 1 Of its pure doctrines reach an Arab's heart.' i£ So modest! thought I—could I stiil forbear? I waived the vigil, waived the rites of prayer: 760 But in the bath his hardy limbs I laved,' Symbol of man by vows baptismal saved;
 Then at my will a simple couch he prest In sleep, the emblem of our mortal rest, And rose regenerate—o'er him next I threw The linen robe of truth's unspotted hue, That asks as pure a frame; the scarlet vest That claims devotion from the constant breast, Danger and death for knighthood's sake to brave, And loath dishonour far beyond the grave. 770 Then passings by his rank imperial sway'd, Th' accustom'd blow, the friendly accolade, I bade him guard a soul from falsehood clear, And more than wealth or power the truth revere; With liberal heart enjoy what heaven should send, Observe the holy rites the church ordain'd, And still be prompt, by selfish views uusway'd, His life or limbs to risk in beauty's aid; For ill that wretch the name of Knight may bear Whose callous heart is closed to woman's prayer. 780 ce ' No more I muse/ th' attentive Soldun cries, f For from such source can less than heroes rise? And let me prove I bear no heedless mind— Go! seek the gold from all of Christian kind; But if two summers past thou suest in vain, My power unwilling claims its thrall again.'
@@ -1990,3 +2050,5 @@ Note (e), page 354, line 713. Tke easy price of that triumphant day. Only two pe
 [^19]: Leopold answered, that he was not born either mason or carpenter.
 
 [^20]: The siege of Milan was one of the most arduous enterprizes of Frederick Barbarossa, who employed against that obstinate city all the artillery of antient and chivalrous times.
+
+[^21]: “The course of true love never did run smooth.”
