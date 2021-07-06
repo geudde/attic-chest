@@ -2067,11 +2067,78 @@ Or the swift pelican, that flies to bring<br>
 Her nestlings water from the distant spring,<br>
 While still the courser stopp’d, as evening fell,<br>
 Where clustering palm trees shade the lonely well,<br>
-
-And welcome sleep the wanderer's strength renew'd, The spring his beverage, and the date his food. 220 At length more wild the barren region grows, Near the hot desert snow-crown'd mountains rose; The dews fell thick, the evening gale blew chill, As rush'd the steed up many a rugged hill. Each glen seem'd ruder, keener every blast, And each steep ridge was loftier than the last. And now he reach'd a height—one well might deem The moon shed coldness in her piercing beam, On naked peaks and brows for ever white, And azure glaciers, glittering in the light. 230 But still by many a torrent's dangerous edge, By many a precipice, whose slippery ledge The mule might fear, with unabated speed, And surer footing bounds th' unwearied steed. From a broad arch of undissolving snow A rushing torrent sought the dell below; Undazzled by the foam, or glittering light Of pendant ice that fringed that vault of white, The steed plunged in, where not a straggling beam Shew'd the dark cradle of the roaring stream. 240 Onward he holds, nor heeds the dashing spray, Nor fails his footing on that darfgerous way; vol. и. и
-Tbc dread abyss might seem the path of hell, Till opening on a rock-encircled dell, Whose smooth ¡steep ^klesshako olì the feathtrv якт And shut the moonbeams from the depth below; Save where one fallen peak with ruin strew'd The rocky bottom, fragments vast and rude; And, through the chasm, one silver ray wat> fluiur, Whei e on the adverse wall a bugle hung. 250 Its ample round the youth w ith music filte, And wakes the echoes of a thousand hills; When lo! the flinty barrier rolls away, And unseen doors a lamp-lit cave display. t4 Almighty Power! what now thy will 5 " he cried, But be thou yet my guardian and my guide," He quits bis steed, which started off agen, Draws his bright sword, and plunges in the den. Again the valves have closed, the walls repeat Nought save the echoes of his rapid feet; 260 Shew nought but rocks with tawny moss o'ergrown, Or where the snoss r > damps filter through the stone; The half-froze drop that caught the flickering light, White clustering spar, and pendant stalactite. " Oft have I heard, in Arab story told, How scaly dragons guard the cavern'd gold,
-And fam ssould tomt -udi bold emprizc but feai Aladdin s guttering garden -.hine- not hti c; And though I lubb'd son пЫ> cresset-· bright, The} ssould not bung ont giant friend to light, 270 Ebe should his lips a monarch' 1 * stors teP— Alas! ms own ь doubtful' ss bo can dwell In scents like these, whose sas age gloom w ould îi îght The holiest sage, tK sternest Ei emite } My living dungeon, and pei chance ms giasc 1 But lo ' ss here jon white seil disiden the case "■— T'ss'as but a bound,—he long'd to know his doom, He drew it back, and stood ss ithin a ι oom, Shewn by a single lamp, half glaie. half gloom. Its lustre fell upon a plain divan, 280 Where ¡sate m robes of winte an aged man. Nor joy nor fear his changeless check exprcit, To daunt or welcome hb astonibh'd guest, While pointing to the coarse ι epast that spread Th' untap'stried floor, in tianquil tone he said: ' ť Hail, Christian t thou art late—advance and eat, Hunger like thine should make the banquet sweet; — Nay , pause not—wairiois are not nicely fed, Nor need voluptuous, and 'tis wholesome bread ' h S
-ťí Nay, father! who art thou, by seeming spell That wait'st me here, and know'bt that need so well?" " Hassan, the Mountain Prince!" " Ah! then toj late," The youth exclaim'd, <c I know my dreadful fate, For thou hast murder's deadliest arts, to strike The distant victim and tlie near, alike; Once mark'd by thee, the tyger knows his prey, Or wasted wretches pine their lives away. One only boon, Assassin Chief! accord, Thy poisons spare, and kill me with the sss'ord." No feeling o'er his furrow'd visage past, 300 And cold and rayless was the glance he cast. " Trust me, young Knight! thou hast no cause of fear, For murder wherefore should I bring thee here? It had been easier far to bid thee fall While lingering in Almanzor's lonely hall, Or by the forest fountain—foolish boy! My wish is now to save thee, not destroy." " Then in the name of heaven I eat," he said, " For He who walked the printless waves, and fed Thousands with less than this; whose power divine Lives in the sacred wafer (mystic sign!)
+And welcome sleep the wanderer’s strength renew’d,<br>
+The spring his beverage, and the date his food.<br>
+At length more wild the barren region grows,<br>
+Near the hot desert snow-crown’d mountains rose;<br>
+The dews fell thick, the evening gale blew chill,<br>
+As rush’d the steed up many a rugged hill.<br>
+Each glen seem’d ruder, keener every blast,<br>
+And each steep ridge was loftier than the last.<br>
+And now he reach’d a height—one well might deem<br>
+The moon shed coldness in her piercing beam,<br>
+On naked peaks and brows for ever white,<br>
+And azure glaciers, glittering in the light.<br>
+But still by many a torrent’s dangerous edge,<br>
+By many a precipice, whose slippery ledge<br>
+The mule might fear, with unabated speed,<br>
+And surer footing bounds th’ unwearied steed.<br>
+&emsp;From a broad arch of undissolving snow<br>
+A rushing torrent sought the dell below;<br>
+Undazzled by the foam, or glittering light<br>
+Of pendant ice that fringed that vault of white,<br>
+The steed plunged in, where not a straggling beam<br>
+Shew’d the dark cradle of the roaring stream.<br>
+Onward he holds, nor heeds the dashing spray,<br>
+Nor fails his footing on that dangerous way;<br>
+The dread abyss might seem the path of hell,<br>
+Till opening on a rock-encircled dell,<br>
+Whose smooth steep sides shake off the feathery snow<br>
+And shut the moonbeams from the depth below;<br>
+Save where one fallen peak with ruin strew’d<br>
+The rocky bottom, fragments vast and rude;<br>
+And, through the chasm, one silver ray was flung,<br>
+Where on the adverse wall a bugle hung.<br>
+&emsp;Its ample round the youth with music fills,<br>
+And wakes the echoes of a thousand hills;<br>
+When lo! the flinty barrier rolls away,<br>
+And unseen doors a lamp-lit cave display.<br>
+“Almighty Power! what now thy will?” he cried,<br>
+But be thou yet my guardian and my guide,”<br>
+&emsp;He quits his steed, which started off agen,<br>
+Draws his bright sword, and plunges in the den.<br>
+Again the valves have closed, the walls repeat<br>
+Nought save the echoes of his rapid feet;<br>
+Shew nought but rocks with tawny moss o’ergrown,<br>
+Or where the snow-damps filter through the stone;<br>
+The half-froze drop that caught the flickering light,<br>
+White clustering spar, and pendant stalactite.<br>
+&emsp;“Oft have I heard, in Arab story told,<br>
+How scaly dragons guard the cavern’d gold,<br>
+And fain would court such bold emprize: but fear<br>
+Aladdin’s glittering garden shines not here;<br>
+And though I rubb’d yon rusty cressets bright,<br>
+They would not bring one giant friend to light,<br>
+Else should his lips a monarch’s story tell—<br>
+Alas! my own is doubtful! who can dwell<br>
+In scenes like these, whose savage gloom would fright<br>
+The holiest sage, the sternest Eremite?<br>
+My living dungeon, and perchance my grave!<br>
+But lo! where yon white veil divides the cave—”<br>
+&emsp;T’was but a bound,—he long’d to know his doom,<br>
+He drew it back, and stood within a room,<br>
+Shewn by a single lamp, half glare, half gloom.<br>
+Its lustre fell upon a plain divan,<br>
+Where sate in robes of white an aged man.<br>
+Nor joy nor fear his changeless check exprest,<br>
+To daunt or welcome his astonish’d guest,<br>
+While pointing to the coarse repast that spread<br>
+Th’ untap’stried floor, in tranquil tone he said:<br>
+&emsp;“Hail, Christian! thou art late—advance and eat,<br>
+Hunger like thine should make the banquet sweet;<br>
+Nay! pause not—warriors are not nicely fed,<br>
+Nor need voluptuous, and ’tis wholesome bread.”
+ťí Nay, father! who art thou, by seeming spell That wait'st me here, and know'bt that need so well?" " Hassan, the Mountain Prince!" " Ah! then toj late," The youth exclaim'd, c I know my dreadful fate, For thou hast murder's deadliest arts, to strike The distant victim and tlie near, alike; Once mark'd by thee, the tyger knows his prey, Or wasted wretches pine their lives away. One only boon, Assassin Chief! accord, Thy poisons spare, and kill me with the sss'ord." No feeling o'er his furrow'd visage past, 300 And cold and rayless was the glance he cast. " Trust me, young Knight! thou hast no cause of fear, For murder wherefore should I bring thee here? It had been easier far to bid thee fall While lingering in Almanzor's lonely hall, Or by the forest fountain—foolish boy! My wish is now to save thee, not destroy." " Then in the name of heaven I eat," he said, " For He who walked the printless waves, and fed Thousands with less than this; whose power divine Lives in the sacred wafer (mystic sign!)
 Shall sanctify the meal."—Yet oft he gazed On that old man, and still the more amazed. The winters of that desert realm had shed Their whitest snows upon his aged head; The rose his pallid cheek might once have known, The modulation of his youthful tone, The lustre of his changeless eye were flown. Fix'd as th' uncofSn'd dead, or those that, lost In Alpine regions, feel the grasp of frost; 320 Yet not the kindly calm of pious sage, Nor wrinkles those of meek and reverend age: Though anger sate not on his brow, nor trace Of evil passions darken'd on his face, It was an apathy that told of sin, And seem'd to speak the silent heart within Cold as the glaciers, that but melt to shew The dark abyss or flinty rock below; Nor spoke it false, who knew his youth might know. Health shed her beam on Hassan's vernal hours, And pleasure woo'd him to her tempting bowers; Glanced in each mountain damsel's laughing eye, As like the fleet gazelle she bounded by, And breathed voluptuous in each scented gale That swept the flowers of Casbin's fairest vale. u 3
 So cool the fc mtaius, and the banks so green, Such tranquil beauty clothed the smiling scene, The parted soul might wish its Eden there, Or Peries for their odorous feast repair: Behind, Elburza's rugged chain arose, 340 High o'er tlie cloud?, a *vilderness of snows. But smiling beauty Λνοη not Hassan's love, The stream soft murmuring, nor the shadowy grove. Nor yet to see those glittering peaks arise, Fair as fond fancy pictures distant joys; Oft луопк! he break the charm that distance shed, And plant on horrid heights his venturous tread; Nature he loved, but in her wildest form,— The raging sea, the earthquake, and the storm. He fled from Shiraz' palace-groves, afar 350 'Mid the lone halls of column'd Istakar, To tread her ruin'd terraces, and gaze On the cold moon, or Naptha's fitful blaze; And think upon those wretches that below Move in one whirl of burning, endless woe. As yet young Hassan's heart was free from crime; But trust him not, the tempter knows h' time— The sting of pain, or sorrow's wasting rage May cloud %vith froAvns the wrinkled brow of age;
 But trust not him who, yet iu sunny youth, 360 Wants the frank smile, the open glow of truth; Whose cold perverted fancy never roves To dream of faithful friends and happy loves, But rashly wanders in ambition's maze, That winds, and knots, and darkens as he strays. Not that ambition which for glory stakes Peace, health, and life, and gilds the wreck it makes; But that which, mindful of the present hour, Stops not for crime, and grasps alone at power. Yet Hassan had a friend, and one whose mind 370 No bonds, save virtue'% eser yet confin'd; His thought through nature's various realms would range, Explore her wonders, ponder every change, And own in all that Being, whose control Created, keeps, and renovates the whole; Bids the same laws the small and great confine, Bids for one end discordant means combine; One power renew what other powers destroy, And clothes the whole in beauty and in joy. Oh! how could darkness love the cheerful light, Or Nizam's smiles with Hassan's gloom unite? и 1
