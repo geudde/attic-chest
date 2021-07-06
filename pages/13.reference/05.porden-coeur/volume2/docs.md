@@ -2640,7 +2640,7 @@ Speak from their graves, and force th’ accusing tongue.<br>
 Dire penance follows, vigil, fast, and prayer,<br>
 A thousand pious frauds to cheat despair;<br>
 So may offended Heaven avert the stroke,<br>
-And spare the judgment which those crimes provoke.
+And spare the judgment which those crimes provoke.<br>
 At length Evanthe came, but weak and pale,<br>
 As flitting spectres in the twilight vale.<br>
 She sought the council-hall, and fearful roll’d<br>
