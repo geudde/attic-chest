@@ -2137,13 +2137,129 @@ Th’ untap’stried floor, in tranquil tone he said:<br>
 &emsp;“Hail, Christian! thou art late—advance and eat,<br>
 Hunger like thine should make the banquet sweet;<br>
 Nay! pause not—warriors are not nicely fed,<br>
-Nor need voluptuous, and ’tis wholesome bread.”
-ťí Nay, father! who art thou, by seeming spell That wait'st me here, and know'bt that need so well?" " Hassan, the Mountain Prince!" " Ah! then toj late," The youth exclaim'd, c I know my dreadful fate, For thou hast murder's deadliest arts, to strike The distant victim and tlie near, alike; Once mark'd by thee, the tyger knows his prey, Or wasted wretches pine their lives away. One only boon, Assassin Chief! accord, Thy poisons spare, and kill me with the sss'ord." No feeling o'er his furrow'd visage past, 300 And cold and rayless was the glance he cast. " Trust me, young Knight! thou hast no cause of fear, For murder wherefore should I bring thee here? It had been easier far to bid thee fall While lingering in Almanzor's lonely hall, Or by the forest fountain—foolish boy! My wish is now to save thee, not destroy." " Then in the name of heaven I eat," he said, " For He who walked the printless waves, and fed Thousands with less than this; whose power divine Lives in the sacred wafer (mystic sign!)
-Shall sanctify the meal."—Yet oft he gazed On that old man, and still the more amazed. The winters of that desert realm had shed Their whitest snows upon his aged head; The rose his pallid cheek might once have known, The modulation of his youthful tone, The lustre of his changeless eye were flown. Fix'd as th' uncofSn'd dead, or those that, lost In Alpine regions, feel the grasp of frost; 320 Yet not the kindly calm of pious sage, Nor wrinkles those of meek and reverend age: Though anger sate not on his brow, nor trace Of evil passions darken'd on his face, It was an apathy that told of sin, And seem'd to speak the silent heart within Cold as the glaciers, that but melt to shew The dark abyss or flinty rock below; Nor spoke it false, who knew his youth might know. Health shed her beam on Hassan's vernal hours, And pleasure woo'd him to her tempting bowers; Glanced in each mountain damsel's laughing eye, As like the fleet gazelle she bounded by, And breathed voluptuous in each scented gale That swept the flowers of Casbin's fairest vale. u 3
-So cool the fc mtaius, and the banks so green, Such tranquil beauty clothed the smiling scene, The parted soul might wish its Eden there, Or Peries for their odorous feast repair: Behind, Elburza's rugged chain arose, 340 High o'er tlie cloud?, a *vilderness of snows. But smiling beauty Λνοη not Hassan's love, The stream soft murmuring, nor the shadowy grove. Nor yet to see those glittering peaks arise, Fair as fond fancy pictures distant joys; Oft луопк! he break the charm that distance shed, And plant on horrid heights his venturous tread; Nature he loved, but in her wildest form,— The raging sea, the earthquake, and the storm. He fled from Shiraz' palace-groves, afar 350 'Mid the lone halls of column'd Istakar, To tread her ruin'd terraces, and gaze On the cold moon, or Naptha's fitful blaze; And think upon those wretches that below Move in one whirl of burning, endless woe. As yet young Hassan's heart was free from crime; But trust him not, the tempter knows h' time— The sting of pain, or sorrow's wasting rage May cloud %vith froAvns the wrinkled brow of age;
-But trust not him who, yet iu sunny youth, 360 Wants the frank smile, the open glow of truth; Whose cold perverted fancy never roves To dream of faithful friends and happy loves, But rashly wanders in ambition's maze, That winds, and knots, and darkens as he strays. Not that ambition which for glory stakes Peace, health, and life, and gilds the wreck it makes; But that which, mindful of the present hour, Stops not for crime, and grasps alone at power. Yet Hassan had a friend, and one whose mind 370 No bonds, save virtue'% eser yet confin'd; His thought through nature's various realms would range, Explore her wonders, ponder every change, And own in all that Being, whose control Created, keeps, and renovates the whole; Bids the same laws the small and great confine, Bids for one end discordant means combine; One power renew what other powers destroy, And clothes the whole in beauty and in joy. Oh! how could darkness love the cheerful light, Or Nizam's smiles with Hassan's gloom unite? и 1
-Perchance, that though of different race, they drew Milk from one breast, or through the morning dew Chaeed the fierce panther, or the rapid deer, Each, save his equal friend, without a peer. Perchance, that both insatiate in the draught, They from one fount the streams of science quaft'd/ Nizam would snatch the blossom from the shoot, And in its embryo trace the future fruit; His friend would poison from the leaves distill, 390 And try on puny beasts its power to kill; Honey from each the mind of Nizam stole, From each its venom flow'd to Hassan's soul. The Persian Sultan heard of Nizam's worth; From Casbin's peaceful shades he call'd him forth, O'er all his realms his sole vicegerent made, Loved as himself, and like himself obey'd. But the young sage, though pomp and powerwerenew, To seek his friend from courtly scenes withdrew. He found him on a rock, intent to throw 400 His baits upon the stream that foam'd below, And while his panting victims round him lie, To wanton in their dying agony. " Up, Hassan—throw these childish sports aside, Seek nobler game, an empire's cares divide;
-Our bounteous Prophet," thus the youth began, " Showers on thy friend the smiles of Arselan. Come then to Shiraz—trust thy Nizam's care— My wealth, my power, my Sovereign's favour share." His moody friend scarce rais'd his sullen eyes, 410 And thus with proud and curling lip replies: " What should I share?—think'st thou the gaudy gold That decks thy caftan and thy turban's fold Has charms for me?—that Hassan would resign His own free mountains for a fame like thine? My simple robes exclude the heat as well, Thy pomp but makes them heavier.—Canst thou tell For thee if richer fruits adorn the tree, Or shines the sun with brighter light—for thee?" " Dear Hassan, is it thus? Hast thou forgot 420 Our youth, our vow to share one common lot?* Art thou content! has thine aspiring mind All its ambitious views at once resigned?"— " No, fool! Ambition still is Hassan's joy, I scorn thy proffer, for I look more high;
+Nor need voluptuous, and ’tis wholesome bread.”<br>
+&emsp;“Nay, father! who art thou, by seeming spell<br>
+That wait’st me here, and know’st that need so well?”<br>
+&emsp;“Hassan, the Mountain Prince!”<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;“Ah! then too late,”<br>
+The youth exclaim’d, “I know my dreadful fate,<br>
+For thou hast murder’s deadliest arts, to strike<br>
+The distant victim and the near, alike;<br>
+Once mark’d by thee, the tyger knows his prey,<br>
+Or wasted wretches pine their lives away.<br>
+One only boon, Assassin Chief! accord,<br>
+Thy poisons spare, and kill me with the sword.”<br>
+&emsp;No feeling o’er his furrow’d visage past,<br>
+And cold and rayless was the glance he cast.<br>
+“Trust me, young Knight! thou hast no cause of fear,<br>
+For murder wherefore should I bring thee here?<br>
+It had been easier far to bid thee fall<br>
+While lingering in Almanzor’s lonely hall,<br>
+Or by the forest fountain—foolish boy!<br>
+My wish is now to save thee, not destroy.”<br>
+&emsp;“Then in the name of heaven I eat,” he said,<br>
+“For He who walked the printless waves, and fed<br>
+Thousands with less than this; whose power divine<br>
+Lives in the sacred wafer (mystic sign!)<br>
+Shall sanctify the meal.”—Yet oft he gazed<br>
+On that old man, and still the more amazed.<br>
+&emsp;The winters of that desert realm had shed<br>
+Their whitest snows upon his aged head;<br>
+The rose his pallid cheek might once have known,<br>
+The modulation of his youthful tone,<br>
+The lustre of his changeless eye were flown.<br>
+Fix’d as th’ uncoffin’d dead, or those that, lost<br>
+In Alpine regions, feel the grasp of frost;<br>
+Yet not the kindly calm of pious sage,<br>
+Nor wrinkles those of meek and reverend age:<br>
+Though anger sate not on his brow, nor trace<br>
+Of evil passions darken’d on his face,<br>
+It was an apathy that told of sin,<br>
+And seem’d to speak the silent heart within<br>
+Cold as the glaciers, that but melt to shew<br>
+The dark abyss or flinty rock below;<br>
+Nor spoke it false, who knew his youth might know.<br>
+&emsp;Health shed her beam on Hassan’s vernal hours,<br>
+And pleasure woo’d him to her tempting bowers;<br>
+Glanced in each mountain damsel’s laughing eye,<br>
+As like the fleet gazelle she bounded by,<br>
+And breathed voluptuous in each scented gale<br>
+That swept the flowers of Casbin’s fairest vale.<br>
+So cool the fountains, and the banks so green,<br>
+Such tranquil beauty clothed the smiling scene,<br>
+The parted soul might wish its Eden there,<br>
+Or Peries for their odorous feast repair:<br>
+Behind, Elburza’s rugged chain arose,<br>
+High o’er the clouds, a wilderness of snows.<br>
+But smiling beauty won not Hassan’s love,<br>
+The stream soft murmuring, nor the shadowy grove.<br>
+Nor yet to see those glittering peaks arise,<br>
+Fair as fond fancy pictures distant joys;<br>
+Oft would he break the charm that distance shed,<br>
+And plant on horrid heights his venturous tread;<br>
+Nature he loved, but in her wildest form,—<br>
+The raging sea, the earthquake, and the storm.<br>
+He fled from Shiraz’ palace-groves, afar<br>
+’Mid the lone halls of column’d Istakar,<br>
+To tread her ruin’d terraces, and gaze<br>
+On the cold moon, or Naptha’s fitful blaze;<br>
+And think upon those wretches that below<br>
+Move in one whirl of burning, endless woe.<br>
+&emsp;As yet young Hassan’s heart was free from crime;<br>
+But trust him not, the tempter knows his time—<br>
+The sting of pain, or sorrow’s wasting rage<br>
+May cloud with frowns the wrinkled brow of age;<br>
+But trust not him who, yet in sunny youth,<br>
+Wants the frank smile, the open glow of truth;<br>
+Whose cold perverted fancy never roves<br>
+To dream of faithful friends and happy loves,<br>
+But rashly wanders in ambition’s maze,<br>
+That winds, and knots, and darkens as he strays.<br>
+Not that ambition which for glory stakes<br>
+Peace, health, and life, and gilds the wreck it makes;<br>
+But that which, mindful of the present hour,<br>
+Stops not for crime, and grasps alone at power.<br>
+&emsp;Yet Hassan had a friend, and one whose mind<br>
+No bonds, save virtue’s, ever yet confin’d;<br>
+His thought through nature’s various realms would range,<br>
+Explore her wonders, ponder every change,<br>
+And own in all that Being, whose control<br>
+Created, keeps, and renovates the whole;<br>
+Bids the same laws the small and great confine,<br>
+Bids for one end discordant means combine;<br>
+One power renew what other powers destroy,<br>
+And clothes the whole in beauty and in joy.<br>
+&emsp;Oh! how could darkness love the cheerful light,<br>
+Or Nizam's smiles with Hassan's gloom unite?<br>
+Perchance, that though of different race, they drew<br>
+Milk from one breast, or through the morning dew<br>
+Chased the fierce panther, or the rapid deer,<br>
+Each, save his equal friend, without a peer.<br>
+Perchance, that both insatiate in the draught,<br>
+They from one fount the streams of science quaff'd<sup>f</sup><br>
+Nizam would snatch the blossom from the shoot,<br>
+And in its embryo trace the future fruit;<br>
+His friend would poison from the leaves distill,<br>
+And try on puny beasts its power to kill;<br>
+Honey from each the mind of Nizam stole,<br>
+From each its venom flow'd to Hassan's soul.<br>
+&emsp;The Persian Sultan heard of Nizam's worth;<br>
+From Casbin's peaceful shades he call'd him forth,<br>
+O'er all his realms his sole vicegerent made,<br>
+Loved as himself, and like himself obey'd.<br>
+But the young sage, though pomp and power were new,<br>
+To seek his friend from courtly scenes withdrew.<br>
+He found him on a rock, intent to throw<br>
+His baits upon the stream that foam'd below,<br>
+And while his panting victims round him lie,<br>
+To wanton in their dying agony.<br>
+“Up, Hassan—throw these childish sports aside,<br>
+Seek nobler game, an empire's cares divide;<br>
+Our bounteous Prophet," thus the youth began,<br>
+"Showers on thy friend the smiles of Arselan.<br>
+Come then to Shiraz—trust thy Nizam's care—<br>
+My wealth, my power, my Sovereign's favour share."<br>
+&emsp;His moody friend scarce rais'd his sullen eyes, 410 And thus with proud and curling lip replies: " What should I share?—think'st thou the gaudy gold That decks thy caftan and thy turban's fold Has charms for me?—that Hassan would resign His own free mountains for a fame like thine? My simple robes exclude the heat as well, Thy pomp but makes them heavier.—Canst thou tell For thee if richer fruits adorn the tree, Or shines the sun with brighter light—for thee?" " Dear Hassan, is it thus? Hast thou forgot 420 Our youth, our vow to share one common lot?* Art thou content! has thine aspiring mind All its ambitious views at once resigned?"— " No, fool! Ambition still is Hassan's joy, I scorn thy proffer, for I look more high;
 He that is foremost when the race begins, May cheat the betting crowd, but seldom wins. 'Tis thou that never yet her fire hast nurs'd— The second in the realm, and not the first! Thou lovest to hear the throngs that trumpet forth Thy mercy, justice, piety, and worth, (A thousand gifts that none discovered here, But heap them all upon their new Vizier j) Nor think'st those talents, now so lustrous grown, Would blaze with tenfold light beneath a crown. Thy master to thy grateful heart is dear; Be kind, and send him to a happier sphere. Thou start'st—then, Nizam, we are friends no more: Thou would'st not dare to look where I will soar. Without one bright tomaun, one robe of state, 440 I'll fix my power beyond the reach of fate; , High as the Simurgh's nest shall be my home, Where thou or Arselan can never come; I'll stand erect upon a lofty wall, When he shall totter—thou perchance may'st fall." Vex'd at the drops that gather'd in his eyes, With hands uprais'd sad Nizam thus replies: " Eternal God! is then the vision o'er? Can Hassan speak it, we arc friends no more!
 Ah, then farewell, clear streams and shadowy groves, And each dear witness of our early loves; Like the sad flowers that waste their virgin bloom, The lamp that glimmers in the silent tomb, Ye speak of broken ties, of pleasure past, Bright as the rainbow, and to fade as fast." Years roll'd away, and Nizam still approved His wondrous worth, by king and people loved, Bokhara's farthest bounds their rule obey, And flowery Cashmere courts so mild a sway. But to the west, amid Elburza's snows, 460 A mountain chief to strange dominion rose. He had not wealth the sordid soul to move, Nor those free manners that the generous love, Nor could his dwelling youth or age invite, The strongest fortress of a desert height. Yet he had followers, eager to fulfil What they believed their God's dictated will j Nay, some declared that wondrous man had given To them a foretaste of his promised heaven; And he who dared to doubt what they should tell, Or on his mind a strange conviction fell, Or murder struck him in his inmost cell. 3
 Slaves trembled for their lives, and kings were prone By his alliance to secure their own. h Yes! Hassan knew to луогк upon the soul, Till e'en instinctive conscience lost control. He knew each power that cuts the thread of life, What taint will enter with the venom'd knife; What unobserv'd will present death procure, What saps the hardy frame, unmark'd, but sure. 480 The toad, the basilisk of dangerous glance, The snake, whose noise betrays his swift advance, The shining fly with wings of emerald light, The dog that maddens with its phrenzied bite; Each weed that curses Afríc's sands, or grow T s By fens contagious, or on desert brows; The sullen yew, the fatal manchineal, Or those blue flowers that sense and feeling steal )* And all those mineral poisons, deadlier still, That earth secretes, were subject to his will. 490 Nor these alone—at midnight he would dwell On those dark books that things forbidden tell,— The spells of numbers, and in baleful hour, How holiest names may have unholy power.
