@@ -2296,7 +2296,7 @@ Where thou or Arselan can never come;<br>
 I’ll stand erect upon a lofty wall,<br>
 When he shall totter—thou perchance may’st fall.”<br>
 &emsp;Vex’d at the drops that gather’d in his eyes,<br>
-With hands uprais’d sad Nizam thus replies:
+With hands uprais’d sad Nizam thus replies:<br>
 “Eternal God! is then the vision o’er?<br>
 Can Hassan speak it, we are friends no more!<br>
 Ah, then farewell, clear streams and shadowy groves,<br>
@@ -2411,7 +2411,7 @@ Eternal joy, without that light within,<br>
 That faith—yea Christian thou account’st them blest,<br>
 Who quit the world, upon some mountain crest<br>
 To tame their rebel flesh by fasts severe,<br>
-Vigil, and prayer, and penitence austere.”
+Vigil, and prayer, and penitence austere.”<br>
 “Aye, Mountain Chief, the anchorite we prize,<br>
 Yet holiest they,” the ardent youth replies,<br>
 “Who pure as hermits in their rock-hewn cell,<br>
@@ -2626,6 +2626,7 @@ Looks in Maimoune’s eye, and thinks no more.
 
 ![curlicue](../cue.jpg)
 
+<a id="book12"></a>
 ## Book XII
 
 ### The Pilgrimage of Berengaria
