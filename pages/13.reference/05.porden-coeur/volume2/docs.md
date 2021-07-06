@@ -1732,7 +1732,7 @@ And Egypt’s King, and Sindjar’s valiant Lord;<br>
 Young Afdhal, worthy shoot of Ayoub’s race,<br>
 And bold Zeineddin, fair Arbelia’s grace,<br>
 Vied in their gifts; alone Almanzor frown’d—<br>
-When thus the Chief for ^sanguine arms renown’d:[^22]<br>
+When thus the Chief for sanguine arms renown’d:[^22]<br>
 ‘Warrior, this gem is thine, but know that He<br>
 Thy fraud preserved had found no grace from me;<br>
 Say that the Soldan’s camp is rich with one,<br>
