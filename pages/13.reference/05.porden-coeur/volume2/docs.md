@@ -2141,7 +2141,7 @@ Nor need voluptuous, and ’tis wholesome bread.”<br>
 &emsp;“Nay, father! who art thou, by seeming spell<br>
 That wait’st me here, and know’st that need so well?”<br>
 &emsp;“Hassan, the Mountain Prince!”<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;“Ah! then too late,”<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;;&emsp;&emsp;&emsp;&emsp;“Ah! then too late,”<br>
 The youth exclaim’d, “I know my dreadful fate,<br>
 For thou hast murder’s deadliest arts, to strike<br>
 The distant victim and the near, alike;<br>
