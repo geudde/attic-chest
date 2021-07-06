@@ -2344,23 +2344,302 @@ Nor these alone—at midnight he would dwell<br>
 On those dark books that things forbidden tell,—<br>
 The spells of numbers, and in baleful hour,<br>
 How holiest names may have unholy power.<br>
+By Kaf, in the Domdaniel’s caves accurst,<br>
+At Istakar, beside the fires they nurst,<br>
+He talk’d with those ’twere impious but to name;<br>
+At night on highest hills unhallow’d flame<br>
+Blazed for his orgies, and the cloudless moon<br>
+Withdrew her beam, though in her fullest noon.<br>
+But Arselan was gather’d to his sires,<br>
+And his brave son, whom frequent conquest fires,<br>
+From Omar’s gulf to Oxus’ frozen wave<br>
+Convenes his force to crush the rebel slave.<br>
+In vain—that Prince whom half the east obey’d,<br>
+Was powerless here; his army fear’d and fled.<sup>i</sup><br>
+His star grew dim, nor ever brighten’d more,<br>
+For Nizam, bulwark of his giant power,<br>
+Fell from his favour in that fatal hour.<br>
+Too late recall’d, while yet he rued the smart<br>
+Of courtly wrong, a dagger reach’d his heart.<br>
+Lamented Sage! was this thy mournful end?<br>
+Did Hassan thus requite his early friend?<br>
+&emsp;Sanjar, the Sultan, with a bolder train,<br>
+Assaults Alhamout’s rock-built fort in vain.<br>
+Amid his guards, and in his tent of pride,<br>
+The Ataghan was planted by his side:<br>
+“Did not the Mountain Prince thy worth revere,<br>
+Thy heart were softer than this marble here.”<sup>k</sup><br>
+Such was the Chief that sought the Christian yoke;<br>
+That Eudon and that Conrad dared provoke,<br>
+And Saladine disdain’d, till Hassan sent<br>
+Three midnight murderers to his inmost tent.<br>
+Startled he woke, and darkling baffled all,<br>
+Till the rous’d menials hasten’d at his call.<br>
+One wretch his arm had slain, a second fled,<br>
+And headlong leap’d the lofty balustrade;<br>
+The last with poison’d weapon pierce’d his side,<br>
+And gloried that in Hassan’s cause he died.<sup>i</sup><br>
+Such man was he, if he indeed were man,<br>
+Whose wondrous life surpass’d our mortal span,<br>
+Till he like Egypt’s cavern’d dead became,<br>
+Nor time had power upon his wither’d frame.<br>
+He sate in silence, and with serpent gaze<br>
+Watch’d the young Knight, whose cheek no dread betrays.<br>
+“Chief, I have proved my trust; requite it now.<br>
+Why am I here?”—In accents calm and slow<br>
+Grave Hassan spoke: “that all thy race may be<br>
+Won through thy teaching to my faith and me.”<br>
+“Nay, Hassan! I am better skiil’d to bleed<br>
+In Heaven’s pure cause, than reason on its creed;<br>
+And if its mysteries pass the mind of man,<br>
+Ill may I read what prelates cannot scan.<br>
+Prepare thy tortures,—Prince, I dare to die!<br>
+But never shall my recreant tongue deny<br>
+My vows baptismal, or this sacred sign<br>
+Given but to Christians, knighthood’s badge divine.”<br>
+&emsp;“If but to Christians, how to Saladine?”<br>
+The Chief rejoin’d; “but be thou mute and hear:<sup>m</sup><br>
+Like thee the One pure Being I revere;<br>
+And He whose humble steps Judea trod,<br>
+Inspired of Heaven, though misbelieved a God.<br>
+Nay, start not—is this truth unheard before?<br>
+Do half your Christian sects confess him more?—<br>
+But not to Him alone my faith is given,<br>
+For Islam’s Prophet is the priest of Heaven.<br>
+But nor Mahommed’s creed, nor Christ’s can win<br>
+Eternal joy, without that light within,<br>
+That faith—yea Christian thou account’st them blest,<br>
+Who quit the world, upon some mountain crest<br>
+To tame their rebel flesh by fasts severe,<br>
+Vigil, and prayer, and penitence austere.”
+“Aye, Mountain Chief, the anchorite we prize,<br>
+Yet holiest they,” the ardent youth replies,<br>
+“Who pure as hermits in their rock-hewn cell,<br>
+Have yet a sword to strike the infidel.”<br>
+“Forbear, rash Christian—curb thy venturous thought,<br>
+Nor give me vantage farther than I sought,<br>
+For such am I—for many a lonely year,<br>
+Such were my hours of abstinence and prayer;<br>
+Till the cold moonbeams blanch’d my naked head,<br>
+And from my brow the trace of passion fled;<br>
+Then dawn’d upon my soul a heavenly light.<br>
+By glimpses first, then purely, calmly bright.<br>
+Thou deem’st me curst, that human victims bleed<br>
+At my behest; and doubly curst indeed<br>
+Where I, if human passion bade their death:<br>
+But Heaven’s own oracles inspire my breath.<br>
+I know the holy transport,—calm and still<br>
+My humbled soul receives th’ Eternal Will;<br>
+Its chosen Avenger—yet my eyes grow dim,<br>
+And nature shudders, till I think of Him<br>
+Whose realm was ravaged by th’ offended Lord,<br>
+When human mercy check’d his conquering sword;<br>
+What praise was His, that with unmoisten’d eyes<br>
+Led forth his Son, the destin’d sacrifice;<br>
+How Judith’s hand th’ Assyrian’s life-blood shed,<br>
+How last, for man a Holier Victim bled.”<br>
+&emsp;“Pervert not thus,” burst forth th’ indignant youth,<br>
+To ends accurst th’ eternal Word of Truth.<br>
+Vengeance is his! or when to mortal given,<br>
+Has stamp’d in blood the characters of Heaven.<br>
+Its Will confined not to one narrow breast,<br>
+The sun has paus’d to view, the world confest.<br>
+But for a Holier Name—this den of death<br>
+Would sink in ruin, if I gave it breath.<br>
+Think of His life, thou fiend! and think of thine!<br>
+If thou hast power, miscall it not divine.”<br>
+&emsp;“Misjudging youth! nor at thy warmth I muse,<br>
+Nor chafe to hear—I pity and excuse<br>
+The zeal I soon shall prize; and give indeed,<br>
+To win thy faith, what should have been its meed.<br>
+My power, like that to zealous Peter given,<br>
+To those I love unfolds the gates of heaven;<br>
+Living they enter, living to return,<br>
+But ever, thirsting for that blest sojourn,<br>
+They work my bidding, nor can pain annoy,<br>
+Nor death appal—a death that leads to joy.<br>
+Say! if my spirits waft thee hence aloof,<br>
+Wilt thou believe? wilt thou abide the proof?”<br>
+&emsp;“Chief! I am in thy power,” the Knight replied,<br>
+“And well I guess that, were the proof denied,<br>
+Unarm’d as now thou seem’st, thy lightest words<br>
+Could fill these cups with death, this cave with swords.<br>
+Yet, wizard! practis’d as thou art, beware;<br>
+Clear be thy fountains and thine houris fair,<br>
+And green thy shades—they have not to deceive<br>
+One half-convinced in wishing to believe,<br>
+But one who trusts in Heaven’s sustaining power<br>
+To pierce the spells of thy Circean bower.”<br>
+&emsp;“Nay! think not of deceit, or death, or fear,<br>
+But share my cup, and know my love sincere.”<br>
+Th’ Ismailian spoke, “and more, if doubt oppress,<br>
+Or weariness intrude, (though well I guess<br>
+Thy stay will seem too short, that bower too dear),<br>
+One wish sincerely breath’d will waft thee here.<br>
+I know thee, Pardo! though not here display’d<br>
+Thy leopard shield; I know the hand that laid<br>
+Thee, helpless babe, where monarchs past, nor guest<br>
+That royal currents mingled in thy breast;<br>
+Nay, let not eager hope thy cheek inflame,<br>
+The hour, rash youth, that tells thy princely name,<br>
+Shall be an hour of torture and of shame.<br>
+To prove my friendship, hear one wonder more,—<br>
+Thy Monarch lives, but on a western shore.”<br>
+&emsp;He spoke, and deep the grateful liquor quaff’d,<br>
+The knight in silence took, and pledged the draught,<br>
+And sank, with deep and sudden trance opprest,<sup>n</sup><br>
+Ere he could ask one blessing on his rest.
 
-By Kaf, in the Domdaniel's caves accurst, At Istakar, beside the fires they nurst, He talk'd with those 'twere impious but to name; At night on highest hills unhallow'd flame Blazed for his orgies, and the cloudless moon Withdrew her beam, though in her fullest noon. 500 But Arselan was gather'd to his sires, And his brave son, whom frequent conquest fires, From Omar's gulf to Oxus' frozen wave Convenes his force to crush the rebel slave. In vain—that Prince whom half the east obey'd, Was powerless here; his army fear'd and fled. 1 His star grew dim, nor ever brighten'd more, For Nizam, bulwark of his giant power, Fell from his favour in that fatal hour. Too late recall'd, while yet he rued the smart 510 Of courtly wrong, a dagger reach'd his heart. Lamented Sage! was this thy mournful end? Did Hassan thus requite his early friend? Sanjar, the Sultan, with a bolder train, Assaults Alhamout's rock-built fort in vain. Amid his guards, and in his tent of pride, The Ataghan was planted by his side:
-" Did not the Mountain Prince thy worth revere, Thy heart ss-erc softer than this marble here.'" 1 Such was the Chief that sought the Christian yoke; That Eudon and that Conrad dared provoke, And Saladine disdain'd, till Hassan sent Three midnight murderers to his inmost tent. Startled he woke, and darkling baffled all, Till the rous'd menials hasten'd at his call. One wretch his arm had slain, a second fled, And headlong leap'd the lofty balustrade; The last with poison'd weapon picrce'd his side, And gloried that in Hassan's cause he died. 1 Such man was he, if he indeed were man, 530 Whose wondrous life surpass'd our mortal span, Till he like Egypt's cavern'd dead became, Nor time had power upon his wither'd frame- He sate in silence, and with serpent gaze Watch'd the young Knight, whose cheek no dread betrays, ť< Chief, I have proved my trust; requite it now. Why am I here?"—In accents calm and slow- Grave Hassan spoke: " that all thy race may bc Won through thy teaching to my faith and mc."
-íť Nay, Hassan í I am better skiil'd to bleed 540 In Hcaveu's pure cause, than reason on its creed; And if its mysteries pass the mind of man, 111 may I read what prelates cannot scan. Prepare thy tortures,—Prince, I dare to die! But never shall my recreant tongue deny My vows baptismal, or this sacred sign 4 Given but to Christians, knighthood's badge divine." > " If but to Christians, how to Saladine?" * The Chief rejoin'd; (i but be thou mute and hear: OT Like thee the One pure Being I revere; 550 And He whose humble steps Judea trod, Inspired of Heaven, though misbelieved a God. Nay, start not—is this truth unheard before? Do half your Christian sects confess him more?—- But not to Him alone my faith is given, For Islam's Prophet is the priest of Heaven. But nor Mahommed's creed, nor Christ's can win Eternal joy, without that light witimi, That faith—yea Christian thou account'st them blest, Who quit the world, upon some mountain crest 560 To tame their rebel flesh by fasts severe, Vigil, and prayer, and penitence austere."
-4Í Aye, Mountain Chief, the anchorite we prize, Yet holiest they," the ardent youth replies, " Who pure as hermits in their rock-hewn cell, Have yet a sword to strike the infidel." ťť Forbear, rash Christian—curb thy venturous thought, Nor give me vantage farther than I sought, For such am I—for many a lonely year, Such were my hours of abstinence and prayer; 570 Till the cold moonbeams blanch'd my naked head, And from my brow the trace of passion fled; Then dawn'd upon my soul a heavenly light. By glimpses first, then purely, calmly bright. Thou deem'st me curst, that human victims bleed At my behest; and doubly curst indeed Where I, if human passion bade their death: But Heaven's own oracles inspire my breath. I know the holy transport,—calm and still My humbled soul receives th' Eternal Will; 580 Its chosen Avenger—yet my eyes grow dim, And nature shudders, till I think of Him Whose realm was ravaged by th' offended Lord, When human mercy check'd his conquering sword; What praise was His, that with unmoisten'd eyes Led forth his Son, the destin'd sacrifice;
-How Judith's hand th' Assyrian's life-blood shed, How last, for man a Holier Victim bled."— " Pervert not thus," burst forth th' indignant youth, (i To ends accurst th' eternal Word of Truth.— 590 Vengeance is his! or when to mortal given, Has stamp'd in blood the characters of Heaven. Its Will confined not to one narrow breast, The sun has paus'd to view, the world confest. But for a Holier Name—this den of death Would sink in ruin, if I gave it breath. Think of His life, thou fiend! and think of thine! If thou hast power, miscall it not divine." {i Misjudging youth! nor at thy warmth I muse, Nor chafe to hear—I pity and excuse 600 The zeal I soon shall prize; and give indeed, To win thy faith, what should have been its meed. My power, like that to zealous Peter given, To those I love unfolds the gates of heaven; Living they enter, living to return, But ever, thirsting for that blest sojourn, They work my bidding, nor can pain annoy, Nor death appal—a death that leads to joy. Say! if my spirits waft thee hence aloof, Wilt thou believe? wilt thou abide the proof?" 610 VOL. ιι. ι
-ci Chief! I am in thy power," the Knight replied, "And well I guess that, were the proof denied, Unarm'd as now thou secm'st, thy lightest words Could fill these cups with death, this cave with swords. Yet, wizard! practis'd as thou art, beware; Clear be thy fountains and thine houris fair, And green thy shades—they has'e not to deceive One half-convinced in wishing to believe, But one who trusts in Heaven's sustaining power To pierce the spells of thy Circean bower." 620 " Nay! think not of deceit, or death, or fear, But share my cup, and know my love sincere." Th' Ismailian spoke, " and more, if doubt oppress, " Or weariness intrude, (though well I guess Thy stay will seem too short, that bower too dear), One wish sincerely breath'd will waft thee here. I know thee, Pardo! though not here display'd Thy leopard shield; I know the hand that laid Thee, helpless babe, where monarchs past, nor guest That royal currents mingled in thy breast; — 630 Nay, let not eager hope thy cheek inflame, \ The hour, rash youth, that tells thy princely name,p> Shall be an hour of torture and of shame. y
-To prove my friendship, hear one wonder more,— Thy Monarch lives, but on a western shore." He spoke, and deep the grateful liquor quafTd, The knight in silence took, and pledged the draught, And sank, with deep and sudden trance opprest," Ere he could ask one blessing on his rest. Sure there are hours when gentle spirits keep 640 Their hallow'd vigils o'er our reckless sleep; And e'en though dreams be hush'd, the conscious mind Awakes lo pleasure, nameless, undefined. Yet now less pure the subtle spell that stole A soft voluptuous thrill through Pardo's soul; Or that sweet voice, whose mellow cadence seems To echo those that charm'd his rapturous dreams. ťť The dews of morning gem the flower, The morning gales refresh the bower, And grateful birds to Heaven prolong 650 The incense of their matin song; Yet still their watch the Peries keep, To bless one earthly pilgrim's sleep. ι 2
-ťí Awake thee, youth! the moments fly, Too short will be thy dream of joy; Earth claims thee back to woe again, Till Azraei burst thy mortal chain. Then wake, thy store of rapture reap, Nor лvaste one hour of Heaven in sleep." The knight in thought had vanquished all the joys Voluptuous Moslems hope in Paradise, But lo! his sylphlike guard his breast alarms With no exuberance of obtruded charms; Her braided hair, her starry circlet bright, Her zone, her vesture of embodied light, That changed through every hue—Oh! could a form That aw'd assembled demons, fail to warm Such youth as his? through his delighted soul, With every glance insidious passion stole, So calm, so pure, that nor his virtuous pride, 670 Nor e'en Amina's image, rose to chide; Such love it seem'd as pious vestals feel For Saint or Angel watching o'er their weal. The pensive languor of Maimoune's eye, The breathing perfume of her gentle sigh,
-Charm'd more than smiles by earthly beauty given, They look'd, they whisper'd of her native heaven. She led him forth, while still the duteous grove Bow'd o'er her head in reverence and in love.* She shakes ætherial odours from her hair, 680 Disdains the envious turf, and glides in air. (C And is this Heaven? was ever, since the birth Of Sin and Death, such Paradise on earth? Can all be true that bards reveal'd of yore, Armida'? garden, and Acrasia's bower? Or of those starry halls where Peries wonn, Throned in the splendours of the evening sun? Shadukiam's golden towers, for ever bright, And Amberabad, sublime in purple light?"f A thousand fountains glitter'd in the beams, 690 A thousand flowers were imaged in the streams; And trees unknown extended wide and high Their long arcades, a leafy panoply.,i'3
-Th' unfading amaranth, with its gorgeous hue, The lotos, robed in empyrean blue, The rose, whose hundred leaves of beauty spread, Th' agave, rearing high its stately head; Less fair by Pharphar's banks the flowers appear, Or Yemen's glens, or valleys of Cashmere, Not brighter green the groves of Shiraz clad, 7OO Less pure Choaspes' fount, or vaunted Roenabad. It were a joy to list the waters flow, Or watch them rippling o'er the stones below; While fearless of the hook the fishes glide, Like living gems, and wanton in the tide; And birds like those (as Moslem tales presume) * In which just spirits wait their day of doom, Wave their green plumage o'er each lucid rill, Soft music murmuring from the rosy bill. And for the fragrance, 'twas that sense refined, / M That breathes a sweet delirium through the mind; That says a kindred spirit lingers nigh, And wakes the memory of forgotten joy.
-And oh! Maimoune's converse—ye who prove How trifles charm us from the lips Ave love, May guess what grace her look, her dulcet tone Lent to her speech, and made each theme her own; How doubly sweet to him, who left but now Elburza's cliffs, and Hassan's awful brow. Nor lack'd there aught that fabling Suras tell 7^0 Of that blest garden where Believers dwell; The crystal dew that falls in odorous showers, Cool streams of milk and wine, and pearly bowers; And here were palaces, that shine and seem As they had caught the morning's violet beam, While seats of flowers unfading, undeprest, Surround the glittering halls and tempt to rest; And banquets, such as kings in vain desire, Come with the wish, and at a wfch retire. ' f How fair," the youth exclaim'd, " how glorious this! 730 Yet why fbr us alone such la\ ish bliss?" (S Is yet thy sight so dim?" Mainionne said, And on his brow her rosy fingers laid; (k See where on mossy banks my sisteis lie. And lap the Faithful in eternal joy." ι 1
-He look'd again, aud radiant forms were seen In each cool grot, each shadowy walk of green, Beneath each trumpet-flower's gigantic bell, On each sweet tuft of golden asphodel; Their syiphic weight the docile peacocks bear, 740 They wanVon in the waves, they glide in air, With the light clouds they wheel in mazy dance, And rapture beams in each ætherial glance. Night comes not here; those dark and silent hours, When the warm sun no gladdening influence showers, Are gay with lamps, whose silver radiance falls In tenfold splendour from the crystal walls; The founts that breathing coolness through the glade Beneath his beams in rainbow beauty play'd; Blush as he sets, with innate lustre bright /50 Send through the gloom their thousand jets of light. New glory gilds th' acacia's polish'd stems·', Its flowers are spangled with the dancing genib; And as she sits beneath its feathery shade, A halo dances round Maimoune's head. E'en thus, beneath Magellan's southern skies, The ocean brightens as the daylight dies; Ami half alarm'd the mariners admire Their oars, their vessel, bathed in liquid fire.
-Here pleasure leads her joyous train along, 760 In one gay round of frolic, feast and song; Fatigue and pain the happy region fly, And slumber sits not on th' unwearied eye. The youth, forgetful how he braved the spell, Whose soft oblivion proved its power too well, Nor doubting if those bowers of bliss had given All pious Christians hope and dream of heaven, If sad reflection once asserts her power, Looks in Maimoune's eye, and thinks no more.,END OF BOOK XI.
-CŒUR DE LION.,BOOK XII.,THE PILGRIMAGE OF BERENGARIA.
-ARGUMENT.,THE PILGRIMAGE OF BERENGARIA. Return and story of Evanthe — Her wandering in the forest—The cemetery — Mysterious appearance of Leo¬ pold — His prisoner — Humanity of Aladin — Raymond accuses Bertrand of treachery — Story of Bertrand — Embassy of Aladin, and truce with the Soldan — Confession of the Assassin, and departure of ABer~ trand — The vision of Berengaria — She sails with Albert for Europe — Her shipwreck — Albert proceeds to England — Queen Eleanor — Narrative of events in Europe — Rebellion of John and perfidy of Philip Augustus—Albert arrives at his castle, and finds it deserted—Discovery of Edric—He relates the sur- príse of the castle and seizure of Rosabelle by a band of unknown warriors — Death of Edric, and departure of Albert for Germany.
-CŒUR DE LION.,BOOK XII.,THE PILGRIMAGE OF BERENGARIA. Three days are past—in vain is every glade Explored for Richard and the captive maid; To all the saints are solemn vows addrest, Each soul is bow'd; in many a haughty breast Wakes slumbering conscience; crimes forgotten long Speak from their graves, andforceth' accusing tongue. Dire penance follows, vigil, fast, and prayer, A thousand pious frauds to cheat despair; So may offended Heaven avert the stroke, And spare the judgment which those crimes provoke.
+Sure there are hours when gentle spirits keep<br>
+Their hallow’d vigils o’er our reckless sleep;<br>
+And e’en though dreams be hush’d, the conscious mind<br>
+Awakes lo pleasure, nameless, undefined.<br>
+Yet now less pure the subtle spell that stole<br>
+A soft voluptuous thrill through Pardo’s soul;<br>
+Or that sweet voice, whose mellow cadence seems<br>
+To echo those that charm’d his rapturous dreams.
+
+> “The dews of morning gem the flower,<br>
+> The morning gales refresh the bower,<br>
+> And grateful birds to Heaven prolong<br>
+> The incense of their matin song;<br>
+> Yet still their watch the Peries keep,<br>
+> To bless one earthly pilgrim’s sleep.
+> 
+> “Awake thee, youth! the moments fly,<br>
+> Too short will be thy dream of joy;<br>
+> Earth claims thee back to woe again,<br>
+> Till Azrael burst thy mortal chain.<br>
+> Then wake, thy store of rapture reap,<br>
+> Nor waste one hour of Heaven in sleep.”
+
+The knight in thought had vanquished all the joys<br>
+Voluptuous Moslems hope in Paradise,<br>
+But lo! his sylphlike guard his breast alarms<br>
+With no exuberance of obtruded charms;<br>
+Her braided hair, her starry circlet bright,<br>
+Her zone, her vesture of embodied light,<br>
+That changed through every hue—Oh! could a form<br>
+That aw’d assembled demons, fail to warm<br>
+Such youth as his? through his delighted soul,<br>
+With every glance insidious passion stole,<br>
+So calm, so pure, that nor his virtuous pride,<br>
+Nor e’en Amina’s image, rose to chide;<br>
+Such love it seem’d as pious vestals feel<br>
+For Saint or Angel watching o’er their weal.<br>
+The pensive languor of Maimoune’s eye,<br>
+The breathing perfume of her gentle sigh,<br>
+Charm’d more than smiles by earthly beauty given,<br>
+They look’d, they whisper’d of her native heaven.<br>
+She led him forth, while still the duteous grove<br>
+Bow’d o’er her head in reverence and in love.[^26]<br>
+She shakes ætherial odours from her hair,<br>
+Disdains the envious turf, and glides in air.<br>
+&emsp;“And is this Heaven? was ever, since the birth<br>
+Of Sin and Death, such Paradise on earth?<br>
+Can all be true that bards reveal’d of yore,<br>
+Armida’s garden, and Acrasia’s bower?<br>
+Or of those starry halls where Peries wonn,<br>
+Throned in the splendours of the evening sun?<br>
+Shadukiam’s golden towers, for ever bright,<br>
+And Amberabad, sublime in purple light?”[^27]<br>
+&emsp;A thousand fountains glitter’d in the beams,<br>
+A thousand flowers were imaged in the streams;<br>
+And trees unknown extended wide and high<br>
+Their long arcades, a leafy panoply.<br>
+Th’ unfading amaranth, with its gorgeous hue,<br>
+The lotos, robed in empyrean blue,<br>
+The rose, whose hundred leaves of beauty spread,<br>
+Th’ agave, rearing high its stately head;<br>
+Less fair by Pharphar’s banks the flowers appear,<br>
+Or Yemen’s glens, or valleys of Cashmere,<br>
+Not brighter green the groves of Shiraz clad,<br>
+Less pure Choaspes’ fount, or vaunted Rocnabad.<br>
+&emsp;It were a joy to list the waters flow,<br>
+Or watch them rippling o’er the stones below;<br>
+While fearless of the hook the fishes glide,<br>
+Like living gems, and wanton in the tide;<br>
+And birds like those (as Moslem tales presume)[^28]<br>
+In which just spirits wait their day of doom,<br>
+Wave their green plumage o’er each lucid rill,<br>
+Soft music murmuring from the rosy bill.<br>
+And for the fragrance, ’twas that sense refined,<br>
+That breathes a sweet delirium through the mind;<br>
+That says a kindred spirit lingers nigh,<br>
+And wakes the memory of forgotten joy.<br>
+And oh! Maimoune’s converse—ye who prove<br>
+How trifles charm us from the lips we love,<br>
+May guess what grace her look, her dulcet tone<br>
+Lent to her speech, and made each theme her own;<br>
+How doubly sweet to him, who left but now<br>
+Elburza’s cliffs, and Hassan’s awful brow.<br>
+&emsp;Nor lack’d there aught that fabling Suras tell<br>
+Of that blest garden where Believers dwell;<br>
+The crystal dew that falls in odorous showers,<br>
+Cool streams of milk and wine, and pearly bowers;<br>
+And here were palaces, that shine and seem<br>
+As they had caught the morning’s violet beam,<br>
+While seats of flowers unfading, undeprest,<br>
+Surround the glittering halls and tempt to rest;<br>
+And banquets, such as kings in vain desire,<br>
+Come with the wish, and at a wish retire.<br>
+&emsp;“How fair,” the youth exclaim’d, “how glorious this!<br>
+Yet why for us alone such lavish bliss?”<br>
+&emsp;“Is yet thy sight so dim?” Maimoune said,<br>
+And on his brow her rosy fingers laid;<br>
+“See where on mossy banks my sisters lie.<br>
+And lap the Faithful in eternal joy.”<br>
+&emsp;He look’d again, aud radiant forms were seen<br>
+In each cool grot, each shadowy walk of green,<br>
+Beneath each trumpet-flower’s gigantic bell,<br>
+On each sweet tuft of golden asphodel;<br>
+Their sylphic weight the docile peacocks bear,<br>
+They wanton in the waves, they glide in air,<br>
+With the light clouds they wheel in mazy dance,<br>
+And rapture beams in each ætherial glance.<br>
+&emsp;Night comes not here; those dark and silent hours,<br>
+When the warm sun no gladdening influence showers,<br>
+Are gay with lamps, whose silver radiance falls<br>
+In tenfold splendour from the crystal walls;<br>
+The founts that breathing coolness through the glade<br>
+Beneath his beams in rainbow beauty play’d;<br>
+Blush as he sets, with innate lustre bright<br>
+Send through the gloom their thousand jets of light.<br>
+New glory gilds th’ acacia’s polish’d stems,<br>
+Its flowers are spangled with the dancing gems;<br>
+And as she sits beneath its feathery shade,<br>
+A halo dances round Maimoune’s head.<br>
+E’en thus, beneath Magellan’s southern skies,<br>
+The ocean brightens as the daylight dies;<br>
+And half alarm’d the mariners admire<br>
+Their oars, their vessel, bathed in liquid fire.<br>
+&emsp;Here pleasure leads her joyous train along,<br>
+In one gay round of frolic, feast and song;<br>
+Fatigue and pain the happy region fly,<br>
+And slumber sits not on th’ unwearied eye.<br>
+The youth, forgetful how he braved the spell,<br>
+Whose soft oblivion proved its power too well,<br>
+Nor doubting if those bowers of bliss had given<br>
+All pious Christians hope and dream of heaven,<br>
+If sad reflection once asserts her power,<br>
+Looks in Maimoune’s eye, and thinks no more.
+
+![curlicue](../cue.jpg)
+
+## Book XII
+
+### The Pilgrimage of Berengaria
+
+Three days are past—in vain is every glade<br>
+Explored for <span class="smallcaps">Richard</span> and the captive maid;<br>
+To all the saints are solemn vows addrest,<br>
+Each soul is bow’d; in many a haughty breast<br>
+Wakes slumbering conscience; crimes forgotten long<br>
+Speak from their graves, and force th’ accusing tongue.<br>
+Dire penance follows, vigil, fast, and prayer,<br>
+A thousand pious frauds to cheat despair;<br>
+So may offended Heaven avert the stroke,<br>
+And spare the judgment which those crimes provoke.
 At length Evanthe came, but weak and pale, As flitting spectres in the twilight vale. She sought the council-hall, and fearful roll'd Her hollow eye, " Where, where b Leopold?" " Ha!" thought her lover, " did he share her heart? " Know'st thou not, Princess, since we saw him part, The moon has wax'd and wan'd? But dost thou bring No words of hope, no tidings of the King?" cť The King!" she cried—' v Oh Heaven! what dreadful light Breaks on the doubtful visions of the night! 20 But, save for ill, could Austria linger here?— Nay do not smile, I am not crazed by fear, Last night I saw the traitor—must I call The Lion Heart his victim or his thrall?" Chill horror reign'd, while each revolves too late His mutter'd threats and ill-dissembled hate. Yet how contrived? such treason might demand A bolder genius and a firmer hand. The Queen approach'd, but soon Evanthe's tears, Chase her young smiles and waken darker fears; 30 Silent she clasps her friend, her sorrows flow In mournful prescience of th' unutter'd woe.
 But she who seem'd as though her breaking heart Had ceas'd to beat, arises with a start: " I must not linger, or my strength will fail, Ere I can utter half the dreadful tale. ť Thatnight," (but here a blush her cheek o'erspread) " When from your side in yonder grove I stray'd, Heedless I wander'd, seeking many a flower In childhood cherish'd on my natal shore, 40 Till darkness gather'd round—I sought again My distant friends;—I ran, I cail'd in vain; And fear, that rous'd my cries, at length subdued, Fear of the savage beasts that haunt the wood. Now midnight came, but then í reach'd a dell, Where a cool fount in pleasing murmurs fell; I drank the clear fresh wave, and almost blest The chance that gave so sweet a place of rest. Day dawn'd at last, the turf was stain'd with gore, Nor was the victim far, a mighty boar; 50 The King perchance to this green spot had chased The lordly prey, abandon'd in his haste. Yet slowly I the track of steeds pursued, "4 My steps were feeble, and the луау was rude, > And daylight faded ere I left the wood. J
 Blue misty hills the northern prospect crown'd, But where the ocean form'd a nearer bound White buildings rose; with all the little force I yet could summon, I renew'd my course. Alas! too soon I found my hope betray'd; 60 O'er turban'd domes the mournful cypress spread, A place of grief, a City of the Dead; Vast as Larneca, where in endless line, On Cyprus' shore the marble fabrics shine.* My heart gresy sick—was this my destined home, E'en while I breathed, a tenant of the tomb? Living to waste beside the wasting dead, No eye to mourn me, and no prayer to aid. Yet Fancy slept with all her idle gear Of gouies and goblins, childhood's favourite fear; 70 Nor was my heart unnerv'd by conscious sin, I cail'd on Mary's name, and ventur'd in. Soft gleaming from a new-built tomb, a light Shone, like a friend amid the dismal night. The senseless clay луа8 sepulchred beneath, But o'er the bier, in all the pomp of death, The snow-white pall was spread; soft odours came From virgin flowers, and lamps of silver frame From Saba's oils dispens'd a fragrant flame.
@@ -2731,3 +3010,9 @@ Note (e), page 354, line 713. Tke easy price of that triumphant day. Only two pe
 [^24]: The two friends had vowed that whichever should first obtain wealth or honours should immediately share them with the other: a vow often paralleled by the knightly “brothers in arms.”
 
 [^25]: Certain alpine regions are said to produce a small and beautiful blue flower, whose exhalations deprive the gatherer of sense. It is even reported that its effects have been fatal when conveyed in a letter.
+
+[^26]: Alluding to the Mimosa, “that courteous tree,” which bends its graceful branches as a sort of welcome to the traveller who seeks its shade.
+
+[^27]: Shadukiam and Amberabad, two cities of the Peries in Ginnistan, or fairy land. The brilliant colours of the setting sun are the reflection of their splendour.
+
+[^28]: There is much difference among Mohommedans as to the state of the soul between its separation from the body and its final judgment; but there is a popular belief that the spirits of the just inhabit the gardens of Paradise in the shape of green birds.
