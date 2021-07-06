@@ -1973,11 +1973,101 @@ Yields to the warrior’s hand,—he ventures in.<br>
 It was a garden, such as Arabs love,<br>
 Half art, half nature, wilderness and grove.<br>
 Myrtle and orange here, and cassia grows,<br>
-The dusky olive, and the glowing rose,<sup>c</sup>
-Here the lost stream, in mazy channels led, Cools the hot breeze, and visits every shade; The thick-wove foliage of the laurel bower, And the pale star of sad Amina's flower. But all was lonely, not a living sound— 130 And now he ventures on forbidden ground; The Haram walls, as infant, maid, or wife, Where Moslem beauty wastes her captive life. 'Tss as not the thought that death might wait him there, That with a strange oppression loads the air; That stole its freshness from each fount that falls In diamond showers wi thin the glittering halls, Where eastern luxury all her pride displays, In many a lamp of gold and sculptured vase, Or made the gay kitarr and amorous lute, 140 E'en to a lover's active fancy, mute. The bath, whose wasses a costly scent diffuse, And shine o'er marble of a thousand hues; Where roseate curtains shed voluptuous light, And silken seats the weary limbs iuvite; Charm'd not the warrior's free-born sense, nor stole One softer feeling through his kindling -oul. tc No!" he exclaim'd, " a purer stream T quaffd, This Circe's cup has poison in the draught;
-The bird within its gilded cage may sing, 150 That never knew through azure fields to spring; Ana oeauty may be idly happy here Nor dream that heaven had will'd a higher sphere; That she has sweeter duties, nobler powers, Or soul more lasting than those birds and flowers. And yet I love an Arab maid!—but why? Because her spirit sparkles in her eye, And inborn greatness lifts her far above These idle triflings that her sisters love." Swift through the gloomy passages he ran, 160 That join the Haram to the halls of man. d But could a despot's lone abode impart A sense more grateful to a Christian's heart, Without one spell the hateful truth to hide, They spoke of rapine, cruelty and pride. The cells where many a wretched, hopeless slave Toils, bleeds, and sinks unpitied to the grave; The long divan in Persian silks array'd, The curtain'd galleries round the chamber spread, Or those beneath, where day shall never come, 170 "\ Where martial spoils are shrouded in the gloom, ч Or murder hides the victim and the tomb;« \
-Shuddering he saw; but all was lonely there, And forth he rush'd to breathe a freer air. He reached the court, where still in Arab state, Chain'd by the foot, two harness'd coursers wait.* One dark as stormy clouds or wintry night, One as the lily's spotless blossom, white. " Wide is the plain, and hot the noontide ray, No branches now will check a horseman's way; 180 Fortune, 1 take thy proffer'd gift—Oh! speed My anxious wandering, as thou send'st the steed;— For thee, thou raven beast, my cause is slight To love thy dusky hue,—I choose the white." But Httle use he found of spur or rein, For like an arrow glancing o'er the plain, As with his freedom pleas'd, th' unfetter'd steed Holds on his course with more than mortal speed. Soon has he left each cultured scene behind, He skims the sand, he snuffs the desert wind; 190 Bounds where th* enduring camel moves with pain, And the red waves are like the stormy main. The warrior faints beneath the noontide heat, 'Gainst the hot casque his painful temples beat,
-Yet o'er the waste, with unabating force, The wondrous courser holds hîs arrowy course. At last, 'twas at the sunset hour, he staid Where fruitful palms a desert fountain shade; And cooler gales its belt of herbage fann'd, A verdant island in that sea of sand. 200 With joy the wanderer quits his wilful guide, Culls the ripe dates, and drinks the cooling tide, And slept—till with the morn beside him stood The wond'rous horse, and seem'd to court his load. ťí Methinks, if once from this waste region freed, The sluggish ass shall be my battle steed; I well deserve to lunar wilds to soar, If, black or white, I trust in palfrey more í Who knows the treason should the traitor fly,— But sands surround me I must mount or die." 210 Thus still the Knight o'er desert realms was borne, While swelling Cynthia fill'd her silver horn; Nor man he saw, nor aught of living kind, Save the vast ostrich, running with the wind; Or the swift pelican, that flies to bring Her nestlings water from the distant spring, While still the courser stopp'd, as evening fell, Where clustering palm trees shade the lonely well,
+The dusky olive, and the glowing rose,<sup>c</sup><br>
+Here the lost stream, in mazy channels led,<br>
+Cools the hot breeze, and visits every shade;<br>
+The thick-wove foliage of the laurel bower,<br>
+And the pale star of sad Amina’s flower.<br>
+But all was lonely, not a living sound—<br>
+And now he ventures on forbidden ground;<br>
+The Haram walls, as infant, maid, or wife,<br>
+Where Moslem beauty wastes her captive life.<br>
+’Twas as not the thought that death might wait him there,<br>
+That with a strange oppression loads the air;<br>
+That stole its freshness from each fount that falls<br>
+In diamond showers within the glittering halls,<br>
+Where eastern luxury all her pride displays,<br>
+In many a lamp of gold and sculptured vase,<br>
+Or made the gay kitarr and amorous lute,<br>
+E’en to a lover’s active fancy, mute.<br>
+The bath, whose wasses a costly scent diffuse,<br>
+And shine o’er marble of a thousand hues;<br>
+Where roseate curtains shed voluptuous light,<br>
+And silken seats the weary limbs iuvite;<br>
+Charm’d not the warrior’s free-born sense, nor stole<br>
+One softer feeling through his kindling soul.<br>
+“No!” he exclaim’d, “a purer stream I quaff’d,<br>
+This Circe’s cup has poison in the draught;<br>
+The bird within its gilded cage may sing,<br>
+That never knew through azure fields to spring;<br>
+And beauty may be idly happy here<br>
+Nor dream that heaven had will’d a higher sphere;<br>
+That she has sweeter duties, nobler powers,<br>
+Or soul more lasting than those birds and flowers.<br>
+And yet I love an Arab maid!—but why?<br>
+Because her spirit sparkles in her eye,<br>
+And inborn greatness lifts her far above<br>
+These idle triflings that her sisters love.”<br>
+&emsp;Swift through the gloomy passages he ran,<br>
+That join the Haram to the halls of man.<sup>d</sup><br>
+But could a despot’s lone abode impart<br>
+A sense more grateful to a Christian’s heart,<br>
+Without one spell the hateful truth to hide,<br>
+They spoke of rapine, cruelty and pride.<br>
+The cells where many a wretched, hopeless slave<br>
+Toils, bleeds, and sinks unpitied to the grave;<br>
+The long divan in Persian silks array’d,<br>
+The curtain’d galleries round the chamber spread,<br>
+Or those beneath, where day shall never come,<br>
+Where martial spoils are shrouded in the gloom,<br>
+Or murder hides the victim and the tomb;<sup>e</sup><br>
+Shuddering he saw; but all was lonely there,<br>
+And forth he rush’d to breathe a freer air.<br>
+He reached the court, where still in Arab state,<br>
+Chain’d by the foot, two harness’d coursers wait.[^23]<br>
+One dark as stormy clouds or wintry night,<br>
+One as the lily’s spotless blossom, white.<br>
+&emsp;“Wide is the plain, and hot the noontide ray,<br>
+No branches now will check a horseman’s way;<br>
+Fortune, 1 take thy proffer’d gift—Oh! speed<br>
+My anxious wandering, as thou send’st the steed;—<br>
+For thee, thou raven beast, my cause is slight<br>
+To love thy dusky hue,—I choose the white.”<br>
+&emsp;But little use he found of spur or rein,<br>
+For like an arrow glancing o’er the plain,<br>
+As with his freedom pleas’d, th’ unfetter’d steed<br>
+Holds on his course with more than mortal speed.<br>
+Soon has he left each cultured scene behind,<br>
+He skims the sand, he snuffs the desert wind;<br>
+Bounds where th’ enduring camel moves with pain,<br>
+And the red waves are like the stormy main.<br>
+The warrior faints beneath the noontide heat,<br>
+’Gainst the hot casque his painful temples beat,<br>
+Yet o’er the waste, with unabating force,<br>
+The wondrous courser holds his arrowy course.<br>
+&emsp;At last, ’twas at the sunset hour, he staid<br>
+Where fruitful palms a desert fountain shade;<br>
+And cooler gales its belt of herbage fann’d,<br>
+A verdant island in that sea of sand.<br>
+With joy the wanderer quits his wilful guide,<br>
+Culls the ripe dates, and drinks the cooling tide,<br>
+And slept—till with the morn beside him stood<br>
+The wond’rous horse, and seem’d to court his load.<br>
+&emsp;“Methinks, if once from this waste region freed,<br>
+The sluggish ass shall be my battle steed;<br>
+I well deserve to lunar wilds to soar,<br>
+If, black or white, I trust in palfrey more!<br>
+Who knows the treason should the traitor fly,—<br>
+But sands surround me I must mount or die.”<br>
+&emsp;Thus still the Knight o’er desert realms was borne,<br>
+While swelling Cynthia fill’d her silver horn;<br>
+Nor man he saw, nor aught of living kind,<br>
+Save the vast ostrich, running with the wind;<br>
+Or the swift pelican, that flies to bring<br>
+Her nestlings water from the distant spring,<br>
+While still the courser stopp’d, as evening fell,<br>
+Where clustering palm trees shade the lonely well,<br>
+
 And welcome sleep the wanderer's strength renew'd, The spring his beverage, and the date his food. 220 At length more wild the barren region grows, Near the hot desert snow-crown'd mountains rose; The dews fell thick, the evening gale blew chill, As rush'd the steed up many a rugged hill. Each glen seem'd ruder, keener every blast, And each steep ridge was loftier than the last. And now he reach'd a height—one well might deem The moon shed coldness in her piercing beam, On naked peaks and brows for ever white, And azure glaciers, glittering in the light. 230 But still by many a torrent's dangerous edge, By many a precipice, whose slippery ledge The mule might fear, with unabated speed, And surer footing bounds th' unwearied steed. From a broad arch of undissolving snow A rushing torrent sought the dell below; Undazzled by the foam, or glittering light Of pendant ice that fringed that vault of white, The steed plunged in, where not a straggling beam Shew'd the dark cradle of the roaring stream. 240 Onward he holds, nor heeds the dashing spray, Nor fails his footing on that darfgerous way; vol. и. и
 Tbc dread abyss might seem the path of hell, Till opening on a rock-encircled dell, Whose smooth ¡steep ^klesshako olì the feathtrv якт And shut the moonbeams from the depth below; Save where one fallen peak with ruin strew'd The rocky bottom, fragments vast and rude; And, through the chasm, one silver ray wat> fluiur, Whei e on the adverse wall a bugle hung. 250 Its ample round the youth w ith music filte, And wakes the echoes of a thousand hills; When lo! the flinty barrier rolls away, And unseen doors a lamp-lit cave display. t4 Almighty Power! what now thy will 5 " he cried, But be thou yet my guardian and my guide," He quits bis steed, which started off agen, Draws his bright sword, and plunges in the den. Again the valves have closed, the walls repeat Nought save the echoes of his rapid feet; 260 Shew nought but rocks with tawny moss o'ergrown, Or where the snoss r > damps filter through the stone; The half-froze drop that caught the flickering light, White clustering spar, and pendant stalactite. " Oft have I heard, in Arab story told, How scaly dragons guard the cavern'd gold,
 And fam ssould tomt -udi bold emprizc but feai Aladdin s guttering garden -.hine- not hti c; And though I lubb'd son пЫ> cresset-· bright, The} ssould not bung ont giant friend to light, 270 Ebe should his lips a monarch' 1 * stors teP— Alas! ms own ь doubtful' ss bo can dwell In scents like these, whose sas age gloom w ould îi îght The holiest sage, tK sternest Ei emite } My living dungeon, and pei chance ms giasc 1 But lo ' ss here jon white seil disiden the case "■— T'ss'as but a bound,—he long'd to know his doom, He drew it back, and stood ss ithin a ι oom, Shewn by a single lamp, half glaie. half gloom. Its lustre fell upon a plain divan, 280 Where ¡sate m robes of winte an aged man. Nor joy nor fear his changeless check exprcit, To daunt or welcome hb astonibh'd guest, While pointing to the coarse ι epast that spread Th' untap'stried floor, in tianquil tone he said: ' ť Hail, Christian t thou art late—advance and eat, Hunger like thine should make the banquet sweet; — Nay , pause not—wairiois are not nicely fed, Nor need voluptuous, and 'tis wholesome bread ' h S
@@ -2370,3 +2460,5 @@ Note (e), page 354, line 713. Tke easy price of that triumphant day. Only two pe
 [^21]: “The course of true love never did run smooth.”
 
 [^22]: Zorayda.
+
+[^23]: It is a piece of Arab state to have one or more horses, ready saddled and bridled, chained by the foot in the court-yard of the house.
