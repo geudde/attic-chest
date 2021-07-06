@@ -2278,3 +2278,5 @@ Note (e), page 354, line 713. Tke easy price of that triumphant day. Only two pe
 [^20]: The siege of Milan was one of the most arduous enterprizes of Frederick Barbarossa, who employed against that obstinate city all the artillery of antient and chivalrous times.
 
 [^21]: “The course of true love never did run smooth.”
+
+[^22]: Zorayda.
