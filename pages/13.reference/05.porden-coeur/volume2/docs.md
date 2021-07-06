@@ -81,7 +81,7 @@ Fame to the past, or solace those that live,<br>
 In Arsouf’s walls the honour’d corse await—<br>
 (Arsouf, where ruled his valiant sires so late).[^1]<br>
 &emsp;New grief succeeds; Matilda’s loss he hears!<br>
-Now wrath inspires, and now fraternal fears.—<br>
+Now wrath inspires, and now fraternal fears.<br>
 Now would he follow through the night, and claim,<br>
 By force and threat’ning arms, the ravish’d dame.<br>
 Now reason rules; his calmer feelings rest<br>
@@ -113,7 +113,7 @@ Who list the giant on his mountain throne!<br>
 Then sunk the storm, and many a verdant brow<br>
 Shone, like blest islands on a lake of snow;<br>
 Broad rose the rayless sun, and widely spread<br>
-The skies with gold, the billowy mist with red.—<br>
+The skies with gold, the billowy mist with red.<br>
 But lo! those mists have melted in his beam,<br>
 Or lingering only near each mountain stream,<br>
 In fleecy wreaths, like clouds of summer skies,<br>
@@ -278,7 +278,7 @@ Without her sanction plight Matilda’s hand?—<br>
 I call my council,—thou meanwhile may’st bear<br>
 My courteous greetings to the Soldan’s ear;<br>
 Whate’er of friendship war like ours can know,<br>
-Christian and Infidel, or foe and foe.—<br>
+Christian and Infidel, or foe and foe.<br>
 Say, should we close our contest or renew,<br>
 If e’er again mу native land I view,<br>
 Not his own bards in warmer phrase than mine<br>
@@ -427,10 +427,10 @@ To be the bond of peace, to free again<br>
 That Tomb which myriads bled to win, in vain;<br>
 Proud is the destiny—so proud, so high,<br>
 How gladly could I grasp such prize and die!<br>
-But years of misery wait thee; ‘tis not now<br>
+But years of misery wait thee; ’tis not now<br>
 Thy heart shall pay the penance of thy vow:<br>
 Wounds are but spurs in battle’s glorious day,<br>
-‘Tis the slow cure that wears the soul away.<br>
+’Tis the slow cure that wears the soul away.<br>
 To one—ah, pause!—a lawless Moslem, chain’d,<br>
 Thy faith contemn’d, thy liberty restrain’d,<br>
 That sickness of the soul, the exile’s curse,<br>
@@ -451,7 +451,7 @@ And with a voice supprest the Queen replied:<br>
 His love might pardon, but his reason blame.<br>
 Oh! Raymond, more than thou or he I know<br>
 Each certain sacrifice, each threaten’d woe:<br>
-What ‘tis to part with all that sweetens life,<br>
+What ’tis to part with all that sweetens life,<br>
 Yet lack whate’er endears the name of wife.<br>
 Yet why such thoughts, when Solyma shall be<br>
 Freed to each Christian step, and freed by me!<br>
@@ -466,7 +466,7 @@ Where all I love shall meet—to part no more.<br>
 Then rouse thee, Richard, hast thou cause for shame?<br>
 Oh! no, thy sister will not taint thy fame.<br>
 Look on thy own Matilda, look, for here<br>
-‘Tis I should falter, and ‘tis thou should’st cheer.”<br>
+’Tis I should falter, and ’tis thou should’st cheer.”<br>
 &emsp;“Alas!” he answered, “all the pride I feel<br>
 In thy pure faith, thy self-devoted zeal,<br>
 Makes but thy loss more dear; yet shall not He<br>
@@ -487,7 +487,7 @@ Fierce though he be, in one communion join’d,<br>
 No separate truce our selfish hands should bind.”<br>
 &emsp;“Yet hear me, King, one moment I implore,<br>
 By this, the ensign of my pastoral power!”<br>
-‘Twas Hubert spoke. “I had not paused so long?<br>
+’Twas Hubert spoke. “I had not paused so long?<br>
 But hoped the sanction of some elder tongue.<br>
 <span class="smallcaps">Richard</span>, not yours the choice of war or peace,<br>
 Nor can yourselves your own free vows release:<br>
@@ -552,7 +552,7 @@ The actual city in aerial clouds.”<br>
 &emsp;“Nay,” Albert spoke, “observe upon our right<br>
 Those low-built dwellings, glittering in the light,<br>
 Like Moslem tombs; they speak the city nigh,<br>
-‘Tis but yon grove that veils it from the eye.”<br>
+’Tis but yon grove that veils it from the eye.”<br>
 Swift to the spot the eager troops advance,<br>
 Then, fill’d with awe, exchange th’ inquiring glance.<br>
 “Where is the proud, the mighty city gone?<br>
@@ -648,7 +648,7 @@ The tombs of ancient saints, the mosques of prayer;<br>
 Till the high feeling caught from man to man,<br>
 Each with his home the work of fate began;<br>
 O’er its slow wreck his sullen vigil kept,<br>
-The eye was tearless, ‘twas the heart that wept.<br>
+The eye was tearless, ’twas the heart that wept.<br>
 Each fatal hour some princely pile consumed,<br>
 Night after night terrific fires illumed;<br>
 Till the dark heavens their silent sorrows shed<br>
@@ -717,8 +717,8 @@ Christian! my woes shall be no jest for thee!”<br>
 &emsp;“Where is this boy?” “Where! that should I demand—<br>
 On Arsouf’s plain he perish’d by thy hand!<br>
 Where sleeps he now? perchance that cruel breast—<br>
-‘Tis said thy hatred loves the impious feast.”<br>
-&emsp;“Nay, ‘tis thy frenzied malice forged the tale—<br>
+’Tis said thy hatred loves the impious feast.”<br>
+&emsp;“Nay, ’tis thy frenzied malice forged the tale—<br>
 Old man, I know how little words avail,<br>
 Yet oft I mourn the blood my hand has shed;<br>
 What would’st thou now? can I relieve or aid?”<br>
@@ -889,7 +889,7 @@ If thou hast seen where Sion’s ramparts rise,<br>
 Thou know’st by Silöe’s brook her Golden Gate;[^12]<br>
 If there some moonless night thou dare to wait<br>
 Till the mid-watch be set, I know a spell<br>
-May ope the Haram’s jealous doors—farewell.—<br>
+May ope the Haram’s jealous doors—farewell.<br>
 Better to rush on death than thus to pine,<br>
 And if betray’d, my life is risqued with thine.”<br>
 But Richard’s eye o’er countless spoils has run,<br>
@@ -1067,7 +1067,7 @@ But back he came not. Hark! that piercing shriek,<br>
 Which drives the blood from every fading cheek!<br>
 Each seized a torch, and rushing forth in fear,<br>
  Ran to a grove that rose in darkness near.<br>
-They start, they scream, ‘twas Conrad’s bleeding form,<br>
+They start, they scream, ’twas Conrad’s bleeding form,<br>
 So lately rich with life, with fury warm,<br>
 Thus murder’d, unconfessing, unforgiven.<br>
 And meditating outrages on Heaven.<br>
@@ -1116,7 +1116,7 @@ Why is it cross’d? why died he unforgiven?<br>
 I lived to tread tbe earth that Conrad trod,<br>
 To reconcile the offending wretch to God;<br>
 I lived —I saw him fall a murderer’s prey,<br>
-I saw his spirit pass unblest away.—<br>
+I saw his spirit pass unblest away.<br>
 Earth is a desert now, and oh, despair!<br>
 Heaven too were joyless, for he is not there!<br>
 &emsp;“But see that drop—those noble limbs are chill!<br>
@@ -1214,7 +1214,7 @@ Whose, but the man that profits in his fall,<br>
 He, now the proudest, mightiest of us all;<br>
 Who talk’d of peace (a peace he means to break),<br>
 Yet brook’d not Conrad separate terms should seek;<br>
-‘Tis plain—his nephew weds the widow’d dame,<br>
+’Tis plain—his nephew weds the widow’d dame,<br>
 To rise on Lusignan’s abandon’d claim.”<br>
 &emsp;“Prais’d be St. Ursula!” cried Leopold,<br>
 “A stranger’s tongue my secret thought has told.<br>
@@ -1354,14 +1354,14 @@ To yield a prey that almost courts your hand!<br>
 Sail then—but here I fix my proudest stand;<br>
 My glory living or my death betray’d,<br>
 Shall stamp your infamy, and mock your aid.<br>
-And oh! for England—solemnly ‘twas given<br>
+And oh! for England—solemnly ’twas given<br>
 To noble Eleanor, to guardian Heaven,<br>
 To Heaven’s vicegerent here; and Celestine<br>
 Will brook no hand should strike one fort of mine;<br>
 While still she boasts her ships, her hearts of oak,<br>
 Let those be strong that meditate the stroke:<br>
 Her steel to death such sheep-clad wolves shall doom,<br>
-The Pontiff’s curses to the death to come.”
+The Pontiff’s curses to the death to come.”<br>
 They sail’d, but still the lofty works went on,<br>
 And rose in finish’d beauty, Ascalon;<br>
 While all the faithful host with one accord<br>
@@ -1451,7 +1451,7 @@ Auspicious Cynthia! to thy western goal,<br>
 And veil the stars in darkness, when I wait<br>
 The midnight hour by Sion’s Golden Gate.”<br>
 Then in bright wreath his nimble fingers wove<br>
-The jasmine, sacred to Amina’s love.
+The jasmine, sacred to Amina’s love.<br>
 “Sweet flower,” he sigh’d, “thy freshness shall not fade<br>
 Ere these glad eyes behold the blushing maid;”<br>
 And as more thick a lover’s day-dreams throng,<br>
@@ -1471,7 +1471,7 @@ His buoyant fancy prompts the minstrel song.
 > His cheeks are the bud of the rose, and his eyes<br>
 > Are the stars on a moonless night.
 > 
-> Sweet Modesty comes, as his blooming bride,<br>
+> “Sweet Modesty comes, as his blooming bride,<br>
 > The bride-maiden, Mercy, attends at her side,<br>
 > And Loyalty rides as his squire;<br>
 > The roses spring up at his palfrey’s tread,<br>
@@ -1504,10 +1504,81 @@ But fix’d the fatal purpose of his soul,<br>
 Nor feign disgust for one thou cans’t not know;<br>
 Soon shall his fondness dry these tears, and move<br>
 E’en thy young heart to feel the power of love.”<br>
-&emsp;Alas! too well the power Amina knew That robb'd her cheek of youth's celestial hue, And made those lips that mock'd the aloe's bloom, Or breath'd the blushing Amra's mild perfume Pale as the lily, " ah!" she thought, u how vain The tardy blessing, should we meet again! My heart would but a deeper grief deplore When these changed features should be loved no more. But hark!"—4was mellow evening's stillest hour When the soft Vina ounded near her bower, (That bower which eastward from the Town of God Look'd out where Kedron's winter torrent flow'd, Where silver Silöe bubbles into light, And dusky olives clothe the farther height;) And soou a plaintive song attention moved, For sweet the strain, though not the voice beloved:— (i The Bulbul sings in the distant bower, Far, far from his Rose's anxious ear; 600 But the Zephyr may waft to the drooping flower The sigh of the heart that she holds most dear. ν 3
-" And hid in this garland of mystic bloom, She may feel the breath of that sacred sigh; In the scentless amaranth's rich perfume, In the pale acacia's deepening dye. " Let it fan the blush on her faded cheek, Till it glow as though her lover were near; For even this silent wreath may speak The wish of bis soul io a faithful ear." 610 A wakeful eunuch heard the closing strain, And sought the venturous youth, but sought in vain; While the sweet maid, no longer languid, pale, Snatch'd the blest wreath that told so sweet a tale. But Aladin to Asia's lord declares Fierce Richard's menace; Sólyma prepares For instant siege, and deep in Sharon's shade Almanzor's care secludes the timorous maid, Where murmuring streams, and birds, and fragrant flowers, Erst join'd with youth to chase her careless hours.— But ah! that loved retreat is wrapp'd in gloom, The birds have lost their voice, the flowers their bloom;
-And she whose lips responsive music breathed, Or in gay knots their fleeting glories wreathed, Sits pale beneath her favourite tree, and flings Her hands, scarce conscious, o'er the gilded strings Of her soft lute; now wakes a plaintive strain, Now drops it from her hand, and weeps again. The past is like a vision of delight, For ever lost, the future veil'd in night. 630 But Saladine, who held Moheddin dear, With myrtle wreaths would bind the brows of war; To Lidda's camp he now the maid invites, And speeds with courtly pomp the bridal rites. In mirth and pomp Almanzor's household vied, And all were joyful, save the wretched bride. Passive, amid her maiden slaves she stands. While the red hinna stains her snowy hands, While with rich gems they deck her ankles fair, And braid with orient pearl her glossy hair; 640 Then in a gay and gilded palanquin, \ Whose gaudy splendour mocks the grief within, ч They place their victim, and the march begin. J But as, to wile the sultry noon, they staid Their weary steeds in Sharon's deepest shade, f 4
-While all around her careless guardians slept, From her soft couch the timid virgin crept; The roughest path, the wildest brake she chose, Anxious alone, when death should end her woes, To perish faithful—or perchance to move 650 Some wandering knight to guide her to her love. Such was her story,—but till poet's art Can paint the joy that shone in either heart; Her silver tone, the inexpressive grace That lit her dark blue eyes, and glowing face; 111 may he teach what made that hour ьо dear, Or that slight tale so sweet to Pardo's ear. But never on affection's stream, in sooth, Long smiles the sun, or is itb channel smooth.* The sable Lyard, Richard's favourite steed, 660 With one bold effort from his bridle freed, Bounds through the glade, while Pardo strives in vain To rush before and catch the broken rein: Still as he came the wayward horse was gone, Yet such slight space as lured the warrior on; Nor marked he, till again he soothed its pride, How far it led him from Amina's side.
+&emsp;Alas! too well the power Amina knew<br>
+That robb’d her cheek of youth’s celestial hue,<br>
+And made those lips that mock’d the aloe’s bloom,<br>
+Or breath’d the blushing Amra’s mild perfume<br>
+Pale as the lily, “ah!” she thought, “how vain<br>
+The tardy blessing, should we meet again!<br>
+My heart would but a deeper grief deplore<br>
+When these changed features should be loved no more.<br>
+But hark!”—’twas mellow evening’s stillest hour<br>
+When the soft Vina sounded near her bower,<br>
+(That bower which eastward from the Town of God<br>
+Look’d out where Kedron’s winter torrent flow’d,<br>
+Where silver Silöe bubbles into light,<br>
+And dusky olives clothe the farther height;)<br>
+And soon a plaintive song attention moved,<br>
+For sweet the strain, though not the voice beloved:—<br>
+
+> “The Bulbul sings in the distant bower,<br>
+> Far, far from his Rose’s anxious ear;<br>
+> But the Zephyr may waft to the drooping flower<br>
+> The sigh of the heart that she holds most dear.
+> 
+> “And hid in this garland of mystic bloom,<br>
+> She may feel the breath of that sacred sigh;<br>
+> In the scentless amaranth’s rich perfume,<br>
+> In the pale acacia’s deepening dye.
+> 
+> “Let it fan the blush on her faded cheek,<br>
+> Till it glow as though her lover were near;<br>
+> For even this silent wreath may speak<br>
+> The wish of his soul in a faithful ear.”
+
+A wakeful eunuch heard the closing strain,<br>
+And sought the venturous youth, but sought in vain;<br>
+While the sweet maid, no longer languid, pale,<br>
+Snatch’d the blest wreath that told so sweet a tale.<br>
+&emsp;But Aladin to Asia’s lord declares<br>
+Fierce Richard’s menace; Solyma prepares<br>
+For instant siege, and deep in Sharon’s shade<br>
+Almanzor’s care secludes the timorous maid,<br>
+Where murmuring streams, and birds, and fragrant flowers,<br>
+Erst join’d with youth to chase her careless hours.<br>
+But ah! that loved retreat is wrapp’d in gloom,<br>
+The birds have lost their voice, the flowers their bloom;<br>
+And she whose lips responsive music breathed,<br>
+Or in gay knots their fleeting glories wreathed,<br>
+Sits pale beneath her favourite tree, and flings<br>
+Her hands, scarce conscious, o’er the gilded strings<br>
+Of her soft lute; now wakes a plaintive strain,<br>
+Now drops it from her hand, and weeps again.<br>
+The past is like a vision of delight,<br>
+For ever lost, the future veil’d in night.<br>
+&emsp;But Saladine, who held Moheddin dear,<br>
+With myrtle wreaths would bind the brows of war;<br>
+To Lidda’s camp he now the maid invites,<br>
+And speeds with courtly pomp the bridal rites.<br>
+In mirth and pomp Almanzor’s household vied,<br>
+And all were joyful, save the wretched bride.<br>
+Passive, amid her maiden slaves she stands.<br>
+While the red hinna stains her snowy hands,<br>
+While with rich gems they deck her ankles fair,<br>
+And braid with orient pearl her glossy hair;<br>
+Then in a gay and gilded palanquin,<br>
+Whose gaudy splendour mocks the grief within,<br>
+They place their victim, and the march begin.<br>
+But as, to wile the sultry noon, they staid<br>
+Their weary steeds in Sharon’s deepest shade,<br>
+While all around her careless guardians slept,<br>
+From her soft couch the timid virgin crept;<br>
+The roughest path, the wildest brake she chose,<br>
+Anxious alone, when death should end her woes,<br>
+To perish faithful—or perchance to move<br>
+Some wandering knight to guide her to her love.
+
+Such was her story,—but till poet's art Can paint the joy that shone in either heart; Her silver tone, the inexpressive grace That lit her dark blue eyes, and glowing face; 111 may he teach what made that hour ьо dear, Or that slight tale so sweet to Pardo's ear. But never on affection's stream, in sooth, Long smiles the sun, or is itb channel smooth.* The sable Lyard, Richard's favourite steed, 660 With one bold effort from his bridle freed, Bounds through the glade, while Pardo strives in vain To rush before and catch the broken rein: Still as he came the wayward horse was gone, Yet such slight space as lured the warrior on; Nor marked he, till again he soothed its pride, How far it led him from Amina's side.
 Bewilder'd now, and by his haste betray'd, He wanders farther from the anxious maid. " Thou sable beast," th' impatient lover cried, 670 Λ " Scarce are thy pranks by Moslem fears belied, > Which swear some demon fills thy dusky hide! j Yc£ poor the sport, all vicious as thou art, To syring with grief a true and tender heart." The daylight sunk—in vain he look'd on high, And curs'd, what late be wish'd, the moonless sky -, Bewilder'd, wearied, till the morning shone On the new walls of distant Ascalon. Revived by hope, he spurs his steed, but there All was confusion, terror and despair; 680 Pale every cheek; one single thought opprest And still'd the warring crowd of every breast; And soon he hears a dreadful tale, that drove Even from a lover's heart the dream of love; In one sad tone, one mournful phrase they spoke, (( Their Mouarch captive to the Soldan's yoke." Th' assembled Peers in dismal conclave sate, How best to bear, and how reverse his fate $ Their minds benumb'd, partake the general gloom, A thousand plans propose, reject, resume; 690
 Even heroes scarce were men; when needed most, Courage, and hope, and sense itself seem'd lost.— But hark! a shout—they see a knightly train, As captives long deplored, or wept as slain ,* The matted locks, the pale and wrinkled brow Spoke suffering past, but all was rapture now; And happy Albert from the grateful ring Bounds in his transport, and demands the King. " Hast thou not heard,"the mournful Raymond said,"How in his slumber to the foe betray'd—" 700 " Nay! my loved friend, no Moslem chains confine The Lion Heart, the captive lot was mine! With sylvan sport and noontide heat opprest, A gurgling fountain lull'd the King to rest; I slumber'd near, when from a happy dream I started, waken'd by a woman's scream, And saw a maid, who wept with anguish wild As stern Almanzor claim'd his truant child. Large was the hostile band, too large for strife, The pressing danger threaten'd Richard's life, 7Ю (For well I knew, by honour unreprest, What deadly hatred fired the Arab's breast;) And boldly rushing ’mid the armed ring, ( Preserve my life!' I cried, ' preserve the King!' 2
 Nor fail'd the fraud,—though all in battle field Had known his broomy crest and lion shield, The peaceful garb deceived; the valleys rung With shouts of rapture as we pac'd along, And oft my secret fancy wander'd here To paint your fears, and joy that vanquish'd fear. 720 Yon woods may still the wandering King detain, But England's glory wears no Moslem chain." te Alas!" said Raymond, "'twere a happier doom; Some beast may tear him now, or gulf entomb."— " Peace, Raven S croak not yet," young Pardo cried " Hope is a fairer and a safer guide. 'Tis madness thus th' inflicted grief to swell;—■ But speak, dear Albert, how thy fetters fell?" " Nor were the tale of pleasing interest void In happier hour," the gentle youth replied. /30 " They led me to the Soldan: nor his eye Flash'd with the meteors of intemperate joy, Nor glared with rage, when, as the truth I shew'd, His baffled satraps clamour' d for my blood. ( That King must ill a Sovereign's duty know Who harms the loyal, though he serve a foe,' He answer'd mild; ' such zeal in half my train Had made thy Monarch's bold invasion vain,
