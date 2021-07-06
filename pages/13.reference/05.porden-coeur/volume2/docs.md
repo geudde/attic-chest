@@ -2641,17 +2641,240 @@ Dire penance follows, vigil, fast, and prayer,<br>
 A thousand pious frauds to cheat despair;<br>
 So may offended Heaven avert the stroke,<br>
 And spare the judgment which those crimes provoke.
-At length Evanthe came, but weak and pale, As flitting spectres in the twilight vale. She sought the council-hall, and fearful roll'd Her hollow eye, " Where, where b Leopold?" " Ha!" thought her lover, " did he share her heart? " Know'st thou not, Princess, since we saw him part, The moon has wax'd and wan'd? But dost thou bring No words of hope, no tidings of the King?" cť The King!" she cried—' v Oh Heaven! what dreadful light Breaks on the doubtful visions of the night! 20 But, save for ill, could Austria linger here?— Nay do not smile, I am not crazed by fear, Last night I saw the traitor—must I call The Lion Heart his victim or his thrall?" Chill horror reign'd, while each revolves too late His mutter'd threats and ill-dissembled hate. Yet how contrived? such treason might demand A bolder genius and a firmer hand. The Queen approach'd, but soon Evanthe's tears, Chase her young smiles and waken darker fears; 30 Silent she clasps her friend, her sorrows flow In mournful prescience of th' unutter'd woe.
-But she who seem'd as though her breaking heart Had ceas'd to beat, arises with a start: " I must not linger, or my strength will fail, Ere I can utter half the dreadful tale. ť Thatnight," (but here a blush her cheek o'erspread) " When from your side in yonder grove I stray'd, Heedless I wander'd, seeking many a flower In childhood cherish'd on my natal shore, 40 Till darkness gather'd round—I sought again My distant friends;—I ran, I cail'd in vain; And fear, that rous'd my cries, at length subdued, Fear of the savage beasts that haunt the wood. Now midnight came, but then í reach'd a dell, Where a cool fount in pleasing murmurs fell; I drank the clear fresh wave, and almost blest The chance that gave so sweet a place of rest. Day dawn'd at last, the turf was stain'd with gore, Nor was the victim far, a mighty boar; 50 The King perchance to this green spot had chased The lordly prey, abandon'd in his haste. Yet slowly I the track of steeds pursued, "4 My steps were feeble, and the луау was rude, > And daylight faded ere I left the wood. J
-Blue misty hills the northern prospect crown'd, But where the ocean form'd a nearer bound White buildings rose; with all the little force I yet could summon, I renew'd my course. Alas! too soon I found my hope betray'd; 60 O'er turban'd domes the mournful cypress spread, A place of grief, a City of the Dead; Vast as Larneca, where in endless line, On Cyprus' shore the marble fabrics shine.* My heart gresy sick—was this my destined home, E'en while I breathed, a tenant of the tomb? Living to waste beside the wasting dead, No eye to mourn me, and no prayer to aid. Yet Fancy slept with all her idle gear Of gouies and goblins, childhood's favourite fear; 70 Nor was my heart unnerv'd by conscious sin, I cail'd on Mary's name, and ventur'd in. Soft gleaming from a new-built tomb, a light Shone, like a friend amid the dismal night. The senseless clay луа8 sepulchred beneath, But o'er the bier, in all the pomp of death, The snow-white pall was spread; soft odours came From virgin flowers, and lamps of silver frame From Saba's oils dispens'd a fragrant flame.
-For here with every Jama's sacred morn, 80 To weep their friend the Moslem maids re'turn; Renew the lamp, the votive wreath bestow, And feed with tears their unavailing woe, b " Alas! like them, my tale prolongs the grief, Its lingering cannot change, I will be brief.— 4i I know not if to lengthened toil a prey, Or that those odours stole my sense away, Entranced I sunk:—I saw, but all might seem Illusive shades, and past as in a dream. " Before the gate ray hand forgot to close, 90 O'ergrown with moss, a humbler fabric rose; Two men approach'd:—the first in seeming dread Started and paus'd, but took me for the dead. How had I pray'd, while yet the prayer seem'd vain, To hear the sound of human voice again! Christian or Moslem seem'd not then my care, So my last sighs were breath'd in human ear; But with the sight of armed men, a chill Crept o'er my heart, and terror held me still. Their hands unbarr'd the antique tomb, and led 100 A fctter'd captive from its awfiil shade; No ray reveal'd his face,—though dimly seen, His form was noble and august his mien. vol. и. к
-But as his jailor parting turn'd, I knew Tbe crest, the mail, the Cross of Austrian blue: I do not fable, as my soul would hold Its hope of heaven, that man was Leopold!— With haste that seem'd beyond my wasted frame I rose, pursued, implored him by his name: They heard me, Princes! yet they did not heed, 110 Or, deaf to pity's claims, increas'd their speed; Nor had I reach'd them, but the prisoner broke His chain, and levell'd with a vengeful stroke His other foe; but soon a lawless throng Pour'd from the ship, and forced their prey along. " The last was springing through th' empurpled wave, ŕ Oh, aid a dying wanderer! aid and save!' I cried:—he answer'd with a mournful sign, ' Hush thee, poor maid, or instant death is thine!' The galley sail'd, I sunk upon the sand; 120 A glittering baldric lured my feeble hand,— Say, has my fancy coin'd one horror more, Or is this belt the belt that Richard wore?" c Alas! the Queen's convulsive start has shewn How well to her each fatal gem was known;
-While pale as hers each hardy cheek became, And only Bertrand's brow was flush'd with shame. " Was then that captive Richard?" Albert cried; " Such were not then my thoughts," the maid replied. fi I could not dream such guilt—but deem'd him come To seek some Moslem, prison'd in the tomb. Yet never, sure, had Richard heard the cry Of feeble wretch, and left her there to die!" " Alas!" said Lusignan, " thus faint and worn, What guardian saint has sped thy safe return? " Strength fled with hope—this belt depress'd my mind With fearful bodings, dark but undefined. Hours past unheeded—for the sun was high Ere I again unclosed a conscious eye, Propt in a stranger's arms:—but alien tongue, HO Nor turban'd brow could wake my terrors long— T'was Aladin, who with the tenderest cares Revived my wasted strength, and sooth'd my fears. He gave me nectar from the wounded palm,* That bleeds by day in wine, by night in balm;,it 2
-Before him placed me on his Arab steed,— ' Bound to yon northern hills, the Soldan's need 111 brooks delay,' he cried, c yet would he fain That need should wait, ere woman sued in vain.' Each dingle of the tangled wood he knew, 150 And, heedless of the weight, his courser flew; He bore me to the gate of Ascalon, Staid not my thanks, but like a dart was gone." cc Heroic youth!" cried Philip of Beauvais, (( Alas! that Moslem should extort my praise." " Alas!" said Raymond, " that a prelate's mind Should harbour thought so earthly, so confined! But mark that scowling Baron—while I speak, Mark each quick change on Bertrand's felon cheek! And lurks not treachery there?—in him who first 160 With Conrad's blood the godlike Prince aspers'd? Nor deem'd it shame secluded speech to hold With Philip's bosom snake, and Leopold! Chain'd though he be (and may an evil end Befall the traitors!) Richard has a friend." 4 He spoke, and Bertrand rose;—his eye of fire Flash'd for a moment with ungovern'd ire,— But soon a starting tear supprest the glow, And deepest sadness gather'd on his brow.
-" Raymond 1 proud Raymond! I thy taunts forgive: Yet none but thou should make such speech, and live. I hate the Monarch, nor my hate disguise, And he who fears not him, the world defies. ln youth, on whom could fairer fortunes shine? What hopes so gay, what heart so light as mine? Dear to Prince Henry, to his sister dear— Yes! royal Helen smil'd on Bertrand's prayer. How firm my friendship, and how fond my love, To distant years my ardent lays shall prove. I hate not Richard for our early strife,— 180 A passing storm-cloud in the morn of life; Nor that I bow'd beneath his matchless sword — e He, generous then, my life and lands restored; But deepest vengeance, deadliest hate attends On smiling enemies, and faithless friends. Young Henry died,—my grief, that mock'd control, Drew love and pity from his father's soul; f That fatal blow was dealt by heaven alone— The death-wound of my peace was Richard's own! ’Twas he who fix'd on Helen's charms mine eyes, 190 And, pleased to see my fond emotions rise, Bade me so high my daring wishes raise, And taught my willing lyre to sound her praise; к 3
-Yet while with treacherous hopes my flame he fann'd, The Saxon Duke was graced with Helen's hand! s What would I give, brave youth, to feel agen The boiling agony that tore me then! With brow erect I met the shaft of fate, And made all Europe subject to my hate. Witness the ceaseless wars, the floods of gore, 200 From Ebro's stream to Brabant's eastern shore; The strife whh Philip, oft with pain subdued By Pope or Legate, and as oft renew'd. h The blood of thousands scarcely quench'd mine ire, Ob! that their curses could relume the fire! " Fame had no charms, and vengeance died at last, A deadlier calm succeeded to the blast; My frozen heart nor love nor hate could warm, Grief had no sting, and pleasure lost its charm. The youthful wonder'd that my check was wan, 210 And shunn'd the silent, melancholy man; Nor could the aged rest on me their cares, My woes could never sympathize with theirs. I fled wherever tumult held her reigu, For there alone I seem'd to breathe again; And but where battle's fiercest fury glow'd, My torpid blood with healthful vigour flow'd.
-c£ Twelve tedious years my grief have soften'd now, And toil and pain have blanch'd a youthful brow, Yet from my heart one pang can never move— 220 The conscious memory of its outraged love! E'en when my lips a smile fallacious wear, Λ One mournful feeling broods for ever there,— > A silent, secret pang that none can share. j That love in heaven could make my hours unblest, That hate for Richard s r ex a martyr's rest î Then, Chiefs, suspect not Bertrand's soul of guile, He dares to frown, but treachery wears a smile." " Yet," cried the Emerald Knight, who ne'er till then In council spoke, aud never spoke agen, 230 Why vents a Knight his rage in idle words? Warriors should trust their quarrels to their swords!" " I would, but Richard ever shunn'd the strife, He said, his sister bade him spare my life; His sister!"—here a scornful laugh he tried, But the feign'd mirth in sobs convulsive died. ic Indeed," ('twas Raymond spoke) " I did thee wrong, My zeal traosgress'dy—forgive th' intemperate tongue; May heaven like mine thy cause of wrath remove, And bind again the broken links of love. 240 к 4
-Hate should not live in souls where honour grows, For demons triumph when the good are foes." Another week, a week of anxious care, Brought to their council Mosul's generous heir. In peace he came, and those that wont to shun His arm in war, his mild demeanor won. ŕí From Joseph's royal seed, from Asia's King, Her Shield and Sword; health, greeting, love I bring: Such love as heroes mingle with their war, And pity, such as noble foes may bear. 250 His soul is panting to renew the strife, Where sword with sword contends, and life with life; But like a viper darkling to destroy, Becomes not him; —the eagle perch'd on high, Respects the helpless dove that roosts below; The hungry lion spares the slumbering foe. And from yon regions where the prince of day Bursts through the hills, to where his parting ray Gilds with ætherial hues the dancing brine, His scouts have scour'd the plains of Palestine. 260 Whate'er his lot, the dungeon or the tomb, Our hands are guiltless of your Monarch's doom.
+At length Evanthe came, but weak and pale,<br>
+As flitting spectres in the twilight vale.<br>
+She sought the council-hall, and fearful roll’d<br>
+Her hollow eye, “Where, where is Leopold?”<br>
+&emsp;“Ha!” thought her lover, “did he share her heart?<br>
+“Know’st thou not, Princess, since we saw him part,<br>
+The moon has wax’d and wan’d? But dost thou bring<br>
+No words of hope, no tidings of the King?”<br>
+&emsp;“The King!” she cried—“Oh Heaven! what dreadful light<br>
+Breaks on the doubtful visions of the night!<br>
+But, save for ill, could Austria linger here?<br>
+Nay do not smile, I am not crazed by fear,<br>
+Last night I saw the traitor—must I call<br>
+The <span class="smallcaps">Lion Heart</span> his victim or his thrall?”<br>
+&emsp;Chill horror reign’d, while each revolves too late<br>
+His mutter’d threats and ill-dissembled hate.<br>
+Yet how contrived? such treason might demand<br>
+A bolder genius and a firmer hand.<br>
+&emsp;The Queen approach’d, but soon Evanthe’s tears,<br>
+Chase her young smiles and waken darker fears;<br>
+Silent she clasps her friend, her sorrows flow<br>
+In mournful prescience of th’ unutter’d woe.<br>
+But she who seem’d as though her breaking heart<br>
+Had ceas’d to beat, arises with a start:<br>
+“I must not linger, or my strength will fail,<br>
+Ere I can utter half the dreadful tale.<br>
+&emsp;“That night,” (but here a blush her cheek o’erspread)<br>
+“When from your side in yonder grove I stray’d,<br>
+Heedless I wander’d, seeking many a flower<br>
+In childhood cherish’d on my natal shore,<br>
+Till darkness gather’d round—I sought again<br>
+My distant friends;—I ran, I call’d in vain;<br>
+And fear, that rous’d my cries, at length subdued,<br>
+Fear of the savage beasts that haunt the wood.<br>
+Now midnight came, but then I reach’d a dell,<br>
+Where a cool fount in pleasing murmurs fell;<br>
+I drank the clear fresh wave, and almost blest<br>
+The chance that gave so sweet a place of rest.<br>
+Day dawn’d at last, the turf was stain’d with gore,<br>
+Nor was the victim far, a mighty boar;<br>
+The King perchance to this green spot had chased<br>
+The lordly prey, abandon’d in his haste.<br>
+Yet slowly I the track of steeds pursued,<br>
+My steps were feeble, and the wау was rude,<br>
+And daylight faded ere I left the wood.<br>
+Blue misty hills the northern prospect crown’d,<br>
+But where the ocean form’d a nearer bound<br>
+White buildings rose; with all the little force<br>
+I yet could summon, I renew’d my course.<br>
+Alas! too soon I found my hope betray’d;<br>
+O’er turban’d domes the mournful cypress spread,<br>
+A place of grief, a City of the Dead;<br>
+Vast as Larneca, where in endless line,<br>
+On Cyprus’ shore the marble fabrics shine.<sup>a</sup><br>
+My heart grew sick—was this my destined home,<br>
+E’en while I breathed, a tenant of the tomb?<br>
+Living to waste beside the wasting dead,<br>
+No eye to mourn me, and no prayer to aid.<br>
+Yet Fancy slept with all her idle gear<br>
+Of goules and goblins, childhood’s favourite fear;<br>
+Nor was my heart unnerv’d by conscious sin,<br>
+I cail’d on Mary’s name, and ventur’d in.<br>
+Soft gleaming from a new-built tomb, a light<br>
+Shone, like a friend amid the dismal night.<br>
+The senseless clay was sepulchred beneath,<br>
+But o’er the bier, in all the pomp of death,<br>
+The snow-white pall was spread; soft odours came<br>
+From virgin flowers, and lamps of silver frame<br>
+From Saba’s oils dispens’d a fragrant flame.<br>
+For here with every Jama’s sacred morn,<br>
+To weep their friend the Moslem maids re’turn;<br>
+Renew the lamp, the votive wreath bestow,<br>
+And feed with tears their unavailing woe,<sup>b</sup><br>
+&emsp;“Alas! like them, my tale prolongs the grief,<br>
+Its lingering cannot change, I will be brief:<br>
+&emsp;“I know not if to lengthened toil a prey,<br>
+Or that those odours stole my sense away,<br>
+Entranced I sunk:—I saw, but all might seem<br>
+Illusive shades, and past as in a dream.<br>
+“Before the gate my hand forgot to close,<br>
+O’ergrown with moss, a humbler fabric rose;<br>
+Two men approach’d:—the first in seeming dread<br>
+Started and paus’d, but took me for the dead.<br>
+How had I pray’d, while yet the prayer seem’d vain,<br>
+To hear the sound of human voice again!<br>
+Christian or Moslem seem’d not then my care,<br>
+So my last sighs were breath’d in human ear;<br>
+But with the sight of armed men, a chill<br>
+Crept o’er my heart, and terror held me still.<br>
+Their hands unbarr’d the antique tomb, and led<br>
+A fetter’d captive from its awful shade;<br>
+No ray reveal’d his face,—though dimly seen,<br>
+His form was noble and august his mien.<br>
+But as his jailor parting turn’d, I knew<br>
+The crest, the mail, the Cross of Austrian blue:<br>
+I do not fable, as my soul would hold<br>
+Its hope of heaven, that man was Leopold!<br>
+With haste that seem’d beyond my wasted frame<br>
+I rose, pursued, implored him by his name:<br>
+They heard me, Princes! yet they did not heed,<br>
+Or, deaf to pity’s claims, increas’d their speed;<br>
+Nor had I reach’d them, but the prisoner broke<br>
+His chain, and levell’d with a vengeful stroke<br>
+His other foe; but soon a lawless throng<br>
+Pour’d from the ship, and forced their prey along.<br>
+&emsp;“The last was springing through th’ empurpled wave,<br>
+‘Oh, aid a dying wanderer! aid and save!’<br>
+I cried:—he answer’d with a mournful sign,<br>
+‘Hush thee, poor maid, or instant death is thine!’<br>
+The galley sail’d, I sunk upon the sand;<br>
+A glittering baldric lured my feeble hand,—<br>
+Say, has my fancy coin’d one horror more,<br>
+Or is this belt the belt that <span class="smallcaps">Richard</span> wore?”<sup>c</sup><br>
+&emsp;Alas! the Queen’s convulsive start has shewn<br>
+How well to her each fatal gem was known;<br>
+While pale as hers each hardy cheek became,<br>
+And only Bertrand’s brow was flush’d with shame.<br>
+“ Was then that captive <span class="smallcaps">Richard</span>?” Albert cried;<br>
+“Such were not then my thoughts,” the maid replied.<br>
+“I could not dream such guilt—but deem’d him come<br>
+To seek some Moslem, prison’d in the tomb.<br>
+Yet never, sure, had <span class="smallcaps">Richard</span> heard the cry<br>
+Of feeble wretch, and left her there to die!”<br>
+“Alas!” said Lusignan, “thus faint and worn,<br>
+What guardian saint has sped thy safe return?<br>
+&emsp;“Strength fled with hope—this belt depress’d my mind<br>
+With fearful bodings, dark but undefined.<br>
+Hours past unheeded—for the sun was high<br>
+Ere I again unclosed a conscious eye,<br>
+Propt in a stranger’s arms:—but alien tongue,<br>
+Nor turban’d brow could wake my terrors long—<br>
+’Twas Aladin, who with the tenderest cares<br>
+Revived my wasted strength, and sooth’d my fears.<br>
+He gave me nectar from the wounded palm,[^29]<br>
+That bleeds by day in wine, by night in balm;<br>
+Before him placed me on his Arab steed,—<br>
+‘Bound to yon northern hills, the Soldan’s need<br>
+Ill brooks delay,’ he cried, ‘yet would he fain<br>
+That need should wait, ere woman sued in vain.’<br>
+Each dingle of the tangled wood he knew,<br>
+And, heedless of the weight, his courser flew;<br>
+He bore me to the gate of Ascalon,<br>
+Staid not my thanks, but like a dart was gone.”<br>
+&emsp;“Heroic youth!” cried Philip of Beauvais,<br>
+“Alas! that Moslem should extort my praise.”<br>
+&emsp;“Alas!” said Raymond, “that a prelate’s mind<br>
+Should harbour thought so earthly, so confined!<br>
+But mark that scowling Baron—while I speak,<br>
+Mark each quick change on Bertrand’s felon cheek!<br>
+And lurks not treachery there?—in him who first<br>
+With Conrad’s blood the godlike Prince aspers’d?<br>
+Nor deem’d it shame secluded speech to hold<br>
+With Philip’s bosom snake, and Leopold!<br>
+Chain’d though he be (and may an evil end<br>
+Befall the traitors!) <span class="smallcaps">Richard</span> has a friend.”<sup>d</sup><br>
+&emsp;He spoke, and Bertrand rose;—his eye of fire<br>
+Flash’d for a moment with ungovern’d ire,—<br>
+But soon a starting tear supprest the glow,<br>
+And deepest sadness gather’d on his brow.<br>
+&emsp;“Raymond! proud Raymond! I thy taunts forgive:<br>
+Yet none but thou should make such speech, and live.<br>
+I hate the Monarch, nor my hate disguise,<br>
+And he who fears not him, the world defies.<br>
+In youth, on whom could fairer fortunes shine?<br>
+What hopes so gay, what heart so light as mine?<br>
+Dear to Prince Henry, to his sister dear—<br>
+Yes! royal Helen smil’d on Bertrand’s prayer.<br>
+How firm my friendship, and how fond my love,<br>
+To distant years my ardent lays shall prove.<br>
+I hate not <span class="smallcaps">Richard</span> for our early strife,— <br>
+A passing storm-cloud in the morn of life;<br>
+Nor that I bow’d beneath his matchless sword—<sup>e</sup><br>
+He, generous then, my life and lands restored;<br>
+But deepest vengeance, deadliest hate attends<br>
+On smiling enemies, and faithless friends.<br>
+Young Henry died,—my grief, that mock’d control,<br>
+Drew love and pity from his father’s soul;<sup>f</sup><br>
+That fatal blow was dealt by heaven alone—<br>
+The death-wound of my peace was <span class="smallcaps">Richard’s</span> own!<br>
+’Twas he who fix’d on Helen’s charms mine eyes,<br>
+And, pleased to see my fond emotions rise,<br>
+Bade me so high my daring wishes raise,<br>
+And taught my willing lyre to sound her praise;<br>
+Yet while with treacherous hopes my flame he fann’d,<br>
+The Saxon Duke was graced with Helen’s hand!<sup>g</sup><br>
+What would I give, brave youth, to feel agen<br>
+The boiling agony that tore me then!<br>
+With brow erect I met the shaft of fate,<br>
+And made all Europe subject to my hate.<br>
+Witness the ceaseless wars, the floods of gore,<br>
+From Ebro’s stream to Brabant’s eastern shore;<br>
+The strife with Philip, oft with pain subdued<br>
+By Pope or Legate, and as oft renew’d.<sup>h</sup><br>
+The blood of thousands scarcely quench’d mine ire,<br>
+Oh! that their curses could relume the fire!<br>
+&emsp;“Fame had no charms, and vengeance died at last,<br>
+A deadlier calm succeeded to the blast;<br>
+My frozen heart nor love nor hate could warm,<br>
+Grief had no sting, and pleasure lost its charm.<br>
+The youthful wonder’d that my cheek was wan,<br>
+And shunn’d the silent, melancholy man;<br>
+Nor could the aged rest on me their cares,<br>
+My woes could never sympathize with theirs.<br>
+I fled wherever tumult held her reign,<br>
+For there alone I seem’d to breathe again;<br>
+And but where battle’s fiercest fury glow’d,<br>
+My torpid blood with healthful vigour flow’d.<br>
+&emsp;“Twelve tedious years my grief have soften’d now,<br>
+And toil and pain have blanch’d a youthful brow,<br>
+Yet from my heart one pang can never move—<br>
+The conscious memory of its outraged love!<br>
+E’en when my lips a smile fallacious wear,<br>
+One mournful feeling broods for ever there,—<br>
+A silent, secret pang that none can share.<br>
+That love in heaven could make my hours unblest,<br>
+That hate for <span class="smallcaps">Richard</span> vex a martyr’s rest!<br>
+Then, Chiefs, suspect not Bertrand’s soul of guile,<br>
+He dares to frown, but treachery wears a smile.”<br>
+&emsp;“Yet,” cried the Emerald Knight, who ne’er till then<br>
+In council spoke, and never spoke agen,<br>
+Why vents a Knight his rage in idle words?<br>
+Warriors should trust their quarrels to their swords!”<br>
+&emsp;“I would, but <span class="smallcaps">Richard</span> ever shunn’d the strife,<br>
+He said, his sister bade him spare my life;<br>
+His sister!”—here a scornful laugh he tried,<br>
+But the feign’d mirth in sobs convulsive died.<br>
+&emsp;“Indeed,” (’twas Raymond spoke) “I did thee wrong,<br>
+My zeal transgress’d,—forgive th’ intemperate tongue;<br>
+May heaven like mine thy cause of wrath remove,<br>
+And bind again the broken links of love.<br>
+Hate should not live in souls where honour grows,<br>
+For demons triumph when the good are foes.”
+
+Another week, a week of anxious care, Brought to their council Mosul's generous heir. In peace he came, and those that wont to shun His arm in war, his mild demeanor won. ŕí From Joseph's royal seed, from Asia's King, Her Shield and Sword; health, greeting, love I bring: Such love as heroes mingle with their war, And pity, such as noble foes may bear. 250 His soul is panting to renew the strife, Where sword with sword contends, and life with life; But like a viper darkling to destroy, Becomes not him; —the eagle perch'd on high, Respects the helpless dove that roosts below; The hungry lion spares the slumbering foe. And from yon regions where the prince of day Bursts through the hills, to where his parting ray Gilds with ætherial hues the dancing brine, His scouts have scour'd the plains of Palestine. 260 Whate'er his lot, the dungeon or the tomb, Our hands are guiltless of your Monarch's doom.
 Yet more—the godlike Soldan scorns to press, Ev'n on his foes, in weakness and distress; Till him you mourn, returning like a star, Dispel your darkness and restore the war, Or till the moons bring round the various year, Rest! Christians, rest! unharnťd and harmless here. Bid yon ripe fields their nodding gold resign, Press the fat olive, ease the burthen'd vine; 2/Ό But Λνΐιβη the days of proffer'd truce expire, As warriors wait him, or as friends retire." But Raymond now, who mark'd that every eye To his was lifted, gave the prompt reply: iC Bear back our greetings—bid the Soldan own Our souls are worthy, since we take his boon; Peace, for our Monarch's sake, we stablish here, Till Richard come, or till the closing year." The Prince but staid to share with cheerful soul The pledge of truce, the feast, the brimming bowl, Then, vaulting on his faithful steed, once more To Syria's lord the pledge of concord bore. Yet still with spicy sweets the goblets flow, And chace the clouds from each relaxing brow; When ’mid the Chiefs, with mien uncouth and rude, A dark brown man in garb monastic stood.
 " Whence and what art thou?" fiery Bertrand cried; " What thou wilt blush to hear," the monk replied. " Slave to the Mountain Prince, and Conrad's foe— He will'd the murder, and I gave the blow; 290 I and Alkamor, who already lies Blest in our master's promis'd Paradise. Thou deem'st a Christian King the poniard sped, But he who smiles when heaven enjoins to shed The blood of Misbelievers, bids ye know He hated Conrad, and he laid him low." 1 " Unhappy wretch!" ('twas Hubert's holy voice) te Deluded, canst thou murder and rejoice? Nor conscience checks thee, nor the timely fear, That death and tortures wait th' Assassin here." 300 ' c Death!" he exclaim'd, " oh, ne'er for idle breath Did coward sue, as Hassan's slaves for death. Who once has tasted heaven, finds earth a void; Yet sheathe your swords; not thus to be destroyed, To me his hands the happy poison gave— Your tortures cannot reach, your malice save." O'er his pale brow the painful flushes came, And stroug convulsions shook his sinewy frame; Yet with each pang his phrenzied raptures rise,— "\ tC Now rend my flesh, insulting Giaours," he crics,> My soul is blest-—it soars to Paradise." j
 And backward as he fell, his clenching hand And angry Ьголу defied the алуевП'иск band. k But fix'd as though th' infectious venom spread Through his cold veins, and pallid as the dead, Fierce Bertrand stood,—and when at length he broke His silent trance, he felt not that he spoke. e< How little deem'd I, in iny years of youth, When all my thoughts were love, my accents truth, That one black drop could poison all my mind!— 320 Must I, who held that passion луав not blind, Nor bate unjust—e'en while my slanderous tongue Spoke what my heart denied—confess the wrong? Perfidious Richard!—oh, the time has been, Who injured thee had found my falchion keen; When I, methinks, had wonder'd less to see The sun all darkness, than a spot in thee. Had'st thou been faithful, I could bend me yet— But to bc humble, луЬеге Ι νοΛνΜ to hate; To thee, yet tarnish'd лу1Й1 so deep a stain— 330 Oh! could that blot be cleans'd! could'st thou again Seem to my soul what I believed thee first, That, that were rapture, though my heart might burst!" That very eve, array'd in palmer's луееа, With staff* and palm-branch, shell, and scrip and bead,
@@ -3016,4 +3239,6 @@ Note (e), page 354, line 713. Tke easy price of that triumphant day. Only two pe
 
 [^27]: Shadukiam and Amberabad, two cities of the Peries in Ginnistan, or fairy land. The brilliant colours of the setting sun are the reflection of their splendour.
 
-[^28]: There is much difference among Mohommedans as to the state of the soul between its separation from the body and its final judgment; but there is a popular belief that the spirits of the just inhabit the gardens of Paradise in the shape of green birds.
+[^28]: There is much difference among Mahommedans as to the state of the soul between its separation from the body and its final judgment; but there is a popular belief that the spirits of the just inhabit the gardens of Paradise in the shape of green birds.
+
+[^29]: The liquor which flows from the palm by night is a mild and pleasant beverage, while that which is obtained by day is of an intoxicating nature: the heat probably causing it to ferment as it distills.
