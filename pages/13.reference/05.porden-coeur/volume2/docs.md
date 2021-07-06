@@ -1846,7 +1846,7 @@ And baffled Bertrand shrunk abash’d from view.
 <a id="book11"></a>
 ## Book XI
 
-The Prince of the Assassins
+### The Prince of the Assassins
 
 Pardo meanwhile, in lighter mail array’d,<br>
 Prepares оn foot to tempt the dangerous shade.<br>
@@ -1879,8 +1879,22 @@ A simple pillar by yon forest side,<br>
 To mark for Richard’s love that Pardo died.<br>
 Oh! had I bled to guard his precious days,<br>
 Or shared thy danger, Albert! and thy praise!<br>
-&emsp;“Still with one anxious wish my heart is fraught— My steed—-yet ’twas not of my steed I thought;
-í know that thou the faithful beast wilt take, And prize my noble roan for Pardo' s sake. But she, Almanzor's child—Oh! while I vow My days to Richard, peril waits her now! I dare not think—but if impell'd by fear She seek this camp, and one no longer here, On thee, my generous Albert, I depend; 40 Receive, protect her,—be indeed my friend. Once more farewell—nay give one smile to bless My venturous way, bright omen of success."— And is he gone? Hc sprung upon his quest, As though his haste might give his feelings rest, And thought, with all her torturing train, depart, Lik e the pale phantoms at the dreamer's start. But though the sun in morning splendour glow'd, To him dark horror wraps the hateful wood; Ah, that those hills, those conscious shades would tell At least the fate of him he lov'd so well. His anxious eye in vain he glanc'd around, Or on his horn the well-known summons wound; Tis but the fawn that from his presence flies, 'Tis but the echo to his call replies.
+&emsp;“Still with one anxious wish my heart is fraught—<br>
+My steed—yet ’twas not of my steed I thought;<br>
+I know that thou the faithful beast wilt take,<br>
+And prize my noble roan for Pardo’s sake.<br>
+But she, Almanzor’s child—Oh! while I vow<br>
+My days to Richard, peril waits her now!<br>
+I dare not think—but if impell’d by fear<br>
+She seek this camp, and one no longer here,<br>
+On thee, my generous Albert, I depend;<br>
+Receive, protect her,—be indeed my friend.<br>
+Once more farewell—nay give one smile to bless<br>
+My venturous way, bright omen of success.”
+
+And is he gone? He sprung upon his quest,<br>
+As though his haste might give his feelings rest,<br>
+And thought, with all her torturing train, depart, Like the pale phantoms at the dreamer's start. But though the sun in morning splendour glow'd, To him dark horror wraps the hateful wood; Ah, that those hills, those conscious shades would tell At least the fate of him he lov'd so well. His anxious eye in vain he glanc'd around, Or on his horn the well-known summons wound; Tis but the fawn that from his presence flies, 'Tis but the echo to his call replies.
 At length (for oft through devious paths he stray'd) With weary steps he reach'd the fatal glade; As sweet a fragrance fills the balmy air, As cool the fountain seems, the fruits as fair; And the soft spirit of departed joys 60 Breathes from each flower, and swims before his eyes. What froze his glance?—a scarf distain'd with gore! A scarf! just Heaven! that late Evanthe wore. (< Oh! then were Bertrand's base suspicions true! And луЬа1 dread tale is in that sanguine hue? Yet ever be the hateful lie abhorr'd, Think, Pardo, think more nobly of thy Lord; And emulate his Consort's trust, to prove Thy heart, like hers, deserves a hero's love. And for that stain, behold where all around 70 The slaughter'd boar has died th' enamell'd ground; I will not fear—no not till proof be found. Be hope my guide, and lo! those flowers betray The tread of steeds—sweet seraph, lead the way!"■ Scarcely he stays to lave his burning brow, Or pluck the purple clusters from tbe bough; And fresh as at the earliest hour of morn Onward he hastes, and winds his mellow horn.
 But daylight fades,—he ill may brook delay, Yet fears again in tangled wilds to stray; 80 Nor dares he slumber on the mossy green, Lest wolves assail, or scorpions wound unseen. " I love," hc thought, " a soldier's death to brave, But would not wish a lion's paunch my grave, Or court an aspic's bite—perchance 'twere best To make yon sycamore my eagle's nest, Though snake perchance, or vulture harbour there, Fearless I trust our common parent's care." Up the broad trunk with agile grace he wound, To the tough boughs his ample mantle bound, 90 And slept;—unnoticed sung the bird of night, Nor e'en Amina charms his dreaming sight. What odours from a thousand glowing flois'ers, Fair as the bloom of Irem's fabled boss-ers! 8 What strains from birds all glorious to behold, With wings of purple, emerald and gold, All strange to Europe's niggard summers, borne Round the young sleeper, speak th' awakening morn- Again the wood his hasty meal supplied, Again his steps the frequent footprints guide; 100 Here stately trees obstruct the cheerful day, Here time-bow'd veterans bar the weary way;
 Here rocks arise or narrow lawns are spread, Here tangled brushwood closes all tbe shade. And now he reached a stream; through narrow space Tbc sunbeams break upon its crystal face; Th' acacia with it* tufts of golden hair, h And taller trees, and flowers more fresh and fair Hang o'er its waves, to view their image there; Save ss'here the lotos, as in wanton pride, 110 Spreads her broad leaves, and veils the lucid tide. Scarce mark'd the wanderer that the forest grew Thin and more thin, and now retired from view; For still, to screen him from the noontide beam, A belt of verdure clothed the winding stream. Till now a moss-grown arch contracts the wave, In darkness chafing through the echoing cave; And by a wall where clustering ivy twined, Still veiled in wood, the devious path declined. It reach'd a narrow gate; the iron pin 120 Yields to the warrior's hand,—he ventures in. It was a garden, such as Arabs love, Half art, half nature, wilderness and grove. Myrtle and orange here, and cassia grows, The dusky olive, and the glowing rose ,
