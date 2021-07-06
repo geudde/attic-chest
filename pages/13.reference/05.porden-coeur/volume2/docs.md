@@ -1541,7 +1541,7 @@ And sought the venturous youth, but sought in vain;<br>
 While the sweet maid, no longer languid, pale,<br>
 Snatch’d the blest wreath that told so sweet a tale.<br>
 &emsp;But Aladin to Asia’s lord declares<br>
-Fierce Richard’s menace; Solyma prepares<br>
+Fierce <span class="smallcaps">Richard’s</span> menace; Solyma prepares<br>
 For instant siege, and deep in Sharon’s shade<br>
 Almanzor’s care secludes the timorous maid,<br>
 Where murmuring streams, and birds, and fragrant flowers,<br>
@@ -1641,19 +1641,245 @@ The pressing danger threaten’d <span class="smallcaps">Richard’s</span> life
 What deadly hatred fired the Arab’s breast;)<br>
 And boldly rushing ’mid the armed ring,<br>
 ‘Preserve my life!’ I cried, ‘preserve the King!’<sup>g</sup><br>
-Nor fail'd the fraud,—though all in battle field Had known his broomy crest and lion shield, The peaceful garb deceived; the valleys rung With shouts of rapture as we pac'd along, And oft my secret fancy wander'd here To paint your fears, and joy that vanquish'd fear. 720 Yon woods may still the wandering King detain, But England's glory wears no Moslem chain." te Alas!" said Raymond, "'twere a happier doom; Some beast may tear him now, or gulf entomb."— " Peace, Raven S croak not yet," young Pardo cried " Hope is a fairer and a safer guide. 'Tis madness thus th' inflicted grief to swell;—■ But speak, dear Albert, how thy fetters fell?" " Nor were the tale of pleasing interest void In happier hour," the gentle youth replied. /30 " They led me to the Soldan: nor his eye Flash'd with the meteors of intemperate joy, Nor glared with rage, when, as the truth I shew'd, His baffled satraps clamour' d for my blood. ( That King must ill a Sovereign's duty know Who harms the loyal, though he serve a foe,' He answer'd mild; ' such zeal in half my train Had made thy Monarch's bold invasion vain,
-Yet not too lightly must such knight be freec — Twice fifty thousand bysants bc the meed.' 740 " With grief I heard, beyond a subject's power, My ransom rated at a princely dower. When now the Soldan smiling led me forth, ' Nor mourn,' he said, { this tribute to thy worth; The Christian warriors, when they hear thy plight, Shall vie with gifts to ransom such a Knight: And trust me, though a different faith be mine, I hold the name of chivalry divine; Too well, in sooth, its foes are taught to prize What такеь frail man so glorious and so wise. 750 Fain would my soul th' ennobling precepts hear, And fain my limbs the sacred tokens wear.' " Amazed I ponder'd—could the holy flame Descend to warm a misbelieving frame? " c Believe,' he cried, l with no impure desires To join your Order Saladine aspires, Nor were its glory tarnish'd, should a part' 1 Of its pure doctrines reach an Arab's heart.' i£ So modest! thought I—could I stiil forbear? I waived the vigil, waived the rites of prayer: 760 But in the bath his hardy limbs I laved,' Symbol of man by vows baptismal saved;
-Then at my will a simple couch he prest In sleep, the emblem of our mortal rest, And rose regenerate—o'er him next I threw The linen robe of truth's unspotted hue, That asks as pure a frame; the scarlet vest That claims devotion from the constant breast, Danger and death for knighthood's sake to brave, And loath dishonour far beyond the grave. 770 Then passings by his rank imperial sway'd, Th' accustom'd blow, the friendly accolade, I bade him guard a soul from falsehood clear, And more than wealth or power the truth revere; With liberal heart enjoy what heaven should send, Observe the holy rites the church ordain'd, And still be prompt, by selfish views uusway'd, His life or limbs to risk in beauty's aid; For ill that wretch the name of Knight may bear Whose callous heart is closed to woman's prayer. 780 ce ' No more I muse/ th' attentive Soldun cries, f For from such source can less than heroes rise? And let me prove I bear no heedless mind— Go! seek the gold from all of Christian kind; But if two summers past thou suest in vain, My power unwilling claims its thrall again.'
-" I knelt my thanks:—yet ere I journey hence, I here my suit at knighthood's feet commence; Largesse! Largesse!—from thee so wise and bold, I ask a portion of the Soldan's gold! 790 " 4 Who trusts in Saladine shall never find That trust betray'd,' the new-made Knight rejoin'd; e I like thy suit—deem half thy ramsom told, And ten brave warriors that my dungeons hold, There lingering since Tabaria's fatal fight, By thee restored to liberty and light.' ' f He spoke, and leading past the ample gate, In solemn council where his Emirs sate, From all around, to loose my captive chain, He craved their bounty, nor he craved in vain. 800 Seiffeddin and his son with prompt accord, And Egypt's King, and Sindjar's valiant Lord; Young Afdhal, worthy shoot of Ayoub's race, And bold Zeineddin, fair Arbelia's grace, Vied in their gifts; alone Almanzor frown'd— When thus the Chief for ^sanguine arms renown'd:* ' Warrior, this gem is thine, but know that He Thy fraud preservad had found no grace from me;
-Say that the Soldan's camp is rich with one, Whose wrongs, whose hatred seek his life alone; 810 Nor care I, though the haughty boast display The Western lineage that my lips betray.' íť Wondering I heard, for strange it seem'd to find Such rooted hatred in a stripling's mind; Whose form and beardless cheek seem'd fitter far For lady's service than the toils of war. " Now all had given, but of the mighty debt Twelve thousand bysants were uncounted yet; When from his stores the Soldan these demands, And gis r es the treasure to my wondering hands. 820 i Receive this pledge of just esteem,' he cried, May still the lasss you teach your actions guide; And still your garners every blessing hold. As you, when I reclaim, shall pay the Soldan's gold.' " Thrice happy gold! too long in bonds opprest, The Monarch's gift what captive pilgrims blest! I claim'd my steed, and hasten'd to depart, With lighten'd hands, but with a lighter heart; My fate, my safety, eager to declare To those, I knew, who held that safety dear, 830 Nor thought, alas! what hopeless grief was here."
-iC Not so! till we have trodden every glade, In yon ill-omen'd forest," Pardo said. " We might have known, from Arsouf t> dreadful eve, What demons there the bpells of horror weave. Yet bless me, Prelate! and лл ith heaven my guide, Through all its glens undaunted will I ride; Bring back my living Liege, or find my rest On the cold sod hi princely limbs have preist." Her sorrows shrouded in her ample veil, 840 The anxious Queen had heard tbe w arrior's tale; But yesterday, to treacherous: ease betray'd, By the cool breezes and the fragrant shade, She linger'd, while her maidens sporting round, Spread tbe light banquet on the mo«sy ground. Her gay guitar th' Iberian virgin strung, And to her uprightly songs tbe forest rung;— There Lusignan beneath the conscious shade Told his soft story to the captive maid: {( How blest луеге h^, would Cyprus Princes^ deign To share her ju^t, hereditary reign." Her glowing cheeks moist eyes, and heaving breast Emotions strong as love awakes confest; Th' enamour'd King in breathless rapture gazed, But soon she crush'd the hopes her silence rais'd:
-" Ah no!" she sigh'd, ci the fates have fix'd my doom, A lonely heart, a convent's pious gloom."— She spoke, and wandering sought the thickest shade, Till sober twilight sadden'd every glade. iC Alas!" she thought, " while yet a reckless child, 860 How oft have I at Cypriot maidens smil'd, When gathering flowers, that, bathed in mystic dew, Should kindle love, or bind their lovers true. Officious memory marks their bloom too well, But honour, duty, bid me shun the spell; Yet there arc plants ivhieh, cull'd in twilight hour, O'er love unblest assert a holy power."— Alas! how weak against Maimoune's guile All the soft magic of her amorous isle! Not her's imagination's love-sick dream, 8Г0 Which fancy wakes and fancied balm can tame. Yet might she bless the idle search that now "4 Had spared her wounded breast a heavier blow, > And led her distant from the scene of woe; y When on the breezes borne, the billows roll'd, The Moslem shouts their fancied capture told. As maid*., that dancing in the blossom'd mead, Hear the deep thunder pealing o'er their head,— voi.. II. (,
-As mariners, when winds with sullen moan Portend the storm, that find their rudder gone,— 880 So fared the Christian host; even bearded men, That oft had fronted death, were children then. In tears the mild Matilda melts away, And lost in stupor Berengaria lay j Not soon her flowing sorrows gave relief, Or her firm spirit rose to strive with grief. The hope that long on Albert's words reposed, Died in her bosom, ere his story closed; f n silence now she turn'd her to depart, New cause of anguish smothering at her heart, 890 When Bertrand loud in scoffing accents spoke (For Richard's loss his gloomy rapture woke:) " Ye, who beguil'd the hours in yonder shade, May tell perchance where pale Evanthe stray'd, And what soft scenes conceal the pensive maidj Or they ssdio mark'd how oft her faded cheeks Glow like the morn, when royal England speaks, May bid our hearts from idle fears be freed, And guess the riddle she alone can read?" Impetuous anger blazed in Raymond's eye, 900 And Lusignan prepared the warm reply j
-But Berengaria's glance reproachful stole To the dark depths of Bertrand's sullen soul. " And were it thus," the Queen indignant cried, (t What fiend is he that tells it to his bride! Alas! sweet maid, too much my wretched lot Usurp'd my soul; her absence was forgot. It wakens hope—with joy her loss I learn May she with Richard stray, with him return; For know, base slanderer, wheresoe'er they ride, 910 Heaven is their guard, and honour is their guide." With hasty steps the noble dame withdrew, And baffled Bertrand shrunk abash'd from view.,END OF BOOK X.,g 2
-CŒUR DE LION.,BOOK XL,THE PRINCE OF THE ASSASSINS.
-ARGUMENT.,THE PRINCE OF THE ASSASSINS. Pardo determines to explore the wood, and takes leave of Albert—The forest fountain — The deserted man¬ sion — His journey through the desert — The snowy mountains — The cavern in the rock — Appearance and story of Hassan — His early friendship and quarrel with Nizam — His mysterious power — The temptation of Pardo—The paradise of Hassan— Pardo and Maimoune.
-CŒUR DE LION.,BOOK XI.,THE PRINCE OF THE ASSASSINS. Pardo meanssrhile, in lighter mail array'd, Prepares од foot to tempt the dangerous shade. But first he calls his gallant friend apart, And thus relieves his agonizing heart: " I would not, Albert, that our comrades fear I too am lost; ye know not how or where, But do not ask my venturous quest to share. I brought the sorross r , let me brave the pain;— Nay start not, conscience shall not speak in vain. g 4
-Fool that I was! absorb'd in selfish joy; 10 For Lyard heard, and warn'd of danger nigh. But thou wilt laugh, my friend, and while I speak Shame well may redden on my burning cheek, That I, who scorn'd tlie wanton archer's power, Lost my proud freedom in one luckless hour; That many a night, for fair Amina's sake, My heavy eyes have learn'd like thine to wake; Well mayst thou taunt me, none so well as thou— But check those smiles, I cannot bear them now; In happier hours, should happier hours befall, 20 Pour forth thy gibes, and I will bless them all. " Farewell! if now my eager search be vain, And I am lost, in heaven we meet again j But should my King, my more than sire return, To hear my wandering doom, perchance to mourn, Say, if his erring favourite still be dear, ’Twas my last hope that pious hands might rear A simple pillar by yon forest side, To mark for Richard's love that Pardo died.— Oh! had I bled to guard his precious days, 30 Or shared thy danger, Albert! and thy praise! ci Still with one anxious wish my heart is fraught— My steed—-yet *twas not of my steed I thought;
+Nor fail’d the fraud,—though all in battle field<br>
+Had known his broomy crest and lion shield,<br>
+The peaceful garb deceived; the valleys rung<br>
+With shouts of rapture as we pac’d along,<br>
+And oft my secret fancy wander’d here<br>
+To paint your fears, and joy that vanquish’d fear.<br>
+Yon woods may still the wandering King detain,<br>
+But England’s glory wears no Moslem chain.”<br>
+&emsp;“Alas!” said Raymond, “’twere a happier doom;<br>
+Some beast may tear him now, or gulf entomb.”<br>
+&emsp;“Peace, Raven! croak not yet,” young Pardo cried<br>
+“Hope is a fairer and a safer guide.<br>
+’Tis madness thus th’ inflicted grief to swell;—<br>
+But speak, dear Albert, how thy fetters fell?”<br>
+&emsp;“Nor were the tale of pleasing interest void<br>
+In happier hour,” the gentle youth replied.<br>
+“They led me to the Soldan: nor his eye<br>
+Flash’d with the meteors of intemperate joy,<br>
+Nor glared with rage, when, as the truth I shew’d,<br>
+His baffled satraps clamour’ d for my blood.<br>
+‘That King must ill a Sovereign’s duty know<br>
+Who harms the loyal, though he serve a foe,’<br>
+He answer’d mild; ‘such zeal in half my train<br>
+Had made thy Monarch’s bold invasion vain,<br>
+Yet not too lightly must such knight be freed—<br>
+Twice fifty thousand bysants be the meed.’<br>
+&emsp;“With grief I heard, beyond a subject’s power,<br>
+My ransom rated at a princely dower.<br>
+When now the Soldan smiling led me forth,<br>
+‘Nor mourn,’ he said, ‘this tribute to thy worth;<br>
+The Christian warriors, when they hear thy plight,<br>
+Shall vie with gifts to ransom such a Knight:<br>
+And trust me, though a different faith be mine,<br>
+I hold the name of chivalry divine;<br>
+Too well, in sooth, its foes are taught to prize<br>
+What makes frail man so glorious and so wise.<br>
+Fain would my soul th’ ennobling precepts hear,<br>
+And fain my limbs the sacred tokens wear.’<br>
+&emsp;“Amazed I ponder’d—could the holy flame<br>
+Descend to warm a misbelieving frame?”<br>
+&emsp;“‘Believe,’ he cried, ‘with no impure desires<br>
+To join your Order Saladine aspires,<br>
+Nor were its glory tarnish’d, should a part<sup>h</sup><br>
+Of its pure doctrines reach an Arab’s heart.’<br>
+&emsp;“So modest! thought I—could I still forbear?<br>
+I waived the vigil, waived the rites of prayer:<br>
+But in the bath his hardy limbs I laved,<sup>i</sup><br>
+Symbol of man by vows baptismal saved;<br>
+Then at my will a simple couch he prest<br>
+In sleep, the emblem of our mortal rest,<br>
+And rose regenerate—o’er him next I threw<br>
+The linen robe of truth’s unspotted hue,<br>
+That asks as pure a frame; the scarlet vest<br>
+That claims devotion from the constant breast,<br>
+Danger and death for knighthood’s sake to brave,<br>
+And loath dishonour far beyond the grave.<br>
+Then passings by his rank imperial sway’d,<br>
+Th’ accustom’d blow, the friendly accolade,<br>
+I bade him guard a soul from falsehood clear,<br>
+And more than wealth or power the truth revere;<br>
+With liberal heart enjoy what heaven should send,<br>
+Observe the holy rites the church ordain’d,<br>
+And still be prompt, by selfish views uusway’d,<br>
+His life or limbs to risk in beauty’s aid;<br>
+For ill that wretch the name of Knight may bear<br>
+Whose callous heart is closed to woman’s prayer.<br>
+&emsp;“‘No more I muse,’ th’ attentive Soldun cries,<br>
+‘For from such source can less than heroes rise?<br>
+And let me prove I bear no heedless mind—<br>
+Go! seek the gold from all of Christian kind;<br>
+But if two summers past thou suest in vain,<br>
+My power unwilling claims its thrall again.’<br>
+“I knelt my thanks:—yet ere I journey hence,<br>
+I here my suit at knighthood’s feet commence;<br>
+Largesse! Largesse!—from thee so wise and bold,<br>
+I ask a portion of the Soldan’s gold!<br>
+&emsp;“‘Who trusts in Saladine shall never find<br>
+That trust betray’d,’ the new-made Knight rejoin’d;<br>
+‘I like thy suit—deem half thy ramsom told,<br>
+And ten brave warriors that my dungeons hold,<br>
+There lingering since Tabaria’s fatal fight,<br>
+By thee restored to liberty and light.’<br>
+&emsp;‘He spoke, and leading past the ample gate,<br>
+In solemn council where his Emirs sate,<br>
+From all around, to loose my captive chain,<br>
+He craved their bounty, nor he craved in vain.<br>
+Seiffeddin and his son with prompt accord,<br>
+And Egypt’s King, and Sindjar’s valiant Lord;<br>
+Young Afdhal, worthy shoot of Ayoub’s race,<br>
+And bold Zeineddin, fair Arbelia’s grace,<br>
+Vied in their gifts; alone Almanzor frown’d—<br>
+When thus the Chief for ^sanguine arms renown’d:[^22]<br>
+‘Warrior, this gem is thine, but know that He<br>
+Thy fraud preserved had found no grace from me;<br>
+Say that the Soldan’s camp is rich with one,<br>
+Whose wrongs, whose hatred seek his life alone;<br>
+Nor care I, though the haughty boast display<br>
+The Western lineage that my lips betray.’<br>
+&emsp;“Wondering I heard, for strange it seem’d to find<br>
+Such rooted hatred in a stripling’s mind;<br>
+Whose form and beardless cheek seem’d fitter far<br>
+For lady’s service than the toils of war.<br>
+&emsp;“Now all had given, but of the mighty debt<br>
+Twelve thousand bysants were uncounted yet;<br>
+When from his stores the Soldan these demands,<br>
+And gives the treasure to my wondering hands.<br>
+‘Receive this pledge of just esteem,’ he cried,<br>
+May still the lasss you teach your actions guide;<br>
+And still your garners every blessing hold.<br>
+As you, when I reclaim, shall pay the Soldan’s gold.’<br>
+&emsp;“Thrice happy gold! too long in bonds opprest,<br>
+The Monarch’s gift what captive pilgrims blest!<br>
+I claim’d my steed, and hasten’d to depart,<br>
+With lighten’d hands, but with a lighter heart;<br>
+My fate, my safety, eager to declare<br>
+To those, I knew, who held that safety dear,<br>
+Nor thought, alas! what hopeless grief was here.”<br>
+&emsp;“Not so! till we have trodden every glade,<br>
+In yon ill-omen’d forest,” Pardo said.<br>
+“We might have known, from Arsouf’s dreadful eve,<br>
+What demons there the spells of horror weave.<br>
+Yet bless me, Prelate! and with heaven my guide,<br>
+Through all its glens undaunted will I ride;<br>
+Bring back my living Liege, or find my rest<br>
+On the cold sod his princely limbs have prest.”<br>
+&emsp;Her sorrows shrouded in her ample veil,<br>
+The anxious Queen had heard the warrior’s tale;<br>
+But yesterday, to treacherous ease betray’d,<br>
+By the cool breezes and the fragrant shade,<br>
+She linger’d, while her maidens sporting round,<br>
+Spread the light banquet on the mossy ground.<br>
+Her gay guitar th’ Iberian virgin strung,<br>
+And to her uprightly songs tbe forest rung;<br>
+There Lusignan beneath the conscious shade<br>
+Told his soft story to the captive maid:<br>
+“How blest were he, would Cyprus Princess deign<br>
+To share her just, hereditary reign.”<br>
+Her glowing cheeks moist eyes, and heaving breast<br>
+Emotions strong as love awakes confest;<br>
+Th’ enamour’d King in breathless rapture gazed,<br>
+But soon she crush’d the hopes her silence rais’d:<br>
+“Ah no!” she sigh’d, “the fates have fix’d my doom,<br>
+A lonely heart, a convent’s pious gloom.”<br>
+&emsp;She spoke, and wandering sought the thickest shade,<br>
+Till sober twilight sadden’d every glade.<br>
+“Alas!” she thought, “while yet a reckless child,<br>
+How oft have I at Cypriot maidens smil’d,<br>
+When gathering flowers, that, bathed in mystic dew,<br>
+Should kindle love, or bind their lovers true.<br>
+Officious memory marks their bloom too well,<br>
+But honour, duty, bid me shun the spell;<br>
+Yet there are plants which, cull’d in twilight hour,<br>
+O’er love unblest assert a holy power.”<br>
+&emsp;Alas! how weak against Maimoune’s guile<br>
+All the soft magic of her amorous isle!<br>
+Not her’s imagination’s love-sick dream,<br>
+Which fancy wakes and fancied balm can tame.<br>
+Yet might she bless the idle search that now<br>
+Had spared her wounded breast a heavier blow,<br>
+And led her distant from the scene of woe;<br>
+When on the breezes borne, the billows roll’d,<br>
+The Moslem shouts their fancied capture told.<br>
+&emsp;As maids, that dancing in the blossom’d mead,<br>
+Hear the deep thunder pealing o’er their head,—<br>
+As mariners, when winds with sullen moan<br>
+Portend the storm, that find their rudder gone,—<br>
+So fared the Christian host; even bearded men,<br>
+That oft had fronted death, were children then.<br>
+In tears the mild Matilda melts away,<br>
+And lost in stupor Berengaria lay;<br>
+Not soon her flowing sorrows gave relief,<br>
+Or her firm spirit rose to strive with grief.<br>
+The hope that long on Albert’s words reposed,<br>
+Died in her bosom, ere his story closed;<br>
+In silence now she turn’d her to depart,<br>
+New cause of anguish smothering at her heart,<br>
+When Bertrand loud in scoffing accents spoke<br>
+(For <span class="smallcaps">Richard’s</span> loss his gloomy rapture woke:)<br>
+&emsp;“Ye, who beguil’d the hours in yonder shade,<br>
+May tell perchance where pale Evanthe stray’d,<br>
+And what soft scenes conceal the pensive maid;<br>
+Or they who mark’d how oft her faded cheeks<br>
+Glow like the morn, when royal England speaks,<br>
+May bid our hearts from idle fears be freed,<br>
+And guess the riddle she alone can read?”<br>
+&emsp;Impetuous anger blazed in Raymond’s eye,<br>
+And Lusignan prepared the warm reply;<br>
+But Berengaria’s glance reproachful stole<br>
+To the dark depths of Bertrand’s sullen soul.<br>
+“And were it thus,” the Queen indignant cried,<br>
+“What fiend is he that tells it to his bride!<br>
+Alas! sweet maid, too much my wretched lot<br>
+Usurp’d my soul; her absence was forgot.<br>
+It wakens hope—with joy her loss I learn<br>
+May she with <span class="smallcaps">Richard</span> stray, with him return;<br>
+For know, base slanderer, wheresoe’er they ride,<br>
+Heaven is their guard, and honour is their guide.”<br>
+&emsp;With hasty steps the noble dame withdrew,<br>
+And baffled Bertrand shrunk abash’d from view.
+
+![curlicue](../cue.jpg)
+
+<a id="book11"></a>
+## Book XI
+
+The Prince of the Assassins
+
+Pardo meanwhile, in lighter mail array’d,<br>
+Prepares оn foot to tempt the dangerous shade.<br>
+But first he calls his gallant friend apart,<br>
+And thus relieves his agonizing heart:<br>
+&emsp;“I would not, Albert, that our comrades fear<br>
+I too am lost; ye know not how or where,<br>
+But do not ask my venturous quest to share.<br>
+I brought the sorrow, let me brave the pain;—<br>
+Nay start not, conscience shall not speak in vain.<br>
+Fool that I was! absorb’d in selfish joy;<br>
+For Lyard heard, and warn’d of danger nigh.<br>
+But thou wilt laugh, my friend, and while I speak<br>
+Shame well may redden on my burning cheek,<br>
+That I, who scorn’d the wanton archer’s power,<br>
+Lost my proud freedom in one luckless hour;<br>
+That many a night, for fair Amina’s sake,<br>
+My heavy eyes have learn’d like thine to wake;<br>
+Well mayst thou taunt me, none so well as thou—<br>
+But check those smiles, I cannot bear them now;<br>
+In happier hours, should happier hours befall,<br>
+Pour forth thy gibes, and I will bless them all.<br>
+&emsp;“Farewell! if now my eager search be vain,<br>
+And I am lost, in heaven we meet again;<br>
+But should my King, my more than sire return,<br>
+To hear my wandering doom, perchance to mourn,<br>
+Say, if his erring favourite still be dear,<br>
+’Twas my last hope that pious hands might rear<br>
+A simple pillar by yon forest side,<br>
+To mark for Richard’s love that Pardo died.<br>
+Oh! had I bled to guard his precious days,<br>
+Or shared thy danger, Albert! and thy praise!<br>
+&emsp;“Still with one anxious wish my heart is fraught— My steed—-yet ’twas not of my steed I thought;
 í know that thou the faithful beast wilt take, And prize my noble roan for Pardo' s sake. But she, Almanzor's child—Oh! while I vow My days to Richard, peril waits her now! I dare not think—but if impell'd by fear She seek this camp, and one no longer here, On thee, my generous Albert, I depend; 40 Receive, protect her,—be indeed my friend. Once more farewell—nay give one smile to bless My venturous way, bright omen of success."— And is he gone? Hc sprung upon his quest, As though his haste might give his feelings rest, And thought, with all her torturing train, depart, Lik e the pale phantoms at the dreamer's start. But though the sun in morning splendour glow'd, To him dark horror wraps the hateful wood; Ah, that those hills, those conscious shades would tell At least the fate of him he lov'd so well. His anxious eye in vain he glanc'd around, Or on his horn the well-known summons wound; Tis but the fawn that from his presence flies, 'Tis but the echo to his call replies.
 At length (for oft through devious paths he stray'd) With weary steps he reach'd the fatal glade; As sweet a fragrance fills the balmy air, As cool the fountain seems, the fruits as fair; And the soft spirit of departed joys 60 Breathes from each flower, and swims before his eyes. What froze his glance?—a scarf distain'd with gore! A scarf! just Heaven! that late Evanthe wore. (< Oh! then were Bertrand's base suspicions true! And луЬа1 dread tale is in that sanguine hue? Yet ever be the hateful lie abhorr'd, Think, Pardo, think more nobly of thy Lord; And emulate his Consort's trust, to prove Thy heart, like hers, deserves a hero's love. And for that stain, behold where all around 70 The slaughter'd boar has died th' enamell'd ground; I will not fear—no not till proof be found. Be hope my guide, and lo! those flowers betray The tread of steeds—sweet seraph, lead the way!"■ Scarcely he stays to lave his burning brow, Or pluck the purple clusters from tbe bough; And fresh as at the earliest hour of morn Onward he hastes, and winds his mellow horn.
 But daylight fades,—he ill may brook delay, Yet fears again in tangled wilds to stray; 80 Nor dares he slumber on the mossy green, Lest wolves assail, or scorpions wound unseen. " I love," hc thought, " a soldier's death to brave, But would not wish a lion's paunch my grave, Or court an aspic's bite—perchance 'twere best To make yon sycamore my eagle's nest, Though snake perchance, or vulture harbour there, Fearless I trust our common parent's care." Up the broad trunk with agile grace he wound, To the tough boughs his ample mantle bound, 90 And slept;—unnoticed sung the bird of night, Nor e'en Amina charms his dreaming sight. What odours from a thousand glowing flois'ers, Fair as the bloom of Irem's fabled boss-ers! 8 What strains from birds all glorious to behold, With wings of purple, emerald and gold, All strange to Europe's niggard summers, borne Round the young sleeper, speak th' awakening morn- Again the wood his hasty meal supplied, Again his steps the frequent footprints guide; 100 Here stately trees obstruct the cheerful day, Here time-bow'd veterans bar the weary way;
