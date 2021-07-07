@@ -3866,14 +3866,173 @@ Breathe one brief prayer for Gortz’ unhappy dame;<br>
 Thy youth has many a rainbow dream to come,<br>
 But mine are past, I sigh but for the tomb.”<br>
 &emsp;“Nay, gentle lady, rouse thee from despair,<br>
-Not less than thou I know the weight of care; 240 Perchance had all for which thy nature sighs, Perchance have lost what most thy heart would prize. But for the grave! oh! if thy fearless soul, Recoiling, start not from the dismal goal, Think that its rest is but for those who tread This darksome vale unfaltering, undismayed. 'Tis that beyond, for which we bravely beai The ills of life—oh î fix thy wishes there. It cannot chase thy woes, but they will seem Like passing clouds that melt beneath the beam , 250 While every flower that decks the glistening spra), Each bird whose carol hails the orient day, Shall lift thy grateful thought to Him on high, Who in that radiance gives them life and joy." " I would—1 wili— oh ' could'st thou safely stay— Thou heed'fet not gold, but, can I aid thy ss ay >" ťť Lady, these paths are rude; my weary feet Bleed at th' unwonted toil." " My steed is fleet,
-And shall bc thine—farewell, be heaven thy guide; Λ But mark me, where thou see'st the way divide,260 V Turn to the right,—'tis to our Austrian pride, j Vienna! but beware the left hand path, It leads to dread Trivallis, chains and death. Farewell, and pray that I may sleep in peace."— (i Dame, I will pray that soon thy griefs may cease; But, rous'd to hope, new joys and softer fears, And proud of all a mother's pleasing cares, Till thou, like Huon and his bride, shall find Heaven yet is gracious, when it seems unkind." Freed from the castle ere the dawn of day, 270 The minstrel Queen pursued her anxious way; Scarce on the right hand path one glance bestow'd, But took, impetuous, the forbidden road. Scarce could she still the beatings of ber breast, Or pause herself, or give her palfrey rest, When the hot sun in cloudless skies was bright, Or glimmering stars diffused a doubtful light. She trod the burning crags, whose ruins spread The dizzy ledge, and beetled o'er ber head; Plunged in rude dells, unconscious of the beam, '260 Or to ib cradle traced tho brawling stream; л 4
-Nor sought the goatherd's shed, —her scrip supplied The scanty meal, she drank the limpid tide. Till when at last those awful walls appear'd, Which cowards fled, and e'en the valiant fear'd, They seem 41 like forms in waking visions wrought, When hope obsequious paints the secret thought. Feli'd was the nearer wood—beyond, it rose To screen the fort, but not to hide its foes: High on a hill, the triple towers were seen, 290 On three huge crags, with horrid depths between;'' A triple fosse the vast enclosure bound, And massy walls the triple vallum crown'd. The stones were black with age, the struggling day Scarce through the loopholes sent a scanty ray. From those dark halls no sounds of welcome breathe, No hamlet shelters in its shade beneath; One awful beam th' autumnal evening threw, That tinged the western front with sanguine hue; While from behind, the moon arising bright, 300 Clothed the pale landscape in contrasted light. She left her steed beneath the beechen shade, (( And art thou there, my best beloved 1" she said,
-ťC Upbraiding all that to thy help should fly, Nor think'st ΛνΙίαΙ fond, what anxious heart is nigh." Eve's last soft flushes fade, and all is still, While veil'd in gloom, she climbs the arduous hill. Rude was the path, nor oft by pilgrim worn, O'ergrown with briars, long, ţvildering and forlorn: Scarce might the horseman trace that dangerous way, Through brakes, impervious to the summer day, Now wrapt in night; while onward as she hies, Scared at her step the birds of carnage rise. At last, yet shrouded in the castle's shade, Cautious she crost its spacious esplanade; Marked each strong wall with towers begirt around, The massy keep ΛνΙ^ lofty turrets c^vn'dj The boy who never dreamt of war might know Those алупл1 ramparts would but mock the foe -, While not one light the abode of man confest, 320 Or gave the weary pilgrim hope of rest. Those grated loopholes o'er the gate—ah there Perchance her Richard wastes ΛνΗΙι secret care! Whose gifts were kingdoms, now by famine dies— His only prospect those relentless skies, His only visitants the bats, that pnnvl Round the grim tower, or nightly hooting owl!
-Mournful she stood; but soon the breeze that sighs Through her lone harp, bids other thoughts arise: " Yet, yet," she said, " some dear familiar strain 330 May reach his cell, and bolts and bars be vain; While, should some jealous warder mark the lay, 'Tis but a minstrel sings to cheer his way. Ah, me! that air to early love so dear, Even in the tomb might rouse my Richard's ear; Oh! could ï pour his deep clear tones along, And steal his accents as I steal his song.' " Frown, frown, Clorinda —I would prize Thy smile o'er all that arms might gain; O'er wealth and fame; yet mock my sighs, 340 My faded cheek, my tears despise, Nor I my fate arraign; While every rival's grief I see. And know that all are scorn'd like mc." She ceased, for from on high a fuller tone, Though faint in distance, blended with her own; That voice, those words could come from one alone.
-Ct Oh smile not, if thou e'er bestow On others, grace I think sincere; Such smiles are like the beams that glow 350 On the dark torrent's bridge of snow, And wreck the wretch they cheer. Thine icy heart I well can bear, But not the love that others share." Bright hour of rapture! who may dare to tell In her fond breast what blended feelings swell! With parted lips, closed eyes, and hands compren, To still th' impetuous beatings of her breast, Listening she stood; while conscious memory strays, To that blest hour when first she heard the lays. 360 Extatic dream—at length her faltering tongue Its grief exprest in emblematic song: " The widow'd dove can never rest, The felon kite has robb'd her nest; With wing unfcired she seeks her mate, To share or change his dreadful fate." Again she paused, and listening, from on high Caught from the friendly gale the faint reply.
-" But kites a higher power obey, Th' Imperial Eagle claims the prey, — k 370 Hence! to his spacious eyrie go, The Eagle is a nobler foe." She strikes the harp—" Farewell? farewell!" Her thrilling notes o f transport swell: " The monarch bird may build his nest On oak, or tower, or mountain crest,— But love can match his daring flight, Can fell the tree, or scale the height." " Ho! who art thou," a surly warder calls, Ci That därest to sing beneath Trivallis' walls >" 380 " A wandering bard, good friend, who fain would win, These awful gates to let the weary in," " Nay, hence—nor dare to touch thy harp again, And thank thy saints 'twas I that heard the strain; Tired as thou art, fly swiftly o'er the heath, And shun these walls as thou would4t shun thy death." But was that pilgrim weary 5 oh í less fleet The mountain chamois plies itb fearless feet:
-" Farewell! my ears are blest though not my eyes, Thy chains shall fall," she warbles as she flies; 390 i{ Thou gentle guardian of my steps, my will, Take my soul's blessing and direct me still. At Haguenau soon the empire's magnates meet, Oh! touch the Eagle's heart—oh! guidemy wandering feet." For many a day through Austria's wide domains, By woods of tapering pine, or mountain plains, By hills the venturous goat alone had track'd, By placid lake or rushing cataract, She wander'd on; and still at evening fall, The woodman's hut, the convent or the hall Had given her rest, till now at day's decline NearEglisau she reach'd the rapid Rhine; Where from the lake its azure current pours, And antique forests crown the lofty shores. Along the verge the lingering sunbeam show'd Before her far a rough and shadowy road. She glanced around, but saw no cottage nigh. A cross was on the crag; lier shuddering eye, Turn'd, awe-struck, from the monument of blood, л But stray'd not far, for, bosom'd in the луоо(1, 410 > Rear'd o'er a spring, a humble chapel stood. *
+Not less than thou I know the weight of care;<br>
+Perchance had all for which thy nature sighs,<br>
+Perchance have lost what most thy heart would prize.<br>
+But for the grave! oh! if thy fearless soul,<br>
+Recoiling, start not from the dismal goal,<br>
+Think that its rest is but for those who tread<br>
+This darksome vale unfaltering, undismayed.<br>
+’Tis that beyond, for which we bravely bear<br>
+The ills of life—oh! fix thy wishes there.<br>
+It cannot chase thy woes, but they will seem<br>
+Like passing clouds that melt beneath the beam,<br>
+While every flower that decks the glistening spray,<br>
+Each bird whose carol hails the orient day,<br>
+Shall lift thy grateful thought to Him on high,<br>
+Who in that radiance gives them life and joy."<br>
+&emsp;“I would—I will— oh! could'st thou safely stay—<br>
+Thou heed'st not gold, but, can I aid thy way?"<br>
+&emsp;“Lady, these paths are rude; my weary feet<br>
+Bleed at th' unwonted toil."<br>
+<span style="margin-left: 10rem;">“My steed is fleet</span>,<br>
+And shall be thine—farewell, be heaven thy guide;<br>
+But mark me, where thou see’st the way divide,<br>
+Turn to the right,—’tis to our Austrian pride,<br>
+Vienna! but beware the left hand path,<br>
+It leads to dread Trivallis, chains and death.<br>
+Farewell, and pray that I may sleep in peace.”<br>
+&emsp;“Dame, I will pray that soon thy griefs may cease;<br>
+But, rous’d to hope, new joys and softer fears,<br>
+And proud of all a mother’s pleasing cares,<br>
+Till thou, like Huon and his bride, shall find<br>
+Heaven yet is gracious, when it seems unkind.”<br>
+&emsp;Freed from the castle ere the dawn of day,<br>
+The minstrel Queen pursued her anxious way;<br>
+Scarce on the right hand path one glance bestow’d,<br>
+But took, impetuous, the forbidden road.<br>
+Scarce could she still the beatings of ber breast,<br>
+Or pause herself, or give her palfrey rest,<br>
+When the hot sun in cloudless skies was bright,<br>
+Or glimmering stars diffused a doubtful light.<br>
+She trod the burning crags, whose ruins spread<br>
+The dizzy ledge, and beetled o’er ber head;<br>
+Plunged in rude dells, unconscious of the beam,<br>
+Or to its cradle traced the brawling stream;<br>
+Nor sought the goatherd’s shed,—her scrip supplied<br>
+The scanty meal, she drank the limpid tide.<br>
+Till when at last those awful walls appear’d,<br>
+Which cowards fled, and e’en the valiant fear’d,<br>
+They seem’d like forms in waking visions wrought,<br>
+When hope obsequious paints the secret thought.<br>
+&emsp;Fell’d was the nearer wood—beyond, it rose<br>
+To screen the fort, but not to hide its foes:<br>
+High on a hill, the triple towers were seen,<br>
+On three huge crags, with horrid depths between;<sup>h</sup><br>
+A triple fosse the vast enclosure bound,<br>
+And massy walls the triple vallum crown’d.<br>
+The stones were black with age, the struggling day<br>
+Scarce through the loopholes sent a scanty ray.<br>
+From those dark halls no sounds of welcome breathe,<br>
+No hamlet shelters in its shade beneath;<br>
+One awful beam th’ autumnal evening threw,<br>
+That tinged the western front with sanguine hue;<br>
+While from behind, the moon arising bright,<br>
+Clothed the pale landscape in contrasted light.<br>
+&emsp;She left her steed beneath the beechen shade,<br>
+“And art thou there, my best beloved!” she said,<br>
+“Upbraiding all that to thy help should fly,<br>
+Nor think’st what fond, what anxious heart is nigh.”<br>
+Eve’s last soft flushes fade, and all is still,<br>
+While veil’d in gloom, she climbs the arduous hill.<br>
+Rude was the path, nor oft by pilgrim worn,<br>
+O’ergrown with briars, long, wildering and forlorn:<br>
+Scarce might the horseman trace that dangerous way,<br>
+Through brakes, impervious to the summer day,<br>
+Now wrapt in night; while onward as she hies,<br>
+Scared at her step the birds of carnage rise.<br>
+At last, yet shrouded in the castle’s shade,<br>
+Cautious she crost its spacious esplanade;<br>
+Marked each strong wall with towers begirt around,<br>
+The massy keep what lofty turrets crown’d;<br>
+The boy who never dreamt of war might know<br>
+Those awful ramparts would but mock the foe;<br>
+While not one light the abode of man confest,<br>
+Or gave the weary pilgrim hope of rest.<br>
+Those grated loopholes o’er the gate—ah there<br>
+Perchance her <span class="smallcaps">Richard</span> wastes with secret care!<br>
+Whose gifts were kingdoms, now by famine dies—<br>
+His only prospect those relentless skies,<br>
+His only visitants the bats, that prowl<br>
+Round the grim tower, or nightly hooting owl!<br>
+Mournful she stood; but soon the breeze that sighs<br>
+Through her lone harp, bids other thoughts arise:<br>
+“Yet, yet," she said, "some dear familiar strain<br>
+May reach his cell, and bolts and bars be vain;<br>
+While, should some jealous warder mark the lay,<br>
+’Tis but a minstrel sings to cheer his way.<br>
+Ah, me! that air to early love so dear,<br>
+Even in the tomb might rouse my Richard's ear;<br>
+Oh! could I pour his deep clear tones along,<br>
+And steal his accents as I steal his song.<sup>i</sup>
+
+> “Frown, frown, Clorinda —I would prize<br>
+> Thy smile o’er all that arms might gain;<br>
+> O’er wealth and fame; yet mock my sighs,<br>
+> My faded cheek, my tears despise,<br>
+> Nor I my fate arraign;<br>
+> While every rival’s grief I see.<br>
+> And know that all are scorn’d like me.”
+
+She ceased, for from on high a fuller tone,<br>
+Though faint in distance, blended with her own;<br>
+That voice, those words could come from one alone.
+
+> “Oh smile not, if thou e’er bestow<br>
+> On others, grace I think sincere;<br>
+> Such smiles are like the beams that glow<br>
+> On the dark torrent’s bridge of snow,<br>
+> And wreck the wretch they cheer.<br>
+> Thine icy heart I well can bear,<br>
+> But not the love that others share.”
+
+Bright hour of rapture! who may dare to tell<br>
+In her fond breast what blended feelings swell!<br>
+With parted lips, closed eyes, and hands comprest,<br>
+To still th' impetuous beatings of her breast,<br>
+Listening she stood; while conscious memory strays,<br>
+To that blest hour when first she heard the lays.<br>
+Extatic dream—at length her faltering tongue<br>
+Its grief exprest in emblematic song:
+
+"The widow'd dove can never rest,<br>
+The felon kite has robb'd her nest;<br>
+With wing untired she seeks her mate,<br>
+To share or change his dreadful fate."
+
+Again she paused, and listening, from on high<br>
+Caught from the friendly gale the faint reply.<br>
+
+> “But kites a higher power obey,<br>
+> Th’ Imperial Eagle claims the prey,—<sup>k</sup><br>
+> Hence! to his spacious eyrie go,<br>
+> The Eagle is a nobler foe.”
+
+She strikes the harp—“Farewell! farewell!"<br>
+Her thrilling notes of transport swell:<br>
+&emsp;“The monarch bird may build his nest<br>
+On oak, or tower, or mountain crest,—<br>
+But love can match his daring flight,<br>
+Can fell the tree, or scale the height."
+
+&emsp;“Ho! who art thou," a surly warder calls,<br>
+“That darest to sing beneath Trivallis' walls?”<br>
+&emsp;“A wandering bard, good friend, who fain would win,<br>
+These awful gates to let the weary in,"<br>
+&emsp;“Nay, hence—nor dare to touch thy harp again,<br>
+And thank thy saints ’twas I that heard the strain;<br>
+Tired as thou art, fly swiftly o'er the heath,<br>
+And shun these walls as thou would’st shun thy death."<br>
+&emsp;But was that pilgrim weary? oh! less fleet<br>
+The mountain chamois plies its fearless feet:
+" Farewell! my ears are blest though not my eyes,<br>
+Thy chains shall fall," she warbles as she flies;<br>
+“Thou gentle guardian of my steps, my will,<br>
+Take my soul's blessing and direct me still.<br>
+At Haguenau soon the empire's magnates meet,<br>
+Oh! touch the Eagle's heart—oh! guide my wandering feet."<br>
+“For many a day through Austria's wide domains,<br>
+By woods of tapering pine, or mountain plains, By hills the venturous goat alone had track'd, By placid lake or rushing cataract, She wander'd on; and still at evening fall, The woodman's hut, the convent or the hall Had given her rest, till now at day's decline NearEglisau she reach'd the rapid Rhine; Where from the lake its azure current pours, And antique forests crown the lofty shores. Along the verge the lingering sunbeam show'd Before her far a rough and shadowy road. She glanced around, but saw no cottage nigh. A cross was on the crag; lier shuddering eye, Turn'd, awe-struck, from the monument of blood, л But stray'd not far, for, bosom'd in the луоо(1, 410 > Rear'd o'er a spring, a humble chapel stood. *
 No glittering shrine, with paltry gems disgraced, Or gaudy hues, deform'd its simple taste; The fount within its marble basin play'd, And, gushing downward in a full cascade, CuiTd o'er its pebbly channel, calm and bright, Then leap'd tumultuous from the woodland height; Huge stones disturb its course, and thickets hide Its humble confluence with the mightier tide. Above the spring, in spotless stone pourtray'd, 420 Near her grave husband stood the Mother-Maid, While He whose s'oice inspired his Lord foreshew'd, Pour'd on his head divine the sacred flood; The opening heaven reveal'd the Dove divine, Beneath, this legend graced the modest shrine: ' e Whoe'er thou art, lone pilgrim, pause and pray, For one like thee, who trod this woodland way; But in the fane his holy zeal had plann'd, Fell by a midnight villain's impious hand. This stream, now deeply purpled with his blood, 430 Ere thou can'st see, shall roll a stainless flood; And He Immortal, who in mercy gave A holier power of cleansing to the wave, Bids prayers for his salvation breath'd alone, In heaven's bright book be treasur'd for thine own."
 " Nor shalt thou lack them, whosoe'er thou art!" Cried the fair wanderer, " 'twere an ingrate's part, To rest me by thy fount, nor ask thy weal; Hear me for him—yet oh! with warmer zeal, Hear me, Great Source whence all our blessings spring! 440 For my loved lord, for England's captive king."— ic Her captive king!" a voice behind began.— Starting she saw a venerable man, In convent cowl; she fear'd her trust betray' d — " May I not pray," in faltering tones she said, " Albeit in realms where ne'er his virtues shone, For him whose gentle sway has blest my own?" ic Nay, fear not me, poor youth î but thou hast said The captive monarch—I had mourn'd him dead." t( Dead', reverend father—can'st thou think the foe, Who work'd his death would hide so bold a blow? Christian or Moslem were too proud to tell, By them the first of English heroes fell."-— " Oh! Iliad hoped thouhad'st some cause of trust— Nay, I will buy thy frankness if I must. A faithful subject never will betray His Monarch's friend—this cowl of humble gray
 Hides the proud Longchamp—thou hast heard my fall, My flight, my dangers—I deserv'd them all. My soul, too high by power unwonted wrought, 460 Forgot the meek humility it taught; Durham forgot it too, but that is past— His rage is sated—and forgiven—at last— Yet ’mid my countless crimes my faithful zeal Was ever, only, for my Monarch's weal; Tell me he lives, that 1 to bim may fly, May ask for pardon at his feet, and die." She rais'd her minstrel cap—her locks of gold O'er her green cloak in bright luxuriance roll'd; a Talk not of death, but live to set him free, 4/0 And know his first, most anxious friend in me," Of all her joys, of all her griefs she spoke, And on their speech the early morning broke. ei Now let us forth; to Haguenau's towers I go, Where meets th' Imperial Court." " But dost thou know," The Prelate said, " in whom thou wouldst confide! Imperial Henry, with his father's pride, Though green in years, combines the Austrian's guile: Think, should he кполу thee, should some daring wile
@@ -4211,6 +4370,6 @@ Note (e), page 354, line 713. Tke easy price of that triumphant day. Only two pe
 
 [^36]: The Frigidus, or cold river, a small but memorable stream in the territory of Gortz, near Aquileia; now called the Vipao.
 
-[^37]: White and green were the appopriate colours of the wandering minstrel.
+[^37]: White and green were the appropriate colours of the wandering minstrel.
 
 [^38]: Alluding to Wieland’s Oberon, founded on the old Romance of Huon de Bordeaux, and translated by Mr. Sotheby into English verse.
