@@ -3537,7 +3537,7 @@ Strove, feebly strove, to raise a secret door;<br>
 But from his lair the watchful Albert springs,<br>
 Prone on the ground th’ astonish’d wretch he flings:<br>
 “Speak or thou diest,”—<br>
-<span style="margin-left: 10rem;">“Yes! rather will I die</span>,<br>
+<span style="margin-left: 12rem;">“Yes! rather will I die</span>,<br>
 Than shew thee where my master’s treasures lie.”<br>
 &emsp;“Edric!—just Heaven!—then all may yet be well,<br>
 ’Tis Albert speaks—but where is Rosabelle?”<br>
@@ -3564,12 +3564,71 @@ But let this day in martial games be past;<br>
 Too long my sadness has your mirth represt,<br>
 But now I bid you spread the joyful feast.’<br>
 &emsp;“Ill-omen’d feast! perchance less strongly barr’d<br>
-Our gates were left, less watchful was our guard. The sun was set, the goblet circled round, AH lesser noise our jovial chorus drown'd; When lo! an armed band, unmark'd before, From the full board three struggling yeomen bore. ’Twas dusk—helm, sword, and shield were laid aside, But with such arms as haste and chance supplied We rose—across the bridge and through the wood, The stranger villains fled, and we pursued; Unconscious of the lurking ambuscade, 940 To death or slavery were our band betray'd. Confused, unarmed, the flower of all our train With thee in Syria, our defence was vain; To each unguarded heart the falchion sped— Yon bog engulph'd the dying and the dead. " And now a troop, who shamed the spurs they wore, Thy weeping lady from tlie castle bore, And all her train!—Oh! had I then been free,— Yet what were one?—I bent the suppliant knee,
-I proffer'd half thy wealth.—With scornful smile, 950 Their Chief replied, < For many a weary mile, O'er land and flood, from distant realms we came For this fair prize, and shall I yield the dame? Forego the hope!—yet be thy treasures shewn; Her freedom heed not, but secure thiue own: So thou, if here thy wandering lord return, May'st tell thy tale, aud teach him how to mourn.'— (t Ney er" —I said. i( Die then, rash fool!" he cried, And pierc'd, unknightly, my unguarded side. Senseless I fell:—when thought return'd, I found 960 The villains fle л , and all in silence round. Feebly I totter'd here, a knight and squire Were all I saw, safe slumbering by the fire. Oh! had I guest it thee, my gallant Chief, What joy had given my bleeding heart relief!" " And know'st thou not fromwhence the trai tor came, His rank, his arms, to give my vengeance aim?" " His speech was Austrian, and his antique shield, A Griffin dreadful on a crimson field." Soon Edric's spirit wing'd its peaceful flight, 9/0 And weeping England claim'd her lingering knight. " Too long have private woes delay'd," he cried, t( Alas! those fatal words, c not e'en thy bride.' Λί 4
-Yet said he not au Austrian? Heavenly Power! Thy ways are wondrous! teach us to adore. For there at least shall Schorndorfs noble heir My sorrows lighten and my dangers share. Friend of my youth, oh! should'st thou, Theodore, At once my Sovereign and my bride restore!"— He left his desert halls and lone domain; 980 "ч Two reverend Abbots form'd his peaceful train, \ And favouring breezes bore him o'er the main. 1,END OF BOOK XII,
-CŒUR DE LION.,BOOK XIII.,THE CASTLE OF TRIVALLIS.
-ARGUMENT.,THE CASTLE OF TRIVALLIS. BerengaHa assumes the garb of a minstrel—Meets with Count Maynard of Gortz, and accompanies him to his castle — Entertains the lady with her minstrelsy — Gathers information from the domestics of an unknown prisoner at Trivallis — The lady warns her of danger from the Count, and assists her to escape — Tlie castle of Trivallis — The song, and recognition of Richard —The meeting with Longchamp.—Journey of Albert through the Black Forest, and appearance of the mys- terious flame—His arrival at Schorndorf— Behaviour of Ulric and Theodore — Discourse of the vassals at table-—The captive lady — The shield — The ring — Theodore and Albert — The prophecy — Departure of Albert—The rural bower, and appearance of Rosa- belle — Arrangements for ht τ escape — Albert loses himself in the forest, and f olL-ws the mysterious fire to the sepulchral cavern — The treachery of Ulric — The death of Theodore — Fulfilment of the prophecy — The Queen and Longchamp arrive at Schorn¬ dorf.
-CŒUR DE LION.,BOOK хш.,THE CASTLE OF TRIVALLIS. Mkanwhile the Queen, in safety borne to land, Knelt, meekly thankful, on the desert strand. Nor town nor tower were near;—she sought repose, Where on the beach a fisher's hut arose: There, lone in age, a hospitable pair The wanderer welcomed to their homely fare. A minstrel youth, his lowly state above, Who saw his lady's charms, and dared to love, Erewhile, as from his jealous lord he fled, To this lone shore malicious fortune led. 10
+Our gates were left, less watchful was our guard.<br>
+The sun was set, the goblet circled round,<br>
+All lesser noise our jovial chorus drown’d;<br>
+When lo! an armed band, unmark’d before,<br>
+From the full board three struggling yeomen bore.<br>
+’Twas dusk—helm, sword, and shield were laid aside,<br>
+But with such arms as haste and chance supplied<br>
+We rose—across the bridge and through the wood,<br>
+The stranger villains fled, and we pursued;<br>
+Unconscious of the lurking ambuscade,<br>
+To death or slavery were our band betray’d.<br>
+Confused, unarmed, the flower of all our train<br>
+With thee in Syria, our defence was vain;<br>
+To each unguarded heart the falchion sped—<br>
+Yon bog engulph’d the dying and the dead.<br>
+&emsp;“And now a troop, who shamed the spurs they wore,<br>
+Thy weeping lady from the castle bore,<br>
+And all her train!—Oh! had I then been free,—<br>
+Yet what were one?—I bent the suppliant knee,<br>
+I proffer’d half thy wealth.—With scornful smile,<br>
+Their Chief replied, ‘For many a weary mile,<br>
+O’er land and flood, from distant realms we came<br>
+For this fair prize, and shall I yield the dame?<br>
+Forego the hope!—yet be thy treasures shewn;<br>
+Her freedom heed not, but secure thine own:<br>
+So thou, if here thy wandering lord return,<br>
+May’st tell thy tale, and teach him how to mourn.’<br>
+&emsp;“Never” —I said. “ Die then, rash fool!” he cried,<br>
+And pierc’d, unknightly, my unguarded side.<br>
+Senseless I fell:—when thought return’d, I found<br>
+The villains fled, and all in silence round.<br>
+Feebly I totter’d here, a knight and squire<br>
+Were all I saw, safe slumbering by the fire.<br>
+Oh! had I guest it thee, my gallant Chief,<br>
+What joy had given my bleeding heart relief!”<br>
+&emsp;“And know’st thou not from whence the traitor came,<br>
+His rank, his arms, to give my vengeance aim?”<br>
+&emsp;“His speech was Austrian, and his antique shield,<br>
+A Griffin dreadful on a crimson field.”<br>
+&emsp;Soon Edric’s spirit wing’d its peaceful flight,<br>
+And weeping England claim’d her lingering knight.<br>
+“Too long have private woes delay’d,” he cried,<br>
+“Alas! those fatal words, ‘not e’en thy bride.’<br>
+Yet said he not an Austrian? Heavenly Power!<br>
+Thy ways are wondrous! teach us to adore.<br>
+For there at least shall Schorndorf’s noble heir<br>
+My sorrows lighten and my dangers share.<br>
+Friend of my youth, oh! should’st thou, Theodore,<br>
+At once my Sovereign and my bride restore!”<br>
+&emsp;He left his desert halls and lone domain;<br>
+Two reverend Abbots form’d his peaceful train,<br>
+And favouring breezes bore him o’er the main.
+
+<a id="book13"></a>
+## Book XIII
+
+### The Castle of Trivallis
+
+Meanwhile the Queen, in safety borne to land,<br>
+Knelt, meekly thankful, on the desert strand.<br>
+Nor town nor tower were near;—she sought repose,<br>
+Where on the beach a fisher’s hut arose:<br>
+There, lone in age, a hospitable pair<br>
+The wanderer welcomed to their homely fare.<br>
+A minstrel youth, his lowly state above, Who saw his lady's charms, and dared to love, Erewhile, as from his jealous lord he fled, To this lone shore malicious fortune led. 10
 To ocean's winds he pour'd his plaintive song, Or sigh'd that river's shadowy banks along, Which, bursting from Goritia's heights, retains Its mountain cold in Aquileian plains.* One sultry noon he sought the frigid wave, Too rashly dared, and found a wat'ry grave. Now for her dripping weeds the gentle Queen His harp assumes, and vesture, white and green;f With liberal hand a due reward bestow'd, And took at early dawn, her lonely road. 20 Oft as she stray'd, while passing fancies fire, She wakes soft music from the trembling lyre.— ’Twas autumn: yet, by fervid noon opprest, Now on a shelter'd bank she paus'd to rest -, A knight who homeward leads with gentle pace His train, victorious in the morning chace, Glanced on the bard,— who, heaven-directed, strung The ready harp, and thus spontaneous sung:
 " Turn, knight! a weary minstrel sings; The dews relax his trembling strings, 30 And hunger chills his tongue; Yet blest shall be the hand that brings, A cup to cheer the Child of Song. ťí From fair Provence, my native land, I've roam'd to many a foreign strand, Nor found my wandering» long; While still my strains repaid the hand, Which cheer'd the vagrant Child of Song. f< Thou goest—then take the minstrel's curse,— Be bold, be great, but never verse 40 Thy memory shall prolong; Forgot, ere lifted from thy hearse, For thou hast scorn'd a Child of Song." íť A winning strain!" the haughty Maynard cried, Thy saucy boldness I were best to chide: Yet come with me, I reck not of thy curse, But my sick dame may love thy southern s r erse; And (or thy art will poorly pay thy pain) For lady's ear thou timest a softer strain."
 Dark was Coufit Maynard, and his scowling look 3 Had yet less promise than his accents spoke. The towers of Gortz, upon the forest side, Less shew'd his liberal spirit than his pride. There all was grand, and numerous vassals found His ample board with daily plenty crown'd; But ’mid the guests still lurk'd distrust and fear, Nor habit chaeed restraint, nor wine could cheer. His dame was one whose early fancy wove, And young experience broke, her dreams of love; She found her lord still first in tilt or fight, 60 Still drest in smiles for high-born beauty's sight, But the smooth brow, the courtier grace, that shone In other mansions, never cheer'd his own. Though still due honours to her rank he gave, And gilt his victim's cage—a splendid slave— Her heart was chiil'd, her hour of rapture o'er, Her roses wither'd, ah í to bloom no more. Her disappointed spirit oft was shewn In look of discontent, or peevish tone; And her harsh chiding, ’mid her virgin train, 70 Oft sprung the tear her kindness dried again. And now, though anxious for his promis'd heir, Count Maynard's pride could ape affection's care;
