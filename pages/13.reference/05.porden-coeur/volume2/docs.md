@@ -42,6 +42,7 @@ hr {width: 80%; margin: auto; margin-top: 3em; margin-bottom: 2rem;}
 
 .smallcaps {font-variant: small-caps; color: maroon; font-size: 1.1rem; letter-spacing: 0.2px;}
 
+.smc {font-variant: small-caps; color: black; font-size: 1.1rem; letter-spacing: 0.2px;}
 
 blockquote
 {
@@ -4259,7 +4260,7 @@ When, while in vain a careless tone he tried,<br>
 Loid Ulric spoke: “If to admire,” said he,<br>
 &emsp;“Be wrong, your pardon for discourtesy,<br>
 But ne’er beheld I emerald ring so bright,—<br>
-Perchance some token of triumphant fight?”
+Perchance some token of triumphant fight?”<br>
 The Knight presents it:—“If by fortune mine,<br>
 Baron, thou likest it, and ’twere freely thine,<br>
 But ’twas a Mother’s gift,—the only trace<br>
@@ -4311,8 +4312,8 @@ I come at once to claim and promise aid.<br>
 The future fortunes of his life enquir’d;<br>
 The forest trembled, and these words divine,<br>
 In flames were murmur’d from Irmensul’s shrine:<br>
-‘<span class="smallcaps">Thou shalt be Schohndorf’s Lord, but mark</span>,’ it said,<br>
-‘<span class="smallcaps">The hour that sees thee childless, sees thee dead!</span>’<br>
+‘<span class="smc">Thou shalt be Schorndorf’s Lord, but mark</span>,’ it said,<br>
+‘<span class="smc">The hour that sees thee childless, sees thee dead!</span>’<br>
 A numerous race he own’d; but all are past,<br>
 Like summer blossoms,—I remain the last;<br>
 And hence, more careful of the double life,<br>
