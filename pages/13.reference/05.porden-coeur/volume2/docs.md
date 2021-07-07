@@ -4334,22 +4334,298 @@ Deep in the wood, sequester’d from my aid,<br>
 Oh! can I sail and leave the wretched maid?<br>
 Nought but his death his purpose can withstand,<br>
 I am his son—that thought restrains my hand;<br>
-But thine is free!”— With horror Albert hears<br>
-The knell of friendship sounding in his ears; i( Accursed wretch! no farther taint the air With words so impious, that I blush to hear; My heart enshrined thee once,—but Theodore, Spare thy lost friend, and let us meet no more." 700 Upsprung the youth, with sad but eager look He seized the Knight's reluctant hand, and spoke: " Nay, Albert, cast me not in scorn away-*- Think of our mutual deeds in battle fray; How we one board, one couch, one danger shared, How oft this hand hath been thy guide, thy guard; Or how thy words, when resting from our toil, Fell, still I hope, on no ungrateful soil. Yet Fcarcely wean'd from dark Irmensul's shrine, We bow, but coldly, at the Name Divine; 7Ю And deeds that startle in your happier clime, 'Mid these rude shades were scarcely deem'd a crime. Inur'd from earliest youth to blood and war. To push the spear, or whirl the scythed car,
-Scarce stronger bonds unite the sire and child Than bind the tenants of yon sable wild; And why should mine be dear? His stern control Check'd each kind feeling of my opening soul; In his harsh sway my mother droop'd and died,— His pride, not love, my infant wants supplied; 7^0 My hawk was kinder; I was forced to roam, And seek from beasts the kwe denied at home. Thou can'st not tell how hearts, long doom'd to find All they should prize, repulsive and unkind, Cling to a friend—how dear thou wert to mine! I listen'd, and my soul seem'd wrapt in thine. Behold thy sway, the thought that stain'd my heart, Once blamed by thee, for ever shall depart; I vow to guard his life—but this fair flower, And thou, dear youth! thou too art in his power. 730 Despise, distrust, detest me if thou wilt, Yet 'twas for thee I plunged so deep in guilt; And, but my father knows our fates entwined, I had not lived to thwart his jealous mind. But late I left his side—with smother'd breath He said he fear'd thee, bade me work thy death. ť Father,' I said, ť if thou my friend destroy, The hour that Albert falls, thy son shall die.'—
-ŕ Then perish first, rash fool ľ he madly said, But o*er his brow a livid paleness spread: 740 * The Prophecy ľ he cried, and dropp'd his blade.. Not less the guilt that made him Schorndorf’s heir:— Depart at dawn, and oh! my friend, beware!" He rose, and slowly to the portal crept, Then turned, and fell on Albert's neck, and wept. ťť We meet again, perchance—but jealous eyes Will watch, thy safety then will need disguise; Thou can'st not feel what weight is at my heart— Coulďst thou forgive me, Albert—ere we part?" " Alas!" he answer'd, cC plunged so deep in ill,— Hast thou, poor youth, auch kindly feeling still? Farewell,—thy pardon must be sought from heaven, By my full heart thou wert too soon forgiven." His parting paid, ât dawn the generous Knight Rides from the fort, now hateful to his sight: Yet round the walls, though danger hover near, He still must linger, 'till his train appear j— Meanwhile he purposM , mld the forest shade To seek the guiding light and captive maid. He traced a devious path, now smooth and plain, 76^ Now sunk in wood, and now reveal'd again;
-Yet deeper in the endless groves it wound, And darker, denser, closed the forest round. Gigantic elms, vast sheets of sable pine, With beech, and birch, and knotted oak combine; And blasted trees, whose branches scorch'd and bare, To fancy's eye terrific semblance wear. The raven croaks above the warrior's head, And wolves howl dreadful in the dismal shade; And bears, scarce shrinking from the doubtful day, Stalk through the brakes, and seem to mark their prey. When lo! enshrined amid the darkest wood, A fairy bower in sweet seclusion stood! The groves retiring, left a lovely vale Bare to the south, hut screen'd each ruder gale; And flowers of sweetest scent diffused around, With living gems enamell'd all the ground. The gentian here in heaven's own azure glows, The lily pale, and Austria's golden rose; On this fair scene the moonbeams longest play, 780 The sun enamour'd darts his earliest ray; And when the woods a sober livery wear, His latest radiance loves to linger there. Low was the bower, through woodbines dimly seen* Sweet eglantine, and ivy's clustered green;
-But jealous care secures th' enchanted ground, Deep trenches guard, and iron spikes surround. By hope and fear, and love's impatience torn, The Knight yet dreads to wind his bugle horn; When, murmuring from a cell, unseen though near, Soft female accents strike his joyful ear; Oh, love alone- those whisper'd words might hear: " Ela, my keeper grants my suit—once more To see myfriend, the generous Theodore; Yet little does he deem, by him restored, That my fond bosom trusts to meet its lord. How can this Baron think my faith to move! Ere Albert sought me I repuls'd his love— But hark! that horn!" With hurried hand she drew The branches baek, and blest her warrior's view. 800 Who then might paint their eloquence of joy, In speech, in silence, or th' expressive eye; Yet vainly Albert scann'd the guarded ground, His starting steed refused the dreadful bound. "Oh, tempt it not, sweet Lord!" she cried, " to¬ night My love and prudence shall contrive our flight y At midnight, by his snowy plumage known, Comes Theodore, in silence and alone.
-Wear thou the silvery plume, thy sure defence, Prevent th' appointed hour, and bear me hence: 810 The bridge once down, the portal once unbarr'd, Weak is my keepers arm, and slight the guard. But hark to yonder bugle's warning notes, See where on high the bloody banner floats! My tyrant comes; oh, shun his jealous eye! The hateful Ulric—do not speak, but fly." He turn'd, and plunging in the thickest shade, " Ride thou before, my trusty squire," he said, " And to that hamlet where the passes met Bring the white signal ere the daylight set." 820 The knight, meanwhile, whose joyous fancies rove, Lost in delightul dreams of bliss and love That break and knit a thousand times the chain, Drops on his palfrey's neck the careless rein; Nor mark'd his devious wanderings, till at last An oak's rough branches brush'd him as he past. The sun already sinking in the west, Of time mispent the sickening thought imprest; At every step he marks the fading light, And fate, malicious, seems to urge the night; 830 While if his steed some fancied track pursued, His hopes deceitful, sunk in denser wood.
-Chill darkness reigns, when Io! with brighter beam, Large and more near, shines forth the mystic flame. Fain would he now repulse the potent spell, And turn his struggling steed to Rosabelle; But vain the curb, each moment gives it force, He yields at last, and spurs his foaming horse. He follows long, till full before the Knight, Deep in a cavern fix'd the wondrous light! 840 Sure awful nature in her wildest hour Framed this stupendous monument of power! Less vast, less splendid, Staffa's vaunted cave, Whose broken pillars chafe the northern wave. White as the spacious vault they bore aloof, Light, slender columns rear the fretted roof; 'Mid the rich spars the mimic flowers appear, And ghastly faces grin grotesquely there: In arches here the rich concretions bend, And bases there to meet their shafts ascend, 850 Thick twined with wreaths of rainbow crystal round, As if some fay the mimic garlands bound. Not long the Beacon stood,—its wondrous light Again leads on, unfolding to his sight New caves, new arches, regular and grand, That mock the pigmy toils of mortal haud:
-At length, condensing all its scatter'd fires, The sanguine globe shoots upward and expires. Th' affrighted steed stops short, and hark! the sound Of roaring streams beneath the hollow ground. 860 The Knight dismounts, but every beam is fled, And deepest darkness gathers round his head: When glimmering torches through the woods appear, And clattering hoofs announce pursuers near. The brightening lights approach, and now they shone On a tall aisle with ivy half o'ergrown: Scarce had he reach'd its shade, when sword in hand Perfidious Bernard leads the treacherous band; With blazing torch he rushes to the cave, \ " This way he past, nor all his saints can save, 870 > Yet wield your weapons well, my lord is brave!" j He spoke—they gallop'd o'er the cavern floor, Sunk in the hidden gulph, and rose no more. Scarcely the Knight his grateful soul had rais'd To guardian Heaven, when lo! the Beacon blazed j And stood majestic on a mouldering pile, Embosom'd deep within the vaulted aisle, Where the dark cypress in funereal gloom, Wept o'er the mound that should have been a tomb. VOL. η. ρ
-But all uncover'd, on the stone was laid 880 The wasted form, in splendid arms array'd, And yet untouch'd by time, his burnish'd brand Grasp'd in the skeleton's unyielding hand. His crimson shield the griffin's wings display'd, The sable griffin nodded o'er his head. Brave Albert touch'd the sword, the rigid clasp Was loosen'd, and he fits it to his grasp; Admiring, as its ponderous length he sway'd, The jewell'd hilt, the red and fiery blade. But now a second, larger band appears, 890 And heavier steeds, and louder shouts he hears! He turns, he trusts to see the flame expire, But broader, brighter glares the magic fire; Shoots back its beams from every sparry height, And wraps the warrior in one sheet of light: While as again the fiery sword he raised, The wondrous blade with living lustre blazed. They hurry on, impetuous as the wind, Ulric alone, fierce Ulric lags behind— But when they saw the dread, mysterious light, 900 The луеН -known armour of the lifeless Knight, The funeral mound, as if by sudden spell The steeds were stopp'd, the lifted lances fell.
-The hoary Seneschal, at Albert's feet (Stung by remorse) drops powerless from his seat: " It is fulfill'd!—my murder'd master's brand Gleams in his injur'd son's vindictive hand! Albert of Schorndorf— here I saw him bleed— Arise, avenge him—'twas his brother's deed!" " Tis false! " cried Ulric; ťí seize the stranger Knight! What! do ye doubt? then arms shall-prove my right!" But guilt unnerv'd his arm, and Albert sway'd. Strong in his truth, th' hereditary blade. The Baron fell,—when now his comrades bore The lifeless corse of ardent Theodore: The silvery plume the youth to death betray'd, The father's treason reach'd his offspring's head. Sadly they laid him by his parent's side, Who own'd just Heaven's avenging hand, and died. And now the flame dilating, broad and bright, 920 Moves in a pyramid of sanguine light: Wrapp'd in one blaze, in one sad heap were piled The murder'd lord, the brother, and his child; All night it glow'd, a self-sustaining fire, Till with the dawn th' unearthlyiflames expire. Soon in a temple's consecrated gloom The pious Albert shrined his father's tomb; p 2
-And whcre to Heaven appeal'd the righteous blood, The cloister rose, the nightly anthem flow'd. 'Twere long to tell what Albert now was told, 930 His father's fate, and Ulric's crimes of old; How with her infant son his mother fled, To all unknown, the Baron deem'd them dead; Or how that prophecy, concealed from all Save Theodore, and that grey Seneschal, "When Schorndorf’s heir shall wield his father's sword, Then shalt thou perish, childless, undeplored." How waked suspicion, and how Bernard sold His honour and his master's life for gold. ’Twas night—the lute's soft sound, the trumpet's clang 940 Was heard, the dance had ceas'd, the beakers rang; With love and joy the antique chambers ring, And merry minstrels touch'd their blythest string, While the full vaults their richest nectar pour'd To Albert's bride, and Schorndorf’s new-found lord. The warder came, i( beneath the castle door Two weary strangers rest and aid implore; A hoary pilgrim one, sedate and sage, One bears a harp, and seems of tender age."
-" Fling wide the gates, and spread the choicest cheer, Our deadliest foe to-night were welcome here," Blythe Albert spoke, and then with gesture bland, Cf Hail! pilgrims, hail, from Syria's holy strand! Speak, if perchance your happier speed may bring Tidings of England's host, or England's King?" " Oh, joy unhoped!" the younger stranger cried, Stout Longchamp flung his broad-brimm'd hat aside, While Berengaria, o'er her neck of snow, Gave her rich locks of burnish'd gold to flow. Th' astonish'd vassals knelt—with courteous grace, Their Queen uprais'd them in a warm embrace; Each of the other's fate in haste inquir'd, Nor fail'd the theme, nor mutual wonder tired, Till o'er the zenith night's black coursers flew, And each glad guest to late repose withdrew.,END OF BOOK XIII,,Ρ о
-CŒUR DE LION.,BOOK XIV.,THE IMPERIAL SYNOD.
-ARGUMENT.,THE IMPERIAL SYNOD. The departure from Schorndorf — Meeting ivith the Archbishop of Cologne and Count Maynard, who are escorting King Richard to Haguenau — Interview between Albert and his Monarch—The Envoys of Austria resign their captive into the hands of the Em¬ peror — Fisit of Berengaria and Longchamp to Rich¬ ard in his prison—The assembling of the Diet — The Ambassadors of England demand the King, and threaten the Emperor with war. — The reply of Henry —-The charges againstRicMAiiD — His vindication — The ransom proposed — Magnanimity of the German nobles — Transactions in Palestine — Behaviour of Hermesind at a tournament—Amval of a band of female Pilgrims; and meeting of the Princess Helen with Matilda-—Continuation of the Pilgrimage, and illness of Helen — She is sheltered in the cell of an Anchorite—Her confession; and discovery of the Hermit-—Death of Helen, and of the Hermit.
-CŒUR DE LION.,BOOK XIV.,THE IMPERIAL SYNOD. Long years had past since morning rose so bright On Schorndorf’s towers, or waken'd hearts so light; The nightmare-weight of Ulric's rule was gone, And like a sunbeam Albert's virtues shone: But shone not long, to claim their Lord again The reverend Abbots came, and knightly train. One hour of busy grief, one sad fareweil, Were all that love might yield to Rosabelle; The Queen impatient sees, and hastes to part— Such scene was torture to her suffering heart. 10
+But thine is free!”—<br>
+<span style="margin-left: 8rem;">With horror Albert hears</span><br>
+The knell of friendship sounding in his ears;<br>
+“Accursed wretch! no farther taint the air<br>
+With words so impious, that I blush to hear;<br>
+My heart enshrined thee once,—but Theodore,<br>
+Spare thy lost friend, and let us meet no more.”<br>
+Upsprung the youth, with sad but eager look<br>
+He seized the Knight’s reluctant hand, and spoke:<br>
+&emsp;“Nay, Albert, cast me not in scorn away-<br>
+Think of our mutual deeds in battle fray;<br>
+How we one board, one couch, one danger shared,<br>
+How oft this hand hath been thy guide, thy guard;<br>
+Or how thy words, when resting from our toil,<br>
+Fell, still I hope, on no ungrateful soil.<br>
+Yet scarcely wean’d from dark Irmensul’s shrine,<br>
+We bow, but coldly, at the Name Divine;<br>
+And deeds that startle in your happier clime,<br>
+’Mid these rude shades were scarcely deem’d a crime.<br>
+Inur’d from earliest youth to blood and war.<br>
+To push the spear, or whirl the scythed car,<br>
+Scarce stronger bonds unite the sire and child <br>
+Than bind the tenants of yon sable wild;<br>
+And why should mine be dear? His stern control<br>
+Check’d each kind feeling of my opening soul;<br>
+In his harsh sway my mother droop’d and died,—<br>
+His pride, not love, my infant wants supplied;<br>
+My hawk was kinder; I was forced to roam,<br>
+And seek from beasts the love denied at home.<br>
+Thou can’st not tell how hearts, long doom’d to find<br>
+All they should prize, repulsive and unkind,<br>
+Cling to a friend—how dear thou wert to mine!<br>
+I listen’d, and my soul seem’d wrapt in thine.<br>
+Behold thy sway, the thought that stain’d my heart,<br>
+Once blamed by thee, for ever shall depart;<br>
+I vow to guard his life—but this fair flower,<br>
+And thou, dear youth! thou too art in his power.<br>
+Despise, distrust, detest me if thou wilt,<br>
+Yet ’twas for thee I plunged so deep in guilt;<br>
+And, but my father knows our fates entwined,<br>
+I had not lived to thwart his jealous mind.<br>
+But late I left his side—with smother’d breath<br>
+He said he fear’d thee, bade me work thy death.<br>
+‘Father,’ I said, ‘if thou my friend destroy,<br>
+The hour that Albert falls, thy son shall die.’<br>
+‘Then perish first, rash fool!’ he madly said,<br>
+But o’er his brow a livid paleness spread:<br>
+‘The Prophecy!’ he cried, and dropp’d his blade.<br>
+Not less the guilt that made him Schorndorf’s heir:—<br>
+Depart at dawn, and oh! my friend, beware!”<br>
+&emsp;He rose, and slowly to the portal crept,<br>
+Then turned, and fell on Albert’s neck, and wept.<br>
+“We meet again, perchance—but jealous eyes<br>
+Will watch, thy safety then will need disguise;<br>
+Thou can’st not feel what weight is at my heart—<br>
+Coulďst thou forgive me, Albert—ere we part?”<br>
+&emsp;“Alas!” he answer’d, “plunged so deep in ill,—<br>
+Hast thou, poor youth, such kindly feeling still?<br>
+Farewell,—thy pardon must be sought from heaven,<br>
+By my full heart thou wert too soon forgiven.”
+
+His parting paid, at dawn the generous Knight<br>
+Rides from the fort, now hateful to his sight:<br>
+Yet round the walls, though danger hover near,<br>
+He still must linger, ’till his train appear:<br>
+Meanwhile he purpos’d, ’mid the forest shade<br>
+To seek the guiding light and captive maid.<br>
+He traced a devious path, now smooth and plain,<br>
+Now sunk in wood, and now reveal’d again;<br>
+Yet deeper in the endless groves it wound,<br>
+And darker, denser, closed the forest round.<br>
+Gigantic elms, vast sheets of sable pine,<br>
+With beech, and birch, and knotted oak combine;<br>
+And blasted trees, whose branches scorch’d and bare,<br>
+To fancy’s eye terrific semblance wear.<br>
+The raven croaks above the warrior’s head,<br>
+And wolves howl dreadful in the dismal shade;<br>
+And bears, scarce shrinking from the doubtful day,<br>
+Stalk through the brakes, and seem to mark their prey.<br>
+When lo! enshrined amid the darkest wood,<br>
+A fairy bower in sweet seclusion stood!<br>
+The groves retiring, left a lovely vale<br>
+Bare to the south, but screen’d each ruder gale;<br>
+And flowers of sweetest scent diffused around,<br>
+With living gems enamell’d all the ground.<br>
+The gentian here in heaven’s own azure glows,<br>
+The lily pale, and Austria’s golden rose;<br>
+On this fair scene the moonbeams longest play,<br>
+The sun enamour’d darts his earliest ray;<br>
+And when the woods a sober livery wear,<br>
+His latest radiance loves to linger there.<br>
+Low was the bower, through woodbines dimly seen,<br>
+Sweet eglantine, and ivy’s clustered green;<br>
+But jealous care secures th’ enchanted ground,<br>
+Deep trenches guard, and iron spikes surround.<br>
+&emsp;By hope and fear, and love’s impatience torn,<br>
+The Knight yet dreads to wind his bugle horn;<br>
+When, murmuring from a cell, unseen though near,<br>
+Soft female accents strike his joyful ear;<br>
+Oh, love alone those whisper’d words might hear:<br>
+&emsp;“Ela, my keeper grants my suit—once more<br>
+To see my friend, the generous Theodore;<br>
+Yet little does he deem, by him restored,<br>
+That my fond bosom trusts to meet its lord.<br>
+How can this Baron think my faith to move!<br>
+Ere Albert sought me I repuls’d his love—<br>
+But hark! that horn!” With hurried hand she drew<br>
+The branches back, and blest her warrior’s view.<br>
+Who then might paint their eloquence of joy,<br>
+In speech, in silence, or th’ expressive eye;<br>
+Yet vainly Albert scann’d the guarded ground,<br>
+His starting steed refused the dreadful bound.<br>
+&emsp;“Oh, tempt it not, sweet Lord!” she cried, “to-night<br>
+My love and prudence shall contrive our flight;<br>
+At midnight, by his snowy plumage known,<br>
+Comes Theodore, in silence and alone.<br>
+Wear thou the silvery plume, thy sure defence,<br>
+Prevent th’ appointed hour, and bear me hence:<br>
+The bridge once down, the portal once unbarr’d,<br>
+Weak is my keepers arm, and slight the guard.<br>
+But hark to yonder bugle’s warning notes,<br>
+See where on high the bloody banner floats!<br>
+My tyrant comes; oh, shun his jealous eye!<br>
+The hateful Ulric—do not speak, but fly.”<br>
+&emsp;He turn’d, and plunging in the thickest shade,<br>
+“Ride thou before, my trusty squire,” he said,<br>
+“And to that hamlet where the passes met<br>
+Bring the white signal ere the daylight set.”<br>
+The knight, meanwhile, whose joyous fancies rove,<br>
+Lost in delightul dreams of bliss and love<br>
+That break and knit a thousand times the chain,<br>
+Drops on his palfrey’s neck the careless rein;<br>
+Nor mark’d his devious wanderings, till at last<br>
+An oak’s rough branches brush’d him as he past.<br>
+The sun already sinking in the west,<br>
+Of time mispent the sickening thought imprest;<br>
+At every step he marks the fading light,<br>
+And fate, malicious, seems to urge the night;<br>
+While if his steed some fancied track pursued,<br>
+His hopes deceitful, sunk in denser wood.<br>
+Chill darkness reigns, when lo! with brighter beam,<br>
+Large and more near, shines forth the mystic flame.<br>
+Fain would he now repulse the potent spell,<br>
+And turn his struggling steed to Rosabelle;<br>
+But vain the curb, each moment gives it force,<br>
+He yields at last, and spurs his foaming horse.<br>
+He follows long, till full before the Knight,<br>
+Deep in a cavern fix’d the wondrous light!<br>
+Sure awful nature in her wildest hour<br>
+Framed this stupendous monument of power!<br>
+Less vast, less splendid, Staffa’s vaunted cave,<br>
+Whose broken pillars chafe the northern wave.<br>
+White as the spacious vault they bore aloof,<br>
+Light, slender columns rear the fretted roof;<br>
+’Mid the rich spars the mimic flowers appear,<br>
+And ghastly faces grin grotesquely there:<br>
+In arches here the rich concretions bend,<br>
+And bases there to meet their shafts ascend,<br>
+Thick twined with wreaths of rainbow crystal round,<br>
+As if some fay the mimic garlands bound.<br>
+&emsp;Not long the Beacon stood,—its wondrous light<br>
+Again leads on, unfolding to his sight<br>
+New caves, new arches, regular and grand,<br>
+That mock the pigmy toils of mortal hand:<br>
+At length, condensing all its scatter’d fires,<br>
+The sanguine globe shoots upward and expires.<br>
+Th’ affrighted steed stops short, and hark! the sound<br>
+Of roaring streams beneath the hollow ground.<br>
+The Knight dismounts, but every beam is fled,<br>
+And deepest darkness gathers round his head:<br>
+When glimmering torches through the woods appear,<br>
+And clattering hoofs announce pursuers near.<br>
+The brightening lights approach, and now they shone<br>
+On a tall aisle with ivy half o’ergrown:<br>
+Scarce had he reach’d its shade, when sword in hand<br>
+Perfidious Bernard leads the treacherous band;<br>
+With blazing torch he rushes to the cave,<br>
+“This way he past, nor all his saints can save,<br>
+Yet wield your weapons well, my lord is brave!”<br>
+He spoke—they gallop’d o’er the cavern floor,<br>
+Sunk in the hidden gulph, and rose no more.<br>
+&emsp;Scarcely the Knight his grateful soul had rais’d<br>
+To guardian Heaven, when lo! the Beacon blazed;<br>
+And stood majestic on a mouldering pile,<br>
+Embosom’d deep within the vaulted aisle,<br>
+Where the dark cypress in funereal gloom,<br>
+Wept o’er the mound that should have been a tomb.<br>
+But all uncover’d, on the stone was laid<br>
+The wasted form, in splendid arms array’d,<br>
+And yet untouch’d by time, his burnish’d brand<br>
+Grasp’d in the skeleton’s unyielding hand.<br>
+His crimson shield the griffin’s wings display’d,<br>
+The sable griffin nodded o’er his head.<br>
+Brave Albert touch’d the sword, the rigid clasp<br>
+Was loosen’d, and he fits it to his grasp;<br>
+Admiring, as its ponderous length he sway’d,<br>
+The jewell’d hilt, the red and fiery blade.<br>
+&emsp;But now a second, larger band appears,<br>
+And heavier steeds, and louder shouts he hears!<br>
+He turns, he trusts to see the flame expire,<br>
+But broader, brighter glares the magic fire;<br>
+Shoots back its beams from every sparry height,<br>
+And wraps the warrior in one sheet of light:<br>
+While as again the fiery sword he raised,<br>
+The wondrous blade with living lustre blazed.<br>
+They hurry on, impetuous as the wind,<br>
+Ulric alone, fierce Ulric lags behind—<br>
+But when they saw the dread, mysterious light,<br>
+The well-known armour of the lifeless Knight,<br>
+The funeral mound, as if by sudden spell<br>
+The steeds were stopp’d, the lifted lances fell.<br>
+The hoary Seneschal, at Albert’s feet<br>
+(Stung by remorse) drops powerless from his seat:<br>
+“It is fulfill’d!—my murder’d master’s brand<br>
+Gleams in his injur’d son’s vindictive hand!<br>
+Albert of Schorndorf—here I saw him bleed—<br>
+Arise, avenge him—’twas his brother’s deed!”<br>
+&emsp;“’Tis false!” cried Ulric; ťí seize the stranger Knight!<br>
+What! do ye doubt? then arms shall prove my right!”<br>
+But guilt unnerv’d his arm, and Albert sway’d,<br>
+Strong in his truth, th’ hereditary blade.<br>
+The Baron fell,—when now his comrades bore<br>
+The lifeless corse of ardent Theodore:<br>
+The silvery plume the youth to death betray’d,<br>
+The father’s treason reach’d his offspring’s head.<br>
+Sadly they laid him by his parent’s side,<br>
+Who own’d just Heaven’s avenging hand, and died.<br>
+&emsp;And now the flame dilating, broad and bright,<br>
+Moves in a pyramid of sanguine light:<br>
+Wrapp’d in one blaze, in one sad heap were piled<br>
+The murder’d lord, the brother, and his child;<br>
+All night it glow’d, a self-sustaining fire,<br>
+Till with the dawn th’ unearthly flames expire.<br>
+Soon in a temple’s consecrated gloom<br>
+The pious Albert shrined his father’s tomb;<br>
+And where to Heaven appeal’d the righteous blood,<br>
+The cloister rose, the nightly anthem flow’d.<br>
+&emsp;’Twere long to tell what Albert now was told,<br>
+His father’s fate, and Ulric’s crimes of old;<br>
+How with her infant son his mother fled,<br>
+To all unknown, the Baron deem’d them dead;<br>
+Or how that prophecy, concealed from all<br>
+Save Theodore, and that grey Seneschal,<br>
+“When Schorndorf’s heir shall wield his father’s sword,<br>
+Then shalt thou perish, childless, undeplored.”<br>
+How waked suspicion, and how Bernard sold<br>
+His honour and his master’s life for gold.<br>
+&emsp;’Twas night—the lute’s soft sound, the trumpet’s clang<br>
+Was heard, the dance had ceas’d, the beakers rang;<br>
+With love and joy the antique chambers ring,<br>
+And merry minstrels touch’d their blythest string,<br>
+While the full vaults their richest nectar pour’d<br>
+To Albert’s bride, and Schorndorf’s new-found lord.<br>
+The warder came, “beneath the castle door<br>
+Two weary strangers rest and aid implore;<br>
+A hoary pilgrim one, sedate and sage,<br>
+One bears a harp, and seems of tender age.”
+&emsp;“Fling wide the gates, and spread the choicest cheer,<br>
+Our deadliest foe to-night were welcome here,”<br>
+Blythe Albert spoke, and then with gesture bland,<br>
+“Hail! pilgrims, hail, from Syria’s holy strand!<br>
+Speak, if perchance your happier speed may bring<br>
+Tidings of England’s host, or England’s King?”<br>
+&emsp;“Oh, joy unhoped!” the younger stranger cried,<br>
+Stout Longchamp flung his broad-brimm’d hat aside,<br>
+While Berengaria, o’er her neck of snow,<br>
+Gave her rich locks of burnish’d gold to flow.<br>
+Th’ astonish’d vassals knelt—with courteous grace,<br>
+Their Queen uprais’d them in a warm embrace;<br>
+Each of the other’s fate in haste inquir’d,<br>
+Nor fail’d the theme, nor mutual wonder tired,<br>
+Till o’er the zenith night’s black coursers flew,<br>
+And each glad guest to late repose withdrew.
+
+![curlicue](../cue.jpg)
+
+<a id="book14"></a>
+## Book XIV
+
+### The Imperial Synod
+
+Long years had past since morning rose so bright<br>
+On Schorndorf’s towers, or waken’d hearts so light;<br>
+The nightmare-weight of Ulric’s rule was gone,<br>
+And like a sunbeam Albert’s virtues shone:<br>
+But shone not long, to claim their Lord again<br>
+The reverend Abbots came, and knightly train.<br>
+One hour of busy grief, one sad farewell,<br>
+Were all that love might yield to Rosabelle;<br>
+The Queen impatient sees, and hastes to part—<br>
+Such scene was torture to her suffering heart.<br>
+
 Rode proudly forth the princely cavalcade, And plunged undaunted in th' Hercynian shade; While all around their hope's green livery wore, Exulting in the gloom they fear'd before. Thrice had the evening sooth'd them to repose, Thrice on their early way the morning rose j When on a heath with not one dwelling nigh, Hut, convent, castle, church, to fix the eye, Where each low hill the same dull curve defined And many a chance-worn path perplex'd the mind, 20 The sound of distant drums, and light that play'd On burnish'd arms, a knightly band betray'd. Soon by his gorgeous gonfalon was known The proud arch-priest, Rinaldo of Cologne:* He guards some prisoner—hopes fantastic spring In each glad bosom—'tis indeed the King ί ί( Whence and what are ye, Knights?" the Prelate cried.— <e From England's Regent Queen," the youth replied; " Before his Peers we hasten to demand Redress and justice from th' Imperial hand; 30
 And pray your gracious pleasure to accord A moment's parley with our captive Lord." e< My leave is yours," Rinaldo then replied. ' f Would Henry brook such leave?" Count Maynard cried. " Thy master is not mine," Rinaldo said; " Nor am I here to load a captive's head With fresh dishonour,—but, to justice true, Alike I guard him from his friends, and you.— Escape thou murmurs't—nay, dismiss thy pain, These Knights have honour, and th' attempt were vain, 40 My single sword might quell such scanty train." Some paces back th' obedient guards withdrew, And to his Lord impatient Albert flew: Who o'er his neck his arms in rapture flings; — Yet not such joy as from despondence springs. For not when first on Acre's walls he stood, Not when on Arsouf's field his mace rain'd blood, Nor when on him th' anointing oil was shed, Such glory brighten'd round the Monarch's head; As, луЬеп in chains a felon scarce should wear, 50 The rock his couch, and coarse his scanty fare,
 He paced Ыь dungeon; when hi& sickening eye Saw but the gloomy woods, the wint'ry sky, Unchanged save by the varying light, the blast That shook their tops, or clouds that hurried past. A bride despairing—a defenceless host, Perchance his fame aspers' d, his kingdom lost, He felt and bore; with more than poet's fire, Frequent he swept the long familiar lyre; Throng'd his scant cell with heroes famed of yore, 60 And cheer'd the gloom with gleams of faiiy lore. Thus, wafted onward by Etesian gales, Up the broad Nile the rapid Canja sails, Steady yet swift, the adverse current braves, And with unerring keel divides the waves; While he whose hopes are all on fortune cast, Like that same bark, bereft of sails and mast, Floats sidelong down the stream, without a guide, The prey of rocks, the puppet of the tide. " My faithful friend! amid her dreams of bliss, 70 And prompt release, Hope scarcely whisper'd this! How fares my realm, my Mother?—how my host? Is Sion reseu'd yet, or Acre lost?"

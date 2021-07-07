@@ -117,8 +117,8 @@ Eleanor Anne Роrden
 <li><a href="https://attic.vardill.org/reference/porden-coeur/volume2#book10">X. The Quarrel of Richard and Leopold</a></li>
 <li><a href="https://attic.vardill.org/reference/porden-coeur/volume2#book11">XI. The Prince of the Assassins</a></li>
 <li><a href="https://attic.vardill.org/reference/porden-coeur/volume2#book12">XII. The Pilgrimage of Berengaria</a></li>
-<li><a href="https://attic.vardill.org/reference/porden-coeur/volume2#book12">XIII. The Castle of Trivallis</a></li>
-<li>XIV. The Imperial Synod</li>
+<li><a href="https://attic.vardill.org/reference/porden-coeur/volume2#book13">XIII. The Castle of Trivallis</a></li>
+<li><a href="https://attic.vardill.org/reference/porden-coeur/volume2#book14">XIV. The Imperial Synod</a></li>
 <li>XV. The Return of Richard</li>
 <li>XVI. The Holy Sepulchre</li>
 <li>Notes</a></li>
