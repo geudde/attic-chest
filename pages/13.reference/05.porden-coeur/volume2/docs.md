@@ -3537,7 +3537,7 @@ Strove, feebly strove, to raise a secret door;<br>
 But from his lair the watchful Albert springs,<br>
 Prone on the ground th’ astonish’d wretch he flings:<br>
 “Speak or thou diest,”—<br>
-<span style="margin-left: 16rem;">“Yes! rather will I die</span>,<br>
+<span style="margin-left: 10rem;">“Yes! rather will I die</span>,<br>
 Than shew thee where my master’s treasures lie.”<br>
 &emsp;“Edric!—just Heaven!—then all may yet be well,<br>
 ’Tis Albert speaks—but where is Rosabelle?”<br>
