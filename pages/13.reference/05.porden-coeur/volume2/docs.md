@@ -3989,16 +3989,16 @@ That voice, those words could come from one alone.
 Bright hour of rapture! who may dare to tell<br>
 In her fond breast what blended feelings swell!<br>
 With parted lips, closed eyes, and hands comprest,<br>
-To still th' impetuous beatings of her breast,<br>
+To still th’ impetuous beatings of her breast,<br>
 Listening she stood; while conscious memory strays,<br>
 To that blest hour when first she heard the lays.<br>
 Extatic dream—at length her faltering tongue<br>
 Its grief exprest in emblematic song:
 
-"The widow'd dove can never rest,<br>
-The felon kite has robb'd her nest;<br>
-With wing untired she seeks her mate,<br>
-To share or change his dreadful fate."
+> “The widow’d dove can never rest,<br>
+> The felon kite has robb’d her nest;<br>
+> With wing untired she seeks her mate,<br>
+> To share or change his dreadful fate.”
 
 Again she paused, and listening, from on high<br>
 Caught from the friendly gale the faint reply.<br>
@@ -4013,30 +4013,122 @@ Her thrilling notes of transport swell:<br>
 &emsp;“The monarch bird may build his nest<br>
 On oak, or tower, or mountain crest,—<br>
 But love can match his daring flight,<br>
-Can fell the tree, or scale the height."
+Can fell the tree, or scale the height.”
 
-&emsp;“Ho! who art thou," a surly warder calls,<br>
-“That darest to sing beneath Trivallis' walls?”<br>
+&emsp;“Ho! who art thou,” a surly warder calls,<br>
+“That darest to sing beneath Trivallis’ walls?”<br>
 &emsp;“A wandering bard, good friend, who fain would win,<br>
-These awful gates to let the weary in,"<br>
+These awful gates to let the weary in,”<br>
 &emsp;“Nay, hence—nor dare to touch thy harp again,<br>
 And thank thy saints ’twas I that heard the strain;<br>
-Tired as thou art, fly swiftly o'er the heath,<br>
-And shun these walls as thou would’st shun thy death."<br>
+Tired as thou art, fly swiftly o’er the heath,<br>
+And shun these walls as thou would’st shun thy death.”<br>
 &emsp;But was that pilgrim weary? oh! less fleet<br>
 The mountain chamois plies its fearless feet:
-" Farewell! my ears are blest though not my eyes,<br>
-Thy chains shall fall," she warbles as she flies;<br>
+“Farewell! my ears are blest though not my eyes,<br>
+Thy chains shall fall,” she warbles as she flies;<br>
 “Thou gentle guardian of my steps, my will,<br>
-Take my soul's blessing and direct me still.<br>
-At Haguenau soon the empire's magnates meet,<br>
-Oh! touch the Eagle's heart—oh! guide my wandering feet."<br>
-“For many a day through Austria's wide domains,<br>
-By woods of tapering pine, or mountain plains, By hills the venturous goat alone had track'd, By placid lake or rushing cataract, She wander'd on; and still at evening fall, The woodman's hut, the convent or the hall Had given her rest, till now at day's decline NearEglisau she reach'd the rapid Rhine; Where from the lake its azure current pours, And antique forests crown the lofty shores. Along the verge the lingering sunbeam show'd Before her far a rough and shadowy road. She glanced around, but saw no cottage nigh. A cross was on the crag; lier shuddering eye, Turn'd, awe-struck, from the monument of blood, л But stray'd not far, for, bosom'd in the луоо(1, 410 > Rear'd o'er a spring, a humble chapel stood. *
-No glittering shrine, with paltry gems disgraced, Or gaudy hues, deform'd its simple taste; The fount within its marble basin play'd, And, gushing downward in a full cascade, CuiTd o'er its pebbly channel, calm and bright, Then leap'd tumultuous from the woodland height; Huge stones disturb its course, and thickets hide Its humble confluence with the mightier tide. Above the spring, in spotless stone pourtray'd, 420 Near her grave husband stood the Mother-Maid, While He whose s'oice inspired his Lord foreshew'd, Pour'd on his head divine the sacred flood; The opening heaven reveal'd the Dove divine, Beneath, this legend graced the modest shrine: ' e Whoe'er thou art, lone pilgrim, pause and pray, For one like thee, who trod this woodland way; But in the fane his holy zeal had plann'd, Fell by a midnight villain's impious hand. This stream, now deeply purpled with his blood, 430 Ere thou can'st see, shall roll a stainless flood; And He Immortal, who in mercy gave A holier power of cleansing to the wave, Bids prayers for his salvation breath'd alone, In heaven's bright book be treasur'd for thine own."
-" Nor shalt thou lack them, whosoe'er thou art!" Cried the fair wanderer, " 'twere an ingrate's part, To rest me by thy fount, nor ask thy weal; Hear me for him—yet oh! with warmer zeal, Hear me, Great Source whence all our blessings spring! 440 For my loved lord, for England's captive king."— ic Her captive king!" a voice behind began.— Starting she saw a venerable man, In convent cowl; she fear'd her trust betray' d — " May I not pray," in faltering tones she said, " Albeit in realms where ne'er his virtues shone, For him whose gentle sway has blest my own?" ic Nay, fear not me, poor youth î but thou hast said The captive monarch—I had mourn'd him dead." t( Dead', reverend father—can'st thou think the foe, Who work'd his death would hide so bold a blow? Christian or Moslem were too proud to tell, By them the first of English heroes fell."-— " Oh! Iliad hoped thouhad'st some cause of trust— Nay, I will buy thy frankness if I must. A faithful subject never will betray His Monarch's friend—this cowl of humble gray
-Hides the proud Longchamp—thou hast heard my fall, My flight, my dangers—I deserv'd them all. My soul, too high by power unwonted wrought, 460 Forgot the meek humility it taught; Durham forgot it too, but that is past— His rage is sated—and forgiven—at last— Yet ’mid my countless crimes my faithful zeal Was ever, only, for my Monarch's weal; Tell me he lives, that 1 to bim may fly, May ask for pardon at his feet, and die." She rais'd her minstrel cap—her locks of gold O'er her green cloak in bright luxuriance roll'd; a Talk not of death, but live to set him free, 4/0 And know his first, most anxious friend in me," Of all her joys, of all her griefs she spoke, And on their speech the early morning broke. ei Now let us forth; to Haguenau's towers I go, Where meets th' Imperial Court." " But dost thou know," The Prelate said, " in whom thou wouldst confide! Imperial Henry, with his father's pride, Though green in years, combines the Austrian's guile: Think, should he кполу thee, should some daring wile
-Send thee to share that lot thou seek'st to change; 480 Where not a tongue could tell, or hand avenge. Or go, with thine acknowledge rank thy shield, Or safer, in some envoy's train conceal'd:— We, thus disguis'd, through every Gallic ward, May reach thy Norman Peers, and chuse thy guard; Then as to Henry's court we boldly come, Rouse to our aid the thundering wrath of Rome." The Queen consents, and with her reverend guide Track'd, many a weary mile, the vviading tide. Albert, meanwhile, to shun suspicious eyes, 490 Leaves far the Flemish coast, and courts disguise: France he avoids, and quits his priestly train, By routes distinct th' Imperial States to gain, And meet at Schorndorfs friendly fort again. Fears for his bride, affection for his King, Lent him the swiftness of the falcon's wing. While near the Rhine he now his course pursued, Through those vast forests of primeval wood; Hercynian shades, that, like an awťul cloud, Whole regions darken ssith their sable shroud j 500 Where from their rocky springs the rivers run Their long dark course, and never see the sun; vol. и. о
+Take my soul’s blessing and direct me still.<br>
+At Haguenau soon the empire’s magnates meet,<br>
+Oh! touch the Eagle’s heart—oh! guide my wandering feet.”<br>
+&emsp;For many a day through Austria’s wide domains,<br>
+By woods of tapering pine, or mountain plains,<br>
+By hills the venturous goat alone had track’d,<br>
+By placid lake or rushing cataract,<br>
+She wander’d on; and still at evening fall,<br>
+The woodman’s hut, the convent or the hall<br>
+Had given her rest, till now at day’s decline<br>
+Near Eglisau she reach’d the rapid Rhine;<br>
+Where from the lake its azure current pours,<br>
+And antique forests crown the lofty shores.<br>
+Along the verge the lingering sunbeam show’d<br>
+Before her far a rough and shadowy road.<br>
+&emsp;She glanced around, but saw no cottage nigh.<br>
+A cross was on the crag; her shuddering eye,<br>
+Turn’d, awe-struck, from the monument of blood,<br>
+But stray’d not far, for, bosom’d in the wood,<br>
+Rear’d o’er a spring, a humble chapel stood.<br>
+&emsp;No glittering shrine, with paltry gems disgraced,<br>
+Or gaudy hues, deform’d its simple taste;<br>
+The fount within its marble basin play’d,<br>
+And, gushing downward in a full cascade,<br>
+Curl’d o’er its pebbly channel, calm and bright,<br>
+Then leap’d tumultuous from the woodland height;<br>
+Huge stones disturb its course, and thickets hide<br>
+Its humble confluence with the mightier tide.<br>
+Above the spring, in spotless stone portray’d,<br>
+Near her grave husband stood the Mother-Maid,<br>
+While He whose voice inspired his Lord foreshew’d,<br>
+Pour’d on his head divine the sacred flood;<br>
+The opening heaven reveal’d the Dove divine,<br>
+Beneath, this legend graced the modest shrine:<br>
+&emsp;“Whoe’er thou art, lone pilgrim, pause and pray,<br>
+For one like thee, who trod this woodland way;<br>
+But in the fane his holy zeal had plann’d,<br>
+Fell by a midnight villain’s impious hand.<br>
+This stream, now deeply purpled with his blood,<br>
+Ere thou can’st see, shall roll a stainless flood;<br>
+And He Immortal, who in mercy gave<br>
+A holier power of cleansing to the wave,<br>
+Bids prayers for his salvation breath’d alone,<br>
+In heaven’s bright book be treasur’d for thine own.”<br>
+&emsp;“Nor shalt thou lack them, whosoe’er thou art!”<br>
+Cried the fair wanderer, “’twere an ingrate’s part,<br>
+To rest me by thy fount, nor ask thy weal;<br>
+Hear me for him—yet oh! with warmer zeal,<br>
+Hear me, Great Source whence all our blessings spring!<br>
+For my loved lord, for England’s captive king.”—<br>
+&emsp;“Her captive king!” a voice behind began.—<br>
+Starting she saw a venerable man,<br>
+In convent cowl; she fear’d her trust betray’d —<br>
+“May I not pray,” in faltering tones she said,<br>
+“Albeit in realms where ne’er his virtues shone,<br>
+For him whose gentle sway has blest my own?”<br>
+&emsp;“Nay, fear not me, poor youth! but thou hast said<br>
+The captive monarch—I had mourn’d him dead.”<br>
+&emsp;“Dead! reverend father—can’st thou think the foe,<br>
+Who work’d his death would hide so bold a blow?<br>
+Christian or Moslem were too proud to tell,<br>
+By them the first of English heroes fell.”<br>
+&emsp;“Oh! I had hoped thou had’st some cause of trust—<br>
+Nay, I will buy thy frankness if I must.<br>
+A faithful subject never will betray<br>
+His Monarch’s friend—this cowl of humble gray<br>
+Hides the proud Longchamp—thou hast heard my fall,<br>
+My flight, my dangers—I deserv’d them all.<br>
+My soul, too high by power unwonted wrought,<br>
+Forgot the meek humility it taught;<br>
+Durham forgot it too, but that is past—<br>
+His rage is sated—and forgiven—at last—<br>
+Yet ’mid my countless crimes my faithful zeal<br>
+Was ever, only, for my Monarch’s weal;<br>
+Tell me he lives, that I to him may fly,<br>
+May ask for pardon at his feet, and die.”<br>
+&emsp;“She rais’d her minstrel cap—her locks of gold<br>
+O’er her green cloak in bright luxuriance roll’d;<br>
+“Talk not of death, but live to set him free,<br>
+And know his first, most anxious friend in me,”<br>
+&emsp;Of all her joys, of all her griefs she spoke,<br>
+And on their speech the early morning broke.<br>
+“Now let us forth; to Haguenau’s towers I go,<br>
+Where meets th’ Imperial Court.”<br>
+<span style="margin-left: 16rem;">“But dost thou know,</span>”<br>
+The Prelate said, “in whom thou wouldst confide!<br>
+Imperial Henry, with his father’s pride,<br>
+Though green in years, combines the Austrian’s guile:<br>
+Think, should he know thee, should some daring wile<br>
+Send thee to share that lot thou seek’st to change;<br>
+Where not a tongue could tell, or hand avenge.<br>
+Or go, with thine acknowledge rank thy shield,<br>
+Or safer, in some envoy’s train conceal’d:—<br>
+We, thus disguis’d, through every Gallic ward,<br>
+May reach thy Norman Peers, and chuse thy guard;<br>
+Then as to Henry’s court we boldly come,<br>
+Rouse to our aid the thundering wrath of Rome.”<br>
+&emsp;The Queen consents, and with her reverend guide<br>
+Track’d, many a weary mile, the winding tide.
+
+Albert, meanwhile, to shun suspicious eyes, 490 Leaves far the Flemish coast, and courts disguise: France he avoids, and quits his priestly train, By routes distinct th' Imperial States to gain, And meet at Schorndorfs friendly fort again. Fears for his bride, affection for his King, Lent him the swiftness of the falcon's wing. While near the Rhine he now his course pursued, Through those vast forests of primeval wood; Hercynian shades, that, like an awťul cloud, Whole regions darken ssith their sable shroud j 500 Where from their rocky springs the rivers run Their long dark course, and never see the sun; vol. и. о
 Where vales in vain their ample bosoms spread, And lordly mountains lift th' aspiring head, Nor know the dazzling realm their peaks invade. The noontide twilight fades, and long and loud, Ferocious beasts yell dreadful through the wood; Scarce Albert's heart was firm, and Bernard's breast Is chill'd with fears, increasing, ill supprest: When full before their way a globe of light, 510 Of crimson flame majestically bright, Sends forth its magic glare î Some hidden cause Their hastening steeds with strong attraction draws: Nor would the Knight resist, he feels the glow, The mystic ardour souls superior know, Twinborn of hope and dread, and wildly sweet, That bids them rush uncertain ills to meet; And long, albeit with natural terrors pale, From airy shapes to draw their midnight veil. " Oh, turn, my master," cried the trembling squire, " Infernal spirits fight that sanguine fire! Thou know'st me brave,—I never shrunk with fear, From aught that man could threat, or thou could'st dare; But I was warn'd by her лупо gave me breath To shun this forest more than pain or death.
 These wilds, where bears and fiercer ruffians prowl, And stronger, nameless horrors thrill the soul; Where Druid orgies mock the Name Divine, And human victims heap Irmensul's shrine: Where guilt and fear the avenging kindred shun, 530 And wizards meet for rites that blot the sun; Lure hapless w anderers to the fatal wood, Or roam as wolves, to feast on human blood. 1 She told of murder'd forms that ride the gale, Weep in the rain, and in the tempest wail; Of shrieks and b^vlings—Ha! dost thou not jee, Where tortured spirits writhe on es T ery tree? Oh! 'tis in scenes like these, in such an hour, That sleepless demons know their baleful power! Turn, turn, while yet our steeds may fly the spell, 540 No eye cau see thy shame, no tongue can tell."— " And think'st thou, Bernard, Honour has no power In noble breasts, though at the midnight hour? That I could wear these spurs a monarch gave, And know me base, yet mingle with the brave? Trust me, if hellish sprites have influence here, 'Tis not on those who dare, but those who fear. My head by Heaven's anointed servant blest, The sacred symbol glittering on my breast, о 2
 1 mock them all, and would not turn ше now, 550 But for my faith to that ill-omen'd vou. My mission done, if yon red beam invite (And I will court it,) fear to whimper flight." He spoke—his steed obey'd the rein once more, The flame was gone, the spell had lost its power. The night was starless and the hour was late, When Albert blew the horn at Schorndorfs gate: In vain the warrior told so great a name, And urged a knight's, a stranger's, pilgrim's claim; Or hints at mission from the Holy Land:— 560 No gate was loosen'd from its iron band. At length he spoke, " If Theodore be near, fC Tell him that Albert, that his friend is here; Not thus your youthful Chief would bid me wait, Or bar so long th' inhospitable gate." His Λνο rds at length a surly yeoman bore, And from the revel came young Theodore. Flush'd was his cheek, his eye shone wildly bright, But he with rapture hail'd the ivandering Knight: While compliments and fair excuse he showers, 570 Of dangerous times, and late, unwonted hours, Through many a hall he leads the wondering guest, To where the Baron urged the midnight feast.
