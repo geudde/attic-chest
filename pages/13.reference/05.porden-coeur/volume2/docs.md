@@ -3628,13 +3628,149 @@ Nor town nor tower were near;—she sought repose,<br>
 Where on the beach a fisher’s hut arose:<br>
 There, lone in age, a hospitable pair<br>
 The wanderer welcomed to their homely fare.<br>
-A minstrel youth, his lowly state above, Who saw his lady's charms, and dared to love, Erewhile, as from his jealous lord he fled, To this lone shore malicious fortune led. 10
-To ocean's winds he pour'd his plaintive song, Or sigh'd that river's shadowy banks along, Which, bursting from Goritia's heights, retains Its mountain cold in Aquileian plains.* One sultry noon he sought the frigid wave, Too rashly dared, and found a wat'ry grave. Now for her dripping weeds the gentle Queen His harp assumes, and vesture, white and green;f With liberal hand a due reward bestow'd, And took at early dawn, her lonely road. 20 Oft as she stray'd, while passing fancies fire, She wakes soft music from the trembling lyre.— ’Twas autumn: yet, by fervid noon opprest, Now on a shelter'd bank she paus'd to rest -, A knight who homeward leads with gentle pace His train, victorious in the morning chace, Glanced on the bard,— who, heaven-directed, strung The ready harp, and thus spontaneous sung:
-" Turn, knight! a weary minstrel sings; The dews relax his trembling strings, 30 And hunger chills his tongue; Yet blest shall be the hand that brings, A cup to cheer the Child of Song. ťí From fair Provence, my native land, I've roam'd to many a foreign strand, Nor found my wandering» long; While still my strains repaid the hand, Which cheer'd the vagrant Child of Song. f< Thou goest—then take the minstrel's curse,— Be bold, be great, but never verse 40 Thy memory shall prolong; Forgot, ere lifted from thy hearse, For thou hast scorn'd a Child of Song." íť A winning strain!" the haughty Maynard cried, Thy saucy boldness I were best to chide: Yet come with me, I reck not of thy curse, But my sick dame may love thy southern s r erse; And (or thy art will poorly pay thy pain) For lady's ear thou timest a softer strain."
-Dark was Coufit Maynard, and his scowling look 3 Had yet less promise than his accents spoke. The towers of Gortz, upon the forest side, Less shew'd his liberal spirit than his pride. There all was grand, and numerous vassals found His ample board with daily plenty crown'd; But ’mid the guests still lurk'd distrust and fear, Nor habit chaeed restraint, nor wine could cheer. His dame was one whose early fancy wove, And young experience broke, her dreams of love; She found her lord still first in tilt or fight, 60 Still drest in smiles for high-born beauty's sight, But the smooth brow, the courtier grace, that shone In other mansions, never cheer'd his own. Though still due honours to her rank he gave, And gilt his victim's cage—a splendid slave— Her heart was chiil'd, her hour of rapture o'er, Her roses wither'd, ah í to bloom no more. Her disappointed spirit oft was shewn In look of discontent, or peevish tone; And her harsh chiding, ’mid her virgin train, 70 Oft sprung the tear her kindness dried again. And now, though anxious for his promis'd heir, Count Maynard's pride could ape affection's care;
-His tardy smile was answered by a tear, And wrung the heart it beam'd too late to cheer. As for a friend, she languish'd for the grave, And wish'd to perish in the life she gave. A gorgeous coueh her faded beauty bore, As Berengaria near the chamber door Leant on her harp;—a blush was on her cheek, 80 And her soft eyes her pitying soul bespeak. " Advance, young bard!" began the pensive dame, " I love the heart that beats alone for fame; Yet thou, who livest ’mid visions of thine own, Of bliss and virtue to the world unknown, Has thine ideal realm one charmed strain, To wake departed hope, or lull the stings of paia?" í( Oft, lady, boasts the muse such magic power, But such, perchance, is scarce your minstrel's dower; Yet where her spirit in Provençal vales, 90 Plays in each stream, and breathes in all her gales, My youthful ear her noble minstrels heard, And caught a strain from each sublimer bard. Vidal, who roams in fancy's wildest maze, Soft Marie's tales, b Alphonso's princely lays f His Sister, who beloved by Phœbus' quire, "4 Wakes in Provence her Arragonian lyre; > Bertrand de Born, whose youthful songs ss'ere fire;^
-Arnaud, whose strains the female heart allure/ And England's pride, her Royal Troubadour. 100 Erewhile, in famed Avignon's shadowy grove When the gay Monarch held his íť Courts of Love," Oft have I heard, while raptured crowds were mute, Sweet Philomel, Love's Advocate, dispute On points of tender faith, with all the train Of gaudy Finches, fickle, light, and vain. For fancy wanton'd thus in frolic guise, When Princes bought, and Queens adjudged the prize." 1 " And who art thou, whose vaunting phrases tell," Observ'd the Count, íŕ of greatness known so well?" " Blondel my name; and, but I prize the lyre \ Above the glory gallant deeds acquire, \ My birth might well to knightly rank aspire." j Thus spoke the Queen, by love impell'd to wear The name of one in youth to Richard dear. i( And well such title fits a form so fair," The dame replied, ς ' those eyes, that golden hair. Now tune thy harp,—-I fain would learn to live In thai brijht clime poetic fancies give; But hing not love, for love is wild and mad, 120 Wrings the lorn heart, and makes the happy sad;
-It dreams of joy that mortals never gain, And faith, that lives but in the Minstrel's brain; Sing not of love—I could not bear the strain." " Nay, Lady, would'st thou break my sweetest string?— Yet can your bard in phrase romantic sing Those bolder notes that swell the northern lyre, And knightly youth to deathless deeds inspire/ Of awful magic, erst to Merlin known. Or lighter pranks by moonlight fairies shewn, 130 Of glorious war, of wounds with sword and lance, Great Arthur's peers, the Paladins of France."— " Strange songs for lady's ear! Thy wayward muse," The dame rejoin'd, iC some gentler theme may chuse. Let warriors court the laurel glory weaves, I shudder at the blood that stains its leaves." " Would then some biting satire please thy mind, That paints the crimes and follies of mankind? Such Pierre 3 has framed—" " Nay, nay, thy themes are strange, Capricious bard, hast thou no fitter change?" 140 " Nay, by my knighthood, the caprice is thine," The Count burst in, " or hear him or decline. VOL. II. N
+&emsp;A minstrel youth, his lowly state above,<br>
+Who saw his lady’s charms, and dared to love,<br>
+Erewhile, as from his jealous lord he fled,<br>
+To this lone shore malicious fortune led.<br>
+To ocean’s winds he pour’d his plaintive song,<br>
+Or sigh’d that river’s shadowy banks along,<br>
+Which, bursting from Goritia’s heights, retains<br>
+Its mountain cold in Aquileian plains.[^36]<br>
+One sultry noon he sought the frigid wave,<br>
+Too rashly dared, and found a wat’ry grave.<br>
+Now for her dripping weeds the gentle Queen<br>
+His harp assumes, and vesture, white and green;[^37]<br>
+With liberal hand a due reward bestow’d,<br>
+And took at early dawn, her lonely road.<br>
+Oft as she stray’d, while passing fancies fire,<br>
+She wakes soft music from the trembling lyre.<br>
+’Twas autumn: yet, by fervid noon opprest,<br>
+Now on a shelter’d bank she paus’d to rest;<br>
+A knight who homeward leads with gentle pace<br>
+His train, victorious in the morning chace,<br>
+Glanced on the bard,—who, heaven-directed, strung<br>
+The ready harp, and thus spontaneous sung:<br>
+
+> “Turn, knight! a weary minstrel sings;<br>
+> The dews relax his trembling strings,<br>
+> And hunger chills his tongue;<br>
+> Yet blest shall be the hand that brings,<br>
+> A cup to cheer the Child of Song.
+> 
+> “From fair Provence, my native land,<br>
+> I’ve roam’d to many a foreign strand,<br>
+> Nor found my wanderings long;<br>
+> While still my strains repaid the hand,<br>
+> Which cheer’d the vagrant Child of Song.
+> 
+> “Thou goest—then take the minstrel’s curse,—<br>
+> Be bold, be great, but never verse<br>
+> Thy memory shall prolong;<br>
+> Forgot, ere lifted from thy hearse,<br>
+> For thou hast scorn’d a Child of Song.”
+
+“A winning strain!” the haughty Maynard cried,<br>
+Thy saucy boldness I were best to chide:<br>
+Yet come with me, I reck not of thy curse,<br>
+But my sick dame may love thy southern verse;<br>
+And (or thy art will poorly pay thy pain)<br>
+For lady’s ear thou timest a softer strain.”<br>
+&emsp;Dark was Count Maynard, and his scowling look<sup>a</sup><br>
+Had yet less promise than his accents spoke.<br>
+The towers of Gortz, upon the forest side,<br>
+Less shew’d his liberal spirit than his pride.<br>
+There all was grand, and numerous vassals found<br>
+His ample board with daily plenty crown’d;<br>
+But ’mid the guests still lurk’d distrust and fear,<br>
+Nor habit chaced restraint, nor wine could cheer.<br>
+&emsp;His dame was one whose early fancy wove,<br>
+And young experience broke, her dreams of love;<br>
+She found her lord still first in tilt or fight,<br>
+Still drest in smiles for high-born beauty’s sight,<br>
+But the smooth brow, the courtier grace, that shone<br>
+In other mansions, never cheer’d his own.<br>
+Though still due honours to her rank he gave,<br>
+And gilt his victim’s cage—a splendid slave—<br>
+Her heart was chill’d, her hour of rapture o’er,<br>
+Her roses wither’d, ah! to bloom no more.<br>
+Her disappointed spirit oft was shewn<br>
+In look of discontent, or peevish tone;<br>
+And her harsh chiding, ’mid her virgin train,<br>
+Oft sprung the tear her kindness dried again.<br>
+And now, though anxious for his promis’d heir,<br>
+Count Maynard’s pride could ape affection’s care;<br>
+His tardy smile was answered by a tear,<br>
+And wrung the heart it beam’d too late to cheer.<br>
+As for a friend, she languish’d for the grave,<br>
+And wish’d to perish in the life she gave.<br>
+&emsp;A gorgeous coueh her faded beauty bore,<br>
+As Berengaria near the chamber door<br>
+Leant on her harp;—a blush was on her cheek,<br>
+And her soft eyes her pitying soul bespeak.<br>
+&emsp;“Advance, young bard!” began the pensive dame,<br>
+“I love the heart that beats alone for fame;<br>
+Yet thou, who livest ’mid visions of thine own,<br>
+Of bliss and virtue to the world unknown,<br>
+Has thine ideal realm one charmed strain,<br>
+To wake departed hope, or lull the stings of pain?”<br>
+&emsp;“Oft, lady, boasts the muse such magic power,<br>
+But such, perchance, is scarce your minstrel’s dower;<br>
+Yet where her spirit in Provençal vales,<br>
+Plays in each stream, and breathes in all her gales,<br>
+My youthful ear her noble minstrels heard,<br>
+And caught a strain from each sublimer bard.<br>
+Vidal, who roams in fancy’s wildest maze,<br>
+Soft Marie’s tales,<sup>b</sup> Alphonso’s princely lays;<sup>c</sup><br>
+His Sister, who beloved by Phœbus’ quire,<br>
+Wakes in Provence her Arragonian lyre;<br>
+Bertrand de Born, whose youthful songs were fire;<br>
+Arnaud, whose strains the female heart allure,<sup>d</sup><br>
+And England’s pride, her Royal Troubadour.<br>
+Erewhile, in famed Avignon’s shadowy grove<br>
+When the gay Monarch held his “Courts of Love,”<br>
+Oft have I heard, while raptured crowds were mute,<br>
+Sweet Philomel, Love’s Advocate, dispute<br>
+On points of tender faith, with all the train<br>
+Of gaudy Finches, fickle, light, and vain.<br>
+For fancy wanton’d thus in frolic guise,<br>
+When Princes bought, and Queens adjudged the prize.”<sup>e</sup><br>
+&emsp;“And who art thou, whose vaunting phrases tell,<br>
+“Observ’d the Count, “of greatness known so well?”<br>
+&emsp;“Blondel my name; and, but I prize the lyre<br>
+Above the glory gallant deeds acquire,<br>
+My birth might well to knightly rank aspire.”<br>
+Thus spoke the Queen, by love impell’d to wear<br>
+The name of one in youth to <span class="smallcaps">Richard</span> dear.<br>
+&emsp;“And well such title fits a form so fair,”<br>
+The dame replied, “those eyes, that golden hair.<br>
+Now tune thy harp,—-I fain would learn to live<br>
+In that bright clime poetic fancies give;<br>
+But sing not love, for love is wild and mad,<br>
+Wrings the lorn heart, and makes the happy sad;<br>
+It dreams of joy that mortals never gain,<br>
+And faith, that lives but in the Minstrel’s brain;<br>
+Sing not of love—I could not bear the strain.”<br>
+&emsp;“Nay, Lady, would’st thou break my sweetest string?—<br>
+Yet can your bard in phrase romantic sing<br>
+Those bolder notes that swell the northern lyre,<br>
+And knightly youth to deathless deeds inspire.<sup>f</sup><br>
+Of awful magic, erst to Merlin known.<br>
+Or lighter pranks by moonlight fairies shewn,<br>
+Of glorious war, of wounds with sword and lance,<br>
+Great Arthur’s peers, the Paladins of France.”<br>
+&emsp;“Strange songs for lady’s ear! Thy wayward muse,”<br>
+The dame rejoin’d, “some gentler theme may chuse.<br>
+Let warriors court the laurel glory weaves,<br>
+I shudder at the blood that stains its leaves.”<br>
+&emsp;“Would then some biting satire please thy mind,<br>
+That paints the crimes and follies of mankind?<br>
+Such Pierre<sup>g</sup> has framed—”<br>
+<span style="margin-left: 12rem:">“Nay, nay, thy themes are strange,</span><br>
+Capricious bard, hast thou no fitter change?”<br>
+&emsp;“Nay, by my knighthood, the caprice is thine,”<br>
+The Count burst in, “or hear him or decline.
+
+
 Sing what thou wilt, keen satire, arms, or love, Or blend them all, and all shall then approve." Blondel obey'd—a pleasing air he rung, As Huon's wild and wondrous quest he sung. The merry squire, but most that beauteous fay, Whose tiny limbs celestial grace display; His lily crown, his never-fading youth, His dance-inspiring horn, the test of truth; 150 His bowl, whose ever-brimming sweets allure The guiltless touch, but shrink from lips impure: Of Huon's love, of Rezia's charms and woes, л Their mutual crime, and how the tempest rose, ч Till in a desert isle they found repose; у And by their matchless truth at length restored The fond Titania to her elfin Lord.*· At first the dame with taste fastidious heard, Scann'd every thought, and carp'd at every word; Then sigh'd if fabled woes recall'd her own, 160 Then thought and felt in Huon's fate alone; Till on her cheek the long-lost colour rose, And her rous'd spirit mourn'd to hear the close.
 "'Take this," she cried,and loos'd her golden chain *. " Take this, young bard, 'twill better pay thy strain," The Count began. With grateful glance he took And kist the chain, but turn'd with careless look From the full purse: " I am no venal bard, Your praise, your favour, are my best reward." ťí Ha! 'tis not полу, as when in years ot' old, 170 Castalia's fountain quench'd the thirst of gold, Too long, too well, our northern bards 1тл г е known To scorn the muse that pays with smiles alone;" Thought the stern Count, and dark suspicion spoke In his black brow, and keen inquiring look; Till as the seeming youth in haste withdrew, All her soft sex was in her glowing hue. In fear, yet forced her terrors to restrain, Silent she sate amid the menial train; Resolved to quit the fort with rising morn, ISO Nor thought how oft she pass'd th' untasted horn; Till now she ask'd what princely halls were near, Whose bounteous lords the wandering minstrel cheer. ' c Few," said an aged page, <ť since Leopold Grasp'd this fair duchy in his iron hold, Their wealth betray, or dare their gates untold; N 2
 And since his minions, from a foreign shore, That unknown captive to Trivallis bore."— " Nay wherefore pause? oh! why should fear inspire? Lurks fraud in youth, or treachery in the lyre? 190 Oh speak! the Muse on tales of sorrow feeds. Reveal the path that to Trivallis leads." " Deep in a mountain wild, sublimely grand, And black with age, the triple turrets stand: 'Tis whisper'd those forbidden chambers hold Unnumber'd victims, and uncounted gold; This much is sure, whoe'er the Prince offends, In speech or action, foes, suspected friends, Those walls receive. They enter—ask no more! For never yet did that relentless door 200 Disgorge its prey, th' irremeable bourne, Whence, like the gates of hell, is no return. Nay, there are tales (and bold we deem the wight Who views that castle but by noonday light) Of dreadful screams, and sounds of mortal pain, And sheeted forms that drag the clanking chain; And one who there, amid the moonlight stood, Deem'd that each guilty turret blush'd with blood. These halls erewhile a transient shelter gave To one departing for that living grave: 210
@@ -3981,3 +4117,7 @@ Note (e), page 354, line 713. Tke easy price of that triumphant day. Only two pe
 [^34]: When Philip summoned Rouen to surrender, the seneschal of Normandy replied that the doors were open, if he choose to enter: but Philip was too wary to risk his safety upon such doubtful ground. He burned his magazines and retired.
 
 [^35]: Avisa, the second wife of John, was the daughter and heiress of the Earl of Gloucester, and promoted the cause of her husband throughout her extensive domain.
+
+[^36]: The Frigidus, or cold river, a small but memorable stream in the territory of Gortz, near Aquileia; now called the Vipao.
+
+[^37]: White and green were the appopriate colours of the wandering ministrel.
