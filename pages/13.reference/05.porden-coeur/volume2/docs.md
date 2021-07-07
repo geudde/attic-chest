@@ -3765,7 +3765,7 @@ I shudder at the blood that stains its leaves.”<br>
 &emsp;“Would then some biting satire please thy mind,<br>
 That paints the crimes and follies of mankind?<br>
 Such Pierre<sup>g</sup> has framed—”<br>
-<span style="margin-left: 12rem:">“Nay, nay, thy themes are strange,</span><br>
+<span style="margin-left: 12rem;">“Nay, nay, thy themes are strange,</span><br>
 Capricious bard, hast thou no fitter change?”<br>
 &emsp;“Nay, by my knighthood, the caprice is thine,”<br>
 The Count burst in, “or hear him or decline.
