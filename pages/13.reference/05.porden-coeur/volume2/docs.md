@@ -3148,52 +3148,95 @@ Sardinia’s isle and Atlas’ snows appear;<br>
 Steep Calpé’s brow and Lusitania’s shore<br>
 Rejoice,—they hail their native cliffs once more.
 
-Soon Albert spurr'd his steed, nor paus'd to view<br>
+Soon Albert spurr’d his steed, nor paus’d to view<br>
 How different from the prosperous realm he knew,<br>
 The peaceful happy home, was England now!<br>
-Where fear and sorrow darken'd every brow!<br>
+Where fear and sorrow darken’d every brow!<br>
 He hastes where Windsor, from her height of pride,<br>
-Awes woods and vales, and Thames' meandering tide;<br>
-Nor lingers, saddening o'er the alter'd scene,<br>
-When ruin mark'd where recent war had been,<br>
+Awes woods and vales, and Thames’ meandering tide;<br>
+Nor lingers, saddening o’er the alter’d scene,<br>
+When ruin mark’d where recent war had been,<br>
 Till now—he bends before the Regent Queen.<br>
 &emsp;Years, more than oft the temperate peasants know,<br>
-Had traced deep furrows on her polish'd brow;<br>
+Had traced deep furrows on her polish’d brow;<br>
 To silver hue had changed her raven hair,<br>
-And thinn'd her cheek,—but still its rose was there;<br>
+And thinn’d her cheek,—but still its rose was there;<br>
 Not yet one sparkle from her eye was fled.<br>
 Unbent her form, and firm her stately tread.<br>
 Once that keen eye and flushing brow confest<br>
 Passions too strong to fit a female breast:—<br>
-But wrongs arous'd them,—she had heard her name<br>
-In Antioch blacken'd with unworthy shame;<br>
+But wrongs arous’d them,—she had heard her name<br>
+In Antioch blacken’d with unworthy shame;<br>
 Divorced, despised, had fled the Gallic strand,<br>
 With sows of vengeance on her native land;<br>
 Again a Queen, in captive gloom had borne,<br>
-Her faithless Henry's private, public scorn.<br>
+Her faithless Henry’s private, public scorn.<br>
 Her rage broke forth, she sought in desperate hour<br>
-Her lovely foe's involved and wondrous bower;<br>
-’Twas said the venom'd bowl and murderous brand,<br>
-In dreadful choice she tender'd to her hand:<br>
+Her lovely foe’s involved and wondrous bower;<br>
+’Twas said the venom’d bowl and murderous brand,<br>
+In dreadful choice she tender’d to her hand:<br>
 But this was slander, Rosamond the while,<br>
-Atoned her guilt in Woodstock's convent pile;<br>
-Now o'er her dust the sculptured marble rose,<br>
-And daily masses sought her soul's repose.<br>
+Atoned her guilt in Woodstock’s convent pile;<br>
+Now o’er her dust the sculptured marble rose,<br>
+And daily masses sought her soul’s repose.<br>
 &emsp;But Eleanor the pilgrim Knight embraced,<br>
 Then, while her heart its swelling grief represt,<br>
-Ask'd of her favourite son,— that son whose reign<br>
+Ask’d of her favourite son,— that son whose reign<br>
 Freed her from bonds, and gave to power again.<sup>p</sup><br>
 “Fear not to speak—his fatal loss we know—<br>
-Ill news fly fast, ’tis good that travels slow."[^32]<br>
+Ill news fly fast, ’tis good that travels slow.”[^32]<br>
 &emsp;“Lady, he lives! and heavenly lips betray,<br>
-Or soon his foes shall yield their royal prey."<br>
+Or soon his foes shall yield their royal prey.”<br>
 Then to her ear alone the Knight confest<br>
-The wondrous vision, and his Sovereign's quest;<br>
+The wondrous vision, and his Sovereign’s quest;<br>
 Till she, who never bent in adverse hour,<br>
-Pour'd from her aged eyes a joyful shower;<br>
+Pour’d from her aged eyes a joyful shower;<br>
+And oft and oft, with growing interest, sought<br>
+To hear the deeds her <span class="smallcaps">Cœur de Lion</span> wrought.<br>
+“Speak of that battle, Albert! speak again—<br>
+’Tis my sole solace now—Oh! that Mortaigne<br>
+Had been like him we mourn, or never been.<br>
+Look out, on all this once delightful scene,<br>
+Look through the land, its curses breathe in vain<br>
+On him, alike unfit to serve or reign;<br>
+False to his King, and, worse, Augustus’ tool;<br>
+A traitor to the state he seeks to rule!<br>
+Leagued with its foes—but he may find too late<br>
+Their specious friendship deadlier than their hate.”<br>
+&emsp;Sad was the tale.-—Though faithful, Longchamp’s hand<br>
+Had proved too feeble for a realm’s command;— <br>
+With power inebriate, he opprest the land,<br>
+Affected more than courtly state, defied<br>
+His mitred colleague, and inflamed his pride:<br>
+Till Durham, conscious of his wealth and power,<br>
+Call’d his new Primate from the Norman shore.<sup>q</sup><br>
+He, son of Clifford’s fair and erring child,<br>
+Led for his reverend robes a life too wild;<br>
+Loved more the midnight bowl and wanton lyre,<br>
+Than Ebor’s matchless fane and solemn quire.<br>
+And royal <span class="smallcaps">Richard</span>, ere he left the west,<br>
+Gave with a brother’s kiss a King’s behest;<br>
+(The same to John with oaths confirm’d before),<br>
+For three full years to shun the English shore<sup>r</sup<br>
+But John was early false, and Geoffrey now<br>
+Deem’d that his priestly rank absolved the vow.<br>
+With Pembroke join’d, the princely pair demand<br>
+The delegated seals from Longchamp’s hand;<br>
+While Eleanor, by frequent insults moved,<br>
+Too rashly sanction’d what her lords approved.<sup>s</sup><br>
+But the torn kingdom, drown’d in blood and tears,<br>
+Soon proved the justice of her Monarch’s fears.<br>
+How little, when with lavish hand he shed<br>
+Princedoms and honours on his brother’s head.<br>
+Had <span class="smallcaps">Richard</span> seen from whence the storm should lour,<br>
+Or thought his gifts but gave rebellion power!<br>
+In scorn of Arthur’s infant rights, Mortaigne<br>
+Now spoke of heirship to his brother’s reign.<br>
+Homage at Philip’s feet he hastes to pay;[^33]<br>
+Philip, who false to heaven and Vezelay,<br>
+Now claims the Norman rule;—with virtuous pride,<br>
+Her hoary Seneschal the King defied;<br>
 
-And oft and oft, with growing interest, sought To hear the deeds her Cœim de Lion wrought. " Speak of that battle, Albert! speak again— 560 'Tis my sole solace now—Oh! that Mor taigne Had been like him we mourn, or never been. Look out, on all this once delightful scene, Look through the land, its curses breathe in vain On him, alike unfit to serve or reign; False to his King, and, worse, Augustus' tool; A traitor to the state he seeks to rule! Leagued with its foes—but he may find too late Their specious friendship deadlier than their hate." Sad was the tale.-—Though faithful, Longchamp's ч hand f Had proved too feeble for a realm's command;— í With power inebriate, he opprest the land, J Afiected more than courtly state, defied His mitred colleague, and inflamed his pride: Till Durham, conscious of his wealth and power, Call'd his new Primate from the Norman shore. 4 He, son of Clifford's fair and erring child, Led for his reverend robes a life too wild j Loved more the midnight bowl and wanton lyre, Than Ebor's matchless fane and solemn quire. 580
-And royal Richard, ere he left the west, Gave with a brother's kiss a King's behest; (The same to John with oaths confirm'd before), For three full years to shun the English shore/ But John was early false, and Geoffrey now Deem'd that his priestly rank absolved the vow. With Pembroke join'd, the princely pair demand The delegated seals from Longchamp's hand; While Eleanor, by frequent insults moved, Too rashly sanciion'd what her lords approved.* 590 But the torn kingdom, drown'd in blood and tears, Soon proved the justice of her Monarch's fears. How little, when with lavish hand he shed Princedoms and honours on his brother's head. Had Richard seen from whence the storm should lour, Or thought his gifts but gave rebellion power! In scorn of Arthur's infant rights, Mortaigne Now spoke of heirship to his brother's reign. Homage at Philip's feet he hastes to pay;* Philip, who false to heaven and Vezelay, 600 Now claims the Norman rule; —with virtuous pride, Her hoary Seneschal the King defied;,L 4
 Enraged he prest to arms,—but vainly prest, For honour, banish'd from the Sovereign's breast, Lived in his nobles,-—" they had truly sworn l To guard his rights, till Richard should return." 1 Sick at the light that makes his glory pale. (For Richard's triumphs breath'd on every gale,)" He heard of Conrad's fall—his slanderous tongue With darker scandal swells the Austrian's wrong; 610 And swears the Monarch, now by practice grown Expert in murder, next intends his own.* Indignant England smiled, but soon deplored, Captive or slain, her dear heroic Lord; As when o'er Egypt heavenly vengeance moved, Seem'd each sad heart to mourn its best beloved. Revered, yet not for regal pomp alone, His martial fame and far-descended crown, But for that hand, whose gifts prevent distress, That soul, which revell'd in its power to bless; 620 Whose first command absolved the prisoner's chain, Lest one lorn wretch should hear and curse his reign.*
 He loved the dance, the feast, the minstrel song Himself could raise so well, the glittering throng Of princely jousts:—<oh! could his realm forbear To worship one to whom its sports were dear! Guilt drops her mask,—the rebel, bolder grown, Now fables Richard's death, and mounts the throne. Through Gloucester's fruitful vale, (her ample dower) xAvisa spreads revolt*—from Thikehill's tower, 630 From Durham's hill, from Derby's massy keep, To where th' Atlantic laves St. Michael's steep, The battle raged; but soon from Neustria's coast Th' intrepid Queen leads on her little host; With York, who, faithful to his Monarch, now Laments his rash revenge and slighted vow. Against the rebel force her powers combine, The martial Durham, Cestria's Palatine, Leicester, in Syrian fields with glory crown'd, Bardolf and Stutevillej Strigulph, long renown'd 640 In Erin's wars, and for his matchless bow/ All sheathed in arms, with loyal ardour glow. Windsor they save, they guard the menaced shores/ And draw their lines round Thikehill's reverend towers.
 The Norman confines Philip threats in vain, The Queen upholds her Son's invaded reign. " Yet," she resumed, " not yet is Thikehill ours, Nor Nottingham, nor steep St. Michael's towers j III may the cause one faithful Baron spare. This weighty mission must be Albert's care. 650 Before th* imperial synod boldly stand, And from the Austrian Duke the King demand; When to his Peers his treason yoii proclaim, If not to justice, he must yield to shame.— Seek then with happiest speed thine own domain, And from thy vassals chuse the fitting train; But think, a nation's curse will brand delay, Not e'en thy lovely bride must win thy stay." Six times the dawn beheld him on his course, Six welcome nights reposed his weary horse; 660 But with the seventh, at sunset's purple hour, Peer'd o'er the dusky woods his well-known tower. " See, see, my squire, the light that glimmers there, In that lone cell thy Lady chose for prayer! To Syria's holy war her fancy roams— Yes! heaven has heard thy Λνί^ίι, thy Albert comes.
@@ -3560,3 +3603,5 @@ Note (e), page 354, line 713. Tke easy price of that triumphant day. Only two pe
 &emsp;&emsp; — *Paradise Lost*
 
 [^32]: Philip Augustus was immediately informed of <span class="smallcaps">Richard’s</span> captivity by a messenger from the Emperor. From France the news passed into England.
+
+[^33]: It is said that he even did homage to Philip for the crown of England.
