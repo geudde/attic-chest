@@ -3217,7 +3217,7 @@ Than Ebor’s matchless fane and solemn quire.<br>
 And royal <span class="smallcaps">Richard</span>, ere he left the west,<br>
 Gave with a brother’s kiss a King’s behest;<br>
 (The same to John with oaths confirm’d before),<br>
-For three full years to shun the English shore<sup>r</sup<br>
+For three full years to shun the English shore<sup>r</sup><br>
 But John was early false, and Geoffrey now<br>
 Deem’d that his priestly rank absolved the vow.<br>
 With Pembroke join’d, the princely pair demand<br>
