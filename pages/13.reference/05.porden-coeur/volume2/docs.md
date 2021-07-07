@@ -3552,7 +3552,7 @@ Yet let me, while I may, its source reveal.<br>
 But yestermorn so fair, so blythe of cheer,<br>
 Here was my lady, all thy vassals here;<br>
 Long had she loved to muse and weep alone,<br>
-But then warm hope inspired her cheerful tone:
+But then warm hope inspired her cheerful tone:<br>
 ‘Long hast thou seen, good Seneschal!’ she said,<br>
 ‘How ill my cares this niggard myrtle paid;<br>
 Behold it now, how gay since yesternight,<br>
@@ -3618,7 +3618,7 @@ Two reverend Abbots form’d his peaceful train,<br>
 And favouring breezes bore him o’er the main.
 
 <a id="book13"></a>
-## Book XIII
+## Book XIII 
 
 ### The Castle of Trivallis
 
