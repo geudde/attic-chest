@@ -4024,7 +4024,7 @@ And thank thy saints ’twas I that heard the strain;<br>
 Tired as thou art, fly swiftly o’er the heath,<br>
 And shun these walls as thou would’st shun thy death.”<br>
 &emsp;But was that pilgrim weary? oh! less fleet<br>
-The mountain chamois plies its fearless feet:
+The mountain chamois plies its fearless feet:<br>
 “Farewell! my ears are blest though not my eyes,<br>
 Thy chains shall fall,” she warbles as she flies;<br>
 “Thou gentle guardian of my steps, my will,<br>
@@ -4112,7 +4112,7 @@ And know his first, most anxious friend in me,”<br>
 And on their speech the early morning broke.<br>
 “Now let us forth; to Haguenau’s towers I go,<br>
 Where meets th’ Imperial Court.”<br>
-<span style="margin-left: 16rem;">“But dost thou know,</span>”<br>
+<span style="margin-left: 14rem;">“But dost thou know,</span>”<br>
 The Prelate said, “in whom thou wouldst confide!<br>
 Imperial Henry, with his father’s pride,<br>
 Though green in years, combines the Austrian’s guile:<br>
