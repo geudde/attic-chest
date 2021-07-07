@@ -3765,17 +3765,108 @@ I shudder at the blood that stains its leaves.”<br>
 &emsp;“Would then some biting satire please thy mind,<br>
 That paints the crimes and follies of mankind?<br>
 Such Pierre<sup>g</sup> has framed—”<br>
-<span style="margin-left: 12rem;">“Nay, nay, thy themes are strange,</span><br>
+<span style="margin-left: 10rem;">“Nay, nay, thy themes are strange,</span><br>
 Capricious bard, hast thou no fitter change?”<br>
 &emsp;“Nay, by my knighthood, the caprice is thine,”<br>
-The Count burst in, “or hear him or decline.
-
-
-Sing what thou wilt, keen satire, arms, or love, Or blend them all, and all shall then approve." Blondel obey'd—a pleasing air he rung, As Huon's wild and wondrous quest he sung. The merry squire, but most that beauteous fay, Whose tiny limbs celestial grace display; His lily crown, his never-fading youth, His dance-inspiring horn, the test of truth; 150 His bowl, whose ever-brimming sweets allure The guiltless touch, but shrink from lips impure: Of Huon's love, of Rezia's charms and woes, л Their mutual crime, and how the tempest rose, ч Till in a desert isle they found repose; у And by their matchless truth at length restored The fond Titania to her elfin Lord.*· At first the dame with taste fastidious heard, Scann'd every thought, and carp'd at every word; Then sigh'd if fabled woes recall'd her own, 160 Then thought and felt in Huon's fate alone; Till on her cheek the long-lost colour rose, And her rous'd spirit mourn'd to hear the close.
-"'Take this," she cried,and loos'd her golden chain *. " Take this, young bard, 'twill better pay thy strain," The Count began. With grateful glance he took And kist the chain, but turn'd with careless look From the full purse: " I am no venal bard, Your praise, your favour, are my best reward." ťí Ha! 'tis not полу, as when in years ot' old, 170 Castalia's fountain quench'd the thirst of gold, Too long, too well, our northern bards 1тл г е known To scorn the muse that pays with smiles alone;" Thought the stern Count, and dark suspicion spoke In his black brow, and keen inquiring look; Till as the seeming youth in haste withdrew, All her soft sex was in her glowing hue. In fear, yet forced her terrors to restrain, Silent she sate amid the menial train; Resolved to quit the fort with rising morn, ISO Nor thought how oft she pass'd th' untasted horn; Till now she ask'd what princely halls were near, Whose bounteous lords the wandering minstrel cheer. ' c Few," said an aged page, <ť since Leopold Grasp'd this fair duchy in his iron hold, Their wealth betray, or dare their gates untold; N 2
-And since his minions, from a foreign shore, That unknown captive to Trivallis bore."— " Nay wherefore pause? oh! why should fear inspire? Lurks fraud in youth, or treachery in the lyre? 190 Oh speak! the Muse on tales of sorrow feeds. Reveal the path that to Trivallis leads." " Deep in a mountain wild, sublimely grand, And black with age, the triple turrets stand: 'Tis whisper'd those forbidden chambers hold Unnumber'd victims, and uncounted gold; This much is sure, whoe'er the Prince offends, In speech or action, foes, suspected friends, Those walls receive. They enter—ask no more! For never yet did that relentless door 200 Disgorge its prey, th' irremeable bourne, Whence, like the gates of hell, is no return. Nay, there are tales (and bold we deem the wight Who views that castle but by noonday light) Of dreadful screams, and sounds of mortal pain, And sheeted forms that drag the clanking chain; And one who there, amid the moonlight stood, Deem'd that each guilty turret blush'd with blood. These halls erewhile a transient shelter gave To one departing for that living grave: 210
-To speak was death, none knew his name or face, Yet sure such care betray'd a princely race; And once, from yonder loophole dimly seen, I gazed at distance on his martial mien: I longed to give him arms, and bid him stand, Or fall as fits a warrior, sword in hand; And mourn'd to think that famine's slow decay, And grief and chains, should wear those limbs away— But thou art pale, poor youth—thy wish forbear, The bard, believe me, wins no fas T our there." 220 While yet he bends to hear, a damsel came And call'd hím forth, to cheer her pensive dame. But pensive, languid she appear'd no more, A healthful glow her lingering beauty wore. ťŕ Fair youth," she spoke, ťí or, by that blush betray'd, If right I guess thy secret, lovely maid! My Lord has said,^— { be is not what he seems/ And chains are near when thus Count Maynard deems. Nay, do not speak, nor to my ear confide What wedded duty should not hear and hide; 230 But I am grateful for the only jo) That years have brought, and ssould repay it, boy. Go to thy couch, but eve the dawning day My damsel guides thee bs a secret way, N 3
-Beyond our walls; if then a thought I claim, Breathe one brief prayer for Gortz' unhappy dame; Thy youth has many a rainbow dream to come, But mine are past, I sigh but for the tomb." i( Nay, gentle lady, rouse thee from despair, Not les 1? than thou I know the weight of care; 240 Perchance had all for which thy nature sighs, Perchance have lost what most thy heart would prize. But for the grave! oh! if thy fearless soul, Recoiling, start not from the dismal goal, Think that its rest is but for those who tread This darksome vale unfaltering, undismayed. 'Tis that beyond, for which we bravely beai The ills of life—oh î fix thy wishes there. It cannot chase thy woes, but they will seem Like passing clouds that melt beneath the beam , 250 While every flower that decks the glistening spra), Each bird whose carol hails the orient day, Shall lift thy grateful thought to Him on high, Who in that radiance gives them life and joy." " I would—1 wili— oh ' could'st thou safely stay— Thou heed'fet not gold, but, can I aid thy ss ay >" ťť Lady, these paths are rude; my weary feet Bleed at th' unwonted toil." " My steed is fleet,
+The Count burst in, “or hear him or decline.<br>
+Sing what thou wilt, keen satire, arms, or love,<br>
+Or blend them all, and all shall then approve.”<br>
+&emsp;Blondel obey’d—a pleasing air he rung,<br>
+As Huon’s wild and wondrous quest he sung.<br>
+The merry squire, but most that beauteous fay,<br>
+Whose tiny limbs celestial grace display;<br>
+His lily crown, his never-fading youth,<br>
+His dance-inspiring horn, the test of truth;<br>
+His bowl, whose ever-brimming sweets allure<br>
+The guiltless touch, but shrink from lips impure:<br>
+Of Huon’s love, of Rezia’s charms and woes,<br>
+Their mutual crime, and how the tempest rose,<br>
+Till in a desert isle they found repose;<br>
+And by their matchless truth at length restored<br>
+The fond Titania to her elfin Lord.[^38]<br>
+&emsp;At first the dame with taste fastidious heard,<br>
+Scann’d every thought, and carp’d at every word;<br>
+Then sigh’d if fabled woes recall’d her own,<br>
+Then thought and felt in Huon’s fate alone;<br>
+Till on her cheek the long-lost colour rose,<br>
+And her rous’d spirit mourn’d to hear the close.<br>
+&emsp;“Take this,” she cried, and loos’d her golden chain.<br>
+“Take this, young bard, ’twill better pay thy strain,”<br>
+The Count began. With grateful glance he took<br>
+And kist the chain, but turn’d with careless look<br>
+From the full purse: “I am no venal bard,<br>
+Your praise, your favour, are my best reward.”<br>
+&emsp;“Ha! ’tis not поw, as when in years of old,<br>
+Castalia’s fountain quench’d the thirst of gold,<br>
+Too long, too well, our northern bards havе known<br>
+To scorn the muse that pays with smiles alone;”<br>
+Thought the stern Count, and dark suspicion spoke<br>
+In his black brow, and keen inquiring look;<br>
+Till as the seeming youth in haste withdrew,<br>
+All her soft sex was in her glowing hue.<br>
+&emsp;In fear, yet forced her terrors to restrain,<br>
+Silent she sate amid the menial train;<br>
+Resolved to quit the fort with rising morn,<br>
+Nor thought how oft she pass’d th’ untasted horn;<br>
+Till now she ask’d what princely halls were near,<br>
+Whose bounteous lords the wandering minstrel cheer.<br>
+&emsp;“Few,” said an aged page, “since Leopold<br>
+Grasp’d this fair duchy in his iron hold,<br>
+Their wealth betray, or dare their gates untold;<br>
+And since his minions, from a foreign shore,<br>
+That unknown captive to Trivallis bore.”—<br>
+&emsp;“Nay wherefore pause? oh! why should fear inspire?<br>
+Lurks fraud in youth, or treachery in the lyre?<br>
+Oh speak! the Muse on tales of sorrow feeds.<br>
+Reveal the path that to Trivallis leads.”<br>
+&emsp;“Deep in a mountain wild, sublimely grand,<br>
+And black with age, the triple turrets stand:<br>
+’Tis whisper’d those forbidden chambers hold<br>
+Unnumber’d victims, and uncounted gold;<br>
+This much is sure, whoe’er the Prince offends,<br>
+In speech or action, foes, suspected friends,<br>
+Those walls receive. They enter—ask no more!<br>
+For never yet did that relentless door<br>
+Disgorge its prey, th’ irremeable bourne,<br>
+Whence, like the gates of hell, is no return.<br>
+Nay, there are tales (and bold we deem the wight<br>
+Who views that castle but by noonday light)<br>
+Of dreadful screams, and sounds of mortal pain,<br>
+And sheeted forms that drag the clanking chain;<br>
+And one who there, amid the moonlight stood,<br>
+Deem’d that each guilty turret blush’d with blood.<br>
+These halls erewhile a transient shelter gave<br>
+To one departing for that living grave:<br>
+To speak was death, none knew his name or face,<br>
+Yet sure such care betray’d a princely race;<br>
+And once, from yonder loophole dimly seen,<br>
+I gazed at distance on his martial mien:<br>
+I longed to give him arms, and bid him stand,<br>
+Or fall as fits a warrior, sword in hand;<br>
+And mourn’d to think that famine’s slow decay,<br>
+And grief and chains, should wear those limbs away—<br>
+But thou art pale, poor youth—thy wish forbear,<br>
+The bard, believe me, wins no favour there.”<br>
+&emsp;While yet he bends to hear, a damsel came<br>
+And call’d hím forth, to cheer her pensive dame.<br>
+But pensive, languid she appear’d no more,<br>
+A healthful glow her lingering beauty wore.<br>
+“Fair youth,” she spoke, “or, by that blush betray’d,<br>
+If right I guess thy secret, lovely maid!<br>
+My Lord has said,—‘he is not what he seems,’<br>
+And chains are near when thus Count Maynard deems.<br>
+Nay, do not speak, nor to my ear confide<br>
+What wedded duty should not hear and hide;<br>
+But I am grateful for the only joy<br>
+That years have brought, and would repay it, boy.<br>
+Go to thy couch, but ere the dawning day<br>
+My damsel guides thee by a secret way,<br>
+Beyond our walls; if then a thought I claim,<br>
+Breathe one brief prayer for Gortz’ unhappy dame;<br>
+Thy youth has many a rainbow dream to come,<br>
+But mine are past, I sigh but for the tomb.”<br>
+&emsp;“Nay, gentle lady, rouse thee from despair,<br>
+Not less than thou I know the weight of care; 240 Perchance had all for which thy nature sighs, Perchance have lost what most thy heart would prize. But for the grave! oh! if thy fearless soul, Recoiling, start not from the dismal goal, Think that its rest is but for those who tread This darksome vale unfaltering, undismayed. 'Tis that beyond, for which we bravely beai The ills of life—oh î fix thy wishes there. It cannot chase thy woes, but they will seem Like passing clouds that melt beneath the beam , 250 While every flower that decks the glistening spra), Each bird whose carol hails the orient day, Shall lift thy grateful thought to Him on high, Who in that radiance gives them life and joy." " I would—1 wili— oh ' could'st thou safely stay— Thou heed'fet not gold, but, can I aid thy ss ay >" ťť Lady, these paths are rude; my weary feet Bleed at th' unwonted toil." " My steed is fleet,
 And shall bc thine—farewell, be heaven thy guide; Λ But mark me, where thou see'st the way divide,260 V Turn to the right,—'tis to our Austrian pride, j Vienna! but beware the left hand path, It leads to dread Trivallis, chains and death. Farewell, and pray that I may sleep in peace."— (i Dame, I will pray that soon thy griefs may cease; But, rous'd to hope, new joys and softer fears, And proud of all a mother's pleasing cares, Till thou, like Huon and his bride, shall find Heaven yet is gracious, when it seems unkind." Freed from the castle ere the dawn of day, 270 The minstrel Queen pursued her anxious way; Scarce on the right hand path one glance bestow'd, But took, impetuous, the forbidden road. Scarce could she still the beatings of ber breast, Or pause herself, or give her palfrey rest, When the hot sun in cloudless skies was bright, Or glimmering stars diffused a doubtful light. She trod the burning crags, whose ruins spread The dizzy ledge, and beetled o'er ber head; Plunged in rude dells, unconscious of the beam, '260 Or to ib cradle traced tho brawling stream; л 4
 Nor sought the goatherd's shed, —her scrip supplied The scanty meal, she drank the limpid tide. Till when at last those awful walls appear'd, Which cowards fled, and e'en the valiant fear'd, They seem 41 like forms in waking visions wrought, When hope obsequious paints the secret thought. Feli'd was the nearer wood—beyond, it rose To screen the fort, but not to hide its foes: High on a hill, the triple towers were seen, 290 On three huge crags, with horrid depths between;'' A triple fosse the vast enclosure bound, And massy walls the triple vallum crown'd. The stones were black with age, the struggling day Scarce through the loopholes sent a scanty ray. From those dark halls no sounds of welcome breathe, No hamlet shelters in its shade beneath; One awful beam th' autumnal evening threw, That tinged the western front with sanguine hue; While from behind, the moon arising bright, 300 Clothed the pale landscape in contrasted light. She left her steed beneath the beechen shade, (( And art thou there, my best beloved 1" she said,
 ťC Upbraiding all that to thy help should fly, Nor think'st ΛνΙίαΙ fond, what anxious heart is nigh." Eve's last soft flushes fade, and all is still, While veil'd in gloom, she climbs the arduous hill. Rude was the path, nor oft by pilgrim worn, O'ergrown with briars, long, ţvildering and forlorn: Scarce might the horseman trace that dangerous way, Through brakes, impervious to the summer day, Now wrapt in night; while onward as she hies, Scared at her step the birds of carnage rise. At last, yet shrouded in the castle's shade, Cautious she crost its spacious esplanade; Marked each strong wall with towers begirt around, The massy keep ΛνΙ^ lofty turrets c^vn'dj The boy who never dreamt of war might know Those алупл1 ramparts would but mock the foe -, While not one light the abode of man confest, 320 Or gave the weary pilgrim hope of rest. Those grated loopholes o'er the gate—ah there Perchance her Richard wastes ΛνΗΙι secret care! Whose gifts were kingdoms, now by famine dies— His only prospect those relentless skies, His only visitants the bats, that pnnvl Round the grim tower, or nightly hooting owl!
@@ -4120,4 +4211,6 @@ Note (e), page 354, line 713. Tke easy price of that triumphant day. Only two pe
 
 [^36]: The Frigidus, or cold river, a small but memorable stream in the territory of Gortz, near Aquileia; now called the Vipao.
 
-[^37]: White and green were the appopriate colours of the wandering ministrel.
+[^37]: White and green were the appopriate colours of the wandering minstrel.
+
+[^38]: Alluding to Wieland’s Oberon, founded on the old Romance of Huon de Bordeaux, and translated by Mr. Sotheby into English verse.
