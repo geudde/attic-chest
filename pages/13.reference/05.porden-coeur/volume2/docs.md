@@ -3236,15 +3236,175 @@ Homage at Philip’s feet he hastes to pay;[^33]<br>
 Philip, who false to heaven and Vezelay,<br>
 Now claims the Norman rule;—with virtuous pride,<br>
 Her hoary Seneschal the King defied;<br>
+Enraged he prest to arms,—but vainly prest,<br>
+For honour, banish’d from the Sovereign’s breast,<br>
+Lived in his nobles,-—” they had truly sworn<br>
+To guard his rights, till <span class="smallcaps">Richard</span> should return.”<sup>t</sup><br>
+Sick at the light that makes his glory pale.<br>
+(For <span class="smallcaps">Richard’s</span> triumphs breath’d on every gale,)<sup>u</sup><br>
+He heard of Conrad’s fall—his slanderous tongue<br>
+With darker scandal swells the Austrian’s wrong;<br>
+And swears the Monarch, now by practice grown<br>
+Expert in murder, next intends his own.[^34]<br>
+&emsp;Indignant England smiled, but soon deplored,<br>
+Captive or slain, her dear heroic Lord;<br>
+As when o’er Egypt heavenly vengeance moved,<br>
+Seem’d each sad heart to mourn its best beloved.<br>
+Revered, yet not for regal pomp alone,<br>
+His martial fame and far-descended crown,<br>
+But for that hand, whose gifts prevent distress,<br>
+That soul, which revell’d in its power to bless;<br>
+Whose first command absolved the prisoner’s chain,<br>
+Lest one lorn wretch should hear and curse his reign.<sup>x</sup><br>
+He loved the dance, the feast, the minstrel song<br>
+Himself could raise so well, the glittering throng<br>
+Of princely jousts:—oh! could his realm forbear<br>
+To worship one to whom its sports were dear!<br>
+Guilt drops her mask,—the rebel, bolder grown,<br>
+Now fables Richard’s death, and mounts the throne.<br>
+Through Gloucester’s fruitful vale, (her ample dower)<br>
+Avisa spreads revolt[^35]—from Thikehill’s tower,<br>
+From Durham’s hill, from Derby’s massy keep,<br>
+To where th’ Atlantic laves St. Michael’s steep,<br>
+The battle raged; but soon from Neustria’s coast<br>
+Th’ intrepid Queen leads on her little host;<br>
+With York, who, faithful to his Monarch, now<br>
+Laments his rash revenge and slighted vow.<br>
+Against the rebel force her powers combine,<br>
+The martial Durham, Cestria’s Palatine,<br>
+Leicester, in Syrian fields with glory crown’d,<br>
+Bardolf and Stuteville; Strigulph, long renown’d<br>
+In Erin’s wars, and for his matchless bow,<sup>y</sup><br>
+All sheathed in arms, with loyal ardour glow.<br>
+Windsor they save, they guard the menaced shores,<sup>z</sup><br>
+And draw their lines round Thikehill’s reverend towers.<br>
+The Norman confines Philip threats in vain,<br>
+The Queen upholds her Son’s invaded reign.<br>
+&emsp;“Yet,” she resumed, “not yet is Thikehill ours,<br>
+Nor Nottingham, nor steep St. Michael’s towers;<br>
+Ill may the cause one faithful Baron spare.<br>
+This weighty mission must be Albert’s care.<br>
+Before th’ imperial synod boldly stand,<br>
+And from the Austrian Duke the King demand;<br>
+When to his Peers his treason you proclaim,<br>
+If not to justice, he must yield to shame.<br>
+Seek then with happiest speed thine own domain,<br>
+And from thy vassals chuse the fitting train;<br>
+But think, a nation’s curse will brand delay,<br>
+Not e’en thy lovely bride must win thy stay.”
 
-Enraged he prest to arms,—but vainly prest, For honour, banish'd from the Sovereign's breast, Lived in his nobles,-—" they had truly sworn l To guard his rights, till Richard should return." 1 Sick at the light that makes his glory pale. (For Richard's triumphs breath'd on every gale,)" He heard of Conrad's fall—his slanderous tongue With darker scandal swells the Austrian's wrong; 610 And swears the Monarch, now by practice grown Expert in murder, next intends his own.* Indignant England smiled, but soon deplored, Captive or slain, her dear heroic Lord; As when o'er Egypt heavenly vengeance moved, Seem'd each sad heart to mourn its best beloved. Revered, yet not for regal pomp alone, His martial fame and far-descended crown, But for that hand, whose gifts prevent distress, That soul, which revell'd in its power to bless; 620 Whose first command absolved the prisoner's chain, Lest one lorn wretch should hear and curse his reign.*
-He loved the dance, the feast, the minstrel song Himself could raise so well, the glittering throng Of princely jousts:—<oh! could his realm forbear To worship one to whom its sports were dear! Guilt drops her mask,—the rebel, bolder grown, Now fables Richard's death, and mounts the throne. Through Gloucester's fruitful vale, (her ample dower) xAvisa spreads revolt*—from Thikehill's tower, 630 From Durham's hill, from Derby's massy keep, To where th' Atlantic laves St. Michael's steep, The battle raged; but soon from Neustria's coast Th' intrepid Queen leads on her little host; With York, who, faithful to his Monarch, now Laments his rash revenge and slighted vow. Against the rebel force her powers combine, The martial Durham, Cestria's Palatine, Leicester, in Syrian fields with glory crown'd, Bardolf and Stutevillej Strigulph, long renown'd 640 In Erin's wars, and for his matchless bow/ All sheathed in arms, with loyal ardour glow. Windsor they save, they guard the menaced shores/ And draw their lines round Thikehill's reverend towers.
-The Norman confines Philip threats in vain, The Queen upholds her Son's invaded reign. " Yet," she resumed, " not yet is Thikehill ours, Nor Nottingham, nor steep St. Michael's towers j III may the cause one faithful Baron spare. This weighty mission must be Albert's care. 650 Before th* imperial synod boldly stand, And from the Austrian Duke the King demand; When to his Peers his treason yoii proclaim, If not to justice, he must yield to shame.— Seek then with happiest speed thine own domain, And from thy vassals chuse the fitting train; But think, a nation's curse will brand delay, Not e'en thy lovely bride must win thy stay." Six times the dawn beheld him on his course, Six welcome nights reposed his weary horse; 660 But with the seventh, at sunset's purple hour, Peer'd o'er the dusky woods his well-known tower. " See, see, my squire, the light that glimmers there, In that lone cell thy Lady chose for prayer! To Syria's holy war her fancy roams— Yes! heaven has heard thy Λνί^ίι, thy Albert comes.
-Swift, swift, and she shall soothe thy pride, and feed And bless thee for my weal, my faithful steed; Swift í thou hast yet some weary leagues to pass, And deep and dangerous is the green morass." 670 Not idle was the fear,—while yet he spoke. The ground beneath their floundering palfreys broke. With much of time and labour freed at last, Their way was dangerous and the daylight past; The dancing wildfire gleams on every side, Bewildering only whom it seems to guide; Oft in deep bogs the faithless path is lost, Oft by tall reeds and tangling brushwood crost; And ere again they reach'd the open wold. The night was black, the midnight bell had toU'd. 080 Slow rose the clouded moon, long shadows fall, And dark and massive frown'd the castle-wall. " The bridge is down!" cried Albert; " why so late? No bolts secured, no warder at the gate? The light is vanish'd from my Lady's tower, Sweet dove î thou sleep'st iu an unguarded bovver, This horn must chase thy dreams." Alas! how well That deep full strain was known to Rosabelle! How oft, when seated in her father's hall, Her blush betray'd she kne tv the distant call! 690
-How oft would she from dreams of pleasure wake, When echo bore it o'er the moonlight lake! Why wakes not now? has she forgot the strain! And all his vassals?—hark! he breathes again. Yet no reply—the silence chilis his breast, With naked weapon o'er the bridge he prest; He reach'd the hall—the embers still were red, There still the fragments of the feast were spread, But all was lonely; to his lady's bower He flew; his cries re-echoed through the tower! 700 In vain—her snowy veil is on the chair, Her favourite dove securely roosted there; And where her maidens wrought th' embroidered vest, Still in th' unfinish'd work their needles rest; And in that cell, where every morn and even She poured her fervent orisons to heaven, Her opened missal on the cushion spread, Her cross and rosary by its side were laid; And from the wreath луЫсЬ bound her auburn hair, A vagrant rose stili bloom'd unwithcr'd there; f\0 There was the book she laid aside for prayer, The plaintive lay some troubadour had wove, A mournful legend of forsaken love.
-Still her mild spirit seem'd to breathe around, And fancy, starting at the slightest sound, Hears in the wailing breeze her silver tone, Or light approaching step,—but fancy hears alone. Oh! height of grief! but Bernard ventures near, Half roused to mirth and half deprest by fear: " Sure some magician rules these lonely halls! 720 The steeds yet feed securely in their stalls, But not a wight is nigh—yet come, for you, My master, have I spread the feast anew; The crackling blaze shall cheer the wakeful hour, At morn, perchance, the spell may lose its power.— But why that vacant gaze? and from thy hand Why drops, unconsciously, the blazing brand? No signs of war, nor blood nor arms are here, Nor wert thou wont the wizard's art to fear— Trust me, my lord, to cheat her lonely hours, 730 Thy lady seeks Iltz Ranulph's Cestrian towers; Her lovely cousins there with her prolong The lively dance, the feast, the choral song." " Peace!" Albert cried, "oh! think not to deceive (S With hopes you cannot, while you speak, believe; If mirth like theirs could cheer her widow'd heart, Would Edric, would my warlike train depart?
-What spirit dropp'd the veil, the rosebud there, Or through this lattice shed the treacherous glare? Curse on the bog, the dark and tangled shade— With that lost hour my earthly bliss is fled! Yet bring my steed,--if Ronald struck the blow, Yet Ronald ever was a generous foe,— Nor here one trace of war; this murky night Again may wilder, we must wait for light. In such an hour to lose thee, Rosabelle, — Ah! no—the morning will not break the spell." A cheerful blaze was in the lonely hall, That shew'd the banners on each trophied wall; 750 Therounded arch, through which the night wind sigh'd, And shook the mouldering wrecks of martial pride; The mighty chesnut beams, that, in disdain Of time and mining worms, the roof sustain; Where shapes grotesque barbaric sculpture traced, Or the fine forms of classic Rome debased. The oaken board—whose merry guests were gone,— The chair of state and bench of massy stone; On all by turns the flickering radiance play'd, Here broad in light, there sunk in sable shade. 760 With vizor down, that Bernard might not trace His varying thoughts reflected on his face,
-book The warrior sate remote, and watch'd his squire Drain the red bowl or slumber by the fire j One might have deem'd that grief had conquered rest, But the long toil his weary frame opprest, And nature claimM her hour,—as long he mused On his dear loss, still more and more confused, His aching head perplex'd the painful theme, And wild conjecture glides into a dream. 77® Through the long windows now the morning light Streams various on the hall—up starts the knight: {S Wake! Bernard, trim the fading fire once more,— But lo! what mean these blood drops on the floor? Perchance these dancing rays confuse my sight, No! it is blood, nor was it here at night!" Full in their view and vivid was the stain, No man was near them, and conjecture vain. Why should a friend have fled? and if a foe, What from his slumbering prey withheld the blow? And whence the blood? what hand could give the wound? They rise and search, above, below, around; Each winding corridor, each trophied room, The turrets' airy height, the dungeon's gloom.
+Six times the dawn beheld him on his course,<br>
+Six welcome nights reposed his weary horse;<br>
+But with the seventh, at sunset’s purple hour,<br>
+Peer’d o’er the dusky woods his well-known tower.<br>
+&emsp;“See, see, my squire, the light that glimmers there,<br>
+In that lone cell thy Lady chose for prayer!<br>
+To Syria’s holy war her fancy roams—<br>
+Yes! heaven has heard thy wish, thy Albert comes.<br>
+Swift, swift, and she shall soothe thy pride, and feed<br>
+And bless thee for my weal, my faithful steed;<br>
+Swift! thou hast yet some weary leagues to pass,<br>
+And deep and dangerous is the green morass.”<br>
+&emsp;Not idle was the fear,—while yet he spoke.<br>
+The ground beneath their floundering palfreys broke.<br>
+With much of time and labour freed at last,<br>
+Their way was dangerous and the daylight past;<br>
+The dancing wildfire gleams on every side,<br>
+Bewildering only whom it seems to guide;<br>
+Oft in deep bogs the faithless path is lost,<br>
+Oft by tall reeds and tangling brushwood crost;<br>
+And ere again they reach’d the open wold,<br>
+The night was black, the midnight bell had toll’d.<br>
+Slow rose the clouded moon, long shadows fall,<br>
+And dark and massive frown’d the castle-wall.<br>
+“The bridge is down!” cried Albert; “why so late?<br>
+No bolts secured, no warder at the gate?<br>
+The light is vanish’d from my Lady’s tower,<br>
+Sweet dove! thou sleep’st in an unguarded bower,<br>
+This horn must chase thy dreams.” Alas! how well<br>
+That deep full strain was known to Rosabelle!<br>
+How oft, when seated in her father’s hall,<br>
+Her blush betray’d she knew the distant call!<br>
+How oft would she from dreams of pleasure wake,<br>
+When echo bore it o’er the moonlight lake!<br>
+Why wakes not now? has she forgot the strain!<br>
+And all his vassals?—hark! he breathes again.<br>
+Yet no reply—the silence chills his breast,<br>
+With naked weapon o’er the bridge he prest;<br>
+He reach’d the hall—the embers still were red,<br>
+There still the fragments of the feast were spread,<br>
+But all was lonely; to his lady’s bower<br>
+He flew; his cries re-echoed through the tower!<br>
+In vain—her snowy veil is on the chair,<br>
+Her favourite dove securely roosted there;<br>
+And where her maidens wrought th’ embroidered vest,<br>
+Still in th’ unfinish’d work their needles rest;<br>
+And in that cell, where every morn and even<br>
+She poured her fervent orisons to heaven,<br>
+Her opened missal on the cushion spread,<br>
+Her cross and rosary by its side were laid;<br>
+And from the wreath which bound her auburn hair,<br>
+A vagrant rose still bloom’d unwither’d there;<br>
+There was the book she laid aside for prayer,<br>
+The plaintive lay some troubadour had wove,<br>
+A mournful legend of forsaken love.<br>
+Still her mild spirit seem’d to breathe around,<br>
+And fancy, starting at the slightest sound,<br>
+Hears in the wailing breeze her silver tone,<br>
+Or light approaching step,—but fancy hears alone.<br>
+Oh! height of grief! but Bernard ventures near,<br>
+Half roused to mirth and half deprest by fear:<br>
+“Sure some magician rules these lonely halls!<br>
+The steeds yet feed securely in their stalls,<br>
+But not a wight is nigh—yet come, for you,<br>
+My master, have I spread the feast anew;<br>
+The crackling blaze shall cheer the wakeful hour,<br>
+At morn, perchance, the spell may lose its power.<br>
+But why that vacant gaze? and from thy hand<br>
+Why drops, unconsciously, the blazing brand?<br>
+No signs of war, nor blood nor arms are here,<br>
+Nor wert thou wont the wizard’s art to fear—<br>
+Trust me, my lord, to cheat her lonely hours,<br>
+Thy lady seeks Fitz Ranulph’s Cestrian towers;<br>
+Her lovely cousins there with her prolong<br>
+The lively dance, the feast, the choral song.”<br>
+&emsp;“Peace!” Albert cried, “oh! think not to deceive<br>
+With hopes you cannot, while you speak, believe;<br>
+If mirth like theirs could cheer her widow’d heart,<br>
+Would Edric, would my warlike train depart?<br>
+What spirit dropp’d the veil, the rosebud there,<br>
+Or through this lattice shed the treacherous glare?<br>
+Curse on the bog, the dark and tangled shade—<br>
+With that lost hour my earthly bliss is fled!<br>
+Yet bring my steed,-if Ronald struck the blow,<br>
+Yet Ronald ever was a generous foe,—<br>
+Nor here one trace of war; this murky night<br>
+Again may wilder, we must wait for light.<br>
+In such an hour to lose thee, Rosabelle,— <br>
+Ah! no—the morning will not break the spell.”<br>
+&emsp;A cheerful blaze was in the lonely hall,<br>
+That shew’d the banners on each trophied wall;<br>
+The rounded arch, through which the night wind sigh’d,<br>
+And shook the mouldering wrecks of martial pride;<br>
+The mighty chesnut beams, that, in disdain<br>
+Of time and mining worms, the roof sustain;<br>
+Where shapes grotesque barbaric sculpture traced,<br>
+Or the fine forms of classic Rome debased.<br>
+The oaken board—whose merry guests were gone,—<br>
+The chair of state and bench of massy stone;<br>
+On all by turns the flickering radiance play’d,<br>
+Here broad in light, there sunk in sable shade.<br>
+With vizor down, that Bernard might not trace<br>
+His varying thoughts reflected on his face,<br>
+The warrior sate remote, and watch’d his squire<br>
+Drain the red bowl or slumber by the fire;<br>
+One might have deem’d that grief had conquered rest,<br>
+But the long toil his weary frame opprest,<br>
+And nature claim’d her hour,—as long he mused<br>
+On his dear loss, still more and more confused,<br>
+His aching head perplex’d the painful theme,<br>
+And wild conjecture glides into a dream.<br>
+&emsp;Through the long windows now the morning light Streams various on the hall—up starts the knight: {S Wake! Bernard, trim the fading fire once more,— But lo! what mean these blood drops on the floor? Perchance these dancing rays confuse my sight, No! it is blood, nor was it here at night!" Full in their view and vivid was the stain, No man was near them, and conjecture vain. Why should a friend have fled? and if a foe, What from his slumbering prey withheld the blow? And whence the blood? what hand could give the wound? They rise and search, above, below, around; Each winding corridor, each trophied room, The turrets' airy height, the dungeon's gloom.
 The bridge their haste at night forgot to raise, Is lifted now, and sanguine stains betrays; Hence, if for good or ill, the walls contain The mystic guest, whom yet they seek in vain. His blood flow'd freely in the dauntless chief, 790 Hope waked again, and wonder master'd grief; But every noise the trembling squire appalls, Rejoiced when Albert sent him from the walls. " Go to Lord Ronald's border tower, and well Observe his bearing, and conjure him tell, If aught he know of Lady Rosabelle? Mark, at my greeting if his cheek be pale, Or his frank nature kindle at the tale, Then speed thou here; some mystery hovers round, Nor will I hence until its clue be found." 800 Forth rides the gladden'd Squire—the knight alone, His grief and wonder wore a softer tone, And pausing as he paced the echoing hall, Or gazed on trophied arms that graced the wall, His memory waked again the hopes and fears, The woes, the pleasures of his early years. Oft on that seat reclined the aged pair, Who train'd the friendless orphan as their heir.
 One stormy night, when all was drear and dark, Sunk on Northumbria's rocks a founder'd bark; 810 One plank alone through tossing surges bore An helpless female and her child to shore. Vain were the Baron's cares, his lady's vain, For scarce her languid eyes unclosed again; She gazed upon her sobbing child, she sigh'd, Drew from her hand an emerald ring,—and died! Above his years appear'd the orphan's pain, But kindness won his rosy smiles again; Nurs'd by the childless pair, who saw with joy His grateful heart, and blest his laughing eye. 820 Oft, breathless, had he listen'd when they told Of ancient worthies, courteous, wise, and bold; That shield, which now the rust of ages wore, Great Arthur's Peer, white-handed I vain bore, And that, whose orb the spotless steed reveal'd, The Conqueror braved on Hastings' fatal field. The Baron gloried in his graudsire's might, Who bled for freedom and his country's right, Then, ’mid the wreck of all her native band, By arms maintain'd his honours and his land; 830 While Albert's heart his alien race denied, And felt in each bold chief a filial pride. VOL. II. ΛΙ
 Here, too, as years increas'd, his fancy wove The fairy day-dreams of awakening love.· - Oh! how was every happy vision crost! His reverend guardians gone, his lady lost! Cail'd by his Sovereign in his bridal hour, To bear the Holy Cross on Syria's shore; Yea, on the day that should have crown'd his bliss, Yet e'en a lover's fears had spared him this.— 840 He sought her chamber, and with throbbing breast Kiss'd her white veil, her silent dove carest; He rais'd her book, oh! sacred song has power To calm the wildest, soothe the saddest hour! And well this tale might charm, whose lofty tone Now rais'd the hero's soul, now bade him moan O'er kindred griefs—but as the interest grows, He hears behind the chamber door unclose; He starts, he lifts the falchion at his side,— From the rais'd latch a hand appears to glide; 850 Forward he springs, he speaks, but nought is there;— In vain he rushes down the winding stair: He hears a closing door, and following fast, He reach'd a room, whose narrow windows cast A doubtful light, and columns, thick and plain, The low-brow'd arches of the roof sustain.
@@ -3605,3 +3765,7 @@ Note (e), page 354, line 713. Tke easy price of that triumphant day. Only two pe
 [^32]: Philip Augustus was immediately informed of <span class="smallcaps">Richard’s</span> captivity by a messenger from the Emperor. From France the news passed into England.
 
 [^33]: It is said that he even did homage to Philip for the crown of England.
+
+[^34]: When Philip summoned Rouen to surrender, the seneschal of Normandy replied that the doors were open, if he choose to enter: but Philip was too wary to risk his safety upon such doubtful ground. He burned his magazines and retired.
+
+[^35]: Avisa, the second wife of John, was the daughter and heiress of the Earl of Gloucester, and promoted the cause of her husband throughout her extensive domain.
