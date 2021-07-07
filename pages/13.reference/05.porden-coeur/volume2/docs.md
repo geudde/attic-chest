@@ -2874,17 +2874,254 @@ And bind again the broken links of love.<br>
 Hate should not live in souls where honour grows,<br>
 For demons triumph when the good are foes.”
 
-Another week, a week of anxious care, Brought to their council Mosul's generous heir. In peace he came, and those that wont to shun His arm in war, his mild demeanor won. ŕí From Joseph's royal seed, from Asia's King, Her Shield and Sword; health, greeting, love I bring: Such love as heroes mingle with their war, And pity, such as noble foes may bear. 250 His soul is panting to renew the strife, Where sword with sword contends, and life with life; But like a viper darkling to destroy, Becomes not him; —the eagle perch'd on high, Respects the helpless dove that roosts below; The hungry lion spares the slumbering foe. And from yon regions where the prince of day Bursts through the hills, to where his parting ray Gilds with ætherial hues the dancing brine, His scouts have scour'd the plains of Palestine. 260 Whate'er his lot, the dungeon or the tomb, Our hands are guiltless of your Monarch's doom.
-Yet more—the godlike Soldan scorns to press, Ev'n on his foes, in weakness and distress; Till him you mourn, returning like a star, Dispel your darkness and restore the war, Or till the moons bring round the various year, Rest! Christians, rest! unharnťd and harmless here. Bid yon ripe fields their nodding gold resign, Press the fat olive, ease the burthen'd vine; 2/Ό But Λνΐιβη the days of proffer'd truce expire, As warriors wait him, or as friends retire." But Raymond now, who mark'd that every eye To his was lifted, gave the prompt reply: iC Bear back our greetings—bid the Soldan own Our souls are worthy, since we take his boon; Peace, for our Monarch's sake, we stablish here, Till Richard come, or till the closing year." The Prince but staid to share with cheerful soul The pledge of truce, the feast, the brimming bowl, Then, vaulting on his faithful steed, once more To Syria's lord the pledge of concord bore. Yet still with spicy sweets the goblets flow, And chace the clouds from each relaxing brow; When ’mid the Chiefs, with mien uncouth and rude, A dark brown man in garb monastic stood.
-" Whence and what art thou?" fiery Bertrand cried; " What thou wilt blush to hear," the monk replied. " Slave to the Mountain Prince, and Conrad's foe— He will'd the murder, and I gave the blow; 290 I and Alkamor, who already lies Blest in our master's promis'd Paradise. Thou deem'st a Christian King the poniard sped, But he who smiles when heaven enjoins to shed The blood of Misbelievers, bids ye know He hated Conrad, and he laid him low." 1 " Unhappy wretch!" ('twas Hubert's holy voice) te Deluded, canst thou murder and rejoice? Nor conscience checks thee, nor the timely fear, That death and tortures wait th' Assassin here." 300 ' c Death!" he exclaim'd, " oh, ne'er for idle breath Did coward sue, as Hassan's slaves for death. Who once has tasted heaven, finds earth a void; Yet sheathe your swords; not thus to be destroyed, To me his hands the happy poison gave— Your tortures cannot reach, your malice save." O'er his pale brow the painful flushes came, And stroug convulsions shook his sinewy frame; Yet with each pang his phrenzied raptures rise,— "\ tC Now rend my flesh, insulting Giaours," he crics,> My soul is blest-—it soars to Paradise." j
-And backward as he fell, his clenching hand And angry Ьголу defied the алуевП'иск band. k But fix'd as though th' infectious venom spread Through his cold veins, and pallid as the dead, Fierce Bertrand stood,—and when at length he broke His silent trance, he felt not that he spoke. e< How little deem'd I, in iny years of youth, When all my thoughts were love, my accents truth, That one black drop could poison all my mind!— 320 Must I, who held that passion луав not blind, Nor bate unjust—e'en while my slanderous tongue Spoke what my heart denied—confess the wrong? Perfidious Richard!—oh, the time has been, Who injured thee had found my falchion keen; When I, methinks, had wonder'd less to see The sun all darkness, than a spot in thee. Had'st thou been faithful, I could bend me yet— But to bc humble, луЬеге Ι νοΛνΜ to hate; To thee, yet tarnish'd лу1Й1 so deep a stain— 330 Oh! could that blot be cleans'd! could'st thou again Seem to my soul what I believed thee first, That, that were rapture, though my heart might burst!" That very eve, array'd in palmer's луееа, With staff* and palm-branch, shell, and scrip and bead,
-Alone he left the camp: and none might tell, If foes enthrali'd him, if he lived or fell; His squires in vain the Baron's fate explore. And Perigueux receives her lord no more. ’Twas at the midnight hour when all was still, 340 Save the soft zephyr and the murmuring rill, The convent chaunts that glided on the air, Or the low murmur of secluded prayer; That Richard's bride the Virgin's name adored, And called a blessing on her absent lord. Small was the chapel, but no vulgar hand Had framed the holy fabric, simply grand. Light rose the cluster'd shafts, till far aloof They branched and knotted on the gilded roof; Or broke in pointed arches, where between, 350 The foliaged tracery form'd an open screen. There never prying eye or noon-day glare Burst on the tranquil sanctity of prayer, But through the windows' rich and complex frame, Solemn and soft, the various radiance came; On the rich pavement deeper hues were thrown, And sculptured Saints in holier grandeur shone.
-But most the Virgin's form—oh! surely wrought By hands inspired, the marble breathed and thought! Her look so radiant with maternal grace, 360 Such opening glory in the infant's face! She stood behind a gem'd and gilded shrine, That made her simple beauty more divine; While mimic stars and skies of purple hue, O'er the bright vision purer lustre threw. One lamp alone diffused a steady light On Berengaria's robes of spotless white; For though, while dubious of her consort's fate, She quench'd each taper that in festal state Had deck'd the shrine, and meekly laid aside 370 Her splendid robes and ornaments of pride, She shunn'd the mourning vest Matilda wore, And aught might whisper, Richard lived no more! She forced her cheek the hue of hope to wear, Nor flow'd her tears, save at her secret prayer. In meek devotion ЬолуМ her pious soul, Her eyes were raised to heaven; her sorrows stole, Silent, unconscious------But what light divine Beams from the sculptured form, the gorgeous shrine? The gilded glory grew to lambent flame, 380 O'er the cold cheek a living lustre came;
-'Mid gales from opening Eden breathed around One heavenly light, one pure seraphic sound: Yet sweeter far than angel harpings, broke Th' entrancing accents, when the Virgin spoke. " Rise, Berengaria s Heaven approves thy prayer, Thy dauntless Richard claims celestial care; Let prudence now thy daring purpose veil, But Europe waits thee,—spread the willing sail; Nor tremble thou when whirlwinds chafe the tide, 390 The power that bids thee go, shall guard aud guide." She ceas'd,—th' aerial music sunk away, The form grew cold, the glory ceas'd to play; But one pure beam, thence never more to part, Of faith, of comfort, fill'd the mourner's heart. Now to her sight the brave Toulouse she bade, Albert, Matilda, and the captive maid. With joy they heard the words of hope, and prest \ To share her toils, and heaven-directed quest; s. But smiling she her mild reproof addrest, 400 y te When thus supernal wisdom points the way, It fits not us to question, but obey. While to your prudence only I confide My venturous errand, be it yours to hide.
-Alone I mount the bark,—or if indeed, Whom angels guard a mortal champion need, Let Richard's choice be mine; a noble knight, Beloved by all, alike in bower or fight, Whose open truth with strictest honour blends, Whose frankness charms, whose freedom ne' er offends. Say, gallant Albert! know'st thou whom I seek? Or has thy modest worth a sight too weak? A monarch traced the portrait, when he gave The charge, erewhile, to guard me o'er the wave." " Nay, generous lady, whose th' ungrateful ear, That would not glow at praise thus doubly dear? To Richard, who the knightly badge bestow'd, And Richard's Queen, my faithful sword is vow'd; But thus preferr'd, while hopes I dared not speak Strove in my heart, and burn'd upon my cheek, 420 What words may now my secret transports tell!"— \ « Aye," said the Queen, "I read thy riddle well, > Thou long'st to cheer thy widow'd Rosabelle, — y But sigh not now—I hear the matin lark! His next blithe strain shall call us to our bark. 'Tis meet that we to Richard's mother shew The dire occasion of our public woe.
-To fix what means may loose the Monarch's chain, What war must force, or embassy may gain, Albert, the care be thine—thy mission known, 430 Shall blind suspicious eyes, and hide my own. My sex and rank a pilgrim's weeds shall veil, Nor blazon'd arms betray the royal sail."* Mild breath'd the southern breeze, the vessel flew, Now Ascalon, now Jaffa sinks from view; Dark Arsouf's wooded heights, and Napolose, And Cesarea fade; then Carmel rose, And conscious Acre;—still in sanguine hue St. George's Cross from every rampart flew. Alas! how different was ttľ extatic hour 440 When first she hail'd that long-expected shore! When countless galleys gem'd the ocean round, And lights were glimmering on the blue profound; When streamers waved, when every joyful tongue In holy transport rais'd the sacred song; And rapture woke, till every heart became, Like earth and ocean, bathed in floods of flame. How many, then so full of hope and joy, Live but in fame, yet fame that cannot die î
-And he the loftiest—but she might not dare 450 To feed such thoughts, they bordered on despair. Scandalion now, and Blanco's jutting coast, And the dim peaks of Lebanon are lost; Desponding Tyre, and Sidon, great no more, Or honour'd only for her fame of yore; And that capricious stream, now pure and clear, That erst, when spring revived the flowery year, Ran purple, mindful of Adonis' wound, With annual rites bewail'd, with annual garlands crown'd.* Berytus now, and Tripoli they past, 460 And now, rejoicing in the changing blast, For Cyparissa's favourite isle they steer;— First Famagousta's marble domes appear, And known Limisso; next Colosso rose, Soft shadowy Paphos, and th' Olympian snows;,Paradise Lost, VOL. If. I.
-Till leaving far those conquer'd shores, again The vessel bounded o'er th' Ionian main; From Rhodes, where soon/mid famine,fire, and death, Thy Knights, St. John, shall earn th' unfading wreath, To white-cliff d Crete, Jove's once selected shore; 470 Corinth and Argos, mighty now no more. But soon dark clouds the azure heaven o'ercast, From southern regions came the angry blast; In vain the pilot seeks Sicilia's coast, For with the hidden stars his hopes are lost. 1 He drives by Cephalonia's fruitful isle, Zanté, where cloudless suns for ever smile,™ And old Corcyra; now Rygusa's towers Are near, and now Ancona's rival shores. Now through the falling torrents dimly seen, 480 Shone like a star the Adriatic Queen. In vain with strenuous oar and shifting sail They seek the harbour, for the furious gale Drives on the bark, while, oh! portentous sight, Burns on the helm dire Helen's fatal light!" The shore, so long desired, is now too nigh, Where countless shoals in fatal ambush lie! Alone, unmoved, serene amid despair, With folded arms, and lost in silent prayer,
+Another week, a week of anxious care,<br>
+Brought to their council Mosul’s generous heir.<br>
+In peace he came, and those that wont to shun<br>
+His arm in war, his mild demeanor won.<br>
+“From Joseph’s royal seed, from Asia’s King,<br>
+Her Shield and Sword; health, greeting, love I bring:<br>
+Such love as heroes mingle with their war,<br>
+And pity, such as noble foes may bear.<br>
+His soul is panting to renew the strife,<br>
+Where sword with sword contends, and life with life;<br>
+But like a viper darkling to destroy,<br>
+Becomes not him;—the eagle perch’d on high,<br>
+Respects the helpless dove that roosts below;<br>
+The hungry lion spares the slumbering foe.<br>
+And from yon regions where the prince of day<br>
+Bursts through the hills, to where his parting ray<br>
+Gilds with ætherial hues the dancing brine,<br>
+His scouts have scour’d the plains of Palestine.<br>
+Whate’er his lot, the dungeon or the tomb,<br>
+Our hands are guiltless of your Monarch’s doom.<br>
+Yet more—the godlike Soldan scorns to press,<br>
+Ev’n on his foes, in weakness and distress;<br>
+Till him you mourn, returning like a star,<br>
+Dispel your darkness and restore the war,<br>
+Or till the moons bring round the various year,<br>
+Rest! Christians, rest! unharm’d and harmless here.<br>
+Bid yon ripe fields their nodding gold resign,<br>
+Press the fat olive, ease the burthen’d vine;<br>
+&emsp;But when the days of proffer’d truce expire,<br>
+As warriors wait him, or as friends retire.”<br>
+&emsp;But Raymond now, who mark’d that every eye<br>
+To his was lifted, gave the prompt reply:<br>
+“Bear back our greetings—bid the Soldan own<br>
+Our souls are worthy, since we take his boon;<br>
+Peace, for our Monarch’s sake, we stablish here,<br>
+Till <span class="smallcaps">Richard</span> come, or till the closing year.”<br>
+&emsp;The Prince but staid to share with cheerful soul<br>
+The pledge of truce, the feast, the brimming bowl,<br>
+Then, vaulting on his faithful steed, once more<br>
+To Syria’s lord the pledge of concord bore.<br>
+Yet still with spicy sweets the goblets flow,<br>
+And chace the clouds from each relaxing brow;<br>
+When ’mid the Chiefs, with mien uncouth and rude,<br>
+A dark brown man in garb monastic stood.<br>
+“Whence and what art thou?” fiery Bertrand cried;<br>
+“What thou wilt blush to hear,” the monk replied.<br>
+“Slave to the Mountain Prince, and Conrad’s foe—<br>
+He will’d the murder, and I gave the blow;<br>
+I and Alkamor, who already lies<br>
+Blest in our master’s promis’d Paradise.<br>
+Thou deem’st a Christian King the poniard sped,<br>
+But he who smiles when heaven enjoins to shed<br>
+The blood of Misbelievers, bids ye know<br>
+He hated Conrad, and he laid him low.”<sup>i</sup><br>
+&emsp;“Unhappy wretch!” (’twas Hubert’s holy voice)<br>
+“Deluded, canst thou murder and rejoice?<br>
+Nor conscience checks thee, nor the timely fear,<br>
+That death and tortures wait th’ Assassin here.”<br>
+&emsp;“Death!” he exclaim’d, “oh, ne’er for idle breath<br>
+Did coward sue, as Hassan’s slaves for death.<br>
+Who once has tasted heaven, finds earth a void;<br>
+Yet sheathe your swords; not thus to be destroyed,<br>
+To me his hands the happy poison gave—<br>
+Your tortures cannot reach, your malice save.”<br>
+&emsp;O’er his pale brow the painful flushes came,<br>
+And stroug convulsions shook his sinewy frame;<br>
+Yet with each pang his phrenzied raptures rise,—<br>
+&emsp;“Now rend my flesh, insulting Giaours,” he cries,<br>
+My soul is blest-—it soars to Paradise.”<br>
+And backward as he fell, his clenching hand<br>
+And angry brow defied the awestruck band.<sup>k</sup><br>
+But fix’d as though th’ infectious venom spread<br>
+Through his cold veins, and pallid as the dead,<br>
+Fierce Bertrand stood,—and when at length he broke<br>
+His silent trance, he felt not that he spoke.<br>
+“How little deem’d I, in my years of youth,<br>
+When all my thoughts were love, my accents truth,<br>
+That one black drop could poison all my mind!—<br>
+Must I, who held that passion was not blind,<br>
+Nor hate unjust—e’en while my slanderous tongue<br>
+Spoke what my heart denied—confess the wrong?<br>
+Perfidious <span class="smallcaps">Richard</span>!—oh, the time has been,<br>
+Who injured thee had found my falchion keen;<br>
+When I, methinks, had wonder’d less to see<br>
+The sun all darkness, than a spot in thee.<br>
+Had’st thou been faithful, I could bend me yet—<br>
+But to be humble, where I vow’d to hate;<br>
+To thee, yet tarnish’d with so deep a stain—<br>
+Oh! could that blot be cleans’d! could’st thou again<br>
+Seem to my soul what I believed thee first,<br>
+That, that were rapture, though my heart might burst!”<br>
+That very eve, array’d in palmer’s weed,<br>
+With staff and palm-branch, shell, and scrip and bead,<br>
+Alone he left the camp: and none might tell,<br>
+If foes enthrall’d him, if he lived or fell;<br>
+His squires in vain the Baron’s fate explore.<br>
+And Perigueux receives her lord no more.
+
+’Twas at the midnight hour when all was still,<br>
+Save the soft zephyr and the murmuring rill,<br>
+The convent chaunts that glided on the air,<br>
+Or the low murmur of secluded prayer;<br>
+That <span class="smallcaps">Richard’s</span> bride the Virgin’s name adored,<br>
+And called a blessing on her absent lord.<br>
+Small was the chapel, but no vulgar hand<br>
+Had framed the holy fabric, simply grand.<br>
+Light rose the cluster’d shafts, till far aloof<br>
+They branched and knotted on the gilded roof;<br>
+Or broke in pointed arches, where between,<br>
+The foliaged tracery form’d an open screen.<br>
+There never prying eye or noon-day glare<br>
+Burst on the tranquil sanctity of prayer,<br>
+But through the windows’ rich and complex frame,<br>
+Solemn and soft, the various radiance came;<br>
+On the rich pavement deeper hues were thrown,<br>
+And sculptured Saints in holier grandeur shone.<br>
+&emsp;But most the Virgin’s form—oh! surely wrought<br>
+By hands inspired, the marble breathed and thought!<br>
+Her look so radiant with maternal grace,<br>
+Such opening glory in the infant’s face!<br>
+She stood behind a gem’d and gilded shrine,<br>
+That made her simple beauty more divine;<br>
+While mimic stars and skies of purple hue,<br>
+O’er the bright vision purer lustre threw.<br>
+&emsp;One lamp alone diffused a steady light<br>
+On Berengaria’s robes of spotless white;<br>
+For though, while dubious of her consort’s fate,<br>
+She quench’d each taper that in festal state<br>
+Had deck’d the shrine, and meekly laid aside<br>
+Her splendid robes and ornaments of pride,<br>
+She shunn’d the mourning vest Matilda wore,<br>
+And aught might whisper, <span class="smallcaps">Richard</span> lived no more!<br>
+She forced her cheek the hue of hope to wear,<br>
+Nor flow’d her tears, save at her secret prayer.<br>
+&emsp;In meek devotion bow’d her pious soul,<br>
+Her eyes were raised to heaven; her sorrows stole,<br>
+Silent, unconscious——But what light divine<br>
+Beams from the sculptured form, the gorgeous shrine?<br>
+The gilded glory grew to lambent flame,<br>
+O’er the cold cheek a living lustre came;<br>
+’Mid gales from opening Eden breathed around<br>
+One heavenly light, one pure seraphic sound:<br>
+Yet sweeter far than angel harpings, broke<br>
+Th’ entrancing accents, when the Virgin spoke.<br>
+&emsp;“Rise, Berengaria, Heaven approves thy prayer,<br>
+Thy dauntless <span class="smallcaps">Richard</span> claims celestial care;<br>
+Let prudence now thy daring purpose veil,<br>
+But Europe waits thee,—spread the willing sail;<br>
+Nor tremble thou when whirlwinds chafe the tide,<br>
+The power that bids thee go, shall guard and guide.”<br>
+&emsp;She ceas’d,—th’ äerial music sunk away,<br>
+The form grew cold, the glory ceas’d to play;<br>
+But one pure beam, thence never more to part,<br>
+Of faith, of comfort, fill’d the mourner’s heart.<br>
+Now to her sight the brave Toulouse she bade,<br>
+Albert, Matilda, and the captive maid.<br>
+With joy they heard the words of hope, and prest<br>
+To share her toils, and heaven-directed quest;<br>
+But smiling she her mild reproof addrest,<br>
+&emsp;“When thus supernal wisdom points the way,<br>
+It fits not us to question, but obey.<br>
+While to your prudence only I confide<br>
+My venturous errand, be it yours to hide.<br>
+Alone I mount the bark,—or if indeed,<br>
+Whom angels guard a mortal champion need,<br>
+Let <span class="smallcaps">Richard’s</span> choice be mine; a noble knight,<br>
+Beloved by all, alike in bower or fight,<br>
+Whose open truth with strictest honour blends,<br>
+Whose frankness charms, whose freedom ne’er offends.<br>
+Say, gallant Albert! know’st thou whom I seek?<br>
+Or has thy modest worth a sight too weak?<br>
+A monarch traced the portrait, when he gave<br>
+The charge, erewhile, to guard me o’er the wave.”<br>
+&emsp;“Nay, generous lady, whose th’ ungrateful ear,<br>
+That would not glow at praise thus doubly dear?<br>
+To <span class="smallcaps">Richard</span>, who the knightly badge bestow’d,<br>
+And <span class="smallcaps">Richard’s</span> Queen, my faithful sword is vow’d;<br>
+But thus preferr’d, while hopes I dared not speak<br>
+Strove in my heart, and burn’d upon my cheek,<br>
+What words may now my secret transports tell!”<br>
+&emsp;“Aye,” said the Queen, “I read thy riddle well,<br>
+Thou long’st to cheer thy widow’d Rosabelle,—<br>
+But sigh not now—I hear the matin lark!<br>
+His next blithe strain shall call us to our bark.<br>
+’Tis meet that we to <span class="smallcaps">Richard’s</span> mother shew<br>
+The dire occasion of our public woe.<br>
+To fix what means may loose the Monarch’s chain,<br>
+What war must force, or embassy may gain,<br>
+Albert, the care be thine—thy mission known,<br>
+Shall blind suspicious eyes, and hide my own.<br>
+My sex and rank a pilgrim’s weeds shall veil,<br>
+Nor blazon’d arms betray the royal sail.”[^30]<br>
+&emsp;Mild breath’d the southern breeze, the vessel flew,<br>
+Now Ascalon, now Jaffa sinks from view;<br>
+Dark Arsouf’s wooded heights, and Napolose,<br>
+And Cesarea fade; then Carmel rose,<br>
+And conscious Acre;—still in sanguine hue<br>
+St. George’s Cross from every rampart flew.<br>
+Alas! how different was th’ extatic hour<br>
+When first she hail’d that long-expected shore!<br>
+When countless galleys gem’d the ocean round,<br>
+And lights were glimmering on the blue profound;<br>
+When streamers waved, when every joyful tongue<br>
+In holy transport rais’d the sacred song;<br>
+And rapture woke, till every heart became,<br>
+Like earth and ocean, bathed in floods of flame.<br>
+How many, then so full of hope and joy,<br>
+Live but in fame, yet fame that cannot die!<br>
+And he the loftiest—but she might not dare<br>
+To feed such thoughts, they bordered on despair.<br>
+&emsp;Scandalion now, and Blanco’s jutting coast,<br>
+And the dim peaks of Lebanon are lost;<br>
+Desponding Tyre, and Sidon, great no more,<br>
+Or honour’d only for her fame of yore;<br>
+And that capricious stream, now pure and clear,<br>
+That erst, when spring revived the flowery year,<br>
+Ran purple, mindful of Adonis’ wound,<br>
+With annual rites bewail’d, with annual garlands crown’d.[^31]<br>
+&emsp;Berytus now, and Tripoli they past,<br>
+And now, rejoicing in the changing blast,<br>
+For Cyparissa’s favourite isle they steer;—<br>
+First Famagousta’s marble domes appear,<br>
+And known Limisso; next Colosso rose,<br>
+Soft shadowy Paphos, and th’ Olympian snows;<br>
+Till leaving far those conquer’d shores, again<br>
+The vessel bounded o’er th’ Ionian main;<br>
+From Rhodes, where soon, ’mid famine, fire, and death,<br>
+Thy Knights, St. John, shall earn th’ unfading wreath,<br>
+To white-cliff’d Crete, Jove’s once selected shore;<br>
+Corinth and Argos, mighty now no more.<br>
+&emsp;But soon dark clouds the azure heaven o’ercast,<br>
+From southern regions came the angry blast;<br>
+In vain the pilot seeks Sicilia’s coast,<br>
+For with the hidden stars his hopes are lost.<sup>l</sup><br>
+He drives by Cephalonia’s fruitful isle,<br>
+Zanté, where cloudless suns for ever smile,<sup>m</sup><br>
+And old Corcyra; now Ragusa’s towers<br>
+Are near, and now Ancona’s rival shores.<br>
+Now through the falling torrents dimly seen,<br>
+Shone like a star the Adriatic Queen.<br>
+In vain with strenuous oar and shifting sail<br>
+They seek the harbour, for the furious gale<br>
+Drives on the bark, while, oh! portentous sight,<br>
+Burns on the helm dire Helen’s fatal light!<sup>n</sup><br>
+The shore, so long desired, is now too nigh,<br>
+Where countless shoals in fatal ambush lie!<br>
+&emsp;Alone, unmoved, serene amid despair,<br>
+With folded arms, and lost in silent prayer,
 On the tall prow the seeming pilgrim stood, 190 And gazed un fearing on the boiling flood, The billow broke, the crashing beams give way, The lordly castle is the ocean's prey! She sinks beneath the wave—then Albert sprung, Her name, her secret trembles on his tongue! But ero wds w ithheld the youth, " Beh old," they cried, " Heaven chose its victim! mark the sinking tide, Mark on the helm th' auspicious fires divide! Let yon feign'd saint his secret guilt atone (Pure as he seem'd), nor all be risk'd for one." 500 He heard them not, nor had the loyal knight Been thus restrained, but now the flashing light Beams o'er the calmer deep, and bids him mark How on that wrcck, as on a gallant bark, She stems the sea; and every surge that to«t Their heaving galley, wafts her to the coast. And now she quits her hold 5 she springs to land, Treads firm in hope, and waves them from the strand. Nor vainly waves,—before the changing gale, Down the deep gulf the merry seamen sail; 510 Messina's dangerous straits are past, more near Sardinia's ite and Atlas' snows appear; L 2
 Steep Calpé's brow and Lusitania's shore Rí 'e,·— they hail their native cliffs once more. Soon Albert spurr'd bis steed, nor paus'd to view How different from the prosperous realm he knew, The peaceful happy home, was England now! Where fear and sorrow darken'd every brow! He hastes whcre Windsor, from her height of pride, Awes woods and vales, and Thames' meandering tide; Nor lingers, saddening o'er the alter'd scene, Λ When ruin mark'd where recent war had been, > Till now~he bends before the Regent Queen. ) Years, more than oft the temperate peasants know, Had traced deep furrows on her polish'd brow; To silver hue had changed her raven hair, And thinn'd her cheek,—but still its rose was there; Not yet one sparkle from her eye was fled. Unbent her form, and firm her stately tread. Once that keen eye and flushing brow confest 530 Passions too strong to fit a female breast:— But wrongs arous'd them,—she had heard her name In Antioch blacken'd with unworthy shame; Divorced, despised, had fled the Gallic strand, With sows of vengeance on her native land;
 Again a Queen, in captive gloom had borne, Her faithless Henry's private, public scorn. Her rage broke forth, she sought in desperate hour Her lovely foe's involved and wondrous bower; ’Twas said the venom'd bowl and murderous brand, In dreadful choice she tender'd to her hand: But this was slander, Rosamond the while, Atoned her guilt in Woodstock's convent pile; Now o'er her dust the sculptured marble rose, And daily masses sought her soul's repose. 0 But Eleanor the pilgrim Knight embraced, Then, while her heart its swelling grief represt, Ask'd of her favourite son,— that son whose reign Freed her from bonds, and gave to power again. p " Fear not to speak—his fatal loss we know— 550 111 news fly fast, 'tis good that travels slow."* " Lady, he lives! and heavenly lips betray, Or soon his foes shall yield their royal prey." Then to her ear alone the Knight confest The wondrous vision, and his Sovereign's quest; Till she, who never bent in adverse hour, Pour'd from her aged eyes a joyful shower;,L 3
@@ -3242,3 +3479,15 @@ Note (e), page 354, line 713. Tke easy price of that triumphant day. Only two pe
 [^28]: There is much difference among Mahommedans as to the state of the soul between its separation from the body and its final judgment; but there is a popular belief that the spirits of the just inhabit the gardens of Paradise in the shape of green birds.
 
 [^29]: The liquor which flows from the palm by night is a mild and pleasant beverage, while that which is obtained by day is of an intoxicating nature: the heat probably causing it to ferment as it distills.
+
+[^30]: It was a custom of the middle ages to blazon the arms of illustrious persons on the sails of the galley, or, more properly, to make the whole sail a large coat of arms.
+
+[^31]: The river Adonis falls into the sea between Sidon and Berytus.<br>
+&emsp;&emsp;“Thammuz came next behind,<br>
+&emsp;&emsp;Whose annual wound in Lebanon allured<br>
+&emsp;&emsp;The Syrian damsels to lament his fate,<br>
+&emsp;&emsp;With amorous ditties all a summer’s day,—<br>
+&emsp;&emsp;While smooth Adonis from his native rock<br>
+&emsp;&emsp;Ran purple to the sea, supposed with blood<br>
+&emsp;&emsp;Of Thammuz yearly wounded.”<br>
+&emsp;&emsp; — *Paradise Lost*
