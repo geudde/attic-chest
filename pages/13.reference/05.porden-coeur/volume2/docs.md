@@ -4590,7 +4590,7 @@ To Albert’s bride, and Schorndorf’s new-found lord.<br>
 The warder came, “beneath the castle door<br>
 Two weary strangers rest and aid implore;<br>
 A hoary pilgrim one, sedate and sage,<br>
-One bears a harp, and seems of tender age.”
+One bears a harp, and seems of tender age.”<br>
 &emsp;“Fling wide the gates, and spread the choicest cheer,<br>
 Our deadliest foe to-night were welcome here,”<br>
 Blythe Albert spoke, and then with gesture bland,<br>
