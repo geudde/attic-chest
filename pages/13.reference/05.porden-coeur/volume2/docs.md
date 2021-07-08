@@ -5798,7 +5798,7 @@ A steed awaits thee—Oh! be wise, and haste.”<br>
 &emsp;And never when at Easter’s festal time<br>
 He rode to Mass, or in the summer’s prime<br>
 Chased the fleet stag, such train could Henry’s pride<br>
-Command, as rode in love by Richard’s side!<br>
+Command, as rode in love by <span class="smallcaps">Richard’s</span> side!<br>
 ’Twas Christmas, yet December’s darkest sky<br>
 Has beauty to th’ enfranchis’d captive’s eye;<br>
 Her cheerless snows outshine the blooming spring,<br>
@@ -5819,7 +5819,7 @@ From Herod’s hand His Angel saved me; power,<br>
 And love, and praise be His for evermore.[^45]<br>
 &emsp;The Lion Duke, who in his inmost heart<br>
 Still mourn’d his Helen, hasten’d to depart,<br>
-And wept on Richard’s breast; but young Louvain<br>
+And wept on <span class="smallcaps">Richard’s</span> breast; but young Louvain<br>
 Leads on where Antwerp bounds his rich domain,<br>
 And the broad Scheldt runs foaming to the main.<br>
 No idle speed,—while yet his flying sail<br>
@@ -5870,20 +5870,247 @@ Hark! to their clarions now the valleys ring,<br>
 With shouts and clamorous joy they hail the King;<br>
 But blind with pride, the traitors madly deem<br>
 Those raptures feign’d, and nurse their fatal dream,<br>
-Till Richard’s might is felt<sup>h</sup>—beneath his power<br>
+Till <span class="smallcaps">Richard’s</span> might is felt<sup>h</sup>—beneath his power<br>
 The ramparts yield, and justice claims her hour.
 
-But Asia calls the muse;—she may not dwell On Richard's thousand acts of fame, nor tell How once alone in Sherwood's groves he rode, And met her merry outlaws of the wood. He fought and quell'd their chief, whose bearing told A mind as courteous as his heart was bold; Nor scorn'd the King to share his sylvan cheer, The river's swans, the forest's fattest deer. And praise the guardians of the rustic scene, An hundred bowmen, gay in Lincoln green.— 180 Nor may she sing of him whose jovial soul And martial spirit lurk'd beneath the cowl; Her who for love her kinsman's halls forsook, The arrow guided, and the javelin shook; Fair as the huntress goddess famed of yore, Or Venus, when Diana's robes she wore j— Nor when the outlaw knew his royal guest, How his brave soul its loyal faith profest: Oppression, ruling in the Monarch's stead, Proscribed his name, and drove him to lhe sbadì 1; τ 2
-Yet had he bravely held the royal wood, And John's stout rebels fled from Robin Hood. 1 Nor how the King, whose wrath his speech disarms, His manly frankness, and Clorinda's charms, Gave his free pardon and his lands &gen, And pardon eke to all his merry men; So they would bind their scatter'd sheaves anew, And choose them bows of Sherwood's toughest yew, To wage with beasts inglorious war no more, But slay the Moslem hosts on Syria's shore. 200 Nor may she pause on Winton's gorgeous scene, Where Berengaria and the Mother-Queen, And Geoffrey, by his brother pardon'd now, (His loyal aid redeem'd his broken vow;) Rouen's sage Primate, Erin's, and the might, Of haughty Durham, unexcell'd in fight; Ely, and Lincoln, with all virtues fraught, Himself a model for the faith he taught; Bold Strigulf-Strongbow, Leicester, Hereford, And Cestria's Palatine, and Richmond's Lord, 210 All throng the ample choir, a splendid train! While Priests and Vestals raise the solemn strain; And Richard, great iu honours and renown, With more than former pomp resumes the crown:
-And they at Henry's death who loved to tell, " How the sun set, and yet no darkness fell, But a new day rose brighter than the last,"* Exult to see that former dawn surpast. <e And now for Palestine!" the Monarch cries, While sheath'd in arms his subjects round him rise; Nor did he doubt to bid his yeomen bear The dreadful Crossbow; though in Christian war The Patriarchs of the Church its use forbade, He might not deem that sage injunction made For those who, struggling in the cause of heaven, Used the best means to human wisdom given.' Now from his Mother's kiss, his Bride's embrace, The tears, the blessings of a loyal race, The hero bursts away, he mounts once more The ruddy galley, and forsakes the shore. 230 But lull'd meanwhile in Hassan's fairy bowers, How sped the youthful Knight's voluptuous hours? Time glides unfelt, while joy succeeds to joy, Nor care steals in, nor rapture stays to cloy Yet, ’mid unceasing pleasures, Pardo's miad Seeks for a something that it cannot tind; τ 3
-Longs for that dark and solitary hour, When calm reflexion reasserts her power. 'Mid roseate bowers, or citron's fragrant shade, Demands the barren heath, the forest glade; 240 Or that fresh breeze, so purely, keenly cold, That breathes refreshing o J er the mountain wold. Oft conscience to his startled soul would bring A dying mistress, an offended King; A thouband glorious visions of renown, Of conquer'd Turks, and Sion's rescued town; And oft he rose, resolved to use the power Which bursts the charm, andfreeshim from thebower. But ere his trembling lips can breathe the call, He sees Maimoune, and forgets them all. 250 Yet once his guardian Saint so strongly stirr'd The springs of thought, she sung, and sung unheanl; While round the themes accusing con&cieiice ss'oke, His fancy play'd, scarce weeting that he spoke. (< What mockery of enchanted wiles is this > No Paradise, although a bower of biisa. The blest can ne'er so deep an. interest know, Yet ask in vain the fate of those below. Perchance dark Hassan not to me has given, Because I spurn' 1 him, such delight in heas en, 260
-As those who perish in his wars may share In bowers less green, with houris half as fair." Surpris'd, alarm'd, his beauteous guard appears More fair, more, dangerous through her gushing tears. i( Ah me! tis sooth that mortals change as soon As sands or waters, or th' inconstant moon; Unblest the sprite who loves a child of clay, Yet has not passions that like his decay:— Speak! do these gardens pall upon thine eye, Or is't Maimoune that thou seek'st to fly?" 270 eC Thee, thee alone í for ne'er my soul resign'd Its trust in Him луЬо died to save mankind; And but for thee, these grots, this fairy bower Had scarcely held me one reluctant hour. I blush that thus I staid when duty prest t I weep to think thou can'st be aught unblest! Yet here can aught of angel nature dwell, A murderer's slave, the minister of Hell? In bliss, alas! we cannot meet again, I cannot hope that we shall meet in pain. 280 Now then we part—yet could the scalding tears, Prayer, vigil, toil, the agony of years, Or even шу heart's best blood, thy doom repeal, Not Egypt's hermits, in their holy zeal, Devised such penance as the s e limbs should feel
-Nay, weep not thus, for I must break the spell Which strengthens by delay—Farewell! Farewell!" " Oh, pause! rash youth—one moment—I entreat, And sue immortal, at a mortal's feet. Unblest indeed, since first thy race began; 290 When, cail'd to bow before the earliest man, I linger'(i in the fount of life to lave, And draw new beauties from its wondrous wave. Vainly I hoped his chosen bride to prove, And teach his new-born heart to beat with love. Too late I came—th' appointed hour was o'er, And fell with those that fell to rise no more; On whom, from all their natis r e birthright driven, Almighty vengeance shuts the gates of heaven."' Too just thy fear we cannot meet again, 300 Thy doom is bliss, and mine, eternal pain! Yet spurn me not—my hands are free from blood; Guilty myself, I yet can love the good. Stern Hassan bade me mould thee to his faith, And give thee back his slave, or back to death; I spared, I held thee here,—I could not know A heart like thine, and work its endless woe. Then force me not to weep thy youth betray'd, To ser thy pangs, yet want the power to aid;
-Nor amulet can save, nor magic rite, 310 Nor all the Genii, for they fear his might. Oh! spare thyself—and though thy soul may hate The lost Maimoune, rush not on thy fate." (i That Power, mild Spirit, which has steel'd my heart, Which stirs within me, and exclaims " Depart!" Shall it not guard me? 'Tis that meek despair, That sigh, that pleading look which most I fear. Too soft, too gentle, thou should'st rather rave, And call me false, and drag to Hassan's cave; But I were worthless should I now remain 320 Aud know thee—what I will not speak again. Aud yet shall man, all guilty though he be, Find hope of grace, and is there none for thee! — Hassan, I call! Assassin, now redeem Thy fatal word, and burst this witching dream." " What hast thou done Γ she shriek'd—the thunder peal'd, Grots, gardens, groves, and bloomy mountains, eel'd; They vanish like a cloud,—a lurid light Reveals the lone Elburza's desert height, And Hassan's awful cas r e;—his leaden eye 330 Beamfe for a moment with infernal joy.
-" Return'd and not convin c'd! if pleasure fail To bend thy spirit, torture shall prevail: if thy nice taste Elburza's Eden tire, Hence, and enjoy her penal caves of fire," But Pardo heard no more, some force unknown Snatch'd from th' assassin's grasp, and whirl'd him on, Till in the midst of Syria's burning sands He dropp'd, half senseless, from Maimoune's hands. iS Alas! unhappy youth, my power is o'er, 340 Here reigns Demroosh, and I can aid no more; Saved for an instant, to celestial care I leave thee полу, and Heaven receive thy prayer!" One moment all was heat and dazzling light, The nexl benumbing cold and deepest night; The morn return'd, and all was changed again, While fever throbb'd in every burning vein: Nor guide, nor food, nor cooling spring were there,— Resign'd to death he knelt in earnest prayer. " Father of Mercy! may an erring child 350 Draw thy pure eyes to this abandon'd wild? How did thy liberal hand its blessings pour! How have I wasted days that come no more! Alas! enraptured to contend with Hell, To my own strength I trusted, aud I fell!
-Yet let iny dying lips thy favour move For him who gave an orphan child his love; For her whose trusting faith, whose geutle charms Were still remember'd in Maimoune's arms. Ah, for that outcast might I yet implore! 360 But to thy will I bow me, and adore." Still knelt the warrior, when before him stood Hassan, the calm, remorseless man of blood. ' e Lo, I am here! and dost thou loath my view? Thou may'st, for I shall claim the vengeance due: Thou thought'st to shun me, but the linnet, tyed In silken bondage, has a flight as wide. Know, I have lived beyond the life of man, Yet cannot all my power prolong the span, Unless by deep and frequent draughts renewed, 370 From human veins I drink the living blood. Choose then, my victim or my slave,—obey My darkest, worst behests,—enlarge my sway,— Work midnight murder, drug the deadly bowl, Know me a fiend, yet yield me up thy soul; Or by that Power thou fondly call'st divine, Thine instant life shall be the food of mine." iQ Too idly have I work'd His will, in death To hope the glory of a martyr's wreath,
-Yet gladly will 1 glut thy brutal thirst, 380 And lingering' perish in a rite accurst," The youth replied, ic if Him whom I adore Be less than God, or vaiu the Cross he bore." He spoke, and kneeling, made the sacred sign, And strong in faith adjured the Name Divine. " Ha! mock'd again,—but thou art yet my prey, For thou shalt weep thy heart's best blood away." The famish'd locusts strew'd the burning sands, Their wither'd limbs he piled with active hands; With magic perfumes rous'd a livid flame, 390 And breath'd ’mid words of power Maimoune's name. A cool refreshing breeze, a plaintive air Of wonted sweetness, told the Peri near; But ah! how changed,—the glance on Pardo thrown, Which mourn'd his pangs, forgetful of her own, Was all which spoke Maimoune; —Hassan's spell From the wild waste had forced her to his cell. He call'd her perjur'd, bade her then restore \ The reseu'd youth, and cross his will ш morc, ν Or meet the vengeance of infernal power. 4001 Maimoune smiled, u smile almost divine, " Heaven's curse I bear, and shall I shrink from thine?
-Not all the tortures of thine impious art Wound like th' undying fire which wraps my heart." Wild with delight, his horrid Afrits came And tore her lovely limbs with thongs of flame; She shrunk not, strove not, breathed no plaintive cries, To save those charms for which she lost the skies. To Carmel then her bleeding form he bore, Mock'd by those fiends her beauty aw'd before, 410 Then deep in Kafs eternal ice he rent A dreadful chasm, and there his victim pent; And she, perchance, for ages yet to come, To ruthless winds had wail'd her dreadful doom j But now the sorcerer, with malicious art, Would wring with keener pangs her gentle heart: In thunder told, she knew his hateful will, And cannot shun, though loathing to fulfil. A tear her own worst pangs had fail'd to move, Fell as she gazed upon her earthly love; 420 And with reluctant, lingering hand disclos'd Where, wrapt in sleep, Amina's form reposed, Weak as she seems, with all a mother's care, Her gentle arms her senseless rival bear. Calm was th' Assassin, but a dreadful joy, A laughing fiend sate mocking in his eye.
+But Asia calls the muse;—she may not dwell<br>
+On <span class="smallcaps">Richard’s</span> thousand acts of fame, nor tell<br>
+How once alone in Sherwood’s groves he rode,<br>
+And met her merry outlaws of the wood.<br>
+He fought and quell’d their chief, whose bearing told<br>
+A mind as courteous as his heart was bold;<br>
+Nor scorn’d the King to share his sylvan cheer,<br>
+The river’s swans, the forest’s fattest deer.<br>
+And praise the guardians of the rustic scene,<br>
+An hundred bowmen, gay in Lincoln green.—<br>
+ Nor may she sing of him whose jovial soul<br>
+And martial spirit lurk’d beneath the cowl;<br>
+Her who for love her kinsman’s halls forsook,<br>
+The arrow guided, and the javelin shook;<br>
+Fair as the huntress goddess famed of yore,<br>
+Or Venus, when Diana’s robes she wore;—<br>
+Nor when the outlaw knew his royal guest,<br>
+How his brave soul its loyal faith profest:<br>
+Oppression, ruling in the Monarch’s stead,<br>
+Proscribed his name, and drove him to the shade;
+Yet had he bravely held the royal wood,<br>
+And John’s stout rebels fled from Robin Hood.<sup>i</sup><br>
+&emsp;Nor how the King, whose wrath his speech disarms,<br>
+His manly frankness, and Clorinda’s charms,<br>
+Gave his free pardon and his lands agen,<br>
+And pardon eke to all his merry men;<br>
+So they would bind their scatter’d sheaves anew,<br>
+And choose them bows of Sherwood’s toughest yew,<br>
+To wage with beasts inglorious war no more,<br>
+But slay the Moslem hosts on Syria’s shore.<br>
+&emsp;Nor may she pause on Winton’s gorgeous scene,<br>
+Where Berengaria and the Mother-Queen,<br>
+And Geoffrey, by his brother pardon’d now,<br>
+(His loyal aid redeem’d his broken vow;)<br>
+Rouen’s sage Primate, Erin’s, and the might,<br>
+Of haughty Durham, unexcell’d in fight;<br>
+Ely, and Lincoln, with all virtues fraught,<br>
+Himself a model for the faith he taught;<br>
+Bold Strigulf-Strongbow, Leicester, Hereford,<br>
+And Cestria’s Palatine, and Richmond’s Lord,<br>
+All throng the ample choir, a splendid train!<br>
+While Priests and Vestals raise the solemn strain;<br>
+And <span class="smallcaps">Richard</span>, great in honours and renown,<br>
+With more than former pomp resumes the crown:<br>
+And they at Henry’s death who loved to tell,<br>
+“How the sun set, and yet no darkness fell,<br>
+But a new day rose brighter than the last,”<sup>k</sup><br>
+Exult to see that former dawn surpast.
+
+&emsp;“And now for Palestine!” the Monarch cries,<br>
+While sheath’d in arms his subjects round him rise;<br>
+Nor did he doubt to bid his yeomen bear<br>
+The dreadful Crossbow; though in Christian war<br>
+The Patriarchs of the Church its use forbade,<br>
+He might not deem that sage injunction made<br>
+For those who, struggling in the cause of heaven,<br>
+Used the best means to human wisdom given.<sup>l</sup><br>
+&emsp;Now from his Mother’s kiss, his Bride’s embrace,<br>
+The tears, the blessings of a loyal race,<br>
+The hero bursts away, he mounts once more<br>
+The ruddy galley, and forsakes the shore.
+
+But lull’d meanwhile in Hassan’s fairy bowers,<br>
+How sped the youthful Knight’s voluptuous hours?<br>
+Time glides unfelt, while joy succeeds to joy,<br>
+Nor care steals in, nor rapture stays to cloy<br>
+Yet, ’mid unceasing pleasures, Pardo’s mind<br>
+Seeks for a something that it cannot find;<br>
+Longs for that dark and solitary hour,<br>
+When calm reflexion reasserts her power.<br>
+’Mid roseate bowers, or citron’s fragrant shade,<br>
+Demands the barren heath, the forest glade;<br>
+Or that fresh breeze, so purely, keenly cold,<br>
+That breathes refreshing o’er the mountain wold.<br>
+Oft conscience to his startled soul would bring<br>
+A dying mistress, an offended King;<br>
+A thousand glorious visions of renown,<br>
+Of conquer’d Turks, and Sion’s rescued town;<br>
+And oft he rose, resolved to use the power<br>
+Which bursts the charm, and frees him from the bower.<br>
+But ere his trembling lips can breathe the call,<br>
+He sees Maimoune, and forgets them all.<br>
+&emsp;Yet once his guardian Saint so strongly stirr’d<br>
+The springs of thought, she sung, and sung unheard;<br>
+While round the themes accusing conscience woke,<br>
+His fancy play’d, scarce weeting that he spoke.<br>
+&emsp;“What mockery of enchanted wiles is this?<br>
+No Paradise, although a bower of bliss.<br>
+The blest can ne’er so deep an interest know,<br>
+Yet ask in vain the fate of those below.<br>
+Perchance dark Hassan not to me has given,<br>
+Because I spurn’d him, such delight in heaven,<br>
+As those who perish in his wars may share<br>
+In bowers less green, with houris half as fair.”<br>
+&emsp;Surpris’d, alarm’d, his beauteous guard appears<br>
+More fair, more dangerous through her gushing tears.<br>
+&emsp;“Ah me! ’tis sooth that mortals change as soon<br>
+As sands or waters, or th’ inconstant moon;<br>
+Unblest the sprite who loves a child of clay,<br>
+Yet has not passions that like his decay:—<br>
+Speak! do these gardens pall upon thine eye,<br>
+Or is’t Maimoune that thou seek’st to fly?”<br>
+&emsp;“Thee, thee alone! for ne’er my soul resign’d<br>
+Its trust in Him who died to save mankind;<br>
+And but for thee, these grots, this fairy bower<br>
+Had scarcely held me one reluctant hour.<br>
+I blush that thus I staid when duty prest!<br>
+I weep to think thou can’st be aught unblest!<br>
+Yet here can aught of angel nature dwell,<br>
+A murderer’s slave, the minister of Hell?<br>
+In bliss, alas! we cannot meet again,<br>
+I cannot hope that we shall meet in pain.<br>
+Now then we part—yet could the scalding tears,<br>
+Prayer, vigil, toil, the agony of years,<br>
+Or even mу heart’s best blood, thy doom repeal,<br>
+Not Egypt’s hermits, in their holy zeal,<br>
+Devised such penance as these limbs should feel.<br>
+Nay, weep not thus, for I must break the spell<br>
+Which strengthens by delay—Farewell! Farewell!”<br>
+&emsp;“Oh, pause! rash youth—one moment—I entreat,<br>
+And sue immortal, at a mortal’s feet.<br>
+Unblest indeed, since first thy race began;<br>
+When, cail’d to bow before the earliest man,<br>
+I linger’d in the fount of life to lave,<br>
+And draw new beauties from its wondrous wave.<br>
+Vainly I hoped his chosen bride to prove,<br>
+And teach his new-born heart to beat with love.<br>
+Too late I came—th’ appointed hour was o’er,<br>
+And fell with those that fell to rise no more;<br>
+On whom, from all their native birthright driven,<br>
+Almighty vengeance shuts the gates of heaven.<sup>m</sup><br>
+Too just thy fear we cannot meet again,<br>
+Thy doom is bliss, and mine, eternal pain!<br>
+Yet spurn me not—my hands are free from blood;<br>
+Guilty myself, I yet can love the good.<br>
+Stern Hassan bade me mould thee to his faith,<br>
+And give thee back his slave, or back to death;<br>
+I spared, I held thee here,—I could not know<br>
+A heart like thine, and work its endless woe.<br>
+Then force me not to weep thy youth betray’d,<br>
+To see thy pangs, yet want the power to aid;<br>
+Nor amulet can save, nor magic rite,<br>
+Nor all the Genii, for they fear his might.<br>
+Oh! spare thyself—and though thy soul may hate<br>
+The lost Maimoune, rush not on thy fate.”<br>
+&emsp;“That Power, mild Spirit, which has steel’d my heart,<br>
+Which stirs within me, and exclaims “Depart!”<br>
+Shall it not guard me? ’Tis that meek despair,<br>
+That sigh, that pleading look which most I fear.<br>
+Too soft, too gentle, thou should’st rather rave,<br>
+And call me false, and drag to Hassan’s cave;<br>
+But I were worthless should I now remain<br>
+And know thee—what I will not speak again.<br>
+And yet shall man, all guilty though he be,<br>
+Find hope of grace, and is there none for thee!<br>
+Hassan, I call! Assassin, now redeem<br>
+Thy fatal word, and burst this witching dream.”<br>
+&emsp;“What hast thou done!” she shriek’d—the thunder peal’d,<br>
+Grots, gardens, groves, and bloomy mountains reel’d;<br>
+They vanish like a cloud,—a lurid light<br>
+Reveals the lone Elburza’s desert height,<br>
+And Hassan’s awful cave;—his leaden eye<br>
+Beams for a moment with infernal joy.<br>
+“Return’d and not convinc’d! if pleasure fail<br>
+To bend thy spirit, torture shall prevail:<br>
+If thy nice taste Elburza’s Eden tire,<br>
+Hence, and enjoy her penal caves of fire,”<br>
+But Pardo heard no more, some force unknown<br>
+Snatch’d from th’ assassin’s grasp, and whirl’d him on,<br>
+Till in the midst of Syria’s burning sands<br>
+He dropp’d, half senseless, from Maimoune’s hands.<br>
+&emsp;“Alas! unhappy youth, my power is o’er,<br>
+Here reigns Demroosh, and I can aid no more;<br>
+Saved for an instant, to celestial care<br>
+I leave thee поw, and Heaven receive thy prayer!”<br>
+One moment all was heat and dazzling light,<br>
+The next benumbing cold and deepest night;<br>
+The morn return’d, and all was changed again,<br>
+While fever throbb’d in every burning vein:<br>
+Nor guide, nor food, nor cooling spring were there,—<br>
+Resign’d to death he knelt in earnest prayer.<br>
+&emsp;“Father of Mercy! may an erring child<br>
+Draw thy pure eyes to this abandon’d wild?<br>
+How did thy liberal hand its blessings pour!<br>
+How have I wasted days that come no more!<br>
+Alas! enraptured to contend with Hell,<br>
+To my own strength I trusted, and I fell!<br>
+Yet let my dying lips thy favour move<br>
+For him who gave an orphan child his love;<br>
+For her whose trusting faith, whose gentle charms<br>
+Were still remember’d in Maimoune’s arms.<br>
+Ah, for that outcast might I yet implore!<br>
+But to thy will I bow me, and adore.”<br>
+&emsp;Still knelt the warrior, when before him stood<br>
+Hassan, the calm, remorseless man of blood.<br>
+“Lo, I am here! and dost thou loath my view?<br>
+Thou may’st, for I shall claim the vengeance due:<br>
+Thou thought’st to shun me, but the linnet, tyed<br>
+In silken bondage, has a flight as wide.<br>
+Know, I have lived beyond the life of man,<br>
+Yet cannot all my power prolong the span,<br>
+Unless by deep and frequent draughts renewed,<br>
+From human veins I drink the living blood.<br>
+Choose then, my victim or my slave,—obey<br>
+My darkest, worst behests,—enlarge my sway,—<br>
+Work midnight murder, drug the deadly bowl,<br>
+Know me a fiend, yet yield me up thy soul;<br>
+Or by that Power thou fondly call’st divine,<br>
+Thine instant life shall be the food of mine.”<br>
+&emsp;“Too idly have I work’d His will, in death<br>
+To hope the glory of a martyr’s wreath,<br>
+Yet gladly will I glut thy brutal thirst,<br>
+And lingering perish in a rite accurst,”<br>
+The youth replied, “if Him whom I adore<br>
+Be less than God, or vain the Cross he bore.”<br>
+He spoke, and kneeling, made the sacred sign,<br>
+And strong in faith adjured the Name Divine.<br>
+&emsp;“Ha! mock’d again,—but thou art yet my prey,<br>
+For thou shalt weep thy heart’s best blood away.”<br>
+&emsp;The famish’d locusts strew’d the burning sands,<br>
+Their wither’d limbs he piled with active hands;<br>
+With magic perfumes rous’d a livid flame,<br>
+And breath’d ’mid words of power Maimoune’s name.<br>
+&emsp;A cool refreshing breeze, a plaintive air<br>
+Of wonted sweetness, told the Peri near;<br>
+But ah! how changed,—the glance on Pardo thrown,<br>
+Which mourn’d his pangs, forgetful of her own,<br>
+Was all which spoke Maimoune; —Hassan’s spell<br>
+From the wild waste had forced her to his cell.<br>
+He call’d her perjur’d, bade her then restore<br>
+The rescu’d youth, and cross his will no more,<br>
+Or meet the vengeance of infernal power.<br>
+Maimoune smiled, u smile almost divine,<br>
+“Heaven’s curse I bear, and shall I shrink from thine?<br>
+Not all the tortures of thine impious art<br>
+Wound like th’ undying fire which wraps my heart.”<br>
+
+Wild with delight, his horrid Afrits came And tore her lovely limbs with thongs of flame; She shrunk not, strove not, breathed no plaintive cries, To save those charms for which she lost the skies. To Carmel then her bleeding form he bore, Mock'd by those fiends her beauty aw'd before, 410 Then deep in Kafs eternal ice he rent A dreadful chasm, and there his victim pent; And she, perchance, for ages yet to come, To ruthless winds had wail'd her dreadful doom j But now the sorcerer, with malicious art, Would wring with keener pangs her gentle heart: In thunder told, she knew his hateful will, And cannot shun, though loathing to fulfil. A tear her own worst pangs had fail'd to move, Fell as she gazed upon her earthly love; 420 And with reluctant, lingering hand disclos'd Where, wrapt in sleep, Amina's form reposed, Weak as she seems, with all a mother's care, Her gentle arms her senseless rival bear. Calm was th' Assassin, but a dreadful joy, A laughing fiend sate mocking in his eye.
 " Christian! whose charm* thy dastard life ensure, Hast thou a spell thy miniou to secure? Thou seest what pains rebellious genii wait; Can mortal virgin hope a milder fate? 430 Behold these gems, that treachery's touch proclaim, These talismans, that bear her Prophet's name; Behold, I break them thus! and thou shalt call On all thy saints for aid, and curse them all; Shalt see her glut my rankling malice first, Then waste beside her, waste with want and thirst!" " So lately taught thine impious boasts are vain, inhuman monster! därest thou threat again? Blest Champion of my native England, thou That saved thy menaced Sabra, aid me now! 440 Aid in a virgin's cause!" With vigorous hand The warrior hurl'd the Sorcerer on the sand; Sternly he grasp'd his throat, nor gave him time To call his fiends, or breathe one magic rhyme, Till the dark spirit fled; the wizard frame Vanish'd in noisome fume, and he became Like those white bones that, bleaching on the waste, Shew where the erring caravan has past. " Great is the Christian's faith!" Maimoune said, And veil'd in mist the thirsty desert fled; 450
 While Pardo rais'd his soul in praise and prayer, Then with a kiss arous'd the sleeping fair. She clapp'd her hands; " and am I then," she cried, " In these dear deserts, and with thee my guide? Or am I dead, and does thy blessed ghost Rejoin me here?—for I have mourn'd thee lost." *' Nay, thou fair dreamer! we must leave behind These cumbrous limbs, ere we can ride the wind; True, I have dwelt with spirits, been to fame And duty dead, but wear this mortal frame. 460 Alas! these wastes, that seem so fair to thee, These thirsty sands, that know nor spring nor tree, Will make us ghosts coo soon;—but God is great! Come when it will, луе share one common fate." £i Fear not," she answer'd, ťí I these sands have crost When food and water, nay our track was lost, And yet the spring my faithful camel found; I know the desert signs:"—she gazed around, Till hope forsook her eye; on either hand The smooth horizon touch'd the shoreless sand; 470 No scatter'd palms of food or shelter tell, No patch of verdure marks the distant well;
 Nor rocky rift was there, nor deep ravine, To hide the hoarded rain, or nurse the niggard green; Nor snake nor lizard, offspring of the day, Nor the long line that marks the beetle's way; Nought save that spider, God's peculiar care, Sole living thing, that seems to live on air, 0 'Twere joy to hear the shakal now, or meet The dreadful traces of the lion's feet! 480 All, all is silent, save their quicken'd breath, (The silence and the solitude of death,) Save when around their limbs the hot winds play, As if they marveil'd what obstructs their way. Yet on they roam'd, while still, to stifle fear, To cheat the pangs of thirst, or chase despair, Would Pardo tell of Christians brave and proud, Whose hearts like his to Moslem beauty bow'd; How Becket's sire in Arab durance lay, His master's daughter broke his chains away, 490 Forsook her faith, her sire, and natal tongue, And from their loves the sainted martyr sprung: Or, how the brother of the English Queen, Loved by the sister of Mirammolin, When died his sire, and rebels seized the throne, Beheld the generous Moor restore his crown; p
