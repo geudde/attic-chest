@@ -5853,7 +5853,7 @@ And not a minstrel wins one cup of wine,<br>
 That cannot sing brave <span class="smallcaps">Richard’s</span> deeds of might,<br>
 In Acre’s fall, or Arsouf’s glorious fight.<br>
 &emsp;Admiring, envying, dark-brow’d Maynard cried,<br>
-&emsp;Had Cæsar known thy London’s wealth and pride,<br>
+“Had Cæsar known thy London’s wealth and pride,<br>
 О King! or how her people held thee dear,<br>
 Not twice thy ransom would have brought thee here!”<sup>g</sup><br>
 &emsp;Yet those whose fame disloyal deeds had stain’d,<br>
