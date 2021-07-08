@@ -5702,9 +5702,52 @@ Where Bertrand’s fiery spirit rests at last.
 
 ### The Return of Richard
 
-Thou, Loyal Spirit! in the noble mind Who dwell'st with all of generous and refined, Thou, whom a happy realm exults to feel, Source of her public fame, her private weal; And boasts she gave,—oh, be it long her pride! — Thy home, when banish'd from the world beside: Ne'er was thy call with readier love obey'd, Ne'er at thy shrine were purer offerings paid, Than ssdien his weeping myriads vied to bring Their several portion, and release their King. 10
-The poor his mite, untax'd the Abbot yields' 1 His gold, the lord the produce of his fields: Yet time roll'd on; and all on Syria's shores, Or war-vex'd England, count the weary hours; For two there were, whose secret treachery strove To render vain a generous nation's love; Philip of France, and he whose impious sword At once assail'd his brother and his Lord. ’Twas now at Spires,—for Richakd, as in sport, Was doom'd to follow that capricious court,— 20 Th' Imperial Synod met; from England there, Her envoys half th' expected ransom bear; The rest ssith willing zeal shall London bring, When her proud gates again enfold their King. The Monarch hails his hour of freedom nigh, And every noble breast is touch'd with joy; When Henry, rising, with a gloomy look, Whose fiendish malice wither'd ere he spoke, Two scrolls unfurlV: the first display'd to view The Gallic lilies on their lake of blue; 30 The next—oh! whose the rebel hand might dare To fix proud England's regal lions there? (C From France and England,—for his nobles now To valiant John that kingly name allow,—
-Friendship and love these welcome scrolls convey, With liberal proffers;—wealth for every day We guard our captive; so may discord cease, b And Europe prosper in the shade of peace. Methinks some short delay, devoid of blame, Our vows may pardon, and their friendship claim." In silence Richard heard the words of guile, His hope sunk low, but scorn enforced the smile; " Perjur'd and base!" th' indignant Envoys cry, " Restore his ransom, or his chains destroy." When rising with one will, th' Imperial Lords Touch'd their rich croziers or their glittering swords: ťí Have we not sworn?" c a voice of thunder says, And Henry shrunk from virtue's angry gaze; iC Nay! think not I could let dishonour sway, Delay is all I seek,—a short delay." 50 " Delay, and reign no more!" The echoes round Seemed pleased to double the portentous sound; When lo, new terrors!—Longchamp entering there, Deigns no obeisance to th' Imperial chair; But briefly greets the Primate of Cologne: <c Now Brother, make this sacred mandate known!" All stood aghast,—but most was Henry pale, He knew the golden keys, the Pontiffs seal.
+Thou, Loyal Spirit! in the noble mind<br>
+Who dwell’st with all of generous and refined,<br>
+Thou, whom a happy realm exults to feel,<br>
+Source of her public fame, her private weal;<br>
+And boasts she gave,—oh, be it long her pride!—<br>
+Thy home, when banish’d from the world beside:<br>
+Ne’er was thy call with readier love obey’d,<br>
+Ne’er at thy shrine were purer offerings paid,<br>
+Than when his weeping myriads vied to bring<br>
+Their several portion, and release their King.<br>
+The poor his mite, untax’d the Abbot yields<sup>a</sup><br>
+His gold, the lord the produce of his fields:<br>
+Yet time roll’d on; and all on Syria’s shores,<br>
+Or war-vex’d England, count the weary hours;<br>
+For two there were, whose secret treachery strove<br>
+To render vain a generous nation’s love;<br>
+Philip of France, and he whose impious sword<br>
+At once assail’d his brother and his Lord.<br>
+&emsp;’Twas now at Spires,—for <span class="smallcaps">Richard</span>, as in sport,<br>
+Was doom’d to follow that capricious court,—<br>
+Th’ Imperial Synod met; from England there,<br>
+Her envoys half th’ expected ransom bear;<br>
+The rest with willing zeal shall London bring,<br>
+When her proud gates again enfold their King.<br>
+&emsp;The Monarch hails his hour of freedom nigh,<br>
+And every noble breast is touch’d with joy;<br>
+When Henry, rising, with a gloomy look,<br>
+Whose fiendish malice wither’d ere he spoke,<br>
+Two scrolls unfurl’d: the first display’d to view<br>
+The Gallic lilies on their lake of blue;<br>
+The next—oh! whose the rebel hand might dare<br>
+To fix proud England’s regal lions there?<br>
+&emsp;“From France and England,—for his nobles now<br>
+To valiant John that kingly name allow,—<br>
+Friendship and love these welcome scrolls convey,<br>
+With liberal proffers;—wealth for every day<br>
+We guard our captive; so may discord cease,<sup>b</sup><br>
+And Europe prosper in the shade of peace.<br>
+Methinks some short delay, devoid of blame,<br>
+Our vows may pardon, and their friendship claim.”<br>
+&emsp;In silence <span class="smallcaps">Richard</span> heard the words of guile,<br>
+His hope sunk low, but scorn enforced the smile;<br>
+“Perjur’d and base!” th’ indignant Envoys cry,<br>
+“Restore his ransom, or his chains destroy.”<br>
+When rising with one will, th’ Imperial Lords<br>
+Touch'd their rich croziers or their glittering swords: ťí Have we not sworn?" c a voice of thunder says, And Henry shrunk from virtue's angry gaze; iC Nay! think not I could let dishonour sway, Delay is all I seek,—a short delay." 50 " Delay, and reign no more!" The echoes round Seemed pleased to double the portentous sound; When lo, new terrors!—Longchamp entering there, Deigns no obeisance to th' Imperial chair; But briefly greets the Primate of Cologne: <c Now Brother, make this sacred mandate known!" All stood aghast,—but most was Henry pale, He knew the golden keys, the Pontiffs seal.
 Solemn and slow Rinaldo then began The dread Anathema, the Holy Ban 60 That breaks allegiance, arms the subject's hand Against his Lord, and spreads o'er all the land Funereal gloom; when closed is every fane, Nor may confession ease the heart of pain. No sacrament is given, nor prayers are said, Nor nuptial rites, nor requiem for the dead, Nor vows baptismal; ec and this Curse shall hold On Cæsar's head, and Austrian Leopold, Till, moved by fear or conscience, they restore The English Richard to his subject shore; 70 And This on Him who seeks his Brother's life, And faithless France, till they forego the strife, Waged in contempt of Clermont's holy laws, On one, the Champion of his Saviour's cause. He who for Her nor blood nor wealth has spared, The Church adopts her son, the Church shall guard." Oft had his Sire the Pontiff's power defied, When his ambitious Lords upheld his pride: But Henry stood alone, his crimes arise In ghastly phalanx to his shuddering eyes; 80 He feels the curse:—he seems already chased From his high throne, and hunted o'er the waste;
 His voice луав hoarse, his brow convulsed with dread, While, torn by avarice and by hate, he said, " Strike off his bonds, and be the Monarch free!— Most noble King, Count Maynard wends with, thee To bring the ransom back; yet ere thou go, \ Embrace in friendship one whom time may 8Ь.елу у True to thy cause, though late he seem'd thy foe." d у But firm Rinaldo knock' d the chains away, 90 And clasp'd the grateful King; ťf no луеак delay, c 'Twere folly here another hour to waste, A steed awaits thee—Oh! be wise, and haste." And never when at Easter's festal time He rode to Mass, or in the summer's prime Chased the fleet stag, such train could Henry's pride Command, as rode in Iovo by Richard's side! ’Twas Christmas, yet December's darkest sky Has beauty to th' enfranchis'd captive's eye; Her cheerless simvs outshine the blooming spring, 100 Her blasts are sweeter than the zephyr's wing; They breathe of liberty: but sweeter yet The Monarch's joy, when at Maguntium met, Unstaid by age, by distance or alarms, His bride and mother clasp'd him in their arms;
 From England one, and one from favouring Rome, Arrived to guide their cherish'd Pilgrim home. Next at Cologne, in her unrivall'd pile, While music breath'd through every spacious aisle, Rinaldo's self the solemn Mass has said, 110 And shared with pious hands the sacred bread; While the loud Anthem swell'd in choral peal, ct Prais'd be the living God, for now I feel From Herod's hand His Angel saved me; power, And love, and praise be His for evermore.' *— The Lion Duke, who iu his inmost heart Still mourn'd his Helen, hasten'd to depart, And wept on Richard's breast; but young Louvain Λ Leads on where Antwerp bounds his rich domain, \ And the broad Scheldt runs foaming to the main. 120 J No idle speed,—while yet his flying bail Gleams in the distance, pursuit loads the gale; Another hour, nor had his regal home Received the King, nor England known his doom/ But skill'd in all that fits a seaman's care, The open rock to shun, or shallow snare,
