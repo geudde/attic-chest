@@ -4708,7 +4708,7 @@ Whose anxious fondness pierced her slight disguise.<br>
 “How will it glad each loyal heart to know<br>
 That thou art found, and thus unchanged by woe!”<br>
 &emsp;“Aye! else I ill deserve to wear a crown,—<br>
-He earns not Fortune’s smiles who dreads her frown;
+He earns not Fortune’s smiles who dreads her frown;<br>
 Insult and torture I might well defy,<br>
 My only fear was unavenged to die<br>
 Where none should hear my fate; but now I fare<br>
@@ -4800,23 +4800,359 @@ And thou the friend, the delegate of one<br>
 Who own’d no prouder prince beneath the sun!<br>
 Now all that rests,—so fast our fortunes move,—<br>
 Courage to me, to thee thy Monarch’s love.<br>
+Nay, check that sigh—regrets and shame are vain,<br>
+Resume thy Seals, and be thyself again;<sup>c</sup><br>
+Aside that penance garb must now be laid,<br>
+And Ely’s Prelate speak in Albert’s aid.<br>
+Yet sorrow strengthens—should I else have known<br>
+Thy constancy, dear Longchamp! or mine own?<br>
+And one yet dearer! how her fragile form<br>
+Bow’d like the reed, but broke not with the storm;<br>
+And well redeem’d the boast of tender pride,<br>
+In softness bold, indeed a hero’s bride!<br>
+Oh! Berengaria, think’st thou not our bliss,<br>
+When fortune smiles, shall be more rich for this?<br>
+But thou hast yet a task; Ι know thy zeal<br>
+With smiles can leave me, if to seek my weal.<br>
+At dawn my trial comes;—but why so pale?<br>
+What can I dread at which thy heart should quail?<br>
+They dare not bring me to the block or stake,<br>
+For angel-guards o’er Heaven’s vicegerents wake.<br>
+Suspense and durance, there I read my doom,—<br>
+My freedom, dearest! must be won from Rome.<br>
+Wait not this solemn farce, this mockery,—<br>
+go, Ere Maynard’s glance the truant minstrel know;<br>
+And hark! I hear the outer door unfold,—<br>
+Here is thy bonnet,—hide those locks of gold.<br>
+Wait not to speak, thine accents will betray<br>
+A heart too full,—my dearest love, away;—<br>
+Remember, Longchamp, be thyself again!—<br>
+Minstrel farewell! I thank thee for thy strain.”
 
-Nay, check that sigh—regrets and shame are vain, Resume thy Seals, and be thyself again f Aside that penance garb must no%v be laid, And Ely's Prelate speak in Albert's aid. Yet sorrow strengthens—should I else have known Thy constancy, dear Longchamp! or mine own? 190 And one yet dearer! ΙιοΛν her fragile form ΒοΛνΉ like the reed, but broke not with the storm; And well redeem'd the boast of tender pride, In softness bold, indeed a hero's bride! Oh! Berengaria, think'st thou not our bliss, When fortune smiles, shall be more rich for this? But thou hast yet a task j Ι ΙίηοΛν thy zeal With smiles can leave me, if to seek my weal. At dawn my trial comes j—but why so pale? What can I dread at which thy heart should quail? They dare not bring me to the block or stake, For angel-guards o'er Heaven's vicegerents wake. Suspense and durance, there I read my doom,— My freedom, dearest! must be won from Rome. Wait not this solemn farce, this mockery,—go, Ere Maynard's glance the truant minstrel know; And hark! 1 hear the outer door unfold,— Here is thy bonnet,—hide those locks of gold.
-Wait not to speak, thine accents will betray A heart too full,—my dearest love, away;— 210 Remember, Longchamp, be thyself again!— Minstrel farewell! I thank thee for thy strain." The Diet met, and purple glory shone Round the vain man who fill'd th' Imperial throne; And seldom King might boast a nobler band, Primates and princes, Magnates of the land , In wonder gazing on their captive there, His form majestic, and commanding air. d The envoys entered, and with dauntless look The tyrant's seat confronting, Albert spoke. 220 ff From England's Regent Queen, and each that bears A loyal soul, her Prelates and her Peers, We ask—no sign of hostile will foreshewn, Why thus thou hold's t our Monarch from his throne? And more: from thee, O Cæsar! we demand Justice on one, a vassal of thy land, The Duke of Austria,—who, against the troth Of men and nations, and his solemn oath Of Christian concord, dared by fraud enchain Our slumbering Sovereign, and in bonds detain." 230 Q 2
-" One not" (as Albert ceased the Priest began) (i Sacred alone as monarch or as man, But by that Cross which holy Pandulph gave, To God devoted j and his God shall save." " And I am charged," again the warrior cried, " If his just freedom shall be still denied, From England, Normandy, Guyenne to bring Defiance, battle, till thou yield our King." "Defiance, not from England's strength alone, But every Prince who fills a Christian throne. 240 From all, by Clermont's solemn compact bound, In Holy War to tread the sacred ground, Or guard their absent comrades' lands from scathe, As they reposed upon their comrades' faith; And more, for every day his Tomb is stain'd By Moslem rites, by brutal scorn profaned, For every martyr's blood, for every harm The faith endures, deprived of Richard's arm, An angry Deity now speaks in me, And claims in wrath the mighty debt from thee." 250 The Prelate spoke, and Henry's cheek of pride, Pale as he listen'd, glow'd when he replied: "Strangers î I chafe not, though your speech be bold; Your Sovereign there, and there my Peers behold:
-All that as vassals own Imperial sway, The mighty whom these ample states obey. Unheard I judge not, but from Austria's yoke I claim'd her captis'e, and these lords convoke: Be they the umpires;—but if I shall prove Your King not only worthless of your love, 260 But all unfit on any rights to call To be his shelter, who has outraged all; And black with crimes, by Heaven and man abhorr'd, That barbarous states had scrupled to record; Then, for this care of Europe's general weal, Your thanks, not censure, shall requite my zeal: Meanwhile, if to this court no cause appear To thwart our gracious wish, remain and hear." ťť Monarch," said Albert, " I my seat demand, As Schorndorf’s Lord, and heir of Hildebrand. 27O As such to thee " (he knelt and loos'd his sword) " I tender homage as my Suzerain lord; Saving the faith to England's Monarch ow'd, Forlands and honours by his love bestow'd." Nor Henry dared the proffer'd homage scorn, He loos'd the collar which himself had worn, And while he fix'd it on his vassal's breast, With well dissembled joy the you h curest. Q 3
-To Ely's Prelate gave an honour'd place, Then spoke with measur'd speech and plausive grace. " Princes and Peers, and Thou, illustrious Thrall! Fain would I win th' impartial ears of all; Fain every good and loyal heart incline To feel how painful is this task to mine; For Kings with livelier sorrow must expose A Monarch's guilt, or mourn a Monarch's woes. Sadly we sympathize, when such are brought, Even like the least, to answer deeds they wrought In wanton power; but sadder were the time, Should regal mantles prove a shield for crime. 290 " Richard Plantagenet, of England King, Branch of a stock from which myself I spring, Think not a jealous rival seeks thy wrong, That hate misleads, or guile inspires my tongue; Thy Lion-heart I loved, thy daring deeds, For every pang my kindred bosom bleeds; And while on thee my heaviest charges fall, 'Tis my first wish thou may'st repel them all. First then I charge thee, King! that in despite Of my Constantia's claims, and well-known right/
-Despite those rights of blood which all respect, And Kings who rule by them should least neglect, Thou did'st compel th' unwilling realm to crown The base-born Tancred on Sicilia's throne, Perchance not William's child, at least no lawfulson. ct And next I charge thee, while affecting zeal For the lost Sepulchre, the Christian weal, That thou, to swell thy greedy power, hast bent On Christian kings thy mighty armament; My kinsman Isaac hurl'd from Cyprus' throne, 310 Made his rich spoils thy minions' or thine own; And, as a thousand tales of scandal prove, His daughter's youth abus'd with lassdess love. " And next, that on the day thy single poss'ers, The rest defrauding, seized on Acre's towers, Even from the rampart where his valour placed, Thine envious haud my vassal's banner cast; Him with a btow, and it with filth disgraced. Oh! must I speak the hateful truth aloud, And own that Austria's flag to such dishonour bow'd!" ’Twas here the Duke upon his captive roll'd Such glance as serpents on the prey they hold: But sunk abash'd beneath the mute reply, The calm, majestic scorn of Richard's eye. q 4
-" And more," th' Imperial youth resum'd his tale, " I charge thee King, that still beneath the veil Of zeal and reverence for our Holy Cross, Thy stubborn pride has wrought it shame and loss. Still with new broils the Christian Princes vex'd, Their efforts baffled, and their plans perplex'd; 330 Till one could brook a vassal's scorn no more, And Gaul's brave Sovereign fled th' unconquer'd shore. 'Tis Thou must answer now for every day That injur'd Sion weeps a Moslem sway; For loss of all that Philip had subdued, Had saved of Christian, shed of impious blood. " Next, as his Suzerain, I of thee require The price of blood for Conrad, Prince of Tyre; Whose murder by thy coward hate was plann'd, In midnight darkness slain, and by an unknown hand. ci Next, that the same base treason aims the knife Of lurking villains at Augustus' life; And he, till now unwont to dream of fear, In every stranger dreads th' assassin near. íť But specious words might gloze these charges past, A seventh remains, the weightiest and the last: That while (despite that pride, which day by day Made half the host but gazers on the fray,)
-Still the full current of success roll'd on, T'was thine to stay its course at Ascalon. 350 In servile tasks were noble hands employed, Vainly to raise those works the foe destroyed; While thy smooth speeches almost could incline The Chiefs to impious peace with Saladine. With him! the Infidel! in all his state, Still Sultan of the East, and Lord of Salem's fate ' cC Say, Princes! say, is this the Hero's sword, That weeping Sion has in dust deplor'd, The ťí Cœur db Lion," who alone could cope With Asia's King 1 the Christian's second hope! 360 Shall we not strip this Lion's hide, and shew The subtle fox, the coward sheep below? And what, though treason brought him to our throne, Shall we not make the cause of man our own? Or must we fix this monster in his reign, And give this demon back to power again? f But I transgress: he yet may all deny, Or with prompt wit some fair excuse supply; Yet, though I know his sweet and plausive tongue, I cannot, dare not, hope to find me wrong." 370
-He ceased, and Richard hasten'd to reply,— Calm was his mien, but lightning in his eye. His not the pining captive's faded hue, From smother'd rage a livelier crimson grew; His ample beard and hair's neglected length, Seemed but an earnest of superior strength. With graceful air, yet as in high disdain, Oft as he spoke he waved his cumbrous chain. <f And who shall claim my answer? who shall bring A King to trial? who condemn a King? 380 There is one only court which Kings should fear, A Court Divine—and Thou shalt meet me there; But by th' anointing oil, the solemn hour That gave my sceptre, I deny thy power! Oft have I err'd,—and who that looks within, On memory's glass shall find no stain of sin?— Yet if I e'er misus'd my rule, or them He made my children, let my God condemn; To Him I here appeal, to Him I trust; I know hira Good, uor dread to know him Just. 390 Yet, while your haughty summons I deny, For my own irønour, Henry! I reply. " Me no kind purpose to Messina drove; In hate I enter'd, though I left in love.
-A widow'd sister's freedom to restore, Her massy throne to claim, and regal dower, That ample board, whose golden round might hold Th' Armorie Peers or Paladins of old/ With all the wealth that William's last command Gave to my sire, I sought th' unfriendly land. 400 'Tis true that soon was every doubt dispell'd, And Tancreďs faith my hostile purpose quell'd; Yet if such concord breed distrust in thee, Why breeds it less to Philip thar to me? Is't that he urged him to destroy me there?— But the firm youth refus'd, and warn '4 ma of the snare.* " And next at Cyprus, wearied, tempest-tost, What was my welcome on that Christian coast? Chains to my soldiers, treachery to my Bride, Myself forbad to land, and aid denied! 410 What were he Anna's spouse, or Manuel's son,— I had not spared him, had he been thine own! " But for his daughter,—let a Knight beware How with incautious speech he wound the fair! Nor, save with chaste devotion, breathe a name, Pure as the snow in Cynthia's virgin flame;
-Let Berengaria's matron praises tell The virtues she has known aud loved so well. " And for that rapturous hour, that glorious strife, More worth than thousand years of meaner life, 420 When Acre yielded, when my single powers (Yes, they were single!) storm'd her haughty towers j When England's unassisted might prevail'd, WhereFrance—where Europe and the East had fail'd! Was I to brook, upon the very day, The very rampart where I forced my way, A meaner flag,—a flag that did not share The glorious toil,—in rival triumph there? Thou art no warrior, yet perchance are here Some that may hold a warrior's feelings dear. 430 How would thy sire, at princely Milan's fall, Have brook'd an English banner on the wall? I tore it down—but if it wrought such hate. Why not acknowledge then, or shewn so late Must Conrad's death the poor pretext supply? \ But 'tis enough,—unless my life belie \ That foulest charge, I stoop not to deny."* y
-He paus'd, for Albert rose: ť< Forgive," he said, (( Th' intrusive speech, but while I still delay'd On Syria's shore, a wretch before us stood, 440 Whose fiendish soul rejoiced in Conrad's blood; Sent by th' Assassin Prince he dealt the blow, And with his death confirmed the tale of woe." ťf Praise to that Power, our guardian and our guide! Praise to the God of Truth!" King Richard caed. " Must I speak more, or melts each charge away, Like mountain mists beneath the morning ray? I have not wrought in shade—a crystal screen Is rear'd the Monarch and his realm between, That not one foible veils from vulgar eyes, 450 But while it parts, displays and magnifies. Through such is Philip seen, and thousands know ’Twas Flanders lured him from his holy vow; And thousands heard him, ssdien he pledg'd again Those oaths o. friendship, pledged so oft in vain. Yet wherefore broke—the wondrous tale display— Not that my absence left my realm his prey; He talks of darts which I from Syria's shore \ Could hurl, perchance, or dark Trivallis' tower; > Of treacherous swords—but oh! if such my power, J
-I were a fool to aim no shaft at thee, And live enthrali'd, when such might set me free. " One charge remains—the peace with Saladine,— Was it approved by all, or wholly mine? Forced ort the Chiefs for interests of my own; Or broke by me when left to fight alone? If any doubt my zeal, its truth shall breathe From earth, from heaven, and from the gulfs beneath; Thanks to that God for whom I all endure, The curse of dying Moslems makes it sure. 470 Whose was the flag that waved on Acre's height? Whose the red hand that won proud Arsouf's fight? Or whose the name that routed Islam tears, That Europe boasts, and Asia speaks with tears? I scorn to vaunt, but oh! when England's fame, Now dawning bright, shall cast its zenith flame; When even your cowering Eagles shall attest The Lion's friendship guards their tottering nest; Then shall· she bid her sons observe on high, Where shine my deeds in scrolls that cannot die. 480 " Now let these Princes, if indeed to them Such power be given, acquit me or condemn. Or if in thy belief I rightly deem The purple paler than the golden gleam,
-That Cæsar's sceptre were itself a jest, Did no embroidery deck the Tyrian vest, What is my ransom? how must I unclose These dainty chains, so fit for noble foes? Yet mark me, Henry! Ί thy claim deny, To the last denier, and would sooner die 490 By daily torture in the darkest lair Of dark Trivallis, (if a worse be there,) But I am vow'd to Heaven—my idle sword That heaven rebukes, and England claims her Lord." He ceased; but through the hall loud murmurs ľise, And tears are glistening in unwonted eyes; h In dread his ransom and his thrall to lose, Preventive of their speech, the Emperor rose, " Hail! Cœur de Lion!—I with joy receive Thy proud denial, and I will believe. 500 Such be thy ransom as beseems thy fame, As fits with thee to yield, and me to claim; Ten thousand pounds, each thousand ten times told, Of Cologne weight, and of the purest gold/'' The Emperor paus'd, the Synod stood aghast: fť What King, they thought, " might pay a sum so vast!"
-But Richard's soul no mean surprise could move, He knew his England's wealth, his people's love. " It shall be thine, ere yonder sun that now On southern regions sheds his summer glow. 510 Turn from the goat; yet haply I might fear Some treachery still, for treason brought me here." But ere he ceased the young Louvain arose, Still inly sorrowing o'er his private woes: " Nay, by that ghost which nightly round my bed Demands just vengeance on his murderer's head; May he through whom the deed of death was done, Ne'er for his guilt in penal fires atone; May this right hand, that never fail'd me yet, In my next field its wonted skill forget; 520 May thy just fury tear it from my side, If I behold thee wrong'd!" the warrior cried. " May Heaven in righteous judgment deal with me, On its Great Day, as I am true to thee, Thou injured Prince! Heaven's cause is now thine own. I swear!" exclaim'd Rinaldo of Cologne. And rising, all the Magnates of the land Vow'd on their croziers, or their arm'd right hand, To make their Emperor guard the faith he swore, Or yield allegiance to his crown no more.* 530
-On their free vows the dauntless King reposed, And Henry parted, and the Council closed. Meanwhile in Palestine the months roll'd on, And Spring dawn'd bright on finish'd Ascalon. Already Albert comes: proclaims with joy, His Sovereign found, and bids them hope him nigh. Now either host the genial year inspires With martial zeal, with rival ardour fires; Yet who might think, to see the blended train, They once were foes, and shall be foes again? 540 Arabs with Christians break a harmless lance, To Arab lutes the merry Christians dance ý White mutual presents mutual kindness bound, This gives a hawk, and that returns a hound. Led by the Arabs, now the Knights invade The boar or panther in his native shade; By Christians taught, the Arabs course the hare, Or mark the falcon wage the fight in air j And when the Christians seek the fierce Castille, Or their light bands in mimic skirmish wheel, 550 The generous Saladine in wonder sees, * f Who may contend with foes whose sportsåre these?" 1 " VOL. II. R
+The Diet met, and purple glory shone<br>
+Round the vain man who fill’d th’ Imperial throne;<br>
+And seldom King might boast a nobler band,<br>
+Primates and princes, Magnates of the land,<br>
+In wonder gazing on their captive there,<br>
+His form majestic, and commanding air.<sup>d</sup><br>
+The envoys entered, and with dauntless look<br>
+The tyrant’s seat confronting, Albert spoke.<br>
+From England’s Regent Queen, and each that bears<br>
+A loyal soul, her Prelates and her Peers,<br>
+We ask—no sign of hostile will foreshewn,<br>
+Why thus thou hold’st our Monarch from his throne?<br>
+And more: from thee, O Cæsar! we demand<br>
+Justice on one, a vassal of thy land,<br>
+The Duke of Austria,—who, against the troth<br>
+Of men and nations, and his solemn oath<br>
+Of Christian concord, dared by fraud enchain<br>
+Our slumbering Sovereign, and in bonds detain.”<br>
+&emsp;“One not” (as Albert ceased the Priest began)<br>
+“Sacred alone as monarch or as man,<br>
+But by that Cross which holy Pandulph gave,<br>
+To God devoted; and his God shall save.”<br>
+&emsp;“And I am charged,” again the warrior cried,<br>
+“If his just freedom shall be still denied,<br>
+From England, Normandy, Guyenne to bring<br>
+Defiance, battle, till thou yield our King.”<br>
+&emsp;“Defiance, not from England’s strength alone,<br>
+But every Prince who fills a Christian throne.<br>
+From all, by Clermont’s solemn compact bound,<br>
+In Holy War to tread the sacred ground,<br>
+Or guard their absent comrades’ lands from scathe,<br>
+As they reposed upon their comrades’ faith;<br>
+And more, for every day his Tomb is stain’d<br>
+By Moslem rites, by brutal scorn profaned,<br>
+For every martyr’s blood, for every harm<br>
+The faith endures, deprived of <span class="smallcaps">Richard’s</span> arm,<br>
+An angry Deity now speaks in me,<br>
+And claims in wrath the mighty debt from thee.”<br>
+&emsp;The Prelate spoke, and Henry’s cheek of pride,<br>
+Pale as he listen’d, glow’d when he replied:<br>
+“Strangers! I chafe not, though your speech be bold;<br>
+Your Sovereign there, and there my Peers behold:<br>
+All that as vassals own Imperial sway,<br>
+The mighty whom these ample states obey.<br>
+Unheard I judge not, but from Austria’s yoke<br>
+I claim’d her captive, and these lords convoke:<br>
+Be they the umpires;—but if I shall prove<br>
+Your King not only worthless of your love,<br>
+But all unfit on any rights to call<br>
+To be his shelter, who has outraged all;<br>
+And black with crimes, by Heaven and man abhorr’d,<br>
+That barbarous states had scrupled to record;<br>
+Then, for this care of Europe’s general weal,<br>
+Your thanks, not censure, shall requite my zeal:<br>
+Meanwhile, if to this court no cause appear<br>
+To thwart our gracious wish, remain and hear.”<br>
+“Monarch,” said Albert, “I my seat demand,<br>
+As Schorndorf’s Lord, and heir of Hildebrand.<br>
+As such to thee” (he knelt and loos’d his sword)<br>
+“I tender homage as my Suzerain lord;<br>
+Saving the faith to England’s Monarch ow’d,<br>
+For lauds and honours by his love bestow’d.”<br>
+&emsp;Nor Henry dared the proffer’d homage scorn,<br>
+He loos’d the collar which himself had worn,<br>
+And while he fix’d it on his vassal’s breast,<br>
+With well dissembled joy the youth carest.<br>
+To Ely’s Prelate gave an honour’d place,<br>
+Then spoke with measur’d speech and plausive grace.
+
+“Princes and Peers, and Thou, illustrious Thrall!<br>
+Fain would I win th’ impartial ears of all;<br>
+Fain every good and loyal heart incline<br>
+To feel how painful is this task to mine;<br>
+For Kings with livelier sorrow must expose<br>
+A Monarch’s guilt, or mourn a Monarch’s woes.<br>
+Sadly we sympathize, when such are brought,<br>
+Even like the least, to answer deeds they wrought<br>
+In wanton power; but sadder were the time,<br>
+Should regal mantles prove a shield for crime.<br>
+&emsp;“<span class="smallcaps">Richard Plantagenet, of England King</span>,<br>
+Branch of a stock from which myself I spring,<br>
+Think not a jealous rival seeks thy wrong,<br>
+That hate misleads, or guile inspires my tongue;<br>
+Thy Lion-heart I loved, thy daring deeds,<br>
+For every pang my kindred bosom bleeds;<br>
+And while on thee my heaviest charges fall,<br>
+’Tis my first wish thou may’st repel them all.<br>
+&emsp;First then I charge thee, King! that in despite<br>
+Of my Constantia’s claims, and well-known right,<sup>e</sup><br>
+Despite those rights of blood which all respect,<br>
+And Kings who rule by them should least neglect,<br>
+Thou did’st compel th’ unwilling realm to crown<br>
+The base-born Tancred on Sicilia’s throne,<br>
+Perchance not William’s child, at least no lawful son.<br>
+&emsp;“And next I charge thee, while affecting zeal<br>
+For the lost Sepulchre, the Christian weal,<br>
+That thou, to swell thy greedy power, hast bent<br>
+On Christian kings thy mighty armament;<br>
+My kinsman Isaac hurl’d from Cyprus’ throne,<br>
+Made his rich spoils thy minions’ or thine own;<br>
+And, as a thousand tales of scandal prove,<br>
+His daughter’s youth abus’d with lawless love.<br>
+&emsp;“And next, that on the day thy single powers,<br>
+The rest defrauding, seized on Acre’s towers,<br>
+Even from the rampart where his valour placed,<br>
+Thine envious hand my vassal’s banner cast;<br>
+Him with a blow, and it with filth disgraced.<br>
+Oh! must I speak the hateful truth aloud,<br>
+And own that Austria’s flag to such dishonour bow’d!”<br>
+&emsp;’Twas here the Duke upon his captive roll’d<br>
+Such glance as serpents on the prey they hold:<br>
+But sunk abash’d beneath the mute reply,<br>
+The calm, majestic scorn of Richard’s eye.<br>
+&emsp;“And more,” th’ Imperial youth resum’d his tale,<br>
+“I charge thee King, that still beneath the veil<br>
+Of zeal and reverence for our Holy Cross,<br>
+Thy stubborn pride has wrought it shame and loss.<br>
+Still with new broils the Christian Princes vex’d,<br>
+Their efforts baffled, and their plans perplex’d;<br>
+Till one could brook a vassal’s scorn no more,<br>
+And Gaul’s brave Sovereign fled th’ unconquer’d shore.<br>
+’Tis Thou must answer now for every day<br>
+That injur’d Sion weeps a Moslem sway;<br>
+For loss of all that Philip had subdued,<br>
+Had saved of Christian, shed of impious blood.<br>
+&emsp;“Next, as his Suzerain, I of thee require<br>
+The price of blood for Conrad, Prince of Tyre;<br>
+Whose murder by thy coward hate was plann’d,<br>
+In midnight darkness slain, and by an unknown hand.<br>
+&emsp;“Next, that the same base treason aims the knife<br>
+Of lurking villains at Augustus’ life;<br>
+And he, till now unwont to dream of fear,<br>
+In every stranger dreads th’ assassin near.<br>
+&emsp;“But specious words might gloze these charges past,<br>
+A seventh remains, the weightiest and the last:<br>
+That while (despite that pride, which day by day<br>
+Made half the host but gazers on the fray,)<br>
+Still the full current of success roll’d on,<br>
+T’was thine to stay its course at Ascalon.<br>
+In servile tasks were noble hands employed,<br>
+Vainly to raise those works the foe destroyed;<br>
+While thy smooth speeches almost could incline<br>
+The Chiefs to impious peace with Saladine.<br>
+With him! the Infidel! in all his state,<br>
+Still Sultan of the East, and Lord of Salem’s fate!<br>
+&emsp;“Say, Princes! say, is this the Hero’s sword,<br>
+That weeping Sion has in dust deplor’d,<br>
+The “<span class="smallcaps">Cœur de Lion</span>,” who alone could cope<br>
+With Asia’s King! the Christian’s second hope!<br>
+Shall we not strip this Lion’s hide, and shew<br>
+The subtle fox, the coward sheep below?<br>
+And what, though treason brought him to our throne,<br>
+Shall we not make the cause of man our own?<br>
+Or must we fix this monster in his reign,<br>
+And give this demon back to power again?<sup>f</sup><br>
+But I transgress: he yet may all deny,<br>
+Or with prompt wit some fair excuse supply;<br>
+Yet, though I know his sweet and plausive tongue,<br>
+I cannot, dare not, hope to find me wrong.”<br>
+&emsp;He ceased, and <span class="smallcaps">Richard</span> hasten’d to reply,—<br>
+Calm was his mien, but lightning in his eye.<br>
+His not the pining captive’s faded hue,<br>
+From smother’d rage a livelier crimson grew;<br>
+His ample beard and hair’s neglected length,<br>
+Seemed but an earnest of superior strength.<br>
+With graceful air, yet as in high disdain,<br>
+Oft as he spoke he waved his cumbrous chain.<br>
+&emsp;“And who shall claim my answer? who shall bring<br>
+A King to trial? who condemn a King?<br>
+There is one only court which Kings should fear,<br>
+A Court Divine—and Thou shalt meet me there;<br>
+But by th’ anointing oil, the solemn hour<br>
+That gave my sceptre, I deny thy power!<br>
+Oft have I err’d,—and who that looks within,<br>
+On memory’s glass shall find no stain of sin?—<br>
+Yet if I e’er misus’d my rule, or them<br>
+He made my children, let my God condemn;<br>
+To Him I here appeal, to Him I trust;<br>
+I know him Good, nor dread to know him Just.<br>
+Yet, while your haughty summons I deny,<br>
+For my own honour, Henry! I reply.<br>
+&emsp;“Me no kind purpose to Messina drove;<br>
+In hate I enter’d, though I left in love.<br>
+A widow’d sister’s freedom to restore,<br>
+Her massy throne to claim, and regal dower,<br>
+That ample board, whose golden round might hold<br>
+Th’ Armorie Peers or Paladins of old,<sup>g</sup><br>
+With all the wealth that William’s last command<br>
+Gave to my sire, I sought th’ unfriendly land.<br>
+’Tis true that soon was every doubt dispell’d,<br>
+And Tancred’s faith my hostile purpose quell’d;<br>
+Yet if such concord breed distrust in thee,<br>
+Why breeds it less to Philip than to me?<br>
+Is’t that he urged him to destroy me there?—<br>
+But the firm youth refus’d, and warn’d me of the snare.[^42]<br>
+&emsp;“And next at Cyprus, wearied, tempest-tost,<br>
+What was my welcome on that Christian coast?<br>
+Chains to my soldiers, treachery to my Bride,<br>
+Myself forbad to land, and aid denied!<br>
+What were he Anna’s spouse, or Manuel’s son,—<br>
+I had not spared him, had he been thine own!<br>
+&emsp;“But for his daughter,—let a Knight beware<br>
+How with incautious speech he wound the fair!<br>
+Nor, save with chaste devotion, breathe a name,<br>
+Pure as the snow in Cynthia’s virgin flame;<br>
+Let Berengaria’s matron praises tell<br>
+The virtues she has known and loved so well.<br>
+&emsp;“And for that rapturous hour, that glorious strife,<br>
+More worth than thousand years of meaner life,<br>
+When Acre yielded, when my single powers<br>
+(Yes, they were single!) storm’d her haughty towers;<br>
+When England’s unassisted might prevail’d,<br>
+Where France—where Europe and the East had fail’d!<br>
+Was I to brook, upon the very day,<br>
+The very rampart where I forced my way,<br>
+A meaner flag,—a flag that did not share<br>
+The glorious toil,—in rival triumph there?<br>
+Thou art no warrior, yet perchance are here<br>
+Some that may hold a warrior’s feelings dear.<br>
+How would thy sire, at princely Milan’s fall,<br>
+Have brook’d an English banner on the wall?<br>
+I tore it down—but if it wrought such hate.<br>
+Why not acknowledge then, or shewn so late<br>
+Must Conrad’s death the poor pretext supply?<br>
+But ’tis enough,—unless my life belie<br>
+That foulest charge, I stoop not to deny.”[^43]
+&emsp;He paus’d, for Albert rose: “Forgive,” he said,<br>
+&emsp;“Th’ intrusive speech, but while I still delay’d<br>
+On Syria’s shore, a wretch before us stood,<br>
+Whose fiendish soul rejoiced in Conrad’s blood;<br>
+Sent by th’ Assassin Prince he dealt the blow,<br>
+And with his death confirmed the tale of woe.”<br>
+&emsp;“Praise to that Power, our guardian and our guide!<br>
+Praise to the God of Truth!” King <span class="smallcaps">Richard</span> cried.<br>
+“Must I speak more, or melts each charge away,<br>
+Like mountain mists beneath the morning ray?<br>
+I have not wrought in shade—a crystal screen<br>
+Is rear’d the Monarch and his realm between,<br>
+That not one foible veils from vulgar eyes,<br>
+But while it parts, displays and magnifies.<br>
+Through such is Philip seen, and thousands know<br>
+’Twas Flanders lured him from his holy vow;<br>
+And thousands heard him, when he pledg’d again<br>
+Those oaths of friendship, pledged so oft in vain.<br>
+Yet wherefore broke—the wondrous tale display—<br>
+Not that my absence left my realm his prey;<br>
+He talks of darts which I from Syria’s shore<br>
+Could hurl, perchance, or dark Trivallis’ tower;<br>
+Of treacherous swords—but oh! if such my power,<br>
+I were a fool to aim no shaft at thee,<br>
+And live enthrall’d, when such might set me free.<br>
+&emsp;“One charge remains—the peace with Saladine,—<br>
+Was it approved by all, or wholly mine?<br>
+Forced on the Chiefs for interests of my own;<br>
+Or broke by me when left to fight alone?<br>
+If any doubt my zeal, its truth shall breathe<br>
+From earth, from heaven, and from the gulfs beneath;<br>
+Thanks to that God for whom I all endure,<br>
+The curse of dying Moslems makes it sure.<br>
+Whose was the flag that waved on Acre’s height?<br>
+Whose the red hand that won proud Arsouf’s fight?<br>
+Or whose the name that routed Islam fears,<br>
+That Europe boasts, and Asia speaks with tears?<br>
+I scorn to vaunt, but oh! when England’s fame,<br>
+Now dawning bright, shall cast its zenith flame;<br>
+When even your cowering Eagles shall attest<br>
+The Lion’s friendship guards their tottering nest;<br>
+Then shall she bid her sons observe on high,<br>
+Where shine my deeds in scrolls that cannot die.<br>
+&emsp;“Now let these Princes, if indeed to them<br>
+Such power be given, acquit me or condemn.<br>
+Or if in thy belief I rightly deem<br>
+The purple paler than the golden gleam,<br>
+That Cæsar’s sceptre were itself a jest,<br>
+Did no embroidery deck the Tyrian vest,<br>
+What is my ransom? how must I unclose<br>
+These dainty chains, so fit for noble foes?<br>
+Yet mark me, Henry! I thy claim deny,<br>
+To the last denier, and would sooner die<br>
+By daily torture in the darkest lair<br>
+Of dark Trivallis, (if a worse be there,)<br>
+But I am vow’d to Heaven—my idle sword<br>
+That heaven rebukes, and England claims her Lord.”
+
+He ceased; but through the hall loud murmurs rise,<br>
+And tears are glistening in unwonted eyes;<sup>h</sup><br>
+In dread his ransom and his thrall to lose,<br>
+Preventive of their speech, the Emperor rose,<br>
+&emsp;“Hail! <span class="smallcaps">Cœur de Lion</span>!—I with joy receive<br>
+Thy proud denial, and I will believe.<br>
+Such be thy ransom as beseems thy fame,<br>
+As fits with thee to yield, and me to claim;<br>
+Ten thousand pounds, each thousand ten times told,<br>
+Of Cologne weight, and of the purest gold.”<sup>i</sup><br>
+&emsp;The Emperor paus’d, the Synod stood aghast:<br>
+“What King,” they thought, “might pay a sum so vast!”<br>
+But <span class="smallcaps">Richard’s</span> soul no mean surprise could move,<br>
+He knew his England’s wealth, his people’s love.<br>
+&emsp;“It shall be thine, ere yonder sun that now<br>
+On southern regions sheds his summer glow.<br>
+Turn from the goat; yet haply I might fear<br>
+Some treachery still, for treason brought me here.”<br>
+&emsp;But ere he ceased the young Louvain arose,<br>
+Still inly sorrowing o’er his private woes:<br>
+“Nay, by that ghost which nightly round my bed<br>
+Demands just vengeance on his murderer’s head;<br>
+May he through whom the deed of death was done,<br>
+Ne’er for his guilt in penal fires atone;<br>
+May this right hand, that never fail’d me yet,<br>
+In my next field its wonted skill forget;<br>
+May thy just fury tear it from my side,<br>
+If I behold thee wrong’d!” the warrior cried.<br>
+&emsp;“May Heaven in righteous judgment deal with me,<br>
+On its Great Day, as I am true to thee,<br>
+Thou injured Prince! Heaven’s cause is now thine own.<br>
+I swear!” exclaim’d Rinaldo of Cologne<br>
+&emsp;And rising, all the Magnates of the land<br>
+Vow’d on their croziers, or their arm’d right hand,<br>
+To make their Emperor guard the faith he swore,<br>
+Or yield allegiance to his crown no more.<sup>k</sup><br>
+On their free vows the dauntless King reposed,<br>
+And Henry parted, and the Council closed.
+
+Meanwhile in Palestine the months roll'd on, And Spring dawn'd bright on finish'd Ascalon. Already Albert comes: proclaims with joy, His Sovereign found, and bids them hope him nigh. Now either host the genial year inspires With martial zeal, with rival ardour fires; Yet who might think, to see the blended train, They once were foes, and shall be foes again? 540 Arabs with Christians break a harmless lance, To Arab lutes the merry Christians dance ý White mutual presents mutual kindness bound, This gives a hawk, and that returns a hound. Led by the Arabs, now the Knights invade The boar or panther in his native shade; By Christians taught, the Arabs course the hare, Or mark the falcon wage the fight in air j And when the Christians seek the fierce Castille, Or their light bands in mimic skirmish wheel, 550 The generous Saladine in wonder sees, * f Who may contend with foes whose sportsåre these?" 1 " VOL. II. R
 And now, disbiirthen'd of her heaviest cares, In each gay scene the calm Matilda shares; Evanthe's bloom revives, and joy inspires Gay Hermesind's dark eye with keener fires; Elate when cail'd the evening dance to lead, Or at the tilt bestow the victor's meed. Once for that envied meed the Knight unknown Knelt at her feet, yet still his vizor down; 560 O'er his green helm the laurel wreath she threw, Then as she held the token forth to view, " May this poor glove," she said with winning grace, te Beneath that trophy find an honour'd place, Proof that thy heart, as courteous as 'tis brave, Scorns not her thanks whom thou hast deign'd to save." ic Nay, loveliest work of Nature's master-hand! My only badge must be this laurel band; I seiwe a jealous goddess, nor must wear The pledge of mortal maid, however fair j 570 Would'st thou be grateful, wait awhile," he said, " Then weave my shroud for Honour's bridal bed." His voice had sunk, and something stirr'd her mind, Remembrance vague, and terror undefined; But on her cheek indignant blushes burn'd,— To pale Ricardo's trembling gaze she turn'd;
 " Wilt thou redeem me from unwonted scorn? Shall this poor token on thy casque be worn? The Knights of old, or false our tales declare, Served honour best when best they serv'd the fair;— I, for my sex's fame, this glove require At the next tilt to waken all thy fire; So may'st thou tear yon scornful wreath away, And claim the prize, the thanks misplaced to-day." He kiss'd the precious gift, and would have spoke, When on the sports a strange appearance broke j All clad in pilgrim garb a female baud, The palm and ozier cross in either hand. " From distant shores," they cry, " to every shrine We track the weary plains of Palestine j 590 Weep in each spot to pious memory sweet, Kiss each green turf that bore Messiah's feet; Then let your bounty prove your faith as true, And feed the hungry lips that pray for you." But one of pallid front and lofty mien Sought private audience of Sicilia's Queen; Her veil thrown back, she stood in silence there: " Whence art thou, gentle friend, and what thy prayer? " " Are we then both so changed?" the stranger cries; But at the well-known voice Matilda flies, 600 в 2
 " My sister!" and her tears impetuous throng, To deлv the луагт embrace that held them long. But Helen, as she fix'd her anxious gaze, Spoke луШ1 a smile,—a smile of other days; " What years, Λνΐιαί changes, ah! what griefs have past, My own Matilda! since we parted last í I, wont to seek a King's paternal hall, And lead iu spirit as in rank the ball j To shine at jousts the gayest of the gay, Or listen Bertrand's plaintive virelay; 610 (Bewitching dreams, why will ye haunt me yet? When 'tis my wish, my duty to forget;} Thou in thy cell, thy heart no sorrow кпелу, Thine eye no tear, save what devotion drew; While to thy buoyant hope the world unknown, Seemed like that Heaven whence thy young thoughts had flown. Methink this staff and tippet should bc thine; Thy front's ambrosial Λνι -eath should circle mine!" " Yet I had sorrow too," Matilda cried; *' That I have borne, I praise a heavenly guide." 620 " Yes! but thou could'st not madden, day by day, To think thy folly flung thy peace away;
@@ -5112,3 +5448,8 @@ Note (e), page 354, line 713. Tke easy price of that triumphant day. Only two pe
 [^40]: Alluding to the speech of <span class="smallcaps">Richard</span>, what he would recover in a day all that John could conquer in a year.
 
 [^41]: The present House of Brunswick descends from the Emperor Otho, son of Henry the Lion of Saxony and the Princess of England.
+
+[^42]: Tancred shewed to <span class="smallcaps">Richard</span> a letter, in which Philip Augustus urged him to join in a conspiracy to put him and the English to the sword.
+
+[^43]: <span class="smallcaps">Richard</span> declared that unless his whole life had proved him incapable of such an action, it was useless to assert his innocence.
+
