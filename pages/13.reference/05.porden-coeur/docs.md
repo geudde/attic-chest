@@ -119,7 +119,7 @@ Eleanor Anne Роrden
 <li><a href="https://attic.vardill.org/reference/porden-coeur/volume2#book12">XII. The Pilgrimage of Berengaria</a></li>
 <li><a href="https://attic.vardill.org/reference/porden-coeur/volume2#book13">XIII. The Castle of Trivallis</a></li>
 <li><a href="https://attic.vardill.org/reference/porden-coeur/volume2#book14">XIV. The Imperial Synod</a></li>
-<li>XV. The Return of Richard</li>
+<li><a href="https://attic.vardill.org/reference/porden-coeur/volume2#book15">XV. The Return of Richard</a></li>
 <li>XVI. The Holy Sepulchre</li>
 <li>Notes</a></li>
 </ul>

@@ -3262,7 +3262,7 @@ Himself could raise so well, the glittering throng<br>
 Of princely jousts:—oh! could his realm forbear<br>
 To worship one to whom its sports were dear!<br>
 Guilt drops her mask,—the rebel, bolder grown,<br>
-Now fables Richard’s death, and mounts the throne.<br>
+Now fables <span class="smallcaps">Richard’s</span> death, and mounts the throne.<br>
 Through Gloucester’s fruitful vale, (her ample dower)<br>
 Avisa spreads revolt[^35]—from Thikehill’s tower,<br>
 From Durham’s hill, from Derby’s massy keep,<br>
@@ -3963,7 +3963,7 @@ May reach his cell, and bolts and bars be vain;<br>
 While, should some jealous warder mark the lay,<br>
 ’Tis but a minstrel sings to cheer his way.<br>
 Ah, me! that air to early love so dear,<br>
-Even in the tomb might rouse my Richard's ear;<br>
+Even in the tomb might rouse my <span class="smallcaps">Richard's</span> ear;<br>
 Oh! could I pour his deep clear tones along,<br>
 And steal his accents as I steal his song.<sup>i</sup>
 
@@ -4941,7 +4941,7 @@ And own that Austria’s flag to such dishonour bow’d!”<br>
 &emsp;’Twas here the Duke upon his captive roll’d<br>
 Such glance as serpents on the prey they hold:<br>
 But sunk abash’d beneath the mute reply,<br>
-The calm, majestic scorn of Richard’s eye.<br>
+The calm, majestic scorn of <span class="smallcaps">Richard’s</span> eye.<br>
 &emsp;“And more,” th’ Imperial youth resum’d his tale,<br>
 “I charge thee King, that still beneath the veil<br>
 Of zeal and reverence for our Holy Cross,<br>
@@ -5424,7 +5424,7 @@ And the next eve beheld me Henry’s bride.<br>
 In stupor lost, and ah! that yet I dream’d!<br>
 Mirth wanton’d round, yet nought of joy I knew,<br>
 Nor aught of pain, till, laughing, from Poitou<br>
-Gay Richard came, and as his hand display’d<br>
+Gay <span class="smallcaps">Richard</span> came, and as his hand display’d<br>
 The fatal scroll, ‘A boon! a boon!’ he said;<br>
 Forgive a loiterer,’ and he kiss’d my brow;<br>
 Though to thy lovesick heart time linger now,<br>
@@ -5435,52 +5435,274 @@ Forgot thy tears my selfish stay might chide.’<br>
 &emsp;‘Seek pardon at the Cross!’ I cried, and tore<br>
 The letter from his grasp and ran it o’er.<sup>o</sup>
 
-‘I cannot hide the grief I feel<br>
-That thou should’st doubt my truth, my zeal;<br>
-But may my soul in torment pine,<br>
-When absent if I seem to live;<br>
-If aught another love could give,<br>
-Delight me like one word of thine.
+> ‘I cannot hide the grief I feel<br>
+> That thou should’st doubt my truth, my zeal;<br>
+> But may my soul in torment pine,<br>
+> When absent if I seem to live;<br>
+> If aught another love could give,<br>
+> Delight me like one word of thine.
 
-‘May the fell eagle from on high<br>
-My falcon on my wrist destroy;<br>
-Oh! may my casque obstruct my sight,<br>
-My steed nor spur obey nor thong;<br>
-Short be my reins, my stirrups long,<br>
-And I the first to fly in fight.
+> ‘May the fell eagle from on high<br>
+> My falcon on my wrist destroy;<br>
+> Oh! may my casque obstruct my sight,<br>
+> My steed nor spur obey nor thong;<br>
+> Short be my reins, my stirrups long,<br>
+> And I the first to fly in fight.
 
-‘A captive, coop’d with those I hate,<br>
-The scorn of man, the sport of fate,<br>
-May evil luck my dice pursue;<br>
-The wind refuse to swell my sail,<br>
-My purse be void, my harvests fail,<br>
-If e’en in thought I prove untrue.
+> ‘A captive, coop’d with those I hate,<br>
+> The scorn of man, the sport of fate,<br>
+> May evil luck my dice pursue;<br>
+> The wind refuse to swell my sail,<br>
+> My purse be void, my harvests fail,<br>
+> If e’en in thought I prove untrue.
 
-‘May I behold thee courted long,<br>
-And want the sense to venge the wrong;<br>
-May porters beat me, may I find<br>
-No hour to wreak revenge, if they<br>
-Who swear that I thy trust betray,<br>
-Are not more false than dice, or wind.’
+> ‘May I behold thee courted long,<br>
+> And want the sense to venge the wrong;<br>
+> May porters beat me, may I find<br>
+> No hour to wreak revenge, if they<br>
+> Who swear that I thy trust betray,<br>
+> Are not more false than dice, or wind.’
 
 “Oh God! each word that spoke of joy and youth,<br>
 Of martial glee, and fond confiding truth,<br>
 Proclaim’d me perjur’d, pierced my guilty soul!<br>
 But why dilate? too soon I knew the whole.<br>
-My fancied foe now reign'd in Périgord, 840 De Born but stayed to give her to her Lord, And grace, as friendship bade, the bridal feast, Which Talleyrand display'd for every guest.* My brother's pitying heart was still the same, His patience sooth'd me, and forbore to blame; ' And oh!' I pleaded, c by our early years, f By my lost peace, by all these fruitless tears, Since I and Bertrand ne'er must meet again, Let him believe me false, unfeeling, vainj
-Think that my worldly soul to Mammon sold, 850 Loved his frank homage less than rank or gold; het him despise me, for he less will rue, Than thus to find me lost, yet feel me true. And ah! kind Richard (for I know De Born), Should he by frenzied act, or word of scorn, Insult thy name, or mine, in pity spare,— Think how thy sister wrong'd him, and forbear; It were a torture yet to dread that those I cherish most, should ever meet as foes.' " " Ail gracious Heaven! th' astonished fathercried, Λ Was that the cause which tamed the Lion's pride? > A lamb to Bertrand, fierce to all beside! j Who knew him best believed it struggling shame, That he had urged thy vows, and conscience made him tame!" " Hermit, they knew him not, and I was wrong! My fancied wisdom did not cheat me long. I heard how Bertrand's hate our house pursued, Till 'gainst my father's throne his first-born stood, And Richard, when he sought his promis'd bride And rightful dukedom, both so long denied, 870 From his unnatural rage to Philip's aid Was forced to fly, by him at last betray'd.
-I knew too late, while writhing with the smart, From my kind Lord to hide ray bleeding heart, To let no sigh my inward grief betray, And check the tear he still would kiss away; Still in his sight with feign'd delight I smil'd, Alone, my thoughts would madden o'er my child. I might seem blest, yet pining day by day, As flowers decline beneath too warm a ray; 880 For poisons may be viewless as the beam, Nor give a colour to the tainted stream. Oh! had his harshness but excused my woe, Or given one scalding tear pretence to flow; Of all my pangs his kindness gave the worst, I was ungrateful, and I felt accurst! " The stormiest ocean must have rest at last. Years fled—my bitterness of grief was past; His worth awaked esteem,—my child grew dear, And how did Richard's glory soothe my ear! 890 Till he was captive, and I heard, oh shame! That Bertrand stamp'd him with a murdei er's name! "Thou gioan'st again,—but ah! that night of dread! I seem'd to die!—a vengeful angel } ed Me, trembling, through the realms of penal flame; Thousands I saw of yet unsullied fame.
-Who writhe for secret guilt, though glory write Their names on brass; —but most he fix'd my sight On one, a ghastly trunk distain'd with gore, And in his hand his sever'd head he bore. p 900 ** ( Lo! who was Bertrand once! frank, loyal, true; But he with hatred dared the good pursue: Against his Sovereign and his friend conspire, And bade a son in arms affront his sire. He was the tempting fiend, th' Achitophel Who led this second Absalom to hell; That those whom heaven had join'dhe dared to sever, He bears his guilty head disjoin'd for ever/ ťí I shrunk away,—but wheresoe'er I turn'd, Before me still the dreadful spectre burn'd; 910 Towards me it seem'd the livid head to hold, The blue lips moved, the flaming eyeballs roll'd! " ŕ I led my Prince to crime—for that I groan, And heaven is just—but not to me alone; — Whose soul the burthen of my sins shall bear? For whom does hell a hotter flame prepare?' " I see his fiendish laugh—I hear again Those dreadful accents, branded on my brain!— I woke, for nature could endure no more, And fled for peace to Sion's sacred shore. 920 VOL. II, S
-Oh! Father \ is there mercy yet in heaven? Can I save him, or be myself forgiven?" But he replies not—on his hands outspread, Veil'd in his cowl, is bow'd his holy head; They fell—" And does he sleep!" the Pilgrim cried, And drew with angry grasp his hood aside— She shrieks, for ah! too well she knew the face, Through guilt, and time, and sorrow's deepest trace; And Bertrand too revived—upon the sand He knelt with kindling look, he seiz'd her hand. 930 " Friend of the wretched! first to Thee I raise, And Thou shalt read, th' unutterable praise. Oh! I had deem'd the hour that told me this Had been ray death,—but 'tis o'erwhelming bliss! I'd rather know myself a wretch, than hold My friend ungrateful, or my mistress cold;— Helen! sweet Helen! oh! to breathe again That name, nor think thy brightness has a stain!— Load not thy soul with sins another wrought, For heaven were hell, by thy perdition bought. 940 Can sorrow seek relief in crime alone? My misery was thy work, my guilt my own. And did'st thou think Amanda could subdue This heart?~yet ah! i deem'd thee treacherous too.
-Thy judgment err'd, our mutual pangs attest The path of truth must ever be the best; The only path which safe through toil and fear, Leads to the goal, and ends not in a snare.— But thou art faint again! my zeal transgress'd, Nor saw thy wasted frame had need of rest: 950 Go to that couch! in years of hope and love, Know'st thou by whom that faded scarf was wove? The heath is soft, and oh! may every flower With holiest balm thy wither'd strength restore, And angels soothe thee. When the tempests lour, Such couch is mine,—but now some mountain crest; There will I pray for blessings on thy rest, Till morning break, and we together raise, With hope renew'd, the strain of prayer and praise." " Stay! Bertrand, stay! 'tis but one little hour— I ne'er shall see the flush of morning more; Thy gentle words have calm'd my burning brain, My strength is ebbing,—'twas the strength of pain. Wilt thou not pray with me, that I may die By thee forgiven, and hoping peace on high?" " Forgive thee, Helen! Pray with thee!" he cried, And placed her kneeling by the altar's side; s 2
-" May the pure Virgin never plead for me, If my wot'bt madness wish'd a pang to thee." " Oh, ever kind!" she breath'd—the altar stays Her clasp'd and bloodless hands, her earnest gaze Fix'd on the Cross, her cheek as coldly fair, Her look unchanging as the image there. But Bertrand stood, aloft his arms were spread, His penance-faded cheek had lost its red; But when his heart to fame and love beat high, Ne'er had such splendours lighten'd from his eye. (( Thou, holiest Virgin! Thou, the Sire of Heaven! Thou, in whose death man trusts to be forgiven; And Thou, the Comforter, who now hast pour'd 980 Thy balsam here, be each and all ador'd!— Behold this kneeling victim, ye who hear The secret sigh, and see the lonely tear í Such tears, 'tis said, shall quench the scarlet stain, And shall they plead before your throne in s r ain? While in your Name, that Name for ever blest, л I here absolve her sin, Great Power! attest \ The solemn pledge, and heal the wounded breast, у Oh î I am dark with guilt; yet if the noon, The dawn, the vesper hour, the midnight moon 990
-Have heard my groans, have seen me kneeling here, Oh! let my sorrows never reach your ear; For me no Saint have sued, no Saviour bled, Ere my least fault be charged on Helen's head. How oft have 1 at highest altars stood, To curse my King, to ask his sacred blood! Thou heard'st me not, О God! for that be Thou For ever prais'd: but hear me, hear me now! Now, when I call thine angel host to shed Their richest unction on his holy head!— 1000 Hc prosper'd in the curse a villain breath'd, Now be his brows with brighter glory wreath'd; Each tale, by malice forged to blight his fame, Oh! let it cling but to my guilty name! Be mine accurs'd, forgot, while day by day, His wins from every sun a brighter ray! " Father of mercy! read the grateful zeal That mocks our words, our chasten'd bosoms heal! Make every wish, each inmost thought thine own! Lo î we have kiss'd the rod—Thy will be done!"— Awhile he bow'd his head in silent prayer— He rose, his Helen still was kneeling there; Her glance was upward, on her cheek there shone The calm of holiest joy,—but life was gone. s 3
-" This task should not be mine, but it shall prove A sacred sadness, less of grief than love." On her cold breast the crucifix he laid, And wreath'd with virgin flowers her lifeless head; Chaunts o'er her bier the solemn prayers of death, With voice unfaltering gives the requiem breath; Then laid her in the grave he meant his own, And, as he flung him on the senseless stone: " I had not thought in distant lands to hear Of thy last breath, nor shed a single tear î Is my heart cold before its hour?" he cried, " Or have my sins the fount of sorrow dried?"— He thought of other days, while long his bane, For a last struggle pride revived again. " My name dies with me—not a kinsman, none Shall claim my heritage when I am gone. 1030 My brother!—oh! how vain, how dark, appears All the long discord of our early years; Would I could now what then I sought resign, That life (my life) and all the land were thine I Hautefort! thy towers have lost their feudal state, No banner'd throngs are pouring from thy gate; Thy trophied arms shall be the vulture's nest, And ravens scream where kings were proud to rest;
-Nay, should some passing wanderer ask who sway'd In those proud halls, majestic though decay'd, 1040 My peasants, vassals of some chief abhorr'd, May pause, forgetful of their ancient Lord. Yet there were time to seek for love and fame, To build another race, a fairer name: But no!"—and on his lips there beam'd again, A smile that had no bitterness, no pain; " My hours are number'd,—nay, 1 must not meet My injur'd friend, and cast me at his feet; Hope, love, and hatred, all that stirr'd me here, Sleep in this grave!—Oh, slept I with them there!— Sweet Saint! *or never unblest spirit shed A smile so heavenly on the lips it fled; Sweet, sainted Helen! from thy world of bliss, Look on the wretch still doom'd to crawl in this; And pray that soon our sever'd fates may join, My griefs sleep here, my soul ascend to thine."— One eve, the faithful mule that brought his food Return'd, unlighten'd of its weekly load; And Anna's wondering monks, who sought the cave, Found him, still strech'd upon his Helen's grave, Lifeless and cold as she that slept beneath. They laid him by her side; their chaunt of death s 4
-Peal'd o'er the closing stone; —a cross arose, That still to many a holy Pilgrim shews Where Helen's soul its load of anguish cast, Where Bertrand's fiery spirit rests at last.,END OF BOOK XIV,
-CŒUR DE LION.,BOOK XV.,THE RETURN OF RICHARD.
-ARGUMENT.,THE RETURN OF RICHARD. The attempted treachery of the Emperor, and noble firmness of the German Princes — Return of Richard to England; his transactions there, and departure — Behaviour of Pardo in the Paradise of Hassan; he?'esists the tears of Maimoune, and demands his pro¬ mised freedom from the Assassin — Maimoune saves him from his vengeance, and becomes hei'self its victim — Appearance of Hassan to Pardo in the Desert — His threats — He summons Maimoune and Amina — The death of Hassan — Wanderings and danger of Pardo and Amina — Interposition and gratitude of Maimoune — They reach the encamp¬ ment of Aladin, who relates the successes of the Soldan and distress of Jaffa, — Arrival at the Forest Fountain — The Trophy — Pardo resumes his arms and readies Jaffa on tiie evening of a solemn fast — He finds tlie town pledged to surrender on the follow¬ ing noon, if not relieved — The moment arrives — The sails of Richard are seen in the distance — The Chris¬ tians rush to battle; are overwhelmed by numbers — The mistake of Richard, and intrepidity of Pardo — Richard lands, and obtains the victory — Death of Mirzalis, and danger of Saladine.
-CŒUR DE LION.,BOOK XV.,THE RETURN OF RICHARD. Thou, Loyal Spirit! in the noble mind Who dwell'st with all of generous and refined, Thou, whom a happy realm exults to feel, Source of her public fame, her private weal; And boasts she gave,—oh, be it long her pride! — Thy home, when banish'd from the world beside: Ne'er was thy call with readier love obey'd, Ne'er at thy shrine were purer offerings paid, Than ssdien his weeping myriads vied to bring Their several portion, and release their King. 10
+My fancied foe now reign’d in Perigord,<br>
+De Born but stayed to give her to her Lord,<br>
+And grace, as friendship bade, the bridal feast,<br>
+Which Talleyrand display’d for every guest.[^44]<br>
+My brother’s pitying heart was still the same,<br>
+His patience sooth’d me, and forbore to blame;<br>
+“And oh!’ I pleaded, ‘by our early years,<br>
+By my lost peace, by all these fruitless tears,<br>
+Since I and Bertrand ne’er must meet again,<br>
+Let him believe me false, unfeeling, vain;<br>
+Think that my worldly soul to Mammon sold,<br>
+Loved his frank homage less than rank or gold;<br>
+Let him despise me, for he less will rue,<br>
+Than thus to find me lost, yet feel me true.<br>
+And ah! kind <span class="smallcaps">Richard</span> (for I know De Born),<br>
+Should he by frenzied act, or word of scorn,<br>
+Insult thy name, or mine, in pity spare,—<br>
+Think how thy sister wrong’d him, and forbear;<br>
+It were a torture yet to dread that those<br>
+I cherish most, should ever meet as foes.’”<br>
+&emsp;“All gracious Heaven!” th’ astonished father cried,<br>
+“Was that the cause which tamed the Lion’s pride?<br>
+A lamb to Bertrand, fierce to all beside!<br>
+Who knew him best believed it struggling shame,<br>
+That he had urged thy vows, and conscience made him tame!”<br>
+&emsp;“Hermit, they knew him not, and I was wrong!<br>
+My fancied wisdom did not cheat me long.<br>
+I heard how Bertrand’s hate our house pursued,<br>
+Till ’gainst my father’s throne his first-born stood,<br>
+And <span class="smallcaps">Richard</span>, when he sought his promis’d bride<br>
+And rightful dukedom, both so long denied,<br>
+From his unnatural rage to Philip’s aid<br>
+Was forced to fly, by him at last betray’d.<br>
+I knew too late, while writhing with the smart,<br>
+From my kind Lord to hide my bleeding heart,<br>
+To let no sigh my inward grief betray,<br>
+And check the tear he still would kiss away;<br>
+Still in his sight with feign’d delight<br>
+I smil’d, Alone, my thoughts would madden o’er my child.<br>
+I might seem blest, yet pining day by day,<br>
+As flowers decline beneath too warm a ray;<br>
+For poisons may be viewless as the beam,<br>
+Nor give a colour to the tainted stream.<br>
+Oh! had his harshness but excused my woe,<br>
+Or given one scalding tear pretence to flow;<br>
+Of all my pangs his kindness gave the worst,<br>
+I was ungrateful, and I felt accurst!<br>
+&emsp;“The stormiest ocean must have rest at last.<br>
+Years fled—my bitterness of grief was past;<br>
+His worth awaked esteem,—my child grew dear,<br>
+And how did <span class="smallcaps">Richard’s</span> glory soothe my ear!<br>
+Till he was captive, and I heard, oh shame!<br>
+That Bertrand stamp’d him with a murderer’s name!<br>
+&emsp;“Thou groan’st again,—but ah! that night of dread!<br>
+I seem’d to die!—a vengeful angel led<br>
+Me, trembling, through the realms of penal flame;<br>
+Thousands I saw of yet unsullied fame.<br>
+Who writhe for secret guilt, though glory write<br>
+Their names on brass;—but most he fix’d my sight<br>
+On one, a ghastly trunk distain’d with gore,<br>
+And in his hand his sever’d head he bore.<sup>p</sup><br>
+&emsp;“‘Lo! who was Bertrand once! frank, loyal, true;<br>
+But he with hatred dared the good pursue:<br>
+Against his Sovereign and his friend conspire,<br>
+And bade a son in arms affront his sire.<br>
+He was the tempting fiend, th’ Achitophel<br>
+Who led this second Absalom to hell;<br>
+That those whom heaven had join’d he dared to sever,<br>
+He bears his guilty head disjoin’d for ever.’<br>
+&emsp;“I shrunk away,—but wheresoe’er I turn’d,<br>
+Before me still the dreadful spectre burn’d;<br>
+Towards me it seem’d the livid head to hold,<br>
+The blue lips moved, the flaming eyeballs roll’d!<br>
+&emsp;“‘I led my Prince to crime—for that I groan,<br>
+And heaven is just—but not to me alone;—<br>
+Whose soul the burthen of *my* sins shall bear?<br>
+For whom does hell a hotter flame prepare?’<br>
+&emsp;“I see his fiendish laugh—I hear again<br>
+Those dreadful accents, branded on my brain!—<br>
+I woke, for nature could endure no more,<br>
+And fled for peace to Sion’s sacred shore.<br>
+Oh! Father! is there mercy yet in heaven?<br>
+Can I save him, or be myself forgiven?”<br>
+&emsp;But he replies not—on his hands outspread,<br>
+Veil’d in his cowl, is bow’d his holy head;<br>
+They fell—“And does he sleep!” the Pilgrim cried,<br>
+And drew with angry grasp his hood aside—<br>
+She shrieks, for ah! too well she knew the face,<br>
+Through guilt, and time, and sorrow’s deepest trace;<br>
+And Bertrand too revived—upon the sand<br>
+He knelt with kindling look, he seiz’d her hand.<br>
+&emsp;“Friend of the wretched! first to Thee I raise,<br>
+And Thou shalt read, th’ unutterable praise.<br>
+Oh! I had deem’d the hour that told me this<br>
+Had been my death,—but ’tis o’erwhelming bliss!<br>
+I’d rather know myself a wretch, than hold<br>
+My friend ungrateful, or my mistress cold;—<br>
+Helen! sweet Helen! oh! to breathe again<br>
+That name, nor think thy brightness has a stain!<br>
+Load not thy soul with sins another wrought,<br>
+For heaven were hell, by thy perdition bought.<br>
+Can sorrow seek relief in crime alone?<br>
+My misery was thy work, my guilt my own.<br>
+And did’st thou think Amanda could subdue<br>
+This heart?—yet ah! I deem’d thee treacherous too.<br>
+Thy judgment err’d, our mutual pangs attest<br>
+The path of truth must ever be the best;<br>
+The only path which safe through toil and fear,<br>
+Leads to the goal, and ends not in a snare.—<br>
+But thou art faint again! my zeal transgress’d,<br>
+Nor saw thy wasted frame had need of rest:<br>
+Go to that couch! in years of hope and love,<br>
+Know’st thou by whom that faded scarf was wove?<br>
+The heath is soft, and oh! may every flower<br>
+With holiest balm thy wither’d strength restore,<br>
+And angels soothe thee. When the tempests lour,<br>
+Such couch is mine,—but now some mountain crest;<br>
+There will I pray for blessings on thy rest,<br>
+Till morning break, and we together raise,<br>
+With hope renew’d, the strain of prayer and praise.”<br>
+&emsp;“Stay! Bertrand, stay! ’tis but one little hour—<br>
+I ne’er shall see the flush of morning more;<br>
+Thy gentle words have calm’d my burning brain,<br>
+My strength is ebbing,—’twas the strength of pain.<br>
+Wilt thou not pray with me, that I may die<br>
+By thee forgiven, and hoping peace on high?”<br>
+&emsp;“Forgive thee, Helen! Pray with thee!” he cried,<br>
+And placed her kneeling by the altar’s side;<br>
+“May the pure Virgin never plead for me,<br>
+If my worst madness wish’d a pang to thee.”<br>
+&emsp;“Oh, ever kind!” she breath’d—the altar stays<br>
+Her clasp’d and bloodless hands, her earnest gaze<br>
+Fix’d on the Cross, her cheek as coldly fair,<br>
+Her look unchanging as the image there.<br>
+But Bertrand stood, aloft his arms were spread,<br>
+His penance-faded cheek had lost its red;<br>
+But when his heart to fame and love beat high,<br>
+Ne’er had such splendours lighten’d from his eye.<br>
+&emsp;“Thou, holiest Virgin! Thou, the Sire of Heaven!<br>
+Thou, in whose death man trusts to be forgiven;<br>
+And Thou, the Comforter, who now hast pour’d<br>
+Thy balsam here, be each and all ador’d!—<br>
+Behold this kneeling victim, ye who hear<br>
+The secret sigh, and see the lonely tear!<br>
+Such tears, ’tis said, shall quench the scarlet stain,<br>
+And shall they plead before your throne in vain?<br>
+While in your Name, that Name for ever blest,<br>
+I here absolve her sin, Great Power! attest<br>
+The solemn pledge, and heal the wounded breast,<br>
+Oh! I am dark with guilt; yet if the noon,<br>
+The dawn, the vesper hour, the midnight moon<br>
+Have heard my groans, have seen me kneeling here,<br>
+Oh! let my sorrows never reach your ear;<br>
+For me no Saint have sued, no Saviour bled,<br>
+Ere my least fault be charged on Helen’s head.<br>
+How oft have I at highest altars stood,<br>
+To curse my King, to ask his sacred blood!<br>
+Thou heard’st me not, О God! for that be Thou<br>
+For ever prais’d: but hear me, hear me now!<br>
+Now, when I call thine angel host to shed<br>
+Their richest unction on his holy head!—<br>
+He prosper’d in the curse a villain breath’d,<br>
+Now be his brows with brighter glory wreath’d;<br>
+Each tale, by malice forged to blight his fame,<br>
+Oh! let it cling but to my guilty name!<br>
+Be mine accurs’d, forgot, while day by day,<br>
+His wins from every sun a brighter ray!<br>
+&emsp;“Father of mercy! read the grateful zeal<br>
+That mocks our words, our chasten’d bosoms heal!<br>
+Make every wish, each inmost thought thine own!<br>
+Lo! we have kiss’d the rod—Thy will be done!”<br>
+&emsp;Awhile he bow’d his head in silent prayer—<br>
+He rose, his Helen still was kneeling there;<br>
+Her glance was upward, on her cheek there shone<br>
+The calm of holiest joy,—but life was gone.<br>
+&emsp;“This task should not be mine, but it shall prove<br>
+A sacred sadness, less of grief than love.”<br>
+On her cold breast the crucifix he laid,<br>
+And wreath’d with virgin flowers her lifeless head;<br>
+Chaunts o’er her bier the solemn prayers of death,<br>
+With voice unfaltering gives the requiem breath;<br>
+Then laid her in the grave he meant his own,<br>
+And, as he flung him on the senseless stone:<br>
+&emsp;“I had not thought in distant lands to hear<br>
+Of thy last breath, nor shed a single tear!<br>
+Is my heart cold before its hour?” he cried,<br>
+“Or have my sins the fount of sorrow dried?”<br>
+&emsp;He thought of other days, while long his bane,<br>
+For a last struggle pride revived again.<br>
+“My name dies with me—not a kinsman, none<br>
+Shall claim my heritage when I am gone.<br>
+My brother!—oh! how vain, how dark, appears<br>
+All the long discord of our early years;<br>
+Would I could now what then I sought resign,<br>
+That life (my life) and all the land were thine!<br>
+Hautefort! thy towers have lost their feudal state,<br>
+No banner’d throngs are pouring from thy gate;<br>
+Thy trophied arms shall be the vulture’s nest,<br>
+And ravens scream where kings were proud to rest;<br>
+Nay, should some passing wanderer ask who sway’d<br>
+In those proud halls, majestic though decay’d,<br>
+My peasants, vassals of some chief abhorr’d,<br>
+May pause, forgetful of their ancient Lord.<br>
+Yet there were time to seek for love and fame,<br>
+To build another race, a fairer name:<br>
+But no!”—and on his lips there beam’d again,<br>
+A smile that had no bitterness, no pain;<br>
+“My hours are number’d,—nay, I must not meet<br>
+My injur’d friend, and cast me at his feet;<br>
+Hope, love, and hatred, all that stirr’d me here,<br>
+Sleep in this grave!—Oh, slept I with them there!—<br>
+Sweet Saint! for never unblest spirit shed<br>
+A smile so heavenly on the lips it fled;<br>
+Sweet, sainted Helen! from thy world of bliss,<br>
+Look on the wretch still doom’d to crawl in this;<br>
+And pray that soon our sever’d fates may join,<br>
+My griefs sleep here, my soul ascend to thine.”<br>
+&emsp;One eve, the faithful mule that brought his food<br>
+Return’d, unlighten’d of its weekly load;<br>
+And Anna’s wondering monks, who sought the cave,<br>
+Found him, still strech’d upon his Helen’s grave,<br>
+Lifeless and cold as she that slept beneath.<br>
+They laid him by her side; their chaunt of death<br>
+Peal’d o’er the closing stone;—a cross arose,<br>
+That still to many a holy Pilgrim shews<br>
+Where Helen’s soul its load of anguish cast,<br>
+Where Bertrand’s fiery spirit rests at last.
+
+![curlicue](../cue.jpg)
+
+<a id="book15"></a>
+## Book XV
+
+### The Return of Richard
+
+Thou, Loyal Spirit! in the noble mind Who dwell'st with all of generous and refined, Thou, whom a happy realm exults to feel, Source of her public fame, her private weal; And boasts she gave,—oh, be it long her pride! — Thy home, when banish'd from the world beside: Ne'er was thy call with readier love obey'd, Ne'er at thy shrine were purer offerings paid, Than ssdien his weeping myriads vied to bring Their several portion, and release their King. 10
 The poor his mite, untax'd the Abbot yields' 1 His gold, the lord the produce of his fields: Yet time roll'd on; and all on Syria's shores, Or war-vex'd England, count the weary hours; For two there were, whose secret treachery strove To render vain a generous nation's love; Philip of France, and he whose impious sword At once assail'd his brother and his Lord. ’Twas now at Spires,—for Richakd, as in sport, Was doom'd to follow that capricious court,— 20 Th' Imperial Synod met; from England there, Her envoys half th' expected ransom bear; The rest ssith willing zeal shall London bring, When her proud gates again enfold their King. The Monarch hails his hour of freedom nigh, And every noble breast is touch'd with joy; When Henry, rising, with a gloomy look, Whose fiendish malice wither'd ere he spoke, Two scrolls unfurlV: the first display'd to view The Gallic lilies on their lake of blue; 30 The next—oh! whose the rebel hand might dare To fix proud England's regal lions there? (C From France and England,—for his nobles now To valiant John that kingly name allow,—
 Friendship and love these welcome scrolls convey, With liberal proffers;—wealth for every day We guard our captive; so may discord cease, b And Europe prosper in the shade of peace. Methinks some short delay, devoid of blame, Our vows may pardon, and their friendship claim." In silence Richard heard the words of guile, His hope sunk low, but scorn enforced the smile; " Perjur'd and base!" th' indignant Envoys cry, " Restore his ransom, or his chains destroy." When rising with one will, th' Imperial Lords Touch'd their rich croziers or their glittering swords: ťí Have we not sworn?" c a voice of thunder says, And Henry shrunk from virtue's angry gaze; iC Nay! think not I could let dishonour sway, Delay is all I seek,—a short delay." 50 " Delay, and reign no more!" The echoes round Seemed pleased to double the portentous sound; When lo, new terrors!—Longchamp entering there, Deigns no obeisance to th' Imperial chair; But briefly greets the Primate of Cologne: <c Now Brother, make this sacred mandate known!" All stood aghast,—but most was Henry pale, He knew the golden keys, the Pontiffs seal.
 Solemn and slow Rinaldo then began The dread Anathema, the Holy Ban 60 That breaks allegiance, arms the subject's hand Against his Lord, and spreads o'er all the land Funereal gloom; when closed is every fane, Nor may confession ease the heart of pain. No sacrament is given, nor prayers are said, Nor nuptial rites, nor requiem for the dead, Nor vows baptismal; ec and this Curse shall hold On Cæsar's head, and Austrian Leopold, Till, moved by fear or conscience, they restore The English Richard to his subject shore; 70 And This on Him who seeks his Brother's life, And faithless France, till they forego the strife, Waged in contempt of Clermont's holy laws, On one, the Champion of his Saviour's cause. He who for Her nor blood nor wealth has spared, The Church adopts her son, the Church shall guard." Oft had his Sire the Pontiff's power defied, When his ambitious Lords upheld his pride: But Henry stood alone, his crimes arise In ghastly phalanx to his shuddering eyes; 80 He feels the curse:—he seems already chased From his high throne, and hunted o'er the waste;
@@ -5658,7 +5880,7 @@ Note (k), page 277, line 217. But a new day rose brighter than the last. Hoveden
 Note (n), page 288, line 478 Sole living thing, that seems to live on air. A small spider, called the naga-t' allah, or " she camel of God," is sometimes the only animal to be seen for many days, and has no visible source of subsistence. Note, page 288, line 492. And from their loves the sainted Martyr sprung. This incident, since so often fabled, seems to have been his¬ torically true of the parents of St. Thomas à Becket. Note (p), page 288, line 496. Beheld the generous Moor restore his crown. The adventures of Sancho, brother to Berengaria, and his Moorish mistress, with the assistance afforded him by the Mirammolin in the recovery of his crown, are related at some length by Hoveden, and might furnish materials for three or four romances. Note (q), page 289, line 517. Ebbs from each burning limb and bursting vein. Some travellers assert that the dryness occasioned by the simoom is such as to cause the flesh to crack; so that the sufferer sometimes expires from the consequent loss of blood. Others give a much milder account of its operation, which is probably very various. The most dreadful which I have met with, relates to the Red Desert of Persia. Note (r), page 291, line 548. Their lips are yellow with the crust of death. In the case of persons perishing by thirst in the desert, shortly before death the lips, and all the inside of the moutli, become covered with a yellow crust resembling was.
 Note (s), page 292, une 572. The juicy melon's sweet and copious draught. The water-melon, in such regions truly the most precious of fruits, is occasionally found growing in the sand, in the dryest parts of the desert, where its appearance seems little less than miraculous. Note (s), page 294, line 616. What seeks the Prince who spurns afriend like me? The'particulars of this revolt, and the two letters of Sala¬ dine, are historical. Note (t), page 311, line 1020. He spoke, and sunk exhausted in the wave. The monarch had seen the yellow flags of Saladine on the ramparts, and turned his vessels from a port which he believed already in the hands of his enemies. Jaffa would have been lost, but for the presence of mind and intrepidity of the swimmer. The historical account of the events of this siege have perhaps a stronger interest than can easily be given to a poetical narration. Note (u), page 315, line 1119. Led for his use—cried generous Saladine. See the " Histoire de Saladine.",BOOK XVI. Note (a), page S30, line 159. In Sejjin, record of the wrath divine. Sejjin is the name of the general register, in which are inscribed the actions of the wicked; as Illiyyun is of that
 whícli contains the actions of the good. Tasnim is the highest fountain of Paradise; those who are privileged to drink its waters unmixed, shall approach near to the throne of God, and be incessantly employed in the contemplation of the Divinity— Koran. Note (b), page 330, line 167. Confusion, Death, upon his impious head. In the memorable battle of Beder, the first victory of the Faithful, in which Mahommed demanded the succour of Ga¬ briel and three thousand angels; his little troop was beginning to yield before the numbers of the Koreish, when the Prophet, starting from the throne on which he viewed the battle, cast a handful of sand into the air, and exclaimed, '·' let their faces be covered with confusion." The eifect was instanta¬ neous and decisive; both armies in fancy beheld the angelic warriors; the Koreish trembled and fled.— Gibbon, Decline and Fail, vol. 9. Note (c), page 345, line 502. Meet sin and judgment —/, by birth a Queen! At the time when the monarchs of France pretended to the title of King of Kings, its Princesses affected that of Queen, which was sometimes given to Alasia; but whether in compliment to her birth, or to her contract with Richard, I am uncertain. Note (d), page 345, line 503. And if I cannot, like some Sovereigns, kneel. An allusion to the penance of Henry the Second, after the murder of Becket; and to some of the effects of Richard's remorse on the loss of liis father, to whose death he accused himself of having at least contributed by his rebellious con¬ duct. VOL. II. 2 E
-Note (e), page 354, line 713. Tke easy price of that triumphant day. Only two persons of any note are said to have peribhed on the Christian side in the double battle of Jaffa, which may certainly be reckoned among the most extraordinary in history. Those who may be desirous of perusing its details, will find many interesting particulars fn the Histoire de Saladin, and the Histories of the Crusades; but Gibbon's short account is perhaps more flattering to the fame of Richard Cœur »e Lion, than any thing else which has been written respecting hira; unless it be Mr. Sharon Turner's admirable sketch of his reign, in his History of England. The terms of the treaty between Richard and Saladine, and the facts on which the concluding pages of the poem are founded, are in the histories of the Crusades. Some liberties have been taken, especially in condensing into one scene the solemn swearing of the peace at Ramla, the accomplishment of the vows of the Crusades, the celebra¬ tion of mass in the church of the Holy Sepulchre, and the behaviour of Saladine on witnessing the descent of the Sacred Fire; but almost all the circumstances are historical.
+Note (e), page 354, line 713. Tke easy price of that triumphant day. Only two persons of any note are said to have peribhed on the Christian side in the double battle of Jaffa, which may certainly be reckoned among the most extraordinary in history. Those who may be desirous of perusing its details, will find many interesting particulars fn the Histoire de Saladin, and the Histories of the Crusades; but Gibbon's short account is perhaps more flattering to the fame of Richard Cœur de Lion, than any thing else which has been written respecting hira; unless it be Mr. Sharon Turner's admirable sketch of his reign, in his History of England. The terms of the treaty between Richard and Saladine, and the facts on which the concluding pages of the poem are founded, are in the histories of the Crusades. Some liberties have been taken, especially in condensing into one scene the solemn swearing of the peace at Ramla, the accomplishment of the vows of the Crusades, the celebra¬ tion of mass in the church of the Holy Sepulchre, and the behaviour of Saladine on witnessing the descent of the Sacred Fire; but almost all the circumstances are historical.
 
 
 [^1]: Valour, and the passion for crusading, were hereditary in the family of D'Avesnes; and Gerard, the ancestor of James, was appointed to the government of Arsouf, on its reduction by Godfrey of Bouillon. The funeral of James D'Avesnes was celebrated by <span class="smallcaps">Richard</span> with peculiar honour, on the day succeeding the battle of Arsouf.
@@ -5755,3 +5977,4 @@ Note (e), page 354, line 713. Tke easy price of that triumphant day. Only two pe
 
 [^43]: <span class="smallcaps">Richard</span> declared that unless his whole life had proved him incapable of such an action, it was useless to assert his innocence.
 
+[^44]: The daughter of Turenne married Talleyrand, Count of Perigord. I cannot help being interested in the early annals of houses, which have since so largely influenced the fortunes of the world.
