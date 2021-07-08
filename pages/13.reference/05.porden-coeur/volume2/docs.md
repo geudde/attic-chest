@@ -5054,7 +5054,7 @@ I tore it down—but if it wrought such hate.<br>
 Why not acknowledge then, or shewn so late<br>
 Must Conrad’s death the poor pretext supply?<br>
 But ’tis enough,—unless my life belie<br>
-That foulest charge, I stoop not to deny.”[^43]
+That foulest charge, I stoop not to deny.”[^43]<br>
 &emsp;He paus’d, for Albert rose: “Forgive,” he said,<br>
 &emsp;“Th’ intrusive speech, but while I still delay’d<br>
 On Syria’s shore, a wretch before us stood,<br>
@@ -5152,12 +5152,135 @@ Or yield allegiance to his crown no more.<sup>k</sup><br>
 On their free vows the dauntless King reposed,<br>
 And Henry parted, and the Council closed.
 
-Meanwhile in Palestine the months roll'd on, And Spring dawn'd bright on finish'd Ascalon. Already Albert comes: proclaims with joy, His Sovereign found, and bids them hope him nigh. Now either host the genial year inspires With martial zeal, with rival ardour fires; Yet who might think, to see the blended train, They once were foes, and shall be foes again? 540 Arabs with Christians break a harmless lance, To Arab lutes the merry Christians dance ý White mutual presents mutual kindness bound, This gives a hawk, and that returns a hound. Led by the Arabs, now the Knights invade The boar or panther in his native shade; By Christians taught, the Arabs course the hare, Or mark the falcon wage the fight in air j And when the Christians seek the fierce Castille, Or their light bands in mimic skirmish wheel, 550 The generous Saladine in wonder sees, * f Who may contend with foes whose sportsåre these?" 1 " VOL. II. R
-And now, disbiirthen'd of her heaviest cares, In each gay scene the calm Matilda shares; Evanthe's bloom revives, and joy inspires Gay Hermesind's dark eye with keener fires; Elate when cail'd the evening dance to lead, Or at the tilt bestow the victor's meed. Once for that envied meed the Knight unknown Knelt at her feet, yet still his vizor down; 560 O'er his green helm the laurel wreath she threw, Then as she held the token forth to view, " May this poor glove," she said with winning grace, te Beneath that trophy find an honour'd place, Proof that thy heart, as courteous as 'tis brave, Scorns not her thanks whom thou hast deign'd to save." ic Nay, loveliest work of Nature's master-hand! My only badge must be this laurel band; I seiwe a jealous goddess, nor must wear The pledge of mortal maid, however fair j 570 Would'st thou be grateful, wait awhile," he said, " Then weave my shroud for Honour's bridal bed." His voice had sunk, and something stirr'd her mind, Remembrance vague, and terror undefined; But on her cheek indignant blushes burn'd,— To pale Ricardo's trembling gaze she turn'd;
-" Wilt thou redeem me from unwonted scorn? Shall this poor token on thy casque be worn? The Knights of old, or false our tales declare, Served honour best when best they serv'd the fair;— I, for my sex's fame, this glove require At the next tilt to waken all thy fire; So may'st thou tear yon scornful wreath away, And claim the prize, the thanks misplaced to-day." He kiss'd the precious gift, and would have spoke, When on the sports a strange appearance broke j All clad in pilgrim garb a female baud, The palm and ozier cross in either hand. " From distant shores," they cry, " to every shrine We track the weary plains of Palestine j 590 Weep in each spot to pious memory sweet, Kiss each green turf that bore Messiah's feet; Then let your bounty prove your faith as true, And feed the hungry lips that pray for you." But one of pallid front and lofty mien Sought private audience of Sicilia's Queen; Her veil thrown back, she stood in silence there: " Whence art thou, gentle friend, and what thy prayer? " " Are we then both so changed?" the stranger cries; But at the well-known voice Matilda flies, 600 в 2
-" My sister!" and her tears impetuous throng, To deлv the луагт embrace that held them long. But Helen, as she fix'd her anxious gaze, Spoke луШ1 a smile,—a smile of other days; " What years, Λνΐιαί changes, ah! what griefs have past, My own Matilda! since we parted last í I, wont to seek a King's paternal hall, And lead iu spirit as in rank the ball j To shine at jousts the gayest of the gay, Or listen Bertrand's plaintive virelay; 610 (Bewitching dreams, why will ye haunt me yet? When 'tis my wish, my duty to forget;} Thou in thy cell, thy heart no sorrow кпелу, Thine eye no tear, save what devotion drew; While to thy buoyant hope the world unknown, Seemed like that Heaven whence thy young thoughts had flown. Methink this staff and tippet should bc thine; Thy front's ambrosial Λνι -eath should circle mine!" " Yet I had sorrow too," Matilda cried; *' That I have borne, I praise a heavenly guide." 620 " Yes! but thou could'st not madden, day by day, To think thy folly flung thy peace away;
-That thou had'st all which seem'd to make thee blest, Yet not one gleam of sunshine in thy breast: Yes! thou art changed! but not like me, for thou 4 Wert ever calm, and art as lovely now;— > But I—is this my bloom, my open brow? J These dim sunk eyes, oh! grief and death are there— Nay, do not weep to think my rest is near; I did not come, Matilda, to increase 630 Thy woes or mine; I came to pray for peace. Is Bertrand here?" fi Oh no! ere Autumn's rain, He took a pilgrim's garb, nor comes again." i( 'Tis well! we should not meet—but thou may'st say His hatred wrongs my brother—bid him pray Heaven's mercy on that sin, and curse alone The only heart unjust to him—my own." " Nay, Helen! Sister! wherefore feed thy grief? The God that bids us ask can give relief." *' My crime was dark, nor is my penance light, 640 But it is nearly past— we part to-night." fe To-night! dear Helen?" " Yes! our pious band Takes but such rest as nature's wants demand. r 3
-Of late I bade my princely lord farewell, Then sought my brother in his gloomy cell; Frank, generous, gay, as in his youth's first hour, Unbent by sorrow, as unspoil'd by power. This parting is my last, and if again We meet on earth, it shall not be in pain; I pray for peace,—and if in vain I call, 650 I yet shall find it, where 'tis found by all. Thou weep'st again! yet thine are griefs that break But for a moment the clear placid lake; While mine are flaws, that scarcely speck the glass, Yet spread and lengthen till they burst its mass. Once more farewell!"—and her white arms are thrown Around Matilda's neck; she kiss'd her and is gone. The gentle pilgrims still their course pursue, At holy Bethlehem yield observance due, Forbidden Salem's distant towers adore, 660 And trace the winding Jordan's shadowy shore. Diverging now, o'er wide Esdrælon's plain, Jesreel and Nazareth's sacred walls they gain; Till as by Thabor's lonely base they tread, Tiberias' ample lake before them spread,
+Meanwhile in Palestine the months roll’d on,<br>
+And Spring dawn’d bright on finish’d Ascalon.<br>
+Already Albert comes: proclaims with joy,<br>
+His Sovereign found, and bids them hope him nigh.<br>
+Now either host the genial year inspires<br>
+With martial zeal, with rival ardour fires;<br>
+Yet who might think, to see the blended train,<br>
+They once were foes, and shall be foes again?<br>
+Arabs with Christians break a harmless lance,<br>
+To Arab lutes the merry Christians dance;<sup>l</sup><br>
+White mutual presents mutual kindness bound,<br>
+This gives a hawk, and that returns a hound.<br>
+Led by the Arabs, now the Knights invade<br>
+The boar or panther in his native shade;<br>
+By Christians taught, the Arabs course the hare,<br>
+Or mark the falcon wage the fight in air;<br>
+And when the Christians seek the fierce Castille,<br>
+Or their light bands in mimic skirmish wheel,<br>
+ The generous Saladine in wonder sees,<br>
+“Who may contend with foes whose sports are these?”<sup>m</sup><br>
+&emsp;And now, disburthen’d of her heaviest cares,<br>
+In each gay scene the calm Matilda shares;<br>
+Evanthe’s bloom revives, and joy inspires<br>
+Gay Hermesind’s dark eye with keener fires;<br>
+Elate when call’d the evening dance to lead,<br>
+Or at the tilt bestow the victor’s meed.<br>
+Once for that envied meed the Knight unknown<br>
+Knelt at her feet, yet still his vizor down;<br>
+O’er his green helm the laurel wreath she threw,<br>
+Then as she held the token forth to view,<br>
+“May this poor glove,” she said with winning grace,<br>
+“Beneath that trophy find an honour’d place,<br>
+Proof that thy heart, as courteous as ’tis brave,<br>
+Scorns not her thanks whom thou hast deign’d to save.”<br>
+&emsp;“Nay, loveliest work of Nature’s master-hand!<br>
+My only badge must be this laurel band;<br>
+I serve a jealous goddess, nor must wear<br>
+The pledge of mortal maid, however fair;<br>
+Would’st thou be grateful, wait awhile,” he said,<br>
+“Then weave my shroud for Honour’s bridal bed.”<br>
+&emsp;His voice had sunk, and something stirr’d her mind,<br>
+Remembrance vague, and terror undefined;<br>
+But on her cheek indignant blushes burn’d,—<br>
+To pale Ricardo’s trembling gaze she turn’d;
+&emsp;“Wilt thou redeem me from unwonted scorn?<br>
+Shall this poor token on thy casque be worn?<br>
+The Knights of old, or false our tales declare,<br>
+Served honour best when best they serv’d the fair;—<br>
+I, for my sex’s fame, this glove require<br>
+At the next tilt to waken all thy fire;<br>
+So may’st thou tear yon scornful wreath away,<br>
+And claim the prize, the thanks misplaced to-day.”<br>
+&emsp;He kiss’d the precious gift, and would have spoke,<br>
+When on the sports a strange appearance broke;<br>
+All clad in pilgrim garb a female band,<br>
+The palm and ozier cross in either hand.<br>
+&emsp;“From distant shores,” they cry, “to every shrine<br>
+We track the weary plains of Palestine;<br>
+Weep in each spot to pious memory sweet,<br>
+Kiss each green turf that bore Messiah’s feet;<br>
+Then let your bounty prove your faith as true,<br>
+And feed the hungry lips that pray for you.”<br>
+&emsp;But one of pallid front and lofty mien<br>
+Sought private audience of Sicilia’s Queen;<br>
+Her veil thrown back, she stood in silence there:<br>
+“Whence art thou, gentle friend, and what thy prayer?”<br>
+&emsp;“Are we then both so changed?” the stranger cries;<br>
+But at the well-known voice Matilda flies,<br>
+&emsp;“My sister!” and her tears impetuous throng,<br>
+To dew the warm embrace that held them long.<br>
+But Helen, as she fix’d her anxious gaze,<br>
+Spoke with a smile,—a smile of other days;<br>
+&emsp;“What years, what changes, ah! what griefs have past,<br>
+My own Matilda! since we parted last!<br>
+I, wont to seek a King’s paternal hall,<br>
+And lead in spirit as in rank the ball;<br>
+To shine at jousts the gayest of the gay,<br>
+Or listen Bertrand’s plaintive virelay;<br>
+(Bewitching dreams, why will ye haunt me yet?<br>
+When ’tis my wish, my duty to forget;)<br>
+Thou in thy cell, thy heart no sorrow knew,<br>
+Thine eye no tear, save what devotion drew;<br>
+While to thy buoyant hope the world unknown,<br>
+Seemed like that Heaven whence thy young thoughts had flown.<br>
+Methink this staff and tippet should be thine;<br>
+Thy front’s ambrosial wreath should circle mine!”<br>
+&emsp;“Yet I had sorrow too,” Matilda cried;<br>
+“That I have borne, I praise a heavenly guide.”<br>
+&emsp;“Yes! but thou could’st not madden, day by day,<br>
+To think thy folly flung thy peace away;<br>
+That thou had’st all which seem’d to make thee blest,<br>
+Yet not one gleam of sunshine in thy breast:<br>
+Yes! thou art changed! but not like me, for thou<br>
+Wert ever calm, and art as lovely now;—<br>
+But I—is this my bloom, my open brow?<br>
+These dim sunk eyes, oh! grief and death are there—<br>
+Nay, do not weep to think my rest is near;<br>
+I did not come, Matilda, to increase<br>
+Thy woes or mine; I came to pray for peace.<br>
+Is Bertrand here?”<br>
+<span style="margin-left: 8rem;">“Oh no! ere Autumn’s rain,</span><br>
+He took a pilgrim’s garb, nor comes again.”<br>
+&emsp;“’Tis well! we should not meet—but thou may’st say<br>
+His hatred wrongs my brother—bid him pray<br>
+Heaven’s mercy on that sin, and curse alone<br>
+The only heart unjust to him—my own.”<br>
+&emsp;“Nay, Helen! Sister! wherefore feed thy grief?<br>
+The God that bids us ask can give relief.”<br>
+“My crime was dark, nor is my penance light,<br>
+But it is nearly past— we part to-night.”<br>
+&emsp;“To-night! dear Helen?”<br>
+<span style="margin-left: 10rem;">“Yes! our pious band<br>
+Takes but such rest as nature’s wants demand.<br>
+Of late I bade my princely lord farewell,<br>
+Then sought my brother in his gloomy cell;<br>
+Frank, generous, gay, as in his youth’s first hour,<br>
+Unbent by sorrow, as unspoil’d by power.<br>
+This parting is my last, and if again<br>
+We meet on earth, it shall not be in pain;<br>
+I pray for peace,—and if in vain I call,<br>
+I yet shall find it, where ’tis found by all.<br>
+Thou weep’st again! yet thine are griefs that break<br>
+But for a moment the clear placid lake;<br>
+While mine are flaws, that scarcely speck the glass,<br>
+Yet spread and lengthen till they burst its mass.<br>
+Once more farewell!”—and her white arms are thrown<br>
+Around Matilda’s neck; she kiss’d her and is gone.
+
+The gentle pilgrims still their course pursue, At holy Bethlehem yield observance due, Forbidden Salem's distant towers adore, 660 And trace the winding Jordan's shadowy shore. Diverging now, o'er wide Esdrælon's plain, Jesreel and Nazareth's sacred walls they gain; Till as by Thabor's lonely base they tread, Tiberias' ample lake before them spread,
 Whose fruitful shores perpetual harvests rear, And bid the vine blush purple through the year. Its waves they pass, and on its eastern coast See mountain peaks in stormy chaos tost To Jebel's height, whose rounded summits show 670 The velvet softness of eternal snow. Here, in those wilds where long a Saviour trod, And angel-legions serv'd th' acknowledge God; Or he who shew'd the coming light, and gave A holy virtue to the simple wave; Or those the Saints of later times, that fraught With ardent zeal, his great example caught, Here from their kind to rocks and ravens fled, And life sustained with what the desert bred: They kneel at every Cross; yet shuddering hear Of stripes and fasts, and penance most austere; Nor covet, while they praise, a glory bought so dear. Now pine-crown'd cliffs meet darkling overhead, Huge stones their path; beneath, a torrent's bed; And Helen's feet, unus'd to ways so rude, Miss the smooth rock, or stain the stones with blood. She faints—she grasps a crag—one moment more, And she may sink amid the deafening roar. a 4
 Worn like herself, yet form'd of stouter mould, The sister band her sinking frame uphold. 690 No roof is nigh—far distant is the height, Crown'd by the convent they must reach to-night; But where a Cross surmounts yon beetling brow, That shades the cataract, yawns a cave below; There may she rest, a sister at her side, Till Anna's Monks send back a surer guide. Low was the arch, but inward as they wound, Say, do the rocks send forth that solemn sound, The Virgin's vesper hymn? The pious train Repectful paus'd, then rais'd th' accordant strain. 700 The dusky cedars on each chalky brow, The rocks, the caves, the flood that foam'd below, Join the full voice,—from hill to hill it flies, And glen to glen, and stream to stream replies. Still o'er the heights the closing echoes ran, When from the cave appear'd a reverend man; As towards the train his pious hands were spread, One golden sunbeam touch'd his hoary head. <c The peace of heaven, th' eternal peace that knows .Kor change, nor sorrow, on your duteous brows! Yet луЬепсе inspired to trace a path so rude? For, save the mule that brings my weekly food,
 The goat, or eagle ou yon craggy height, For months no living thing hath blest my sight." iC As pilgrims we thy solitude invade, A fainting sister craves thy pious aid." Onward he led where Mary's image stood, And a rude'altar bore a Cross as rude: He from the rock had scoop'd the forms divine, And a rough lamp that burn'd before the shrine. 720 A skull and hour-glass spoke of time and death, A scourge of penance; o'er the wither'd heath, That form'd his couch, a faded scarf he spread, "\ Which had been gorgeous once; (i Approach!" hef said, í And on its folds their senseless load they laid. / (C Our vows, О Hermit! and the coming eve, Forbid delay; but in thy charge we leave Our helpless friend. Thou laugh'st at pomp and power, But she was once a kingdom's fairest flower, And nurs'd iu purple; aid her in her need, 730 For Mary's sake, and to yon convent lead Her steps recovered; so our prayers shall rise, And win thee wealth in worlds beyond the skies." With ivory crucifix, whose classic taste Mock'd the rude sculpture o'er the altar placed,
