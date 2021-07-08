@@ -5195,7 +5195,7 @@ Would’st thou be grateful, wait awhile,” he said,<br>
 &emsp;His voice had sunk, and something stirr’d her mind,<br>
 Remembrance vague, and terror undefined;<br>
 But on her cheek indignant blushes burn’d,—<br>
-To pale Ricardo’s trembling gaze she turn’d;
+To pale Ricardo’s trembling gaze she turn’d;<br>
 &emsp;“Wilt thou redeem me from unwonted scorn?<br>
 Shall this poor token on thy casque be worn?<br>
 The Knights of old, or false our tales declare,<br>
@@ -5263,7 +5263,7 @@ The God that bids us ask can give relief.”<br>
 “My crime was dark, nor is my penance light,<br>
 But it is nearly past— we part to-night.”<br>
 &emsp;“To-night! dear Helen?”<br>
-<span style="margin-left: 10rem;">“Yes! our pious band<br>
+<span style="margin-left: 12rem;">“Yes! our pious band<br>
 Takes but such rest as nature’s wants demand.<br>
 Of late I bade my princely lord farewell,<br>
 Then sought my brother in his gloomy cell;<br>
@@ -5280,11 +5280,87 @@ Yet spread and lengthen till they burst its mass.<br>
 Once more farewell!”—and her white arms are thrown<br>
 Around Matilda’s neck; she kiss’d her and is gone.
 
-The gentle pilgrims still their course pursue, At holy Bethlehem yield observance due, Forbidden Salem's distant towers adore, 660 And trace the winding Jordan's shadowy shore. Diverging now, o'er wide Esdrælon's plain, Jesreel and Nazareth's sacred walls they gain; Till as by Thabor's lonely base they tread, Tiberias' ample lake before them spread,
-Whose fruitful shores perpetual harvests rear, And bid the vine blush purple through the year. Its waves they pass, and on its eastern coast See mountain peaks in stormy chaos tost To Jebel's height, whose rounded summits show 670 The velvet softness of eternal snow. Here, in those wilds where long a Saviour trod, And angel-legions serv'd th' acknowledge God; Or he who shew'd the coming light, and gave A holy virtue to the simple wave; Or those the Saints of later times, that fraught With ardent zeal, his great example caught, Here from their kind to rocks and ravens fled, And life sustained with what the desert bred: They kneel at every Cross; yet shuddering hear Of stripes and fasts, and penance most austere; Nor covet, while they praise, a glory bought so dear. Now pine-crown'd cliffs meet darkling overhead, Huge stones their path; beneath, a torrent's bed; And Helen's feet, unus'd to ways so rude, Miss the smooth rock, or stain the stones with blood. She faints—she grasps a crag—one moment more, And she may sink amid the deafening roar. a 4
-Worn like herself, yet form'd of stouter mould, The sister band her sinking frame uphold. 690 No roof is nigh—far distant is the height, Crown'd by the convent they must reach to-night; But where a Cross surmounts yon beetling brow, That shades the cataract, yawns a cave below; There may she rest, a sister at her side, Till Anna's Monks send back a surer guide. Low was the arch, but inward as they wound, Say, do the rocks send forth that solemn sound, The Virgin's vesper hymn? The pious train Repectful paus'd, then rais'd th' accordant strain. 700 The dusky cedars on each chalky brow, The rocks, the caves, the flood that foam'd below, Join the full voice,—from hill to hill it flies, And glen to glen, and stream to stream replies. Still o'er the heights the closing echoes ran, When from the cave appear'd a reverend man; As towards the train his pious hands were spread, One golden sunbeam touch'd his hoary head. <c The peace of heaven, th' eternal peace that knows .Kor change, nor sorrow, on your duteous brows! Yet луЬепсе inspired to trace a path so rude? For, save the mule that brings my weekly food,
-The goat, or eagle ou yon craggy height, For months no living thing hath blest my sight." iC As pilgrims we thy solitude invade, A fainting sister craves thy pious aid." Onward he led where Mary's image stood, And a rude'altar bore a Cross as rude: He from the rock had scoop'd the forms divine, And a rough lamp that burn'd before the shrine. 720 A skull and hour-glass spoke of time and death, A scourge of penance; o'er the wither'd heath, That form'd his couch, a faded scarf he spread, "\ Which had been gorgeous once; (i Approach!" hef said, í And on its folds their senseless load they laid. / (C Our vows, О Hermit! and the coming eve, Forbid delay; but in thy charge we leave Our helpless friend. Thou laugh'st at pomp and power, But she was once a kingdom's fairest flower, And nurs'd iu purple; aid her in her need, 730 For Mary's sake, and to yon convent lead Her steps recovered; so our prayers shall rise, And win thee wealth in worlds beyond the skies." With ivory crucifix, whose classic taste Mock'd the rude sculpture o'er the altar placed,
-He kneels, and on th' unconscious pilgrim throws The torrent's gelid wave—her eyes unclose. " And have I pray'd for death, yet fear to die!" Inly she groan'd,— ťí Oh! were some Father nigh To hear my parting shrift, to hear and save!" 740 She started up, and glancing round the cave, " Oh blessed Hermit! if thou art indeed, By heaven commission' d at my utmost need, Attend! and may a Gracious God bestow ^ One hour of strength!" She bared her livid brow, ъ- íť Not she who nurs'd myyouthwouldknowmenow,^ But I, when English Henry's name was fear'd, Was deem'd his favourite child, and then appear'd As fed on roses, wild with health and bliss— The weight of secret guilt hath made me this!" 750 The Hermit starts, and as he draws more near His open cowl, replies in tone severe: " Yes, Helen! for upon thy soul shall rest The crimes, th' eternal doom of those who loved thee best." if Have then these deserts breath'd it? Human ear Yet never heard!—Thou man of faith austere, To thee a dying penitent I sue; Be just, yet in thy justice gentle too."
+The gentle pilgrims still their course pursue,<br>
+At holy Bethlehem yield observance due,<br>
+Forbidden Salem’s distant towers adore,<br>
+And trace the winding Jordan’s shadowy shore.<br>
+Diverging now, o’er wide Esdrælon’s plain,<br>
+Jesreel and Nazareth’s sacred walls they gain;<br>
+Till as by Thabor’s lonely base they tread,<br>
+Tiberias’ ample lake before them spread,<br>
+Whose fruitful shores perpetual harvests rear,<br>
+And bid the vine blush purple through the year.<br>
+Its waves they pass, and on its eastern coast<br>
+See mountain peaks in stormy chaos tost<br>
+To Jebel’s height, whose rounded summits show<br>
+The velvet softness of eternal snow.<br>
+Here, in those wilds where long a Saviour trod,<br>
+And angel-legions serv’d th’ acknowledge God;<br>
+Or he who shew’d the coming light, and gave<br>
+A holy virtue to the simple wave;<br>
+Or those the Saints of later times, that fraught<br>
+With ardent zeal, his great example caught,<br>
+Here from their kind to rocks and ravens fled,<br>
+And life sustained with what the desert bred:<br>
+They kneel at every Cross; yet shuddering hear<br>
+Of stripes and fasts, and penance most austere;<br>
+Nor covet, while they praise, a glory bought so dear.<br>
+&emsp;Now pine-crown’d cliffs meet darkling overhead,<br>
+Huge stones their path; beneath, a torrent’s bed;<br>
+And Helen’s feet, unus’d to ways so rude,<br>
+Miss the smooth rock, or stain the stones with blood.<br>
+She faints—she grasps a crag—one moment more,<br>
+And she may sink amid the deafening roar.<br>
+Worn like herself, yet form’d of stouter mould,<br>
+The sister band her sinking frame uphold.<br>
+No roof is nigh—far distant is the height,<br>
+Crown’d by the convent they must reach to-night;<br>
+But where a Cross surmounts yon beetling brow,<br>
+That shades the cataract, yawns a cave below;<br>
+There may she rest, a sister at her side,<br>
+Till Anna’s Monks send back a surer guide.<br>
+&emsp;Low was the arch, but inward as they wound,<br>
+Say, do the rocks send forth that solemn sound,<br>
+The Virgin’s vesper hymn? The pious train<br>
+Repectful paus’d, then rais’d th’ accordant strain.<br>
+The dusky cedars on each chalky brow,<br>
+The rocks, the caves, the flood that foam’d below,<br>
+Join the full voice,—from hill to hill it flies,<br>
+And glen to glen, and stream to stream replies.<br>
+&emsp;Still o’er the heights the closing echoes ran,<br>
+When from the cave appear’d a reverend man;<br>
+As towards the train his pious hands were spread,<br>
+One golden sunbeam touch’d his hoary head.<br>
+“The peace of heaven, th’ eternal peace that knows<br>
+Nor change, nor sorrow, on your duteous brows!<br>
+Yet whence inspired to trace a path so rude?<br>
+For, save the mule that brings my weekly food,<br>
+The goat, or eagle on yon craggy height,<br>
+For months no living thing hath blest my sight.”<br>
+&emsp;“As pilgrims we thy solitude invade,<br>
+A fainting sister craves thy pious aid.”<br>
+Onward he led where Mary’s image stood,<br>
+And a rude altar bore a Cross as rude:<br>
+He from the rock had scoop’d the forms divine,<br>
+And a rough lamp that burn’d before the shrine.<br>
+A skull and hour-glass spoke of time and death,<br>
+A scourge of penance; o’er the wither’d heath,<br>
+That form’d his couch, a faded scarf he spread,<br>
+Which had been gorgeous once; “Approach!” he said,<br>
+And on its folds their senseless load they laid.<br>
+&emsp;“Our vows, О Hermit! and the coming eve,<br>
+Forbid delay; but in thy charge we leave<br>
+Our helpless friend. Thou laugh’st at pomp and power,<br>
+But she was once a kingdom’s fairest flower,<br>
+And nurs’d in purple; aid her in her need,<br>
+For Mary’s sake, and to yon convent lead<br>
+Her steps recovered; so our prayers shall rise,<br>
+And win thee wealth in worlds beyond the skies.”<br>
+&emsp;With ivory crucifix, whose classic taste<br>
+Mock’d the rude sculpture o’er the altar placed,<br>
+He kneels, and on th’ unconscious pilgrim throws<br>
+The torrent’s gelid wave—her eyes unclose.<br>
+&emsp;“And have I pray'd for death, yet fear to die!" Inly she groan'd,— ťí Oh! were some Father nigh To hear my parting shrift, to hear and save!" 740 She started up, and glancing round the cave, " Oh blessed Hermit! if thou art indeed, By heaven commission' d at my utmost need, Attend! and may a Gracious God bestow ^ One hour of strength!" She bared her livid brow, ъ- íť Not she who nurs'd myyouthwouldknowmenow,^ But I, when English Henry's name was fear'd, Was deem'd his favourite child, and then appear'd As fed on roses, wild with health and bliss— The weight of secret guilt hath made me this!" 750 The Hermit starts, and as he draws more near His open cowl, replies in tone severe: " Yes, Helen! for upon thy soul shall rest The crimes, th' eternal doom of those who loved thee best." if Have then these deserts breath'd it? Human ear Yet never heard!—Thou man of faith austere, To thee a dying penitent I sue; Be just, yet in thy justice gentle too."
 " Daughter proceed! If endless pangs are thine, The lips that doom thee never shall be mine." 760 " 'Tis not thy pity I would seek to move, Or mock thy saintly ears with tales of love. All Europe knew my Sire—too fond of rule, A kingdom's idol, but Ambition's fool! Through me fresh schemes of worldly power he plann'd, Pleas'd when the Saxon Henry sought my hand. Warriors, who named him Lion of the war, Bespoke him brave, and maidens called him fair: The voice of fame his presence soon approved, His worth I honour'd, aad believ'd I loved; 770 And, save my tender years forbade the band, I then had given an unreluctant hand. —- But there was one, I know not if his lay, His form or valour stole my heart away, Or that my generous brothers held him dear; For I was blest but when De Born was near. Profuse, or proud, or rash—let others call These things his faults, I loved him for them all. Thou art impatient, and I will be brief:— Yet, Hermit, 'tis that I have wrong'd this Chief, 7&0 'Tis that my fancied falsehood warp'd his brain, I thus have pined for years—oh! is my sorrow vain? "—
 íť But seeming false!" th' indignant Hennit cried, ίζ Trne to De Born, and yet the Saxon's bride! Trifle not, daughter! think how small the sum Of earthly years, to those of pain to come!" " I do not trifle—turn thou not away In scorn—I heard with torture, day by day, Of Bertrand's falsehood—how Amanda's charms, (Turenne's fair daughter) lured him from my arms. I wrote, and no reply—and while my brain With torture reei'd, my father urg'd again The Saxon's suit—indignant phrenzy came To dry my tears! r He shall not blast my fame Though he have wreck'd my peace; ncr boast I died, \ Or pined his victim,' stung with rage I cried,— > And the next eve beheld me Henry's bride. ) " Thou groan'st! O, Father! but alas! I seem'd In stupor lost, and ah! that yet I dream'd! Mirth wanton'd round, yet nought of joy I knew, 800 Nor aught of pain, till, laughing, from Poitou Gay Richard came, and as his hand display'd The fatal scroll, ť A boon! a boon!' he said 5 s Forgive a loiterer/ and he kiss'd my brow 3 * Though to thy lovesick heart time linger now, As erst to mine when from Alasia barr'd; I found the means to cheat her wily guard,
 And basking in her sight so long denied, Forgot thy tears my selfish stay might chide.' " Seek pardon at the Cross V I cried, and tore 810 The letter from his grasp and ran it o'er. ° ' I cannot hide the grief I feel That thou should'st doubt my truth, my zeal; But may my soul in torment pine, When absent if I seem to live; If aught another love could give, Delight me like one word of thine. ' May the fell eagle from on high My falcon on my wrist destroy; Oh! may my casque obstruct my sight, 820 My steed nor spur obey nor thong; Short be my reins, my stirrups long, And I the first to fly in fight. * A captive, coop'd with those I hate, The scorn of man, the sport of fate, May evil luck my dice pursue; The wind refuse to swell my sail, My purse be void, my harvests fail, If e'en in thought I prove untrue.
