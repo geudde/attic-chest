@@ -5892,7 +5892,7 @@ Or Venus, when Diana’s robes she wore;—<br>
 Nor when the outlaw knew his royal guest,<br>
 How his brave soul its loyal faith profest:<br>
 Oppression, ruling in the Monarch’s stead,<br>
-Proscribed his name, and drove him to the shade;
+Proscribed his name, and drove him to the shade;<br>
 Yet had he bravely held the royal wood,<br>
 And John’s stout rebels fled from Robin Hood.<sup>i</sup><br>
 &emsp;Nor how the King, whose wrath his speech disarms,<br>
