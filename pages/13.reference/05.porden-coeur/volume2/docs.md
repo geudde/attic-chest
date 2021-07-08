@@ -4625,15 +4625,182 @@ One hour of busy grief, one sad farewell,<br>
 Were all that love might yield to Rosabelle;<br>
 The Queen impatient sees, and hastes to part—<br>
 Such scene was torture to her suffering heart.<br>
+&emsp;Rode proudly forth the princely cavalcade,<br>
+And plunged undaunted in th’ Hercynian shade;<br>
+While all around their hope’s green livery wore,<br>
+Exulting in the gloom they fear’d before.<br>
+Thrice had the evening sooth’d them to repose,<br>
+Thrice on their early way the morning rose;<br>
+When on a heath with not one dwelling nigh,<br>
+Hut, convent, castle, church, to fix the eye,<br>
+Where each low hill the same dull curve defined<br>
+And many a chance-worn path perplex’d the mind,<br>
+The sound of distant drums, and light that play’d<br>
+On burnish’d arms, a knightly band betray’d.<br>
+Soon by his gorgeous gonfalon was known<br>
+The proud arch-priest, Rinaldo of Cologne:[^39]<br>
+He guards some prisoner—hopes fantastic spring<br>
+In each glad bosom—’tis indeed the King!<br>
+&emsp;“Whence and what are ye, Knights?” the Prelate cried.—<br>
+“From England’s Regent Queen,” the youth replied;<br>
+“Before his Peers we hasten to demand<br>
+Redress and justice from th’ Imperial hand;<br>
+And pray your gracious pleasure to accord<br>
+A moment’s parley with our captive Lord.”<br>
+&emsp;“My leave is yours,” Rinaldo then replied.<br>
+“Would Henry brook such leave?” Count Maynard cried.<br>
+&emsp;“Thy master is not mine,” Rinaldo said;<br>
+“Nor am I here to load a captive’s head<br>
+With fresh dishonour,—but, to justice true,<br>
+Alike I guard him from his friends, and you.—<br>
+Escape thou murmurs’t—nay, dismiss thy pain,<br>
+These Knights have honour, and th’ attempt were vain,<br>
+My single sword might quell such scanty train.”<br>
+&emsp;Some paces back th’ obedient guards withdrew,<br>
+And to his Lord impatient Albert flew:<br>
+Who o’er his neck his arms in rapture flings;—<br>
+Yet not such joy as from despondence springs.<br>
+For not when first on Acre’s walls he stood,<br>
+Not when on Arsouf’s field his mace rain’d blood,<br>
+Nor when on him th’ anointing oil was shed,<br>
+Such glory brighten’d round the Monarch’s head;<br>
+As, when in chains a felon scarce should wear,<br>
+The rock his couch, and coarse his scanty fare,<br>
+He paced his dungeon; when his sickening eye<br>
+Saw but the gloomy woods, the wint’ry sky,<br>
+Unchanged save by the varying light, the blast<br>
+That shook their tops, or clouds that hurried past.<br>
+A bride despairing—a defenceless host,<br>
+Perchance his fame aspers’d, his kingdom lost,<br>
+He felt and bore; with more than poet’s fire,<br>
+Frequent he swept the long familiar lyre;<br>
+Throng’d his scant cell with heroes famed of yore,<br>
+And cheer’d the gloom with gleams of faiiy lore.<br>
+&emsp;Thus, wafted onward by Etesian gales,<br>
+Up the broad Nile the rapid Canja sails,<br>
+Steady yet swift, the adverse current braves,<br>
+And with unerring keel divides the waves;<br>
+While he whose hopes are all on fortune cast,<br>
+Like that same bark, bereft of sails and mast,<br>
+Floats sidelong down the stream, without a guide,<br>
+The prey of rocks, the puppet of the tide.<br>
+&emsp;“My faithful friend! amid her dreams of bliss,<br>
+And prompt release, Hope scarcely whisper’d this!<br>
+How fares my realm, my Mother?—how my host?<br>
+Is Sion rescu’d yet, or Acre lost?”<br>
+&emsp;“Thy Knights,” the warrior said, “have sheathed their eager swords,<br>
+Safe in the truce a generous foe accords;<br>
+But Philip’s vows were like his sickness, vain,<br>
+And—oh, my Liege, I grieve to give thee pain!<br>
+Thy brother seeks thy crown; a hand less strong<br>
+Than thy sage Mother’s, might not hold it long.”<br>
+&emsp;“And let him seize it—’tis my lightest fear,<br>
+An hour wins back his conquests of a year.[^40]<br>
+I loved him—hence his power to prove unkind,—<br>
+Why will he shew a brother’s love was blind?<br>
+My mother toils and treason has defied,<br>
+Nor bends with age thou say’st—but my sweet bride?”<br>
+&emsp;Speaking he turn’d, for she, unmark’d though near,<br>
+Who drank each word with love’s attentive ear,<br>
+Strikes her light harp, and guides the longing eyes<br>
+Whose anxious fondness pierced her slight disguise.<br>
+&emsp;But Albert gazed upon his Monarch’s brow,<br>
+“How will it glad each loyal heart to know<br>
+That thou art found, and thus unchanged by woe!”<br>
+&emsp;“Aye! else I ill deserve to wear a crown,—<br>
+He earns not Fortune’s smiles who dreads her frown;
+Insult and torture I might well defy,<br>
+My only fear was unavenged to die<br>
+Where none should hear my fate; but now I fare<br>
+To meet my trial—nay, that glance forbear:<br>
+If nought of Roman soul be theirs beside,<br>
+These German Cæsars have a Roman pride;<br>
+’Tis much their jealous hatred does not grudge-<br>
+A court of Princes and Imperial judge!<br>
+But let their petty rage exhaust its skill,<br>
+My dauntless soul shall prove me England still,”
 
-Rode proudly forth the princely cavalcade, And plunged undaunted in th' Hercynian shade; While all around their hope's green livery wore, Exulting in the gloom they fear'd before. Thrice had the evening sooth'd them to repose, Thrice on their early way the morning rose j When on a heath with not one dwelling nigh, Hut, convent, castle, church, to fix the eye, Where each low hill the same dull curve defined And many a chance-worn path perplex'd the mind, 20 The sound of distant drums, and light that play'd On burnish'd arms, a knightly band betray'd. Soon by his gorgeous gonfalon was known The proud arch-priest, Rinaldo of Cologne:* He guards some prisoner—hopes fantastic spring In each glad bosom—'tis indeed the King ί ί( Whence and what are ye, Knights?" the Prelate cried.— <e From England's Regent Queen," the youth replied; " Before his Peers we hasten to demand Redress and justice from th' Imperial hand; 30
-And pray your gracious pleasure to accord A moment's parley with our captive Lord." e< My leave is yours," Rinaldo then replied. ' f Would Henry brook such leave?" Count Maynard cried. " Thy master is not mine," Rinaldo said; " Nor am I here to load a captive's head With fresh dishonour,—but, to justice true, Alike I guard him from his friends, and you.— Escape thou murmurs't—nay, dismiss thy pain, These Knights have honour, and th' attempt were vain, 40 My single sword might quell such scanty train." Some paces back th' obedient guards withdrew, And to his Lord impatient Albert flew: Who o'er his neck his arms in rapture flings; — Yet not such joy as from despondence springs. For not when first on Acre's walls he stood, Not when on Arsouf's field his mace rain'd blood, Nor when on him th' anointing oil was shed, Such glory brighten'd round the Monarch's head; As, луЬеп in chains a felon scarce should wear, 50 The rock his couch, and coarse his scanty fare,
-He paced Ыь dungeon; when hi& sickening eye Saw but the gloomy woods, the wint'ry sky, Unchanged save by the varying light, the blast That shook their tops, or clouds that hurried past. A bride despairing—a defenceless host, Perchance his fame aspers' d, his kingdom lost, He felt and bore; with more than poet's fire, Frequent he swept the long familiar lyre; Throng'd his scant cell with heroes famed of yore, 60 And cheer'd the gloom with gleams of faiiy lore. Thus, wafted onward by Etesian gales, Up the broad Nile the rapid Canja sails, Steady yet swift, the adverse current braves, And with unerring keel divides the waves; While he whose hopes are all on fortune cast, Like that same bark, bereft of sails and mast, Floats sidelong down the stream, without a guide, The prey of rocks, the puppet of the tide. " My faithful friend! amid her dreams of bliss, 70 And prompt release, Hope scarcely whisper'd this! How fares my realm, my Mother?—how my host? Is Sion reseu'd yet, or Acre lost?"
-" Thy Knights," the warrior said, " have sheathed their eager swords, Safe in the truce a generous foe accords; But Philip's vows were like his sickness, vain, And—oh, my Liege, I grieve to give thee pain! Thy brother seeks thy crown; a hand less strong Than thy sage Mother's, might not hold it long." " And let him seize it—'tis my lightest fear, 80 An hour wins back his conquests of a year.* I loved him—hence his power to prove unkind,— Why will he shew a brother's love was blind? My mother toils and treason has defied, Nor bends with age thou say'st—but my sweet bride?" Speaking he turn'd, for she, unmark'd though near, Who drank each word with love's attentive ear, Strikes her light harp, and guides the longing eyes Whose anxious fondness pierced her slight disguise. But Albert gazed upon his Monarch's brow, 90*4 (( How will it glad each loyal heart to know ν That thou art found, and thus unchanged by woe Y'y " Aye! else I ill deserve to wear a crown,— He earns not Fortune's smiles who dreads her frown;
-Insult and torture I might well defy, My only fear was unavenged to die Where none should hear my fate; but now I fare To meet my trial—nay, that glance forbear: If nought of Roman soul be their's beside, These German Cæsars have a Roman pride; 100 'Tis much their jealous hatred does not gruâge- A court of Princes and Imperial judge! But let their petty rage exhaust its skill, My dauntless soul shall prove me England still," The hour drew on,—the squires of Leopold Resign'd the prisoner and rcceiv'd their gold j And Frederic's wily son, who half in fear, And half in transport, found his victim near, (Unlike his Sire, whose greatness veil'd his guilt, And dried with glory's beams the blood he spilt,) 110 Through all his circles bade the summons fly, And urged the moment that he felt too nigh. And now to Haguenau Peers and Primates throng, One thought each heart possess'd, one theme each tongue j But temper some, some policy controll'd, \ One sides with Richard, one with Leopold, ч One Henry's threats seduced, or Philip's gold; y
-One hated England's power, or Richard's fame, Nor came prepared to try, but to condemn. Yet some more nobly thought;—thy prince, Louvain! Who mourn'd by Henry's craft a brother slain; B Maguntium's Primate, and the Saxon pride, 4 Her Lion-Duke, to Richard more allied \ By kindred virtues, than his English bride; y He of whose race imperial Otho springs, And happy Britain waits her future kings.* The eve of trial came;—the wintry night Hid spires and turrets from the prisoner's sight; Th' Hercynian mountains, and the silver line Of hovering mist, that traced the nearer Rhine: 130 Yet horses tramp, and trumpets bray'd around, And hammers ring and clamorous shouts resound. Now torches gleam—in vain he strives to throw From his high grate the anxious glance below, Though sure one faithful eye is watching there; He paced his cell, half breath'd the broken prayer, Or listen'd as the jealous bolts were drawn. With feverish eagerness he longed for dawn,
-Or eyed th' untasted meal, which ne'er in vain Had wooVl before, or shook his heavy chain: 140 Till, by the rush of warring thoughts opprest, He flung him on his couch and strove for rest. Sudden the hinges grate,—surprised he rose,— Two strangers entered, and the portals close. Dim burn'd the lamp, but darkness could not hide The one loved form, who flings her harp aside, Springs to his heart, and faints in rapture there; Her bonnet falls, and loose her golden hair O'er his dark robe in waving lustre flows, While as again her glistening eyes unclose, 150 She reads in his what grateful wonder glows. Their broken speech tumultuous joy controll'd, Till calm'd at last, the Royal Captive told, How, in his sleep secured with many a chain, His foes had seized and borne him o'er the main; Yet had his hand their treason half repaid, Prone at his feet Burgundia's Duke he laid, And the black soul in lingering tortures fled. b Next Berengaria, while her dewy eye Shot many a conscious beam of present joy, 160 Told her past griefs: how all bewail'd her lord, As captive first, and then as dead deplor'd.
-The Soldan's profter'd truce, the heavenly light That shone to cheer; her shipwreck, and her flight. The guidance given by Gortz' unconscious dame, Of Albert's weal, of Longchamp's grief and shame. But now a sigh arous'd the Monarch's ear: " Who then art thou that sitt'st in darkness there?" ' e One who has err'd, nor, till by thee forgiven, Dares sue for pardon of offended heaven." 170 ' e My faithful Longchamp! can'st thou think that I, Who sin so oft, forgiveness would deny? Say, was I ss r ont to play so stern a part? Or dost thou deem that sorrow steels the heart!" With warmth the King his gladden'd friend em¬ braced, On either cheek his kiss of peace he prest. " If I could grieve o'er memory of the past, This meeting, Longchamp, how unlike our last! I then the Sovereign of two prosperous lands, Girt with such fleets, with such unrivall'd bands; 180 And thou the friend, the delegate of one Who own'd no prouder prince beneath the sun! Now all that rests,—so fast our fortunes mos^e,— Courage to me, to thee thy Monarch's los r e. vol. u. Q
+The hour drew on,—the squires of Leopold<br>
+Resign’d the prisoner and rcceiv’d their gold;<br>
+And Frederic’s wily son, who half in fear,<br>
+And half in transport, found his victim near,<br>
+(Unlike his Sire, whose greatness veil’d his guilt,<br>
+And dried with glory’s beams the blood he spilt,)<br>
+Through all his circles bade the summons fly,<br>
+And urged the moment that he felt too nigh.<br>
+And now to Haguenau Peers and Primates throng,<br>
+One thought each heart possess’d, one theme each tongue;<br>
+But temper some, some policy controll’d,<br>
+One sides with <span class="smallcaps">Richard</span>, one with Leopold,<br>
+One Henry’s threats seduced, or Philip’s gold;<br>
+One hated England’s power, or <span class="smallcaps">Richard’s</span> fame,<br>
+Nor came prepared to try, but to condemn.<br>
+Yet some more nobly thought;—thy prince, Louvain!<br>
+Who mourn’d by Henry’s craft a brother slain;<sup>a</sup><br>
+Maguntium’s Primate, and the Saxon pride,<br>
+Her Lion-Duke, to <span class="smallcaps">Richard</span> more allied<br>
+By kindred virtues, than his English bride;<br>
+He of whose race imperial Otho springs,<br>
+And happy Britain waits her future kings.[^41]<br>
+&emsp;The eve of trial came;—the wintry night<br>
+Hid spires and turrets from the prisoner’s sight;<br>
+Th’ Hercynian mountains, and the silver line<br>
+Of hovering mist, that traced the nearer Rhine:<br>
+Yet horses tramp, and trumpets bray’d around,<br>
+And hammers ring and clamorous shouts resound.<br>
+Now torches gleam—in vain he strives to throw<br>
+From his high grate the anxious glance below,<br>
+Though sure one faithful eye is watching there;<br>
+He paced his cell, half breath’d the broken prayer,<br>
+Or listen’d as the jealous bolts were drawn.<br>
+With feverish eagerness he longed for dawn,<br>
+Or eyed th’ untasted meal, which ne’er in vain<br>
+Had woo’d before, or shook his heavy chain:<br>
+Till, by the rush of warring thoughts opprest,<br>
+He flung him on his couch and strove for rest.<br>
+Sudden the hinges grate,—surprised he rose,—<br>
+Two strangers entered, and the portals close.<br>
+Dim burn’d the lamp, but darkness could not hide<br>
+The one loved form, who flings her harp aside,<br>
+Springs to his heart, and faints in rapture there;<br>
+Her bonnet falls, and loose her golden hair<br>
+O’er his dark robe in waving lustre flows,<br>
+While as again her glistening eyes unclose,<br>
+She reads in his what grateful wonder glows.<br>
+&emsp;Their broken speech tumultuous joy controll’d,<br>
+Till calm’d at last, the Royal Captive told,<br>
+How, in his sleep secured with many a chain,<br>
+His foes had seized and borne him o’er the main;<br>
+Yet had his hand their treason half repaid,<br>
+Prone at his feet Burgundia’s Duke he laid,<br>
+And the black soul in lingering tortures fled.<sup>b</sup><br>
+Next Berengaria, while her dewy eye<br>
+Shot many a conscious beam of present joy,<br>
+Told her past griefs: how all bewail’d her lord,<br>
+As captive first, and then as dead deplor’d.<br>
+The Soldan’s profter’d truce, the heavenly light<br>
+That shone to cheer; her shipwreck, and her flight.<br>
+The guidance given by Gortz’ unconscious dame,<br>
+Of Albert’s weal, of Longchamp’s grief and shame.<br>
+&emsp;But now a sigh arous’d the Monarch’s ear:<br>
+“Who then art thou that sitt’st in darkness there?”<br>
+&emsp;“One who has err’d, nor, till by thee forgiven,<br>
+Dares sue for pardon of offended heaven.”<br>
+&emsp;“My faithful Longchamp! can’st thou think that I,<br>
+Who sin so oft, forgiveness would deny?<br>
+Say, was I wont to play so stern a part?<br>
+Or dost thou deem that sorrow steels the heart!”<br>
+&emsp;With warmth the King his gladden’d friend embraced,<br>
+On either cheek his kiss of peace he prest.<br>
+“If I could grieve o’er memory of the past,<br>
+This meeting, Longchamp, how unlike our last!<br>
+I then the Sovereign of two prosperous lands,<br>
+Girt with such fleets, with such unrivall’d bands;<br>
+And thou the friend, the delegate of one<br>
+Who own’d no prouder prince beneath the sun!<br>
+Now all that rests,—so fast our fortunes move,—<br>
+Courage to me, to thee thy Monarch’s love.<br>
+
 Nay, check that sigh—regrets and shame are vain, Resume thy Seals, and be thyself again f Aside that penance garb must no%v be laid, And Ely's Prelate speak in Albert's aid. Yet sorrow strengthens—should I else have known Thy constancy, dear Longchamp! or mine own? 190 And one yet dearer! ΙιοΛν her fragile form ΒοΛνΉ like the reed, but broke not with the storm; And well redeem'd the boast of tender pride, In softness bold, indeed a hero's bride! Oh! Berengaria, think'st thou not our bliss, When fortune smiles, shall be more rich for this? But thou hast yet a task j Ι ΙίηοΛν thy zeal With smiles can leave me, if to seek my weal. At dawn my trial comes j—but why so pale? What can I dread at which thy heart should quail? They dare not bring me to the block or stake, For angel-guards o'er Heaven's vicegerents wake. Suspense and durance, there I read my doom,— My freedom, dearest! must be won from Rome. Wait not this solemn farce, this mockery,—go, Ere Maynard's glance the truant minstrel know; And hark! 1 hear the outer door unfold,— Here is thy bonnet,—hide those locks of gold.
 Wait not to speak, thine accents will betray A heart too full,—my dearest love, away;— 210 Remember, Longchamp, be thyself again!— Minstrel farewell! I thank thee for thy strain." The Diet met, and purple glory shone Round the vain man who fill'd th' Imperial throne; And seldom King might boast a nobler band, Primates and princes, Magnates of the land , In wonder gazing on their captive there, His form majestic, and commanding air. d The envoys entered, and with dauntless look The tyrant's seat confronting, Albert spoke. 220 ff From England's Regent Queen, and each that bears A loyal soul, her Prelates and her Peers, We ask—no sign of hostile will foreshewn, Why thus thou hold's t our Monarch from his throne? And more: from thee, O Cæsar! we demand Justice on one, a vassal of thy land, The Duke of Austria,—who, against the troth Of men and nations, and his solemn oath Of Christian concord, dared by fraud enchain Our slumbering Sovereign, and in bonds detain." 230 Q 2
 " One not" (as Albert ceased the Priest began) (i Sacred alone as monarch or as man, But by that Cross which holy Pandulph gave, To God devoted j and his God shall save." " And I am charged," again the warrior cried, " If his just freedom shall be still denied, From England, Normandy, Guyenne to bring Defiance, battle, till thou yield our King." "Defiance, not from England's strength alone, But every Prince who fills a Christian throne. 240 From all, by Clermont's solemn compact bound, In Holy War to tread the sacred ground, Or guard their absent comrades' lands from scathe, As they reposed upon their comrades' faith; And more, for every day his Tomb is stain'd By Moslem rites, by brutal scorn profaned, For every martyr's blood, for every harm The faith endures, deprived of Richard's arm, An angry Deity now speaks in me, And claims in wrath the mighty debt from thee." 250 The Prelate spoke, and Henry's cheek of pride, Pale as he listen'd, glow'd when he replied: "Strangers î I chafe not, though your speech be bold; Your Sovereign there, and there my Peers behold:
@@ -4939,3 +5106,9 @@ Note (e), page 354, line 713. Tke easy price of that triumphant day. Only two pe
 [^37]: White and green were the appropriate colours of the wandering minstrel.
 
 [^38]: Alluding to Wieland’s Oberon, founded on the old Romance of Huon de Bordeaux, and translated by Mr. Sotheby into English verse.
+
+[^39]: Rinaldo, Archbishop of Cologne, who played a distinguished part in the contests between Frederic Barbarossa and the Holy See.
+
+[^40]: Alluding to the speech of <span class="smallcaps">Richard</span>, what he would recover in a day all that John could conquer in a year.
+
+[^41]: The present House of Brunswick descends from the Emperor Otho, son of Henry the Lion of Saxony and the Princess of England.
