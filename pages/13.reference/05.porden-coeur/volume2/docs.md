@@ -5360,11 +5360,114 @@ And win thee wealth in worlds beyond the skies.”<br>
 Mock’d the rude sculpture o’er the altar placed,<br>
 He kneels, and on th’ unconscious pilgrim throws<br>
 The torrent’s gelid wave—her eyes unclose.<br>
-&emsp;“And have I pray'd for death, yet fear to die!" Inly she groan'd,— ťí Oh! were some Father nigh To hear my parting shrift, to hear and save!" 740 She started up, and glancing round the cave, " Oh blessed Hermit! if thou art indeed, By heaven commission' d at my utmost need, Attend! and may a Gracious God bestow ^ One hour of strength!" She bared her livid brow, ъ- íť Not she who nurs'd myyouthwouldknowmenow,^ But I, when English Henry's name was fear'd, Was deem'd his favourite child, and then appear'd As fed on roses, wild with health and bliss— The weight of secret guilt hath made me this!" 750 The Hermit starts, and as he draws more near His open cowl, replies in tone severe: " Yes, Helen! for upon thy soul shall rest The crimes, th' eternal doom of those who loved thee best." if Have then these deserts breath'd it? Human ear Yet never heard!—Thou man of faith austere, To thee a dying penitent I sue; Be just, yet in thy justice gentle too."
-" Daughter proceed! If endless pangs are thine, The lips that doom thee never shall be mine." 760 " 'Tis not thy pity I would seek to move, Or mock thy saintly ears with tales of love. All Europe knew my Sire—too fond of rule, A kingdom's idol, but Ambition's fool! Through me fresh schemes of worldly power he plann'd, Pleas'd when the Saxon Henry sought my hand. Warriors, who named him Lion of the war, Bespoke him brave, and maidens called him fair: The voice of fame his presence soon approved, His worth I honour'd, aad believ'd I loved; 770 And, save my tender years forbade the band, I then had given an unreluctant hand. —- But there was one, I know not if his lay, His form or valour stole my heart away, Or that my generous brothers held him dear; For I was blest but when De Born was near. Profuse, or proud, or rash—let others call These things his faults, I loved him for them all. Thou art impatient, and I will be brief:— Yet, Hermit, 'tis that I have wrong'd this Chief, 7&0 'Tis that my fancied falsehood warp'd his brain, I thus have pined for years—oh! is my sorrow vain? "—
-íť But seeming false!" th' indignant Hennit cried, ίζ Trne to De Born, and yet the Saxon's bride! Trifle not, daughter! think how small the sum Of earthly years, to those of pain to come!" " I do not trifle—turn thou not away In scorn—I heard with torture, day by day, Of Bertrand's falsehood—how Amanda's charms, (Turenne's fair daughter) lured him from my arms. I wrote, and no reply—and while my brain With torture reei'd, my father urg'd again The Saxon's suit—indignant phrenzy came To dry my tears! r He shall not blast my fame Though he have wreck'd my peace; ncr boast I died, \ Or pined his victim,' stung with rage I cried,— > And the next eve beheld me Henry's bride. ) " Thou groan'st! O, Father! but alas! I seem'd In stupor lost, and ah! that yet I dream'd! Mirth wanton'd round, yet nought of joy I knew, 800 Nor aught of pain, till, laughing, from Poitou Gay Richard came, and as his hand display'd The fatal scroll, ť A boon! a boon!' he said 5 s Forgive a loiterer/ and he kiss'd my brow 3 * Though to thy lovesick heart time linger now, As erst to mine when from Alasia barr'd; I found the means to cheat her wily guard,
-And basking in her sight so long denied, Forgot thy tears my selfish stay might chide.' " Seek pardon at the Cross V I cried, and tore 810 The letter from his grasp and ran it o'er. ° ' I cannot hide the grief I feel That thou should'st doubt my truth, my zeal; But may my soul in torment pine, When absent if I seem to live; If aught another love could give, Delight me like one word of thine. ' May the fell eagle from on high My falcon on my wrist destroy; Oh! may my casque obstruct my sight, 820 My steed nor spur obey nor thong; Short be my reins, my stirrups long, And I the first to fly in fight. * A captive, coop'd with those I hate, The scorn of man, the sport of fate, May evil luck my dice pursue; The wind refuse to swell my sail, My purse be void, my harvests fail, If e'en in thought I prove untrue.
-ť May I behold thee courted long, 830 And want the sense to venge the wrong j May porters beat me, may I find No hour to wreak revenge, if they Who swear that I thy trust betray, Are not more false than dice, or wind.' tť Oh God! each word that spoke of joy and youth, Of martial glee, and fond confiding truth, Proclaim'd me perjur'd, pierced my guilty soul! But why dilate? too soon I knew the whole. My fancied foe now reign'd in Périgord, 840 De Born but stayed to give her to her Lord, And grace, as friendship bade, the bridal feast, Which Talleyrand display'd for every guest.* My brother's pitying heart was still the same, His patience sooth'd me, and forbore to blame; ' And oh!' I pleaded, c by our early years, f By my lost peace, by all these fruitless tears, Since I and Bertrand ne'er must meet again, Let him believe me false, unfeeling, vainj
+&emsp;“And have I pray’d for death, yet fear to die!”<br>
+Inly she groan’d,— “Oh! were some Father nigh<br>
+To hear my parting shrift, to hear and save!”<br>
+She started up, and glancing round the cave,<br>
+“Oh blessed Hermit! if thou art indeed,<br>
+By heaven commission’ d at my utmost need,<br>
+Attend! and may a Gracious God bestow<br>
+One hour of strength!” She bared her livid brow,<br>
+“Not she who nurs’d my youth would know me now,<br>
+But I, when English Henry’s name was fear’d,<br>
+Was deem’d his favourite child, and then appear’d<br>
+As fed on roses, wild with health and bliss—<br>
+The weight of secret guilt hath made me this!”<br>
+&emsp;The Hermit starts, and as he draws more near<br>
+His open cowl, replies in tone severe:<br>
+“Yes, Helen! for upon thy soul shall rest<br>
+The crimes, th’ eternal doom of those who loved thee best.”<br>
+&emsp;“Have then these deserts breath’d it? Human ear<br>
+Yet never heard!—Thou man of faith austere,<br>
+To thee a dying penitent I sue;<br>
+Be just, yet in thy justice gentle too.”<br>
+&emsp;“Daughter proceed! If endless pangs are thine,<br>
+The lips that doom thee never shall be mine.”<br>
+&emsp;“’Tis not thy pity I would seek to move,<br>
+Or mock thy saintly ears with tales of love.<br>
+All Europe knew my Sire—too fond of rule,<br>
+A kingdom’s idol, but Ambition’s fool!<br>
+Through me fresh schemes of worldly power he plann’d,<br>
+Pleas’d when the Saxon Henry sought my hand.<br>
+Warriors, who named him Lion of the war,<br>
+Bespoke him brave, and maidens called him fair:<br>
+The voice of fame his presence soon approved,<br>
+His worth I honour’d, and believ’d I loved;<br>
+And, save my tender years forbade the band,<br>
+I then had given an unreluctant hand.<br>
+But there was one, I know not if his lay,<br>
+His form or valour stole my heart away,<br>
+Or that my generous brothers held him dear;<br>
+For I was blest but when De Born was near.<br>
+Profuse, or proud, or rash—let others call<br>
+These things his faults, I loved him for them all.<br>
+Thou art impatient, and I will be brief:—<br>
+Yet, Hermit, ’tis that I have wrong’d this Chief,<br>
+’Tis that my fancied falsehood warp’d his brain,<br>
+I thus have pined for years—oh! is my sorrow vain?”<br>
+&emsp;“But seeming false!” th’ indignant Hermit cried,<br>
+“True to De Born, and yet the Saxon’s bride!<br>
+Trifle not, daughter! think how small the sum<br>
+Of earthly years, to those of pain to come!”<br>
+&emsp;“I do not trifle—turn thou not away<br>
+In scorn—I heard with torture, day by day,<br>
+Of Bertrand’s falsehood—how Amanda’s charms,<br>
+(Turenne’s fair daughter) lured him from my arms.<br>
+I wrote, and no reply—and while my brain<br>
+With torture reel’d, my father urg’d again<br>
+The Saxon’s suit—indignant phrenzy came<br>
+To dry my tears! ‘He shall not blast my fame<br>
+Though he have wreck’d my peace; nor boast I died,<br>
+Or pined his victim,’ stung with rage I cried,— <br>
+And the next eve beheld me Henry’s bride.<br>
+&emsp;“Thou groan’st! O, Father! but alas! I seem’d<br>
+In stupor lost, and ah! that yet I dream’d!<br>
+Mirth wanton’d round, yet nought of joy I knew,<br>
+Nor aught of pain, till, laughing, from Poitou<br>
+Gay Richard came, and as his hand display’d<br>
+The fatal scroll, ‘A boon! a boon!’ he said;<br>
+Forgive a loiterer,’ and he kiss’d my brow;<br>
+Though to thy lovesick heart time linger now,<br>
+As erst to mine when from Alasia barr’d;<br>
+I found the means to cheat her wily guard,<br>
+And basking in her sight so long denied,<br>
+Forgot thy tears my selfish stay might chide.’<br>
+&emsp;‘Seek pardon at the Cross!’ I cried, and tore<br>
+The letter from his grasp and ran it o’er.<sup>o</sup>
+
+‘I cannot hide the grief I feel<br>
+That thou should’st doubt my truth, my zeal;<br>
+But may my soul in torment pine,<br>
+When absent if I seem to live;<br>
+If aught another love could give,<br>
+Delight me like one word of thine.
+
+‘May the fell eagle from on high<br>
+My falcon on my wrist destroy;<br>
+Oh! may my casque obstruct my sight,<br>
+My steed nor spur obey nor thong;<br>
+Short be my reins, my stirrups long,<br>
+And I the first to fly in fight.
+
+‘A captive, coop’d with those I hate,<br>
+The scorn of man, the sport of fate,<br>
+May evil luck my dice pursue;<br>
+The wind refuse to swell my sail,<br>
+My purse be void, my harvests fail,<br>
+If e’en in thought I prove untrue.
+
+‘May I behold thee courted long,<br>
+And want the sense to venge the wrong;<br>
+May porters beat me, may I find<br>
+No hour to wreak revenge, if they<br>
+Who swear that I thy trust betray,<br>
+Are not more false than dice, or wind.’
+
+“Oh God! each word that spoke of joy and youth,<br>
+Of martial glee, and fond confiding truth,<br>
+Proclaim’d me perjur’d, pierced my guilty soul!<br>
+But why dilate? too soon I knew the whole.<br>
+My fancied foe now reign'd in Périgord, 840 De Born but stayed to give her to her Lord, And grace, as friendship bade, the bridal feast, Which Talleyrand display'd for every guest.* My brother's pitying heart was still the same, His patience sooth'd me, and forbore to blame; ' And oh!' I pleaded, c by our early years, f By my lost peace, by all these fruitless tears, Since I and Bertrand ne'er must meet again, Let him believe me false, unfeeling, vainj
 Think that my worldly soul to Mammon sold, 850 Loved his frank homage less than rank or gold; het him despise me, for he less will rue, Than thus to find me lost, yet feel me true. And ah! kind Richard (for I know De Born), Should he by frenzied act, or word of scorn, Insult thy name, or mine, in pity spare,— Think how thy sister wrong'd him, and forbear; It were a torture yet to dread that those I cherish most, should ever meet as foes.' " " Ail gracious Heaven! th' astonished fathercried, Λ Was that the cause which tamed the Lion's pride? > A lamb to Bertrand, fierce to all beside! j Who knew him best believed it struggling shame, That he had urged thy vows, and conscience made him tame!" " Hermit, they knew him not, and I was wrong! My fancied wisdom did not cheat me long. I heard how Bertrand's hate our house pursued, Till 'gainst my father's throne his first-born stood, And Richard, when he sought his promis'd bride And rightful dukedom, both so long denied, 870 From his unnatural rage to Philip's aid Was forced to fly, by him at last betray'd.
 I knew too late, while writhing with the smart, From my kind Lord to hide ray bleeding heart, To let no sigh my inward grief betray, And check the tear he still would kiss away; Still in his sight with feign'd delight I smil'd, Alone, my thoughts would madden o'er my child. I might seem blest, yet pining day by day, As flowers decline beneath too warm a ray; 880 For poisons may be viewless as the beam, Nor give a colour to the tainted stream. Oh! had his harshness but excused my woe, Or given one scalding tear pretence to flow; Of all my pangs his kindness gave the worst, I was ungrateful, and I felt accurst! " The stormiest ocean must have rest at last. Years fled—my bitterness of grief was past; His worth awaked esteem,—my child grew dear, And how did Richard's glory soothe my ear! 890 Till he was captive, and I heard, oh shame! That Bertrand stamp'd him with a murdei er's name! "Thou gioan'st again,—but ah! that night of dread! I seem'd to die!—a vengeful angel } ed Me, trembling, through the realms of penal flame; Thousands I saw of yet unsullied fame.
 Who writhe for secret guilt, though glory write Their names on brass; —but most he fix'd my sight On one, a ghastly trunk distain'd with gore, And in his hand his sever'd head he bore. p 900 ** ( Lo! who was Bertrand once! frank, loyal, true; But he with hatred dared the good pursue: Against his Sovereign and his friend conspire, And bade a son in arms affront his sire. He was the tempting fiend, th' Achitophel Who led this second Absalom to hell; That those whom heaven had join'dhe dared to sever, He bears his guilty head disjoin'd for ever/ ťí I shrunk away,—but wheresoe'er I turn'd, Before me still the dreadful spectre burn'd; 910 Towards me it seem'd the livid head to hold, The blue lips moved, the flaming eyeballs roll'd! " ŕ I led my Prince to crime—for that I groan, And heaven is just—but not to me alone; — Whose soul the burthen of my sins shall bear? For whom does hell a hotter flame prepare?' " I see his fiendish laugh—I hear again Those dreadful accents, branded on my brain!— I woke, for nature could endure no more, And fled for peace to Sion's sacred shore. 920 VOL. II, S
