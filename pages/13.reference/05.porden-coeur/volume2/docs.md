@@ -6565,7 +6565,7 @@ Ranged in the square the troops already stand,<br>
 The keys are seen in Henry’s trembling hand,<br>
 (Champagne’s young Earl, from Acre call’d to bear<br>
 His Uncle’s truncheon, and direct the war.)<br>
-Now groups of weeping females round them close,<br>
+Now groupes of weeping females round them close,<br>
 And loud upbraidings mingle with their woes.<br>
 “Save us!” they cry, “your wives and daughters save,<br>
 From death, or shame more dreadful than the grave.”<br>
@@ -7439,14 +7439,126 @@ But justice, when it bids my ghost endure<br>
 Its doom of torment, shall proclaim thee pure,—<br>
 Abandon’d, sought so long, and known too late,—<br>
 It was not thou that seal’d Alasia’s fate.”
-&emsp;Around his цеск she huug, to hide the strife, The last convulsion of contending life; Nor sigh nor groan her parting tortures tell, Till in his arms a senseless load she fell. " Oh dreadful end!" the shuddering Monarch cried, " Unhallow'd hour!" the weeping son replied. But prest no more by <span class="smallcaps">Richard’s</span> arm of might The Moslems rally and renew the fight, 530 " Rest here, poor youth, and ease thy bursting heart, Mine is a warrior's and a Monarch's part." He said, his vizor o'er his face he drew, And on the foe with double fury flew. But Pardo, deaf to all that once had charms, The shrill voiced trumpet, and the clang of arms, Regardless now of who might win or die, Lost in that grief that knows nor tear nor sigh, Gazeď on the form that still his arms enfold, Pale as herself, as motionless, as cold. 540 Till speaking loud in grief and wonder near, A well known voice arous*d his startled ear. " And have I sought thee o'er the plain," it crjed, " To find thee thus, the dark Destroyer's bride?—
-Pardo— I will not linger now, to know Λ Why thou usurp'st my privilege of woe, J* But, by thy Knighthood, who has struck the blow?"^ " One> who to save her should have welcom'd death, Her child has pierc'd the mould that gave him breath." (l Her Child!" cried Aladin, with mantling brow^— Zorayda's Child!—but that is nothing now: Where lurks the monster, that my hands may tear And' give him piecemeal to the fowls of air?" " Oh! but for one sad duty to fulfil, And one sweet flower that clings around me still, How gladly would I rush upon thy sword, And lose at once a being—now abhorr'd: Prince— în a parent's precious gore embrued, Ne'er shall this steel be wet with other blood: A mournful relic to my latest hour— 560 Spare then, or strike me, I am in thy power." The Prince a moment paus'd—a deathlike dew Suffused his frame, and hoarse his accents grew.— ** No! no! I strike not him who shared my bread, For one—but let our thoughts respect the dead! If thou art guilty, live! thy curse is life— If error struck, I have no cause of strife.
-Fulfil the mournful rites, I could not bear To view those eyes, and find no meaning there. Zorayda! while the bitter shower I shed, 570 I'll think thee pure, and but bewail thee dead, I'll rush to fields so often shared with thee— Perchance some quiver holds a dart for me." Meanwhile the fight is won; their leaders slain, The routed Moslems hurry from the plain— " Now, Raymond! Albert! now your forces join, Press on their rear, pursue, destroy, confine!" The Monarch cries, and leaves the fmish'd fray, With double wreaths to crown one glorious day; Where his brave archers on the distant plain, 580 Unconscious of the fight, a tenfold force sustain. Three times the foe had charged his heroes there; Three times had broken on th' unshrinking square; Their steeds recoiling from that hedge of spears, Whose every point a waving pendant bears. Three times the baffled chiefs had ridden round The equal sides, nor point of vantage found: In vain their taunts or steely javelins fell, Scorn smiled at those, and these their shields repel. Again they come, the charge stern Adel leads, Λ And swarthy Mestoc, fam'd for daring deeds: \ Full on the pikes they urge their generous steeds; y
-Drum, cymbal, trumpet, join their martial sound, And dust in volumes veils the squadron round. But still from every pike the pendants stream, Still shines through mist the iron's deadly gleam; The coursers start, obey nor spur nor rein, But break their ranks and riot o'er the plain. ŕí Be fate upon thy point," fierce Adel cried, And flung his dart,—it pierced Llewellyn's side; 600 Next, calm in silence, powerful Mestoc threw His heavier spear, that youthful Harold slew. " Now, Charge!" he shouted, " Charge! the day is ours;"— But Sherwood's archers pour their iron showers With aim so true, that where their comrades died, A mound of slaughter'd Ethiops fills the void. As daring Mestoc aims another wound, His head, his arm fall sever'd to the ground; ’Twas Cœur dû Lion's blow— so swift he came, His deeds alone the matchless King proclaim. 610 The faithful steed, affrighted, bathed in gore, Through shuddering ranks their headless leader bore. While fear and wonder fill the shrinking host, Grief swell'd in Schaunah's brother bosom most;
-Dark as a cloud when big with autumn rain, And towering o'er the height of vulgar men; On foot he fought, while from the burthen freed Of hÍ3 huge bulk, reposed his weary steed. A groupe of spears his slaves attentive bear, He chose the weightiest, one that few could rear, 620 And backward bending, as he aim'd its course, That ail his body's weight might aid its force, Hurl'd at the King—it pierced each stubborn fold Of his tough shield, his surcoat wrought with gold, Pierced his stout hauberk, but his vest beneath, Stiff with embroidery, check'd th' approaching death. He cast the frustrate weapon on the sand, And snatch'd a crossbow from a yeoman's hand; The well aim'd quarrel flies with hissing sound, And Schaunah's eye receives the torturing wound. 630 Bleeding and blind, and giddy with the pain, He drops his shield, and staggers o'er the plain, When through his casque a second arrow flies, And pierced the brain—he bites the ground and dies. Incensed to see his loved Egyptians bleed, The royal Adel spurs his chesnut steed! He foams with rage, and bids his Prophet hear His vows of vengeance, lost in empty air.
+&emsp;Around his neck she hung, to hide the strife,<br>
+The last convulsion of contending life;<br>
+Nor sigh nor groan her parting tortures tell,<br>
+Till in his arms a senseless load she fell.<br>
+“Oh dreadful end!" the shuddering Monarch cried,<br>
+“Unhallow'd hour!" the weeping son replied.<br>
+But prest no more by <span class="smallcaps">Richard’s</span> arm of might<br>
+The Moslems rally and renew the fight,<br>
+“Rest here, poor youth, and ease thy bursting heart,<br>
+Mine is a warrior’s and a Monarch’s part.”<br>
+He said, his vizor o’er his face he drew,<br>
+And on the foe with double fury flew.<br>
+&emsp;But Pardo, deaf to all that once had charms,<br>
+The shrill voiced trumpet, and the clang of arms,<br>
+Regardless now of who might win or die,<br>
+Lost in that grief that knows nor tear nor sigh,<br>
+Gazed on the form that still his arms enfold,<br>
+Pale as herself, as motionless, as cold.<br>
+Till speaking loud in grief and wonder near,<br>
+A well known voice arous’d his startled ear.<br>
+&emsp;“And have I sought thee o’er the plain,” it cried,<br>
+“To find thee thus, the dark Destroyer’s bride?—<br>
+Pardo—I will not linger now, to know<br>
+Why thou usurp’st my privilege of woe,<br>
+But, by thy Knighthood, who has struck the blow?”<br>
+&emsp;“One, who to save her should have welcom’d death,<br>
+Her child has pierc’d the mould that gave him breath.”<br>
+&emsp;“Her Child!” cried Aladin, with mantling brow—<br>
+Zorayda’s Child!—but that is nothing now:<br>
+Where lurks the monster, that my hands may tear<br>
+And give him piecemeal to the fowls of air?”<br>
+&emsp;“Oh! but for one sad duty to fulfil,<br>
+And one sweet flower that clings around me still,<br>
+How gladly would I rush upon thy sword,<br>
+And lose at once a being—now abhorr’d:<br>
+Prince—in a parent’s precious gore embrued,<br>
+Ne’er shall this steel be wet with other blood:<br>
+A mournful relic to my latest hour—<br>
+Spare then, or strike me, I am in thy power.”<br>
+&emsp;The Prince a moment paus’d—a deathlike dew<br>
+Suffused his frame, and hoarse his accents grew.—<br>
+&emsp;“No! no! I strike not him who shared my bread,<br>
+For one—but let our thoughts respect the dead!<br>
+If thou art guilty, live! thy curse is life—<br>
+If error struck, I have no cause of strife.<br>
+Fulfil the mournful rites, I could not bear<br>
+To view those eyes, and find no meaning there.<br>
+Zorayda! while the bitter shower I shed,<br>
+I’ll think thee pure, and but bewail thee dead,<br>
+I’ll rush to fields so often shared with thee—<br>
+Perchance some quiver holds a dart for me.”<br>
+&emsp;Meanwhile the fight is won; their leaders slain,<br>
+The routed Moslems hurry from the plain—<br>
+“Now, Raymond! Albert! now your forces join,<br>
+Press on their rear, pursue, destroy, confine!”<br>
+The Monarch cries, and leaves the fmish’d fray,<br>
+With double wreaths to crown one glorious day;<br>
+Where his brave archers on the distant plain,<br>
+Unconscious of the fight, a tenfold force sustain.<br>
+&emsp;Three times the foe had charged his heroes there;<br>
+Three times had broken on th’ unshrinking square;<br>
+Their steeds recoiling from that hedge of spears,<br>
+Whose every point a waving pendant bears.<br>
+Three times the baffled chiefs had ridden round<br>
+The equal sides, nor point of vantage found:<br>
+In vain their taunts or steely javelins fell,<br>
+Scorn smiled at those, and these their shields repel.<br>
+Again they come, the charge stern Adel leads,<br>
+And swarthy Mestoc, fam’d for daring deeds:<br>
+Full on the pikes they urge their generous steeds;<br>
+Drum, cymbal, trumpet, join their martial sound,<br>
+And dust in volumes veils the squadron round.<br>
+But still from every pike the pendants stream,<br>
+Still shines through mist the iron’s deadly gleam;<br>
+The coursers start, obey nor spur nor rein,<br>
+But break their ranks and riot o’er the plain.<br>
+&emsp;“Be fate upon thy point,” fierce Adel cried,<br>
+And flung his dart,—it pierced Llewellyn’s side;<br>
+Next, calm in silence, powerful Mestoc threw<br>
+His heavier spear, that youthful Harold slew.<br>
+“Now, Charge!” he shouted, “Charge! the day is ours;”—<br>
+But Sherwood’s archers pour their iron showers<br>
+With aim so true, that where their comrades died,<br>
+A mound of slaughter’d Ethiops fills the void.<br>
+&emsp;As daring Mestoc aims another wound,<br>
+His head, his arm fall sever’d to the ground;<br>
+’Twas <span class="smallcaps">Cœur de Lion’s</span> blow—so swift he came,<br>
+His deeds alone the matchless King proclaim.<br>
+The faithful steed, affrighted, bathed in gore,<br>
+Through shuddering ranks their headless leader bore.<br>
+While fear and wonder fill the shrinking host,<br>
+Grief swell’d in Schaunah’s brother bosom most;<br>
+Dark as a cloud when big with autumn rain,<br>
+And towering o’er the height of vulgar men;<br>
+On foot he fought, while from the burthen freed<br>
+Of his huge bulk, reposed his weary steed.<br>
+A groupe of spears his slaves attentive bear,<br>
+He chose the weightiest, one that few could rear,<br>
+And backward bending, as he aim’d its course,<br>
+That all his body’s weight might aid its force,<br>
+Hurl’d at the King—it pierced each stubborn fold<br>
+Of his tough shield, his surcoat wrought with gold,<br>
+Pierced his stout hauberk, but his vest beneath,<br>
+Stiff with embroidery, check’d th’ approaching death.<br>
+He cast the frustrate weapon on the sand,<br>
+And snatch’d a crossbow from a yeoman’s hand;<br>
+The well aim’d quarrel flies with hissing sound,<br>
+And Schaunah’s eye receives the torturing wound.<br>
+Bleeding and blind, and giddy with the pain,<br>
+He drops his shield, and staggers o’er the plain,<br>
+When through his casque a second arrow flies,<br>
+And pierced the brain—he bites the ground and dies.<br>
+&emsp;Incensed to see his loved Egyptians bleed,<br>
+The royal Adel spurs his chesnut steed!<br>
+He foams with rage, and bids his Prophet hear<br>
+His vows of vengeance, lost in empty air.<br>
+
 For soon the powerful quarrel check'd his pride; His better arm hangs useless by his side j 640 And where the jewell'd rein his fingers grasp, A second fixed it in their nerveless clasp; A third—though hung with glittering fringes round His charger's neck received th' unerring wound: Mad with the smart he gallops from the plain, Nor can his poss'erless lord his flight restrain. Strange was the conflict—gazing on the King Like some fell tiger, crouching ere he spring, The Christians wait, while one brave chief defies A mighty army, and that army flies— 650 Yet, as when rocks the hunted stag oppose, If bold through fear he turns, and fronts his foes, Then baying dogs and archers girá bim rotend, But stand at distance, lest his antlers wound. So forms the host aloof; and darts «re thrown, And stones and arrows shower'd on hkû alone: But like that stag when insect swarms assail, From helm and shield he shakes the dreadful hail. He couch'd a lance, and while his broomy crest Flamed in the splendours of the purpling west, 660 While from his arms ten thousand glories shine, Singly he rides along their crowded line;
 " Hear, Asia, hear! 'tis England claims the fight, 'Tis England's lance defies your proudest knight! Sons of the East! who boast yon glorious flame \ Inspires your valour, shall his parting beam > Bear to our Western Isles the tale of shame? y Breathes there not one for Islam's sake to meet His Prophet's foe, and veil his Faith's defeat." Ye generous Sons of Ayoub, had you heard, 670 What grief were yours! for not a warrior stirr'd—* Awhile the Monarch paus'd—then backward drew; " Now pour your darts," th' obedient arrows flew, While from the arbalist, with deadlier weight, The iron bolts shower fast, and scatter fate. If Christian priests pronounced those weapons curst, Well might the Moslem crowd who felt them first, By secret fears already urged to flight, Deem them some engine of infernal might, On Acre's plain and Arsouf's taught to know 680 The wondrous force of England's antient bow; A deadlier curse was here—they break, they fly— The bolt pursues them, and in flight they die.
-" St. George for England—Charge!" exclaim'd the King, And from the ground his eager warriors spring. Their bows are cast to earth, their falchions gleam j But soon in blood was quench'd the azure beam. In vain contending with his adverse fate, The Soldan sounds retreat,—but sounds too late, ’Twas headlong flight j while, pouring from the town, Each Christian joins to hunt the Moslems down; Once, since the dawn, with signal victory graced, Their pious zeal a second harvest blest. There was the martial prelate, Raymond's sword, Champagne and Nevile, Winton's gallant Lord; Grenvillc and Mortimer, and Lusignan, Maulëon, Multon, ever in the van, And stout De Mauny, whose descendant's name Calais and Poictiers give to lasting fame.* But ever first the matchless Richard flew; 700 Now for some chosen foe the quarrel drew; Now T bade some wretch his flying javelin feel, Or plied untired the unrelenting steel. vol. ıı. 2 л
+" St. George for England—Charge!" exclaim'd the King, And from the ground his eager warriors spring. Their bows are cast to earth, their falchions gleam j But soon in blood was quench'd the azure beam. In vain contending with his adverse fate, The Soldan sounds retreat,—but sounds too late, ’Twas headlong flight j while, pouring from the town, Each Christian joins to hunt the Moslems down; Once, since the dawn, with signal victory graced, Their pious zeal a second harvest blest. There was the martial prelate, Raymond's sword, Champagne and Nevile, Winton's gallant Lord; Grenvillc and Mortimer, and Lusignan, Maulëon, Multon, ever in the van, And stout De Mauny, whose descendant's name Calais and Poictiers give to lasting fame.* But ever first the matchless <span class="smallcaps">Richard</span> flew; 700 Now for some chosen foe the quarrel drew; Now T bade some wretch his flying javelin feel, Or plied untired the unrelenting steel. vol. ıı. 2 л
 Night darken'd on the chase, the moon arose, Yet still the Christians press their routed foes. The trembling slave that sought the veil of night, Curs'd the clear beam that guides the arrow's flight. Shame woke revenge, nor slept th' unsated blade While that soft light one turban'd head betray'd. ’Twas midnight ere the pious King could raise 7Ю In Jaffa's fane the rapturous voice of praise! On trophied biers Llewellyn, Harold lay, The easy price ofthat triumphant day. c The grateful host, while loud their anthems peal'd, Own'd Heav'n not more their falchion than their shield. Who but has known the blended thrill of joy, And pride, and grief, that waits on victory? When patriot rapture half repels the tear For those, oh! never, never, held so dear; And the lorn heart reproves the rising glow, 720 For what to it is fame or conquest now? Though its freed country be a name once more, Or rescued realms a thousand blessings pour. But what the pure, th' unsated rapture then, If the bright laurel shew no sanguine stain?
 Ami generous Pity, not Affliction gives The sacred dew that consecrates its leaves. Yet ev'n in Jaffa's walls two hearts o'erflow With more than pity for a conquer'd foe. With many a fruitless tear young Pardo gas'e 730 His wretched parent to the silent grave; And tapers burn'd, and ceaseless mass was said— If aught our pious cares avail the dead. Beneath his trophied pillar, vainly rear'd By Sharon's fount, a simple pile appear'd, Where filial los r e, still jealous of her fame, Alone inscribes Zorayda's mystic name. Meanwhile, her heart with equal anguish wrung, Above her father's couch Amina hung. With herbs of power she cool'd his burning head, And as her hands each healing bandage laid, Sobb'd to believe his wounds beyond her aid. Oft to his couch with noiseless step she crept, And indrawn breath, to mark if yet he slept; Trembling to break a rest so calm and deep. Yet fearful death might wear the mask of sleep. Then watch'd retired, that every breeze sshich came From the calm deep, might cool his fever'd frame, 2 a 2
 if evd fate in evil glances lie, Drops less than balm from that mild dovclike eye? At length Almanzor moved,—he waked, he smiled; Delightful moment ' for he knows his child. Rapt from his sight, Maimoune's spells had shed Grief through hi& soul, and he had mourn'd her dead; But now he marks hci renovated charms, And blest, and strain'd her in his feeble arms; While, us she fondly watch'd his brightening eye, And terror strove with gratitude and joy, She tells her hopes;—he, stiuggling with his pain, Smiles, for he feels, but will not speak them vain Yet oft, his frame as keener tortures stung, Deep, deadly curses falter'd from his tongue On all of Christian faith— Amina nigh, Averts her waning cheek and tearful eye. íť Light of my age, what means this changing cheei? Sure thou wilt curse with hatred as sincere > Though not by insult stamp'd so deep," he cric% " The impious race by which thy father dies? Thou art their captive too—but see ' again— My daughtei '—has some Afrit warp' d thy brain >"
