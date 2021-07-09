@@ -6718,7 +6718,7 @@ A turret’s height, and scans th’ unruffled main:<br>
 “Oh God! those ships, that on so proudly bore,<br>
 Now turn their towering prows and shun the shore!<br>
 Alas! those yellow flags on every post<br>
-Deceive the King, and Palestine is lost!
+Deceive the King, and Palestine is lost!<br>
 Does Heaven indeed forsake us?”—But he caught,<br>
 Even as he breath’d despair, th’ inspiring thought:<br>
 “One hope remains, one only hope,” he cried,<br>
@@ -6857,7 +6857,7 @@ Still mix’d with balm the envenom’d cup she gave,<br>
 In mercy summon’d to a sterner part,<br>
 Now weeps each pang she gives a father’s heart.<br>
 As the brave Soldan, o’er the death-strewn field<br>
-Towards England’s King his starting steed compell’d,
+Towards England’s King his starting steed compell’d,<br>
 He sees—oh Alla! ’tis his favourite child,<br>
 Senseless and pale, with blood and dust defiled!<br>
 His Mirzalis, on whom he sought to place<br>
@@ -6933,20 +6933,326 @@ Distorted faces, pale, or dark with blood;<br>
 When through their tatter’d scarfs the night-wind sighs,<br>
 When the cold beam reflected from their eyes<br>
 Gives an unnatural life; and, feasting nigh,<br>
-Hark! to th' hyena's laugh, the shakal's cry; Or the low groan, the gasp, the rattling breath, Where still some suffering spirit strives with death. 20 And now the rush of wings—her footsteps near, 4 From their dire feast the heavy vultures scare! ъ. What horrors spread below?—ah! look not there. ^7 Her brow is fix'd in anguish, but her eye Gazed on the dead as if on vacancy; There were but two on all that sanguine plain Whose sight could wring her guilty soul with pain. All day she watch'd—they came not, and the cry Of hope, despair, delight, and victory Fell cold upon her sense. Could conquest cheer 30 Her self-accusing soul, if blood be there? The slippery field beguiles her hurried tread, She wades in gore, she stumbles o'er the dead.
-One wretch, convulsed in nature's latest gasp, Seized her loose robe—she frees her from his clasp, But stops not on his livid brow to gaze, Though well that face was known in happier days. She reached a spot with thicker carnage spread; There headless trunks and limbs dismember'd laid, Coursers, that perish'd where their masters died, 40 Turbans and sabres, helms of knightly pride, Shields where the bloody Cross dishonour'd shone, And crescents, glittering in the kindred moon. On all she looks, but pauses not, her mind Fix'd upon those she seeks, yet dreads to find; Pale but unshrinking—lo 1 where yonder beam, From that bright helm awakes an emerald gleam! She shrieks—her grasp her burning brow comprest, But goading conscience urged severer haste: She sinks beside the Knight; her hurried hands 50 The vizor raise, and loose the helmet's bands; With patient toil she chafes his lifeless head,— Oh! is that cheek with mortal paleness spread, One that once mantled in her smile, and took Its form, its colour from her changing look? Is that closed eye the one that proudly shone, Speaking each thought, nor droop'd but at her frown? ν 3
-Those curls—the casque's incessant weight had worn Their auburn beauty, but in youth's gay morn How had she loved (so pride confesses now) 60 Their sunny radiance and luxuriant flow! She looks, till other years revive again, A flood of tears relieves her burning brain: And see! upon his breast, like marble cold, Warm as they fall, his languid eyes unfold, Then closed, as if some hateful sight to hide, tl Hence! let me die in peace," he faintly sigh'd, And give at least my parting thoughts to heaven." 70 " No never, never, till by thee forgiven; Though here I perish, kneeling at thy side," With broken voice the sobbing maid replied. tc Yet—yet thou liv'st—and if the skill be mine, Which once—nay, wherefore that impatient sign? If e'er thou loveďst me, do not scorn my aid;— Thou can'st not wish thy blood upon my head." íť Oh thou fair Syren! can'st thou yet deceive? Thou dost but speak, and I again believe! Yet here thy aid were vain— i know of old The smart of wounds, but now my heart is cold. Yet there is one^—and he may linger still, 80 On youder mound—there, there renew thy skill,—
-His blood is heavier on thy soul than mine; Again those eyes in borrow'd light must shine 1 — What! can it be so hard once more to feign? Oh Hermesind! if it be now a pain, Be it thy penance—soothe his parting hour; Or should thy cares his fleeting life restore, Confess thy faults, and if he love thee still, Then be thou his, and study all his will. Heaven treat thy wrongs to me, as thou art true 90 To what I charge thee now—Oh, God!—adieu."— Yet still she holds his head,—she lingeis there, Pale as himself, a statue of despair. Again his eyes unclos'd—no word he spoke, But oh! the pointing hand, th' upbraiding look. " And must I leave thee, ere thine hour be past?" She hears a sigh, and feels that sigh his last,— Then ’mid the bitter tears that gush'd so fast She sees not where her reckless footsteps tread; Weak, trembling, pale, she staggers o'er the dead, A voice breathes low—the cold, the sense of pain, Had waked Ricardo from his trance again; Her whisper'd name arrests her startled ear, *' Oh, once again!—yet can I wish her here?"— γ 4
-He sees her at his side—In life's last throe, Can then the soul such heavenly rapture know? O'er him she bends, her eyes in sorrow swim; Those precious tears! and are they shed for him? O'er his pale brow a sudden crimson past, " Sweet Hermesind, I thought this hour my last, 110 But oh î thou com'st to cheer me and forgive,— How cau I perish, if thou bid'st me live?" " Live then! this hour shall Heaven attest my vow, I dare not trust my changing fancies now j Live! and by holiest ties I pledge me thine; if not—yon convent is thy grave and mine % There will I o'er my wretched victims moan, Bewail their death, and fit me for my own." She looked, the transient glow had left his cheek, He gazes still, and strives in vain to speak, 120 But to his lips her yielded hand he prest, — A smile proclaims his parting spirit blest. In Ramia' s walls the Soldan's scatter'd powers Meanwhile convene, and throng her narrow towers. The first false daybreak, faintly seen afar, Called to the Mosque the leaders of the war;
-There camphorous torches half dispel the gloom, And all Sabæa fills the spacious dome; While he whom Asia's thousand thrones obey'd, Wrapp'd in the tarnish'd robes of grief, and laid On a high bier, with funeral white o'erspread, Weeps o'er his slaughter'd child. The Imaums there Awake the Koran's holiest rites of prayer j They laud th' Eternal God, an endless theme, Creator, Ruler, Merciful, Supreme. Blest had they said no more, nor while they own Th' Almighty Sire of Heaven, denied the Son, Nor for the promised Paraclete adored Th' Impostor's name, th' Apostle of the sword! Now stung with rage, as less by grief subdued, 140 Full in the midst gigantic Adel stood, Completely arm'd, while high his triple plume Like some pale meteor shone amid the gloom. " Enough! for Mirzalis our tears are shed -, To death and silence let us yield the dead, And wake to vengeance. Gracious Saladine, Shall yon bright sun upon our shame decline? So many leaves of golden glory past, Shall our stain'd annals write in tears at last,
-ť Behold, one Christian lauded, and we fled, 150 While unavenged the seed of Joseph bled!' Forbid it shame, forbid it Him on high, Who holds tb/ eternal scroll of destiny; And hark! those clamours—they announce a band Now fresh from Egypt's unexhausted land, Untaught to tremble—wilt thou waste their zeal, Nor prove this fiend accessible to steel? Oh! as his impious deeds shall surely shine In Sejjin, record of the wrath divine? As never he in Eden's streams shall lave, 160 Nor quaff by Alla's throne of Tasnim's wave; I call to war, and in the Prophet's name I breathe the curse that dooms defeat and shame." He paus'd, and raising high his clenched hand, Cast towards the Christian camp th' opprobrious sand, " The curse of Beder, where the Koreish fled; Confusion, Death, upon his impious head." b Slow rose the aged Soldan, whelm'd with fate, " See here how little Azraei spares the great! The dark and narrow home, the simple sjiroud 170 Are all that wait the wealthy and the proud j And let us reap the lesson, taught to know, Perchance his next dread summons calls our foe.
-But this frail arm no more the lance may wield— My brother, lead my squadrons to the field." Alraanzor frown'd: i( Upon th 1 accursed tower I fought, I bent before that dreadful Giaour; Behold this scar! my turban, ne'er before Profaned with dust, was crimson with my gore 3 Behold this belt! the pledge of mortal fray,— 180 When next we meet the wolf shall find his prey." i( A stronger claim is mine," Zorayda cries, <c The wrongs which feed a hate that never dies." " And mine," cried Afdhal, " Christian blood shall rain, And orphans' tears embalm my brother slain." But Mcstoc, blushing for his recent flight, Fell prostrate: " Adel, lead us to the fight! Oh! Saladme, forgive thy guilty slave! Wealth, honours, power, to mc thy bounty gave j Rais'd from the dust to stand beside thy throne, 190 What but his life can Mestoc call his own! That life I here devote j in Alla's eye, And Islam's cause, X vow to kill or die." Fired by new succours, while they thus prepare By one dire blow to end the lingering war,
-King Richard views his troops, alarm'd to find That scarce a tenth of those he left behind The sword had spared, and on the onen shore \ Arrays the little band his vessels bore; \ His kingdom's troubled state allowed no more. 200* Five hundred yeomen; half could bend the yew, Half bore the cross-bow, and the quarrel drew; And ten brave knights—yet each himself an host, In later years had been a nation's boast. While there in sport they practise on the plain, Nor deem the routed foe could form again, They mark a thickening cloud, and hear the sound Of distant drums, and steeds that shake the ground. Soon Richard's skilful eye their numbers knew; Seven thousand strong, and his brave troops how few! An instant's pause decides—with cheerful air He bids them form th' impenetrable square: The kneeling front a hedge of pikes present, Next o'er their heads the ready archers bent; Erect behind, the tallest yeomen stand, The dreadful cross-bow charged in every hand. Si Comrades, be firm!" he cries; " a warrior knows His own desert, nor ever counts his foes;
-Danger is fame! not always shall belong Wreaths to the swift, nor victory to the strong; Heaven holds the balance, and at will supplies Wit to the foolish, or confounds the wise. Be fix'd, be motionless; sustain their shock, Nor wounds must tempt, nor keener taunts provoke: The first that stirs shall die, since he who draws, In private battle, risques the general cause. Expect my word,—no useless javelin cast, Nor on the foe one guiltless arrow waste; Till from your pikes recoils the startled steed, And death may fly on every slender reed." 230 He spoke; the weak grew strong, the coward bold, A general shout their cheerful ardour told: They knew their Monarch, and his single might Was more than thousands in the hour of fight. But as the dusty cloud approaches near, And the loud music swells distinct and clear, An Envoy speaks, by Richard heard alone, " While here you ride, Almanzor storms the town!" " Peace! on your life," the prudent King replied: ie Soldiers be firm! for further aid I ride, 240 But will not linger:"—to his side he calls The knightly ten, and gallops to the walls.
-Already on the south the combat raged, And brave Champagne superior force engaged. Where, through the battcr'd walls they forced before Their bloody way, again the Arabs pour; Almanzor heads their fierce assault, nor heeds What dangers threat, or how the battle bleeds. Half heaped withstones, the moat is choaked with slain, The crumb'ing towers a second siege sustain î 250 When Richar», entering by th' unguarded north, Spurs through the town, and leads the Christians forth. Their sally daunts the foe, their shouts confound, And turbans fall, and blood is streaming round 3 While, dreadful as the desert winds that sear The reddening harvest, and defraud the year, He smites the faltering crowd; his coal-black steed O'er dead and dying bounds with reckless speed, Champs his rich curb, and shakes his glossy mane, Rejoiced to bear his royal load again. 260 Still unrelenting in his fierce advance, Young Hamsa perish'd on his rested lance j He drew it back, and though at random cast, Through stern Mozaffer's lifted arm it past, And pierced Khorazin. Zulemah beheld His father's fall,—and, firm in grief, impell'd
-The heavy spear; aside the Monarch sprung, And in his courser's woven mail it hung. He rear'd his mace,—that mace whose iron weight, Studded with horrid spikes, was instant fate; 270 Struck with new fear, the youth retires in vain, A shapeless mass he tumbles to the plain. Again the mace was rear'd,— Abdallah nigh, Benumb'd with terror, lost the power to fly: His angel saved him—for the Monarch's eye Fix'd on stout Richmond, who dismounted stood Against a host, and dyed the field with blood. He seized a Persian charger's golden rein, And hurl'd the startled rider to the plain; Mounts the brave Earl, then rushes on the band 280 That fell like grass before his mighty hand. Soon, as with undistinguish'd carnage tired, His noble soul a worthier foe requir'd, Zorayda saw;—in vain her lover tried To check her course, and generous Aimahide: Impell'd by fate, or by a woman's pride Tq veil her fears, " No! no! to me belong The risk, the fame, and justice makes me strong. Oh thou!" she cried, " in virtue's specious name, Who stabb'st the trusting friend, the virgin's fame,
-Richard op England, now for fight prepare, "\ A victim calls, and vengeance guides the spear,"— f " There breathes not one whom Richard ought Γ to fear:" J Firmly he answer'd j when before him stood The blood-red knight of Arsouf's magic wood. For once the ruddy glow his cheek forsook, And in his grasp th* Armorie falchion shook; " No, not with thee! for thee my heart has bled, Lost as thou art, thy blood I cannot shed." Zorayda's laugh hysteric burst to hide 300 How conscience strove with hatred and with pride: t{ Ha! this is well! 'twere poor to see thee bleed, To see thee tremble is revenge indeed; The Lion's hide reveals the Hart below, And Cœur de Lion fears—a female foe!" ct Hence, hence from honour's field!" the King replied, " Hence! in the harem's secret chambers hide; False to thy God, apostate to thy sex, Go, where thy sight no Christian eye may vex. What though thou know'st that, true to knighthood's vow, 310 ï will not write thy guilt upon thy brow,
-Dread, lest again th' offended skies should flame, And Heaven's red bolt bear witness of thy shame." She strove for speech, but Aladin detains Her gentle steed, her rash design arraigns: 4i Not for my sake, but for thine own, retire; His skill, his strength, a manly arm require. Cold as thou art, to me this fight belongs— The slave at least may feel his lady's wrongs." His generous zeal the Monarch's pity di aws; 320 te Brave youth! thy worth deserves a better cause." Rejoiced, he saw Almanzor's headlong speed Before the Prince impel his snorting steed. " Turn, braggart! less than woman, turn! for now My jewel blushes on thy recreant brow. Turn, 'tis a fight which thou art sworn to bide." " And one I would not shun," the King replied. Now here, now there the well taught chargers wheel; The helmets ring and gleams the azure steel; But Richard, as in martial pastime cool, 330 Prevents th' intended stroke, and fights by rule: While, urged by wounded pride, his fiercer foe, Intent to give, forgets to ward the blow, And bleeds at many a wound. Not oft avail His deadly thrusts to pierce the Norman mail;,\ r OL. II.,ζ
+Hark! to th’ hyena’s laugh, the shakal’s cry;<br>
+Or the low groan, the gasp, the rattling breath,<br>
+Where still some suffering spirit strives with death.<br>
+And now the rush of wings—her footsteps near,<br>
+From their dire feast the heavy vultures scare!<br>
+What horrors spread below?—ah! look not there.<br>
+Her brow is fix’d in anguish, but her eye<br>
+Gazed on the dead as if on vacancy;<br>
+There were but two on all that sanguine plain<br>
+Whose sight could wring her guilty soul with pain.<br>
+&emsp;All day she watch’d—they came not, and the cry<br>
+Of hope, despair, delight, and victory<br>
+Fell cold upon her sense. Could conquest cheer<br>
+Her self-accusing soul, if blood be there?<br>
+The slippery field beguiles her hurried tread,<br>
+She wades in gore, she stumbles o’er the dead.<br>
+One wretch, convulsed in nature’s latest gasp,<br>
+Seized her loose robe—she frees her from his clasp,<br>
+But stops not on his livid brow to gaze,<br>
+Though well that face was known in happier days.<br>
+&emsp;She reached a spot with thicker carnage spread;<br>
+There headless trunks and limbs dismember’d laid,<br>
+Coursers, that perish’d where their masters died,<br>
+Turbans and sabres, helms of knightly pride,<br>
+Shields where the bloody Cross dishonour’d shone,<br>
+And crescents, glittering in the kindred moon.<br>
+On all she looks, but pauses not, her mind<br>
+Fix’d upon those she seeks, yet dreads to find;<br>
+Pale but unshrinking—lo! where yonder beam,<br>
+From that bright helm awakes an emerald gleam!<br>
+She shrieks—her grasp her burning brow comprest,<br>
+But goading conscience urged severer haste:<br>
+She sinks beside the Knight; her hurried hands<br>
+The vizor raise, and loose the helmet’s bands;<br>
+With patient toil she chafes his lifeless head,—<br>
+Oh! is that cheek with mortal paleness spread,<br>
+One that once mantled in her smile, and took<br>
+Its form, its colour from her changing look?<br>
+Is that closed eye the one that proudly shone,<br>
+Speaking each thought, nor droop’d but at her frown?<br>
+Those curls—the casque’s incessant weight had worn<br>
+Their auburn beauty, but in youth’s gay morn<br>
+How had she loved (so pride confesses now)<br>
+Their sunny radiance and luxuriant flow!<br>
+She looks, till other years revive again,<br>
+A flood of tears relieves her burning brain:<br>
+And see! upon his breast, like marble cold,<br>
+Warm as they fall, his languid eyes unfold,<br>
+Then closed, as if some hateful sight to hide,<br>
+“Hence! let me die in peace,” he faintly sigh’d,<br>
+And give at least my parting thoughts to heaven.”<br>
+&emsp;“No never, never, till by thee forgiven;<br>
+Though here I perish, kneeling at thy side,”<br>
+With broken voice the sobbing maid replied.<br>
+“Yet—yet thou liv’st—and if the skill be mine,<br>
+Which once—nay, wherefore that impatient sign?<br>
+If e’er thou loveďst me, do not scorn my aid;—<br>
+Thou can’st not wish thy blood upon my head.”<br>
+&emsp;“Oh thou fair Syren! can’st thou yet deceive?<br>
+Thou dost but speak, and I again believe!<br>
+Yet here thy aid were vain—I know of old<br>
+The smart of wounds, but now my heart is cold.<br>
+Yet there is one—and he may linger still,<br>
+On yonder mound—there, there renew thy skill,—<br>
+His blood is heavier on thy soul than mine;<br>
+Again those eyes in borrow’d light must shine!—<br>
+What! can it be so hard once more to feign?<br>
+Oh Hermesind! if it be now a pain,<br>
+Be it thy penance—soothe his parting hour;<br>
+Or should thy cares his fleeting life restore,<br>
+Confess thy faults, and if he love thee still,<br>
+Then be thou his, and study all his will.<br>
+Heaven treat thy wrongs to me, as thou art true<br>
+To what I charge thee now—Oh, God!—adieu.”<br>
+&emsp;Yet still she holds his head,—she lingers there,<br>
+Pale as himself, a statue of despair.<br>
+Again his eyes unclos’d—no word he spoke,<br>
+But oh! the pointing hand, th’ upbraiding look.<br>
+“And must I leave thee, ere thine hour be past?”<br>
+She hears a sigh, and feels that sigh his last,—<br>
+Then ’mid the bitter tears that gush’d so fast<br>
+She sees not where her reckless footsteps tread;<br>
+Weak, trembling, pale, she staggers o’er the dead,<br>
+A voice breathes low—the cold, the sense of pain,<br>
+Had waked Ricardo from his trance again;<br>
+Her whisper’d name arrests her startled ear,<br>
+“Oh, once again!—yet can I wish her here?”<br>
+He sees her at his side—In life’s last throe,<br>
+Can then the soul such heavenly rapture know?<br>
+O’er him she bends, her eyes in sorrow swim;<br>
+Those precious tears! and are they shed for him?<br>
+O’er his pale brow a sudden crimson past,<br>
+“Sweet Hermesind, I thought this hour my last,<br>
+But oh! thou com’st to cheer me and forgive,—<br>
+How can I perish, if thou bid’st me live?”<br>
+&emsp;“Live then! this hour shall Heaven attest my vow,<br>
+I dare not trust my changing fancies now;<br>
+Live! and by holiest ties I pledge me thine;<br>
+if not—yon convent is thy grave and mine;<br>
+There will I o’er my wretched victims moan,<br>
+Bewail their death, and fit me for my own.”<br>
+&emsp;She looked, the transient glow had left his cheek,<br>
+He gazes still, and strives in vain to speak,<br>
+But to his lips her yielded hand he prest,—<br>
+A smile proclaims his parting spirit blest.
+
+In Ramia's walls the Soldan's scatter'd powers<br>
+Meanwhile convene, and throng her narrow towers.<br>
+The first false daybreak, faintly seen afar,<br>
+Called to the Mosque the leaders of the war;<br>
+There camphorous torches half dispel the gloom,<br>
+And all Sabæa fills the spacious dome;<br>
+While he whom Asia's thousand thrones obey'd,<br>
+Wrapp'd in the tarnish'd robes of grief, and laid<br>
+On a high bier, with funeral white o'erspread,<br>
+Weeps o'er his slaughter'd child. The Imaums there<br>
+Awake the Koran's holiest rites of prayer;<br>
+They laud th' Eternal God, an endless theme,<br>
+Creator, Ruler, Merciful, Supreme.<br>
+Blest had they said no more, nor while they own<br>
+Th' Almighty Sire of Heaven, denied the Son,<br>
+Nor for the promised Paraclete adored<br>
+Th' Impostor's name, th' Apostle of the sword!<br>
+&emsp;Now stung with rage, as less by grief subdued,<br>
+Full in the midst gigantic Adel stood,<br>
+Completely arm'd, while high his triple plume<br>
+Like some pale meteor shone amid the gloom.<br>
+&emsp;“Enough! for Mirzalis our tears are shed;<br>
+To death and silence let us yield the dead,<br>
+And wake to vengeance. Gracious Saladine,<br>
+Shall yon bright sun upon our shame decline?<br>
+So many leaves of golden glory past,<br>
+Shall our stain'd annals write in tears at last,<br>
+‘Behold, one Christian lauded, and we fled,<br>
+While unavenged the seed of Joseph bled!'<br>
+Forbid it shame, forbid it Him on high,<br>
+Who holds the eternal scroll of destiny;<br>
+And hark! those clamours—they announce a band<br>
+Now fresh from Egypt's unexhausted land,<br>
+Untaught to tremble—wilt thou waste their zeal,<br>
+Nor prove this fiend accessible to steel?<br>
+Oh! as his impious deeds shall surely shine <br>
+In Sejjin, record of the wrath divine;<sup>a</sup><br>
+As never he in Eden's streams shall lave,<br>
+Nor quaff by Alla's throne of Tasnim's wave;<br>
+I call to war, and in the Prophet's name<br>
+I breathe the curse that dooms defeat and shame."<br>
+He paus'd, and raising high his clenched hand,<br>
+Cast towards the Christian camp th' opprobrious sand,<br>
+&emsp;“The curse of Beder, where the Koreish fled;<br>
+Confusion, Death, upon his impious head."<sup>b</sup><br>
+Slow rose the aged Soldan, whelm'd with fate,<br>
+“See here how little Azrael spares the great!<br>
+The dark and narrow home, the simple shroud<br>
+Are all that wait the wealthy and the proud;<br>
+And let us reap the lesson, taught to know,<br>
+Perchance his next dread summons calls our foe.<br>
+But this frail arm no more the lance may wield—<br>
+My brother, lead my squadrons to the field."<br>
+&emsp;Almanzor frown'd: “Upon th’ accursed tower I fought,<br>
+I bent before that dreadful Giaour;<br>
+Behold this scar! my turban, ne’er before<br>
+Profaned with dust, was crimson with my gore;<br>
+Behold this belt! the pledge of mortal fray,— <br>
+When next we meet the wolf shall find his prey.”<br>
+&emsp;“A stronger claim is mine,” Zorayda cries,<br>
+“The wrongs which feed a hate that never dies.”<br>
+&emsp;“And mine,” cried Afdhal, “Christian blood shall rain,<br>
+And orphans’ tears embalm my brother slain.”<br>
+&emsp;But Mestoc, blushing for his recent flight,<br>
+Fell prostrate: “Adel, lead us to the fight!<br>
+Oh! Saladine, forgive thy guilty slave!<br>
+Wealth, honours, power, to me thy bounty gave;<br>
+Rais’d from the dust to stand beside thy throne,<br>
+What but his life can Mestoc call his own!<br>
+That life I here devote; in Alla’s eye,<br>
+And Islam’s cause, I vow to kill or die.”<br>
+&emsp;Fired by new succours, while they thus prepare<br>
+By one dire blow to end the lingering war,<br>
+King <span class="smallcaps">Richard</span> views his troops, alarm’d to find<br>
+That scarce a tenth of those he left behind<br>
+The sword had spared, and on the open shore<br>
+Arrays the little band his vessels bore;<br>
+His kingdom’s troubled state allowed no more.<br>
+Five hundred yeomen; half could bend the yew,<br>
+Half bore the cross-bow, and the quarrel drew;<br>
+And ten brave knights—yet each himself an host,<br>
+In later years had been a nation’s boast.<br>
+&emsp;While there in sport they practise on the plain,<br>
+Nor deem the routed foe could form again,<br>
+They mark a thickening cloud, and hear the sound<br>
+Of distant drums, and steeds that shake the ground.<br>
+Soon <span class="smallcaps">Richard’s</span> skilful eye their numbers knew;<br>
+Seven thousand strong, and his brave troops how few!<br>
+An instant’s pause decides—with cheerful air<br>
+He bids them form th’ impenetrable square:<br>
+The kneeling front a hedge of pikes present,<br>
+Next o’er their heads the ready archers bent;<br>
+Erect behind, the tallest yeomen stand,<br>
+The dreadful cross-bow charged in every hand.<br>
+&emsp;“Comrades, be firm!” he cries; “a warrior knows<br>
+His own desert, nor ever counts his foes;<br>
+Danger is fame! not always shall belong<br>
+Wreaths to the swift, nor victory to the strong;<br>
+Heaven holds the balance, and at will supplies<br>
+Wit to the foolish, or confounds the wise.<br>
+Be fix’d, be motionless; sustain their shock,<br>
+Nor wounds must tempt, nor keener taunts provoke:<br>
+The first that stirs shall die, since he who draws,<br>
+In private battle, risques the general cause.<br>
+Expect my word,—no useless javelin cast,<br>
+Nor on the foe one guiltless arrow waste;<br>
+Till from your pikes recoils the startled steed,<br>
+And death may fly on every slender reed.”<br>
+&emsp;He spoke; the weak grew strong, the coward bold,<br>
+A general shout their cheerful ardour told:<br>
+They knew their Monarch, and his single might<br>
+Was more than thousands in the hour of fight.<br>
+But as the dusty cloud approaches near,<br>
+And the loud music swells distinct and clear,<br>
+An Envoy speaks, by <span class="smallcaps">Richard</span> heard alone,<br>
+“While here you ride, Almanzor storms the town!”<br>
+“Peace! on your life,” the prudent King replied:<br>
+“Soldiers be firm! for further aid I ride,<br>
+But will not linger:”—to his side he calls<br>
+The knightly ten, and gallops to the walls.<br>
+&emsp;Already on the south the combat raged,<br>
+And brave Champagne superior force engaged.<br>
+Where, through the batter’d walls they forced before<br>
+Their bloody way, again the Arabs pour;<br>
+Almanzor heads their fierce assault, nor heeds<br>
+What dangers threat, or how the battle bleeds.<br>
+Half heaped with stones, the moat is choaked with slain,<br>
+The crumbling towers a second siege sustain;<br>
+When <span class="smallcaps">Richard</span>, entering by th’ unguarded north,<br>
+Spurs through the town, and leads the Christians forth.<br>
+Their sally daunts the foe, their shouts confound,<br>
+And turbans fall, and blood is streaming round;<br>
+While, dreadful as the desert winds that sear<br>
+The reddening harvest, and defraud the year,<br>
+He smites the faltering crowd; his coal-black steed<br>
+O’er dead and dying bounds with reckless speed,<br>
+Champs his rich curb, and shakes his glossy mane,<br>
+Rejoiced to bear his royal load again.<br>
+&emsp;Still unrelenting in his fierce advance,<br>
+Young Hamsa perish’d on his rested lance;<br>
+He drew it back, and though at random cast,<br>
+Through stern Mozaffer’s lifted arm it past,<br>
+And pierced Khorazin. Zulemah beheld<br>
+His father’s fall,—and, firm in grief, impell’d<br>
+The heavy spear; aside the Monarch sprung,<br>
+And in his courser’s woven mail it hung.<br>
+He rear’d his mace,—that mace whose iron weight,<br>
+Studded with horrid spikes, was instant fate;<br>
+Struck with new fear, the youth retires in vain,<br>
+A shapeless mass he tumbles to the plain.<br>
+Again the mace was rear’d,— Abdallah nigh,<br>
+Benumb’d with terror, lost the power to fly:<br>
+His angel saved him—for the Monarch’s eye<br>
+Fix’d on stout Richmond, who dismounted stood<br>
+Against a host, and dyed the field with blood.<br>
+He seized a Persian charger’s golden rein,<br>
+And hurl’d the startled rider to the plain;<br>
+Mounts the brave Earl, then rushes on the band<br>
+That fell like grass before his mighty hand.<br>
+&emsp;Soon, as with undistinguish’d carnage tired,<br>
+His noble soul a worthier foe requir’d,<br>
+Zorayda saw;—in vain her lover tried<br>
+To check her course, and generous Aimahide:<br>
+Impell’d by fate, or by a woman’s pride<br>
+To veil her fears, “No! no! to me belong<br>
+The risk, the fame, and justice makes me strong.<br>
+Oh thou!” she cried, “in virtue’s specious name,<br>
+Who stabb’st the trusting friend, the virgin’s fame,<br>
+<span class="smallcaps">Richard</span> of England, now for fight prepare,<br>
+A victim calls, and vengeance guides the spear,”<br>
+&emsp;“There breathes not one whom <span class="smallcaps">Richard</span> ought to fear:”<br>
+&emsp;Firmly he answer’d;when before him stood<br>
+The blood-red knight of Arsouf’s magic wood.<br>
+For once the ruddy glow his cheek forsook,<br>
+And in his grasp th’ Armorie falchion shook;<br>
+“No, not with thee! for thee my heart has bled,<br>
+Lost as thou art, thy blood I cannot shed.”<br>
+&emsp;Zorayda’s laugh hysteric burst to hide<br>
+How conscience strove with hatred and with pride:<br>
+“Ha! this is well! ’twere poor to see thee bleed,<br>
+To see thee tremble is revenge indeed;<br>
+The Lion’s hide reveals the Hart below,<br>
+And Cœur de Lion fears—a female foe!”<br>
+&emsp;“Hence, hence from honour’s field!” the King replied,<br>
+“Hence! in the harem’s secret chambers hide;<br>
+False to thy God, apostate to thy sex,<br>
+Go, where thy sight no Christian eye may vex.<br>
+What though thou know’st that, true to knighthood’s vow,<br>
+I will not write thy guilt upon thy brow,<br>
+Dread, lest again th’ offended skies should flame,<br>
+And Heaven’s red bolt bear witness of thy shame.”<br>
+&emsp;She strove for speech, but Aladin detains<br>
+Her gentle steed, her rash design arraigns:<br>
+“Not for my sake, but for thine own, retire;<br>
+His skill, his strength, a manly arm require.<br>
+Cold as thou art, to me this fight belongs—<br>
+The slave at least may feel his lady’s wrongs.”<br>
+&emsp;His generous zeal the Monarch’s pity draws;<br>
+“Brave youth! thy worth deserves a better cause.”<br>
+Rejoiced, he saw Almanzor’s headlong speed<br>
+Before the Prince impel his snorting steed.<br>
+&emsp;“Turn, braggart! less than woman, turn! for now<br>
+My jewel blushes on thy recreant brow.<br>
+Turn, ’tis a fight which thou art sworn to bide.”<br>
+&emsp;“And one I would not shun,” the King replied.<br>
+&emsp;Nowhere, now there the well taught chargers wheel;<br>
+The helmets ring and gleams the azure steel;<br>
+But <span class="smallcaps">Richard</span>, as in martial pastime cool,<br>
+Prevents th’ intended stroke, and fights by rule:<br>
+While, urged by wounded pride, his fiercer foe,<br>
+Intent to give, forgets to ward the blow,<br>
+And bleeds at many a wound. Not oft avail<br>
+His deadly thrusts to pierce the Norman mail;<br>
+
 While Caliburn, where'er its edge descends, Divides the buckler and the corselet rends; Yet, with each wound Almanzor's fury grows, And swift and swifter fall his deafening blows. Long hung the doubtful fight, till Richard's mind, Oft wandering to the band he left behind, Impels th' impatient steel; the Arab's vest Receives the blow, it pierced his mighty chest. Inly he bleeds; his waning strength he feels; Before his eyes the fading landscape reels; Yet either hand the dreadful sabre bore, Despair and torture prompt one effort more, Where o'er the Monarch's pliant hauberk roll'd, On his rich scarf the lion grins in gold: But Richard leap'd aside—the mighty thrust 350 Baulk'd of its aim, Almanzor bites the dust. Brave Pardo mark'd his fall; in thought he bears Amina's shrieks, and sees her flowing tears; While the fierce King the sorrowing Arabs chaeed, Their dying leader on his steed he placed, And bore to Jaffa's walls; but dares not stay To kiss the flood of filial grief away: Once more he gives his eager roan the rein, And breathing war, he gallops to the plain.
 He meets Zorayda, lost in troubled thought, 360 Not now, as late among the first she fought; But mused apart—'* If with no braver Knight Engaged to meet, tbou shun'st promiscuous fight, Here let our swords our mutual prowess prove, And try the combat for our ladies' kwe." " Behold my mistress here! " she fiercely said, And rais'd her shield: it bore the Gorgon's head. " Would it could turn thy hated race to stone: Revenge and hate are all the loves I own. But words are vain; What stripling he, who dares To brave that arm which Cœur de Lion fears? Thy mien is noble; but that ample shield- Has treason stain'd its badge, or why conceal'd? " ťí And would'st thou, warrior! of my birth inquire? The Church my mother, and this sword my sire; I knew no parent's care; this shield alone— But no! 1 would not it should make me known, Till the first Priuce might wish me for his own. Aud for the rest—these spurs a Monarch gave, A proof he loved me, and believed me brave. 380 For thee, thy speech and arms betray that those With whom thou combat'st, should have been thy foes; z 2
 But I inquire not, lest thy lips declare A name some noble race might blush to hear. **" Presumptuous boy! " she said, " methinks thy tongue Should be less bold, unless thy lance be strong." They wheel'd around, and met in short career, Backward he bent beneath her powerful spear; But his light lance has broken on her shield- Taunting she flung the fragments on the field. 390 " 'Tis well, stout champion!—■ next thy sword should shew If aught but words bc thine to wound a foe." íť Nay, courteous Knight! behold its azure sheen, I would not that my wit were half so keen." They closed in fight, Zorayda fought with all A warrior's strength, and more than warrior's gall. For woman, when she bursts the bounds assign'd By Heaven and nature, no restraints can bind; As some fair garden, should its fence decay, Becomes to wolves and ravenous birds a prey, 400 Fruits fade and flowers, while weeds accurst and vile, With rampant vigour choke the fruitful soil. Thus droop the Virtues, thus, without control, All the feil Furies riot in her soul.
