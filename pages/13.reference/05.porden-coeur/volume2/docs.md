@@ -6395,14 +6395,170 @@ Seven nights have past, another noon is fled,<br>
 They quit the desert for the forest shade.<br>
 The young Amina rules a fiery steed,<br>
 And ever loves the foremost band to lead;<br>
-Exults in liberty regain'd at last, Nor shrinks from scorching sun or evening blast. But as the lovers reach a fragrant dell, 690 Why do their cheeks of fond remembrance tell? And whence that marble obelisk, which rose] Where from its source the conscious fountain fkws; While as in memory of one rapturous hour, The jasmine wreathes it лукЬ its starry flower? Above, the arms that Pardo wont to >vield, The helm, the hauberk, and the leopard shield; — He starts, and blushes with a ruddier shame, At the brief record of his early fame. " Christian or Arab, %vho shall wander here, 700 To youthful virtue give one generous tear. Heaven, that his glory might be all his own, Reveal'd his rank, but kept his race unknown;
-And they on Arsouf ь plain or Acre's tower, \ Who wept his blows or gloried in his power, > Confess'd him born to grace the spurs he wore. y To Cœur de Lion dear, his worth he proved, Who perish'd, seeking for the King hc loved; And that bright Angel, in celestial flame, \ That consecrates each bold Crusader's fame, /10 > Amid his martyrs blazons Pardo's name." j " Oh! were it true * oh ' had a glorious death, Had toil, had suffering earn'd the envied wreath ' But wake my soul! regret and shame are vain, Bright glory hear! I will be thine again." Thus while he speaks the arms his limbs invest, He shakes the lance and nods the waving cre&t; But in his scarf he wraps the leopard shield,— " There shalt thou slumber, till to farne reveal'd! Oh ι could I from the woild and memory hide 720 My tainted honour, as I veil thy pride Î" But never yet, in all his past career, Seem'd he so foam'd to kindle love and fear; For Asia's sun had tinged too fair a face, And time had lent his form a manlier grace; While round his lips the smile that ever play'd, Temper' d the fire his piercing glance betray'd.
-Amina fondly gazed, then whìsper'd near, While pride and rapture struggled with a tear: " In the wild waste, thou chosen of my heart, 730 By power supernal join'd, no more we part! Yet pardon, Christian, if I sometimes feel My friends, my country, weep thy biting steel; And when with Kings thou wakest the purple war, Think tliere is one Amina bids thee spare." " Christian, farewell!" the Persian warrior cried, Thy truant steps will need no farther guide; And let us hold these hours of concord sweet,— How shall we feel, brave youtii! when next we meet?" " As friends!" was Pardo's quick reply, " for those Whom honour rules, in heart are never foes; They not in malice bid the arrow fly, And fight for fame,—to conquer, not destroy." The evening glow was fading into night, When Jaffa's ramparts met their anxious sight. The shatter'd towers, the ruins strew'd around, The turf defaced and worn, the uew rais'd mound Spoke of the strife, while, from the ramparts roll'd, Its fatal end the yellow standards told;
-Aud on the farther height (a cho c?n post), 7*>0 Like a crouch'd lion, camp'd the Moslem host. Yet where, supreme in height, the massy keep Commands the town and awes the chafing deep, Still from the church the glittering cross arose, Still unsubdued St. George's baaner flows; And the red streamers bid them haste to reach Where a low postern open'd on the beach. The Christians here their jealous nightwatch hold, But soon at Pardo's voice the gates unfold; And Albert clasps him, while a transient joy 760 Glows in his care-worn face and sunken eye. £i Where hast thou linger'd, tillwe thought thee dead? Or why return'd, my friend! when hope is fied And infamy is shunn'd but in the grave?"— " Why? but to share it, if I cannot save;— To share their fate for whom I should have died: —- Ask me no farther now, " the youth replied, " But let me to Matilda's royal care, And gracious counsel, yield this Arab fair." i£ As our best hope, and now alas! our last, 770 This day the Chiefs proclaim'd a solemn fast, To move offended Heaven—and all our host (That all how few!) save we that guard this post,
-Meet in yon fane; the English Princess shares The general grief, and mingles tears and prayers To change the adverse winds;—the morrow's sun Must bring our gallant King, or all is gone. The warrior to the throng'd cathedral drew Amina, wondering at a sight so new. Sad was the pomp, for sable clothed around *J&) The ancient walk, and sable hid the ground. Dark, save before the shrine, where tapers beam, And waving censers shed a ghastly gleam On many a martial form that knelt below, Arm'd as for fight, but луогп with toil and woe. White as the novice robes and veil she wore, The silver Cross herself Matilda bore. In mourning vests, and shrunk amid the crowd, Her graceful form with grief and sickness bow'd, Evanthe, late by every eye ador'd, 7&0 Seems hastening to the Sire her tears deplor'd. Before the altar, in the solemn pride Of highest mass, where gold and crimson vied With Tyrian purple, saintly Hubert stands, Swells the loud psalm and lifts his earnest hands:*
-<e hora! in thy Sion now the Heathen reign, Her dwellings raze, her holiest Temple stain; The blood of saints is pour'd her walls around, Like autumn rain that soaks the thirsty ground; And none remain to hide with pious care 800 Their limbs from ravenous beasts and fowls of air. They taunt our griefs,—they hold our name in scorn, But sball thy wasting wrath for ever burn? Look ou our woes, and for thy glory's sake, Forget our sins î Omnipotent! awake! c Where is their God?' the proud blasphemers say; Oh, stretch thine arm and give thy lightnings way; Avenge thy servants' blood, thy power proclaim, Chastise the lands that call not on thy name. Oh! hear the captive's secret sighs, and save 810 The victim, destined to th' untimely grave! Repay their horrid blasphemies, and shew 'Tis thine Almighty vengeance deals the blow. So we, that are thy people and thy flock, Shall ever clasp thy Truth's eternal ľock; Τα Thee our hymns of peace and gladness raise, And sing from age to age Jehovah's praise."
-So pray'd they, deeming in that wretched hour The Psalmist's words had yet the holiest power. Humbled in soul, low sunk each haughty brow, 820 And eyes were wet that never wept till now. At length in silence, for each swelling heart Forbade to speak, the mournful traia depart. Screen'd by a pillar, as his comrades past, Young Pardo watch'd their forms, and follow'd last. For many a friend his eye has sought in vain! Long might he seek,—they slumber with the slain! Where now Matilda dried the silent tear, By pious hope sustain'd, and earnest prayer, His knee has prest the ground—she rais'd the Knight And kindly greets th' expected Proselyte. " Weak are the words of man if Heaven deny The grace that saves," was then her meek reply. " Hundreds could strike the rock, but only one Drew forth the stream—yet be my work begun. Nor, damsel, let thy fears suggest that those Around thee now are aliens, strangers, foes,— No! think that each her dearest blood would spend To hail thee as a sister and a friend: A sister, link'd by those diviner ties, 840 Whose mystic force regenerate bids us rise,
-From the pure wave, combined in bonds of love, One family on earth, joint heirs above.— And Pardo, to my brother's heart so dear, This darksome hour thy glad return shall cheer, A pledge of heavenly grace—oh! may thy Lord, Like thee lamented, be like thee restored." The morning dawns, but Richard comes not yet;— Can Heaven its own, its once-loved land forget? The fated noon draws on, and numbers strain 850 Their fruitless glances o'er th' unspotted main. Ranged in the square the troops already stand, The keys are seen in Henry's trembling hand, (Champagne's young Earl, from Acre cail'd to bear His Uncle's truncheon, and direct the war.) Now groupes of weeping females round them close, And loud upbraidings mingle with their woes. " Sas T eus!" they cry, " your wives and daughters save, From death, or shame more dreadful than the grave." But they so fierce in battle want reply, ^^^ Nor speak, nor move, save when th' impatient eye > Turns from the Ocean to accuse the sky. j Already shines aloft th' ætherial fire, Inch after inch the lessening shades retire;
+Exults in liberty regain’d at last,<br>
+Nor shrinks from scorching sun or evening blast.<br>
+But as the lovers reach a fragrant dell,<br>
+Why do their cheeks of fond remembrance tell?<br>
+And whence that marble obelisk, which rose<br>
+Where from its source the conscious fountain flows;<br>
+While as in memory of one rapturous hour,<br>
+The jasmine wreathes it with its starry flower?<br>
+Above, the arms that Pardo wont to wield,<br>
+The helm, the hauberk, and the leopard shield;—<br>
+He starts, and blushes with a ruddier shame,<br>
+At the brief record of his early fame.<br>
+&emsp;“Christian or Arab, who shall wander here,<br>
+To youthful virtue give one generous tear.<br>
+Heaven, that his glory might be all his own,<br>
+Reveal’d his rank, but kept his race unknown;<br>
+And they on Arsouf’s plain or Acre’s tower,<br>
+Who wept his blows or gloried in his power,<br>
+Confess’d him born to grace the spurs he wore.<br>
+To <span class="smallcaps">Cœur de Lion</span> dear, his worth he proved,<br>
+Who perish’d, seeking for the King he loved;<br>
+And that bright Angel, in celestial flame,<br>
+That consecrates each bold Crusader’s fame,<br>
+Amid his martyrs blazons <span class=”smallcaps”>Pardo’s</span> name.”<br>
+&emsp;“Oh! were it true! oh! had a glorious death,<br>
+Had toil, had suffering earn’d the envied wreath!<br>
+But wake my soul! regret and shame are vain,<br>
+Bright glory hear! I will be thine again.”<br>
+&emsp;Thus while he speaks the arms his limbs invest,<br>
+He shakes the lance and nods the waving crest;<br>
+But in his scarf he wraps the leopard shield,—<br>
+“There shalt thou slumber, till to fame reveal’d!<br>
+Oh! could I from the world and memory hide<br>
+My tainted honour, as I veil thy pride!”<br>
+&emsp;But never yet, in all his past career,<br>
+Seem’d he so form’d to kindle love and fear;<br>
+For Asia’s sun had tinged too fair a face,<br>
+And time had lent his form a manlier grace;<br>
+While round his lips the smile that ever play’d,<br>
+Temper’d the fire his piercing glance betray’d.<br>
+Amina fondly gazed, then whisper’d near,<br>
+While pride and rapture struggled with a tear:<br>
+&emsp;“In the wild waste, thou chosen of my heart,<br>
+By power supernal join’d, no more we part!<br>
+Yet pardon, Christian, if I sometimes feel<br>
+My friends, my country, weep thy biting steel;<br>
+And when with Kings thou wakest the purple war,<br>
+Think there is one Amina bids thee spare.”<br>
+&emsp;“Christian, farewell!” the Persian warrior cried,<br>
+Thy truant steps will need no farther guide;<br>
+And let us hold these hours of concord sweet,—<br>
+How shall we feel, brave youth! when next we meet?”<br>
+&emsp;“As friends!” was Pardo’s quick reply, “for those<br>
+Whom honour rules, in heart are never foes;<br>
+They not in malice bid the arrow fly,<br>
+And fight for fame,—to conquer, not destroy.”
+
+The evening glow was fading into night,<br>
+When Jaffa’s ramparts met their anxious sight.<br>
+The shatter’d towers, the ruins strew’d around,<br>
+The turf defaced and worn, the new rais’d mound<br>
+Spoke of the strife, while, from the ramparts roll’d,<br>
+Its fatal end the yellow standards told;<br>
+Aud on the farther height (a chosen post),<br>
+Like a crouch’d lion, camp’d the Moslem host.<br>
+Yet where, supreme in height, the massy keep<br>
+Commands the town and awes the chafing deep,<br>
+Still from the church the glittering cross arose,<br>
+Still unsubdued St. George’s banner flows;<br>
+And the red streamers bid them haste to reach<br>
+Where a low postern open’d on the beach.<br>
+The Christians here their jealous nightwatch hold,<br>
+But soon at Pardo’s voice the gates unfold;<br>
+And Albert clasps him, while a transient joy<br>
+Glows in his care-worn face and sunken eye.<br>
+&emsp;“Where hast thou linger’d, till we thought thee dead?<br>
+Or why return’d, my friend! when hope is fled<br>
+And infamy is shunn’d but in the grave?”<br>
+&emsp;“Why? but to share it, if I cannot save;—<br>
+To share their fate for whom I should have died:—<br>
+Ask me no farther now,” the youth replied,<br>
+“But let me to Matilda’s royal care,<br>
+And gracious counsel, yield this Arab fair.”<br>
+&emsp;“As our best hope, and now alas! our last,<br>
+This day the Chiefs proclaim’d a solemn fast,<br>
+To move offended Heaven—and all our host<br>
+(That all how few!) save we that guard this post,<br>
+Meet in yon fane; the English Princess shares<br>
+The general grief, and mingles tears and prayers<br>
+To change the adverse winds;—the morrow’s sun<br>
+Must bring our gallant King, or all is gone.<br>
+&emsp;The warrior to the throng’d cathedral drew<br>
+Amina, wondering at a sight so new.<br>
+Sad was the pomp, for sable clothed around<br>
+The ancient walls, and sable hid the ground.<br>
+Dark, save before the shrine, where tapers beam,<br>
+And waving censers shed a ghastly gleam<br>
+On many a martial form that knelt below,<br>
+Arm’d as for fight, but worn with toil and woe.<br>
+White as the novice robes and veil she wore,<br>
+The silver Cross herself Matilda bore.<br>
+In mourning vests, and shrunk amid the crowd,<br>
+Her graceful form with grief and sickness bow’d,<br>
+Evanthe, late by every eye ador’d,<br>
+Seems hastening to the Sire her tears deplor’d.<br>
+Before the altar, in the solemn pride<br>
+Of highest mass, where gold and crimson vied<br>
+With Tyrian purple, saintly Hubert stands,<br>
+Swells the loud psalm and lifts his earnest hands:[^48]<br>
+&emsp;“Lors! in thy Sion now the Heathen reign,<br>
+Her dwellings raze, her holiest Temple stain;<br>
+The blood of saints is pour’d her walls around,<br>
+Like autumn rain that soaks the thirsty ground;<br>
+And none remain to hide with pious care<br>
+Their limbs from ravenous beasts and fowls of air.<br>
+They taunt our griefs,—they hold our name in scorn,<br>
+But shall thy wasting wrath for ever burn?<br>
+Look on our woes, and for thy glory’s sake,<br>
+Forget our sins: Omnipotent! awake!<br>
+‘Where is their God?’ the proud blasphemers say;<br>
+Oh, stretch thine arm and give thy lightnings way;<br>
+Avenge thy servants’ blood, thy power proclaim,<br>
+Chastise the lands that call not on thy name.<br>
+Oh! hear the captive’s secret sighs, and save<br>
+The victim, destined to th’ untimely grave!<br>
+Repay their horrid blasphemies, and shew<br>
+’Tis thine Almighty vengeance deals the blow.<br>
+So we, that are thy people and thy flock,<br>
+Shall ever clasp thy Truth’s eternal rock;<br>
+Τo Thee our hymns of peace and gladness raise,<br>
+And sing from age to age Jehovah’s praise.”<br>
+&emsp;So pray’d they, deeming in that wretched hour<br>
+The Psalmist’s words had yet the holiest power.<br>
+Humbled in soul, low sunk each haughty brow,<br>
+And eyes were wet that never wept till now.<br>
+At length in silence, for each swelling heart<br>
+Forbade to speak, the mournful train depart.<br>
+Screen’d by a pillar, as his comrades past,<br>
+Young Pardo watch’d their forms, and follow’d last.<br>
+For many a friend his eye has sought in vain!<br>
+Long might he seek,—they slumber with the slain!<br>
+&emsp;Where now Matilda dried the silent tear,<br>
+By pious hope sustain’d, and earnest prayer,<br>
+His knee has prest the ground—she rais’d the Knight<br>
+And kindly greets th’ expected Proselyte.<br>
+&emsp;“Weak are the words of man if Heaven deny<br>
+The grace that saves,” was then her meek reply.<br>
+“Hundreds could strike the rock, but only one<br>
+Drew forth the stream—yet be my work begun.<br>
+Nor, damsel, let thy fears suggest that those<br>
+Around thee now are aliens, strangers, foes,—<br>
+No! think that each her dearest blood would spend<br>
+To hail thee as a sister and a friend:<br>
+A sister, link’d by those diviner ties,<br>
+Whose mystic force regenerate bids us rise,<br>
+From the pure wave, combined in bonds of love,<br>
+One family on earth, joint heirs above.—<br>
+And Pardo, to my brother’s heart so dear,<br>
+This darksome hour thy glad return shall cheer,<br>
+A pledge of heavenly grace—oh! may thy Lord,<br>
+Like thee lamented, be like thee restored.”
+
+The morning dawns, but Richard comes not yet;—<br>
+Can Heaven its own, its once-loved land forget? The fated noon draws on, and numbers strain 850 Their fruitless glances o'er th' unspotted main. Ranged in the square the troops already stand, The keys are seen in Henry's trembling hand, (Champagne's young Earl, from Acre cail'd to bear His Uncle's truncheon, and direct the war.) Now groupes of weeping females round them close, And loud upbraidings mingle with their woes. " Sas T eus!" they cry, " your wives and daughters save, From death, or shame more dreadful than the grave." But they so fierce in battle want reply, ^^^ Nor speak, nor move, save when th' impatient eye > Turns from the Ocean to accuse the sky. j Already shines aloft th' ætherial fire, Inch after inch the lessening shades retire;
 The proudest to\vers that flank th' embattled keep ΝοΛν scarce withhold one sunbeam from the deep. " Stay!" Pardo cried, " лл г е have an instant yet!" And climb'd in haste the loftiest minaret; While thousands watch'd his lessen'd form on high. And hope turn'd sickening from his drooping eye. 870 At length it beam'd—" A sail! a fleet!" he cried, " See the red flag floats proudly o'er the tide." As when some billow on the troubled deep Swells with a sullen, silent, solemn sweep, At once the dusky mountain breaks, it pours Its sparkling floods of foam, and spreads, and roars. Thus changed the awful stillness of despair To murmur'd sounds of joy, and busy care. Like statue warm'd with life, Champagne's brave lord Flings down the keys, and grasps his shining sword! Where Saladine leads on his countless force, In peaceful pomp, the Herald stops his course, And tells of Richard nigh.—Great Ayoub's son Mourns for an instant o'er his conquest gone; Then yields to fate, displays a leader's care, And bids his trumpets sound the note of лл т аг. Rous'd by th' inspiring call the Arabs throng j Flush'd with ηοΛν hope, the Christians pour along.,vol, п.,χ
 Sec him, the Emerald Knight, who long had prest A feverish couch, again in armour drest! 890 And who is she, that like a radiant fay Glides towards the gate, and checks him on his way. " Pause! though thy heart of adamant deny ^ To li^t thy vizor to a human eye,— > Though deaf to beauty's prayer, to beauty's sigh, j Hear for thyself! Indeed thou must not go, With wounds half heal'd, to brave so fierce a foe! Come, let me steal this heavy lance away— Too rash, too eager, ride not forth to day." íť And can'st thou, lovely tempter! truly deem 900 That I am cold and senseless as I seem? Yet ill the Knight would merit beauty's smile, Whom even her tear from duty could beguile; It should be beauty's pride, in honour's track To urge her hero, not to lure him back:— How for thy grace I languish, how thy spell For ever wraps me round, no words can tell!" " Aye! nor no ear believe," the maid replied, "4 ť< With my first suit, so slight a suit, denied." \ " Nay, by St. James! fair nymph, Hi« not to hide 1 Some face more foul than wizard ever knew— I boast two eyes, and both of hazel hue j
 Nay, ladies, when a boy, would call me fair, And wreathe their fingers in my clustering hair. But, for some youthful sin to me 'twas given To love a maid who changed like April's heaven j Now full of promise as its sunniest rnoťn, Now saddening into tears, now dark with scorn; Hence my rash vow, no more to woman's gaze, In weal or woe this iron front to raise, 920 Till in that hour, when at the altar shewn, By holiest rites I claim her as my own.— Oh, Hermesind! perchance too high I rate, Duped by fond Hope, thy interest in my fate; Perchance—yet may I trust that rising flush— Oh! say not pride or anger prompts the blush, Nor draw that jealous mantle o'er thy cheek,-— Thy looks must answer, if thou wilt not speak. 1 * Yes! through her heart a crowd of feelings past, The voice, the seeming scorn explain'd at last; 930 ’Twas for her sake he still had shunn'd her eyes To please unknown, to win her in disguise!— She trembled, and her eye a tear betray'd, Joy, shame, remorse, and hope, alternate sway'd. She sigh'd,—the hand he kneeling sought to clasp Drop'd unreluctant in his eager grasp; x 2
@@ -6647,3 +6803,6 @@ Note (e), page 354, line 713. Tke easy price of that triumphant day. Only two pe
 [^46]: The historians are particular in remarking, that the rapturous and splendid manner in which <span class="smallcaps">Richard</span> was hailed at London, was the spontaneous ebullition of popular loyalty. His nobles were all engaged in subduing the rebels, and durst not desert their post, even to welcome their King.
 
 [^47]: This obstinate rebel is said to have expired with terror, immediately on receiving the news tht <span class="smallcaps">Richard</span> was again in England.
+
+[^48]: See Psalm lxxix.
+
