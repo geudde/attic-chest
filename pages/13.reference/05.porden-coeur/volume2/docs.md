@@ -8012,7 +8012,9 @@ With bliss so pure the heaving bosom thrill’d;<br>
 Sweet as unfading, Time could not impair,<br>
 Nor pain nor death,—it glows for ever there.<br>
 To holiest joy was <span class="smallcaps">Cœur de Lion</span> moved;<br>
-His task was ended, and his God approved.
+His task was ended, and his <span class="smallcaps">God</span> approved.
+
+### End of the Poem
 
 <hr>
 
