@@ -6622,24 +6622,318 @@ For ever wraps me round, no words can tell!”<br>
 &emsp;“Nay, by St. James! fair nymph, ’tis not to hide<br>
 Some face more foul than wizard ever knew—<br>
 I boast two eyes, and both of hazel hue;<br>
+Nay, ladies, when a boy, would call me fair,<br>
+And wreathe their fingers in my clustering hair.<br>
+But, for some youthful sin to me ’twas given<br>
+To love a maid who changed like April’s heaven;<br>
+Now full of promise as its sunniest morn,<br>
+Now saddening into tears, now dark with scorn;<br>
+Hence my rash vow, no more to woman’s gaze,<br>
+In weal or woe this iron front to raise,<br>
+Till in that hour, when at the altar shewn,<br>
+By holiest rites I claim her as my own.—<br>
+Oh, Hermesind! perchance too high I rate,<br>
+Duped by fond Hope, thy interest in my fate;<br>
+Perchance—yet may I trust that rising flush—<br>
+Oh! say not pride or anger prompts the blush,<br>
+Nor draw that jealous mantle o’er thy cheek,—<br>
+Thy looks must answer, if thou wilt not speak.”<br>
+&emsp;Yes! through her heart a crowd of feelings past,<br>
+The voice, the seeming scorn explain’d at last;<br>
+’Twas for her sake he still had shunn’d her eyes<br>
+To please unknown, to win her in disguise!—<br>
+She trembled, and her eye a tear betray’d,<br>
+Joy, shame, remorse, and hope, alternate sway’d.<br>
+She sigh’d,—the hand he kneeling sought to clasp<br>
+Drop’d unreluctant in his eager grasp;<br>
+She strove to speak—when lo! Ricardo near,<br>
+Meets her rais’d eye, the image of despair:<br>
+From her bright cheek the crimson ebb’d again,<br>
+And trembling Coquetry resum’d her reign.<br>
+&emsp;“Indeed! Sir Knight, thy hopes have blossom’d soon;<br>
+Unsown at morn, and flourishing at noon!<br>
+Hast thou some talisman to charm unseen,<br>
+Or think’st thou I can love that casque of green?<br>
+At thy first sigh forgive a long neglect?—<br>
+Rate thyself lower, Knight! and learn respect.”<br>
+&emsp;“Unfeeling woman! trifling to the last,<br>
+Aye! to the end,”—he mutter’d as he past.<br>
+She seiz’d his arm;—he push’d her hand away,<br>
+Remounts his steed, and gallops to the fray.<br>
+Too late repentant, self-abased she stood,<br>
+But with forced smiles resumes her sportive mood.<br>
+&emsp;“Ha! is it thou, Ricardo? did’st thou hear<br>
+That wayward Knight? ’tis pleasant thou wert near;<br>
+Of all our damsels me he treats with scorn;<br>
+My glove, forsooth, must not by him be worn,<br>
+’Twould taint his honour!—Then the chilling gale<br>
+Shifts to the south, and sighs and tears prevail;<br>
+And I may fill poor Honour’s place, and then<br>
+To his new bride he’ll lift his helm agen.<br>
+Whate’er his charms, as high I’d rate my own,<br>
+Nor wed, like Psyche, e’en a God unknown;<br>
+But hear’st thou not, my friend,—when I am nigh,<br>
+What means that drooping crest and vacant eye?”<br>
+&emsp;“Yes, Hermesind, I heard! nor can thy smile<br>
+Again to bliss this breaking heart beguile.<br>
+How I have loved thee—with a zeal how strong<br>
+Thou know’st too well, and hast abused too long;<br>
+I could not fancy, spite of warning fame,<br>
+Less than an angel in an angel’s frame.<br>
+To love thee now—or live and love thee not,<br>
+Exceeds my power, I bow me to my lot;<br>
+Yet sometimes—if in other years thou cast<br>
+A pensive glance on days and feelings past,<br>
+If then my memory wake one thought of pain,<br>
+I shall not live, or love, or die in vain.”<br>
+&emsp;Thus as he spoke he closed his helm, to hide<br>
+The bitter tears that flow’d in spite of pride<br>
+She clasp’d her hands,—and is he also gone,<br>
+And left her to repent and weep alone?<br>
+Oh Hermesind! not all thy beauty’s power<br>
+Gave thee one joy were worth this wretched hour.
 
-Nay, ladies, when a boy, would call me fair, And wreathe their fingers in my clustering hair. But, for some youthful sin to me 'twas given To love a maid who changed like April's heaven j Now full of promise as its sunniest rnoťn, Now saddening into tears, now dark with scorn; Hence my rash vow, no more to woman's gaze, In weal or woe this iron front to raise, 920 Till in that hour, when at the altar shewn, By holiest rites I claim her as my own.— Oh, Hermesind! perchance too high I rate, Duped by fond Hope, thy interest in my fate; Perchance—yet may I trust that rising flush— Oh! say not pride or anger prompts the blush, Nor draw that jealous mantle o'er thy cheek,-— Thy looks must answer, if thou wilt not speak. 1 * Yes! through her heart a crowd of feelings past, The voice, the seeming scorn explain'd at last; 930 ’Twas for her sake he still had shunn'd her eyes To please unknown, to win her in disguise!— She trembled, and her eye a tear betray'd, Joy, shame, remorse, and hope, alternate sway'd. She sigh'd,—the hand he kneeling sought to clasp Drop'd unreluctant in his eager grasp; x 2
-She strove to speak—when lo! Ricardo near, Meets her rais'd eye, the image of despair: From her bright cheek the crimson ebb'd again, And trembling Coquetry resum'd her reign. 940 " Indeed! Sir Knight, thyhopeshaveblossom'dsoon; Unsown at morn, and flourishing at noon! Hast thou some talisman to charm unseen, Or think'st thou I can love that casque of green? At thy first sigh forgive a long neglect?— Rate thyself lower, Knight! and learn respect." " Unfeeling woman! trifling to the last, Aye! to the end,"—he mutter'd as he past. She seiz'd his arm j—he push'd her hand away, Remounts his steed, and gallops to the fray. 950 Too late repentant, self-abased she stood, But with forced smiles resumes her sportive mood. '* Ha! is it thou, Ricardo? pid'st thou hear That wayward Knight? 'tis pleasant thou wert near; Of all our damsels me he treats with scorn; My glove, forsooth, must not by him be worn, 'Twould taint his honour!—Then the chilling gale Shifts to the south, and sighs and tears prevail j And I may fill poor Honour's place, and then To his new bride he'll lift his helm agen. 960
-Whate'er his charms, as high I'd rate my own, Nor wed, like Psyche, e'en a God unknown; But hear'st thou not, my friend,—when I am nigh, What means that drooping crest and vacant eye?" " Yes, Hermesind, I heard! nor can thy smile Again to bliss this breaking heart beguile. How I have loved thee—with a zeal how strong Thou know'st too well, and hast abused too long; I could not fancy, spite of warning fame, Less than an angel in an angel's frame. 970 To love thee now—or live and love thee not, Exceeds my power, I bow me to my lot; Yet sometimes—if in other years thou cast A pensive glance on days and feelings past, lf then my memory wake one thought of pain, I shall not live, or love, or di-á in vain." Thus as he spoke he closed his helm, to hide The bitter tears that flow'd in spite of pride. She clasp'd her hands,—and is he also gone, And left her to repent and weep alone? 980 Oh Hermesind! not all thy beauty's power Gave thee one joy were worth this wretched hour. The battle raged; the worn and wasted bands Strive with the chosen of a thousand lands. χ 3
-Where in the conquer'd town a temple rose, Its ample nave conceal'd a host of foes; There Hubert's holy zeal the fight began, Geoffrey, Champagne, and gentle Lusignan; While in stern order on the Moslem side Frown'd Aladin, Zorayda, Aimahide. 900 Now from the column's shade their arrows fly, Now for close fight their daggers gleam on high; Tombs, pillars, shrines, their barbarous hands o'erturn, They hurl the craggy stone, the sculptured urn; The broken saints to earth their votaries bore, And holiest altars float in mingled gore. Nor on the plain where dauntless Raymond f Λ, And Albert's plume is red with Moslem blood, Less raged th' unequal war; each Christian's mind, Fearless of death, devoted and resigned. 1000 Yet may they scarce sustain th* o'erwhelming weight, Another hour, and Richard comes too late! What power detains him?— Pardo climbs again A turret's height, and scans th' unruffled main: ťí Oh God! those ships, that on so proudly bore, Now turn their towering prows and shun the shore! Alas! those yellow flags on every post Deceive the King, and Palestine is lost!
-Does Heaven indeed forsake us?"—But he caught, Even as he breath'd despair, th' inspiring thought: iC One hope remains, one only hope," he cried, And from that height plunged headlong in the tide!— Vast луаэ the fall, but mercy deign'd to save,— Unharm'd he rose, and buffets луНЬ. the wav r e; Redoubled hopes his waning strength supply,— It fails—but lo! the regal bark is nigh, First in the morn, but now in flight the last; O'er its steep side his weary arms he cast: ie Turn, Monarch, turn! thy faithful comrades save!" He spoke, and sunk exhausted in the wave. 1 1020 An hundred arms in instant succour vied, .And snatch'd the fainting hero from the tide. As Richard to his Leach the Knight consign'd, Again the willing vessels court the wind; (While Princes rush to ply the rapid oar), Crowd all their oanvas, and approach the shore. There slaughter still was rife—by Christians slain Though twice their number load the crimson plain, Fresh foes press on:—but where one Christian died No comrade rush'd to fill the dreadful void. 1030 x4
-But two were there, prepared for desperate strife, By native valour and disgust of life. Like somecommission'd scourge, the Knightunknown, 'Mid lanes of felling foes spurs proudly on ', By wounds, by fever drain'd, again he bleeds, But feels it nož, nor gash nor scar he heeds, Urged by a sting he cannot leave behind, The wounded heart, the fever of the mind. Like him Ricardo —long his tortured soul Its martial ardour bow'd to Love's control; 1040 Fired by despair a ruthless sword he sway'd, And hecatombs might curse th' Iberian maid. Lorenzo, proud the Cronfalon to bear, (Given by the Pontiff to the hero's care,) Waves high its sacred folds, where brightly shone The Golden Keys beneath the triple Crown; And many a Chief, whom Arab hosts oppress, Feels in its sight an omen of success. Elate with hope young Mirzalis came on, Whose yellow plumes prociaim'd the Soldan's son; While one firm hand the gorgeous Standard clasp'd, Hid in his left the Ataghan he grasp'd: Lorenzo's heart receives the sudden wound, He yields his precious charge, and bites the ground.
-But Ezzeline, of Este's race, whose steed, Train'd to the fight, reveal'd Bayardo's breed; (While, by no chanfron hid, his forehead bore The milkwhite star that Frontaletto wore)* Flies to revenge his friend. With mighty force The wond'rous steed assaults the Arab's horse; 1060 His better hand engaged, without a shield, Still scorns the Prince his maiden spoils to yield: Again his dagger gleams,— the courser's eye Receives its fatal point, he rears on high, Breaks through the ranks, impatient of the pain. Then falls and bears his rider to the plain, Ricardo rush'd between, ' ť Almighty Power!" Inly he pray'd, " befriend my closing hour." Swift fall his strokes, the wintry rains less fast; \ Till sorely prest, the Syrian Prince at last 1070 > Amid the Mam luke troop the Standard cast; y Then drew his sabre, and by seeming flight Seeks from its rescue to delude the Knight. But on he springs, amid the Arab band, Where now tlie banner graced Zeineddin's hand;
-He seized the staff, his sword with sudden sway Falls on the Prince, and lops his arm away— Just then his side Moheddin's javelin found, The wood breaks short, the steel is in the wound; In triumph once its glittering folds he waved, 1080 Then fell, envelop'd in the flag he saved. But, watchful of th' event, the Knight Unknown, With vengeful blade pursued the Soldan's son; · His snow-white Jennet, fleeter than the wind, Cut short his artful flight, he seized behind His victim's casque, and with a mortal wound Divides the throat, then hurls him to the ground. But soon mild pity calms the Spaniard's ire, i£ Fair, valiant youth! I would not be thy Sire."-— " Then meet his father's friend!" Moheddin cried, (( And be thou here for Saladine defied!" Grief gave the weapon force, the frequent stroke Through his green helmorhigh-wroughtcorselet broke; A thousand colours dance before his sight, And all but courage fails the generous Knight. By mutual wounds their noble coursers slain, They rise and wage the combat on the plain. Th' Iberian's limbs no more their burthen bear, But on his knee he yet maintains the war;
-Victorious to the end, he waves around 1100 His sword—Moheddin feels the mortal wound, Where the stout greaves and polish'd cuirass join: They fall beside the son of Saladine. But hark! that panic shriek, that rapturous shout! See from yon temple pours the Moslem rout! Whose is the prowess whence the foe retires? Whose, by the terror which his sight inspires? Whose, by the godlike port and broomy crest? Whose, by the Lion shield and silken vest? Triumphant Richard! not the baleful breath UIO Of the hot pest thus strikes dismay and death! Where Saladine, sequester'd from the crowd, To meaner hands the cheap success allow'd j Hc hears the shriek, and hastening to enjoy The fancied glory, sees his army fly I " And who the Knight on yonder hill?" he cried: " The King! the King!" an hundred tongues replied; " The King on foot! then bc this steed of mine Led for his use."—cried generous Saladine." Forth Adel sprang to stop the flying crowd, 11204 " Base slaves! so late of easy laurels proud, > In danger humble as in council loud! j
-Tum! if ye love your Soldan's fame," he cries, Turn if ye love the bowers of Paradise. And thou, oh Mestoc! in our palace bred, Nurs'd with our sons, and with our dainties fed, Turn for thy faith —that dreadful Giaour defy, * The sun should blush when Mestoc seeks to fly!" But Mestoc said, " go! bid that mound of slain Arise and fight, and be destroyed again! 1130 It is a demon, dreadful in his wrath! Shall autumn's scatter'd leaves obstruct his path?" "My arms! my arms!" was now the Soldan's cry, " When fades his glory, Saladine must die." And now, perchance by some ignoble hand, The best of Asia's Kings had prest the sand; But He the Christian's God, whose mercies shower Even on the impious that blaspheme his power, Watch'd o'er his sacred days; the heavenly will Maimoune feels, and hastens to fulfil: 1140 Yet she, who when to ruthless fiends a slave, Still mix'd with balm the envenom'd cup she gave, In mercy summon'd to a sterner part, Now weeps each pang she gives a father's heart. As the brave Soldan, o'er the death-strewn field Towards England's King his starting steed cornpell'd,
-He sees—oh Alia! 'tis his favourite child, Senseless and pale, with blood and dust defiled! His Mirzalis, on whom he sought to place The crown that Afdhal's elder brows should grace! He staggers from his steed, his tearless eyes Fix on the dead, his grief upbraids the skies; He casts his regal turban to the ground, Or wipes with fruitless care the stiffen'd wound. He shrieks, he raves, he clasps th' unconscious clay, And reason wavers j but the pitying Fay In soothing Lethe steeps the shaft of pain, His eyes grow dim, he sinks upon the slain. Thick crowds are hurrying past—nor foe nor friend Paus'd on the ground one casual glance to bend; His horse alone (which erst Seiffeddin's heir Had train' d his dangers and his toils to share, Till he at Arsouf, in the hour of need, Gave for the Soldan's use the favourite steed,) Stands o'er his fallen lord; his Λνίδίηιΐ eye Turn'd to the throng that pass'd regardless by; Not now exulting in his уеИолу crest, Or burnish'd poitral, but with head deprest;
-Till Aladin the golden plumage spied: " Poor Safie! wherefore art thou here?" he cried. " Oh Adel! Afdhal! stay and let them live— Unless their blood these dearer lives could give."— All flew to Saladine, and Adel view'd His senseless form, i( There is no wound, no blood." He loos'd his belt—he felt the living heat Warm in his limbs, his languid temples beat; íť О, Saladine, my brother and my lord!— Prophet of Islam! be his life restored!"— But Afdhal o'er his clay-cold brother kneels, While down his cheeks the tear unbidden steals. 1180 tC Thou did'st not love me, Mirzalis I" he said, " But I will weep thy death."--He rais'd his head ι a Poor youth! may Paradise be closed to me, . If e'er I grudged my father's love for thee." The tide of war rolls near;—in silent haste On their good steeds each senseless load they placed; Their camp is fill'd with foes, and like the wind, His flying squadrons leave their chief behind. What roof a shelter to his griefs will give? Shall he whom myriads ask'd for leave to live, 1090
-Even like their Lord whose blood his armies shed, Find not a spot to rest his weary head? Not so, sad Monarch! Ramla shall bestow Her ready shelter, and arrest the foe. While there he weeps, the royal drum shall sound, And call again the scatter'd legions round.,END OF BOOK XV.
-CŒUR DE LION.,BOOK XVI.,THE HOLY SEPULCHRE.
-ARGUMENT.,THE HOLY SEPULCHRE. Visit of Hermesind to the field of battle—Death of the Emerald Knight and Ricardo — Distress of the Sara¬ cens in Ramla, and their vows of vengeance— -Rich¬ ard, while reviewing apart of his troops on the plain of Jaffa, perceives the approach of a Moslem Army, and at the same tirne is informed that Almanzor has at Inched the town — He hares the infantry to sustain the assault of Adel, and hastens with his Knights to relieve the City — He declines the challenge of Zoray¬ da, and overcomes Almanzor—-Combat of Pardo and Zorayda—The recognition of Pardo, and death of Zorayda — Meeting of Aladin and Pardo — Richard obtains the first victory of Jaffa, and returns to the plain — He Mils Mestoc and Schaunah, and disables Adel— Tlie challenge of Richard; and second victory of Jaffa — The meeting of Amina and Alman¬ zor after the battle- — Bigotry and death of Alman' zor— The treaty of Peace — The Princes of both ar¬ mies assemble in the church of the Holy Sepulchre and swear to observe its conditions—Behaviour of Saladine and Richard — The celestial vision — Con- elusion of the Poem.
-CŒUR DE LION.,BOOK XVI. THE HOLY SEPULCHRE. Meanwhile in Jaffa's walls what transports glow ' What festal pomp succeeds the pomp of woe í The Christians' hopeless tears to rapture changed, Their King recover'd, and their shame avenged: While he, rejoicing in their zeal, looks on To Sion freed, and laurels yet unwon. The stars are high in heaven, the moon is bright;— What lonely wanderer seeks the field of fight? 'Tis Hermesind! her locks all wildly spread, No mantle wraps her form, no veil her head. 10 v 2
-Her's not the soul to shake with idle fear, Yet might a warrior shrink to wander here; When the pale light in ghastlier horror shew'd Distorted faces, pale, or dark with blood; When through their tatter'd scarfs the night-wind sighs, When the cold beam reflected from their eyes Gives an unnatural life; and, feasting nigh, Hark! to th' hyena's laugh, the shakal's cry; Or the low groan, the gasp, the rattling breath, Where still some suffering spirit strives with death. 20 And now the rush of wings—her footsteps near, 4 From their dire feast the heavy vultures scare! ъ. What horrors spread below?—ah! look not there. ^7 Her brow is fix'd in anguish, but her eye Gazed on the dead as if on vacancy; There were but two on all that sanguine plain Whose sight could wring her guilty soul with pain. All day she watch'd—they came not, and the cry Of hope, despair, delight, and victory Fell cold upon her sense. Could conquest cheer 30 Her self-accusing soul, if blood be there? The slippery field beguiles her hurried tread, She wades in gore, she stumbles o'er the dead.
+The battle raged; the worn and wasted bands<br>
+Strive with the chosen of a thousand lands.<br>
+Where in the conquer’d town a temple rose,<br>
+Its ample nave conceal’d a host of foes;<br>
+There Hubert’s holy zeal the fight began,<br>
+Geoffrey, Champagne, and gentle Lusignan;<br>
+While in stern order on the Moslem side<br>
+Frown’d Aladin, Zorayda, Almahide.<br>
+Now from the column’s shade their arrows fly,<br>
+Now for close fight their daggers gleam on high;<br>
+Tombs, pillars, shrines, their barbarous hands o’erturn,<br>
+They hurl the craggy stone, the sculptured urn;<br>
+The broken saints to earth their votaries bore,<br>
+And holiest altars float in mingled gore.<br>
+Nor on the plain where dauntless Raymond stood,<br>
+And Albert’s plume is red with Moslem blood,<br>
+Less raged th’ unequal war; each Christian’s mind,<br>
+Fearless of death, devoted and resigned.<br>
+Yet may they scarce sustain th’ o’erwhelming weight,<br>
+Another hour, and <span class="smallcaps">Richard</span> comes too late<br>
+&emsp;What power detains him?— Pardo climbs again<br>
+A turret’s height, and scans th’ unruffled main:<br>
+“Oh God! those ships, that on so proudly bore,<br>
+Now turn their towering prows and shun the shore!<br>
+Alas! those yellow flags on every post<br>
+Deceive the King, and Palestine is lost!
+Does Heaven indeed forsake us?”—But he caught,<br>
+Even as he breath’d despair, th’ inspiring thought:<br>
+“One hope remains, one only hope,” he cried,<br>
+And from that height plunged headlong in the tide!—<br>
+Vast was the fall, but mercy deign’d to save,—<br>
+Unharm’d he rose, and buffets with the wave;<br>
+Redoubled hopes his waning strength supply,—<br>
+It fails—but lo! the regal bark is nigh,<br>
+First in the morn, but now in flight the last;<br>
+O’er its steep side his weary arms he cast:<br>
+&emsp;“Turn, Monarch, turn! thy faithful comrades save!”<br>
+He spoke, and sunk exhausted in the wave.<sup>t</sup><br>
+An hundred arms in instant succour vied,<br>
+And snatch’d the fainting hero from the tide.<br>
+As <span class="smallcaps">Richard</span> to his Leach the Knight consign’d,<br>
+Again the willing vessels court the wind;<br>
+(While Princes rush to ply the rapid oar),<br>
+Crowd all their canvas, and approach the shore.<br>
+&emsp;There slaughter still was rife—by Christians slain<br>
+Though twice their number load the crimson plain,<br>
+Fresh foes press on:—but where one Christian died<br>
+No comrade rush’d to fill the dreadful void.<br>
+But two were there, prepared for desperate strife,<br>
+By native valour and disgust of life.<br>
+Like some commission’d scourge, the Knight unknown,<br>
+’Mid lanes of felling foes spurs proudly on;<br>
+By wounds, by fever drain’d, again he bleeds,<br>
+But feels it not, nor gash nor scar he heeds,<br>
+Urged by a sting he cannot leave behind,<br>
+The wounded heart, the fever of the mind.<br>
+Like him Ricardo—long his tortured soul<br>
+Its martial ardour bow’d to Love’s control;<br>
+Fired by despair a ruthless sword he sway’d,<br>
+And hecatombs might curse th’ Iberian maid.<br>
+&emsp;Lorenzo, proud the Gonfalon to bear,<br>
+(Given by the Pontiff to the hero’s care,)<br>
+Waves high its sacred folds, where brightly shone<br>
+The Golden Keys beneath the triple Crown;<br>
+And many a Chief, whom Arab hosts oppress,<br>
+Feels in its sight an omen of success.<br>
+Elate with hope young Mirzalis came on,<br>
+Whose yellow plumes proclaim’d the Soldan’s son;<br>
+While one firm hand the gorgeous Standard clasp’d,<br>
+Hid in his left the Ataghan he grasp’d:<br>
+Lorenzo’s heart receives the sudden wound,<br>
+He yields his precious charge, and bites the ground.<br>
+But Ezzeline, of Este’s race, whose steed,<br>
+Train’d to the fight, reveal’d Bayardo’s breed;<br>
+(While, by no chanfron hid, his forehead bore<br>
+The milkwhite star that Frontaletto wore)[^49]<br>
+Flies to revenge his friend. With mighty force<br>
+The wond’rous steed assaults the Arab’s horse;<br>
+His better hand engaged, without a shield,<br>
+Still scorns the Prince his maiden spoils to yield:<br>
+Again his dagger gleams,—the courser’s eye<br>
+Receives its fatal point, he rears on high,<br>
+Breaks through the ranks, impatient of the pain.<br>
+Then falls and bears his rider to the plain,<br>
+Ricardo rush’d between, “Almighty Power!”<br>
+Inly he pray’d, “befriend my closing hour.”<br>
+Swift fall his strokes, the wintry rains less fast;<br>
+Till sorely prest, the Syrian Prince at last<br>
+Amid the Mamluke troop the Standard cast;<br>
+Then drew his sabre, and by seeming flight<br>
+Seeks from its rescue to delude the Knight.<br>
+But on he springs, amid the Arab band,<br>
+Where now the banner graced Zeineddin’s hand;<br>
+He seized the staff, his sword with sudden sway<br>
+Falls on the Prince, and lops his arm away—<br>
+Just then his side Moheddin’s javelin found,<br>
+The wood breaks short, the steel is in the wound;<br>
+In triumph once its glittering folds he waved,<br>
+Then fell, envelop’d in the flag he saved.<br>
+But, watchful of th’ event, the Knight Unknown,<br>
+With vengeful blade pursued the Soldan’s son;<br>
+His snow-white Jennet, fleeter than the wind,<br>
+Cut short his artful flight, he seized behind<br>
+His victim’s casque, and with a mortal wound<br>
+Divides the throat, then hurls him to the ground.<br>
+But soon mild pity calms the Spaniard’s ire,<br>
+“Fair, valiant youth! I would not be thy Sire.”—<br>
+&emsp;“Then meet his father’s friend!” Moheddin cried,<br>
+“And be thou here for Saladine defied!”<br>
+&emsp;Grief gave the weapon force, the frequent stroke<br>
+Through his green helm or high-wrought corselet broke;<br>
+A thousand colours dance before his sight,<br>
+And all but courage fails the generous Knight.<br>
+By mutual wounds their noble coursers slain,<br>
+They rise and wage the combat on the plain.<br>
+Th’ Iberian’s limbs no more their burthen bear,<br>
+But on his knee he yet maintains the war;<br>
+Victorious to the end, he waves around<br>
+His sword—Moheddin feels the mortal wound,<br>
+Where the stout greaves and polish’d cuirass join:<br>
+They fall beside the son of Saladine.
+
+But hark! that panic shriek, that rapturous shout!<br>
+See from yon temple pours the Moslem rout!<br>
+Whose is the prowess whence the foe retires?<br>
+Whose, by the terror which his sight inspires?<br>
+Whose, by the godlike port and broomy crest?<br>
+Whose, by the Lion shield and silken vest?<br>
+Triumphant <span class="smallcaps">Richard</span>! not the baleful breath<br>
+Of the hot pest thus strikes dismay and death!<br>
+Where Saladine, sequester’d from the crowd,<br>
+To meaner hands the cheap success allow’d;<br>
+He hears the shriek, and hastening to enjoy<br>
+The fancied glory, sees his army fly!<br>
+“And who the Knight on yonder hill?” he cried:<br>
+“The King! the King!” an hundred tongues replied;<br>
+“The King on foot! then be this steed of mine<br>
+Led for his use.”—cried generous Saladine.”<sup>u</sup><br>
+Forth Adel sprang to stop the flying crowd,<br>
+“Base slaves! so late of easy laurels proud,<br>
+In danger humble as in council loud!<br>
+Turn! if ye love your Soldan’s fame,” he cries,<br>
+Turn if ye love the bowers of Paradise.<br>
+And thou, oh Mestoc! in our palace bred,<br>
+Nurs’d with our sons, and with our dainties fed,<br>
+Turn for thy faith—that dreadful Giaour defy,<br>
+The sun should blush when Mestoc seeks to fly!”<br>
+&emsp;But Mestoc said, “go! bid that mound of slain<br>
+Arise and fight, and be destroyed again!<br>
+It is a demon, dreadful in his wrath!<br>
+Shall autumn’s scatter’d leaves obstruct his path?”<br>
+&emsp;“My arms! my arms!” was now the Soldan’s cry,<br>
+When fades his glory, Saladine must die.”<br>
+&emsp;And now, perchance by some ignoble hand,<br>
+The best of Asia’s Kings had prest the sand;<br>
+But He the Christian’s God, whose mercies shower<br>
+Even on the impious that blaspheme his power,<br>
+Watch’d o’er his sacred days; the heavenly will<br>
+Maimoune feels, and hastens to fulfil:<br>
+Yet she, who when to ruthless fiends a slave,<br>
+Still mix’d with balm the envenom’d cup she gave,<br>
+In mercy summon’d to a sterner part,<br>
+Now weeps each pang she gives a father’s heart.<br>
+As the brave Soldan, o’er the death-strewn field<br>
+Towards England’s King his starting steed compell’d,
+He sees—oh Alla! ’tis his favourite child,<br>
+Senseless and pale, with blood and dust defiled!<br>
+His Mirzalis, on whom he sought to place<br>
+The crown that Afdhal’s elder brows should grace!<br>
+He staggers from his steed, his tearless eyes<br>
+Fix on the dead, his grief upbraids the skies;<br>
+He casts his regal turban to the ground,<br>
+Or wipes with fruitless care the stiffen’d wound.<br>
+He shrieks, he raves, he clasps th’ unconscious clay,<br>
+And reason wavers; but the pitying Fay<br>
+In soothing Lethe steeps the shaft of pain,<br>
+His eyes grow dim, he sinks upon the slain.<br>
+Thick crowds are hurrying past—nor foe nor friend<br>
+Paus’d on the ground one casual glance to bend;<br>
+His horse alone (which erst Seiffeddin’s heir<br>
+Had train’d his dangers and his toils to share,<br>
+Till he at Arsouf, in the hour of need,<br>
+Gave for the Soldan’s use the favourite steed,)<br>
+Stands o’er his fallen lord; his wistful eye<br>
+Turn’d to the throng that pass’d regardless by;<br>
+Not now exulting in his уеllow crest,<br>
+Or burnish’d poitral, but with head deprest;<br>
+Till Aladin the golden plumage spied:<br>
+“Poor Safie! wherefore art thou here?” he cried.<br>
+“Oh Adel! Afdhal! stay and let them live—<br>
+Unless their blood these dearer lives could give.”<br>
+&emsp;All flew to Saladine, and Adel view’d<br>
+His senseless form, “There is no wound, no blood.”<br>
+He loos’d his belt—he felt the living heat<br>
+Warm in his limbs, his languid temples beat;<br>
+“О, Saladine, my brother and my lord!—<br>
+Prophet of Islam! be his life restored!”—<br>
+But Afdhal o’er his clay-cold brother kneels,<br>
+While down his cheeks the tear unbidden steals.<br>
+“Thou did’st not love me, Mirzalis I” he said,<br>
+“But I will weep thy death.”--He rais’d his head:<br>
+“Poor youth! may Paradise be closed to me,<br>
+If e’er I grudged my father’s love for thee.”<br>
+&emsp;The tide of war rolls near;—in silent haste<br>
+On their good steeds each senseless load they placed;<br>
+Their camp is fill’d with foes, and like the wind,<br>
+His flying squadrons leave their chief behind.<br>
+What roof a shelter to his griefs will give?<br>
+Shall he whom myriads ask’d for leave to live,<br>
+Even like their Lord whose blood his armies shed,<br>
+Find not a spot to rest his weary head?<br>
+Not so, sad Monarch! Ramla shall bestow<br>
+Her ready shelter, and arrest the foe.<br>
+While there he weeps, the royal drum shall sound,<br>
+And call again the scatter’d legions round.
+
+![curlicue](../cue.jpg)
+
+<a id="book16"></a>
+## Book XVI
+
+### The Holy Sepulchre
+
+Meanwhile in Jaffa’s walls what transports glow!<br>
+What festal pomp succeeds the pomp of woe!<br>
+The Christians’ hopeless tears to rapture changed,<br>
+Their King recover’d, and their shame avenged:<br>
+While he, rejoicing in their zeal, looks on<br>
+To Sion freed, and laurels yet unwon.<br>
+&emsp;The stars are high in heaven, the moon is bright;—<br>
+What lonely wanderer seeks the field of fight?<br>
+’Tis Hermesind! her locks all wildly spread,<br>
+No mantle wraps her form, no veil her head.<br>
+Hers not the soul to shake with idle fear,<br>
+Yet might a warrior shrink to wander here;<br>
+When the pale light in ghastlier horror shew’d<br>
+Distorted faces, pale, or dark with blood;<br>
+When through their tatter’d scarfs the night-wind sighs,<br>
+When the cold beam reflected from their eyes<br>
+Gives an unnatural life; and, feasting nigh,<br>
+Hark! to th' hyena's laugh, the shakal's cry; Or the low groan, the gasp, the rattling breath, Where still some suffering spirit strives with death. 20 And now the rush of wings—her footsteps near, 4 From their dire feast the heavy vultures scare! ъ. What horrors spread below?—ah! look not there. ^7 Her brow is fix'd in anguish, but her eye Gazed on the dead as if on vacancy; There were but two on all that sanguine plain Whose sight could wring her guilty soul with pain. All day she watch'd—they came not, and the cry Of hope, despair, delight, and victory Fell cold upon her sense. Could conquest cheer 30 Her self-accusing soul, if blood be there? The slippery field beguiles her hurried tread, She wades in gore, she stumbles o'er the dead.
 One wretch, convulsed in nature's latest gasp, Seized her loose robe—she frees her from his clasp, But stops not on his livid brow to gaze, Though well that face was known in happier days. She reached a spot with thicker carnage spread; There headless trunks and limbs dismember'd laid, Coursers, that perish'd where their masters died, 40 Turbans and sabres, helms of knightly pride, Shields where the bloody Cross dishonour'd shone, And crescents, glittering in the kindred moon. On all she looks, but pauses not, her mind Fix'd upon those she seeks, yet dreads to find; Pale but unshrinking—lo 1 where yonder beam, From that bright helm awakes an emerald gleam! She shrieks—her grasp her burning brow comprest, But goading conscience urged severer haste: She sinks beside the Knight; her hurried hands 50 The vizor raise, and loose the helmet's bands; With patient toil she chafes his lifeless head,— Oh! is that cheek with mortal paleness spread, One that once mantled in her smile, and took Its form, its colour from her changing look? Is that closed eye the one that proudly shone, Speaking each thought, nor droop'd but at her frown? ν 3
 Those curls—the casque's incessant weight had worn Their auburn beauty, but in youth's gay morn How had she loved (so pride confesses now) 60 Their sunny radiance and luxuriant flow! She looks, till other years revive again, A flood of tears relieves her burning brain: And see! upon his breast, like marble cold, Warm as they fall, his languid eyes unfold, Then closed, as if some hateful sight to hide, tl Hence! let me die in peace," he faintly sigh'd, And give at least my parting thoughts to heaven." 70 " No never, never, till by thee forgiven; Though here I perish, kneeling at thy side," With broken voice the sobbing maid replied. tc Yet—yet thou liv'st—and if the skill be mine, Which once—nay, wherefore that impatient sign? If e'er thou loveďst me, do not scorn my aid;— Thou can'st not wish thy blood upon my head." íť Oh thou fair Syren! can'st thou yet deceive? Thou dost but speak, and I again believe! Yet here thy aid were vain— i know of old The smart of wounds, but now my heart is cold. Yet there is one^—and he may linger still, 80 On youder mound—there, there renew thy skill,—
 His blood is heavier on thy soul than mine; Again those eyes in borrow'd light must shine 1 — What! can it be so hard once more to feign? Oh Hermesind! if it be now a pain, Be it thy penance—soothe his parting hour; Or should thy cares his fleeting life restore, Confess thy faults, and if he love thee still, Then be thou his, and study all his will. Heaven treat thy wrongs to me, as thou art true 90 To what I charge thee now—Oh, God!—adieu."— Yet still she holds his head,—she lingeis there, Pale as himself, a statue of despair. Again his eyes unclos'd—no word he spoke, But oh! the pointing hand, th' upbraiding look. " And must I leave thee, ere thine hour be past?" She hears a sigh, and feels that sigh his last,— Then ’mid the bitter tears that gush'd so fast She sees not where her reckless footsteps tread; Weak, trembling, pale, she staggers o'er the dead, A voice breathes low—the cold, the sense of pain, Had waked Ricardo from his trance again; Her whisper'd name arrests her startled ear, *' Oh, once again!—yet can I wish her here?"— γ 4
@@ -6867,4 +7161,6 @@ Note (e), page 354, line 713. Tke easy price of that triumphant day. Only two pe
 [^47]: This obstinate rebel is said to have expired with terror, immediately on receiving the news tht <span class="smallcaps">Richard</span> was again in England.
 
 [^48]: See Psalm lxxix.
+
+[^49]: Bayardo and Frontaletto, the horses of Rinaldo and Ruggiero in the Orlando Furioso. Bayardo was trained to assault the enemy’s steed, while his master engaged the rider.
 
