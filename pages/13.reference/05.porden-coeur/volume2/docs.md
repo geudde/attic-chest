@@ -7287,7 +7287,7 @@ And rais’d her shield: it bore the Gorgon’s head.<br>
 “Would it could turn thy hated race to stone:<br>
 Revenge and hate are all the loves I own.<br>
 But words are vain; What stripling he, who dares<br>
-To brave that arm which Cœur de Lion fears?<br>
+To brave that arm which <span class="smallcaps">Cœur de Lion</span> fears?<br>
 Thy mien is noble; but that ample shield-<br>
 Has treason stain’d its badge, or why conceal’d?”<br>
 &emsp;“And would’st thou, warrior! of my birth inquire?<br>
@@ -7321,13 +7321,125 @@ Fruits fade and flowers, while weeds accurst and vile,<br>
 With rampant vigour choke the fruitful soil.<br>
 Thus droop the Virtues, thus, without control,<br>
 All the fell Furies riot in her soul.<br>
-
-But Pardo, proud of his excelling skill, Proud of a steed that seem'd to guess his will, Wheels here and there; each 1алуГи1 vantage took, And now eludes, and now prevents the stroke; Nor fought by knighthood's strictest laws alone, But gave to combat graces all his own. 410 Alas! his soul is buoyant with delight j Nor sees where laughing demons watch the fight, Nor deems he soon shall curse that fatal hour, And, lost in grief, bewail his falchion's power. Zorayda maddening to be thus withstood, And madder yet to see her flowing blood, With hasty impulse waves her weapon round, And his unguarded knee receives the wound. Slight was the hurt; but, at th' unknightly blow His anger rose; he rushes on the foe. 420 While her fierce charge his lifted buckler bore, Beneath the heart his луеароп drinks her gore, And from her steed she sinks, to rise no more. Buton inclement Thule's лл -ondrous coast, When high to Heaven the steamy jets are tost, Not swifter, when the hidden fires subside, Within its basin sinks the calm clear tide, Than Pardo's burst of sudden fury died. z 3
-He kneels uesìde her: " Warrior! 'tis the hour When earthly things should fix the soul no more, 430 And Mercy, pointing to her native Heaven, Bids us forgive, that we may be forgiven. Perchance thy soul in secret holds her faith; 4 Still pious rites may soothe the pangs of death, ъ And Holy Church receive thy parting breath." * She heeds not, but in either trembling hand, With shorten'd hold she grasps her shining brand; In haste he rais'd his shield,—with feeble sway The treacherous blow but rent its veil away, And a broad burst of brighter light reveal'd 440 The spotted Pard upon its azure field. He points his sword; " 'T were madness now to spare." But with a thrilling shriek, she cries " Forbear! " And senseless sunk,—it seem'd her latest gasp; His pitying hands her tight-drawn heim unclasp, While, from their net of gems and gold uabouud, Her long black tresses flow'd upon the ground. He props her on his knee, amazed to trace The softer moulding of a female face, Whence hate's unnatural scowl had parted now, 450 Though death and horror bathe her livid brow*
-Breathes she no more? «ah yes! her labouring breast By »tarts the throe of inward pain confest, The crimson flush'd and flitted on her cheek, There is some grief she would, but cannot speak; Death claims her soul, and yet it will not part Till that dread secret, ease her bursting heart— ťí Relentless Heaven! it waits but for a time That sterner justice may o'ertake the crime. Thus should my tainted blood indeed be spilt,— 460 Thus by my Child—the offspring of my guilt."— " What words are these?" he cried, " Oh I speak Kíígain! Or let me think them phrenzied dreams of pain. Great God! on either side is madness now— Speak, if thou can'st—who am I? who art thou?" ie Let me embrace thee first, and on thee cast A mother's gaze—my earliest and ray last. Nay! look not thus—what though thy hands be red, 'Tis by my guilt that now my blood is shed,— I scofFd—I would have braved it to the end; 470 But vengeance rules, and even I must bend. No more of my dishonour'd race inquire, Suffice, an English Monarch was thy sire. z 4
-My parents bade him train me up in truth, He should have guarded, he abused my youth; That crime be his—'twas mine my guilt to hide, Bound as I was, his son's contracted bride, I listen'd vows that injur'd son preferr'd; I knew them impious, yet I heard, I heard,— And when his breaking heart, my falsehood known, \ Forbore reproach, intent to veil alone > My shame, and save my honour by his own, j My hate pursued him— but the die is cast; Once warn'd—th' avenging bolt has fall'n at last." " Fall'n, fall'n indeed,"—a well known tongue, re¬ plied. ’Twas Cœur de Lion, weeping by her side. " Oh lost Alasia!—nay, one instant hear, For thine eternal weal, a voice once dear. I come not one reproving glance to cast, Oh! think not on this life, for that is past,— 490 What are our passions in the silent home? What all this little world to that to come?"— " Forbear, forbear!" she sternly cried, again Her spirit rising over death and pain; '* There are but two whose eye my soul would shun, Whose bight could vex in death—and thou art one.
-I want no counsel, and could not unveil To some dull priest my circumstantial tale, That he may give, at lost Alasia's name, With wink and shrug a royal house to shame, 5C0 And boast how all upon this changing scene Meet sin and judgment—I, by birth a Queen! c And if I cannot, like some Sovereigns, kneel ά To pale-faced monks for stripes I scorn to feel, Still less I deem that prayers in dying hour, Or priestly pardons, have salvation's power. Curse on such arts—and curse on those who live In watching pangs for which they feign to grieve: Hence!—she now mistress where I once was dear, May chide those drops so idly lavish'd here— 510 If I have lived unworthy of my sire, Worthy of both my lovers I expire, The interdicted King—the parricide,— Oh! start not thus, my child, my child," she cried. ' r That fatal word—it-was not meant for thee,— Thy hands are guilty, but thy soul is free. Oh! I am faint—th' avenging skies that gave Years undesired, deny the hour I crave; But justice, when it bids my ghost endure Its doom of torment, shall proclaim thee pure,— 520
-Abandon'd, sought so long, and known too late,— It was not thou that seal'd Alasia's fate." Around his цеск she huug, to hide the strife, The last convulsion of contending life; Nor sigh nor groan her parting tortures tell, Till in his arms a senseless load she fell. " Oh dreadful end!" the shuddering Monarch cried, " Unhallow'd hour!" the weeping son replied. But prest no more by <span class="smallcaps">Richard’s</span> arm of might The Moslems rally and renew the fight, 530 " Rest here, poor youth, and ease thy bursting heart, Mine is a warrior's and a Monarch's part." He said, his vizor o'er his face he drew, And on the foe with double fury flew. But Pardo, deaf to all that once had charms, The shrill voiced trumpet, and the clang of arms, Regardless now of who might win or die, Lost in that grief that knows nor tear nor sigh, Gazeď on the form that still his arms enfold, Pale as herself, as motionless, as cold. 540 Till speaking loud in grief and wonder near, A well known voice arous*d his startled ear. " And have I sought thee o'er the plain," it crjed, " To find thee thus, the dark Destroyer's bride?—
+But Pardo, proud of his excelling skill,<br>
+Proud of a steed that seem’d to guess his will,<br>
+Wheels here and there; each lawful vantage took,<br>
+And now eludes, and now prevents the stroke;<br>
+Nor fought by knighthood’s strictest laws alone,<br>
+But gave to combat graces all his own.<br>
+Alas! his soul is buoyant with delight;<br>
+Nor sees where laughing demons watch the fight,<br>
+Nor deems he soon shall curse that fatal hour,<br>
+And, lost in grief, bewail his falchion’s power.<br>
+&emsp;Zorayda maddening to be thus withstood,<br>
+And madder yet to see her flowing blood,<br>
+With hasty impulse waves her weapon round,<br>
+And his unguarded knee receives the wound.<br>
+Slight was the hurt; but, at th’ unknightly blow<br>
+His anger rose; he rushes on the foe.<br>
+While her fierce charge his lifted buckler bore,<br>
+Beneath the heart his weapon drinks her gore,<br>
+And from her steed she sinks, to rise no more.<br>
+But on inclement Thule’s wondrous coast,<br>
+When high to Heaven the steamy jets are tost,<br>
+Not swifter, when the hidden fires subside,<br>
+Within its basin sinks the calm clear tide,<br>
+Than Pardo’s burst of sudden fury died.<br>
+He kneels uesìde her: “Warrior! ’tis the hour<br>
+When earthly things should fix the soul no more,<br>
+And Mercy, pointing to her native Heaven,<br>
+Bids us forgive, that we may be forgiven.<br>
+Perchance thy soul in secret holds her faith;<br>
+Still pious rites may soothe the pangs of death,<br>
+And Holy Church receive thy parting breath.”<br>
+&emsp;She heeds not, but in either trembling hand,<br>
+With shorten’d hold she grasps her shining brand;<br>
+In haste he rais’d his shield,—with feeble sway<br>
+The treacherous blow but rent its veil away,<br>
+And a broad burst of brighter light reveal’d<br>
+The spotted Pard upon its azure field.<br>
+He points his sword; “’Twere madness now to spare.”<br>
+But with a thrilling shriek, she cries “Forbear!”<br>
+And senseless sunk,—it seem’d her latest gasp;<br>
+His pitying hands her tight-drawn helm unclasp,<br>
+While, from their net of gems and gold unbouud,<br>
+Her long black tresses flow’d upon the ground.<br>
+He props her on his knee, amazed to trace<br>
+The softer moulding of a female face,<br>
+Whence hate’s unnatural scowl had parted now,<br>
+Though death and horror bathe her livid brow.<br>
+&emsp;Breathes she no more?—ah yes! her labouring breast<br>
+By starts the throe of inward pain confest,<br>
+The crimson flush’d and flitted on her cheek,<br>
+There is some grief she would, but cannot speak;<br>
+Death claims her soul, and yet it will not part<br>
+Till that dread secret, ease her bursting heart—<br>
+“Relentless Heaven! it waits but for a time<br>
+That sterner justice may o’ertake the crime.<br>
+Thus should my tainted blood indeed be spilt,—<br>
+Thus by my Child—the offspring of my guilt.”—<br>
+&emsp;“What words are these?” he cried, “Oh I speak again!<br>
+Or let me think them frenzied dreams of pain.<br>
+Great God! on either side is madness now—<br>
+Speak, if thou can’st—who am I? who art thou?”<br>
+&emsp;“Let me embrace thee first, and on thee cast<br>
+A mother’s gaze—my earliest and my last.<br>
+Nay! look not thus—what though thy hands be red,<br>
+’Tis by my guilt that now my blood is shed,—<br>
+I scoff’d—I would have braved it to the end;<br>
+But vengeance rules, and even I must bend.<br>
+No more of my dishonour’d race inquire,<br>
+Suffice, an English Monarch was thy sire.<br>
+My parents bade him train me up in truth,<br>
+He should have guarded, he abused my youth;<br>
+That crime be his—’twas mine my guilt to hide,<br>
+Bound as I was, his son’s contracted bride,<br>
+I listen’d vows that injur’d son preferr’d;<br>
+I knew them impious, yet I heard, I heard,—<br>
+And when his breaking heart, my falsehood known,<br>
+Forbore reproach, intent to veil alone<br>
+My shame, and save my honour by his own,<br>
+My hate pursued him—but the die is cast;<br>
+Once warn’d—th’ avenging bolt has fall’n at last.”<br>
+&emsp;“Fall’n, fall’n indeed,”—a well known tongue, replied.<br>
+’Twas <span class="smallcaps">Cœur de Lion</span>, weeping by her side.<br>
+“Oh lost Alasia!—nay, one instant hear,<br>
+For thine eternal weal, a voice once dear.<br>
+I come not one reproving glance to cast,<br>
+Oh! think not on this life, for that is past,—<br>
+What are our passions in the silent home?<br>
+What all this little world to that to come?”—<br>
+&emsp;“Forbear, forbear!” she sternly cried, again<br>
+Her spirit rising over death and pain;<br>
+“There are but two whose eye my soul would shun,<br>
+Whose sight could vex in death—and thou art one.<br>
+I want no counsel, and could not unveil<br>
+To some dull priest my circumstantial tale,<br>
+That he may give, at lost Alasia’s name,<br>
+With wink and shrug a royal house to shame,<br>
+And boast how all upon this changing scene<br>
+Meet sin and judgment—I, by birth a Queen!<sup>c</sup><br>
+And if I cannot, like some Sovereigns, kneel<sup>d</sup><br>
+To pale-faced monks for stripes I scorn to feel,<br>
+Still less I deem that prayers in dying hour,<br>
+Or priestly pardons, have salvation’s power.<br>
+Curse on such arts—and curse on those who live<br>
+In watching pangs for which they feign to grieve:<br>
+Hence!—she now mistress where I once was dear,<br>
+May chide those drops so idly lavish’d here—<br>
+If I have lived unworthy of my sire,<br>
+Worthy of both my lovers I expire,<br>
+The interdicted King—the parricide,—<br>
+Oh! start not thus, my child, my child,” she cried.<br>
+“That fatal word—it-was not meant for thee,—<br>
+Thy hands are guilty, but thy soul is free.<br>
+Oh! I am faint—th’ avenging skies that gave<br>
+Years undesired, deny the hour I crave;<br>
+But justice, when it bids my ghost endure<br>
+Its doom of torment, shall proclaim thee pure,—<br>
+Abandon’d, sought so long, and known too late,—<br>
+It was not thou that seal’d Alasia’s fate.”
+&emsp;Around his цеск she huug, to hide the strife, The last convulsion of contending life; Nor sigh nor groan her parting tortures tell, Till in his arms a senseless load she fell. " Oh dreadful end!" the shuddering Monarch cried, " Unhallow'd hour!" the weeping son replied. But prest no more by <span class="smallcaps">Richard’s</span> arm of might The Moslems rally and renew the fight, 530 " Rest here, poor youth, and ease thy bursting heart, Mine is a warrior's and a Monarch's part." He said, his vizor o'er his face he drew, And on the foe with double fury flew. But Pardo, deaf to all that once had charms, The shrill voiced trumpet, and the clang of arms, Regardless now of who might win or die, Lost in that grief that knows nor tear nor sigh, Gazeď on the form that still his arms enfold, Pale as herself, as motionless, as cold. 540 Till speaking loud in grief and wonder near, A well known voice arous*d his startled ear. " And have I sought thee o'er the plain," it crjed, " To find thee thus, the dark Destroyer's bride?—
 Pardo— I will not linger now, to know Λ Why thou usurp'st my privilege of woe, J* But, by thy Knighthood, who has struck the blow?"^ " One> who to save her should have welcom'd death, Her child has pierc'd the mould that gave him breath." (l Her Child!" cried Aladin, with mantling brow^— Zorayda's Child!—but that is nothing now: Where lurks the monster, that my hands may tear And' give him piecemeal to the fowls of air?" " Oh! but for one sad duty to fulfil, And one sweet flower that clings around me still, How gladly would I rush upon thy sword, And lose at once a being—now abhorr'd: Prince— în a parent's precious gore embrued, Ne'er shall this steel be wet with other blood: A mournful relic to my latest hour— 560 Spare then, or strike me, I am in thy power." The Prince a moment paus'd—a deathlike dew Suffused his frame, and hoarse his accents grew.— ** No! no! I strike not him who shared my bread, For one—but let our thoughts respect the dead! If thou art guilty, live! thy curse is life— If error struck, I have no cause of strife.
 Fulfil the mournful rites, I could not bear To view those eyes, and find no meaning there. Zorayda! while the bitter shower I shed, 570 I'll think thee pure, and but bewail thee dead, I'll rush to fields so often shared with thee— Perchance some quiver holds a dart for me." Meanwhile the fight is won; their leaders slain, The routed Moslems hurry from the plain— " Now, Raymond! Albert! now your forces join, Press on their rear, pursue, destroy, confine!" The Monarch cries, and leaves the fmish'd fray, With double wreaths to crown one glorious day; Where his brave archers on the distant plain, 580 Unconscious of the fight, a tenfold force sustain. Three times the foe had charged his heroes there; Three times had broken on th' unshrinking square; Their steeds recoiling from that hedge of spears, Whose every point a waving pendant bears. Three times the baffled chiefs had ridden round The equal sides, nor point of vantage found: In vain their taunts or steely javelins fell, Scorn smiled at those, and these their shields repel. Again they come, the charge stern Adel leads, Λ And swarthy Mestoc, fam'd for daring deeds: \ Full on the pikes they urge their generous steeds; y
 Drum, cymbal, trumpet, join their martial sound, And dust in volumes veils the squadron round. But still from every pike the pendants stream, Still shines through mist the iron's deadly gleam; The coursers start, obey nor spur nor rein, But break their ranks and riot o'er the plain. ŕí Be fate upon thy point," fierce Adel cried, And flung his dart,—it pierced Llewellyn's side; 600 Next, calm in silence, powerful Mestoc threw His heavier spear, that youthful Harold slew. " Now, Charge!" he shouted, " Charge! the day is ours;"— But Sherwood's archers pour their iron showers With aim so true, that where their comrades died, A mound of slaughter'd Ethiops fills the void. As daring Mestoc aims another wound, His head, his arm fall sever'd to the ground; ’Twas Cœur dû Lion's blow— so swift he came, His deeds alone the matchless King proclaim. 610 The faithful steed, affrighted, bathed in gore, Through shuddering ranks their headless leader bore. While fear and wonder fill the shrinking host, Grief swell'd in Schaunah's brother bosom most;
