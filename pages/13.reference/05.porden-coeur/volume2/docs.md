@@ -6100,28 +6100,285 @@ And breath’d ’mid words of power Maimoune’s name.<br>
 Of wonted sweetness, told the Peri near;<br>
 But ah! how changed,—the glance on Pardo thrown,<br>
 Which mourn’d his pangs, forgetful of her own,<br>
-Was all which spoke Maimoune; —Hassan’s spell<br>
+Was all which spoke Maimoune;—Hassan’s spell<br>
 From the wild waste had forced her to his cell.<br>
 He call’d her perjur’d, bade her then restore<br>
 The rescu’d youth, and cross his will no more,<br>
 Or meet the vengeance of infernal power.<br>
-Maimoune smiled, u smile almost divine,<br>
+Maimoune smiled, a smile almost divine,<br>
 “Heaven’s curse I bear, and shall I shrink from thine?<br>
 Not all the tortures of thine impious art<br>
 Wound like th’ undying fire which wraps my heart.”<br>
+Wild with delight, his horrid Afrits came<br>
+And tore her lovely limbs with thongs of flame;<br>
+She shrunk not, strove not, breathed no plaintive cries,<br>
+To save those charms for which she lost the skies.<br>
+To Carmel then her bleeding form he bore,<br>
+Mock’d by those fiends her beauty aw’d before,<br>
+Then deep in Kaf’s eternal ice he rent<br>
+A dreadful chasm, and there his victim pent;<br>
+And she, perchance, for ages yet to come,<br>
+To ruthless winds had wail’d her dreadful doom;<br>
+But now the sorcerer, with malicious art,<br>
+Would wring with keener pangs her gentle heart:<br>
+In thunder told, she knew his hateful will,<br>
+And cannot shun, though loathing to fulfil.<br>
+&emsp;A tear her own worst pangs had fail’d to move,<br>
+Fell as she gazed upon her earthly love;<br>
+And with reluctant, lingering hand disclos’d<br>
+Where, wrapt in sleep, Amina’s form reposed,<br>
+Weak as she seems, with all a mother’s care,<br>
+Her gentle arms her senseless rival bear.<br>
+&emsp;Calm was th’ Assassin, but a dreadful joy,<br>
+A laughing fiend sate mocking in his eye.<br>
+“Christian! whose charms thy dastard life ensure,<br>
+Hast thou a spell thy minion to secure?<br>
+Thou seest what pains rebellious genii wait;<br>
+Can mortal virgin hope a milder fate?<br>
+Behold these gems, that treachery’s touch proclaim,<br>
+These talismans, that bear her Prophet’s name;<br>
+Behold, I break them thus! and thou shalt call<br>
+On all thy saints for aid, and curse them all;<br>
+Shalt see her glut my rankling malice first,<br>
+Then waste beside her, waste with want and thirst!”<br>
+&emsp;“So lately taught thine impious boasts are vain,<br>
+Inhuman monster! darest thou threat again?<br>
+Blest Champion of my native England, thou<br>
+That saved thy menaced Sabra, aid me now!<br>
+Aid in a virgin’s cause!” With vigorous hand<br>
+The warrior hurl’d the Sorcerer on the sand;<br>
+Sternly he grasp’d his throat, nor gave him time<br>
+To call his fiends, or breathe one magic rhyme,<br>
+Till the dark spirit fled; the wizard frame<br>
+Vanish’d in noisome fume, and he became<br>
+Like those white bones that, bleaching on the waste,<br>
+Shew where the erring caravan has past.<br>
+&emsp;“Great is the Christian’s faith!” Maimoune said,<br>
+And veil’d in mist the thirsty desert fled;<br>
+While Pardo rais’d his soul in praise and prayer,<br>
+Then with a kiss arous’d the sleeping fair.<br>
+She clapp’d her hands; “and am I then,” she cried,<br>
+“In these dear deserts, and with thee my guide?<br>
+Or am I dead, and does thy blessed ghost<br>
+Rejoin me here?—for I have mourn’d thee lost.”<br>
+&emsp;“Nay, thou fair dreamer! we must leave behind<br>
+These cumbrous limbs, ere we can ride the wind;<br>
+True, I have dwelt with spirits, been to fame<br>
+And duty dead, but wear this mortal frame.<br>
+Alas! these wastes, that seem so fair to thee,<br>
+These thirsty sands, that know nor spring nor tree,<br>
+Will make us ghosts too soon;—but God is great!<br>
+Come when it will, wе share one common fate.”<br>
+&emsp;“Fear not," she answer'd, “I these sands have crost<br>
+When food and water, nay our track was lost,<br>
+And yet the spring my faithful camel found;<br>
+I know the desert signs:"—she gazed around,<br>
+Till hope forsook her eye; on either hand<br>
+The smooth horizon touch'd the shoreless sand;<br>
+No scatter'd palms of food or shelter tell,<br>
+No patch of verdure marks the distant well;<br>
+Nor rocky rift was there, nor deep ravine,<br>
+To hide the hoarded rain, or nurse the niggard green;<br>
+Nor snake nor lizard, offspring of the day,<br>
+Nor the long line that marks the beetle's way;<br>
+Nought save that spider, God's peculiar care,<br>
+Sole living thing, that seems to live on air,<br>
+’Twere joy to hear the shakal now, or meet<br>
+The dreadful traces of the lion's feet!<br>
+All, all is silent, save their quicken'd breath,<br>
+(The silence and the solitude of death,)<br>
+Save when around their limbs the hot winds play,<br>
+As if they marvell’d what obstructs their way.<br>
+Yet on they roam’d, while still, to stifle fear,<br>
+To cheat the pangs of thirst, or chase despair,<br>
+Would Pardo tell of Christians brave and proud,<br>
+Whose hearts like his to Moslem beauty bow’d;<br>
+How Becket’s sire in Arab durance lay,<br>
+His master’s daughter broke his chains away,<br>
+Forsook her faith, her sire, and natal tongue,<br>
+And from their loves the sainted martyr sprung:<br>
+Or, how the brother of the English Queen,<br>
+Loved by the sister of Mirammolin,<br>
+When died his sire, and rebels seized the throne,<br>
+Beheld the generous Moor restore his crown;<sup>p</sup><br>
+And she recounted how Almanzor’s pride,<br>
+With stern Seiffeddin, Saladine defied;<br>
+And thus anew her hateful nuptials crost,<br>
+While wrapp’d in grief she wept her lover lost.<br>
+And how, as late by glowing noon opprest,<br>
+With lute and voice she sooth’d her sire to rest,<br>
+Deep stupor came, and all appear’d a void,<br>
+Till in the waste she waked by Pardo’s side.<br>
+She knew not, by Maimoune’s spells beguil’d,<br>
+How her fond father wail’d his dying child;<br>
+Drank her last breath, and in his bosom warms<br>
+The senseless semblance of her faded charms.<br>
+&emsp;But thirst consumes them soon, and speech is pain,<br>
+Scarce may their tottering limbs their weight sustain,<br>
+While growing torture racks the fever’d brain.<br>
+A purple haze bespeaks the dread Simoom,—<br>
+It comes, it wraps them in its scorching gloom;<br>
+Speechless they sink,—they raise the mutual eye,<br>
+Hopeless of aid, yet scarce resign’d to die;<br>
+While life, now felt but in the sense of pain,<br>
+Ebbs from each burning limb and bursting vein.<sup>q</sup>
 
-Wild with delight, his horrid Afrits came And tore her lovely limbs with thongs of flame; She shrunk not, strove not, breathed no plaintive cries, To save those charms for which she lost the skies. To Carmel then her bleeding form he bore, Mock'd by those fiends her beauty aw'd before, 410 Then deep in Kafs eternal ice he rent A dreadful chasm, and there his victim pent; And she, perchance, for ages yet to come, To ruthless winds had wail'd her dreadful doom j But now the sorcerer, with malicious art, Would wring with keener pangs her gentle heart: In thunder told, she knew his hateful will, And cannot shun, though loathing to fulfil. A tear her own worst pangs had fail'd to move, Fell as she gazed upon her earthly love; 420 And with reluctant, lingering hand disclos'd Where, wrapt in sleep, Amina's form reposed, Weak as she seems, with all a mother's care, Her gentle arms her senseless rival bear. Calm was th' Assassin, but a dreadful joy, A laughing fiend sate mocking in his eye.
-" Christian! whose charm* thy dastard life ensure, Hast thou a spell thy miniou to secure? Thou seest what pains rebellious genii wait; Can mortal virgin hope a milder fate? 430 Behold these gems, that treachery's touch proclaim, These talismans, that bear her Prophet's name; Behold, I break them thus! and thou shalt call On all thy saints for aid, and curse them all; Shalt see her glut my rankling malice first, Then waste beside her, waste with want and thirst!" " So lately taught thine impious boasts are vain, inhuman monster! därest thou threat again? Blest Champion of my native England, thou That saved thy menaced Sabra, aid me now! 440 Aid in a virgin's cause!" With vigorous hand The warrior hurl'd the Sorcerer on the sand; Sternly he grasp'd his throat, nor gave him time To call his fiends, or breathe one magic rhyme, Till the dark spirit fled; the wizard frame Vanish'd in noisome fume, and he became Like those white bones that, bleaching on the waste, Shew where the erring caravan has past. " Great is the Christian's faith!" Maimoune said, And veil'd in mist the thirsty desert fled; 450
-While Pardo rais'd his soul in praise and prayer, Then with a kiss arous'd the sleeping fair. She clapp'd her hands; " and am I then," she cried, " In these dear deserts, and with thee my guide? Or am I dead, and does thy blessed ghost Rejoin me here?—for I have mourn'd thee lost." *' Nay, thou fair dreamer! we must leave behind These cumbrous limbs, ere we can ride the wind; True, I have dwelt with spirits, been to fame And duty dead, but wear this mortal frame. 460 Alas! these wastes, that seem so fair to thee, These thirsty sands, that know nor spring nor tree, Will make us ghosts coo soon;—but God is great! Come when it will, луе share one common fate." £i Fear not," she answer'd, ťí I these sands have crost When food and water, nay our track was lost, And yet the spring my faithful camel found; I know the desert signs:"—she gazed around, Till hope forsook her eye; on either hand The smooth horizon touch'd the shoreless sand; 470 No scatter'd palms of food or shelter tell, No patch of verdure marks the distant well;
-Nor rocky rift was there, nor deep ravine, To hide the hoarded rain, or nurse the niggard green; Nor snake nor lizard, offspring of the day, Nor the long line that marks the beetle's way; Nought save that spider, God's peculiar care, Sole living thing, that seems to live on air, 0 'Twere joy to hear the shakal now, or meet The dreadful traces of the lion's feet! 480 All, all is silent, save their quicken'd breath, (The silence and the solitude of death,) Save when around their limbs the hot winds play, As if they marveil'd what obstructs their way. Yet on they roam'd, while still, to stifle fear, To cheat the pangs of thirst, or chase despair, Would Pardo tell of Christians brave and proud, Whose hearts like his to Moslem beauty bow'd; How Becket's sire in Arab durance lay, His master's daughter broke his chains away, 490 Forsook her faith, her sire, and natal tongue, And from their loves the sainted martyr sprung: Or, how the brother of the English Queen, Loved by the sister of Mirammolin, When died his sire, and rebels seized the throne, Beheld the generous Moor restore his crown; p
-And ohe recounted how Almanzor's pride, With stern Seiffeddin, Saladine defied; And thus anew her hateful nuptials crost, While wrapp'd in grief she wept her lover lost. 500 And how, as late by glowing noon opprest, With lute and voice she sooth'd her sire to rest, Deep stupor came, and all appear'd a void, Till in the waste she waked by Pardo's side. She knew not, by Maimoune's spells beguil'd, How her fond father wail'd his dying child; Drank her last breath, and in his bosom warms The senseless semblance of her faded charms. But thirst consumes them soon, and speech is pain, Scarce may their tottering limbs their weightsustain, While growing torture racks the fever'd brain. A purple haze bespeaks the dread Simoom,— It comes, it wraps them in its scorching gloom; Speechless they sink,—they raise the mutual eye, Hopeless of aid, yet scarce resign'd to die; While life, now felt but in the seuse of pain, Ebbs from each burning limb and bursting vein. 4 Meanwhile Maimoune in her coral cave Starts at her image pictur'd on the wave; vol. п. и
-ί( Ah, me! yet I to Heaven atid Hassan Ьолу ' Щ) Those fatal charms—what were they to ηκ now? One mortal proves how s'ain each boast I made; I could not fiv him, and I cannot aid ' Thou, sole memorial of my happier dajs, Companion of ray fall, beloved sa*e ' I wilì not waste thy last unsullied wave, My bleeding brow or burning wounds to lav T e; Yet when my limbs th' un pitying Afrits smote, My heart approved me, and I felt it not. Oh ι if one deed of good, unstain'd ssith ill, 530 Can yet my breast with aught of sweetness fill, With fiends accurst must I for ever rove, And work the guilt I loathe on those I love? Thrice happy mortals! to th' Eternal ear Your veriest wretch may lift his hands in prayer, And know the God that grants not, yet will hear; But I— í feel the outcast's keenest pain, Who wish the power of good, and wish in vain.— Yet oh, celestial drop! that still dost shine, As ever conscious of thy source divine; 540 Since not my guilty touch, my fruitless teais, Nor all th' offences of uncounted уеагч
-.)l Have ««pent thy virtue—aid them in their need, And let these tortur'd limbs for ever bleed." She snatch'd the sun-bright vase, and hover'd nigh, Where in each other's arms the lovers lie. Now short and heavy came their panting breath, Their lips are yellow with the crust of death; But bending from her cloud, her hands of snow Cool their stiff limbs, and bathe each burning brow. Painful and slow, as when distemper'd dreams Have crush'd the m'md, returning reason gleams; Through their parched veins the languid pulse*- play, And death unwilling yields so fair a prey; Till now they wake to life, their eyes unclose, With strength renew'd and lighten'd hearts they rose. While, as she flings the precious drops around, Wond'rous to tell, where'er they touch the ground, The thirsty sands a sudden verdure find, And fruits expand, beneath whose golden rind 560 In clear cool streams refreshing juices flow, That speak the sacred waters whence they grow. For ages bent to earth, Maimoune's eyes Sought in spontaneous thankfulness the skies. " Omnipotent! from one who dare not raise Her hands in Prayer, accept the voice of Ргаьо и 2
-She starts! for in her breast а ронег dh ine Allays its pangs and cm* tr to Saladine!" " Ob, joy unhoped î am 1 permitted still? I fly, too blest to ss'ork thy gracious will," — 5/0 Mcanwbile from Pardo's bands Amina quaff'd The juicy melon's sweet and cojiious draught,* When Io! the pelican—she flies to bring Her young ones water from the distant spring: (i Behold, my friend!" the Arab virgin cried, (i On! let us hasten—Alia sends our guide." Soon has she vanish'd from their anxious view, But nerved by hope they follow where she flcw;— Vast ridges, heaving like the stormy main, Oppose their painful progress, but in vain; 580 In vain the flying columns round them rise, That precious fruit a wond'rous strength supplies. At length Amina faints: but full in sight, Rise the near palms, her lover bears her weight; With day's last beam he reach'd the shady well, And staggering, at an Arab's feet he fell. He woke—'twas Aladin that o'er him bent, And Mosul's maids that watch Amina's tent, And Mosul's warriors» that, encamp'd around, Slept by their faithful coursers on the ground. 590
-íl Oh!" cried young Pardo, ss-hiie his cheeks attest Shame, hope, and fear, contending in his breast, " Tell me if lises my King? what fates befal Our Christian heroes?—tell me, tell me all." ri Belies'e me, warrior, that I share thy joy, Thy Monarch lives, and Jaffa hopes him nigh;— And then forgive mc, if I cannot join Thy grief, that danger threats the Christian line." Brief were his words,—the term of truce drew near, The Soldan bade the Christian host prepare 600 As foes to wait him, or as friends depart; But the brave Chiefs replied with joyful heart, iC Bear, Heralds, to your lord these words again, King Richard lives, King Richard ploughs themain." He call'd his satraps round, and spoke of war; But those whose kingdoms lay dispers'd afar Languished for home, and, as with one consent, Refused their aid, and left the royal tent. First in revolt the proud Seiffeddin stood, And Sindgiarshah, and Zenghi's youthful blood; 610 With frequent scrolls in haughty phrase expresr, They v T ex'd the Soldan's scanty hours of rest. и 3
-He smiled, disdainful of each rebel foe, Of taunt and threats, and calmly wrote below, ki To what protector would my subjects dec? What seeks the Prince who scorns a friend like me?"· Truth had its force; to duty all return'd, The proffer'd grace alone S- iffeddin spurn'd: The Soldan wrote, and from an angry heart, " Base and ungrateful, haste Ihee to depart! 620 Ne'er did I stoop thy friendship to intreat, But tbou hast iick'd the sod beneath my feet! His realm, his life, to me Seiffeddin owes, I saved him from his subjects and his foes; And what the succour, what the thanks I gain? The groans of those that curse his iron reign; His own ingratitude, his sloth, distrust, And murmurs, rising like the desert dust. Go! revel on in rapine and in strife, Fear for thy days, and yet provoke the knife, 630 Seek some new rock, beneath whose shade to live, Again offended, í no more forgive." " My sire, alas!" the young narrator cries, re Yet never knew the Soldan's worth to prize; With jealous doubt his lofty soul was moved, And him distrusted whom it should have loved.
-I then was distant, but with all his force, Inflamed, yet troubled, as he held his course, I met him, nor could filial fear restrain; I urged the Soldan's love, his gentle reign, 640 His power of vengeance,—but I urged in vain, Cf *' Go, willing victim!' was my sire's reply, i Caught by the serpent's fascinating eye, Rush on thy doom;—but I no more will bend,— Go! in his wars thy youthful vigour spend, Till thou shalt rue the shouts that spread thy name, When the quick bowstring checks too proud a fame.' " But could I stoop to feel so mean a fear, Or think the generous Soldan insincere, When for my truth my parent he forgave, 650 And in a warm embrace uprais'd his slave? ’Twas then the war resumed;—the Christians ran To meet our arms, and each was more than man; But numbers girt them round j each hour their host Deplored a hero or a bulwark lost. Now Cesarea falls, the wolves again Expect their feast on Acre's funeral plain; O'er the young Ascalon a sable cloud Hangs, and her bridal \ T est shall be her shroud. и 4
-In s T am their guardians seem in love with death, 660 In vain their valour mates thy Monarch's wreath, For Jaffa's walls are dust;—nine days her tears May plead with Heaven, but if no aid appears, Pledged to surrender, all our strife is o'er, And Christian.? rule in Palestine no more; Her warriors must the Soldan's chains endure, — Behold the troops that make his conquest sure!" (S Ah!" groan'd th' afflicted youth, " my force how slight, Yet, if my death might save some worthier knight,— DeareAtadin! on thee my hopes depend, 670 Am I indeed thy captive, or thy friend?" Around the Arab's tent the palm trees grew; He culls the dates that seem of richest hue, And shares them with the Knight, and hastes to bring, Pour'd in the melon's rind, the bubbling spring;— '· Now by the desert bread, and desert wine, Which here we pledge, whate'er thou wilt is thine; Were it the pearls of Indus to bestow, Or fetch thee ice from Kafs untrodden brow." "Then, if my wish be not beyond thy pt. er, 680 To Jaffa lead me, ere her fatal hour."
+Meanwhile Maimoune in her coral cave<br>
+Starts at her image pictur’d on the wave;<br>
+“Ah, me! yet I to Heaven and Hassan bow!<br>
+Those fatal charms—what were they to me now?<br>
+One mortal proves how vain each boast I made;<br>
+I could not fix him, and I cannot aid!<br>
+Thou, sole memorial of my happier days,<br>
+Companion of my fall, beloved vase!<br>
+I will not waste thy last unsullied wave,<br>
+My bleeding brow or burning wounds to lave;<br>
+Yet when my limbs th’ unpitying Afrits smote,<br>
+My heart approved me, and I felt it not.<br>
+Oh! if one deed of good, unstain’d with ill,<br>
+Can yet my breast with aught of sweetness fill,<br>
+With fiends accurst must I for ever rove,<br>
+And work the guilt I loathe on those I love?<br>
+Thrice happy mortals! to th’ Eternal ear<br>
+Your veriest wretch may lift his hands in prayer,<br>
+And know the God that grants not, yet will hear;<br>
+But I—I feel the outcast’s keenest pain,<br>
+Who wish the power of good, and wish in vain.—<br>
+Yet oh, celestial drop! that still dost shine,<br>
+As ever conscious of thy source divine;<br>
+Since not my guilty touch, my fruitless tears,<br>
+Nor all th’ offences of uncounted уеагs<br>
+Have spent thy virtue—aid them in their need,<br>
+And let these tortur’d limbs for ever bleed.”<br>
+&emsp;She snatch’d the sun-bright vase, and hover’d nigh,<br>
+Where in each other’s arms the lovers lie.<br>
+Now short and heavy came their panting breath,<br>
+Their lips are yellow with the crust of death;<sup>r</sup><br>
+But bending from her cloud, her hands of snow<br>
+Cool their stiff limbs, and bathe each burning brow.<br>
+&emsp;Painful and slow, as when distemper’d dreams<br>
+Have crush’d the mind, returning reason gleams;<br>
+Through their parched veins the languid pulses play,<br>
+And death unwilling yields so fair a prey;<br>
+Till now they wake to life, their eyes unclose,<br>
+With strength renew’d and lighten’d hearts they rose.<br>
+While, as she flings the precious drops around,<br>
+Wond’rous to tell, where’er they touch the ground,<br>
+The thirsty sands a sudden verdure find,<br>
+And fruits expand, beneath whose golden rind<br>
+In clear cool streams refreshing juices flow,<br>
+That speak the sacred waters whence they grow.<br>
+&emsp;For ages bent to earth, Maimoune’s eyes<br>
+Sought in spontaneous thankfulness the skies.<br>
+“Omnipotent! from one who dare not raise<br>
+Her hands in Prayer, accept the voice of Ргаise!”<br>
+&emsp;She starts! for in her breast а роwer divine<br>
+Allays its pangs and cries “to Saladine!”<br>
+“Oh, joy unhoped! am 1 permitted still?<br>
+I fly, too blest to work thy gracious will.”<br>
+&emsp;Meanwhile from Pardo’s hands Amina quaff’d<br>
+The juicy melon’s sweet and copious draught,<sup>s</sup><br>
+When lo! the pelican—she flies to bring<br>
+Her young ones water from the distant spring:<br>
+“Behold, my friend!” the Arab virgin cried,<br>
+“On! let us hasten—Alla sends our guide.”<br>
+&emsp;Soon has she vanish’d from their anxious view,<br>
+But nerved by hope they follow where she flew;—<br>
+Vast ridges, heaving like the stormy main,<br>
+Oppose their painful progress, but in vain;<br>
+In vain the flying columns round them rise,<br>
+That precious fruit a wond’rous strength supplies.<br>
+At length Amina faints: but full in sight,<br>
+Rise the near palms, her lover bears her weight;<br>
+With day’s last beam he reach’d the shady well,<br>
+And staggering, at an Arab’s feet he fell.<br>
+&emsp;He woke—’twas Aladin that o’er him bent,<br>
+And Mosul’s maids that watch Amina’s tent,<br>
+And Mosul’s warriors that, encamp’d around,<br>
+Slept by their faithful coursers on the ground.<br>
+&emsp;“Oh!” cried young Pardo, while his cheeks attest<br>
+Shame, hope, and fear, contending in his breast,<br>
+“Tell me if lives my King? what fates befall<br>
+Our Christian heroes?—tell me, tell me all.”<br>
+&emsp;“Believe me, warrior, that I share thy joy,<br>
+Thy Monarch lives, and Jaffa hopes him nigh;—<br>
+And then forgive me, if I cannot join<br>
+Thy grief, that danger threats the Christian line.”
+
+Brief were his words,—the term of truce drew near,<br>
+The Soldan bade the Christian host prepare<br>
+As foes to wait him, or as friends depart;<br>
+But the brave Chiefs replied with joyful heart,<br>
+“Bear, Heralds, to your lord these words again,<br>
+King Richard lives, King Richard ploughs the main.”<br>
+&emsp;He call’d his satraps round, and spoke of war;<br>
+But those whose kingdoms lay dispers’d afar<br>
+Languished for home, and, as with one consent,<br>
+Refused their aid, and left the royal tent.<br>
+First in revolt the proud Seiffeddin stood,<br>
+And Sindgiarshah, and Zenghi’s youthful blood;<br>
+With frequent scrolls in haughty phrase exprest,<br>
+They vex’d the Soldan’s scanty hours of rest.<br>
+He smiled, disdainful of each rebel foe,<br>
+Of taunt and threats, and calmly wrote below,<br>
+“To what protector would my subjects flee?<br>
+What seeks the Prince who scorns a friend like me?”<sup>s</sup><br>
+Truth had its force; to duty all return’d,<br>
+The proffer’d grace alone Seiffeddin spurn’d:<br>
+The Soldan wrote, and from an angry heart,<br>
+“Base and ungrateful, haste thee to depart!<br>
+ Ne’er did I stoop thy friendship to intreat,<br>
+But thou hast lick’d the sod beneath my feet!<br>
+His realm, his life, to me Seiffeddin owes,<br>
+I saved him from his subjects and his foes;<br>
+And what the succour, what the thanks I gain?<br>
+The groans of those that curse his iron reign;<br>
+His own ingratitude, his sloth, distrust,<br>
+And murmurs, rising like the desert dust.<br>
+Go! revel on in rapine and in strife,<br>
+Fear for thy days, and yet provoke the knife,<br>
+Seek some new rock, beneath whose shade to live,<br>
+Again offended, I no more forgive.”<br>
+&emsp;“My sire, alas!” the young narrator cries,<br>
+“Yet never knew the Soldan’s worth to prize;<br>
+With jealous doubt his lofty soul was moved,<br>
+And him distrusted whom it should have loved.<br>
+I then was distant, but with all his force,<br>
+Inflamed, yet troubled, as he held his course,<br>
+I met him, nor could filial fear restrain;<br>
+I urged the Soldan’s love, his gentle reign,<br>
+His power of vengeance,—but I urged in vain,<br>
+&emsp;“‘Go, willing victim!’ was my sire’s reply,<br>
+‘Caught by the serpent’s fascinating eye,<br>
+Rush on thy doom;—but I no more will bend,—<br>
+Go! in his wars thy youthful vigour spend,<br>
+Till thou shalt rue the shouts that spread thy name,<br>
+When the quick bowstring checks too proud a fame.’<br>
+&emsp;“But could I stoop to feel so mean a fear,<br>
+Or think the generous Soldan insincere,<br>
+When for my truth my parent he forgave,<br>
+And in a warm embrace uprais’d his slave?<br>
+’Twas then the war resumed;—the Christians ran<br>
+To meet our arms, and each was more than man;<br>
+But numbers girt them round; each hour their host<br>
+Deplored a hero or a bulwark lost.<br>
+Now Cesarea falls, the wolves again<br>
+Expect their feast on Acre’s funeral plain;<br>
+O’er the young Ascalon a sable cloud<br>
+Hangs, and her bridal vest shall be her shroud.<br>
+In vain their guardians seem in love with death,<br>
+In vain their valour mates thy Monarch’s wreath,<br>
+For Jaffa’s walls are dust;—nine days her tears<br>
+May plead with Heaven, but if no aid appears,<br>
+Pledged to surrender, all our strife is o’er,<br>
+And Christians rule in Palestine no more;<br>
+Her warriors must the Soldan’s chains endure,—<br>
+Behold the troops that make his conquest sure!”<br>
+&emsp;“Ah!” groan’d th’ afflicted youth, “my force how slight,<br>
+Yet, if my death might save some worthier knight,—<br>
+Dear Aladin! on thee my hopes depend,<br>
+Am I indeed thy captive, or thy friend?”<br>
+&emsp;Around the Arab's tent the palm trees grew; He culls the dates that seem of richest hue, And shares them with the Knight, and hastes to bring, Pour'd in the melon's rind, the bubbling spring;— '· Now by the desert bread, and desert wine, Which here we pledge, whate'er thou wilt is thine; Were it the pearls of Indus to bestow, Or fetch thee ice from Kafs untrodden brow." "Then, if my wish be not beyond thy pt. er, 680 To Jaffa lead me, ere her fatal hour."
 " An easy boon, for there my duty lies, And with the dawn we part," the Prince replies. Seven nights have past, another noon is fled, They quit the desert for the forest shade. The young Amina rules a fiery steed, And ever loves the foremost band to lead; Exults in liberty regain'd at last, Nor shrinks from scorching sun or evening blast. But as the lovers reach a fragrant dell, 690 Why do their cheeks of fond remembrance tell? And whence that marble obelisk, which rose] Where from its source the conscious fountain fkws; While as in memory of one rapturous hour, The jasmine wreathes it лукЬ its starry flower? Above, the arms that Pardo wont to >vield, The helm, the hauberk, and the leopard shield; — He starts, and blushes with a ruddier shame, At the brief record of his early fame. " Christian or Arab, %vho shall wander here, 700 To youthful virtue give one generous tear. Heaven, that his glory might be all his own, Reveal'd his rank, but kept his race unknown;
 And they on Arsouf ь plain or Acre's tower, \ Who wept his blows or gloried in his power, > Confess'd him born to grace the spurs he wore. y To Cœur de Lion dear, his worth he proved, Who perish'd, seeking for the King hc loved; And that bright Angel, in celestial flame, \ That consecrates each bold Crusader's fame, /10 > Amid his martyrs blazons Pardo's name." j " Oh! were it true * oh ' had a glorious death, Had toil, had suffering earn'd the envied wreath ' But wake my soul! regret and shame are vain, Bright glory hear! I will be thine again." Thus while he speaks the arms his limbs invest, He shakes the lance and nods the waving cre&t; But in his scarf he wraps the leopard shield,— " There shalt thou slumber, till to farne reveal'd! Oh ι could I from the woild and memory hide 720 My tainted honour, as I veil thy pride Î" But never yet, in all his past career, Seem'd he so foam'd to kindle love and fear; For Asia's sun had tinged too fair a face, And time had lent his form a manlier grace; While round his lips the smile that ever play'd, Temper' d the fire his piercing glance betray'd.
 Amina fondly gazed, then whìsper'd near, While pride and rapture struggled with a tear: " In the wild waste, thou chosen of my heart, 730 By power supernal join'd, no more we part! Yet pardon, Christian, if I sometimes feel My friends, my country, weep thy biting steel; And when with Kings thou wakest the purple war, Think tliere is one Amina bids thee spare." " Christian, farewell!" the Persian warrior cried, Thy truant steps will need no farther guide; And let us hold these hours of concord sweet,— How shall we feel, brave youtii! when next we meet?" " As friends!" was Pardo's quick reply, " for those Whom honour rules, in heart are never foes; They not in malice bid the arrow fly, And fight for fame,—to conquer, not destroy." The evening glow was fading into night, When Jaffa's ramparts met their anxious sight. The shatter'd towers, the ruins strew'd around, The turf defaced and worn, the uew rais'd mound Spoke of the strife, while, from the ramparts roll'd, Its fatal end the yellow standards told;
