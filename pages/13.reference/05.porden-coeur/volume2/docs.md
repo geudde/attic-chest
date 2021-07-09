@@ -7934,8 +7934,8 @@ He doubts the wonder—saw, yet disbelieved;<br>
 Thrice he commands, and thrice his impious crew<br>
 Suppress’d the flames, and thrice they blazed anew;<br>
 Trembling he owns the wonder, while the strain<br>
-Of Christian transport fills the spacious fane:
-But he, still erring iu his bigot faith,<br>
+Of Christian transport fills the spacious fane:<br>
+But he, still erring in his bigot faith,<br>
 Reads in that fire the oracle of death.<br>
 &emsp;And now a cloud descends; but lovelier far<br>
 Than those which follow day’s declining car,<br>
@@ -7956,7 +7956,7 @@ In bliss eternal, Him whose Cross they bore.<br>
 Beneath, the Arch of Peace and Promise spread,<br>
 The type of safety, born in doubt and dread;<br>
 And lo! within its ample circle beam’d<br>
-The sacred sign that marks its pledge redeem’d.
+The sacred sign that marks its pledge redeem’d.<br>
 Lost to man’s touch, though to his reverence given,<br>
 Bright cherubs bear the Holy Cross to Heaven!<br>
 Now golden radiance gilds the sacred wood,<br>
@@ -7991,7 +7991,7 @@ Again she pours th’ unwearied hymn of praise,<br>
 Again partakes the beatific blaze.<br>
 When now that voice the warlike host addrest,<br>
 And fill’d with transport every faithful breast:<br>
-“Soldiers of <span class=”smallcaps”>Christ</span>! by <span class=”smallcaps”>Christ</span> with conquest crown’d,<br>
+“Soldiers of <span class="smallcaps">Christ</span>! by <span class="smallcaps">Christ</span> with conquest crown’d,<br>
 Think, while your hearts with grateful rapture bound,<br>
 Mine is no Temple framed with human hands,<br>
 Beyond the stars my chosen Sion stands.<br>
