@@ -121,7 +121,7 @@ Eleanor Anne Роrden
 <li><a href="https://attic.vardill.org/reference/porden-coeur/volume2#book14">XIV. The Imperial Synod</a></li>
 <li><a href="https://attic.vardill.org/reference/porden-coeur/volume2#book15">XV. The Return of Richard</a></li>
 <li><a href="https://attic.vardill.org/reference/porden-coeur/volume2#book16">XVI. The Holy Sepulchre</a></li>
-<li>Notes</a></li>
+<li><a href="https://attic.vardill.org/reference/porden-coeur/volume2#notes02">Notes</a></a></li>
 </ul>
 </div> 
 </div>
