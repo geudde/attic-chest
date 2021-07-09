@@ -6557,10 +6557,72 @@ This darksome hour thy glad return shall cheer,<br>
 A pledge of heavenly grace—oh! may thy Lord,<br>
 Like thee lamented, be like thee restored.”
 
-The morning dawns, but Richard comes not yet;—<br>
-Can Heaven its own, its once-loved land forget? The fated noon draws on, and numbers strain 850 Their fruitless glances o'er th' unspotted main. Ranged in the square the troops already stand, The keys are seen in Henry's trembling hand, (Champagne's young Earl, from Acre cail'd to bear His Uncle's truncheon, and direct the war.) Now groupes of weeping females round them close, And loud upbraidings mingle with their woes. " Sas T eus!" they cry, " your wives and daughters save, From death, or shame more dreadful than the grave." But they so fierce in battle want reply, ^^^ Nor speak, nor move, save when th' impatient eye > Turns from the Ocean to accuse the sky. j Already shines aloft th' ætherial fire, Inch after inch the lessening shades retire;
-The proudest to\vers that flank th' embattled keep ΝοΛν scarce withhold one sunbeam from the deep. " Stay!" Pardo cried, " лл г е have an instant yet!" And climb'd in haste the loftiest minaret; While thousands watch'd his lessen'd form on high. And hope turn'd sickening from his drooping eye. 870 At length it beam'd—" A sail! a fleet!" he cried, " See the red flag floats proudly o'er the tide." As when some billow on the troubled deep Swells with a sullen, silent, solemn sweep, At once the dusky mountain breaks, it pours Its sparkling floods of foam, and spreads, and roars. Thus changed the awful stillness of despair To murmur'd sounds of joy, and busy care. Like statue warm'd with life, Champagne's brave lord Flings down the keys, and grasps his shining sword! Where Saladine leads on his countless force, In peaceful pomp, the Herald stops his course, And tells of Richard nigh.—Great Ayoub's son Mourns for an instant o'er his conquest gone; Then yields to fate, displays a leader's care, And bids his trumpets sound the note of лл т аг. Rous'd by th' inspiring call the Arabs throng j Flush'd with ηοΛν hope, the Christians pour along.,vol, п.,χ
-Sec him, the Emerald Knight, who long had prest A feverish couch, again in armour drest! 890 And who is she, that like a radiant fay Glides towards the gate, and checks him on his way. " Pause! though thy heart of adamant deny ^ To li^t thy vizor to a human eye,— > Though deaf to beauty's prayer, to beauty's sigh, j Hear for thyself! Indeed thou must not go, With wounds half heal'd, to brave so fierce a foe! Come, let me steal this heavy lance away— Too rash, too eager, ride not forth to day." íť And can'st thou, lovely tempter! truly deem 900 That I am cold and senseless as I seem? Yet ill the Knight would merit beauty's smile, Whom even her tear from duty could beguile; It should be beauty's pride, in honour's track To urge her hero, not to lure him back:— How for thy grace I languish, how thy spell For ever wraps me round, no words can tell!" " Aye! nor no ear believe," the maid replied, "4 ť< With my first suit, so slight a suit, denied." \ " Nay, by St. James! fair nymph, Hi« not to hide 1 Some face more foul than wizard ever knew— I boast two eyes, and both of hazel hue j
+The morning dawns, but <span class="smallcaps">Richard</span> comes not yet;—<br>
+Can Heaven its own, its once-loved land forget?<br>
+The fated noon draws on, and numbers strain<br>
+Their fruitless glances o’er th’ unspotted main.<br>
+Ranged in the square the troops already stand,<br>
+The keys are seen in Henry’s trembling hand,<br>
+(Champagne’s young Earl, from Acre call’d to bear<br>
+His Uncle’s truncheon, and direct the war.)<br>
+Now groups of weeping females round them close,<br>
+And loud upbraidings mingle with their woes.<br>
+“Save us!” they cry, “your wives and daughters save,<br>
+From death, or shame more dreadful than the grave.”<br>
+But they so fierce in battle want reply,<br>
+Nor speak, nor move, save when th’ impatient eye<br>
+Turns from the Ocean to accuse the sky.<br>
+Already shines aloft th’ ætherial fire,<br>
+Inch after inch the lessening shades retire;<br>
+The proudest towers that flank th’ embattled keep<br>
+Νοw scarce withhold one sunbeam from the deep.<br>
+&emsp;“Stay!” Pardo cried, “wе have an instant yet!”<br>
+And climb’d in haste the loftiest minaret;<br>
+While thousands watch’d his lessen’d form on high.<br>
+And hope turn’d sickening from his drooping eye.<br>
+At length it beam’d—“A sail! a fleet!” he cried,<br>
+“See the red flag floats proudly o’er the tide.”<br>
+&emsp;As when some billow on the troubled deep<br>
+Swells with a sullen, silent, solemn sweep,<br>
+At once the dusky mountain breaks, it pours<br>
+Its sparkling floods of foam, and spreads, and roars.<br>
+Thus changed the awful stillness of despair<br>
+To murmur’d sounds of joy, and busy care.<br>
+Like statue warm’d with life, Champagne’s brave lord<br>
+Flings down the keys, and grasps his shining sword!<br>
+Where Saladine leads on his countless force,<br>
+In peaceful pomp, the Herald stops his course,<br>
+And tells of <span class="smallcaps">Richard</span> nigh.—Great Ayoub’s son<br>
+Mourns for an instant o’er his conquest gone;<br>
+Then yields to fate, displays a leader’s care,<br>
+And bids his trumpets sound the note of wаг.<br>
+&emsp;Rous’d by th’ inspiring call the Arabs throng;<br>
+Flush’d with new hope, the Christians pour along.<br>
+See him, the Emerald Knight, who long had prest<br>
+A feverish couch, again in armour drest!<br>
+And who is she, that like a radiant fay<br>
+Glides towards the gate, and checks him on his way<br>
+&emsp;“Pause! though thy heart of adamant deny<br>
+To lift thy vizor to a human eye,—<br>
+Though deaf to beauty’s prayer, to beauty’s sigh,<br>
+Hear for thyself! Indeed thou must not go,<br>
+With wounds half heal’d, to brave so fierce a foe!<br>
+Come, let me steal this heavy lance away—<br>
+Too rash, too eager, ride not forth to day.”<br>
+&emsp;“And can’st thou, lovely tempter! truly deem<br>
+That I am cold and senseless as I seem?<br>
+Yet ill the Knight would merit beauty’s smile,<br>
+Whom even her tear from duty could beguile;<br>
+It should be beauty’s pride, in honour’s track<br>
+To urge her hero, not to lure him back:—<br>
+How for thy grace I languish, how thy spell<br>
+For ever wraps me round, no words can tell!”<br>
+&emsp;“Aye! nor no ear believe,” the maid replied,<br>
+“With my first suit, so slight a suit, denied.”<br>
+&emsp;“Nay, by St. James! fair nymph, ’tis not to hide<br>
+Some face more foul than wizard ever knew—<br>
+I boast two eyes, and both of hazel hue;<br>
+
 Nay, ladies, when a boy, would call me fair, And wreathe their fingers in my clustering hair. But, for some youthful sin to me 'twas given To love a maid who changed like April's heaven j Now full of promise as its sunniest rnoťn, Now saddening into tears, now dark with scorn; Hence my rash vow, no more to woman's gaze, In weal or woe this iron front to raise, 920 Till in that hour, when at the altar shewn, By holiest rites I claim her as my own.— Oh, Hermesind! perchance too high I rate, Duped by fond Hope, thy interest in my fate; Perchance—yet may I trust that rising flush— Oh! say not pride or anger prompts the blush, Nor draw that jealous mantle o'er thy cheek,-— Thy looks must answer, if thou wilt not speak. 1 * Yes! through her heart a crowd of feelings past, The voice, the seeming scorn explain'd at last; 930 ’Twas for her sake he still had shunn'd her eyes To please unknown, to win her in disguise!— She trembled, and her eye a tear betray'd, Joy, shame, remorse, and hope, alternate sway'd. She sigh'd,—the hand he kneeling sought to clasp Drop'd unreluctant in his eager grasp; x 2
 She strove to speak—when lo! Ricardo near, Meets her rais'd eye, the image of despair: From her bright cheek the crimson ebb'd again, And trembling Coquetry resum'd her reign. 940 " Indeed! Sir Knight, thyhopeshaveblossom'dsoon; Unsown at morn, and flourishing at noon! Hast thou some talisman to charm unseen, Or think'st thou I can love that casque of green? At thy first sigh forgive a long neglect?— Rate thyself lower, Knight! and learn respect." " Unfeeling woman! trifling to the last, Aye! to the end,"—he mutter'd as he past. She seiz'd his arm j—he push'd her hand away, Remounts his steed, and gallops to the fray. 950 Too late repentant, self-abased she stood, But with forced smiles resumes her sportive mood. '* Ha! is it thou, Ricardo? pid'st thou hear That wayward Knight? 'tis pleasant thou wert near; Of all our damsels me he treats with scorn; My glove, forsooth, must not by him be worn, 'Twould taint his honour!—Then the chilling gale Shifts to the south, and sighs and tears prevail j And I may fill poor Honour's place, and then To his new bride he'll lift his helm agen. 960
 Whate'er his charms, as high I'd rate my own, Nor wed, like Psyche, e'en a God unknown; But hear'st thou not, my friend,—when I am nigh, What means that drooping crest and vacant eye?" " Yes, Hermesind, I heard! nor can thy smile Again to bliss this breaking heart beguile. How I have loved thee—with a zeal how strong Thou know'st too well, and hast abused too long; I could not fancy, spite of warning fame, Less than an angel in an angel's frame. 970 To love thee now—or live and love thee not, Exceeds my power, I bow me to my lot; Yet sometimes—if in other years thou cast A pensive glance on days and feelings past, lf then my memory wake one thought of pain, I shall not live, or love, or di-á in vain." Thus as he spoke he closed his helm, to hide The bitter tears that flow'd in spite of pride. She clasp'd her hands,—and is he also gone, And left her to repent and weep alone? 980 Oh Hermesind! not all thy beauty's power Gave thee one joy were worth this wretched hour. The battle raged; the worn and wasted bands Strive with the chosen of a thousand lands. χ 3
