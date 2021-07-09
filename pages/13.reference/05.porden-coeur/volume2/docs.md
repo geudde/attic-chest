@@ -7438,7 +7438,7 @@ Years undesired, deny the hour I crave;<br>
 But justice, when it bids my ghost endure<br>
 Its doom of torment, shall proclaim thee pure,—<br>
 Abandon’d, sought so long, and known too late,—<br>
-It was not thou that seal’d Alasia’s fate.”
+It was not thou that seal’d Alasia’s fate.”<br>
 &emsp;Around his neck she hung, to hide the strife,<br>
 The last convulsion of contending life;<br>
 Nor sigh nor groan her parting tortures tell,<br>
@@ -7620,25 +7620,399 @@ But ever first the matchless <span class="smallcaps">Richard</span> flew;<br>
 Now for some chosen foe the quarrel drew;<br>
 Now bade some wretch his flying javelin feel,<br>
 Or plied untired the unrelenting steel.<br>
+Night darken’d on the chase, the moon arose,<br>
+Yet still the Christians press their routed foes.<br>
+The trembling slave that sought the veil of night,<br>
+Curs’d the clear beam that guides the arrow’s flight.<br>
+Shame woke revenge, nor slept th’ unsated blade<br>
+While that soft light one turban’d head betray’d.<br>
+&emsp;’Twas midnight ere the pious King could raise<br>
+In Jaffa’s fane the rapturous voice of praise!<br>
+On trophied biers Llewellyn, Harold lay,<br>
+The easy price of that triumphant day.<sup>c</sup><br>
+The grateful host, while loud their anthems peal’d,<br>
+Own’d Heav’n not more their falchion than their shield.
 
-Night darken'd on the chase, the moon arose, Yet still the Christians press their routed foes. The trembling slave that sought the veil of night, Curs'd the clear beam that guides the arrow's flight. Shame woke revenge, nor slept th' unsated blade While that soft light one turban'd head betray'd. ’Twas midnight ere the pious King could raise 7Ю In Jaffa's fane the rapturous voice of praise! On trophied biers Llewellyn, Harold lay, The easy price ofthat triumphant day. c The grateful host, while loud their anthems peal'd, Own'd Heav'n not more their falchion than their shield. Who but has known the blended thrill of joy, And pride, and grief, that waits on victory? When patriot rapture half repels the tear For those, oh! never, never, held so dear; And the lorn heart reproves the rising glow, 720 For what to it is fame or conquest now? Though its freed country be a name once more, Or rescued realms a thousand blessings pour. But what the pure, th' unsated rapture then, If the bright laurel shew no sanguine stain?
-Ami generous Pity, not Affliction gives The sacred dew that consecrates its leaves. Yet ev'n in Jaffa's walls two hearts o'erflow With more than pity for a conquer'd foe. With many a fruitless tear young Pardo gas'e 730 His wretched parent to the silent grave; And tapers burn'd, and ceaseless mass was said— If aught our pious cares avail the dead. Beneath his trophied pillar, vainly rear'd By Sharon's fount, a simple pile appear'd, Where filial los r e, still jealous of her fame, Alone inscribes Zorayda's mystic name. Meanwhile, her heart with equal anguish wrung, Above her father's couch Amina hung. With herbs of power she cool'd his burning head, And as her hands each healing bandage laid, Sobb'd to believe his wounds beyond her aid. Oft to his couch with noiseless step she crept, And indrawn breath, to mark if yet he slept; Trembling to break a rest so calm and deep. Yet fearful death might wear the mask of sleep. Then watch'd retired, that every breeze sshich came From the calm deep, might cool his fever'd frame, 2 a 2
-if evd fate in evil glances lie, Drops less than balm from that mild dovclike eye? At length Almanzor moved,—he waked, he smiled; Delightful moment ' for he knows his child. Rapt from his sight, Maimoune's spells had shed Grief through hi& soul, and he had mourn'd her dead; But now he marks hci renovated charms, And blest, and strain'd her in his feeble arms; While, us she fondly watch'd his brightening eye, And terror strove with gratitude and joy, She tells her hopes;—he, stiuggling with his pain, Smiles, for he feels, but will not speak them vain Yet oft, his frame as keener tortures stung, Deep, deadly curses falter'd from his tongue On all of Christian faith— Amina nigh, Averts her waning cheek and tearful eye. íť Light of my age, what means this changing cheei? Sure thou wilt curse with hatred as sincere > Though not by insult stamp'd so deep," he cric% " The impious race by which thy father dies? Thou art their captive too—but see ' again— My daughtei '—has some Afrit warp' d thy brain >"
-With trembling voice, clasp'd hands and downea-t eyes, " My mother was a Christian!" she replies. ci Aye, till by nuptial rites my fondness gave To me and Mecca's faith my best loved slave. Oft have I marked thee bend at Issa's name, More lowly than a Hadgee's child became; Yet did our holier Prophet's rites engage, Thine eye still sought his heaven-dictated page; But had I thought—far sooner had thy death— Amina, speak; thou art not of their faith?" 780 " No!" was her quick reply, but something stirr'd On her flush'd cheek, and half denied the word. True to her sex, she fear'd her father's frown, More than to rush where naked falchions shone. Her captive mother, hopeless to be freed, For rank and power embraced the Prophet's creed; Then learn'd her brother, at his fortune's cost, Had else redeem'd the gem he valued most. With fruitless tears her hidden Cross she prest, To Mary still her secret vows addrest; 790 And when Almanzor's love her grief beguil'd, And opening beauties charm'd her in her child, 2 лЗ
-She whisper'd truth in many a cautious speech, And bade her love the faith she dared not teach. Now by Matilda led, that daughter's sight Hail'd the mild dawningsof Redemption's light; But had the heavenly beam unclouded shone, Had the pure wave baptized her for its own, Undaunted she through roaring flames had trod, Nor e'er with faltering lips denied her God. 800 She shook before the glance that probed her soul, The voice more dreadful than the thunder's roll. " No more! 'tis guilt alone that dreads to speak, Thy heart is falser than thy changing cheek; Nay, 'tis my pure and pious blood disdains To aid deceit, and swell th' Apostate's veins; But may this curse,"—with fix'd, dilated eye, Kneeling she sunk in breathless agony;— His voice relax'd:—" thou wert a duteous child, \ I spare thee, but,"—again his look grew wild, 810 \ On those whose arts thy childish ear beguil'd y I call the Prophet's vengeance—may the beam, The ocean breeze, the date, the mountain stream To them be death; their portion want and shame, Their head in whirlwinds wrapt, their heart in flame;
-May grief and pain their manly strength consume, And the curs'd Goules defraud them of their tomb."— Rageburstthehalf-closed wound; hertremblinghand Would stanch its flow and join the broken band;— ■ He flung her from him, and the dressings tore, 820 " I did not curse, but thou art mine no more;— Thy touch is poison, and if thou could'st give A thousand lives, I would not wish to live." Across his face his mangled s r est he threw, As if to hide her from his loathing view; While in that state when thought is crush'd by grief, And tears now on, yet do not yield relief j Even where she fell she lay— and hours had past, Ere terror rous'd her into life at last, And thought return'd, but with a deadly chill; 830 She sought Almanzor's couch:—there all ss^as still; Wan as the dead, she rais'd the silken fold,— His dreadful glance was fix'd, his lips were cold. Now change the strain—let holy joy inspire, And angel warblings join the rapturous lyre; The silver moon has linger'd on her wane, And fill'd her orb of vestal fire again; 2 a 4
-Nor earth nor ocean, wood nor mountain height, Has roused its echoes at the din of fight. In tower and town the rival hosts repose, 840 In triumph these, in conscious weakness those. Maimoune's heaven-commission'd spells incline To meeker thoughts the generous Saladine; The Great Eternal bids contention cease, And hatred sleeps, and every heart is peace, Now Sion's courts and Sion's fanes are free, At every altar bends the duteous knee; And the loud cymbal calls the pilgrim host To joust or banquet at the Soldan's cost. On Sion's hill, beneath the awful dome 850 That rose majestic o'er Messiah's tomb, Europe and Asia met,—but foes no more, For Christian knees have prest the hallow'd floor. The mystic bread adorns the glittering shrine, The emerald chalice holds the sacred wine. Beneath the altar's tap'stried steps appear'd Two humbler piles, in equal splendour rear'd;— On one, the pride of Syria's vaunted loom, The crescent gems a velvet field of gloom, With ivory clasp'd the sable Koran laid, 860 And Moslem rites by Moslem priests were paid;
-On yellow down the beauteous dwarfs incline, And chaunt that fabling page they deem divine. In spotless white the firstlings of the fold Had drest the rival altar, starr'd with gold. Clad in the hue of heaven, as best beseem'd That sacred Book which tells of man redeem'd, The Holy Volume spread; and round it stand Prelates, the pride of every Christian land: These Hubert leads to pay their holy vow, 870 Long England's glory, and her Primate now. While They, the valiant Champions of the Tomb, So long expelí ', their solemn charge resume: Their hoary master, Ermengard, appears, With pious transport fill'd, yet bath'd in tears, For ah! how few the dear-bought triumph share Of those who once had vow'd him fealty there. Before the sable altar Adel stood, With all of Joseph's and of Ayoub's blood, Arbelia's youthful prince, and Mosul's pride, 880 And she, the Arab Pallas, Aimahide. Beyond were waving plumes and turbans seen, Of royal tincture, crimson, white, and green; Rich vests, that Syria knows alone to weave, And daggers glittering like the star4 of eve,
-And high-born chiefs from many a distant shore, Of feature various as the robes they wore. Nor less diverse appears the princely train That Europe sends to crowd the ample fane: From Etna's fires, or Cimbria's louring sky, 890 They mix with Asia's ardent chivalry. But courteous smiles, or holy reverence now The frown attemper'd on each haughty brow, Nor though bright swords and corselets glitter'd there, Was more of tvar than festal pomp might bear. O'er burnish'd mail or woven hauberk roll'd, Surcoat and scarf in many a blazon'd fold; The buckler's massy orb was cast aside, And doffd th' oppressive helm and plumy pride. And (well such scene might Moslem eyes alarm) There royal beauty hangs on valour's arm. With holy rapture fill'd, by Raymond's side Moves meek Matilda, now his plighted bride; Smiling through tears her proselyte succeeds, Sad Pardo's hand the beauteous orphan leads. But who is she, that mid the lovely train, Comes with the young and arrogant Champagne? Courteous yet noble, smiling and serene,— No! 'tis not Salem's self-elected Queen,
-In feign'd disease she hides her pride aud shame, 910 That beauteous form is Pembroke's noble dame. But there were two who yet distinguish'd stood, And could not blend, though with a sceptred crowd: Whom Heaven itself with innate glory crown'd, Sought by each eye, and linger'd on when found. Great Ayoub's son, in Majesty severe, Unbent though aged, grave but not austere; Yet even now was regal pomp forgot, And gold and purple robes, he needs them not; Nor though within a Christian fane he stands, 920 To yield a kingdom to a victor's hands, Around his form less awful grandeur shone, Than when he mounted on its conquer'd throne. Far different Richard —o'er his polish'd brow His curling locks still shed their sunny glosy; And in his eye that playful archness strove, Which charm'd of old his subject Courts of Love. His robes were costly,—nor the gazer deem'd That aught less rich had such a form beseem'd, Yet none might pause to look on clasp or gem, 930 He does not gain, but splendour gives to them;
-And many a timid eye which fear'd to know A hateful gorgon in its country's foe, Admiring gazed; nor scorn nor hate are found In that calm look which meekly sought the ground: For to a Christian heart, 1юлу worthless here Must earthly fame and regal pomp appear! Here was Ambition's grave, for here was given Th' eternal blow to him that troubled heaven; And here celestial mercy deign'd to bear 940 That doom of sin which e'en the proud must share; Here stoop'd to death, that death itself might die, And life immortal call his saints to joy. While thus he mused, the solemn chaunt began, (t Glory to God, good-will and peace to man." Robed, veil'd in white, with spotless garlands crown'd, An hundred virgins rais'd the choral sound. Some courts or palaces forsook, and some Left for this pilgrimage their convent dome; And hence return'd, as different duties call, 950 To social circles, or the cloister's wall. But two for heaven designed, though unprofess'd, Drew the deep sigh from many a pitying breast.
-Wrapt in her veil, with faltering steps and slow, Her once clear voice now broken, harsh, and low; That form, still graceful, wakens soft regret, The mournful mien betrays Evanthe yet. Quick was her sister's step, and trembling, pale, With hurried hand she lifts the novice veil; Ran with a troubled eye the circle o'er, 960 Then sigh'd, and dropp'd it to bc rais'd no more. Hid were her raven locks, her smile was gone, The full bright eye was Hermesind's alone. Now perfumes burn before the conquering King, And fair-hair'd slaves the costly presents bring, Whatever Asia boasts of spice or gem, And Sion's long contested diadem. Again exulting on a hero's head. The conscious gold a ruddier glory shed; And Lusignan, who quits contention's roar 970 For calmer scenes and Cyprus' smiling shore, In unrepining wonder sees the crown Sit light on other brows, that scorch'd his own. And there were treasures misers would not store, Yet then estecm'd abos T e the richest ore;
-AU earth retains of holy men, who first Bade Truth's mild radiance on its darkness burst; Their touch could then sublimer fervour shed, And sickness shrunk, and howling madness fled; And though, perchance, a less believing age 980 iteject the relic while it guards the page, Still might they fix the meek and pious eye On death, and hope, and immortality! And they who lived, and toil'd, and died to save, Speak truth, and faith, and comfort from the grave. Hush'd is each sound, e'en murmuring whispers cease, The mutual Heralds read the terms of peace; And now on either side advancing there, At either shrine th' assembled Princes swear, These on the Gospel, on the Koran those, 990 To sheathe their swords and be no longer foes. But They, whose will the rival hosts obey'd, Who waked the conflict, and the conflict stayed, Alone adjured not heaven—with one consent, While on the kingly pair each eye was bent,
-" Be peace between us!" they exclaim, and stand Full in the midst, and pledge the friendly hand. О Majesty! thy simple word had then A force beyond the oaths of meaner men. But hark! that shriek, that groan! such sounds might rise 1000 From baffled demons in their agonies! And hark again! what heavenly strains succeed! More sweet than amorous lute or pastoral reed. What perfumes breathe! what amber glories swim! What sudden splendour makes the daylight dim! A lambent flame, whose heaven-de'cending blaze The altar circles with ætherial rays, Plays round thh Priests, and lights with fire divine, The sevenfold lamps that stand before the shrine. Amazed the Soldan saw—but, self-deceived, 1010 He doubts the wonder—saw, yet disbelieved; Thrice he commands, and thrice his impious crew Suppress'd the flames, and thrice they blazed anew; Trembling he owns the wonder, while the strain Of Christian transport fills the spacious fane:
-But he, still erring iu his bigot faith, Reads in that fire the oracle of death. And now a cloud descends; but lovelier far Than those which follow day's declining car, Or those which in the balmy nights of Juue, 1020 With silver fleeces gird the full-orb'd moon; It rests upon the shrine, and seems to rise Brighter and brighter, till it touch'd the skies. Now thunder roars around, and lightning plays, Harmonious thunders, and a temper' d blaze! Now it unfolds—to mortal view is given A glorious vision of the joys of heaven. Veil'd in the wondrous, vast abyss of light, The Triple Godhead shuns created sight; But seraphs kneel around, and angel choirs 1030 Strike, robed in light, their everlasting lyres; And they that erst for Sion bled, adore, In bliss eternal, Him whose Cross they bore. Beneath, the Arch of Peace and Promise spread, The type of safety, born in doubt and dread; And lo! within its ample circle beam'd The sacred sign that marks its pledge redeem'd.
-Lost to man's touch, though to his reverence given, Bright cherubs bear the Holy Cross to Heaven! Now golden radiance gilds the sacred wood, 1040 While every precious stain that once %vas blood Glows like that gem which needs no borrow'd light, But scorns the earth, and shines amid the night. Far brighter than that starry Cross, on high, Sublimely circling through the southern sky; Which oft with joy on trackless floods descried, The Pilot's that, as this the Christian's guide, Shews him his path through trackless floods to find, And calms with faith and hope the doubting mind. But at its foot, dejected, луеерк^ there, 1050 What that thin form, so faded, yet so fair? Which dares not look tow'rds that resplendent throne, Or ask that mercy, meant for man alone? Ah! sweet Maimoune! angel tears were moved For their lost sister, erring, yet beloved; Well then might they, from Hassan's deadly snares Saved by her suffering, aid her with their prayers; Nor were they vain—from out the central flame A voice divine,—a voice of mercy came; A voice unheard on earth since angels trod 10OÙ This nether ball, and mail communed with God. VOL·, h. 2 b
-So sweetly awful, so sublimely mild: " Come to my bosom i come, tbou erring child! Come! and let joy,exalt the bliss of Heaven,— The lost is found, the Penitent forgiven." Upward she flies, and brightening as she flew, O'er her light harp her glowing fingers threw; Again she pours th' unwearied hymn of praise, Again partakes the beatific blaze. When now that voice the warlike host addrest, IO7O And fill'd with transport every faithful breast: "Soldiersof Christ! byCHRisTwithconquestcrown'd, Think, while your hearts with grateful rapture bound, Mine is no Temple framed with human handi!, Beyond the stars my chosen Sion stands. Soldiers of Ciiíust, depart! your goal is won, Well have ye wrought:— ThewillofHkas t kn is oonk. Louder, yet sweeter swells the chaunt divine, And brighter yet th' immortal glories shine; Till clouds of perfume closed the vision round, 1080 And faint in distance sunk the rapturous sound. Bowed with one heart before the Almighty Lord, Christian and Sí»racen alike adored. On many a doubting mind conviction stole, And Truth iliumin'd many a darken'd soul.
-All own'd the Present God; but chiefly they Whose worth and valour bought that glorious d And never aught of earthly hope fulfill'd, With bliss so pure the heaving bosom thrill'd; Sweet as unfading, Time could not impair, Nor pain nor death,—it glows for ever there. To holiest joy was Cœur de Lion moved; His task was ended, and his God approved.
+Who but has known the blended thrill of joy,<br>
+And pride, and grief, that waits on victory?<br>
+When patriot rapture half repels the tear<br>
+For those, oh! never, never, held so dear;<br>
+And the lorn heart reproves the rising glow,<br>
+For what to it is fame or conquest now?<br>
+Though its freed country be a name once more,<br>
+Or rescued realms a thousand blessings pour.<br>
+But what the pure, th’ unsated rapture then,<br>
+If the bright laurel shew no sanguine stain?<br>
+And generous Pity, not Affliction gives<br>
+The sacred dew that consecrates its leaves.<br>
+&emsp;Yet ev’n in Jaffa’s walls two hearts o’erflow<br>
+With more than pity for a conquer’d foe.<br>
+With many a fruitless tear young Pardo gave<br>
+His wretched parent to the silent grave;<br>
+And tapers burn’d, and ceaseless mass was said—<br>
+If aught our pious cares avail the dead.<br>
+Beneath his trophied pillar, vainly rear’d<br>
+By Sharon’s fount, a simple pile appear’d,<br>
+Where filial love, still jealous of her fame,<br>
+Alone inscribes Zorayda’s mystic name.<br>
+&emsp;Meanwhile, her heart with equal anguish wrung,<br>
+Above her father’s couch Amina hung.<br>
+With herbs of power she cool’d his burning head,<br>
+And as her hands each healing bandage laid,<br>
+Sobb’d to believe his wounds beyond her aid.<br>
+Oft to his couch with noiseless step she crept,<br>
+And indrawn breath, to mark if yet he slept;<br>
+Trembling to break a rest so calm and deep.<br>
+Yet fearful death might wear the mask of sleep.<br>
+Then watch’d retired, that every breeze which came<br>
+From the calm deep, might cool his fever’d frame.<br>
+If evil fate in evil glances lie,<br>
+Drops less than balm from that mild dovelike eye?<br>
+At length Almanzor moved,—he waked, he smiled;<br>
+Delightful moment! for he knows his child.<br>
+Rapt from his sight, Maimoune’s spells had shed<br>
+Grief through his soul, and he had mourn’d her dead;<br>
+But now he marks her renovated charms,<br>
+And blest, and strain’d her in his feeble arms;<br>
+While, as she fondly watch’d his brightening eye,<br>
+And terror strove with gratitude and joy,<br>
+She tells her hopes;—he, stiuggling with his pain,<br>
+Smiles, for he feels, but will not speak them vain<br>
+&emsp;Yet oft, his frame as keener tortures stung,<br>
+Deep, deadly curses falter’d from his tongue<br>
+On all of Christian faith—Amina nigh,<br>
+Averts her waning cheek and tearful eye.<br>
+&emsp;“Light of my age, what means this changing cheer?<br>
+Sure thou wilt curse with hatred as sincere?<br>
+Though not by insult stamp’d so deep,” he cries,<br>
+“The impious race by which thy father dies?<br>
+Thou art their captive too—but see! again—<br>
+My daughter!—has some Afrit warp’d thy brain?”<br>
+With trembling voice, clasp’d hands and downcast eyes,<br>
+“My mother was a Christian!” she replies.<br>
+&emsp;“Aye, till by nuptial rites my fondness gave<br>
+To me and Mecca’s faith my best loved slave.<br>
+Oft have I marked thee bend at Issa’s name,<br>
+More lowly than a Hadgee’s child became;<br>
+Yet did our holier Prophet’s rites engage,<br>
+Thine eye still sought his heaven-dictated page;<br>
+But had I thought—far sooner had thy death—<br>
+Amina, speak; thou art not of their faith?”<br>
+&emsp;“No!” was her quick reply, but something stirr’d<br>
+On her flush’d cheek, and half denied the word.<br>
+True to her sex, she fear’d her father’s frown,<br>
+More than to rush where naked falchions shone.<br>
+Her captive mother, hopeless to be freed,<br>
+For rank and power embraced the Prophet’s creed;<br>
+Then learn’d her brother, at his fortune’s cost,<br>
+Had else redeem’d the gem he valued most.<br>
+With fruitless tears her hidden Cross she prest,<br>
+To Mary still her secret vows addrest;<br>
+And when Almanzor’s love her grief beguil’d,<br>
+And opening beauties charm’d her in her child,<br>
+She whisper’d truth in many a cautious speech,<br>
+And bade her love the faith she dared not teach.<br>
+Now by Matilda led, that daughter’s sight<br>
+Hail’d the mild dawnings of Redemption’s light;<br>
+But had the heavenly beam unclouded shone,<br>
+Had the pure wave baptized her for its own,<br>
+Undaunted she through roaring flames had trod,<br>
+Nor e’er with faltering lips denied her God.<br>
+&emsp;She shook before the glance that probed her soul,<br>
+The voice more dreadful than the thunder’s roll.<br>
+“No more! ’tis guilt alone that dreads to speak,<br>
+Thy heart is falser than thy changing cheek;<br>
+Nay, ’tis my pure and pious blood disdains<br>
+To aid deceit, and swell th’ Apostate’s veins;<br>
+But may this curse,”—with fix’d, dilated eye,<br>
+Kneeling she sunk in breathless agony;—<br>
+His voice relax’d:—“thou wert a duteous child,<br>
+I spare thee, but,”—again his look grew wild,<br>
+On those whose arts thy childish ear beguil’d<br>
+I call the Prophet’s vengeance—may the beam,<br>
+The ocean breeze, the date, the mountain stream<br>
+To them be death; their portion want and shame,<br>
+Their head in whirlwinds wrapt, their heart in flame;<br>
+May grief and pain their manly strength consume,<br>
+And the curs’d Goules defraud them of their tomb.”<br>
+&emsp;Rage burst the half-closed wound; her trembling hand<br>
+Would stanch its flow and join the broken band;—<br>
+He flung her from him, and the dressings tore,<br>
+“I did not curse, but thou art mine no more;—<br>
+Thy touch is poison, and if thou could’st give<br>
+A thousand lives, I would not wish to live.”<br>
+&emsp;Across his face his mangled vest he threw,<br>
+As if to hide her from his loathing view;<br>
+While in that state when thought is crush’d by grief,<br>
+And tears now on, yet do not yield relief,<br>
+Even where she fell she lay—and hours had past,<br>
+Ere terror rous’d her into life at last,<br>
+And thought return’d, but with a deadly chill;<br>
+She sought Almanzor’s couch:—there all was still;<br>
+Wan as the dead, she rais’d the silken fold,—<br>
+His dreadful glance was fix’d, his lips were cold.
+
+Now change the strain—let holy joy inspire,<br>
+And angel warblings join the rapturous lyre;<br>
+The silver moon has linger’d on her wane,<br>
+And fill’d her orb of vestal fire again;<br>
+Nor earth nor ocean, wood nor mountain height,<br>
+Has roused its echoes at the din of fight.<br>
+In tower and town the rival hosts repose,<br>
+In triumph these, in conscious weakness those.<br>
+Maimoune’s heaven-commission’d spells incline<br>
+To meeker thoughts the generous Saladine;<br>
+The Great Eternal bids contention cease,<br>
+And hatred sleeps, and every heart is peace,<br>
+Now Sion’s courts and Sion’s fanes are free,<br>
+At every altar bends the duteous knee;<br>
+And the loud cymbal calls the pilgrim host<br>
+To joust or banquet at the Soldan’s cost.<br>
+On Sion’s hill, beneath the awful dome<br>
+That rose majestic o’er Messiah’s tomb,<br>
+Europe and Asia met,—but foes no more,<br>
+For Christian knees have prest the hallow’d floor.<br>
+The mystic bread adorns the glittering shrine,<br>
+The emerald chalice holds the sacred wine.<br>
+Beneath the altar’s tap’stried steps appear’d<br>
+Two humbler piles, in equal splendour rear’d;—<br>
+On one, the pride of Syria’s vaunted loom,<br>
+The crescent gems a velvet field of gloom,<br>
+With ivory clasp’d the sable Koran laid,<br>
+And Moslem rites by Moslem priests were paid;<br>
+On yellow down the beauteous dwarfs incline,<br>
+And chaunt that fabling page they deem divine.<br>
+&emsp;In spotless white the firstlings of the fold<br>
+Had drest the rival altar, starr’d with gold.<br>
+Clad in the hue of heaven, as best beseem’d<br>
+That sacred Book which tells of man redeem’d,<br>
+The Holy Volume spread; and round it stand<br>
+Prelates, the pride of every Christian land:<br>
+These Hubert leads to pay their holy vow,<br>
+Long England’s glory, and her Primate now.<br>
+While They, the valiant Champions of the Tomb,<br>
+So long expell’d, their solemn charge resume:<br>
+Their hoary master, Ermengard, appears,<br>
+With pious transport fill’d, yet bath’d in tears,<br>
+For ah! how few the dear-bought triumph share<br>
+Of those who once had vow’d him fealty there.<br>
+&emsp;Before the sable altar Adel stood,<br>
+With all of Joseph’s and of Ayoub’s blood,<br>
+Arbelia’s youthful prince, and Mosul’s pride,<br>
+And she, the Arab Pallas, Almahide.<br>
+Beyond were waving plumes and turbans seen,<br>
+Of royal tincture, crimson, white, and green;<br>
+Rich vests, that Syria knows alone to weave,<br>
+And daggers glittering like the stars of eve,<br>
+And high-born chiefs from many a distant shore,<br>
+Of feature various as the robes they wore.<br>
+Nor less diverse appears the princely train<br>
+That Europe sends to crowd the ample fane:<br>
+From Etna’s fires, or Cimbria’s louring sky,<br>
+They mix with Asia’s ardent chivalry.<br>
+But courteous smiles, or holy reverence now<br>
+The frown attemper’d on each haughty brow,<br>
+Nor though bright swords and corselets glitter’d there,<br>
+Was more of war than festal pomp might bear.<br>
+O’er burnish’d mail or woven hauberk roll’d,<br>
+Surcoat and scarf in many a blazon’d fold;<br>
+The buckler’s massy orb was cast aside,<br>
+And doff’d th’ oppressive helm and plumy pride.<br>
+&emsp;And (well such scene might Moslem eyes alarm)<br>
+There royal beauty hangs on valour’s arm.<br>
+With holy rapture fill’d, by Raymond’s side<br>
+Moves meek Matilda, now his plighted bride;<br>
+Smiling through tears her proselyte succeeds,<br>
+Sad Pardo’s hand the beauteous orphan leads.<br>
+But who is she, that mid the lovely train,<br>
+Comes with the young and arrogant Champagne?<br>
+Courteous yet noble, smiling and serene,—<br>
+No! ’tis not Salem’s self-elected Queen,<br>
+In feign’d disease she hides her pride and shame,<br>
+That beauteous form is Pembroke’s noble dame.<br>
+&emsp;But there were two who yet distinguish’d stood,<br>
+And could not blend, though with a sceptred crowd:<br>
+Whom Heaven itself with innate glory crown’d,<br>
+Sought by each eye, and linger’d on when found.<br>
+Great Ayoub’s son, in Majesty severe,<br>
+Unbent though aged, grave but not austere;<br>
+Yet even now was regal pomp forgot,<br>
+And gold and purple robes, he needs them not;<br>
+Nor though within a Christian fane he stands,<br>
+To yield a kingdom to a victor’s hands,<br>
+Around his form less awful grandeur shone,<br>
+Than when he mounted on its conquer’d throne.<br>
+&emsp;Far different Richard—o’er his polish’d brow<br>
+His curling locks still shed their sunny glow;<br>
+And in his eye that playful archness strove,<br>
+Which charm’d of old his subject Courts of Love.<br>
+His robes were costly,—nor the gazer deem’d<br>
+That aught less rich had such a form beseem’d,<br>
+Yet none might pause to look on clasp or gem,<br>
+He does not gain, but splendour gives to them;<br>
+And many a timid eye which fear’d to know<br>
+A hateful gorgon in its country’s foe,<br>
+Admiring gazed; nor scorn nor hate are found<br>
+In that calm look which meekly sought the ground:<br>
+For to a Christian heart, how worthless here<br>
+Must earthly fame and regal pomp appear!<br>
+Here was Ambition’s grave, for here was given<br>
+Th’ eternal blow to him that troubled heaven;<br>
+And here celestial mercy deign’d to bear<br>
+That doom of sin which e’en the proud must share;<br>
+Here stoop’d to death, that death itself might die,<br>
+And life immortal call his saints to joy.<br>
+&emsp;While thus he mused, the solemn chaunt began,<br>
+&emsp;“Glory to God, good-will and peace to man.”<br>
+Robed, veil’d in white, with spotless garlands crown’d,<br>
+An hundred virgins rais’d the choral sound.<br>
+Some courts or palaces forsook, and some<br>
+Left for this pilgrimage their convent dome;<br>
+And hence return’d, as different duties call,<br>
+To social circles, or the cloister’s wall.<br>
+But two for heaven designed, though unprofess’d,<br>
+Drew the deep sigh from many a pitying breast.<br>
+Wrapt in her veil, with faltering steps and slow,<br>
+Her once clear voice now broken, harsh, and low;<br>
+That form, still graceful, wakens soft regret,<br>
+The mournful mien betrays Evanthe yet.<br>
+Quick was her sister’s step, and trembling, pale,<br>
+With hurried hand she lifts the novice veil;<br>
+Ran with a troubled eye the circle o’er,<br>
+Then sigh’d, and dropp’d it to be rais’d no more.<br>
+Hid were her raven locks, her smile was gone,<br>
+The full bright eye was Hermesind’s alone.<br>
+&emsp;Now perfumes burn before the conquering King,<br>
+And fair-hair’d slaves the costly presents bring,<br>
+Whatever Asia boasts of spice or gem,<br>
+And Sion’s long contested diadem.<br>
+Again exulting on a hero’s head.<br>
+The conscious gold a ruddier glory shed;<br>
+And Lusignan, who quits contention’s roar<br>
+For calmer scenes and Cyprus’ smiling shore,<br>
+In unrepining wonder sees the crown<br>
+Sit light on other brows, that scorch’d his own.<br>
+&emsp;And there were treasures misers would not store,<br>
+Yet then esteem’d above the richest ore;<br>
+All earth retains of holy men, who first<br>
+Bade Truth’s mild radiance on its darkness burst;<br>
+Their touch could then sublimer fervour shed,<br>
+And sickness shrunk, and howling madness fled;<br>
+And though, perchance, a less believing age<br>
+Reject the relic while it guards the page,<br>
+Still might they fix the meek and pious eye<br>
+On death, and hope, and immortality!<br>
+And they who lived, and toil’d, and died to save,<br>
+Speak truth, and faith, and comfort from the grave.<br>
+&emsp;Hush’d is each sound, e’en murmuring whispers cease,<br>
+The mutual Heralds read the terms of peace;<br>
+And now on either side advancing there,<br>
+At either shrine th’ assembled Princes swear,<br>
+These on the Gospel, on the Koran those,<br>
+To sheathe their swords and be no longer foes.<br>
+But They, whose will the rival hosts obey’d,<br>
+Who waked the conflict, and the conflict stayed,<br>
+Alone adjured not heaven—with one consent,<br>
+While on the kingly pair each eye was bent,<br>
+“Be peace between us!” they exclaim, and stand<br>
+Full in the midst, and pledge the friendly hand.<br>
+О Majesty! thy simple word had then<br>
+A force beyond the oaths of meaner men.
+
+But hark! that shriek, that groan! such sounds might rise<br>
+From baffled demons in their agonies!<br>
+And hark again! what heavenly strains succeed!<br>
+More sweet than amorous lute or pastoral reed.<br>
+What perfumes breathe! what amber glories swim!<br>
+What sudden splendour makes the daylight dim!<br>
+A lambent flame, whose heaven-descending blaze<br>
+The altar circles with ætherial rays,<br>
+Plays round the Priests, and lights with fire divine,<br>
+The sevenfold lamps that stand before the shrine.<br>
+Amazed the Soldan saw—but, self-deceived,<br>
+He doubts the wonder—saw, yet disbelieved;<br>
+Thrice he commands, and thrice his impious crew<br>
+Suppress’d the flames, and thrice they blazed anew;<br>
+Trembling he owns the wonder, while the strain<br>
+Of Christian transport fills the spacious fane:
+But he, still erring iu his bigot faith,<br>
+Reads in that fire the oracle of death.<br>
+&emsp;And now a cloud descends; but lovelier far<br>
+Than those which follow day’s declining car,<br>
+Or those which in the balmy nights of June,<br>
+With silver fleeces gird the full-orb’d moon;<br>
+It rests upon the shrine, and seems to rise<br>
+Brighter and brighter, till it touch’d the skies.<br>
+Now thunder roars around, and lightning plays,<br>
+Harmonious thunders, and a temper’d blaze!<br>
+Now it unfolds—to mortal view is given<br>
+A glorious vision of the joys of heaven.<br>
+Veil’d in the wondrous, vast abyss of light,<br>
+The Triple Godhead shuns created sight;<br>
+But seraphs kneel around, and angel choirs<br>
+Strike, robed in light, their everlasting lyres;<br>
+And they that erst for Sion bled, adore,<br>
+In bliss eternal, Him whose Cross they bore.<br>
+Beneath, the Arch of Peace and Promise spread,<br>
+The type of safety, born in doubt and dread;<br>
+And lo! within its ample circle beam’d<br>
+The sacred sign that marks its pledge redeem’d.
+Lost to man’s touch, though to his reverence given,<br>
+Bright cherubs bear the Holy Cross to Heaven!<br>
+Now golden radiance gilds the sacred wood,<br>
+While every precious stain that once was blood<br>
+Glows like that gem which needs no borrow’d light,<br>
+But scorns the earth, and shines amid the night.<br>
+Far brighter than that starry Cross, on high,<br>
+Sublimely circling through the southern sky;<br>
+Which oft with joy on trackless floods descried,<br>
+The Pilot’s that, as this the Christian’s guide,<br>
+Shews him his path through trackless floods to find,<br>
+And calms with faith and hope the doubting mind.<br>
+&emsp;But at its foot, dejected, weeping there,<br>
+What that thin form, so faded, yet so fair?<br>
+Which dares not look tow’rds that resplendent throne,<br>
+Or ask that mercy, meant for man alone?<br>
+Ah! sweet Maimoune! angel tears were moved<br>
+For their lost sister, erring, yet beloved;<br>
+Well then might they, from Hassan’s deadly snares<br>
+Saved by her suffering, aid her with their prayers;<br>
+Nor were they vain—from out the central flame<br>
+A voice divine,—a voice of mercy came;<br>
+A voice unheard on earth since angels trod<br>
+This nether ball, and man communed with God.<br>
+So sweetly awful, so sublimely mild:<br>
+“Come to my bosom! come, thou erring child!<br>
+Come! and let joy exalt the bliss of Heaven,—<br>
+The lost is found, the Penitent forgiven.”<br>
+&emsp;Upward she flies, and brightening as she flew,<br>
+O’er her light harp her glowing fingers threw;<br>
+Again she pours th’ unwearied hymn of praise,<br>
+Again partakes the beatific blaze.<br>
+When now that voice the warlike host addrest,<br>
+And fill’d with transport every faithful breast:<br>
+“Soldiers of <span class=”smallcaps”>Christ</span>! by <span class=”smallcaps”>Christ</span> with conquest crown’d,<br>
+Think, while your hearts with grateful rapture bound,<br>
+Mine is no Temple framed with human hands,<br>
+Beyond the stars my chosen Sion stands.<br>
+Soldiers of <span class="smallcaps">Christ</span>, depart! your goal is won,<br>
+Well have ye wrought:—<span class="smallcaps">The will of Heaven is done</span>.<br>
+&emsp;Louder, yet sweeter swells the chaunt divine,<br>
+And brighter yet th’ immortal glories shine;<br>
+Till clouds of perfume closed the vision round,<br>
+And faint in distance sunk the rapturous sound.<br>
+&emsp;Bowed with one heart before the Almighty Lord,<br>
+Christian and Saracen alike adored.<br>
+On many a doubting mind conviction stole,<br>
+And Truth illumin’d many a darken’d soul.<br>
+All own’d the <span class="smallcaps">Present God</span>; but chiefly they<br>
+Whose worth and valour bought that glorious day;<br>
+And never aught of earthly hope fulfill’d,<br>
+With bliss so pure the heaving bosom thrill’d;<br>
+Sweet as unfading, Time could not impair,<br>
+Nor pain nor death,—it glows for ever there.<br>
+To holiest joy was <span class="smallcaps">Cœur de Lion</span> moved;<br>
+His task was ended, and his God approved.
 
 <hr>
 
