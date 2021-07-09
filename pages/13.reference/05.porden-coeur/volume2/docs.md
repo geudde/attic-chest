@@ -7555,10 +7555,72 @@ And pierced the brain—he bites the ground and dies.<br>
 The royal Adel spurs his chesnut steed!<br>
 He foams with rage, and bids his Prophet hear<br>
 His vows of vengeance, lost in empty air.<br>
+For soon the powerful quarrel check’d his pride;<br>
+His better arm hangs useless by his side;<br>
+And where the jewell’d rein his fingers grasp,<br>
+A second fixed it in their nerveless clasp;<br>
+A third—though hung with glittering fringes round<br>
+His charger’s neck received th’ unerring wound:<br>
+Mad with the smart he gallops from the plain,<br>
+Nor can his pow’erless lord his flight restrain.<br>
+&emsp;Strange was the conflict—gazing on the King<br>
+Like some fell tiger, crouching ere he spring,<br>
+The Christians wait, while one brave chief defies<br>
+A mighty army, and that army flies—<br>
+Yet, as when rocks the hunted stag oppose,<br>
+If bold through fear he turns, and fronts his foes,<br>
+Then baying dogs and archers gird him round,<br>
+But stand at distance, lest his antlers wound.<br>
+So forms the host aloof; and darts are thrown,<br>
+And stones and arrows shower’d on him alone:<br>
+But like that stag when insect swarms assail,<br>
+From helm and shield he shakes the dreadful hail.<br>
+He couch’d a lance, and while his broomy crest<br>
+Flamed in the splendours of the purpling west,<br>
+While from his arms ten thousand glories shine,<br>
+Singly he rides along their crowded line;<br>
+“Hear, Asia, hear! ’tis <span class="smallcaps">England</span> claims the fight,<br>
+’Tis <span class="smallcaps">England’s</span> lance defies your proudest knight!<br>
+Sons of the East! who boast yon glorious flame<br>
+Inspires your valour, shall his parting beam<br>
+Bear to our Western Isles the tale of shame?<br>
+Breathes there not one for Islam’s sake to meet<br>
+His Prophet’s foe, and veil his Faith’s defeat.”<br>
+&emsp;Ye generous Sons of Ayoub, had you heard,<br>
+What grief were yours! for not a warrior stirr’d—[^50]<br>
+Awhile the Monarch paus’d—then backward drew;<br>
+“Now pour your darts,” th’ obedient arrows flew,<br>
+While from the arbalist, with deadlier weight,<br>
+The iron bolts shower fast, and scatter fate.<br>
+If Christian priests pronounced those weapons curst,<br>
+Well might the Moslem crowd who felt them first,<br>
+By secret fears already urged to flight,<br>
+Deem them some engine of infernal might,<br>
+On Acre’s plain and Arsouf’s taught to know<br>
+The wondrous force of England’s antient bow;<br>
+A deadlier curse was here—they break, they fly—<br>
+The bolt pursues them, and in flight they die.<br>
+&emsp;“St. George for England—Charge!” exclaim’d the King,<br>
+And from the ground his eager warriors spring.<br>
+Their bows are cast to earth, their falchions gleam;<br>
+But soon in blood was quench’d the azure beam.<br>
+In vain contending with his adverse fate,<br>
+The Soldan sounds retreat,—but sounds too late,<br>
+’Twas headlong flight; while, pouring from the town,<br>
+Each Christian joins to hunt the Moslems down;<br>
+Once, since the dawn, with signal victory graced,<br>
+Their pious zeal a second harvest blest.<br>
+There was the martial prelate, Raymond’s sword,<br>
+Champagne and Nevile, Winton’s gallant Lord;<br>
+Grenville and Mortimer, and Lusignan,<br>
+Maulëon, Multon, ever in the van,<br>
+And stout De Mauny, whose descendant’s name<br>
+Calais and Poitiers give to lasting fame.[^51]<br>
+But ever first the matchless <span class="smallcaps">Richard</span> flew;<br>
+Now for some chosen foe the quarrel drew;<br>
+Now bade some wretch his flying javelin feel,<br>
+Or plied untired the unrelenting steel.<br>
 
-For soon the powerful quarrel check'd his pride; His better arm hangs useless by his side j 640 And where the jewell'd rein his fingers grasp, A second fixed it in their nerveless clasp; A third—though hung with glittering fringes round His charger's neck received th' unerring wound: Mad with the smart he gallops from the plain, Nor can his poss'erless lord his flight restrain. Strange was the conflict—gazing on the King Like some fell tiger, crouching ere he spring, The Christians wait, while one brave chief defies A mighty army, and that army flies— 650 Yet, as when rocks the hunted stag oppose, If bold through fear he turns, and fronts his foes, Then baying dogs and archers girá bim rotend, But stand at distance, lest his antlers wound. So forms the host aloof; and darts «re thrown, And stones and arrows shower'd on hkû alone: But like that stag when insect swarms assail, From helm and shield he shakes the dreadful hail. He couch'd a lance, and while his broomy crest Flamed in the splendours of the purpling west, 660 While from his arms ten thousand glories shine, Singly he rides along their crowded line;
-" Hear, Asia, hear! 'tis England claims the fight, 'Tis England's lance defies your proudest knight! Sons of the East! who boast yon glorious flame \ Inspires your valour, shall his parting beam > Bear to our Western Isles the tale of shame? y Breathes there not one for Islam's sake to meet His Prophet's foe, and veil his Faith's defeat." Ye generous Sons of Ayoub, had you heard, 670 What grief were yours! for not a warrior stirr'd—* Awhile the Monarch paus'd—then backward drew; " Now pour your darts," th' obedient arrows flew, While from the arbalist, with deadlier weight, The iron bolts shower fast, and scatter fate. If Christian priests pronounced those weapons curst, Well might the Moslem crowd who felt them first, By secret fears already urged to flight, Deem them some engine of infernal might, On Acre's plain and Arsouf's taught to know 680 The wondrous force of England's antient bow; A deadlier curse was here—they break, they fly— The bolt pursues them, and in flight they die.
-" St. George for England—Charge!" exclaim'd the King, And from the ground his eager warriors spring. Their bows are cast to earth, their falchions gleam j But soon in blood was quench'd the azure beam. In vain contending with his adverse fate, The Soldan sounds retreat,—but sounds too late, ’Twas headlong flight j while, pouring from the town, Each Christian joins to hunt the Moslems down; Once, since the dawn, with signal victory graced, Their pious zeal a second harvest blest. There was the martial prelate, Raymond's sword, Champagne and Nevile, Winton's gallant Lord; Grenvillc and Mortimer, and Lusignan, Maulëon, Multon, ever in the van, And stout De Mauny, whose descendant's name Calais and Poictiers give to lasting fame.* But ever first the matchless <span class="smallcaps">Richard</span> flew; 700 Now for some chosen foe the quarrel drew; Now T bade some wretch his flying javelin feel, Or plied untired the unrelenting steel. vol. ıı. 2 л
 Night darken'd on the chase, the moon arose, Yet still the Christians press their routed foes. The trembling slave that sought the veil of night, Curs'd the clear beam that guides the arrow's flight. Shame woke revenge, nor slept th' unsated blade While that soft light one turban'd head betray'd. ’Twas midnight ere the pious King could raise 7Ю In Jaffa's fane the rapturous voice of praise! On trophied biers Llewellyn, Harold lay, The easy price ofthat triumphant day. c The grateful host, while loud their anthems peal'd, Own'd Heav'n not more their falchion than their shield. Who but has known the blended thrill of joy, And pride, and grief, that waits on victory? When patriot rapture half repels the tear For those, oh! never, never, held so dear; And the lorn heart reproves the rising glow, 720 For what to it is fame or conquest now? Though its freed country be a name once more, Or rescued realms a thousand blessings pour. But what the pure, th' unsated rapture then, If the bright laurel shew no sanguine stain?
 Ami generous Pity, not Affliction gives The sacred dew that consecrates its leaves. Yet ev'n in Jaffa's walls two hearts o'erflow With more than pity for a conquer'd foe. With many a fruitless tear young Pardo gas'e 730 His wretched parent to the silent grave; And tapers burn'd, and ceaseless mass was said— If aught our pious cares avail the dead. Beneath his trophied pillar, vainly rear'd By Sharon's fount, a simple pile appear'd, Where filial los r e, still jealous of her fame, Alone inscribes Zorayda's mystic name. Meanwhile, her heart with equal anguish wrung, Above her father's couch Amina hung. With herbs of power she cool'd his burning head, And as her hands each healing bandage laid, Sobb'd to believe his wounds beyond her aid. Oft to his couch with noiseless step she crept, And indrawn breath, to mark if yet he slept; Trembling to break a rest so calm and deep. Yet fearful death might wear the mask of sleep. Then watch'd retired, that every breeze sshich came From the calm deep, might cool his fever'd frame, 2 a 2
 if evd fate in evil glances lie, Drops less than balm from that mild dovclike eye? At length Almanzor moved,—he waked, he smiled; Delightful moment ' for he knows his child. Rapt from his sight, Maimoune's spells had shed Grief through hi& soul, and he had mourn'd her dead; But now he marks hci renovated charms, And blest, and strain'd her in his feeble arms; While, us she fondly watch'd his brightening eye, And terror strove with gratitude and joy, She tells her hopes;—he, stiuggling with his pain, Smiles, for he feels, but will not speak them vain Yet oft, his frame as keener tortures stung, Deep, deadly curses falter'd from his tongue On all of Christian faith— Amina nigh, Averts her waning cheek and tearful eye. íť Light of my age, what means this changing cheei? Sure thou wilt curse with hatred as sincere > Though not by insult stamp'd so deep," he cric% " The impious race by which thy father dies? Thou art their captive too—but see ' again— My daughtei '—has some Afrit warp' d thy brain >"
@@ -7760,3 +7822,6 @@ Note (e), page 354, line 713. Tke easy price of that triumphant day. Only two pe
 
 [^49]: Bayardo and Frontaletto, the horses of Rinaldo and Ruggiero in the Orlando Furioso. Bayardo was trained to assault the enemy’s steed, while his master engaged the rider.
 
+[^50]: It is here that Gibbon exclaims, “am I writing the History of Orlando, or of Amadis?”
+
+[^51]: The readers of Froissart will not require to be reminded of the achievements of Sir Walter Manny.
