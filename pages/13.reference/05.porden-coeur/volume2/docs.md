@@ -351,7 +351,7 @@ Beneath thy rule, from kingly rank descend.<br>
 My recent prize, beyond description fair,<br>
 Deserves a Monarch’s undivided care;<br>
 One half the Templars hold, the rest be thine<br>
-Its wealth, its regal honours I resign.”<sup>g</sup><br>
+Its wealth, its regal honours I resign.”<sup id="ref09-g"><a href="#note09-g" class="footnote-ref">g</a></sup><br>
 &emsp;“Too generous King!” glad Lusignan replies,<br>
 “Not the wide earth could yield so dear a prize.<br>
 Hail, Cyprus! fairest isle beneath the sun,<br>
@@ -653,7 +653,7 @@ The eye was tearless, ’twas the heart that wept.<br>
 Each fatal hour some princely pile consumed,<br>
 Night after night terrific fires illumed;<br>
 Till the dark heavens their silent sorrows shed<br>
-O’er the wide havoc which their winds had spread.<sup>h</sup><br>
+O’er the wide havoc which their winds had spread.<sup id="ref09-h"><a href="#note09-h" class="footnote-ref">h</a></sup><br>
 &emsp;“Mourn, then, thou miscreant! thou the cause of all!<br>
 On thee may Islam’s gather’d curses fall!<br>
 Think of this jewel lost, the weight of care,<br>
@@ -693,7 +693,7 @@ My heart’s lost treasure to a wat’ry grave;<br>
 Pale, but yet lovely, for not death might dare<br>
 To change the mansion of a soul so fair.<br>
 Still with her last, her fondest look, she gazed,<br>
-And as she fell her snowy arms were rais’d—<br>f
+And as she fell her snowy arms were rais’d—<br>
 Was it a dream—they pointed to my boy,<br>
 The latest, dearest pledge of vanish’d joy!<br>
 I snatch’d him from the slaves, I watch’d the wavе<br>
@@ -718,7 +718,7 @@ Christian! my woes shall be no jest for thee!”<br>
 &emsp;“Where is this boy?” “Where! that should I demand—<br>
 On Arsouf’s plain he perish’d by thy hand!<br>
 Where sleeps he now? perchance that cruel breast—<br>
-’Tis said thy hatred loves the impious feast.”<br>
+’Tis said thy hatred loves the impious feast.”<sup id="ref09-i"><a href="#note09-i" class="footnote-ref">i</a></sup><br>
 &emsp;“Nay, ’tis thy frenzied malice forged the tale—<br>
 Old man, I know how little words avail,<br>
 Yet oft I mourn the blood my hand has shed;<br>
@@ -752,7 +752,7 @@ He spoke, and plunged and perish’d in the wave.<br>
 &emsp;Now through the desert town the Monarch hies,<br>
 Marks the wide moat, or bids the ramparts rise.<br>
 “Here form the massy citadel, and here<br>
-Shrin’d in its breast Messiah’s temple rear;<sup>k</sup><br>
+Shrin’d in its breast Messiah’s temple rear;<sup id="ref09-k"><a href="#note09-k" class="footnote-ref">k</a></sup><br>
 A princely bower, a spacious arsenal there;<br>
 And where those orange groves bloom fresh and fair,<br>
 Let the calm convent from their bosom rise,<br>
@@ -922,7 +922,7 @@ The city rose, so wide her circuit spread,<br>
 That Islam ponder’d on her tales of old,<br>
 When Solyman the sons of fire control’d,<br>
 And piled stupendous many a fabric fair,<br>
-Colossal works! man’s envy and despair.<br>
+Colossal works! man’s envy and despair.<sup id="ref10-a"><a href="#note10-a" class="footnote-ref">a</a></sup><br>
 &emsp;’Twas night—with unaccustom’d toil opprest,<br>
 Now Peers and Princes seek the couch of rest;<br>
 When hark! a thousand clamorous tongues require<br>
@@ -934,13 +934,13 @@ For sad the tale—a tale of guilt and blood.<br>
 &emsp;From Acre’s plain the noble envoys crost<br>
 Scandalion’s ridge, and gain’d the Tyrian coast.<br>
 By Asia’s fervid suns unnerved no more,<br>
-Now Philip linger’d on Phoenicia’s shore;<br>
+Now Philip linger’d on Phœnicia’s shore;<br>
 While Saladine, with policy refined,<br>
 In princely gifts display’d his courteous mind.<br>
 With these, to heal the Monarch’s languid frame,<br>
-Abdollatiph, the pride of Asia, came,<sup>a</sup><br>
+Abdollatiph, the pride of Asia, came,<sup id="ref10-b"><a href="#note10-b" class="footnote-ref">b</a></sup><br>
 With all the lore of Ind or Persia fraught,<br>
-That Avicene, or sage Averrhöes taught;<sup>b</sup><br>
+That Avicene, or sage Averrhöes taught;<sup id="ref10-c"><a href="#note10-c" class="footnote-ref">c</a></sup><br>
 That Grecian erst, or wise Chaldæan told,<br>
 And all Damascus’ royal schools unfold.<br>
 Unwearied yet he hastens to explore,<br>
@@ -965,7 +965,7 @@ The priest exclaim’d, with all a zealot’s fire,<br>
 “How far unlike to him whose active youth<br>
 Bled in the cause of Sion and of truth;[^14]<br>
 Whose honour’d age a pontiff’s wants supplied,<br>
-And gave that home his rebel states denied.<sup>c</sup><br>
+And gave that home his rebel states denied.<sup id="ref10-d"><a href="#note10-d" class="footnote-ref">d</a></sup><br>
 Thou, but that bounteous Heaven delay’d thy reign,<br>
 Hadst join’d the kings of England and Almayne.<br>
 How may’st thou now, oh, sceptred recreant! bear<br>
@@ -997,9 +997,9 @@ Of kindred blood, of danger, and of fame,<br>
 Thus far I yield:—On my behalf to treat,<br>
 Now Sidon’s Prince and Asia’s Soldan meet;<br>
 Wait then th’ event,—should Ayoub’s son decline<br>
-The peace, then <span class="smallcaps">Richard's</span> foes again are mine.<br>
+The peace, then <span class="smallcaps">Richard’s</span> foes again are mine.<br>
 But mark! no more in common fight to blend-<br>
-Foe of his foe, but never <span class="smallcaps">Richard's</span> friend.”<br>
+Foe of his foe, but never <span class="smallcaps">Richard’s</span> friend.”<br>
 &emsp;Impatiently they waited many a day,<br>
 Till Conrad kindled at the long delay,<br>
 His greatness outraged in his herald’s stay;<br>
@@ -1155,7 +1155,7 @@ Coil’d like a serpent round her lover’s mind;<br>
 And ere the day when funeral anthems gave<br>
 Her lord and victim to their silent grave,<br>
 Again was Acre stain’d with guilty joy,<br>
-At rites that outraged every holy tye.<sup>c</sup><br>
+At rites that outraged every holy tye.<sup id="ref09-e"><a href="#note09-e" class="footnote-ref">e</a></sup><br>
 &emsp;“Oh!” cried the Prelate, “dim the day arose,<br>
 And sad and silent linger’d to its close,<br>
 When through the Tyrian streets the funeral train<br>
@@ -1195,7 +1195,7 @@ Or human sorrow touch the ear Divine,<br>
 William of Tyre, thy tears for Conrad shed,<br>
 Thy hymns, not idly o’er the marble said,<br>
 Shall aid the latest wish, the latest sigh<br>
-Of her he wrong’d to win his peace on high.”<sup>d</sup>
+Of her he wrong’d to win his peace on high.”<sup id="ref10-f"><a href="#note10-f" class="footnote-ref">f</a></sup>
 
 Such was the tale that spread through all the host<br>
 Dismay and gloom, but <span class="smallcaps">Richard</span> sorrow’d most;<br>
@@ -1306,7 +1306,7 @@ A coward only would insult me here!<br>
 Thou know’st the holy vοws that bind me fast;<br>
 In Europe breath’d, those words had been thy last.<br>
 Yes is it here, beneath Duke Robert’s hand,<br>
-Where fell the leader of the Parthian band,<br>
+Where fell the leader of the Parthian band,<sup id="ref10-g"><a href="#note10-g" class="footnote-ref">g</a></sup><br>
 Whose trophies yet the dauntless deed proclaim;<br>
 Thou darest to trample on my parents’ fame!<br>
 But give thy slander words, injurious Lord!<br>
@@ -1332,7 +1332,7 @@ To shun a treaty ye so late approved,<br>
 On to Jerusalem, but vow with me<br>
 Never to leave her till you leave her free,<br>
 While our tough lances boast one barb of steel,<br>
-Or our best steeds can yield a single meal.”<sup>e</sup><br>
+Or our best steeds can yield a single meal.”<sup id="ref09-h"><a href="#note09-h" class="footnote-ref">h</a></sup><br>
 &emsp;His truncheon high exulting Bertrand shook,<br>
 “Spake I not sooth, these hateful bonds are broke!<br>
 Oh, how I love the very name of war,<br>
@@ -1641,7 +1641,7 @@ The pressing danger threaten’d <span class="smallcaps">Richard’s</span> life
 (For well I knew, by honour unreprest,<br>
 What deadly hatred fired the Arab’s breast;)<br>
 And boldly rushing ’mid the armed ring,<br>
-‘Preserve my life!’ I cried, ‘preserve the King!’<sup>g</sup><br>
+‘Preserve my life!’ I cried, ‘preserve the King!’<sup id="ref09-i"><a href="#note09-i" class="footnote-ref">i</a></sup><br>
 Nor fail’d the fraud,—though all in battle field<br>
 Had known his broomy crest and lion shield,<br>
 The peaceful garb deceived; the valleys rung<br>
@@ -1683,12 +1683,12 @@ And fain my limbs the sacred tokens wear.’<br>
 &emsp;“Amazed I ponder’d—could the holy flame<br>
 Descend to warm a misbelieving frame?”<br>
 &emsp;“‘Believe,’ he cried, ‘with no impure desires<br>
-To join your Order Saladine aspires,<br>
-Nor were its glory tarnish’d, should a part<sup>h</sup><br>
+To join your Order Saladine aspires,<sup id="ref09-k"><a href="#note09-k" class="footnote-ref">k</a></sup><br>
+Nor were its glory tarnish’d, should a part<br>
 Of its pure doctrines reach an Arab’s heart.’<br>
 &emsp;“So modest! thought I—could I still forbear?<br>
 I waived the vigil, waived the rites of prayer:<br>
-But in the bath his hardy limbs I laved,<sup>i</sup><br>
+But in the bath his hardy limbs I laved,<sup id="ref09-l"><a href="#note09-l" class="footnote-ref">l</a></sup><br>
 Symbol of man by vows baptismal saved;<br>
 Then at my will a simple couch he prest<br>
 In sleep, the emblem of our mortal rest,<br>
@@ -1943,7 +1943,7 @@ To the tough boughs his ample mantle bound,<br>
 And slept;—unnoticed sung the bird of night,<br>
 Nor e’en Amina charms his dreaming sight.<br>
 &emsp;What odours from a thousand glowing flow’ers,<br>
-Fair as the bloom of Irem’s fabled bowers!<sup>a</sup><br>
+Fair as the bloom of Irem’s fabled bowers!<sup id="ref11-a"><a href="#note11-a" class="footnote-ref">a</a></sup><br>
 What strains from birds all glorious to behold,<br>
 With wings of purple, emerald and gold,<br>
 All strange to Europe’s niggard summers, borne<br>
@@ -1956,7 +1956,7 @@ Here rocks arise or narrow lawns are spread,<br>
 Here tangled brushwood closes all the shade.<br>
 And now he reached a stream; through narrow space<br>
 The sunbeams break upon its crystal face;<br>
-Th’ acacia with its tufts of golden hair,<sup>b</sup><br>
+Th’ acacia with its tufts of golden hair,<sup id="ref11-b"><a href="#note11-b" class="footnote-ref">b</a></sup><br>
 And taller trees, and flowers more fresh and fair<br>
 Hang o’er its waves, to view their image there;<br>
 Save where the lotos, as in wanton pride,<br>
@@ -1974,7 +1974,7 @@ Yields to the warrior’s hand,—he ventures in.<br>
 It was a garden, such as Arabs love,<br>
 Half art, half nature, wilderness and grove.<br>
 Myrtle and orange here, and cassia grows,<br>
-The dusky olive, and the glowing rose,<sup>c</sup><br>
+The dusky olive, and the glowing rose,<sup id="ref11-c"><a href="#note11-c" class="footnote-ref">c</a></sup><br>
 Here the lost stream, in mazy channels led,<br>
 Cools the hot breeze, and visits every shade;<br>
 The thick-wove foliage of the laurel bower,<br>
@@ -2010,7 +2010,7 @@ Because her spirit sparkles in her eye,<br>
 And inborn greatness lifts her far above<br>
 These idle triflings that her sisters love.”<br>
 &emsp;Swift through the gloomy passages he ran,<br>
-That join the Haram to the halls of man.<sup>d</sup><br>
+That join the Haram to the halls of man.<sup id="ref11-d"><a href="#note11-d" class="footnote-ref">d</a></sup><br>
 But could a despot’s lone abode impart<br>
 A sense more grateful to a Christian’s heart,<br>
 Without one spell the hateful truth to hide,<br>
@@ -2021,7 +2021,7 @@ The long divan in Persian silks array’d,<br>
 The curtain’d galleries round the chamber spread,<br>
 Or those beneath, where day shall never come,<br>
 Where martial spoils are shrouded in the gloom,<br>
-Or murder hides the victim and the tomb;<sup>e</sup><br>
+Or murder hides the victim and the tomb;<sup id="ref11-e"><a href="#note11-e" class="footnote-ref">e</a></sup><br>
 Shuddering he saw; but all was lonely there,<br>
 And forth he rush’d to breathe a freer air.<br>
 He reached the court, where still in Arab state,<br>
@@ -2237,7 +2237,7 @@ Milk from one breast, or through the morning dew<br>
 Chased the fierce panther, or the rapid deer,<br>
 Each, save his equal friend, without a peer.<br>
 Perchance, that both insatiate in the draught,<br>
-They from one fount the streams of science quaff’d<sup>f</sup><br>
+They from one fount the streams of science quaff’d<sup id="ref11-f"><a href="#note11-f" class="footnote-ref">f</a></sup><br>
 Nizam would snatch the blossom from the shoot,<br>
 And in its embryo trace the future fruit;<br>
 His friend would poison from the leaves distill,<br>
@@ -2322,9 +2322,9 @@ Nay, some declared that wondrous man had given<br>
 To them a foretaste of his promised heaven;<br>
 And he who dared to doubt what they should tell,<br>
 Or on his mind a strange conviction fell,<br>
-Or murder struck him in his inmost cell.<sup>g</sup><br>
+Or murder struck him in his inmost cell.<sup id="ref11-g"><a href="#note11-g" class="footnote-ref">g</a></sup><br>
 Slaves trembled for their lives, and kings were prone<br>
-By his alliance to secure their own.<sup>h</sup><br>
+By his alliance to secure their own.<sup id="ref11-h"><a href="#note11-h" class="footnote-ref">h</a></sup><br>
 &emsp;Yes! Hassan knew to work upon the soul,<br>
 Till e’en instinctive conscience lost control.<br>
 He knew each power that cuts the thread of life,<br>
@@ -2356,7 +2356,7 @@ And his brave son, whom frequent conquest fires,<br>
 From Omar’s gulf to Oxus’ frozen wave<br>
 Convenes his force to crush the rebel slave.<br>
 In vain—that Prince whom half the east obey’d,<br>
-Was powerless here; his army fear’d and fled.<sup>i</sup><br>
+Was powerless here; his army fear’d and fled.<sup id="ref11-i"><a href="#note11-i" class="footnote-ref">i</a></sup><br>
 His star grew dim, nor ever brighten’d more,<br>
 For Nizam, bulwark of his giant power,<br>
 Fell from his favour in that fatal hour.<br>
@@ -2369,7 +2369,7 @@ Assaults Alhamout’s rock-built fort in vain.<br>
 Amid his guards, and in his tent of pride,<br>
 The Ataghan was planted by his side:<br>
 “Did not the Mountain Prince thy worth revere,<br>
-Thy heart were softer than this marble here.”<sup>k</sup><br>
+Thy heart were softer than this marble here.”<sup id="ref11-k"><a href="#note11-k" class="footnote-ref">k</a></sup><br>
 Such was the Chief that sought the Christian yoke;<br>
 That Eudon and that Conrad dared provoke,<br>
 And Saladine disdain’d, till Hassan sent<br>
@@ -2379,7 +2379,7 @@ Till the rous’d menials hasten’d at his call.<br>
 One wretch his arm had slain, a second fled,<br>
 And headlong leap’d the lofty balustrade;<br>
 The last with poison’d weapon pierce’d his side,<br>
-And gloried that in Hassan’s cause he died.<sup>i</sup><br>
+And gloried that in Hassan’s cause he died.<sup id="ref16-i"><a href="#note16-i" class="footnote-ref">i</a></sup><br>
 Such man was he, if he indeed were man,<br>
 Whose wondrous life surpass’d our mortal span,<br>
 Till he like Egypt’s cavern’d dead became,<br>
@@ -2399,7 +2399,7 @@ But never shall my recreant tongue deny<br>
 My vows baptismal, or this sacred sign<br>
 Given but to Christians, knighthood’s badge divine.”<br>
 &emsp;“If but to Christians, how to Saladine?”<br>
-The Chief rejoin’d; “but be thou mute and hear:<sup>m</sup><br>
+The Chief rejoin’d; “but be thou mute and hear:<sup id="ref16-m"><a href="#note16-m" class="footnote-ref">m</a></sup><br>
 Like thee the One pure Being I revere;<br>
 And He whose humble steps Judea trod,<br>
 Inspired of Heaven, though misbelieved a God.<br>
@@ -2488,7 +2488,7 @@ To prove my friendship, hear one wonder more,—<br>
 Thy Monarch lives, but on a western shore.”<br>
 &emsp;He spoke, and deep the grateful liquor quaff’d,<br>
 The knight in silence took, and pledged the draught,<br>
-And sank, with deep and sudden trance opprest,<sup>n</sup><br>
+And sank, with deep and sudden trance opprest,<sup id="ref16-n"><a href="#note16-n" class="footnote-ref">n</a></sup><br>
 Ere he could ask one blessing on his rest.
 
 Sure there are hours when gentle spirits keep<br>
@@ -2695,7 +2695,7 @@ Alas! too soon I found my hope betray’d;<br>
 O’er turban’d domes the mournful cypress spread,<br>
 A place of grief, a City of the Dead;<br>
 Vast as Larneca, where in endless line,<br>
-On Cyprus’ shore the marble fabrics shine.<sup>a</sup><br>
+On Cyprus’ shore the marble fabrics shine.<sup id="ref12-a"><a href="#note12-a" class="footnote-ref">a</a></sup><br>
 My heart grew sick—was this my destined home,<br>
 E’en while I breathed, a tenant of the tomb?<br>
 Living to waste beside the wasting dead,<br>
@@ -2714,7 +2714,7 @@ From Saba’s oils dispens’d a fragrant flame.<br>
 For here with every Jama’s sacred morn,<br>
 To weep their friend the Moslem maids re’turn;<br>
 Renew the lamp, the votive wreath bestow,<br>
-And feed with tears their unavailing woe,<sup>b</sup><br>
+And feed with tears their unavailing woe,<sup id="ref12-b"><a href="#note12-b" class="footnote-ref">b</a></sup><br>
 &emsp;“Alas! like them, my tale prolongs the grief,<br>
 Its lingering cannot change, I will be brief:<br>
 &emsp;“I know not if to lengthened toil a prey,<br>
@@ -2754,7 +2754,7 @@ I cried:—he answer’d with a mournful sign,<br>
 The galley sail’d, I sunk upon the sand;<br>
 A glittering baldric lured my feeble hand,—<br>
 Say, has my fancy coin’d one horror more,<br>
-Or is this belt the belt that <span class="smallcaps">Richard</span> wore?”<sup>c</sup><br>
+Or is this belt the belt that <span class="smallcaps">Richard</span> wore?”<sup id="ref12-c"><a href="#note12-c" class="footnote-ref">c</a></sup><br>
 &emsp;Alas! the Queen’s convulsive start has shewn<br>
 How well to her each fatal gem was known;<br>
 While pale as hers each hardy cheek became,<br>
@@ -2796,7 +2796,7 @@ With Conrad’s blood the godlike Prince aspers’d?<br>
 Nor deem’d it shame secluded speech to hold<br>
 With Philip’s bosom snake, and Leopold!<br>
 Chain’d though he be (and may an evil end<br>
-Befall the traitors!) <span class="smallcaps">Richard</span> has a friend.”<sup>d</sup><br>
+Befall the traitors!) <span class="smallcaps">Richard</span> has a friend.”<sup id="ref12-d"><a href="#note12-d" class="footnote-ref">d</a></sup><br>
 &emsp;He spoke, and Bertrand rose;—his eye of fire<br>
 Flash’d for a moment with ungovern’d ire,—<br>
 But soon a starting tear supprest the glow,<br>
@@ -2813,12 +2813,12 @@ How firm my friendship, and how fond my love,<br>
 To distant years my ardent lays shall prove.<br>
 I hate not <span class="smallcaps">Richard</span> for our early strife,— <br>
 A passing storm-cloud in the morn of life;<br>
-Nor that I bow’d beneath his matchless sword—<sup>e</sup><br>
+Nor that I bow’d beneath his matchless sword—<sup id="ref12-e"><a href="#note12-e" class="footnote-ref">e</a></sup><br>
 He, generous then, my life and lands restored;<br>
 But deepest vengeance, deadliest hate attends<br>
 On smiling enemies, and faithless friends.<br>
 Young Henry died,—my grief, that mock’d control,<br>
-Drew love and pity from his father’s soul;<sup>f</sup><br>
+Drew love and pity from his father’s soul;<sup id="ref12-f"><a href="#note12-f" class="footnote-ref">f</a></sup><br>
 That fatal blow was dealt by heaven alone—<br>
 The death-wound of my peace was <span class="smallcaps">Richard’s</span> own!<br>
 ’Twas he who fix’d on Helen’s charms mine eyes,<br>
@@ -2826,7 +2826,7 @@ And, pleased to see my fond emotions rise,<br>
 Bade me so high my daring wishes raise,<br>
 And taught my willing lyre to sound her praise;<br>
 Yet while with treacherous hopes my flame he fann’d,<br>
-The Saxon Duke was graced with Helen’s hand!<sup>g</sup><br>
+The Saxon Duke was graced with Helen’s hand!<sup id="ref12-g"><a href="#note12-g" class="footnote-ref">g</a></sup><br>
 What would I give, brave youth, to feel agen<br>
 The boiling agony that tore me then!<br>
 With brow erect I met the shaft of fate,<br>
@@ -2834,7 +2834,7 @@ And made all Europe subject to my hate.<br>
 Witness the ceaseless wars, the floods of gore,<br>
 From Ebro’s stream to Brabant’s eastern shore;<br>
 The strife with Philip, oft with pain subdued<br>
-By Pope or Legate, and as oft renew’d.<sup>h</sup><br>
+By Pope or Legate, and as oft renew’d.<sup id="ref12-h"><a href="#note12-h" class="footnote-ref">h</a></sup><br>
 The blood of thousands scarcely quench’d mine ire,<br>
 Oh! that their curses could relume the fire!<br>
 &emsp;“Fame had no charms, and vengeance died at last,<br>
@@ -2928,7 +2928,7 @@ Blest in our master’s promis’d Paradise.<br>
 Thou deem’st a Christian King the poniard sped,<br>
 But he who smiles when heaven enjoins to shed<br>
 The blood of Misbelievers, bids ye know<br>
-He hated Conrad, and he laid him low.”<sup>i</sup><br>
+He hated Conrad, and he laid him low.”<sup id="ref12-i"><a href="#note12-i" class="footnote-ref">i</a></sup><br>
 &emsp;“Unhappy wretch!” (’twas Hubert’s holy voice)<br>
 “Deluded, canst thou murder and rejoice?<br>
 Nor conscience checks thee, nor the timely fear,<br>
@@ -2945,7 +2945,7 @@ Yet with each pang his phrenzied raptures rise,—<br>
 &emsp;“Now rend my flesh, insulting Giaours,” he cries,<br>
 My soul is blest-—it soars to Paradise.”<br>
 And backward as he fell, his clenching hand<br>
-And angry brow defied the awestruck band.<sup>k</sup><br>
+And angry brow defied the awestruck band.<sup id="ref12-k"><a href="#note12-k" class="footnote-ref">k</a></sup><br>
 But fix’d as though th’ infectious venom spread<br>
 Through his cold veins, and pallid as the dead,<br>
 Fierce Bertrand stood,—and when at length he broke<br>
@@ -3108,9 +3108,9 @@ Corinth and Argos, mighty now no more.<br>
 &emsp;But soon dark clouds the azure heaven o’ercast,<br>
 From southern regions came the angry blast;<br>
 In vain the pilot seeks Sicilia’s coast,<br>
-For with the hidden stars his hopes are lost.<sup>l</sup><br>
+For with the hidden stars his hopes are lost.<sup id="ref12-l"><a href="#note12-l" class="footnote-ref">l</a></sup><br>
 He drives by Cephalonia’s fruitful isle,<br>
-Zanté, where cloudless suns for ever smile,<sup>m</sup><br>
+Zanté, where cloudless suns for ever smile,<sup id="ref12-m"><a href="#note12-m" class="footnote-ref">m</a></sup><br>
 And old Corcyra; now Ragusa’s towers<br>
 Are near, and now Ancona’s rival shores.<br>
 Now through the falling torrents dimly seen,<br>
@@ -3118,7 +3118,7 @@ Shone like a star the Adriatic Queen.<br>
 In vain with strenuous oar and shifting sail<br>
 They seek the harbour, for the furious gale<br>
 Drives on the bark, while, oh! portentous sight,<br>
-Burns on the helm dire Helen’s fatal light!<sup>n</sup><br>
+Burns on the helm dire Helen’s fatal light!<sup id="ref12-n"><a href="#note12-n" class="footnote-ref">n</a></sup><br>
 The shore, so long desired, is now too nigh,<br>
 Where countless shoals in fatal ambush lie!<br>
 &emsp;Alone, unmoved, serene amid despair,<br>
@@ -3183,7 +3183,7 @@ And daily masses sought her soul’s repose.<br>
 &emsp;But Eleanor the pilgrim Knight embraced,<br>
 Then, while her heart its swelling grief represt,<br>
 Ask’d of her favourite son,— that son whose reign<br>
-Freed her from bonds, and gave to power again.<sup>p</sup><br>
+Freed her from bonds, and gave to power again.<sup id="ref12-p"><a href="#note12-p" class="footnote-ref">p</a></sup><br>
 “Fear not to speak—his fatal loss we know—<br>
 Ill news fly fast, ’tis good that travels slow.”[^32]<br>
 &emsp;“Lady, he lives! and heavenly lips betray,<br>
@@ -3210,7 +3210,7 @@ With power inebriate, he opprest the land,<br>
 Affected more than courtly state, defied<br>
 His mitred colleague, and inflamed his pride:<br>
 Till Durham, conscious of his wealth and power,<br>
-Call’d his new Primate from the Norman shore.<sup>q</sup><br>
+Call’d his new Primate from the Norman shore.<sup id="ref12-q"><a href="#note12-q" class="footnote-ref">q</a></sup><br>
 He, son of Clifford’s fair and erring child,<br>
 Led for his reverend robes a life too wild;<br>
 Loved more the midnight bowl and wanton lyre,<br>
@@ -3218,13 +3218,13 @@ Than Ebor’s matchless fane and solemn quire.<br>
 And royal <span class="smallcaps">Richard</span>, ere he left the west,<br>
 Gave with a brother’s kiss a King’s behest;<br>
 (The same to John with oaths confirm’d before),<br>
-For three full years to shun the English shore<sup>r</sup><br>
+For three full years to shun the English shore<sup id="ref12-r"><a href="#note12-r" class="footnote-ref">r</a></sup><br>
 But John was early false, and Geoffrey now<br>
 Deem’d that his priestly rank absolved the vow.<br>
 With Pembroke join’d, the princely pair demand<br>
 The delegated seals from Longchamp’s hand;<br>
 While Eleanor, by frequent insults moved,<br>
-Too rashly sanction’d what her lords approved.<sup>s</sup><br>
+Too rashly sanction’d what her lords approved.<sup id="ref12-s"><a href="#note12-s" class="footnote-ref">s</a></sup><br>
 But the torn kingdom, drown’d in blood and tears,<br>
 Soon proved the justice of her Monarch’s fears.<br>
 How little, when with lavish hand he shed<br>
@@ -3240,9 +3240,9 @@ Her hoary Seneschal the King defied;<br>
 Enraged he prest to arms,—but vainly prest,<br>
 For honour, banish’d from the Sovereign’s breast,<br>
 Lived in his nobles,-—” they had truly sworn<br>
-To guard his rights, till <span class="smallcaps">Richard</span> should return.”<sup>t</sup><br>
+To guard his rights, till <span class="smallcaps">Richard</span> should return.”<sup id="ref12-t"><a href="#note12-t" class="footnote-ref">t</a></sup><br>
 Sick at the light that makes his glory pale.<br>
-(For <span class="smallcaps">Richard’s</span> triumphs breath’d on every gale,)<sup>u</sup><br>
+(For <span class="smallcaps">Richard’s</span> triumphs breath’d on every gale,)<sup id="ref12-u"><a href="#note12-u" class="footnote-ref">u</a></sup><br>
 He heard of Conrad’s fall—his slanderous tongue<br>
 With darker scandal swells the Austrian’s wrong;<br>
 And swears the Monarch, now by practice grown<br>
@@ -3256,7 +3256,7 @@ His martial fame and far-descended crown,<br>
 But for that hand, whose gifts prevent distress,<br>
 That soul, which revell’d in its power to bless;<br>
 Whose first command absolved the prisoner’s chain,<br>
-Lest one lorn wretch should hear and curse his reign.<sup>x</sup><br>
+Lest one lorn wretch should hear and curse his reign.<sup id="ref12-x"><a href="#note12-x" class="footnote-ref">x</a></sup><br>
 He loved the dance, the feast, the minstrel song<br>
 Himself could raise so well, the glittering throng<br>
 Of princely jousts:—oh! could his realm forbear<br>
@@ -3275,9 +3275,9 @@ Against the rebel force her powers combine,<br>
 The martial Durham, Cestria’s Palatine,<br>
 Leicester, in Syrian fields with glory crown’d,<br>
 Bardolf and Stuteville; Strigulph, long renown’d<br>
-In Erin’s wars, and for his matchless bow,<sup>y</sup><br>
+In Erin’s wars, and for his matchless bow,<sup id="ref12-y"><a href="#note12-y" class="footnote-ref">y</a></sup><br>
 All sheathed in arms, with loyal ardour glow.<br>
-Windsor they save, they guard the menaced shores,<sup>z</sup><br>
+Windsor they save, they guard the menaced shores,<sup id="ref12-z"><a href="#note12-z" class="footnote-ref">z</a></sup><br>
 And draw their lines round Thikehill’s reverend towers.<br>
 The Norman confines Philip threats in vain,<br>
 The Queen upholds her Son’s invaded reign.<br>
@@ -3676,7 +3676,7 @@ Yet come with me, I reck not of thy curse,<br>
 But my sick dame may love thy southern verse;<br>
 And (or thy art will poorly pay thy pain)<br>
 For lady’s ear thou timest a softer strain.”<br>
-&emsp;Dark was Count Maynard, and his scowling look<sup>a</sup><br>
+&emsp;Dark was Count Maynard, and his scowling look<sup id="ref13-a"><a href="#note13-a" class="footnote-ref">a</a></sup><br>
 Had yet less promise than his accents spoke.<br>
 The towers of Gortz, upon the forest side,<br>
 Less shew’d his liberal spirit than his pride.<br>
@@ -3721,11 +3721,11 @@ Plays in each stream, and breathes in all her gales,<br>
 My youthful ear her noble minstrels heard,<br>
 And caught a strain from each sublimer bard.<br>
 Vidal, who roams in fancy’s wildest maze,<br>
-Soft Marie’s tales,<sup>b</sup> Alphonso’s princely lays;<sup>c</sup><br>
+Soft Marie’s tales,<sup id="ref13-b"><a href="#note13-b" class="footnote-ref">b</a></sup> Alphonso’s princely lays;<sup id="ref13-c"><a href="#note13-c" class="footnote-ref">c</a></sup><br>
 His Sister, who beloved by Phœbus’ quire,<br>
 Wakes in Provence her Arragonian lyre;<br>
 Bertrand de Born, whose youthful songs were fire;<br>
-Arnaud, whose strains the female heart allure,<sup>d</sup><br>
+Arnaud, whose strains the female heart allure,<sup id="ref13-d"><a href="#note13-d" class="footnote-ref">d</a></sup><br>
 And England’s pride, her Royal Troubadour.<br>
 Erewhile, in famed Avignon’s shadowy grove<br>
 When the gay Monarch held his “Courts of Love,”<br>
@@ -3734,7 +3734,7 @@ Sweet Philomel, Love’s Advocate, dispute<br>
 On points of tender faith, with all the train<br>
 Of gaudy Finches, fickle, light, and vain.<br>
 For fancy wanton’d thus in frolic guise,<br>
-When Princes bought, and Queens adjudged the prize.”<sup>e</sup><br>
+When Princes bought, and Queens adjudged the prize.”<sup id="ref13-e"><a href="#note13-e" class="footnote-ref">e</a></sup><br>
 &emsp;“And who art thou, whose vaunting phrases tell,<br>
 “Observ’d the Count, “of greatness known so well?”<br>
 &emsp;“Blondel my name; and, but I prize the lyre<br>
@@ -3754,7 +3754,7 @@ Sing not of love—I could not bear the strain.”<br>
 &emsp;“Nay, Lady, would’st thou break my sweetest string?—<br>
 Yet can your bard in phrase romantic sing<br>
 Those bolder notes that swell the northern lyre,<br>
-And knightly youth to deathless deeds inspire.<sup>f</sup><br>
+And knightly youth to deathless deeds inspire.<sup id="ref13-f"><a href="#note13-f" class="footnote-ref">f</a></sup><br>
 Of awful magic, erst to Merlin known.<br>
 Or lighter pranks by moonlight fairies shewn,<br>
 Of glorious war, of wounds with sword and lance,<br>
@@ -3765,7 +3765,7 @@ Let warriors court the laurel glory weaves,<br>
 I shudder at the blood that stains its leaves.”<br>
 &emsp;“Would then some biting satire please thy mind,<br>
 That paints the crimes and follies of mankind?<br>
-Such Pierre<sup>g</sup> has framed—”<br>
+Such Pierre<sup id="ref13-g"><a href="#note13-g" class="footnote-ref">g</a></sup> has framed—”<br>
 <span style="margin-left: 10rem;">“Nay, nay, thy themes are strange,</span><br>
 Capricious bard, hast thou no fitter change?”<br>
 &emsp;“Nay, by my knighthood, the caprice is thine,”<br>
@@ -3919,7 +3919,7 @@ When hope obsequious paints the secret thought.<br>
 &emsp;Fell’d was the nearer wood—beyond, it rose<br>
 To screen the fort, but not to hide its foes:<br>
 High on a hill, the triple towers were seen,<br>
-On three huge crags, with horrid depths between;<sup>h</sup><br>
+On three huge crags, with horrid depths between;<sup id="ref13-h"><a href="#note13-h" class="footnote-ref">h</a></sup><br>
 A triple fosse the vast enclosure bound,<br>
 And massy walls the triple vallum crown’d.<br>
 The stones were black with age, the struggling day<br>
@@ -3965,7 +3965,7 @@ While, should some jealous warder mark the lay,<br>
 Ah, me! that air to early love so dear,<br>
 Even in the tomb might rouse my <span class="smallcaps">Richard's</span> ear;<br>
 Oh! could I pour his deep clear tones along,<br>
-And steal his accents as I steal his song.<sup>i</sup>
+And steal his accents as I steal his song.<sup id="ref13-i"><a href="#note13-i" class="footnote-ref">i</a></sup>
 
 > “Frown, frown, Clorinda —I would prize<br>
 > Thy smile o’er all that arms might gain;<br>
@@ -4005,7 +4005,7 @@ Again she paused, and listening, from on high<br>
 Caught from the friendly gale the faint reply.<br>
 
 > “But kites a higher power obey,<br>
-> Th’ Imperial Eagle claims the prey,—<sup>k</sup><br>
+> Th’ Imperial Eagle claims the prey,—<sup id="ref13-k"><a href="#note13-k" class="footnote-ref">k</a></sup><br>
 > Hence! to his spacious eyrie go,<br>
 > The Eagle is a nobler foe.”
 
@@ -4172,7 +4172,7 @@ And human victims heap Irmensul's shrine:<br>
 Where guilt and fear the avenging kindred shun,<br>
 And wizards meet for rites that blot the sun;<br>
 Lure hapless wanderers to the fatal wood,<br>
-Or roam as wolves, to feast on human blood.<sup>l</sup><br>
+Or roam as wolves, to feast on human blood.<sup id="ref13-l"><a href="#note13-l" class="footnote-ref">l</a></sup><br>
 She told of murder'd forms that ride the gale,<br>
 Weep in the rain, and in the tempest wail;<br>
 Of shrieks and howlings—Ha! dost thou not see,<br>
@@ -4306,7 +4306,7 @@ Meets his loved friend, and strains him to his breast.<br>
 Their quick succession on his changing face.<br>
 “Albert, for life reciprocally given,<br>
 Our faith was plighted in the sight of heaven;<br>
-By vows on Sylvia’s conquer’d ramparts made,<sup>m</sup><br>
+By vows on Sylvia’s conquer’d ramparts made,<sup id="ref13-m"><a href="#note13-m" class="footnote-ref">m</a></sup><br>
 I come at once to claim and promise aid.<br>
 &emsp;“My Sire, in youth, by lust of glory fired,<br>
 The future fortunes of his life enquir’d;<br>
@@ -4736,7 +4736,7 @@ One Henry’s threats seduced, or Philip’s gold;<br>
 One hated England’s power, or <span class="smallcaps">Richard’s</span> fame,<br>
 Nor came prepared to try, but to condemn.<br>
 Yet some more nobly thought;—thy prince, Louvain!<br>
-Who mourn’d by Henry’s craft a brother slain;<sup>a</sup><br>
+Who mourn’d by Henry’s craft a brother slain;<sup id="ref14-a"><a href="#note14-a" class="footnote-ref">a</a></sup><br>
 Maguntium’s Primate, and the Saxon pride,<br>
 Her Lion-Duke, to <span class="smallcaps">Richard</span> more allied<br>
 By kindred virtues, than his English bride;<br>
@@ -4773,7 +4773,7 @@ How, in his sleep secured with many a chain,<br>
 His foes had seized and borne him o’er the main;<br>
 Yet had his hand their treason half repaid,<br>
 Prone at his feet Burgundia’s Duke he laid,<br>
-And the black soul in lingering tortures fled.<sup>b</sup><br>
+And the black soul in lingering tortures fled.<sup id="ref14-b"><a href="#note14-b" class="footnote-ref">b</a></sup><br>
 Next Berengaria, while her dewy eye<br>
 Shot many a conscious beam of present joy,<br>
 Told her past griefs: how all bewail’d her lord,<br>
@@ -4801,7 +4801,7 @@ Who own’d no prouder prince beneath the sun!<br>
 Now all that rests,—so fast our fortunes move,—<br>
 Courage to me, to thee thy Monarch’s love.<br>
 Nay, check that sigh—regrets and shame are vain,<br>
-Resume thy Seals, and be thyself again;<sup>c</sup><br>
+Resume thy Seals, and be thyself again;<sup id="ref14-c"><a href="#note14-c" class="footnote-ref">c</a></sup><br>
 Aside that penance garb must now be laid,<br>
 And Ely’s Prelate speak in Albert’s aid.<br>
 Yet sorrow strengthens—should I else have known<br>
@@ -4834,7 +4834,7 @@ Round the vain man who fill’d th’ Imperial throne;<br>
 And seldom King might boast a nobler band,<br>
 Primates and princes, Magnates of the land,<br>
 In wonder gazing on their captive there,<br>
-His form majestic, and commanding air.<sup>d</sup><br>
+His form majestic, and commanding air.<sup id="ref14-d"><a href="#note14-d" class="footnote-ref">d</a></sup><br>
 The envoys entered, and with dauntless look<br>
 The tyrant’s seat confronting, Albert spoke.<br>
 From England’s Regent Queen, and each that bears<br>
@@ -4917,7 +4917,7 @@ For every pang my kindred bosom bleeds;<br>
 And while on thee my heaviest charges fall,<br>
 ’Tis my first wish thou may’st repel them all.<br>
 &emsp;First then I charge thee, King! that in despite<br>
-Of my Constantia’s claims, and well-known right,<sup>e</sup><br>
+Of my Constantia’s claims, and well-known right,<sup id="ref14-e"><a href="#note14-e" class="footnote-ref">e</a></sup><br>
 Despite those rights of blood which all respect,<br>
 And Kings who rule by them should least neglect,<br>
 Thou did’st compel th’ unwilling realm to crown<br>
@@ -4983,7 +4983,7 @@ The subtle fox, the coward sheep below?<br>
 And what, though treason brought him to our throne,<br>
 Shall we not make the cause of man our own?<br>
 Or must we fix this monster in his reign,<br>
-And give this demon back to power again?<sup>f</sup><br>
+And give this demon back to power again?<sup id="ref14-f"><a href="#note14-f" class="footnote-ref">f</a></sup><br>
 But I transgress: he yet may all deny,<br>
 Or with prompt wit some fair excuse supply;<br>
 Yet, though I know his sweet and plausive tongue,<br>
@@ -5015,7 +5015,7 @@ In hate I enter’d, though I left in love.<br>
 A widow’d sister’s freedom to restore,<br>
 Her massy throne to claim, and regal dower,<br>
 That ample board, whose golden round might hold<br>
-Th’ Armorie Peers or Paladins of old,<sup>g</sup><br>
+Th’ Armorie Peers or Paladins of old,<sup id="ref14-g"><a href="#note14-g" class="footnote-ref">g</a></sup><br>
 With all the wealth that William’s last command<br>
 Gave to my sire, I sought th’ unfriendly land.<br>
 ’Tis true that soon was every doubt dispell’d,<br>
@@ -5114,7 +5114,7 @@ But I am vow’d to Heaven—my idle sword<br>
 That heaven rebukes, and England claims her Lord.”
 
 He ceased; but through the hall loud murmurs rise,<br>
-And tears are glistening in unwonted eyes;<sup>h</sup><br>
+And tears are glistening in unwonted eyes;<sup id="ref14-h"><a href="#note14-h" class="footnote-ref">h</a></sup><br>
 In dread his ransom and his thrall to lose,<br>
 Preventive of their speech, the Emperor rose,<br>
 &emsp;“Hail! <span class="smallcaps">Cœur de Lion</span>!—I with joy receive<br>
@@ -5122,7 +5122,7 @@ Thy proud denial, and I will believe.<br>
 Such be thy ransom as beseems thy fame,<br>
 As fits with thee to yield, and me to claim;<br>
 Ten thousand pounds, each thousand ten times told,<br>
-Of Cologne weight, and of the purest gold.”<sup>i</sup><br>
+Of Cologne weight, and of the purest gold.”<sup id="ref14-i"><a href="#note14-i" class="footnote-ref">i</a></sup><br>
 &emsp;The Emperor paus’d, the Synod stood aghast:<br>
 “What King,” they thought, “might pay a sum so vast!”<br>
 But <span class="smallcaps">Richard’s</span> soul no mean surprise could move,<br>
@@ -5148,7 +5148,7 @@ I swear!” exclaim’d Rinaldo of Cologne<br>
 &emsp;And rising, all the Magnates of the land<br>
 Vow’d on their croziers, or their arm’d right hand,<br>
 To make their Emperor guard the faith he swore,<br>
-Or yield allegiance to his crown no more.<sup>k</sup><br>
+Or yield allegiance to his crown no more.<sup id="ref14-k"><a href="#note14-k" class="footnote-ref">k</a></sup><br>
 On their free vows the dauntless King reposed,<br>
 And Henry parted, and the Council closed.
 
@@ -5161,7 +5161,7 @@ With martial zeal, with rival ardour fires;<br>
 Yet who might think, to see the blended train,<br>
 They once were foes, and shall be foes again?<br>
 Arabs with Christians break a harmless lance,<br>
-To Arab lutes the merry Christians dance;<sup>l</sup><br>
+To Arab lutes the merry Christians dance;<sup id="ref14-l"><a href="#note14-l" class="footnote-ref">l</a></sup><br>
 White mutual presents mutual kindness bound,<br>
 This gives a hawk, and that returns a hound.<br>
 Led by the Arabs, now the Knights invade<br>
@@ -5171,7 +5171,7 @@ Or mark the falcon wage the fight in air;<br>
 And when the Christians seek the fierce Castille,<br>
 Or their light bands in mimic skirmish wheel,<br>
  The generous Saladine in wonder sees,<br>
-“Who may contend with foes whose sports are these?”<sup>m</sup><br>
+“Who may contend with foes whose sports are these?”<sup id="ref14-m"><a href="#note14-m" class="footnote-ref">m</a></sup><br>
 &emsp;And now, disburthen’d of her heaviest cares,<br>
 In each gay scene the calm Matilda shares;<br>
 Evanthe’s bloom revives, and joy inspires<br>
@@ -5433,7 +5433,7 @@ I found the means to cheat her wily guard,<br>
 And basking in her sight so long denied,<br>
 Forgot thy tears my selfish stay might chide.’<br>
 &emsp;‘Seek pardon at the Cross!’ I cried, and tore<br>
-The letter from his grasp and ran it o’er.<sup>o</sup>
+The letter from his grasp and ran it o’er.<sup id="ref14-o"><a href="#note14-o" class="footnote-ref">o</a></sup>
 
 > ‘I cannot hide the grief I feel<br>
 > That thou should’st doubt my truth, my zeal;<br>
@@ -5527,7 +5527,7 @@ Thousands I saw of yet unsullied fame.<br>
 Who writhe for secret guilt, though glory write<br>
 Their names on brass;—but most he fix’d my sight<br>
 On one, a ghastly trunk distain’d with gore,<br>
-And in his hand his sever’d head he bore.<sup>p</sup><br>
+And in his hand his sever’d head he bore.<sup id="ref14-p"><a href="#note14-p" class="footnote-ref">p</a></sup><br>
 &emsp;“‘Lo! who was Bertrand once! frank, loyal, true;<br>
 But he with hatred dared the good pursue:<br>
 Against his Sovereign and his friend conspire,<br>
@@ -5712,7 +5712,7 @@ Ne’er was thy call with readier love obey’d,<br>
 Ne’er at thy shrine were purer offerings paid,<br>
 Than when his weeping myriads vied to bring<br>
 Their several portion, and release their King.<br>
-The poor his mite, untax’d the Abbot yields<sup>a</sup><br>
+The poor his mite, untax’d the Abbot yields<sup id="ref15-a"><a href="#note15-a" class="footnote-ref">a</a></sup><br>
 His gold, the lord the produce of his fields:<br>
 Yet time roll’d on; and all on Syria’s shores,<br>
 Or war-vex’d England, count the weary hours;<br>
@@ -5738,7 +5738,7 @@ To fix proud England’s regal lions there?<br>
 To valiant John that kingly name allow,—<br>
 Friendship and love these welcome scrolls convey,<br>
 With liberal proffers;—wealth for every day<br>
-We guard our captive; so may discord cease,<sup>b</sup><br>
+We guard our captive; so may discord cease,<sup id="ref15-b"><a href="#note15-b" class="footnote-ref">b</a></sup><br>
 And Europe prosper in the shade of peace.<br>
 Methinks some short delay, devoid of blame,<br>
 Our vows may pardon, and their friendship claim.”<br>
@@ -5748,7 +5748,7 @@ His hope sunk low, but scorn enforced the smile;<br>
 “Restore his ransom, or his chains destroy.”<br>
 When rising with one will, th’ Imperial Lords<br>
 Touch’d their rich croziers or their glittering swords:<br>
-&emsp;“Have we not sworn?”<sup>c</sup> a voice of thunder says,<br>
+&emsp;“Have we not sworn?”<sup id="ref15-c"><a href="#note15-c" class="footnote-ref">c</a></sup> a voice of thunder says,<br>
 And Henry shrunk from virtue’s angry gaze;<br>
 “Nay! think not I could let dishonour sway,<br>
 Delay is all I seek,—a short delay.”<br>
@@ -5790,7 +5790,7 @@ While, torn by avarice and by hate, he said,<br>
 Most noble King, Count Maynard wends with, thee<br>
 To bring the ransom back; yet ere thou go,<br>
 Embrace in friendship one whom time may shew<br>
-True to thy cause, though late he seem’d thy foe.”<sup>d</sup><br>
+True to thy cause, though late he seem’d thy foe.”<sup id="ref15-d"><a href="#note15-d" class="footnote-ref">d</a></sup><br>
 &emsp;But firm Rinaldo knock’d the chains away,<br>
 And clasp’d the grateful King; “no weak delay,<br>
 ’Twere folly here another hour to waste,<br>
@@ -5825,10 +5825,10 @@ And the broad Scheldt runs foaming to the main.<br>
 No idle speed,—while yet his flying sail<br>
 Gleams in the distance, pursuit loads the gale;<br>
 Another hour, nor had his regal home<br>
-Received the King, nor England known his doom.<sup>e</sup><br>
+Received the King, nor England known his doom.<sup id="ref15-e"><a href="#note15-e" class="footnote-ref">e</a></sup><br>
 But skill’d in all that fits a seaman’s care,<br>
 The open rock to shun, or shallow snare,<br>
-Now Trenchemer joys to steer his long-lost lord<sup>f</sup><br>
+Now Trenchemer joys to steer his long-lost lord<sup id="ref15-f"><a href="#note15-f" class="footnote-ref">f</a></sup><br>
 And Sandwich hails him; thence, by all ador’d,<br>
 While myriads weep for rapture, and around<br>
 Velvet, and gold, and tapestry hide the ground,<br>
@@ -5855,7 +5855,7 @@ In Acre’s fall, or Arsouf’s glorious fight.<br>
 &emsp;Admiring, envying, dark-brow’d Maynard cried,<br>
 “Had Cæsar known thy London’s wealth and pride,<br>
 О King! or how her people held thee dear,<br>
-Not twice thy ransom would have brought thee here!”<sup>g</sup><br>
+Not twice thy ransom would have brought thee here!”<sup id="ref15-g"><a href="#note15-g" class="footnote-ref">g</a></sup><br>
 &emsp;Yet those whose fame disloyal deeds had stain’d,<br>
 In terror heard the Lion’s strength unchain’d;<br>
 St. Michael’s Castellan, whose power defied<br>
@@ -5870,7 +5870,7 @@ Hark! to their clarions now the valleys ring,<br>
 With shouts and clamorous joy they hail the King;<br>
 But blind with pride, the traitors madly deem<br>
 Those raptures feign’d, and nurse their fatal dream,<br>
-Till <span class="smallcaps">Richard’s</span> might is felt<sup>h</sup>—beneath his power<br>
+Till <span class="smallcaps">Richard’s</span> might is felt<sup id="ref15-h"><a href="#note15-h" class="footnote-ref">h</a></sup>—beneath his power<br>
 The ramparts yield, and justice claims her hour.
 
 But Asia calls the muse;—she may not dwell<br>
@@ -5894,7 +5894,7 @@ How his brave soul its loyal faith profest:<br>
 Oppression, ruling in the Monarch’s stead,<br>
 Proscribed his name, and drove him to the shade;<br>
 Yet had he bravely held the royal wood,<br>
-And John’s stout rebels fled from Robin Hood.<sup>i</sup><br>
+And John’s stout rebels fled from Robin Hood.<sup id="ref15-i"><a href="#note15-i" class="footnote-ref">i</a></sup><br>
 &emsp;Nor how the King, whose wrath his speech disarms,<br>
 His manly frankness, and Clorinda’s charms,<br>
 Gave his free pardon and his lands agen,<br>
@@ -5919,7 +5919,7 @@ And <span class="smallcaps">Richard</span>, great in honours and renown,<br>
 With more than former pomp resumes the crown:<br>
 And they at Henry’s death who loved to tell,<br>
 “How the sun set, and yet no darkness fell,<br>
-But a new day rose brighter than the last,”<sup>k</sup><br>
+But a new day rose brighter than the last,”<sup id="ref15-k"><a href="#note15-k" class="footnote-ref">k</a></sup><br>
 Exult to see that former dawn surpast.
 
 &emsp;“And now for Palestine!” the Monarch cries,<br>
@@ -5929,7 +5929,7 @@ The dreadful Crossbow; though in Christian war<br>
 The Patriarchs of the Church its use forbade,<br>
 He might not deem that sage injunction made<br>
 For those who, struggling in the cause of heaven,<br>
-Used the best means to human wisdom given.<sup>l</sup><br>
+Used the best means to human wisdom given.<sup id="ref15-l"><a href="#note15-l" class="footnote-ref">l</a></sup><br>
 &emsp;Now from his Mother’s kiss, his Bride’s embrace,<br>
 The tears, the blessings of a loyal race,<br>
 The hero bursts away, he mounts once more<br>
@@ -6003,7 +6003,7 @@ And teach his new-born heart to beat with love.<br>
 Too late I came—th’ appointed hour was o’er,<br>
 And fell with those that fell to rise no more;<br>
 On whom, from all their native birthright driven,<br>
-Almighty vengeance shuts the gates of heaven.<sup>m</sup><br>
+Almighty vengeance shuts the gates of heaven.<sup id="ref15-m"><a href="#note15-m" class="footnote-ref">m</a></sup><br>
 Too just thy fear we cannot meet again,<br>
 Thy doom is bliss, and mine, eternal pain!<br>
 Yet spurn me not—my hands are free from blood;<br>
@@ -6200,7 +6200,7 @@ And from their loves the sainted martyr sprung:<br>
 Or, how the brother of the English Queen,<br>
 Loved by the sister of Mirammolin,<br>
 When died his sire, and rebels seized the throne,<br>
-Beheld the generous Moor restore his crown;<sup>p</sup><br>
+Beheld the generous Moor restore his crown;<sup id="ref15-p"><a href="#note15-p" class="footnote-ref">p</a></sup><br>
 And she recounted how Almanzor’s pride,<br>
 With stern Seiffeddin, Saladine defied;<br>
 And thus anew her hateful nuptials crost,<br>
@@ -6221,7 +6221,7 @@ It comes, it wraps them in its scorching gloom;<br>
 Speechless they sink,—they raise the mutual eye,<br>
 Hopeless of aid, yet scarce resign’d to die;<br>
 While life, now felt but in the sense of pain,<br>
-Ebbs from each burning limb and bursting vein.<sup>q</sup>
+Ebbs from each burning limb and bursting vein.<sup id="ref15-q"><a href="#note15-q" class="footnote-ref">q</a></sup>
 
 Meanwhile Maimoune in her coral cave<br>
 Starts at her image pictur’d on the wave;<br>
@@ -6253,7 +6253,7 @@ And let these tortur’d limbs for ever bleed.”<br>
 &emsp;She snatch’d the sun-bright vase, and hover’d nigh,<br>
 Where in each other’s arms the lovers lie.<br>
 Now short and heavy came their panting breath,<br>
-Their lips are yellow with the crust of death;<sup>r</sup><br>
+Their lips are yellow with the crust of death;<sup id="ref15-r"><a href="#note15-r" class="footnote-ref">r</a></sup><br>
 But bending from her cloud, her hands of snow<br>
 Cool their stiff limbs, and bathe each burning brow.<br>
 &emsp;Painful and slow, as when distemper’d dreams<br>
@@ -6277,7 +6277,7 @@ Allays its pangs and cries “to Saladine!”<br>
 “Oh, joy unhoped! am 1 permitted still?<br>
 I fly, too blest to work thy gracious will.”<br>
 &emsp;Meanwhile from Pardo’s hands Amina quaff’d<br>
-The juicy melon’s sweet and copious draught,<sup>s</sup><br>
+The juicy melon’s sweet and copious draught,<sup id="ref15-s"><a href="#note15-s" class="footnote-ref">s</a></sup><br>
 When lo! the pelican—she flies to bring<br>
 Her young ones water from the distant spring:<br>
 “Behold, my friend!” the Arab virgin cried,<br>
@@ -6322,7 +6322,7 @@ They vex’d the Soldan’s scanty hours of rest.<br>
 He smiled, disdainful of each rebel foe,<br>
 Of taunt and threats, and calmly wrote below,<br>
 “To what protector would my subjects flee?<br>
-What seeks the Prince who scorns a friend like me?”<sup>s</sup><br>
+What seeks the Prince who scorns a friend like me?”<sup id="ref15-s"><a href="#note15-s" class="footnote-ref">s</a></sup><br>
 Truth had its force; to duty all return’d,<br>
 The proffer’d grace alone Seiffeddin spurn’d:<br>
 The Soldan wrote, and from an angry heart,<br>
@@ -6730,7 +6730,7 @@ It fails—but lo! the regal bark is nigh,<br>
 First in the morn, but now in flight the last;<br>
 O’er its steep side his weary arms he cast:<br>
 &emsp;“Turn, Monarch, turn! thy faithful comrades save!”<br>
-He spoke, and sunk exhausted in the wave.<sup>t</sup><br>
+He spoke, and sunk exhausted in the wave.<sup id="ref15-t"><a href="#note15-t" class="footnote-ref">t</a></sup><br>
 An hundred arms in instant succour vied,<br>
 And snatch’d the fainting hero from the tide.<br>
 As <span class="smallcaps">Richard</span> to his Leach the Knight consign’d,<br>
@@ -6830,7 +6830,7 @@ The fancied glory, sees his army fly!<br>
 “And who the Knight on yonder hill?” he cried:<br>
 “The King! the King!” an hundred tongues replied;<br>
 “The King on foot! then be this steed of mine<br>
-Led for his use.”—cried generous Saladine.”<sup>u</sup><br>
+Led for his use.”—cried generous Saladine.”<sup id="ref15-u"><a href="#note15-u" class="footnote-ref">u</a></sup><br>
 Forth Adel sprang to stop the flying crowd,<br>
 “Base slaves! so late of easy laurels proud,<br>
 In danger humble as in council loud!<br>
@@ -7075,7 +7075,7 @@ Now fresh from Egypt's unexhausted land,<br>
 Untaught to tremble—wilt thou waste their zeal,<br>
 Nor prove this fiend accessible to steel?<br>
 Oh! as his impious deeds shall surely shine <br>
-In Sejjin, record of the wrath divine;<sup>a</sup><br>
+In Sejjin, record of the wrath divine;<sup id="ref16-a"><a href="#note16-a" class="footnote-ref">a</a></sup><br>
 As never he in Eden's streams shall lave,<br>
 Nor quaff by Alla's throne of Tasnim's wave;<br>
 I call to war, and in the Prophet's name<br>
@@ -7083,7 +7083,7 @@ I breathe the curse that dooms defeat and shame."<br>
 He paus'd, and raising high his clenched hand,<br>
 Cast towards the Christian camp th' opprobrious sand,<br>
 &emsp;“The curse of Beder, where the Koreish fled;<br>
-Confusion, Death, upon his impious head."<sup>b</sup><br>
+Confusion, Death, upon his impious head."<sup id="ref16-b"><a href="#note16-b" class="footnote-ref">b</a></sup><br>
 Slow rose the aged Soldan, whelm'd with fate,<br>
 “See here how little Azrael spares the great!<br>
 The dark and narrow home, the simple shroud<br>
@@ -7418,8 +7418,8 @@ To some dull priest my circumstantial tale,<br>
 That he may give, at lost Alasia’s name,<br>
 With wink and shrug a royal house to shame,<br>
 And boast how all upon this changing scene<br>
-Meet sin and judgment—I, by birth a Queen!<sup>c</sup><br>
-And if I cannot, like some Sovereigns, kneel<sup>d</sup><br>
+Meet sin and judgment—I, by birth a Queen!<sup id="ref16-c"><a href="#note16-c" class="footnote-ref">c</a></sup><br>
+And if I cannot, like some Sovereigns, kneel<sup id="ref16-d"><a href="#note16-d" class="footnote-ref">d</a></sup><br>
 To pale-faced monks for stripes I scorn to feel,<br>
 Still less I deem that prayers in dying hour,<br>
 Or priestly pardons, have salvation’s power.<br>
@@ -7629,7 +7629,7 @@ While that soft light one turban’d head betray’d.<br>
 &emsp;’Twas midnight ere the pious King could raise<br>
 In Jaffa’s fane the rapturous voice of praise!<br>
 On trophied biers Llewellyn, Harold lay,<br>
-The easy price of that triumphant day.<sup>c</sup><br>
+The easy price of that triumphant day.<sup id="ref16-c"><a href="#note16-c" class="footnote-ref">c</a></sup><br>
 The grateful host, while loud their anthems peal’d,<br>
 Own’d Heav’n not more their falchion than their shield.
 
@@ -8041,23 +8041,112 @@ This remark of Saladine has been related in various ways. It is generally believ
 <a id="note09-e"></a>
 § Note (e), page 11, line 164.&emsp;*Might we that scandal to our creed restore.*
 
-This was the excuse alleged to King Richard. It was supposed to be the true Cross had been burned either by accident or in the first fury of conquest, and that the Mahommedans were unwilling to confess it. I have abridged these negotiations as much as I conveniently could. Jerusalem was esteemed as sacred by the Mahommedans as by the Christians, it having been at first chosen by the Prophet as the Kiblah, or place to which the Faithful were to address their devotions: it was also the scene of the Mérage, or his night journey to the seventh Heaven.&#160;<a href="#ref09-e"  rev="footnote" class="footnote-backref">↩</a>
+This was the excuse alleged to King Richard. It was supposed to be the true Cross had been burned either by accident or in the first fury of conquest, and that the Mahommedans were unwilling to confess it. I have abridged these negotiations as much as I conveniently could. Jerusalem was esteemed as sacred by the Mahommedans as by the Christians, it having been at first chosen by the Prophet as the Kiblah, or place to which the Faithful were to address their devotions: it was also the scene of the Mérage, or his night journey to the seventh Heaven.&#160;<a href="#ref09-e" rev="footnote" class="footnote-backref">↩</a>
 
 <a id="note09-f"></a>
 § Note (f), page 14, line 249.&emsp;*Even in his youth the foe of Saladine.*
 
-The revolutions of Egypt, at the time to which these lines allude, were too various to be more than glanced at. Chaver, or Schaour, Vizier to the Fatimite Caliph, was chased from Cairo by his rival Dargham. He applied to Noureddin, who sent Shiracoush with an army to assert his cause, and compelled the luxurious and reluctant Saladine (then only twenty-five years of age) to accompany his uncle. Dargham besought the aid oí Amalric, but it did nor arrive in time, aлd he was defeated and killed. Chaver, however, soon found that his friends were about to become his masters, and shutting the gates of Cairo against Shiracoush, formed a fresh alliance with Amalric, who had been summoned to Egypt for his destruction. The mismanagement of the King of Jerusalem made the campaign disadvantageous to the Christians, and the chimerical idea of conquering Egypt, which he retained ever after, was the source of continual misfortunes and tended to bring on the ultimate ruin of his realm.&#160;<a href="#ref09-f"  rev="footnote" class="footnote-backref">↩</a>
+The revolutions of Egypt, at the time to which these lines allude, were too various to be more than glanced at. Chaver, or Schaour, Vizier to the Fatimite Caliph, was chased from Cairo by his rival Dargham. He applied to Noureddin, who sent Shiracoush with an army to assert his cause, and compelled the luxurious and reluctant Saladine (then only twenty-five years of age) to accompany his uncle. Dargham besought the aid oí Amalric, but it did nor arrive in time, aлd he was defeated and killed. Chaver, however, soon found that his friends were about to become his masters, and shutting the gates of Cairo against Shiracoush, formed a fresh alliance with Amalric, who had been summoned to Egypt for his destruction. The mismanagement of the King of Jerusalem made the campaign disadvantageous to the Christians, and the chimerical idea of conquering Egypt, which he retained ever after, was the source of continual misfortunes and tended to bring on the ultimate ruin of his realm.&#160;<a href="#ref09-f" rev="footnote" class="footnote-backref">↩</a>
+
+<a id="note09-g"></a>
+§ Note (g), page 16, line 289.&emsp;*Its wealth, its regal honours I resign.*
+
+One half of Cyprus had been previously sold to the Templars, and in making this exchange of regal honours with Lusignan, <span class="smallcaps">Richard</span> was perhaps more governed by sound policy than would at first appear. He bartered for an empty title only a conquest which it might have been troublesome to maintain; and had he ever gained possession of Jerusalem, he would no longer have been bound in honour to uphold the claims of a monarch, whose restoration to a throne which he was unequal to fill, must probably have been followed by a second loss of his kingdom.&#160;<a href="#ref09-g" rev="footnote" class="footnote-backref">↩</a>
+
+<a id="note09-h"></a>
+§ Note (h), page 29, line 589.&emsp;*O’er the wide havoc which their winds had spread.*
+
+The destruction of Ascalon was extremely painful to Saladine; and he passed a sleepless night in great agitation before he could give the necessary orders. When he came in sight of the city he shuddered, and after a melancholy silence exclaimed, “my children are very dear to me, but I would rather lose them than touch a stone of this city; yet if the welfare of religion, and of my people, exact this sacrifice, I will make it without regret.” The Imams and Cadis insisted on the ruin of Ascalon. “The orders of Heaven must then be obeyed,” said Saladine, and commanded the citizens to quit their houses. The scene grew more and more distressing, but the Soldan relieved their sorrows as far as was in his power. The walls had been battered for many days with little success, and it was probable that Richard would not long delay his advance. The Soldan therefore set the example of destruction, and fires were lighted in every quarter. The tower which has been mentioned was soon the only building which remained standing in Ascalon.&#160;<a href="#ref09-h" rev="footnote" class="footnote-backref">↩</a>
+
+<a id="note09-i"></a>
+§ Note (i), page 32, line 664.&emsp;*’Tis said thy hatred loves the impious feast.*
+
+The Mahommedans seem to have had an idea that Richard did not scruple to eat the bodies of his enemies, and the Romance delights in making him a complete cannibal. He recovers from his illness by eating Saracen flesh, which is served up to him as pork, and afterwards feasts the ambassadors of Saladine with the heads of their own friends, expressing great astonishment at their lack of appetite. Such enormities do not appear historically to have ever tainted the character of the third Crusade; and the belief probably arose from a confused remembrance of the dreadful famine at Antioch during the first expedition to the Holy Land; when the Crusaders are said to have even disinterred the bodies of their enemies that they might feed upon them. Previously to the surrender of Antioch, Bohemond, who sought to deliver the camp from the spies by which it was infested, caused twelve Saracen captives to be slain and roasted before a large fire, proclaiming that he had discovered this resource against want, and would treat in like manner all his enemies that should fall into his hands. After Richard's arrival in Palestine, there was never any want of provisions to prompt such unnatural acts.&#160;<a href="#ref09-i" rev="footnote" class="footnote-backref">↩</a>
+
+<a id="note09-k"></a>
+§ Note (k), page 33, line 698.&emsp;*Shrined in its breast Messiah's temple rear.*
+
+The church was usually adjacent to or in the citadelle for the greater security; and as the citadelle was fixed on the most commanding height, it hence derived the advantage possessed by so many of the continental cathedrals, of being visible from a great distance.&#160;<a href="#ref09-k" rev="footnote" class="footnote-backref">↩</a>
+
+## Book X
+
+<a id="note10-a"></a>
+§ Note (a), page 43, line 6.&emsp;*Colossal works! man’s envy and despair.*
+
+As the superstition of Europe ascribes to the industry of the devil every extravagance of nature, or stupendous relic of forgotten antiquity, the traditions of the East suppose the mighty works of elder days, the ruins of Ctesipbon and Persepolis, &c. &c. to have been raised by genii, the offspring of fire, who laboured at the command of the Preadamite Sultans.&#160;<a href="#ref10-a" rev="footnote" class="footnote-backref">↩</a>
+
+<a id="note10-b"></a>
+§ Note (b), page 44, line 22.&emsp;*Abdollatiph, the pride of Asia, came.*
+
+The humanity of Saladine was aided by policy in the courtesy which he displayed towards a departing enemy. To the perishing luxuries of fruits and ices, and the ordinary gifts of Arabian horses and splendid robes, the Soldan added a supply of the precious Balm of Gilead, the panacea of the East, and sent with the presents a celebrated physician, to inquire into the malady of the French King.
+
+“Abdollatiph was born at Bagdad, and travelled, like the ancient philosophers of Greece, over many parts of Asia. He was about twenty-eight when he began his travels, and went first to Mosul and then to Damascus, but did not stay long at either. The first was engaged in the chemistry of the day, in which he was already skilled; at the second he vanquished some opponents in philology.
+
+“He now bent his steps towards Egypt, and to this journey the consent and patronage of Saladine were necessary; but when the Arabian physician arrived at the camp near Acre to solicit it, he found the Saracens bewailing a recent defeat; a defeat so honourable to the skill and valour of our English Richard, that nothing less than the late matchless defence of this fortress, by a handful of British seamen and mariners, could have eclipsed its glory; hence the lofty spirit of the Soldan was plunged into a morbid melancholy, which excluded the traveller from his presence; but the favours he received, evinced the munificence of Saladine, and he persisted in his design of exploring Egypt. One strong inducement, which influenced him on this occasion was the instruction which he hoped to derive from the society of the celebrated Maimonides, the disciple of Averrhöes; and by Alcadi al Fadel, who had in vain intreated his return to Damascus, he was furnished with such recommendations as insured him the most flattering reception.
+
+“From this intercourse with the great and learned he withdrew, however, to present himself before the Sultan; who having concluded a trace with the Franks, then resided in the Holy City.
+
+“He was received with marked respect by Saladine, who granted to Abdollatiph a pension of thirty dinars per month, as a testimony of his personal esteem and his love of science. After the death of the Sultan this sum was raised by his sons to one hundred dinars, till their unnatural uncle drove tbem from the throne of Egypt and Syria, and Abdollatiph was forced to return to Damascus.
+
+“He afterwards travelled over many parts of Asia, Aleppo, Greece, Syria, Armenia, and Asia Minor, and died at Bagdad, whither he had gone to revisit his native abode previous to a pilgrimage to Mecca.” — See White’s “History of Abdollatiph.” *Monthly Review* for 1802.&#160;<a href="#ref10-b" rev="footnote" class="footnote-backref">↩</a>
+
+<a id="note10-c"></a>
+§ Note (c), page 44, line 24.&emsp;*That Avicene or sage Averrhöes taught.*
+
+Avicene, or Avicenna, a celebrated philosopher of Bokhara, in Khorassan, died in 1036, in the 58th year of his age. Modern critics are inclined to allow him the praise of a good botanist, but his talents do not appear to have equalled his
+reputation, and the intemperance of his life disgraced his character as a physician. 
+
+Averrhöes, the contemporary of Abdollatiph and of Saladine, was born at Cordova, the principal city of the Moors in Spain. He studied theology, mathematics, and the Aristotelian philosophy, at Seville, and the fame of his talents caused the Caliph Jacob Almanzor to appoint him supreme magistrate and priest of Morocco and Mauritania. This rapid advance excited the jealousy of his rivals, who soon brought about his disgrace by the charge of heresy. His pupil Maimonides left Cordova that he might not be compelled to join the outcry against him. Averrhöes afterwards confessing himself a penitent, was restored to his honours. He died in 1206. Averrhöes appears to have deserved his fame by his temperance, his learning, and his clemency as a judge. He was a warm admirer of Aristotle, and of the medical treatise of Avicenna. He was a great commentator on the writings of others, composed many works on medicine, and is the first who records the observation that the same person could have the small-pox but once.&#160;<a href="#ref10-c" rev="footnote" class="footnote-backref">↩</a>
+
+<a id="note10-d"></a>
+§ Note (d), page 45, line 49.&emsp;*And gave that home his rebel states denied.*
+
+In the contest for the papal supremacy, the legitimate Pontiff Alexander the Third fled into France from the successful Victor, and the fury of Frederic Barbarossa by whom he was supported. Henry the Second of England, and Louis the Seventh of France, vied at first in the honours which they paid to him, but on the quarrel between Henry and Thomas à Becket, the magnanimity of Alexander refused to yield the interests of the Church to the claims of private gratitude, and the King of England became thenceforward one of his persecutors. Alexander, on the other hand, did not forget, that though deprived of his temporal power, he was still armed with the thunders of tht Church.&#160;<a href="#ref10-d" rev="footnote" class="footnote-backref">↩</a>
+
+<a id="note10-e"></a>
+§ Note (e), page 53, line 239.&emsp;*At rites that outraged every holy tye.*
+
+Henry of Champagne had been left at Acre on <span class="smallcaps">Richard’s</span> advance to Arsouf. These nuptials had still less of decency than those with Conrad, and it seemed as if Isabelle were afraid lest they should be prevented by the general execration of the Crusaders.&#160;<a href="#ref10-e" rev="footnote" class="footnote-backref">↩</a>
+
+<a id="note10-f"></a>
+§ Note (f), page 55, line 279.&emsp;*Of her he wrong’d to win his peace on high.*
+
+William Archbishop of Tyre was one of those who brought the fatal news of the loss of Jerusalem to Europe, and excited her warriors to arm for its recovery. He assisted at the council of Mayence, which was summoned by Frederic Barbarossa, and his pathetic description of the state of Palestine drew tears from Henry the Second and Philip Augustus, at the meeting which he induced them to hold at Gısors. There is some doubt whether this venerable historian were living at the time of Richard’s crusade, or whether the see of Tyre were then occupied by a second prelate of the same name.&#160;<a href="#ref10-f" rev="footnote" class="footnote-backref">↩</a>
+
+<a id="note10-g"></a>
+§ Note (g), page 60, line 388.&emsp;*Where fell the leader of the Parthian band.*
+
+The combat of Robert Duke of Normandy with the “Parthian,” at the battle of Ascalon, in the days of Godfrey, is depicted on the Bayeux tapestry. This Parthian was the standard-bearer of the Sultan of Egypt. “Le prince, frappé de la broderie d’argent et de la pomme d’or qui brilloit au dessous de la pointe de la lance, où étoit attaché le grand étendard des ennemis, l’arracha avec la vie à celui qui le portoit, en l’abattant aux pieds du Sultan.” It was estimated at twenty marks of silver, and hung up before the Holy Sepulchre, as was also the sword of the Sultan Al Aphdal, which he lost in his flight, and which was purchased of the soldier who found it for seventy besants.— *Mailly.*&#160;<a href="#ref10-g" rev="footnote" class="footnote-backref">↩</a>
+
+<a id="note10-h"></a>
+§ Note (h), page 61, line 414.&emsp;*Or our best steeds can yield a single meal.*
+
+Historical.&#160;<a href="#ref10-h" rev="footnote" class="footnote-backref">↩</a>
+
+<a id="note10-i"></a>
+§ Note (i), page 74, line 714.&emsp;*“Preserve my life!” I cried, “preserve the King!”*
+
+The generous devotion of William de Pratellis, who on this occasion saved the life of his defenceless King, is well known. I have taken a poet’s license to substitute another hero.&#160;<a href="#ref10-i" rev="footnote" class="footnote-backref">↩</a>
+
+<a id="note10-k"></a>
+§ Note (k), page 76, line 757.&emsp;*To join your Order Saladine aspires.*
+
+See the well known Fabliau of “The Order of Knighthood.” The story that Saladine was knighted by one of his prisoners, or by Humphrey of Thoron, at a tournament, and that he also procured that honour for his two eldest sons, is congenial with the belief that he died a Christian, or that he ordered his funeral alms to be equally divided between Mahomedans and Christians. Such fables at least prove the esteem of his enemies.&#160;<a href="#ref10-k" rev="footnote" class="footnote-backref">↩</a>
+
+<a id="note10-l"></a>
+§ Note (l), page 76, line 761.&emsp;*But in the bath his hardy limbs I laved.*
+
+The succeeding lines describe the ceremonies of investiture with all their mystic meaning, and the charge usually delivered to the new made knights.&#160;<a href="#ref10-l" rev="footnote" class="footnote-backref">↩</a>
+
+## Book XI
+
+<a id="note11-a"></a>
+§ Note (a), page 91, line 94.&emsp;*Fair as the bloom of Irem’s fabled bowers!*
+
+Irem was, according to Oriental tradition, the name of a magnificent city and garden, formed by Shedad the son of Ad (first king of the ancient tribe of Ad) in the deserts of Aden. The idolatrous prince intended to imitate the celestial paradise, and to arrogate divine honours, and when the work was finished he set out with a numerous attendance to view it: but having arrived within a day’s journey of the place, the whole company was destroyed by a terrible noise from heaven. The city and garden of Irem are believed still to exist as a monument of divine vengeance, but to be generally invisible to mortals. One Abdallah Ebn Colabah pretended to have accidentally reached this wonderful place while seeking for a stray camel—See Sale’s Koran. Preliminary discourse and notes.—Mr. Southey has made a fine use of the whole story of the presumption and punishment of the idolatrous tribe of Ad, in his Thalaba.&#160;<a href="#ref11-a" rev="footnote" class="footnote-backref">↩</a>
 
 
-
-Note (g), page 16, line 289. /is wealth, its, regai honours I resign. One half of Cyprus had been previously sold to the Tem¬ plars, and in making this exchange of regal honours with Lusignan, Richard was perhaps' more governed by sound policy than would at first appear. He bartered for an empty title only a conquest which it might have been troublesome to maintain; and bad he ever gained possession of Jerusalem, he would no longer have been bound in honour to uphold tlie claims of a monarch, whose restoration to a throne which he ivas unequal to fill, must probably have been followed by a second loss of his kingdom. " Note (h), page 29, line 589. O'er the wide havoc which their winds had spread. The destruction of Ascalon was extremely painful to Saladine; and he passed a sleepless night in great agitation before be could give the necessary orders. When be came in sight of the city he shuddered, and after a melancholy silence exclaimed, " my children are very dear to me, but I would rather lose them than touch a stone of this city; yet if the welfare of religion, and of my people, exact this sacrifice, I will make it without regret." The Imams and Cadis insisted on the ruin of Ascalon. « The orders of Heaven must then be obeyed," said Saladine, and commanded the citizens to quit their houses. The scene grew more and more distressing, but the Soldan relieved their sorrows as far as was in his power. The walls had been batterei! for many days with little success, and it was probable that Richard would not long delay his advance. The Soldan therefore set the exam¬ ple of destruction, and fires were lighted in every quarter. The tower which has been mentioned was soon the only building which remained standing in Ascalon.
-Note (i), page 32, line 664. ' Tis said thy hatred loves the impious feast. The Mahommedans seem to have had an idea that Richard did not scruple to eat the bodies of his enemies, and the Romance delights in making him a complete cannibal. He recovers from his illness by eating Saracen flesh, which is served up to him as pork, and afterwards feasts the am¬ bassadors of Saladine with the heads of their own friends, expressing great astonishment at their lack of appetite. Such enormities do not appear historically to have ever tainted the character of the third Crusade; and the belief probably arose from a confused remembrance of the dreadful famine at Antioch during the first expedition to the Holy Land; when the Crusaders are said to have even disinterred the bodies of their enemies that they might feed upon them. Previously tothe surrender of Antioch, Bohemond, who sought to deliver the camp from the spies by which it was infested, caused twelve Saracen captives to be slain and roasted before a large fire, proclaiming that he had discovered this resource against want, and would treat in like manner all his enemies that should fall into his hands. After Richard's arrival in Palestine, there was never any want of provisions to prompt such unnatural acts. Note (k), page 33, line 698. Shrined in its breast Messiah's temple rear. The church was usually adjacent to or in the citadelle for the greater security; and as the citadelle was· fixed on the most commanding height, it hence derived the advantage possessed by so many of the continental cathedrals, of being visible from a great distance.
-BOOK X. Note, page 43, line 6. Colossal works! mans envy and despair. As the superstition of Europe ascribes to the industry of the devil every extravagance of nature, or stupendous relic of forgotten antiquity, the traditions of the East suppose the mighty works of elder days, the ruins of Ctesipbon and Per¬ sepolis, &c. &c. to have been raised by genii, the offspring of fire, who laboured at the command of the Preadamite Sultans. Note (a), page 44, line 22. Abdollatiph, tke pride of Asia, came. The humanity of Saladine was aided by policy in the courtesy which he displayed towards a departing enemy. To the perishing luxuries of fruits and ices, and the ordinary gifts of Arabian horses and splendid robes, the Soldan added a supply of the precious Balm of Gilead, the panacea of the East, and sent with the presents a celebrated physician, to inquire into the malady of the French King. " Abdollatiph was born at Bagdad, and travelled, like the ancient philosophers of Greece, over many parts of Asia. He was about twenty-eight when he began his travels, and went first to ' Mosul and then to Damascus, but did not stay long at either. The first was engaged in the chemistry of the day, in which he was already skilled; at the second he vanquished some opponents in philology. <( He now bent his steps towards Egypt, and to this journey the consent and patronage of Saladine were necessary; but when the Arabian physician arrived at the camp near Acre to solicit it, he found tlie Saracens bewailing a recent defeat; a defeat so honourable to the skill and valour of our English Richard, that nothing less than the late matchless defence of
-this fortress, by a handful of British seamen and mariners, could have eclipsed its glory; hence the lofty spirit of the Soldan was plunged into a morbid melancholy, which exclud¬ ed the traveller from his presence; but the favours he received, evinced the munificence of Saladme, and he persisted in his design of exploring Egypt. One strong inducement, which influenced him on this occasion was the instruction which he hoped to derive from the society of the celebrated Maimo¬ nides, the disciple of Avórrhöes; and by Alcadi al Fadei, who had in vain intreated his return to Damascus, he was furnished with such recommendations as insured him the most flattering reception. " From this intercourse with the great and learned he with¬ drew, however, to present himself before the Sultan; who having concluded a trace with the Franks, then resided in the Holy City. « He was received with marked respect by Saladine, who granted to Abdollatiph a pension of thirty dinars per month, аь a testimony of his personal esteem and Híg lóvé of science. After the death of the Sultan this sum was raised by his sons to one hundred dinars, till their unnatural uncle drove tbem from the throne of Egypt and Syria, and Abdollatiph was forced to return to Damascus. " He afterwards travelled over many parts of Asia, Aleppo, Greece, Syria, Armenia, and Asia Minor, and died at Bagdad, whither he had gone to revisit his native abode previous to a pilgrimage to Mecca."—See White's History of Abdollatiph. Monthly Review for 1802. Note (b), page 44, line 24?. That Avicene or sage Averrhoes taught. Avicene, or Avicenna, a celebrated philosopher of Bok¬ hara, in Kborassan, died in 1036, in the £8th year of his age. Modern critics are inclined to allow him the praise of a good botanist, but his talents do not appear to have equalled his
-leputation, and the intemperance of his life disgraced his character as a physician. Averrhoes, the cotemporary of Abdollatiph and of Sala¬ dme, was born at Cordova, the principal city of the Moors in Spain. He studied theology, mathematics, and the Aristo¬ telian plulobophy, at Seville, and the fame of his talents causal the Caliph Jacob Almanzor to appoint him supreme magistrate and priest of Morocco and Mauritania. This ıapİd advance excited the jeaiouby of his rivals, who soon brought about his disgrace b\ the charge of heresy. His pupil Maimonides left Cordova that he might not be compel¬ led to join the outcry agamst hun. Averrhóes afterwards con¬ fessing himself a penitent, was restored to his honours. He died in 1206. Averrhoes appeals to have deserved his fame by his temperance, his learning, and his clemency as a judge. He was a warm admirer of Aristotle, and of the medical treatise of Avicenna. He was. a great commentator on the writings of others, composed many works on medicine, and is the first who records the observation that the same pei son could have the small-pox but once. Note (c), page 45, line 49. And ¡yave that home his rebel states denied. In the contest for the papal ¡supremacy, the legitimate Pon¬ tiff Alexander the Third fled into Fiance from the successful Víctor, and the fury of Fiedenc Barbarossa by whom lie was supported. Henry the Second of England, and Lotus the Seventh of France, vied at first m the honours which they paid to him, but on the quarrel between Henry and Thomas à Becket, the magnanimity of Alexander refused to yield the intereste of the Church to the cbime of private gratitude, and the King of England became thenceforward one of his peibecutor*,. Alexander, on the other hand, did not forget, that though depris ed of his tempoi al power, he was Ptill armed with the thundi.r* of tht Chmth.
-Note (c), page 53, hne 239. At ntes that outraged every holy tye Henry of Champagne had been left at Acı e on Richard's advance to Arsouf. These nuptiab had still less of decency than those w ith Conrad, and it seemed as if Isabelle were afraid lest they should be prevented by the general execration of the Crusaders. Note (d), page 55, line 279 Of her he wrong d to wm his peace on high. William Archbishop of Tyrt was one of ihosewho brought tlie fatal news of the loss of Jerusalem to Lurope, and excited her warriors to arm for its recovery. He assisted at the council of Mayence, which was summoned by Frederic Bar- barobsa, and his pathetic description of the state of Palestme drew tears from Henry the Second and Philip Augustus, at the meeting which he induced them to holdat Gısors. There is &ome doubt whether this venerable historian were living at the time of Richahd'í» crusade, or whether the see of lyre were then occupied bya second prelate of the same name. Nott, page 60, line 388. Where fell the leader of the Parthian band, 'fhe combat of Robert Duke of Normandy with the " Pai- thian," at the battle of Ascalon, in the dayfe of Godfrey, is depicted on the Bayeux tapestry. This Parthian was the standard-bearer of the Sultan of Egypt. " Le prince, frappé de la brodene d'argent et de la pomme d'or qui brdioit au dessous de la pointe de la lance, où étoit attaché le grand étendard des ennemis, 1 arracha avec la vie à celui qui le portóit, en l'abattant aux pieds du Sultan. ' It was estimated at twenty marks of silvei, and hung up before the Holy Se¬ pulchre, ль w аь also the swoid of the Sultan AI Aphdal,
-which ht lost m 1нь flight, and which was purchased of the soldier who found it for seventy besantb.— Mailly. Note (e), page 61, hne 414. Or our bed steeds can yield a single meal. Histoiical. Note (g), page 74, İme 714. " Preserve my life ' " I cried, " preserve the King ' " The generous devotion of William de Pratelhs, who on thib occasion sa\ed the life of his defenceless King, is well known. I have taken a poet's license to substitute another hero. Note (h), page 76, Ime 757. Tojom your Order Saladme aspit es. See the well known Fabliau of " The Order of Knight¬ hood." The story that Saladinewasknightedby oneof his pri- ьопегь, orbyHumphieyof Thoron, ata tournament, and that he also procured that honour for his two eldest sons, is conge¬ nial with the belief that he died a Christian, or that he ordered his funeral alms to be equally divided between Ma- homedans and Christians. Such fables at least prove the esteem of his enemies. Note (i), page 76, line 761. But m the bath his hardy limbs I laved. The succeeding lines describe the ceremonies of investiture with ail their mystic meaning, and the chaige usually de¬ livered to the new made knights.
-.book,BOOK XL Note (a), page 91, line 94. Fair as the bloom of Irem' s fabled bowers! írem was, according to Oriental tradition, the name of a magnificent city and garden, formed by Shedad the son of Ad (first king of tlie ancient tribe of Ad) in the deserts of Aden. Tbe idolatrous prince intended to imitate the celestial paradise, and to arrogate divine honours, and when the work was finished he set out with a numerous attendance to view it: but having arrived within a day's journey of the place, the whole company was destroyed by a terrible noise from heaven. The city and garden of írem are believed still to exist as a mo¬ nument of divine vengeance, but to be generally invisible to mortals. One Abdallah Ebn Colabah pretended to have acci¬ dentally reached this wonderful place while seeking fbr a stray camel—See Sale's Koran. Preliminary discourse and notes.— Mr. Southey has made a fine use of the whole story of the pre¬ sumption and punishment of the idolatrous tribe of Ad, in his Thalaba. Note (b), page 92, line 107. Tk' acacia with its ttfts of golden hair. The acacia verø, or mimosa; not the robinia pseud-aca¬ cia which so frequently usurps its name in European gardens. The flower of the genuine acacia resembles a small tuft of yel¬ low silk or hair, and its foliage is much more light and feathery than that of its false namesake. Note (c), page 92, line 125. The dusky olive, and the glowing rose. The Asiatics, notwithstanding the delight with which they dwell on the very name of a garden, seem not to carry their
+Note (b), page 92, line 107. Tk' acacia with its ttfts of golden hair. The acacia verø, or mimosa; not the robinia pseud-aca¬ cia which so frequently usurps its name in European gardens. The flower of the genuine acacia resembles a small tuft of yel¬ low silk or hair, and its foliage is much more light and feathery than that of its false namesake. Note (c), page 92, line 125. The dusky olive, and the glowing rose. The Asiatics, notwithstanding the delight with which they dwell on the very name of a garden, seem not to carry their
 ideas much beyond shade and water, and the most beauuiul and fragrant plants are said to be mixed with little tasti; or care, among wheat, barley, water-melon·», and other still coarser plants; while the ohve&, in their season of maturity, are permitted to drop charged with oil on those who ma} have bought their protection from the heat, so that the whole exlubits a mixture of beauty and desolation. Note (d), page 94, line 161. That join the Harani to the halls of man. The Haranı is usually divided from the rest of the man¬ sion by a number of dark and intricate passages, which, even if unguarded, would render its access verj difficult to stranger». Note (e), page 94, line 172. Or muidei hides the vidim and the tomo. As the manners of the East have confessedly received little alteration fiom tlie lapse of ages, and do not appear to differ materially under diíFeient jurisdictions, I have ven¬ tured to take the Authoress of the Letters from Tripoli as my guide in many of these particulars. She describes the Moorish houses, whether palace or cottage, as being all built on one model, and varying only in size and decoration. The centre is occupied by a square area, surrounded by piazzas which support four galleries, opening into as many distinct suites of apartments. Each suite consists of a large hail or sala, with an alcove on the side facmg tlie door, for the reception of visitors. From each of these halls opens eight apartments; four of them are very low and dark. They are called hozrannas and used as stoıe-ıooms. The foui above are sedas or bedchambers. The hozrannas are usually locked at dusk, and remain so till morning; as superstition has claimed them foi her own, and tells so many tales of tlie spa its of the murdeied, who are there supposed to hold their nightly vigih, that few регьопч can be found hai dy enough to vol. п. 2 с
 enter them after dark. That these dreadful storie« are not ahs as s mere fables, «us proved In а Cin »-tian, л\!ю having bii ed apartments in a Moorish liou-r. uas İl d to believe that a treasure и аь secreted in the hozranna undor hi« bed-room. His sl.ives dug, and «ere not long in dibco- vering a quantity of human bones and hair, w hieb caused them to close the ground in haste, lest the Моогч should hear of and punish their impertinent curiobit}. Note (f), page 10 Í, line 387. They from one fount the stream* of science quaff'd. They studied together under the Imam Movaftekeddin. Note (g), page 107, line 472. Or murder struck him in his inmost celt. The manner in which Hassan contrived to silence those enemies whom he did not chuse to destroy, may be shewn in the btery of the Imam Fakreddm Razi, a celebrated doctor of Persia. Fakreddm had been accused of a secret incli¬ nation to the Ismailian doctrine, and to repel the charge, he publicly anathematized its followers, from the pulpit. His conduct having been reported at Alhamout, the head¬ quarters of the Assassins, the Monarch sent one of his fedais or ministers of death, who tendered to the Imam in his master's n .ше the choice of a dagger or a purse of gold. The softer metal prevailed, and Fakreddin was given to under¬ stand that he might rely on the annual subsidy of three hun¬ dred and sixty bysants, if he would engage never again to speak ill of the sect of Ismail; but that on the slightest relapse the dagger would be inevitable. At his next preaching, the Imam, as may be well supposed, found an opportunity to praise those who had so lately experienced his malediction: and when thechange was noticed by his friends, he pithily observed, that " certain weighty and pointed arguments had induced him to a change of sentiment."
 Boon χι N UTES 387 Note (h), page 108. Ime 474. By his allianre to secute thi η «ι п. 'Пи· ]*пш*еч ч bo did not dare to attack the extraordinari, bernit who had rounded so btrange a power, and who had generally contrived to possess himself of the Wrongest moun¬ tain forts in their several dominiors, bad no scruple in offering their daughters as wives to the King of the Assassins, in the hope of protecting their own days from his secret emissaries; and st'hcn he condescended to demand the sister of one of the Caliphs, the Vicar of the Prophet obsequiously replied, that such an alliance would be an honour to the noblest family in his dominions. Note (i), page 109, line 506. Was powerless here; his army f ear d and fed. The rule of Malek Schah, son of Alp Arslan, extended farther than that of any preceding Monarch of Persia; but he found it advisable to drop the contest with the Prince oť the Assassins, though Alhamout was defended by no more than three hundred and seventy of the devoted. His power declined from the moment of his quarrel with Nizam ul Mulk, who had the singular fortune to be the favourite of two Eastern monarchs. This faithful and excellent minister, the Burleigh of the East, was atlast ruined by the intrigues of the principal Sultana, and perished by the hand of an Assassin, at the mo¬ ment when Malek Schah began to feel the want of his coun¬ sels, and to meditate his recai. Note (к), pagello, line 519. Thy heart were softer than this marble here. Some say that this warning was written on a scroll attached to the dagger; others that it was afterwards conveyed to Sandjarin a letter. It was believed that one of his Sultana». 2 с 2
@@ -8192,7 +8281,7 @@ Note (e), page 354, line 713. Tke easy price of that triumphant day. Only two pe
 
 [^46]: The historians are particular in remarking, that the rapturous and splendid manner in which <span class="smallcaps">Richard</span> was hailed at London, was the spontaneous ebullition of popular loyalty. His nobles were all engaged in subduing the rebels, and durst not desert their post, even to welcome their King.
 
-[^47]: This obstinate rebel is said to have expired with terror, immediately on receiving the news tht <span class="smallcaps">Richard</span> was again in England.
+[^47]: This obstinate rebel is said to have expired with terror, immediately on receiving the news that <span class="smallcaps">Richard</span> was again in England.
 
 [^48]: See Psalm lxxix.
 
