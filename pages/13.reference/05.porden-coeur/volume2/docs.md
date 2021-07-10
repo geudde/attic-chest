@@ -1332,7 +1332,7 @@ To shun a treaty ye so late approved,<br>
 On to Jerusalem, but vow with me<br>
 Never to leave her till you leave her free,<br>
 While our tough lances boast one barb of steel,<br>
-Or our best steeds can yield a single meal.”<sup id="ref09-h"><a href="#note09-h" class="footnote-ref">h</a></sup><br>
+Or our best steeds can yield a single meal.”<sup id="ref10-h"><a href="#note10-h" class="footnote-ref">h</a></sup><br>
 &emsp;His truncheon high exulting Bertrand shook,<br>
 “Spake I not sooth, these hateful bonds are broke!<br>
 Oh, how I love the very name of war,<br>
@@ -1641,7 +1641,7 @@ The pressing danger threaten’d <span class="smallcaps">Richard’s</span> life
 (For well I knew, by honour unreprest,<br>
 What deadly hatred fired the Arab’s breast;)<br>
 And boldly rushing ’mid the armed ring,<br>
-‘Preserve my life!’ I cried, ‘preserve the King!’<sup id="ref09-i"><a href="#note09-i" class="footnote-ref">i</a></sup><br>
+‘Preserve my life!’ I cried, ‘preserve the King!’<sup id="ref10-i"><a href="#note10-i" class="footnote-ref">i</a></sup><br>
 Nor fail’d the fraud,—though all in battle field<br>
 Had known his broomy crest and lion shield,<br>
 The peaceful garb deceived; the valleys rung<br>
@@ -1683,12 +1683,12 @@ And fain my limbs the sacred tokens wear.’<br>
 &emsp;“Amazed I ponder’d—could the holy flame<br>
 Descend to warm a misbelieving frame?”<br>
 &emsp;“‘Believe,’ he cried, ‘with no impure desires<br>
-To join your Order Saladine aspires,<sup id="ref09-k"><a href="#note09-k" class="footnote-ref">k</a></sup><br>
+To join your Order Saladine aspires,<sup id="ref10-k"><a href="#note10-k" class="footnote-ref">k</a></sup><br>
 Nor were its glory tarnish’d, should a part<br>
 Of its pure doctrines reach an Arab’s heart.’<br>
 &emsp;“So modest! thought I—could I still forbear?<br>
 I waived the vigil, waived the rites of prayer:<br>
-But in the bath his hardy limbs I laved,<sup id="ref09-l"><a href="#note09-l" class="footnote-ref">l</a></sup><br>
+But in the bath his hardy limbs I laved,<sup id="ref10-l"><a href="#note10-l" class="footnote-ref">l</a></sup><br>
 Symbol of man by vows baptismal saved;<br>
 Then at my will a simple couch he prest<br>
 In sleep, the emblem of our mortal rest,<br>
