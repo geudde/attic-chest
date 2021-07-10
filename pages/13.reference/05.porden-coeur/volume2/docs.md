@@ -8337,7 +8337,7 @@ The castles of Wallingford and Windsor, which had been at first subdued by John,
 
 Maynard de Gortz, distinguished by Hoveden as a satellite of Leopold and enemy to Richard. He was nephew to Conrad.&#160;<a href="#ref13-a" rev="footnote" class="footnote-backref">↩</a>
 
-##### \*&emsp;&emsp;\*&emsp;&emsp;\*
+<div class="center">\*&emsp;&emsp;\*&emsp;&emsp;\*</div>
 
 <a id="note13-b"></a>
 § Note (b) and (c), page 175, line 95.&emsp;*Soft Marie’s tales, Alphonso’s princely lays.*
