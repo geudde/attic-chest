@@ -2488,7 +2488,7 @@ To prove my friendship, hear one wonder more,—<br>
 Thy Monarch lives, but on a western shore.”<br>
 &emsp;He spoke, and deep the grateful liquor quaff’d,<br>
 The knight in silence took, and pledged the draught,<br>
-And sank, with deep and sudden trance opprest,<sup id="ref16-n"><a href="#note16-n" class="footnote-ref">n</a></sup><br>
+And sank, with deep and sudden trance opprest,<sup id="ref11-n"><a href="#note11-n" class="footnote-ref">n</a></sup><br>
 Ere he could ask one blessing on his rest.
 
 Sure there are hours when gentle spirits keep<br>
