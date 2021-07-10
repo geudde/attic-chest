@@ -11,7 +11,7 @@ visible: false
 ---
 
 <style>
-h1,h2,h3,h5
+h1,h2,h3,h5,h6
 {
 	font-family: "Noto Sans", Montserrat, Verdana, sans-serif;
 	text-align: center;
