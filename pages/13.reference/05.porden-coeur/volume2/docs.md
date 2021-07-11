@@ -8565,7 +8565,9 @@ The opinion entertained of Richard’s talents is shewn by the epithet with whic
 <hr class="short">
 
 <a id="note14-h"></a>
-§ Note (h), page 239, line 496.&emsp;*And tears are glistening in unwonted eyes.* Richard's defence moved the assembly to tears. Tlie heroes of the Crusades were almost as much given to weeping as those of Homer and Virgil: but the eloquence and arguments of the English Monarch seem to have produced no common sensation on the Magnates of Germany. His liberation was certainly due to their conviction of his innocence and in. juries.&#160;<a href="#ref14-h" rev="footnote" class="footnote-backref">↩</a> 
+§ Note (h), page 239, line 496.&emsp;*And tears are glistening in unwonted eyes.* 
+
+<span class="smallcaps">Richard’s</span> defence moved the assembly to tears. The heroes of the Crusades were almost as much given to weeping as those of Homer and Virgil: but the eloquence and arguments of the English Monarch seem to have produced no common sensation on the Magnates of Germany. His liberation was certainly due to their conviction of his innocence and in. juries.&#160;<a href="#ref14-h" rev="footnote" class="footnote-backref">↩</a> 
 
 <a id="note14-i"></a>
 § Note (i), page 239, line 504.&emsp;*Of Cologne weight, and of the purest gold.*
@@ -8619,7 +8621,7 @@ See Dante, Inferno, canto 28—But Henry, not John, was the name of the "young K
 > Andavan gli altri de la trista greggia.<br>
 > El capo tronco tenea per le chiome<br>
 > Pesol con mano, a guisa di lanterna<br>
-> &emsp;\*&emsp;&emsp;\*&emsp;&emsp;\*
+> &emsp;\*&emsp;&emsp;\*&emsp;&emsp;\*<br>
 > Sappi, ch’i son Bertran dal Bornio, quelli,<br>
 > Che diedi al re Giovann’i mai conforti—<br>
 > I feci ’l padre e ’l figlio in se ribelli:<br>
@@ -8772,7 +8774,9 @@ The particulars of this revolt, and the two letters of Saladine, are historical.
 <hr class="short">
 
 <a id="note15-u"></a>
-§ Note (u), page 311, line 1020.&emsp;*He spoke, and sunk exhausted in the wave.* The monarch had seen the yellow flags of Saladine on the ramparts, and turned his vessels from a port which he believed already in the hands of his enemies. Jaffa would have been lost, but for the presence of mind and intrepidity of the swimmer. The historical account of the events of this siege have perhaps a stronger interest than can easily be given to a poetical narration.&#160;<a href="#ref15-u" rev="footnote" class="footnote-backref">↩</a>
+§ Note (u), page 311, line 1020.&emsp;*He spoke, and sunk exhausted in the wave.*
+
+The monarch had seen the yellow flags of Saladine on the ramparts, and turned his vessels from a port which he believed already in the hands of his enemies. Jaffa would have been lost, but for the presence of mind and intrepidity of the swimmer. The historical account of the events of this siege have perhaps a stronger interest than can easily be given to a poetical narration.&#160;<a href="#ref15-u" rev="footnote" class="footnote-backref">↩</a>
 
 <hr class="short">
 

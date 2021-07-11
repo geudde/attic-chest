@@ -40,6 +40,8 @@ h4
 }
 hr {width: 80%; margin: auto; margin-top: 3em; margin-bottom: 2rem;}
 
+hr.short  {width: 40%; margin: auto; margin-top: 2em; margin-bottom: 2rem;}
+
 .smallcaps {font-variant: small-caps; color: maroon; font-size: 1.1rem; letter-spacing: 0.2px;}
 
 
@@ -7365,25 +7367,35 @@ He trembles lest his dream of bliss should fly.
 
 Mount Carmel is memorable in Sacred History as the spot on which Elijah confounded the priests of Baal, and also as the scene of his retirement. The cavern which the Prophet inhabited is still shewn. This mountain seems to have been indeed one of those “high places” selected for religious ceremonies in all ages, and to have witnessed them in all their variety. After the fire of Heaven had thus once destroyed idolatry, we have the authority of Suetonius, that a pagan divinity of the same name with the mountain was worshipped there. He had an altar, and sacrifices, but no temple or statue. Him the Romans transformed into the Carmelian Jove, to whom Vespasian offered a sacrifice, when he came into Syria to subdue the rebel Jews. The Convent of the Virgin next occupied the height; it was in its turn profaned by Mahommedan superstition, but was afterwards restored, and gave rise to the military order of “Our Lady of Mount Carmel,” instituted by Henry the Fourth of France. I believe this convent is still in existence. Carmel has shared the fate of the rest of Syria, where neglect and oppression have made a desert of regions that nature formed a garden. Its summit is craggy, but even there a few wild vines and olive trees attest the fertility for which it was once so famous, and whence it derived its name, Carmel signifying in Hebrew, “the vine of God.” The mountain forms one of the most remarkable headlands on the coast of the Mediterranean.&#160;<a href="#ref01-a" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note01-b"></a>
 § Note (b), page 9, line 77.&emsp;*Joy! for this night the Queen Sybilla dies*.
 
 Sybilla was daughter to Amalric King of Jerusalem, by his first wife Agnes de Courtenay, only child to Joceline de Courtenay, third and last Count of Edessa. She was first married to William Longsword, son of William the Third, Marquis of Montferrat, and elder brother of Conrad of Montferrat. By him she had issue Baldwin the Fifth. Her first husband dying, Sibylla married Guy de Lusignan, whom she is said to have chosen for his personal beauty. At her father’s death, her brother, Baldwin the Fourth, succeeded to the throne of Jerusalem: but he was a leper, and his talents, though considerable, were not equal to supply the inexperience of youth and the defects of nature. He soon fell a victim to his malady, and the unhappy realm of Jerusalem, already involved in dangers from which only the greatest prudence and courage could extricate it, devolved on the infant son of Sybilla and Montferrat. Raymond Count of Tripoli was chosen as his guardian and regent of the kingdom: but he insisted, as he was next male heir to the throne, that the custody of the young king should be shared by Joceline Count of Edessa. The character of Raymond might have been deemed above suspicion, but the event shewed that his fears were prudent, for in less than six months the little Baldwin died, and his mother succeeded him aa Queen, not without suspicion of having contributed to his death.&#160;<a href="#ref01-b" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note01-c"></a>
 § Note (с), page 11, line 109.&emsp;*The Cyprian sceptre base Comnenus sways*.
 
 At the period when the poem commences, Cyprus was in the possession of the usurper Isaac Comnenus, the descendant of that Alexius who filled the throne of Constantinople during the first Crusade, and whose hollow friendship, perhaps, cost more lives to the noble leaders whom he had invited from Europe, than his enmity could have done. It is impossible to read the history of those times, without wondering at the duplicity of the Greeks and the forbearance of the Latins. The feeling that the Greeks were Christians, and that their vow was to combat the enemies of Christianity seems to have had extraordinary force upon bands of warriors strong enough to have crushed the faithless empire, and who when in Europe were not remarkable for their moderation. In the middle ages (notwithstanding the glorious exception of two Emperors of the Comnenian line) the name of Greek appears indeed to have been synonymous with every possible aggravation of meanness, treachery, cowardice, and cruelty. Vinesauf, in a furious tirade against the Greeks, observes, that the vices of their ancestors remained to them, but that their virtues had all passed into Italy. The perfidy of Sinon, the craft of Ulysses, and the atrocity of Atreus, were still theirs by inheritance.&#160;<a href="#ref01-c" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note01-d"></a>
 § Note (d), page 12, line 148.&emsp;*Have we not crush’d Imperial Conrad’s host?*
 
 These lines allude to the disastrous event of the second Crusade. The Emperor Conrad the Third of Germany and Louis the Seventh of France pursued different roads through Asia Minor; and the valour of the Seljouk Turks of Iconium was not move fatal to the followers of Conrad, than the perfidy of the Greek guides, who injured their health by supplying them with unwholesome provisions, and either led them into deserts, where myriads perished from famine, or betrayed them to their enemies. The Emperor, at last, with less than one tenth of his original numbers, succeeded in joining the army of Louis, which had also met with many disasters, but was in greater force, and had been amused by the Greeks with tales of the feigned successes of Conrad. The battle of Laodicea followed, in which the Turks suffered a defeat so signal, that the Greeks acknowledged the moderation of the Crusaders in not having levelled Constantinople with the ground. But many miseries again awaited them on their road to Antioch, and the second Crusade terminated in the fruitless attempt on Damascus. The town was already in the extremity of despair, when the Syriac Christians became jealous that their western allies should enjoy the spoils which their valour was about to win, and by treacherously prevailing on them to change their point of attack, rendered the whole expedition abortive.&#160;<a href="#ref01-d" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note01-e"></a>
 § Note (e), page 12, line 153.&emsp;*We fill’d with leprosy the courts of kings!*
 
 The successes of Saladine had been assisted by an earthquake, which overthrew the fortifications of several cities that would otherwise have opposed him. These lines allude also to the comets and meteoric phenomena so often noticed in the history of the Crusades, to the frequent famine and drought from which the Christians suffered, and to the leprosy of Baldwin the Fourth.&#160;<a href="#ref01-e" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note01-f"></a>
 § Note (f), page 13, line 170.&emsp;*Who trifles with his friendship, sports with fate.*
@@ -7391,40 +7403,56 @@ The successes of Saladine had been assisted by an earthquake, which overthrew th
 The conduct of Frederic Barbarossa, in resenting the duplicity of the Greeks was more spirited than that of his precursors had been. In one instance he shewed his resentment by causing the standard of the western Empire to float from
 the walls of Constantinople, and Isaac Angelus found it thenceforward prudent to treat with somewhat better faith, a monarch that he found had the will as well as the power to punish him. The Sultans of Iconium followed the double policy of the Greeks, by feigning a friendship for the army whose approach they dreaded, and then profiting by its fancied security. But Frederic, though attacked in the mountains, and at disadvantage, when the two divisions of his army were at a distance from each other, gave the Turks a signal defeat. The Emperor and his son, Frederic Duke of Suabia, both distinguished themselves highly in this engagement.&#160;<a href="#ref01-f" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note01-g"></a>
 § Note (g), page 19, line 293.&emsp;*“To rule the Eagle!” cried the Prince of Tyre.*
 
 The house of Montferrat was descended from the Dukes of Saxony, and was at this period one of the most powerful in Italy. William the Third, surnamed the *Old*, had married a sister of the Emperor Conrad. He had four sons: Boniface, who received the crown of Thessaly as the reward of his achievements at the taking of Constantinople in 1203; William *Longsword*, the second son, has been already named as the first husband of Sybilla. Reynier, the third, died in the Holy Land about three years before the loss of Jerusalem. The fourth son, who after his imperial uncle bore the name of Conrad, was the most distinguished; and the graces of his person were no less remarkable than his valour. After the surrender of the Holy City, he arrived at Tyre in the very moment when the inhabitants were about to deliver up the town to Saladine. His presence inspired fresh courage, he forced the Soldan to raise the siege, and thus preserved the only city which the Christians still retained in Palestine. His assumption of the government and title of Prince of Tyre was a natural sequel to these events, but it is to be regretted that his subsequent violence destroyed the esteem which he had acquired by his talents.&#160;<a href="#ref01-g" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note01-h"></a>
 § Note (h), page 20, line 304.&emsp;*Or when her warlike peers no more obeyed.*
 
 Scarcely had Baldwin the Fifth expired, when his mother became desirous to reign in his stead, and disdained neither stratagem nor false promises to satisfy her ambition and that of Lusignan. While the Count of Tripoli assembled the Barons of the empire at Napolose, the daughter of Amalric, acting by the advice of Heraclius, Patriarch of Jerusalem, and Eudon, Grand Master of the Templars, announced her intention of separating herself from her husband, and choosing a warrior who was able to defend the kingdom: on condition that the Barons would acknowledge as king, him whom she should elect. The Barons, who expected that her choice would fall upon Raymond, readily consented. The gates of Jerusalem were closed, and Sybilla repaired to the church of the Holy Sepulchre, attended by her nobles, and crowned with a garland. Mass was sung before the sacred tomb. Heraclius vowed fidelity to her in the name of the clergy and the people, pronounced aloud her divorce from Lusignan, and commanded her in the name of Heaven to bestow her hand and the sceptre on the man whom she believed to be most worthy. Sybilla next prostrated herself, to implore the guidance of Providence in her choice; then rising, she raised the chaplet from her head, and placed it on with solemnity on the brows of Lusignan, declaring that “man could not separate those whom Heaven had united.” The nobles felt that they were duped: and if a few, imposed upon by the splendour of the scene, applauded the conjugal fidelity and affection of Sybilla, the majority foresaw the evils which so imprudent a choice was likely to bring upon Jerusalem; and the friends of Raymond, in particular, felt indignant at the elevation of one, who while he filled the high office of Regent during part of the reign of Baldwin the Fourth, had proved how unequal he was to the government of a kingdom, already involved in difficulty and danger. — Hoveden, Michaud, Mills, &c.&#160;<a href="#ref01-h" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note01-i"></a>
 § Note (i), page 21, line 342.&emsp;*Like some strong tower, stood Austrian Leopold.*
 
 Leopold Duke of Austria. Shakespeare has introduced him in his play of King John, but he died four or five years before the accession of that monarch.&#160;<a href="#ref01-i" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note01-k"></a>
 § Note (k), page 23, line 376.&emsp;*Your robes polluting with a Herald’s blood.*
 
 The Prince of the Assassins, stimulated, as is supposed, by the wish to be freed from a tribute which he paid to the Grand Master of the Templars, sent offers of alliance to Baldwin the Fourth, and a proposal to embrace Christianity with all his followers. To these advantageous terms Baldwin had agreed, but the Grand Master was loth to give up his tribute, and as the Envoy left the King’s tent, two of the Templars (some say Eudon himself) fell upon him, and dispatched him with their daggers.&#160;<a href="#ref01-k" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note01-l"></a>
 § Note (l), page 23, line 392.&emsp;*The bonds of life, this pains my sires in heaven.*
 
 In this part of my story I have followed the judgment of Messrs. Michaud, and Marin, who endeavour to repair the injustice which appears to have been done to the character of Raymond by the greater number of historians. His discontent at the election of Lusignan to the throne of Jerusalem, led him to form a party in favour of Thoron, but Thoron declined the proffered honour, and Raymond retired to his county of Tripoli. Lusignan, instead of conciliating him, determined to besiege his town of Tiberias, or Tabaria; Raymond prepared to defend it, and in his anger implored the assistance of Saladine. At this time dreadful portents were seen in heaven and earth, and the Knights Templars and Hospitallers were nearly all cut off by a Musulman army, which had advanced into Galilee, on its way, it was said, to the assistance of Raymond. The terror of this defeat appeased the discords of the Christians, and Lusignan and Raymond were reconciled. The forces of the kingdom assembled in the plain of Saphoury, to the number of fifty thousand, when intelligence was received that Saladine had taken and burned the town of Tiberias, and now besieged in its citadel the wife and three sons of Raymond, who intreated his instant succour. The Barons assembled in the tent of Lusignan, when Raymond demanded to be heard: “I am about to offer,” he said, “a counsel that will surprise all; but I give it with more confidence as it is contrary to my interest.” In a word, he declared that he could not prefer the defence of his own family and possessions to the safety of the Christians of the East; the army now assembled at Saphoury was their only hope, and that to lead it into a dry and barren desert would be its destruction. He swore before God and men that he would voluntarily abandon the county of Tripoli, and all his possessions to save the town of Jesus Christ. Their only interest was to destroy Saladine, and to preserve defenders to Jerusalem; and that all the evils which might fall upon him would become a source of good, since he endured them for the cause of his Saviour, and the welfare of his people. The more generous this advice appeared, the less was it believed sincere. The Grand Master of the Templars, blinded by his hatred to Raymond, interrupted him many times with allusions to his treaty with Saladine, and said that *the hair of the wolf might be seen under the sheep’s skin*. When Raymond invoked the name of Christ, Eudon replied that *Mahommed* would sound better from a traitor. Raymond scorned to recriminate, but offered to submit to death if events were not as he had predicted. Marin compares the blindness of the Christians to that of the Trojans concerning the prophecies of Cassandra. They persisted in accusing Raymond of treason. Yet the force of his reasoning prevailed, and it was determined to remain at Saphoury. But during the night the Grand Master of the Templars came to Lusignan, and filled him with the blackest suspicions of the treachery of Raymond. The weak Prince gave orders for the army to advance: for the first time he was obeyed, and it was for the ruin of the Christians. This army was indeed the only hope of Palestine, for even this was equipped from sources not her own. England had already begun to supply the necessities of other nations; it was supported by the treasures which Henry the Second had sent to Jerusalem; and to associate that monarch in the glory of the expedition, the arms of England were emblazoned on the banners of the Christian forces. All was lost at Tiberias: the wood of the True Cross was taken, the army was annihilated, and Lusignan a captive. If the heroic valour of Raymond on this dreadful day, if the fulfilment of his words, be not evidence of his truth, it might be inferred from the wildness and incongruity of his calumniators. Raymond found refuge at Tyre, and on his return to defend Tripoli, was attacked by a mortal illness, caused by grief at the downfall of the Christians, and the shame of having been suspected of treason by those for whom he had sacrificed everything. His ardent character changed to a deep melancholy, which ended in madness. The time of his death is variously stated. I shall say nothing of the idle stories, that he and Saladine had drank human blood as a pledge of friendship, that he fought masked against the Templars, that he had embraced Islamism, that he was smothered in his bed by his people, who wished to force him to surrender, or that he was stabbed by the envoys of Saladine. Mr. Mills, I perceive, is among those who doubt the fidelity of Raymond, but in my opinion the very violence of his character places it above suspicion.&#160;<a href="#ref01-l" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note01-m"></a>
 § Note (m), page 25, line 427.&emsp;*But lauded Hubert’s martial pilgrimage.*
 
 Hubert, Bishhop of Salisbury, and afterwards Primate of England, deserves to be singled out even from a crowd of heroes; he was one of the bravest warriors of the third crusade, and not more distinguished for his martial prowess than his Christian virtues. This prelate and the amiable Hugh, Bishop of Lincoln, form a striking contrast with the haughty Philip, Bishop of Beauvais, and the libertine Geoffrey, Archbishop of York (son of Rosamond), who became the helmet much better than the mitre.&#160;<a href="#ref01-m" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note01-n"></a>
 § Note (n), page 26, line 449.&emsp;*Till contrite hearts appeas’d the offended Lord.*
 
 As the crusades were supposed to be undertaken under the immediate sanction of Heaven, those who embarked in them expected some evident interposition of divine favour in their behalf. They disdained the common precautions of war, and murmured when they felt those evils to which their own imprudence had exposed them. In those cases, the clergy and leaders who shared the enthusiasm of their followers, or who were at least interested to support it, found their best resource in the assertion, that the crimes of the Crusaders (which were in truth sufficiently glaring) had forfeited the favour of the Almighty, and that it was in vain to hope for success, until a general reformation of manners and morals, accompanied with sincere penitence and humiliation, should first have washed away the stain. The appeal was seldom vain, reformation followed, and the enthusiasm which accompanied it frequently prepared the way to the anticipated success; and though the good resolutions which had been formed, quickly vanished in the delirium of victory, the licentiousness which ensued only gave fresh force to the next admonition. Antioch witnessed two or three of these alternations of feeling. While that city was besieged by the Christians, a severe famine led to the most horrible crimes: but the exhortations of the pious Adhemar were at length answered by a return to the strictest rules of moral discipline. Immediately afterwards Godfrey recovered from a violent illness, and a victory was obtained over the forces which were hastening to the assistance of Baghasian. It would have been heresy to doubt that these happy events were marks of the restored favour of Heaven. Again, when the Christians, having conquered Antioch, were in their turn besieged by Kerboga, and reduced to extremity by a famine still more dreadful than the former, the “pious fraud” of the Sacred Lance was the harbinger at once of the restoration of order, and the signal victory which annihilated the army of that prince. Mr. Mills has drawn a very pleasing picture of the good conduct of the Christian army before Nice. “The camp presented the rare and edifying spectacle of a chaste and sober soldiery; and although not free from the common disposition of exalting past ages at the expense of the present, the confession was drawn from the severest censors, that there was far more virtue among the crusading warriors, than among the hosts of Israel in old time. The simplicity and purity of the early church were revived. So affectionate was the union between the brotherhood, that all things were held in common. The generals not only commanded and fought, but watched, and did the most humble duties of the camp: so that the officer and the soldier were scarcely to be distinguished. Artificial discipline was needless, when virtue pervaded every part of manners,”—*History of the Crusades*, vol. I, ch. iv.&#160;<a href="#ref01-n" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note01-o"></a>
 § Note (о), page 29, line 513.&emsp;*My mother gave me, an unwilling bride.*
@@ -7453,30 +7481,42 @@ With this slender guard, five of his principal Mamlukes (for the number is speci
 
 Under the Abassides, black became the standard of the Caliphs, and has ever since continued the distinctive colour of Islam, or Mahommedan orthodoxy, in opposition to the green banner of the Fatimite Caliphs, and the white one of the Suffees “the inspired.” It has always been the custom for the principal Arabian or Moorish families to distinguish themselves and their followers by appropriate colours; of which many amusing exemplifications may be found in the History of the Quarrels of the Abencerrages and the Zegries, in the “Civil Wars of Granada.” Yellow was the peculiar badge of the house of Ayoub, the father of Saladine; and the Soldan, no less proud to display his orthodoxy than his personal power, always took care to blend the *black and yellow* in his standards. Omar, as the nephew of Saladine, bore a yellow plume, and a yellow banner. In his wars with the Christians, the Koran was always carried in state in the army of Saladine; a proof that he, no less than the Crusaders, considered himself engaged in a religious contest.&#160;<a href="#ref01-p" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note01-q"></a>
 § Note (q), page 37, line 684.&emsp;*Observes the battle, and on Мestос calls.*
 
 Some writers mention five governors of Acre; others only two. It appears certain that Karacous and Mestoc were the highest in authority. Aboul Hagia, and the other two whose names are mentioned, were probably no more than lieutenants.&#160;<a href="#ref01-q" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note01-r"></a>
 § Note (r), page 39, line 707.&emsp;*Unheeding Erard pass’d his brother by.*
 
 Erard, Count of Brienne, and Andrea his brother. This trait is mentioned by most of the writers on the Third Crusade as a striking instance of the effect of momentary fear on a mind naturally brave. Perhaps Erard did not even see his brother.&#160;<a href="#ref01-r" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note01-s"></a>
 § Note (s), page 42, line 769.&emsp;*Who own’d a kinsman in the noble Kurd.*
 
 Ismail commanded the Saracen reserve in this battle. Saladine belonged to a tribe of Kurds.&#160;<a href="#ref01-s" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note01-t"></a>
 § Note (t), page 43, line 806.&emsp;*But Lusignan his rival’s danger saw.*
 
 Perhaps there is no moment of Lusignan’s life in which he appears to so much advantage, as in this rescue of his most virulent enemy. Vinesauf, who omits no opportunity of expressing his dislike to Conrad, says “he was unworthy of his humanity.” It does not appear to have inspired him with gratitude. Lusignan would perhaps have been the victim of his generosity, but for the prompt assistance of his brother Geoffrey.&#160;<a href="#ref01-t" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note01-u"></a>
 § Note (u), page 44, line 808.&emsp;*He call’d for aid, th’ illustrious Glanville came.*
 
 Ranulph de Glanville is named among the Norman Knights, and it is therefore probable that he was a Norman by birth as well as by descent. In his youth he was a distinguished warrior; he led the armies of Henry the Second more than once, and took the King of Scotland prisoner at Northallerton. He was afterwards Justiciary of England, and is reported to have been the author of the law-book which bears his name; the earliest which gives any coherent account of English laws, and perhaps the first treatise on jurisprudence which appeared after the dissolution of tho Roman empire; but Mr. Reeves (Hist. of English Law, vol. i. p. 121) seems to think it unlikely that in those days a great political character should have been also an author. He suggests the possibility that the work might bear his name, from having been composed under his patronage and superintendance. When Henry the Second died, Glanville, to avoid engaging in his old age under a new master, took the cross, and sailed to Palestine, where he seems to have arrived soon after the commencement of the siege of Acre, about two years previous to the battle in which he fell.&#160;<a href="#ref01-u" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note01-w"></a>
 § Note (w), page 44, line 826.&emsp;*Lulo, and Karacous, and Mestoc’s might.*
@@ -7510,6 +7550,8 @@ All those frightful tales of cruelty to the unhappy wanderer, which now appear a
 
 Cyprus was at this period under the dominion of Isaac Comnenus, nephew to Manuel Comnenus, the last of that house who filled the throne of Constantinople. In the disorders which followed on the usurpation of the imperial dignity by the infamous Andronicus, Isaac fled to Cyprus, and forging letters from the new emperor, and obtaining the assistance of the fleet, sent by William King of Sicily to the Crusades, he was acknowledged as governor of that island. But he soon threw off his feigned allegiance, and usurped the imperial title.&#160;<a href="#ref02-c" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note02-d"></a>
 § Note (d), page 59, line 148.&emsp;*Was still a haven to the tempest tost.*
 
@@ -7517,35 +7559,49 @@ Cyprus was at this period under the dominion of Isaac Comnenus, nephew to Manuel
 
 Fuller commends <span class="smallcaps">Richard</span> for confnming and extending these laws. The rules which he enacted for the maintenance of order on board his fleet, though strongly marked with the character of the times, seem to have been dictated by good policy. <span class="smallcaps">Richard</span> has also had the credit of a set of regulations compiled in France under St. Louis, and chiefly borrowed from the “Consolato del Mare,” or earliest maritime code of the middle ages, which was promulgated at Barcelona in the beginning ot the thirteenth century, and being acceded to by Philip Augustus and the Count of Provence, became binding in the Mediterranean, Mr. Hallam says, that these regulations were called the “Laws of Oleron,” from an idle story that they were enacted by <span class="smallcaps">Richard</span> I, while his fleet lay at anchor in that island on its voyage to the Holy Land. But it is unlikely that another nation should give an English Sovereign the credit of any improvement which it might itself have disputed, and I think it probable that the “Laws of Oleron” originated with Richard, though they may have been first collected and consolidated under St. Louis. The time of <span class="smallcaps">Richard</span> was then too recent, for a forgery to have derived any advantage from the supposed antiquity.&#160;<a href="#ref02-d" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note02-e"></a>
 § Note (e), page 61, line 186.&emsp;*They lanced their veins, and drank the mingled gore.*
 
 Vinesauf, after having observed that Cyprus, which had formerly been a source of wealth of Palestine, now became its enemy, adds, in speaking of Isaac, “Saladino dicebatur familiaris, et mutuum singuli hausisse cruorem, in signum et testimonium initæ invicem confæderationis, tanquam ex commixtione sanguinis exterius revera fierent consanguinei.” The story is probably fabulous, but this superstitious and revolting rite of friendship does not yet seem to be totally obsolete among the Greeks.&#160;<a href="#ref02-e" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note02-f"></a>
 § Note (f), page 69, line 200.&emsp;*As guests we enter’d, but as captives staid.*
 
 This account is principally taken from Vinesauf.&#160;<a href="#ref02-f" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note02-g"></a>
 § Note (g), page 63, line 234.&emsp;*Or life or freedom may be theirs no more.*
 
 It appears to have been a custom with Isaac to rob and imprison strangers, but the rank and power of the guests whom he was now incensing should have told him that humanity was prudence.&#160;<a href="#ref02-g" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note02-h"></a>
 § Note (h), page 68, line 341.&emsp;*A boat puts off—’tis Pembroke comes at last.*
 
 The name of the clerk was Hugo del Mare, the anecdote is from Vinesauf.&#160;<a href="#ref02-h" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note02-i"></a>
 § Note (i), page 69, line 349.&emsp;*Reft of his ears, will scarce offend again.*
 
 It is a great proof of the respect in which <span class="smallcaps">Richard</span> held the laws of honour and of nations, that notwithstanding his impetuous character, and the distressed state of his vessels, he should have waited so long for the return of his ambassadors, whom Isaac had the temerity to dismiss with insult. The incident of the Seneschal is from the metrical romance of “Cœur de Lion,” in which the Emperor orders his *nose* to be cut off, and the reader is gravely informed that his face was spoiled in consequence. The story accords sufficiently with the historical character of the Usurper, and is likewise countenanced by a passage in Hoveden, which has been already noticed by Mr. Ellis.&#160;<a href="#ref02-i" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note02-k"></a>
 § Note, page 70, line 376.&emsp;*’Tis Turnham’s well known banner shines on high.*
 
 Sir Stephen Turnham, the King’s Marshal and Treasurer.&#160;<a href="#ref02-k" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note02-l"></a>
 § Note (l), page 70, line 377.&emsp;*One Bosco seized, for knighthood scorn’d not then.*
@@ -7561,6 +7617,8 @@ Sir Robert le Grosvenor distinguished himself at Messina and at Cyprus, as well 
 
 The women of Cyprus are said to be skilful in the language of flowers, and to be remarkable for their attachment to them as an ornament, in preference to any other; notwithstanding that the island abounds in mineral wealth, and that the Paphian diamonds are exported to many nations of the Levant, who value them more highly.&#160;<a href="#ref02-m" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note02-n"></a>
 § Note (n), page 80, line 603.&emsp;*The Persian tyrant’s doom, to starve on gold.*
 
@@ -7573,6 +7631,8 @@ The Persian monarch Khosroes, having an idea of causing his son Mardasan to be c
 
 The author must here beg pardon of all who may be interested in the fame of William the Second of Sicily, for having, to suit her story, bestowed upon that monarch a less amiable character than history assigns to him; in short, for having arrayed him rather in his grandfather’s colours than his own; though the appellations of the Bad and the Good are neither of them perfectly consistent with historical truth. At the death of William, Sicily became a scene of confusion. Constantia, daughter of Roger, the father of William, and married by the ambitious policy of Frederic Barbarossa to his second son Henry, afterwards emperor, was the legitimate heiress. But Tancred, the bastard offspnng of William, with the aid of a strong party in the island, which could ill brook the idea of a foreign master, or a female reign, usurped the sovereignty, and threw Matilda the widow of William into prison.<span class="smallcaps">Richard</span>arrived shortly after at Messina, wher Tancred found it prudent to set her at liberty, and to compromise the claims which <span class="smallcaps">Richard</span> made upon him for her dower, and for the wealth which William had bequeathed to Henry the Second of England, by the payment of twenty thousand ounces of gold as a compensation for the dower, twenty thousand ounces for the legacies, and by agreeing to equip ten galleys and six palanders or horse transports, for the use of the Crusaders. — *Hoveden, Mills, &c.*&#160;<a href="#ref03-a" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note03-b"></a>
 § Note (b), page 87, line 100.&emsp;*To England’s Primate gave the Cyprian crown.*
 
@@ -7580,143 +7640,201 @@ Matthew Paris gives a particular account of the ceremonies of King <span class="
 
 Dr. Milner dismisses the subject with the mention of a few of <span class="smallcaps">Richard’s</span> exploits, and speaks of his valour and magnanimity with admiration as warm as they elicited from Mr. Gibbon.&#160;<a href="#ref03-b" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note03-c"></a>
 § Note (c), page 89, line 136.&emsp;*What knights in tilting or Castilles excel.*
 
 A tournament usually lasted several days, and the exhibition of each day was different. As the tilt and the mêlée answered to the single combat and the battle, so did the Castilles to the assault of a castle. The attack was generally made with violence, and was often attended with bloodshed. In 1546 the Court of France passed the winter at La Roche Guiоп, and amused itself with the construction of Castilles, which were bombarded with snow balls. The weapon may appeal harmless enough, yet these Castuiles cost the life of the Duke D’Enghien. See M. de St. Palaye sur l’Ancienne Chevalerie. — Some idea of this martial spoit may perhaps be formed from the attack on the Castle of Beauty, at Camacho’s wedding, described in Don Quixote.&#160;<a href="#ref03-c" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note03-d"></a>
 § Note (d), page 89, line 144.&emsp;*The martial pomp, the blaze of gems and gold.*
 
 The same pride which in the Greek empire reserved the purple for members of the imperial family, extended itself to the west, where scarlet was appropriated to knighthood. To this circumstance many allusions are made in Don Quixote, particularly when a scarlet mantle is thrown over him, on his arrival at the Duke’s castle. Our forefathers were also much attached to costly furs, with which they bound or lined the mantle, as may be still seen in the state robes of our nobility. The favourite furs were the royal ermine, the miniver, the sable, the *gris*, and the vair, or grey squirrel. The knights sometimes wore surcoats of vair or other furs, whence they have been introduced in many families as the held of their armorial bearings. — *St. Palaye, &c.*&#160;<a href="#ref03-d" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note03-e"></a>
 § Note (e), page 90, line 148.&emsp;*The swan, the pheasant, all that swim or soar.*
 
 The swan was one of those royal birds which were reserved for the state banquets of our chivalrous progenitors. Modern England is apt to think its flesh somewhat coarse and tough, and I believe that Norwich is the only town which retains so much of knightly manners as to have this bird regularly bred and fattened for its civic feasts, where its presence is indispensable.&#160;<a href="#ref03-e" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note03-f"></a>
 § Note (f), page 90, line 160.&emsp;*Pressed from the golden grapes of Cyprian vines.*
 
 The Cyprus wines have long been celebrated. I have already mentioned the Commanderia, which is esteemed the best. It is principally made near Paphos, is sweet and syrupy, and may be kept open without spoiling.&#160;<a href="#ref03-f" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note03-g"></a>
 § Note (g), page 90, line 161.&emsp;*Clairette in fuming beakers, and the juice.*
 
 Metheglin, mead, or hydromel, though much fallen from the high repute in which it was held by our Saxon ancestors (who could devise no greater delight for the souls of departed heroes, than to quaff this sparkling liquor from the skulls of their enemies), is still too well known to need explanation. Pigment, hypocras, and clairette seem to have been mixtures of wine with honey and spices. The hypocras was the most esteemed. The Clairette is said to have been sometimes served warm: perhaps, if we allow the substitution of honey for the modern luxury of sugar, which the Crusades had then but partially rendered known, the familiar names of mulled wine and negus may give a tolerable idea of these favourite beverages. Vinesauf speaks in high terms of the general magnificence of <span class="smallcaps">Richard’s</span> bridal feast. Nothing was to be seen but vessels of gold and silver, enriched with precious stones.&#160;<a href="#ref03-g" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note03-h"></a>
 § Note (h), page 91, line 174.&emsp;*And each fantastic interlude between.*
 
 It was the custom at these state feasts to remain many hours at table, and the intervals between the several courses were beguiled by various “interludes,” or theatrical representations, which took place on the very table round which the guests were seated. The personages which figured in these interludes were generally allegorical, and contrived to flatter the principal guests. The machinery was probably very inferior to that now used in pantomime, and the astonishment of the historian has undoubtedly not taken from its effect, yet it often raises an idea of more ingenuity than we are apt to expect from so rude an age, A more particular account of one of these interludes will be given in the note to the Vow of the Peacock. In the History of the Civil Wars of Granada the strange devices which the knights exhibit on their entry to the tournament held by Abenamar, and the wonderful transformations which occur, are so much in the style of these interludes, as to leave little doubt that the latter must have been of oriental origin. — *St. Palaye, &c.*&#160;<a href="#ref03-h" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note03-i"></a>
 § Note (i), page 94, line 233.&emsp;*Chose for her home the court of high Navarre.*
 
 The courts and castles were excellent schools of courtesy, of politeness, and virtue, not only for the pages and squires, but also for young ladies or damsels. They were early instructed in those accomplishments which accorded with the manners of the age; were taught to receive with politeness the knights who arrived at the castle; to disarm them, to give them fresh clothes, serve them at table, and even attend to their wounds. But perhaps it would be difficult to convey a better idea of these feudal customs than is to be found in many of the speeches of that mirror of chivalry, the valiant knight of La Mancha. It was usual for the inferior knights to send their daughters for education to the castles of their feudal lord; but any lady of distinguished rank, beauty, and merit was solicited even by those whose lands lay at a distance, to accord to their children the advantages which they would derive from her instruction and example. — *St. Palaye, Ellis, &c.*&#160;<a href="#ref03-i" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note03-k"></a>
 § Note (k), page 95, line 255.&emsp;*That touch’d with tuneful skill the mandoline.*
 
 The mandoline is a sort of guitar with only one string, and the skill of the musician is shewn in causing it to produce every variety of tone. The mandoline was a very favourite instrument with the antient Spaniards, and particularly employed in serenading.&#160;<a href="#ref03-k" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note03-l"></a>
 § Note (l), page 99, line 362.&emsp;*Of stones and fire assail her haughty towers.*
 
 <span class="smallcaps">Richard</span> caused many warlike engines tobe made during his stay in Cyprus. To the largest of these the romance gives the name of Robynette.&#160;<a href="#ref03-l" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note03-m"></a>
 § Note (m), page 101, line 398.&emsp;*In loflier numbers breathed Tyrtæan fire.*
 
 Bertrand de Born was one of the most extraordinary characters of his day, and Millot, (Hist. Littéraire des Troubadours), remarks on the manner in which he has been passed over, both by literary and political historians. He was Viscount of Hautefort, in Perigueux, and began his career by depriving his brother of his share of inheritance. The unhappy Constantine obtained the support of the Count of Perigord, and Talleyrand Lord of Montagnac (ancestor to that Talleyrand, who held so distinguished a place in the cabinet of Napoleon), while <span class="smallcaps">Richard</span> of England, then only Count of Poitou, and the Viscount of Limoges, suspended their own quarrels to embrace the cause of the injured. On the other side, Bertrand was supported by the Viscounts of Ventadour, Segur, Gordou, Gévaudan, Tartas, and Turenne. The Counts of Foix, Angoulême, and Armagnac; the Lords of Puiguillen, Clarensac, Gragnel and St. Astier, great Barons, of Perigord, and, to crown the whole, the Prince Henry, elder brother of Richard, was to take the command. Many of these names are as uncouth as if they had been borrowed from the Tartars, and have little interest to an English ear, but their number shews the manner in which the fiery Bertrand always contrived to engage in his own quarrels all the princes who were within the reach of his friendship or his reproaches. As violent in love as in war, his impetuous passions exhaled themselves on every occasion in songs, which have more of the strength than the sweetness of poetry. By these he animated his soldiers, he encouraged his allies, he irritated his enemies, he sustained his own hopes; and, when the flame of war was extinguished, by these he had power to rekindle it. It would be useless to follow Bertrand through the story of his life, or rather of his wars, but some farther particulars will be given in another part of the poem. Suffice it to say, that Richard, by negotiation, contrived to avoid an engagement with his brother, and that Bertrand, after many alternations of friendship and hatred, finished by becoming the implacable enemy of the Lion-hearted King.&#160;<a href="#ref03-m" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note03-n"></a>
 § Note (n), page 102, line 412.&emsp;*Since by his valour in Messina’s fray.*
 
 During the residence of the English and French Monarchs at Messina, many affrays took place between the former and the natives; in one of these the English being victorious, <span class="smallcaps">Richard’s</span> standard was planted on the walls of the Town, in a spot which Philip considered as a part of his own quarters—Philip highly resented this insult, (the more that he was fond of displaying his feudal suzerainty) and insisted that the standard should be taken down; <span class="smallcaps">Richard</span> obeyed and peace was restored. Vinesauf, however, says, that <span class="smallcaps">Richard</span> would not remove his own standard but consented that the banner of the French King should be hoisted by its side.&#160;<a href="#ref03-n" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note03-o"></a>
 § Note (о), page 103, line 444.&emsp;*Placed on a golden dish of rare device.*
 
 Of all the “noble birds,” the peacock and the pheasant enjoyed the highest rank. They appeared only at the most splendid feasts, they were dressed with the richest spices, decorated with gold, and jewels, and borne to the table by the most distinguished ladies. To carve the peacock or the pheasant, was also one of the proud privileges of the bravest cavalier, and he to whom it was offered, was obliged in courtesy to protest his own unworthiness, and not to accept the office but upon “great persuasion.” The vow of the peacock is, perhaps one of the most romantic features of chivalry. The lady bore the honoured bird, which was always adorned with its gayest plumage, to every knight in succession, beginning with him who was first in valour and rank, and each knight was expected to signalize his courage and his love by some vow, made “before the peacock and the ladies.” When this ceremony was completed, the peacock was borne back to the table, and placed before the chosen knight, who drawing his sword, began to carve it with great ceremony, and it was expected that he should so divide it, as to give a morsel to each guest, however great might be the number. To illustrate this subject, and that of the interludes already mentioned, I will abridge a part of the account given by M. de St. Palaye of the feast held at Lille, in 1453, at the court of Philip the Good, Duke of Burgundy, on account of the crusade against the Turks, who had just reconquered Constantinople: “At last the festal day arrived. If the magnificence of the Prince was admired in the number and abundance of the courses, it shone still more in the spectacles then known by the name of *“Entremets.”* Divers decorations, machines, figures of men and uncommon animals, trees, mountains, rivers, even a sea covered with ships, appeared in the hall. All these objects, intermixed with men, and birds and other living animals, were in motion in the hall or on the table, and represented a sort of allegorical ballet. It is difficult to suppose what must have been the size of this apartment, which contained a table so spacious, besides the multitude of guests and spectators. All at once a giant appeared, armed like a Saracen of Grenada. He conducted an elephant, who bore a castle, in which was a distressed dame clothed in black like a nun. In vain she requested the giant to stop: he led her forward to the table of the Duke, and there the captive lady, who was intended to represent Religion, recited a long complaint of the evils which she suffered from the Saracens, and the tardiness of those who ought to deliver her. Toison D’Or, King at Arms of the Order of the Fleece, then advanced, preceded by a long file of pursuivants, with a living pheasant on his finger, adorned with a collar of gold and gems, and presented to the Duke two damsels, of which one was Violante, bis illegitimate daughter, and the other Isabeau of Neufchatel, daughter to the Lord of Montague; each lady being accompanied by a Knight of the Golden Fleece. Then the King at Arms offered the bird to the Duke, in the name of the ladies, who recommended themselves to the protection of their Sovereign, “to the end that the antient customs might be observed, according to which at feasts and other noble assemblies, a peacock or other noble bird was presented to the princes and lords, that they might make vows in behalf of the dames and damsels who besought their assistance.” The Duke replied, “I vow first, to God my Creator, and to the most glorious Virgin, and after them to the pheasant and the ladies,” to carry the war among the infidels, &c. &c. The signal was followed by all his court: each knight vowed to distinguish his courage against the Turks by some singular exploit; and imposed upon himself some arbitrary penance. Some would not sleep on a bed, others would not eat off a table-cloth, some would abstain from meat or wine on certain days, some would not wear a particular piece of armour, or would wear it day and night; some clothed themselves in sackcloth; in fact, the admirable ridicule of Cervantes was but the echo of these vows, which we that live in soberer days are apt to believe only the inventions of romance writers. The vows finished with a new spectacle. A lady clothed in white, like a novice, and bearing her name of *Grâce Dieu* in golden letters on her shoulder, led in twelve damsels, who represented the Virtues, which were to accompany the Crusaders. Each bore her name also embroidered in gold, and recited a few verses. These twelve ladies were the knightly virtues of Faith, Charity, Justice, Reason, Prudence, Temperance, Fortitude, Truth, Generosity, Diligence, Hope, and Valour, *Et toutes enfin commencèrent à danser en guise de mommeries, et à faire bonne chère pour remplir et rachever plus joyeusement la fête.”* One of the most singular of these fantastic scenes is the Vow of the Heron, which forms the subject of an ancient poem, printed also by St. Palaye. The Count D’Artois being banished from France, took refuge in London. One day his falcon caught a heron. The Count was at first indignant at so vile a capture, but afterwards gave orders to his “officiers de la bouche” to pluck and dress it. At night, when Edward the Third was at supper with his nobles, his Queen and her damsels, he entered, attended by minstrels and two noble ladies, bearing the heron between two silver plates, and advancing with great state to Edward, presented to him this most cowardly of birds (which is said even to fear its own shadow), as the reward of his indifference for a crown which he allowed to remain in the hands of his rival. Stung with this taunt, the enraged King swore that the year should not pass before Philip should see him in France, bearing fire and sword, to avenge this affront, were the French army ten times greater than his own. The Count D’Artois then went round to the nobles, and all hastened to bind themselves by some wild condition. The gallant Sir Walter Manny, whose ancestor accompanied <span class="smallcaps">Richard</span> to the third crusade, engaged to take a certain town defended by Godemar du Fay. The Earl of Salisbury declared, in honour of the lady of his heart (the daughter of the Count D’Erby), that he would not uncover his right eye during the war. It is impossible to read the vow made by Queen Philippa without shuddering, for she called heaven to witness that she would destroy herself and her unborn infant, if the period of its birth should arrive before her husband had taken her across the seas, in acquittal of her oath. Edward was filled with horror at her words, and forbade the vows to be continued. The heron was cut up and eaten. Froissart mentions, that at the battle of Poitiers there were many young knights who had one eye covered with cloth, and that they had sworn to their ladies not to restore it to its use till they had signalized their prowess in France. But most of these conceits were the refinements of a later age of chivalry than that in which the poem is placed.&#160;<a href="#ref03-o" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note03-p"></a>
 § Note (p), page 105, line 481.&emsp;*Next sate D’Arselles, and high St. Valery’s heir.*
 
 Louis D’Arselles and Bernard de St. Valery, two noble Normans, who are mentioned in the annals of that country among the “Preux Chevaliers” of the third crusade.&#160;<a href="#ref03-p" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note03-q"></a>
 § Note (q), page 105, line 482.&emsp;*And stout St. John, and Arnulph of St. Clair.*
 
 Roger de St. John, descended from the family of Ports, Lords of Basing, in Southampton, from the time of the Conquest, and maternally from William de St. John, of St. John, near Rouen, who came to England with William the Conqueror, as grand-master of the artillery, and supervisor of the waggons and carriages; whence the horses’ hemes, or collar, was borne as his cognizance. One of his descendants was second wife of Bernard de St. Valery, Lord of Ambroseden, in Oxfordshire, and who took his name from the castle and town of St. Valery, in France, whence the Conqueror sailed to England. This Bernard was, I believe, the grandfather of the Bernard already mentioned.&#160;<a href="#ref03-q" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note03-r"></a>
 § Note (r), page 105, line 482.&emsp;*And stout St. John, and Arnulph of St. Clair.*
 
 Another Norman, who appears, in the history of that country, as one of its bravest crusaders.&#160;<a href="#ref03-r" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note03-s"></a>
 § Note (s), page 105, line 483.&emsp;*Harvey, whose axe was never rais’d in vain.*
 
 The Harveys, anciently Fitz-Harveys, descended from Robert Fitz-Harvey, younger son of Harvey Duke of Orleans, who came over to England with William. Harvey de Yuon, in the reign of Henry the Second, died on his way to the Holy Land. His son, Henry de Harvey, accompanied <span class="smallcaps">Richard</span>. Of this family come the Earls of Bristol.&#160;<a href="#ref03-s" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note03-t"></a>
 § Note (t), page 105, line 484.&emsp;*And Nevile, skilful on the troubled main.*
 
 Henry de Nevile, descended from Gilbeit de Nevile, who was admiral to William the Conqueror. Henry died without issue, but his sister, Isabel, was the maternal ancestor of the Earls of Abergavenny, who thence bear the name of Nevile, and the motto *Ne vile velis*.&#160;<a href="#ref03-t" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note03-u"></a>
 § Note (u), page 105, line 485.&emsp;*Spencer, whose name was to his office due.*
 
 Hugh, fourth son of Thuistan le Despencer, steward to Henry the First. The office had been hereditary from the days of William the Conqueror, and gave its name to the family. The *de* was afterwards omitted by some branches, hence Spencer.&#160;<a href="#ref03-u" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note03-x"></a>
 § Note (x), page 105, line 486.&emsp;*And Ferrars’ valiant Earl, and Fortescue.*
 
 Henry, Earl of Ferrars, in Normandy, was rewarded by the Conqueror with the lands of Etingdon, in Warwickshire, which had belonged to the family of Sewell from the time of Edward the Confessor. Sewell, however, still held the manor under Count Ferrars, whom he acknowledged as his feudal lord; and one of his descendants married the heiress of the Norman Earls, and thus regained his ancient honours. A similar fortune attended the representatives of many of the dispossessed Saxons.&#160;<a href="#ref03-x" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note03-y"></a>
 § Note (y), page 105, line 489.&emsp;*Grosvenor, whose house held kindred with the Dane.*
 
 The ancestors of this family came from Denmark with Rollo, and settled in Normandy, where they took their name from the office of master of the royal buck-hounds. Gilbert le Grosvenor, who accompanied William to England, was nephew to Hugh Lupus, Count of Avranches, and first Earl of Chester, himself nephew to the Conqueror. The ample possessions of this family in Cheshire and the adjacent parts of Wales are well known.&#160;<a href="#ref03-y" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note03-z"></a>
 § Note (z), page 106, line 501.&emsp;*The brave De Vaux, in arms a mighty name.* Ranulph, or Robert de Vallibus, corrupted into De Vaux, one of the ancestors of the family of Dacre: that Barony having originally belonged to the family of De Vaux, of whom three brothers settled in England after the Conquest.&#160;<a href="#ref03-z" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note03-aa"></a>
 § Note (aa), page 106, line 502.&emsp;*And Roland, who from stout Belasius came.*
 
 Belasius (now Belasyse, Earls Fauconberg) was a Norman knight, who accompanied the Conqueror to England. I have ventured to substitute the family name of Roland for that of Robert, which belonged to his descendant under <span class="smallcaps">Richard</span> the First.&#160;<a href="#ref03-aa" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note03-bb"></a>
 § Note (bb), page 107, line 522.&emsp;*With Dædalean art for beauty’s fairest flower.*
 
 Patric, Earl of Salisbury, being the King’s lieutenant in Acquitaine, was slain by Guy de Lusignan (afterwards King of Jerusalem), on his return from a pilgrimage to St. James, in Galicia, leaving Ela his sole daughter and heir, of whom, says Dugdale, it is reported, that being so great an inheritrix, one William Talbot, an Englishman and an eminent soldier, took on him the habit of a pilgrim, and went into Normandy, where wandering up and down for two months, he at length found her out. He then disguised himself as a harper, and being practised in mirth and jesting, became well accepted at the court where she resided. Here becoming acquainted with her, he after a while took her to England, where he presented her to King <span class="smallcaps">Richard</span>, who received her courteously, and bestowed her in marriage on William Long Espee, one of his father’s sons by the Fair Rosamond, at the same time surrendering to William the Earldoms of Rosmar and Salisbury as her inheritance. Ela was descended from Walter de Eurus, Earl of Rosmar, who came to England with the Conqueror, and whose surname still lives in the noble house of Devereux.&#160;<a href="#ref03-bb" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note03-cc"></a>
 § Note (cc), page 107, line 426.&emsp;*And Curzon’s pride, the youthful Giratine.*
 
 Properly Robert or Richard, but Giraline is a family aame.&#160;<a href="#ref03-cc" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note03-dd"></a>
 § Note (dd), page 108, line 533.&emsp;*And Harley, sprung from that victorious Thane.*
 
 The family of Harley is so ancient, that that of Harlai, one of the most eminent in France, is believed to be descended from it. One of this house, in 1013, commanded an army under King Ethelred, and defeated Swane, King of Denmark, near Pershore, thus saving the town. Sir William de Harley was distinguished under Godfrey of Bouillon, and was one of the fiist Knights of the Holy Sepulchre. He was buried in the Abbey of Pershore, where his tomb still remains, and was the only one which escaped in the time of Henry the Eighth.&#160;<a href="#ref03-dd" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note03-ee"></a>
 § Note (ее), page 108, line 537.&emsp;*The noble Harcourt next, in whom combine.*
 
 The house of Harcourt is descended from Bernard, of the blood royal of Saxony, who being born in Denmark, was surnamed the Dane. He was chief counsellor to Rollo, and second in command in his descent on Normandy in 876. He was afterwards minister to William Longsword, Rollo’s son and successor, and guardian to his child during his minority. He married a lady of the royal family of Burgundy; from his eldest son descended the ancient Earls of Leicester, while the offspring of the second took the name of Harcourt, and were renowned both in England and France. The Sir Robert Harcourt mentioned in the poem was the son of Ivo, and inherited his father’s English possessions, leaving those in Normandy as the portion of his brothers, but it was properly his descendant William, the same that took so distinguished a part in the siege of Damietta in 1218, that acquired the surname of the Englishman. The Harcourts seem to have been particularly stricken with the mania of crusading, and there is scarcely a single expedition to the Holy Land of any importance, in which they were not conspicuous.&#160;<a href="#ref03-ee" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note03-ff"></a>
 § Note (ff), page 108, line 542.&emsp;*The conquer‘d spoils, and fame of Егin’s war.*
 
 William Marshall, Earl of Pembroke, Strigulph Strongbow, Earl of Clare, and Robert Fitz-Harding, Lord of Berkeley castle, were the three warriors most distinguished in the conquest of Ireland under Henry the Second. The Fitz-Hardings were descended from the Kings of Denmark, and came to England with the Conqueror. In 1168 Robert Fitz-Harding entertained, at Bristol, Dermot Mac Murrough, King of Leinster, with a company of sixty followers, when he came to England to solicit aid from Henry: which event brought on the war with Ireland.&#160;<a href="#ref03-ff" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note03-gg"></a>
 § Note (gg), page 108, line 546.&emsp;*The silver stags upon an azure bend.*
 
 Lydulph, of Audleigh in Staffordshire, eldest son of Adam de Audley, bore his father’s arms, Gules, a fret Or, and was progenitor of the Lords Audley. Adam, the second son, bore the same arms, with a label of three points Azure in chief, for difference. It was his son, William de Audley, who becoming possessed of the manor of Stanley in Staffordshire (so called from its rough and stony soil), took the surname of Stanley. The arms of this branch (now Earls of Derby) are, on a bend Azure, three stags heads Argent.&#160;<a href="#ref03-gg" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note03-hh"></a>
 § Note (hh), page 110, line 579.&emsp;*His name renow’nd on earth, his “Hope in Heaven.”*
@@ -7726,6 +7844,8 @@ The name of Percy comes from a town in Lower Normandy, near to Villedieu, and no
 Their son, Alan, called the great Alan, was also so benificent to the Abbey, as to acquire the title of its second founder; but his warlike achievements are wrapped in oblivion. He had seven sons, and the eldest of these had four children, but they died early, and he and his brothers passed away and left no heir. Maud, the eldest daughter, had married William de Plesset, Earl of Warwick: but he also died childless in Palestine, and the only hope of succession remained with the youngest daughter Agnes. She married Josceline de Lovain, son of Geoffrey Barbatus, Duke of Nether Lorrain, Count of Brabant and Lovain, and brother to Adelicia, second wife of Henry the First of England. He took the name of Percy, but was permitted to retain his hereditary device, *Or, a lion rampant, azure*, which with a change of colour only, is still the arms of Brabant and Hainault. Josceline was of one of the noblest families in Europe, being descended from Charlemagne, and from the illustrious Duke Regnier, who was taken prisoner by Rollo the Dane.
 
 Henry de Percy was the true representative of this illustrious line at the time of <span class="smallcaps">Richard’s</span> Crusade; but to avoid confusion, from the endless repetition of the same familiar name, I have changed it to one frequent in the family annals. In 1234 his younger brother Richard had contrived to get possession both of lands and honours, and it was not till after a solemn trial before Henry the Third, that his nephew William (son of Henry de Percy) obtained justice. The motto alluded to in the text is, “Espérance en Dieu.”&#160;<a href="#ref03-hh" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note03-ii"></a>
 § Note (ii), page 110, line 593.&emsp;*His look appall’d, and death was in his blow.*
@@ -7738,6 +7858,8 @@ own husband, was killed by him in the attempt. Their son Ascelin (sometimes call
 The second son of Ascelin, William, surnamed *Lupellus*, or *the little wolf*, rebelled against Henry the First. After an unsuccessful battle, he was taken prisoner by a peasant, but bribed him with his arms to let him escape. The peasant shaved him in the manner of an Esquire, and carrying a staff in his hand he reached the Seine, where he was forced to give his shoes to the boatman for his passage, and so go barefoot home.
 
 William took part with Matilda against Stephen. After his death the surname of Lupellus seems to have become general among his descendants.—Richard his fifth son continued the line, and being nearly related to Earl Strigulph whose mother was like his, a daughter of the Earl of Mellent, he accompanied him in his Irish expedition—and was with <span class="smallcaps">Richard</span> in the Holy Land. I ought to apologize for the length of this note, but the history of this family seemed to me to present so good a view of the darker manners of the times, of the discourteous Barons against whom knight errantry was really useful, that I felt unwilling to curtail it.—Ascelin must certainly have been one of the greatest as well as one of the worst men of his time.&#160;<a href="#ref03-ii" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note03-kk"></a>
 § Note (kk), page 115, line 688.&emsp;*And wondering wisdom warbled from his tongue.*
@@ -7753,6 +7875,8 @@ But perhaps the most ridiculous proof of his wildness, was that elicited by his 
 
 This folly, however, scarcely ever touches his writings, and the moment that the muse possessed his fancy, she seems to have inspired him with a discrimination and prudence, which it would have been well if he could have carried into the affairs of life. His tale of the Jongleur not only gives admirable lessons to the young Troubadour for his conduct in the world, but some hints by which his patrons might be benefited. He also composed a treatise on the government of the tongue, an invective against Philip Augustus for not redeeming the Holy Sepulchre; another against the King of Spain, for buying peace from the Moors instead of subduing them. He complains of the conduct of the priesthood, and the encouragement given to heresy by their bad lives. And, finally, he launches into invective against the Emperor Henry the Sixth, for detaining <span class="smallcaps">Richard</span> in prison, against the faith of nations and the privileges of Crusaders. In short, his themes were various, and generally handled with power.&#160;<a href="#ref03-kk" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note03-ll"></a>
 § Note (ll), page 119, line 792.&emsp;*This zeal in age is fed with Christian blood.*
 
@@ -7764,25 +7888,35 @@ One of the first exploits of Saladine was the overthrow of the Egyptian or Fatim
 
 Yemen, or Arabia Felix, was conquered for Saladine by his brother Touranschah, a man whose bloody and violent disposition formed a strong contrast to that of the Soldan. Saladine was long engaged in war with the Sultans of Mosul, whom after a violent contest he subdued.&#160;<a href="#ref03-mm" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note03-nn"></a>
 § Note (nn), page 120, line 806.&emsp;*My fatal reign, my sorrow, and my shame.* 
 
 There is little temptation to enlarge on the melancholy picture presented by the last years of the kingdom of Jerusalem. Amalric was a brave soldier, and might have made his power respectable, but his avarice and inconsistency ruined his cause. The blind passion with which he sought to obtain the wealthy dominion of Egypt led him into long and useless wars, while at the same time he had the inconceivable folly to sell some of his strongest fortresses to the Saracens and the next moment to break the peace formed with them, if the slightest prospect of advantage was held out from another quarter. His son Baldwin the fourth was only thirteen when Amalric died, and was afflicted with leprosy. Raymond of Tripoli became Regent during his minority, but his reign from the first hour of its commencement was disturbed by the dissensions of his nobles. As Baldwin grew up to manhood he took the reins of government into his own hands and signalized his brief authority by the complete defeat of Saladine near Ascalon. But his spirit and activity gave way beneath a fresh attack of disease; an unworthy jealousy of the power and commanding character of Raymond led him to prefer Lusignan as Regent, and he soon after died, leaving the crown to Baldwin the Fifth, the infant son of Sybilla, and William of Montferrat. The events immediately subsequent have already been noticed in the First Book.&#160;<a href="#ref03-nn" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note03-oo"></a>
 § Note (oo), page 121, line 832.&emsp;*And at my feet down dropp’d Chatillon’s head.*
 
 The humanity of Saladine, and the cruelty of <span class="smallcaps">Richard Cœur de Lion</span>, are phrases which must be familiar to many of my readers.—It is not my wish unduly to exalt the character of my hero, neither would I rob the Conqueror of Jerusalem of one well earned laurel. His conduct to the vanquished in the City deserves the highest praise, and is an instance of that generosity of which the history of the East offers so many striking examples, and which does not in those climes appear incompatible with acts of the greatest cruelty in the same individual. Rinaldo of Chatillon was the object of peculiar resentment to Saladine. Raised by the preference of Constantia, widow of Raymond of Poitiers, to the throne of Antioch, he was for many years the captive of Noureddin. When he regained his freedom, Bohemond, the son of Raymond, was old enough to govern his dominions, and Constantia was no more. Rinaldo married the widow of Humfrey of Thoron (father to the Thoron who appears in the poem) and thus became Lord of the impregnable fortresses of Carac, and Krak or Montroyal. From this latter place he ravaged the frontiers of Arabia, and when peace was concluded with Saladine, still continued his incursions. Saladine remonstrated to the King of Jerusalem, but Baldwin the Fourth had not power to punish or restrain his vassal. Rinaldo who had often plundered the caravans of Mecca and Medina, now conceived the bold project of penetrating even to those cities, and of pillaging the Caaba and the Tomb of the Prophet. Assisted by a band of Templars, he surprised the Egyptian merchants, who were conveying along the Red Sea, the treasures of India, and entered triumphant into countries which had never yet beheld the Christians. He reached the valley of Rabid, about ten leagues from Medina, where he was attacked by a Syrian army and defeated. Rinaldo and a few others escaped as by miracle to Krak. Part of the prisoners were executed as criminals, and we have the authority of the Arabian historians, Schahabeddin, Tabari, and Aboul-Feda, for stating that the rest were immolated at the same time with the victims sacrificed at the ceremony of the Grand Beiram. This horrible execution did not satisfy the vengeance of Saladine, and he invaded Syria, incessantly repeating the vow to kill Chatillon with his own hand. It was not, however, till the battle of Tiberias, that this daring warrior fell into the hands of the Soldan, when the circumstances of his death are faithfully given in the poem. The day after the battle witnessed a scene which was still less in accordance with the humanity ascribed to Saladine. He caused such of the Knights of the Temple and of St. John, as were among the prisoners, to be led before him, and declaring, that he “would deliver the earth from those two abominable races,” he permitted the emirs and doctors of the law, who surrounded him, to kill each a knight. Loaded with chains and incapable of resistance, these devoted warriors disputed with each other the honour of first receiving the crown of martyrdom, and many who had never belonged to the military orders, cried aloud, that they were Templars or Hospitallers, and gloried in partaking their fate. Saladine, seated on his throne, beheld and applauded the execution.&#160;<a href="#ref03-oo" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note03-pp"></a>
 § Note (pp), page 121, line 836.&emsp;*Compell’d at length to own the Soldan’s reign.*
 
 After the battle of Tiberias, in which Lusignan was taken prisoner, Jerusalem, under the orders of the veteran Baléan D’Ibelin, made a more resolute defence than could have been expected from its destitute condition; but was at last forced to surrender. The Latin historians remarked that the Crusaders had entered the Holy City on a Friday, at the very hour when their Saviour submitted to death to atone the crimes of man. The Saracens re-took the town also on a Friday, the Mahommedan day of religious observance, and, according to their belief, on the anniversary of the day when their prophet arose from Jerusalem on his miraculous journey to Heaven: but an eclipse of the sun, which took place at the moment the conditions of surrender were adjusting in the tent of Saladine, was regarded as an evil omen.&#160;<a href="#ref03-pp" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note03-qq"></a>
 § Note (qq), page 123, line 866.&emsp;*“And the twelfth moon” he said, “shall find him free.”*
 
 Saladine was touched by the grief of Sybilla, and promised that as soon as his power was established, he would restore her husband to liberty. He also felt for those who had lost their friends at Tiberias, and liberated such of their sons or husbands as were among his prisoners. Many of the Christians had abandoned all their wealth, to bear out on their shoulders their infirm friends or parents. Saladine rewarded their disinterestedness by liberal gifts, and permitted the Hospitallers to remain in Jerusalem to nurse the sick.&#160;<a href="#ref03-qq" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note03-rr"></a>
 § Note (rr), page 125, line 908.&emsp;*And Acre fall, and Palestine be free.*
@@ -7796,90 +7930,126 @@ See Rastell’s Chronicle, Origin of the Garter. “Some do affirme that this or
 
 Vinesauf speaks of the Bedouins or Bedeuvini, “horrible, darker than smoke, bearing the bow and quiver and the small round shield.”&#160;<a href="#ref04-a" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note04-b"></a>
 § Note (b), page 134, line 34.&emsp;*And Rome’s degenerate eagles learn’d to dread.*
 
 Some of the most splendid monarchs of Persia belonged to the Seljoukian dynasty, which expired in the year 1194. The kindred Sultan of Roum, whose capital was first at Nice, and afterwards at Iconium, rent many of its fairest provinces from the Greek empire, and maintained itself till 1308. It is from this branch of the Seljouc Turks that the Ottomans now upon the throne of Constantinople are descended. The Seljouc dynasties of Caramania, of Aleppo, and Damascus, were of shorter date. The last was that of Damascus, which city was given up to Noureddin by Ayoub, the father of Saladine, who was then Vizir to the last Seljouc prince, Modgireddin Abe. Ayoub had been under great obligations to Noureddin, and his brother, Shiracoush, was then in his service. The Sultan rewarded them both with liberality, and Ayoub received the government of the yielded town as the meed of his treachery. These two emirs were also endowed with the peculiar privilege of sitting in the presence of Noureddin, without waiting for permission.&#160;<a href="#ref04-b" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note04-c"></a>
 § Note (c), page 136, line 64.&emsp;*The placid Soldan fill’d his simple throne.*
 
 Luxury has been the common reproach of the east: yet it may be remarked, that its greatest conquerors, at least in modern days, have been distinguished by the simplicity and even austerity of their manners. Such were Noureddin and Saladine, Ghenghis Khan, and his descendant Tamerlane.&#160;<a href="#ref04-c" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note04-d"></a>
 § Note (d), page 136, line 71.&emsp;*And Aladin, whom youth’s warm hopes inspire.*
 
 From the many names which belong to these young princes, I have endeavoured to select those most capable of being moulded into English verse. The history of the Arabs (Universal History) relates, page 514, that Saladine, having alighted from his horse to take a more ceremonious leave of Kaisar Shah, son of Kilidge Arselan, Sultan of Iconium, and who had married a daughter of Malek Adel, Kaisar Shah in return held the stirrup and assisted the Soldan to remount, while Aladin arranged his clothes, on which a bystander observed, “O, son of Ayoub, you need not now care what death you die; a prince of the house of Seljouc has helped you on horseback, and a descendant of the Atabek Zenghi has adjusted your garments.” Seiffeddin, the father of Aladin, had been engaged in long and ruinous wars with the Sultan, and his friendship was never cordial.&#160;<a href="#ref04-d" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note04-e"></a>
 § Note (e), page 138, line 108.&emsp;*The labouring steers drag on the ponderous towers.*
 
 These towers were similar in nature to those employed by Godfrey at the siege of Jerusalem, and even in an age when we hear familiarly of the destructive powers of our modern artillery, there is something imposing in the account of such gigantic engines; these were higher than the walls of the city, and each was capable of containing five hundred men. They consisted of three stories: in the first story were the battering rams; in the second, the Balistæ and Catapults, which threw darts and stones to the distance of one hundred and twenty-five feet. The stones were from three hundred to four hundred pounds weight; they crushed the roofs of houses, overturned the machines of the enemy, and shook the walls: the third and last story contained one hundred warriors, who were armed with axes, maces, &c, and protected by a roof from the stones and fire which were hurled from the engines of the besieged. It was also provided with a *pont levis*, or flying bridge, which could be let down upon the walls. These moving castles were raised upon wheels, and covered with leather hardened in vinegar, to render them impenetrable to common flame, and to the ordinary Greek fire. After the earth had been levelled, and a part of the fosse filled up, they were rolled forward by means of levers. See *Mailly, Marin, &c.*&#160;<a href="#ref04-e" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note04-c"></a>
 § Note (f), page 138, line 121.&emsp;*To shivering want his own rih mantle gave.*
 
 The banners of France were three, the royal or personal standard of the King, the “Chape de St. Martin,” and the oriflamme. The royal standard was a square banner, or gonfalon, of a blue colour, and powdered with lilies of gold. This was usually entrusted to some vassal of valour and consequence, who was called the gonfalonier, a name in later years confined to him who bears the standard of the Holy See. At the battle of Bouvines, the standard of Philip Augustus was borne by Gallon de Montigny, who, when the King was unhorsed, gave notice of his danger by lowering it several times. The “*Chape de St. Martin*,” according to Le Gendre, was a banner of taffeta, on which the Saint was depicted, and which had acquired extraordinary virtues, from having been allowed to remain some time upon his tomb. Other writers assert that it was the mantle of the Saint, and some have pretended that it was worn by the Kings of France in battle. Others suppose it to have been the banner belonging to the Abbey of St. Martin of Tours, and others again contend that it was not a banner, but a coffer or portable pavilion, containing the relics of many saints, and among others those of St. Martin, which the Kings of France held in the highest veneration. Whichever of these opinions may rest on the best authority, the presence of the Chape de St. Martin was supposed to ensure victory, and its place in battle was immediately after the royal standard. The oriflamme has been already considered, but the dignity of bearing it was sought by the most renowned knights, and contested with almost as much eagerness as the principal command, at least if we may judge from the instance of Arnoul d’Andrenhem, who under Charles the Fifth resigned his office of Maréchal of France, that he might exercise that of *Porte Oriflamme*. The bearer, however, had no authority, except over the troop at the head of which he carried his banner; but that troop consisted of all which chivalry could boast, of most noble and most valiant:—added to which, the oriflamme was always in the van, either in march or in battle, consequently in the post of danger and honour; and when it was present, even the banner of the King became of small account, and was called only the royal pennon. Nothing can more decidedly mark the respect in which the oriflamme was held, than the oath administered to the bearer. “You swear and promise, on the precious body of Christ Jesus, here present, and on the bodies of Monseigneur St. Denis and his companions, here also, that you will loyally, in your own person, guard and govern the oriflamme of our Lord the King, also present, to the honour and profit of himself and his kingdom, and that you will not abandon it, neither for the fear of death nor for any other cause, but that you will in all things do your duty as beseems a good and loyal knight towards your Sovereign and liege Lord.” — See *Mailly*, vol. i.&#160;<a href="#ref04-f" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note04-g"></a>
 § Note (g), page 142, line 205.&emsp;*While Philip’s hand his keen francisque displayed.*
 
 The francia or francisque, a kind of battle-axe, from which the Franks are supposed to have derived their name, as the Saxons did from the se-ax, a similar weapon which they used in battle. Some modern authors assert that the axe and bipennis were solely used by the Danes. Perhaps a weapon of this sort was originally employed by all the barbarous tribes of northern Europe, but relinquished in the progress of civilization; and the Danes being the last of the northern invaders, might also be the last to abandon it. — *Smith’s Antient Costume of England.*&#160;<a href="#ref04-g" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note04-h"></a>
 § Note (h), page 144, line 257.&emsp;*He moves not, speaks not, lives to pain alone.*
 
 The general suffrage of mankind seems to have established Saladine as the greatest man of the age in which he lived; yet in the power of supporting any reverse of fortune, he shewed himself much inferior to his antagonist, <span class="smallcaps">Richard Cœur de Lion</span>. Some historians have said that the English Monarch was never so great as in his dungeon of Trivallis; but the Sultan of Damascus, whether from mental weakness, or constitutional infirmity, seems to have been sunk into a deplorable state of despondency by every defeat. The picture in the poem goes not beyond that which is drawn by his annalists, and after the loss of Acre, we have the testimony of the learned Abdollatiph to that morbid state of mind, which would not admit even the presence of his sons. This great physician, after having acquired by travel a knowledge of the learning and antiquities of India and Damascus, was then on his road to Egypt, and felt it a point of duty to pay his respects to the Sultan *en route:* but the unhappy Monarch was in a state which precluded his admission. M. Michaud’s observations on the general character of Mahomedan courage are not inapplicable to this subject. “The reader may have remarked, in perusing this history, that the religion of Mahommed, all warlike as it is, does not inspire in its disciples that obstinate bravery, that perseverance under misfortune, that unbounded devotion, of which the history of the Crusades offers so many examples. The religion of the Musulmans requires the stimulus of victory to preserve its strength and violence. Trained in the blind doctrine of fatalism, they are accustomed to regard success or defeat as the decree of heaven. Victorious, they are full of courage and ardour; but when vanquished they allow themselves to be cast down, and feel no shame in yielding to an enemy, whom they regard as the instrument of destiny. Their courage is rarely excited by the desire of acquiring renown, and even in the moments of their military ardour, it is rather the fear of punishment than the thirst of glory that detains them in the field. The power to brave their foes must be derived from a chief whom they dread, and despotism appears necessary to their valour,” — Vol. ii. p. 213.&#160;<a href="#ref04-h" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note04-i"></a>
 § Note (i), page 145, line 266.&emsp;*Oh! had I Ali’s strength, or Kaled’s sword.*
 
 The valour of Kaied and Ali is conspicuous in the wars of the Prophet. The strength of Ah, who wrenched off one of the gates of Bosra, and used it for a shield, appears beyond belief, and the exploits by which Kaled acquired the surname of “Seif-Allah,” or the “Sword of God,” are not less wonderful. Ali was vindictive and ambitious, and his struggles for the Caliphate led to that great schism, which has separated Persia from the standard of Mahomedan orthodoxy. Kaled seems to have been without ambition, ferocious, and delighting in battle for its own sake. The enthusiastic character and marvellous achievements of the companions and successors of the Prophet, gives to Mr. Gibbon’s account of the origin of Mahomedanism all the interest of romance.&#160;<a href="#ref04-i" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note04-k"></a>
 § Note, (k), page 147, line 322.&emsp;*His Genii workmen brought to Giamschid.*
 
 The Gem of Giamschid, frequently alluded to by Oriental writers, is by many supposed to be a carbuncle, and this idea is adopted by the author of Vathek; but, according to D’Herbelot, the Gem of Giamschid was a large cup or vase, made of a single turquoise, which was found by the Genii his subjects, when digging the foundations of Istakar. This vase has long been lost. Giamschid was the son of Caiomurs, the first of the Preadamite Sultans, who reigned over the Genii before the creation of man. He is said to have been the inventor of wine, which, from its intoxicating qualities, he named “the charming poison.”&#160;<a href="#ref04-k" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note04-l"></a>
 § Note, (l), page 149, line 350.&emsp;*And vanish’d in a pyramid of light.*
 
 The idea of this incident is taken from a passage in the *Histoire de Saladine*, which says that many fruitless attempts had been made by the besieged to set fire to the wooden castles of the besiegers, or to overturn them with stones. Saladine promised great rewards for their destruction; at last a young man of Damascus flattered himself that he would burn them by means of an inflammable matter of which he possessed the secret, and which was different from the common Greek fire. In reality, after having mixed various drugs with naptha or petroleum, in brazen vases, these vases were hurled against the castles, and consumed them in an instant. Michaud says that they were reduced to ashes, as though they had been struck by the lightnings of Heaven. In the *Pièces Justificatives*, at the end of his second volume, is an extract fiom the MS. Life of Saladme by Renaudot, which bears upon the subject. “It is certain,” says M. Renaudot, “that the artificial fire, called Greek fire, *feu de mer*, or liquid fire, whose composition is found in the Greek and Latin historians, was very different from that which the Eastern nations began to use at this period, and of which the effect was the more surprising, as its саusе was entirely unknown; for, while the common Greek fire was prepared with wax, pitch, sulphur, and other combustible matters, the principal ingredient of this was naptha or petroleum, of which there are natural springs in the neighbourhood of Bagdad, similar to those remarked by the ancients near Ecbatana, on the confines of Media, and in other parts of Реrsia. It appears probable that the Orientals first made use of it at this siege (Acre), and that the Christians, from its resemblance, called it also Greek fire, and believed it to be the same which was known throughout the Levant. The Greeks and Mahomedans afterwards continued to employ their respective fires, without communicating the secret to other nations. The Greeks distinguishing the naptha fire of the east by the name of *Median fire;* and the Latins confounding both under that of Greek fire, in the same manner as the Orientals afterwards gave the appellation of naptha to the gunpowder by which it was superseded.” M. Mailly enters into a digression on the subject of the Greek fire. Its effects are doubtless exaggerated; and, though I have availed myself in the Poem of such exaggerations, there are not perhaps many who will now seriously believe on the authority of some old historians, that it consumed the very stones, or that, while the tendency of all other flame is to aspire, this had at least an equal inclination to burn downwards. M. Mailly, whose work was published in 1780, states that some of his contemporaries had pretended to a re-discovery of its composition. It was not ten years before that a person named Dupré, had died in the receipt of a pension paid him by the French Government on condition of burying his secret in oblivion. Mailly had himself known a physician, who had made the same discovery, or at least one similar, but to whose labours the ministry gave no encouragement, “a humanity,” he adds, “as honourable to philosophy, as to our country; the only one perhaps, where persons in place may be found, sufficiently the friends of mankind, to forbear multiplying the sources of their destruction; and to remember, that if unhappily wars are sometimes necessary, infernal secrets should be left to infernal armies, and that we already possess too much, in the use of gunpowder!!” The English Government would certainly have drawn upon itself the anathemas of M. Mailly, and have afforded a fine field for the display of his national vanity by its patronage of the Congreve rockets, had they then existed.&#160;<a href="#ref04-l" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note04-m"></a>
 § Note (m), page 149, line 361,&emsp;*Oh! who but courts th’ emprize, the glory rare?*
 
 The conveyance of Greek or Median fire to the city was, throughout the siege of Acre, a service of great importance and danger. It was generally effected by means of swimmers or divers. Vinesauf mentions one who was carrying it in an otter’s skin, but being caught by some fishermen, was brought to the camp.&#160;<a href="#ref04-m" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note04-n"></a>
 § Note (n), page 153, line 443.&emsp;*But call’d in after years “the English stone.”*
 
 In some of the histories of the Crusades there is mention of a rock on the sea-shore very near Acre, which received the name of *La Pierre des Anglois;* but I do not known on what account.&#160;<a href="#ref04-n" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note04-o"></a>
 § Note (o), page 162, line 656.&emsp;*Who dared that chief in battle-shock to meet.*
 
 Ermengard D’Aps was grand master of the Knights Hospitallers before the taking of Jerusalem, and enjoyed that dignity for more than five years. The Grand Masters of the Templars were less fortunate, for at least four or five were successively slain in the same period.&#160;<a href="#ref04-o" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note04-p"></a>
 § Note (p), page 164, line 706.&emsp;*Protects the mole, the shelter’d port commands.*
 
 The form of Acre is triangular. It is defended by the sea on the north, western, and southern sides, and on the northeast or land side is guarded by walls and strong towers. At the northern extremity, or apex of the triangle is the Tour du Diable (Satan’s Fort). In the middle of the line, and at a projecting angle, is the Tour Maudite (Accursed Tower), the scene of the most violent assaults. At the south-eastern extremity, very near to the sea, is the Tower of David, or Tour du Patriarche; beyond this the wall extends a short distance into the sea, and is terminated by a small fort to which I find no distinguishing name. The sea encroaching on the southern side, or base of the triangle, forms a sort of bay defended by a mole, which springing from the shore near the southwestern corner, stretches half across, and is bounded by a strong tower, built on an insulated rock. This rock was formerly the site of a temple of Jupiter, and the place where the priests retired to inspect the entrails of the victims. From the number of flies which were hence attracted to the rock arose its name of Tour des Mouches. I have endeavoured to retain the pleasanter part of the idea, and have called it the Tower of Sacrifice. I may perhaps here be permitted to make a short observation on the names of Acre and Ptolemais, respecting which much has been written. The former name, or at least such modification of it as arises from the different pronunciation in various languages, seems to have been both the ancient and modern appellation of the city, and it has been questioned whence it acquired that of Ptolemaïs. Some writers have suggested that this last name, though employed by the Greeks of the Lower Empire, and the Latin authors, may never have become general among the natives of the country. Vinesauf, I think, gives a satisfactory explanation. The old town of Acre, as appears from the remains of its walls, did not occupy more than the lower half of the triangle, and Vinesauf says that to the north or on the side nearest to the hill of Turon, was that part of the city called Ptolemais, having been more recently built.&#160;<a href="#ref04-p" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note04-q"></a>
 § Note (q), page 165, line 734.&emsp;*Record his death, and Herod’s impious vow.*
 
 To the left of the mosque, on the north of the city of Acre, are the ruins of a building still known by the name of King <span class="smallcaps">Richard’s</span> Palace. Dr. Clarke calls its architecture gothic, and from the representations which I have seen, the arches are decidedly pointed. Two lofty arches and part of the superstructure remain; the cornice is ornamented with enormous stone busts, of very distorted countenances, whence the building has derived its name; these being supposed to represent the heads of the Saracens whom the Lion-hearted Monarch killed, or ate, according to the romance. Dr. Clarke thinks it more probable that it has been a church of St. John the Baptist, and erected during the time when the Christians were in possession of Acre, whether before or after its capture by Saladine. It is possible that from this very structure the city assumed its title of St. Jean D’Acre.&#160;<a href="#ref04-q" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note04-r"></a>
 § Note (r), page 168, line 790.&emsp;*What though a random spear had pierced his side.*
 
 This wound is historical, as are also most of the subsequent incidents, and particularly the manner of Leopold’s retreat.&#160;<a href="#ref04-r" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note04-s"></a>
 § Note (s), page 170, line 849.&emsp;*And thank the care that rais’d its walls so high.*
 
 The Christian camp at Acre, by means of successive additions and entrenchments had become (iike the town of Santa Fé, built by Ferdinand and Isabella under the walls of Grenada), almost the rival of the city it besieged. It contained streets and churches: not indeed such as would have been erected in a situation where they were likely to be permanent, but such as a residence of three years must have supplied with all the necessaries, and even some of the luxuries of that half-civilized age. These were incessantly filled with warriors from almost every nation of Christendom. The Arabian writers say that so many languages were spoken in the crusading army, that they could not find interpreters for the captives; and in another place, that the camp was so well fortified, that not even a bird could get in.&#160;<a href="#ref04-s" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note04-t"></a>
 § Note (u), page 172, line 887.&emsp;*Blends all his victims in one funeral pyre.*
@@ -7907,6 +8077,8 @@ Conrad of Montferrat first visited Palestine at the time of the second crusade, 
 
 Fitzharding, was the ancient name of the House of Berkeley, which descended from the Kings of Denmark. In 1168, Fitzharding entertained at Bristol, Dermot Mac Murrough, King of Leinster, with a company of sixty, when he came to England to solicit aid from Henry the Second. which event brought on the conquest of Ireland. Maurice, his eldest son, married Alice, daughter of Roger de Berkeley, and was one of the rebellious barons in the reign of John.&#160;<a href="#ref05-c" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note05-d"></a>
 § Note (d), page 189, line 313.&emsp;*To Acre borne, had made your valour vain.*
 
@@ -7933,12 +8105,16 @@ A similar incident occurs in the history of the Caliph Vathek, where Carathis in
 > For alle Crystene-men under sunne,<br>
 > Hadde nevyr Acres ben i-wunne!”&#160;<a href="#ref05-d" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note05-e"></a>
 § Note (e), page 193, line 411.&emsp;*And rapturous greeting, hail them to the strand.*
 
 I cannot give a better idea of <span class="smallcaps">Richard’s</span> magnificence, or of the joy of the Crusaders on his arrival, than by quoting two passages from Vinesauf, the former of which describes his entrance into the harbour of Messina, the second his appearance in the bay of Acre. After observing on the necessity of splendour in princes, *qualem te video, talem te esse spero*, and the disappointment of the Messinese, who on going out to meet Philip at his arrival, found him in a single ship, like a fugitive, and hastening to hide himself in his castle, as though he feared the sight of men; the chronicler continues: “ Porro Rex Angliæ ille magnanimus, ex quo fama prædicante divulgabatur adventare, catervatim ruunt populi, ilium cernere cupientes; et in littus se ingerentes certatim occupant sedes ilium ascendentem visuri. Et ecce eminus prospiciunt mare galeis opertum innumeris, et vox à longe intonabat in aures eorum tubarum reboantium, et lituum clarius et acutius resonantium, interea propius accedentibus fuit videre galeas seriatim remigantes, variis undique ornatas et refertas armaturis, ventilantibus ad aurum innumeris penuncellis, et signis, ordine decoro, in hastilium summitatibus; rostris galearum varietatibus picturarum distinctis, appensorum in singulis proris, scintillantibus radiis scutorum, videres ex multitudine adventantium remigantium mare fervescere, tubarum intonationibus, quas trumpas vulgo dicunt, audientium aures tinnire, et ex vario tumultuantium acessu delectationem excitari. Cum ecce rex magnificus juxta navigantium galearum catervatim obsequio stïpatus, cæteris eminentiori et ornatiori præstans in prora, tanquam ignota visurus, sive ab ignotis videndis fertur in littus obsitum densarum turbarum agminibus, et omnibus tanquam se ultro videndum exponens, eleganter ornatus in littus ascendit, ubi nautas, quos eo præmiserat, cum cœteris addictis obsequiis suis reperit, eum gratanter excipientes, et dextrarios, et equos suos nobiles, sibi pridem commissos ad vecturam exhibentes. Confluunt bine inde cum suis indigente prosequentes ipsum usque ad hospitium suum. Super cujus tanta gloria vulgus attonitum conferebat ad invicem, hic quidem dignus Imperio, hic merito constitutus super gentes, et super regna, cujus fama olim audita multa junior est ipsa ventate quam videmus.”
 
 It was on the day of St. Barnabas, or of the summer solstice, that <span class="smallcaps">Richard</span> appeared before Acre. The whole army advanced to meet him, and the earth shook with the exulting shouts of the Christians, while the Turks, who heard their trumpets and acclamations, were deprest and terrified. “Duo Reges à portu sese mutuo deducentes gratanter officiosis alter utrum venerabantur obsequiis. Deinde Rex <span class="smallcaps">Richardus</span> in tentoria sibi preparata se recipiens de gerendis negotiis disponebant. Multa quidem meditabatur solicitudine qua instantia, quo artificio, quibus Machinis civitas expeditiori comprehenderetur compendio. De cujus adventu nec calamus absolute poterit populi describere lætitiam, nec cujusquam lingua retexere, noctis etiam serenitas aere solito puriore eidem æstimabatur arridere; sed et hinc trumpæ perstrepunt, illine intonant tubæ, hinc acutius modulantes concinunt tibicines, illine tympana concrepitant, sive gravioribus harmoniis susurrant Heroinæ: et tanquam ex variarum vocum dissonantiis mulcens auditem captatur Symphonia; пес enim inveneritur de facili qui more suo cessaret à laudibus et gaudio: aut enim cordis testantes lætitiam resonant populares cantiones, aut antiquorum præclara gesta, priora exempla recitabantur in incitamenta modernorum. Hi cantantibus vina propinant in vasis pretiosis, alii quibus libet indifferenter accipientibus pusillis cum majoribus summo cum tripudio noctis transigebant instantiam. Accessit in augmentum lætitiæ, quod Cyprum insulam tam commodam, tam necessariam, Rex <span class="smallcaps">Richardus</span> nostræ sub-jugasset ditioni, quæ tam oportune tantæ serviret exercitui. Nihilominus in testimonium exortæ laetitiæ in cordibus omnium, et ad removendas noctis tenebras, ubique cerea scintillabant lampades, luminaria flammantia, et multiplicato fulgore nox diei videretur usurpasse claritatem, ita ut totam vallem Turci reputarent igne succensam.”&#160;<a href="#ref05-e" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note05-f"></a>
 § Note (f), page 194, line 427.&emsp;*His brazen axe, that crushed where’er it fell.*
@@ -7954,50 +8130,70 @@ Of <span class="smallcaps">Richard’s</span> axe the romance says:
 > The head was wrought right well;<br>
 > Therin was twenty poundc of stele;”&#160;<a href="#ref05-f" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note05-g"></a>
 § Note (g), page 194, line 431.&emsp;*And the gold broom-flower on its glittering round.*
 
 In the portrait of <span class="smallcaps">Richard</span> on the first of his seals, the upper circle of his helmet is surrounded by an ornament which is supposed to be the flower of the *Planta Genista*, or broom, whence the house of Anjou took the surname of Plantagenet. This device originated either with Geoffrey Earl of Anjou (the grandfather of our <span class="smallcaps">Richard</span> the First), who is said to have worn a sprig of broom in his hat when on a pilgrimage to the Holy Land, or with his father Fulk of Anjou, the fourth King of Jerusalem, who on his way thither used a branch of broom or furze as a scourge. Henry the Second of England, son of the above named Geoffrey, was the first of our Kings who bore the name of Plantagenet. He is reported to have placed a sprig of broom in his helmet, on taking the vow of the crusade.&#160;<a href="#ref05-g" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note05-h"></a>
 § Note (h), page 195, line 457.&emsp;*Sicilia’s matchless grain, Oporto’s wine.*
 
 A part of <span class="smallcaps">Richard’s</span> army, in its way to Messina, assisted Sancho, the first King of Portugal, in the conquest of Sylvia from the Moors; in the same manner that the soldiers of Conrad the Third, and Louis the Seventh, had in the former crusade enabled Alphonso, first King of that country, to take Lisbon, which the Portuguese feign to have been founded by Ulysses. There can therefore be little doubt that Portugal, as well as Sicily and Cyprus, contributed to the victualling of the English fleet.&#160;<a href="#ref05-h" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note05-i"></a>
 § Note (i), page 196, line 465.&emsp;*And neigh aloud for liberty regained.*
 
 The palanders or horse transports were drawn on the beach, and the horses introduced by a sort of shelving platform, which was afterwards turned up to close the opening. This door was then well secured, and was entirely under water while the vessels were at sea. When it was desired to land the horses, the palanders were again drawn up on shore till the gate was exposed; the fastenings were removed, and the horses descended to the shore without inconvenience or injury. — See *Mailly, &c.*&#160;<a href="#ref05-i" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note05-k"></a>
 § Note (k), page 197, line 483.&emsp;*Vast as the tent for great Kerboga wove.*
 
 Of the immense booty which fell into the hands of the first Crusaders, at the battle of Antioch, nothing was so highly prized, or excited so much admiration, as the superb tent of Kerboga, King of Mosul, one of their principal antagonists. It was adorned with gold and silver in every part, was of such vast extent as easily to contain two thousand men, was divided into streets, and defended by towers, like a fortified town. This tent, the only one perhaps of the kind which had been seen siпсе the time of Constantine, who caused a similar one to be constructed, became the property of Bohemond, who sent it to Bari in Italy. — *Mailly, &c*. — The crusading Princes appear to have quickly caught a taste for this oriental luxury, and their small and clumsy tents were soon improved upon an Eastern model; though they never attempted to vie with this pompous specimen of Asiatic luxury, which will remind the reader of the tent given by the fairy Paribanon to her lover Achmed, in the Arabian Tales. Another splendid tent is named by the historians of the first crusade; it was sent by an Armenian Prince, Nichosias, as a present to Godfrey, but fell into an ambuscade prepared by Pancrates, who sent it to Bohemond, as a gift from himself. Godfrey reclaimed it, and it became the subject of much altercation between the two leaders, till Bohemond was at last compelled to yield.&#160;<a href="#ref05-k" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note05-l"></a>
 § Note (l), page 199, line 542.&emsp;*I crown’d as victor of Pamplona’s fight.*
 
 <span class="smallcaps">Richard</span> is said to have been struck with the beauty of Berengaria, Princess of Navarre, while he was only Count of Poitou. I do not know where to turn to my authority, but I have some recollection of his being present at a tournament given either by her father or brother.&#160;<a href="#ref05-l" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note05-m"></a>
 § Note (m), page 201, line 585.&emsp;*The first of Western thrones, the “King of Kings.”*
 
 Mailly says, in speaking of the letter of Hugues le Grand to Alexius, “that such was the opinion which those ages entertained of the power of a King of France, that the title of *Roi des Rois* was not only often claimed for him by his subjects, but bestowed by writers of other nations; such as Matthew Paris, who gives it to him *par excellence*.” In like manner the daughters of the French King are said to have disdained the name of Princesses, and to have pretended that the title of Queen was due to their birth alone.&#160;<a href="#ref05-m" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note05-n"></a>
 § Note (n), page 203, line 617.&emsp;*One half of Flanders to my rule resign.*
 
 Among other things to which the two Monarchs had bound themselves, when they met at Vezelay to make arrangements for their journey, was an exact division of conquest during the Crusade. Philip therefore claimed one-half of Cyprus from Richard: but that monarch insisted that though they were bound to share whatever they should acquire together, Philip had no right over that which was won without his aid; nevertheless he was willing to divide the island with him, if Philip would in like manner give him half the county of Flanders, which had just reverted to its Suzerain by the death of Theodoric, who expired at Acre on the very day of <span class="smallcaps">Richard’s</span> arrival. To this Philip would not agree, and the quarrel was never perfectly accommodated.&#160;<a href="#ref05-n" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note05-o"></a>
 § Note (o), page 204, line 641.&emsp;*From Fulk I also spring—this biting blade.*
 
 Fulk, fourth King of Jerusalem, was by his first marriage father to Geoffrey Earl of Anjou, so that <span class="smallcaps">Richard</span> stood in exactly the same relation to Fulk with Baldwin the Fifth, they being both his great-grand-children; and if it were to be considered that a female was unworthy to fill the throne of Jerusalem (as had been asserted at the accession of Sybilla), he became the legitimate heir.&#160;<a href="#ref05-o" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note05-p"></a>
 § Note (p), page 205, line 683.&emsp;*The stings of death for those the sword shall spare.*
 
 <span class="smallcaps">Richard</span>, almost immediately on his arrival before Acre, addressed himself to the consideration of the means likely to compel its surrender; and one of his most efficacious manœuvres was the turning the course of a river which supplied the city with water. This circumstance has possibly been the occasion of some difficulty into which geographers have fallen respecting the river Belus. This river formerly so celebrated for its silicious sands, and the accidental discovery of glass, is joined near its mouth by another river, which being figured in some charts as a separate stream, doubts arose as to which really deserved the name of Belus. More recent surveys having proved their junction, it is probable that the lesser stream was that which formerly supplied Acre with water, and which <span class="smallcaps">Richard</span> diverted from its course. M. Michaud observes that Acre is perhaps the only city of which we possess an original plan, taken so early as the thirteenth century.&#160;<a href="#ref05-p" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note05-q"></a>
 § Note (q), page 206, line 691.&emsp;*Stretch’d its huge links, and dipp’d beneath the main.*
@@ -8018,12 +8214,16 @@ See the description of Acre in the note on the Fourth Book. This chain is mentio
 > That all the barouns, verrayment,<br>
 > Sayde it was a noble dent.”&#160;<a href="#ref05-q" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note05-r"></a>
 § Note (r), page 212, line 825.&emsp;*A thousand marks proclaimed to him should lure him home.*
 
 I avail myself of this incident to notice a characteristic difference between the third Crusade and those which preceded it. Louis the Seventh of France, and the Emperor Conrad, followed the track of Peter the Hermit and Godfrey of Bouillon. They had to contend with all the fatigues of a long and difficult journey, with all the miseries of famine, and all the dangers arising from open hostility and secret treachery; in Hungary, Bulgaria, and the Greek provinces bordering on Constantinople. These evils redoubled, when, passing into Asia Minor, they became entangled in mountain passes, and exposed to the incessant attacks of the Turks, under the dominion of the Seljouc Sultans of Iconium. Scarcely a third of their numerous armies reached Palestine, and those who did not perish in the journey, or whose sufferings did not cause them to turn back before they attained the Holy Land, arrived there in a deplorable state of exhaustion and poverty. Destitute of provisions, of money, frequently of arms and clothing, warriors of high birth, and ample European possessions, were often reduced to subsist on the charity of wealthier or more provident leaders; and all were in need of assistance. Frederic Barbarossa, whose lamentable expedition forms a part of the third Crusade, still pursued the beaten track; and even the courage and ability which had been displayed in a long life of war, could not save himself and his army from the fate of their precursors. Philip Augustus and <span class="smallcaps">Richard</span> of England, however, took warning from the sad example, and emulating the adventurous spirit displayed by the Norwegian Sigurd, and other warriors of the Baltic, they dared to entrust themselves and their armies to the ocean, and hired for the voyage the galleys of Genoa and Piso; for Venice, though then the first of maritime powers, took little part in the crusades, till her own interests were attacked in the contest for Constantinople. Some dangers were encountered in the course of the voyage, part of which may be reckoned among the ordinary casualties of the sea, but of which the greater proportion should be ascribed to the imperfection of the galleys, and to the ignorance of pilots. Still the French and English crusaders encountered neither toil nor privation, and the nobles transported into the East the comforts and many of the luxuries of their feudal castles. The passion for the chase, which then began to rage in France, and had even shewed symptoms of its future dominion in England, prompted many to carry with them their hounds and their falcons. The hunting equipages of several were even scandalously magnificent, and the Syrian nobles thought that their new allies seemed better prepared to wage war with the wild birds and beasts of their country, than with the Saracens. The numbers of dogs and falcons belonging to some individuals is almost beyond belief, and Philip Augustus was determined not to be outdone by his vassals. The bird whose loss is mentioned in the poem, was the subject of a serious embassy to Saladine, the conditions of its restoration were debated with all the solemnity of a treaty, and a sum of money was offered, which would have been sufficient for the ransom of many Christian knights. A fact which gave just offence to those whose relations or friends were prisoners to the Soldan.
 
 The private interests of Philip Augustus, and the lukewarmness or disagreement of other princes, prevented the third crusade from being equally glorious in its result with that of Godfrey, but it was distinguished by more of discipline and conduct, and was free from those disasters, those deplorable scenes of human vice and suffering, which cause the mind to revolt from the history of almost every other expedition to the Holy Land. In the preceding crusades, the examples are distressingly numerous, and, in those which followed, the names of Constantinople and Damietta are sufficient to prove that the leaders of the Latin armies, brave and pious as they were, had not yet learned to be generals. When I saу that I ascribe the less disastrous issue of the third crusade to the influence of <span class="smallcaps">Richard Cœur de Lion</span>, I shall perhaps raise a smile, and be thought unduly partial to my hero, but the consideration of this subject will be more in its place when I have occasion to speak of the march to Arsouf, and the battle of Jaffa.&#160;<a href="#ref05-r" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note05-s"></a>
 § Note (s), page 216, line 921&emsp;*Then sptead her wings and vanished in the sky.*
@@ -8037,20 +8237,28 @@ During the siege of Acre the Christians often received intelligence of the inten
 
 Both the houses of Cadogan and Hampden trace their lineage back to the renowned Caradoc *Friech bras* or *Вrise bras*, one of the most famous of Arthur’s peers, and no less renowned for his fidelity in love, than his valour in war. The poem alludes to the Fabliau of “The Mantle made amiss” in which Sir Caradoc’s lady wins the magic garb, which would fit no damsel whose heart had ever been touched with inconstancy. Jerworth was a family name of the house of Hampden or Trevor.&#160;<a href="#ref06-a" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note06-b"></a>
 § Note (b), page 230, line 131.&emsp;*And by his hand the youthful Osbert dies.*
 
 Osbert, descended from Geoffrey de Clinton, Lord Chamberlain and Treasurer to Henry the First. His descendant’s are now Dukes of Newcastle.&#160;<a href="#ref06-b" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note06-c"></a>
 § Note, page 234, line 218.&emsp;*“Winton,” he said, “strip thou this braggart for”*
 
 Roger de Quincey, Earl of Winchester. There were but two Earls of Winchester of this family.&#160;<a href="#ref06-c" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note06-d"></a>
 § Note (d), page 234, line 238.&emsp;*Once had they saved from him the Soldan’s chain.*
 
 The great benefactor to the English Templars, was Roger de Mowbray, who accompanied Louis the Seventh to the Holy Land in 1148. He granted to the order various manors in Leicestershire. The knights, as an honourable return, gave him the privilege of pardoning any Templar who was doing penance. But they did him the more valuable service of ransoming him from the Saracens, after the battle of Tiberias, for one journey to Palestine did not satisfy this pious chieftain. In the days of Edward the Third, the Hospitallers, as possessors of the lands of the Templars, conferred the privilege of pardoning offending knights upon John Lord Mowbray, the lineal heir of Roger.&#160;<a href="#ref06-d" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note06-e"></a>
 § Note (e), page 236, line 280.&emsp;*Should fight the battles of his injur’d God.*
@@ -8058,35 +8266,49 @@ The great benefactor to the English Templars, was Roger de Mowbray, who accompan
 It was in reality Henry the Second, and not Richard, who explored the tomb of King Arthur, in Glastonbury Abbey; the songs of the Cambrian Bards having revealed to
 him that monarch’s place of sepulchre. The bodies of himself, and his Queen Geneura, were found in two stone coffins by the side of the high altar, and were little changed by time. <span class="smallcaps">Richard</span> afterwards bestowed Caliburn on Tanced King of Sicily, but it is to be regretted that he did not retain so interesting a relic. Warton s poem of “Arthur’s Grave,” is probably familiar to my readers.&#160;<a href="#ref06-e" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note06-f"></a>
 § Note (f), page 240, line 371&emsp;*That scented scimitar of Syrian frame.*
 
 The pliability of the damask sabres is more remarkable than the keenness of their edge. They appear upon close examination to be striated, or composed of filaments of steel and iron, in a manner similar to the alloys of steel and silver obtained in the experiments of Messrs. Stodart and Faraday, The best damask sabres are not only richly mounted, but are said to be strongly impregnated with a perfume, which they never lose.&#160;<a href="#ref06-f" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note06-g"></a>
 § Note (g), page 242, line 420.&emsp;*And gave her captive foes to lingering flame!*
 
 Fanaticism was not confined to the Christian army, for the Saracens of Acre exasperated their besiegeirs by offering every possible outrage to the symbol of their creed. They raised crosses on the ramparts, beat them with rods, covered them with mud and dust, and broke them into a thousand pieces in sight of the Crusaders, who vowed anew to revenge their outraged faith. In the excess of religious animosity, the Moslems often massacred their unarmed captrves, and on more than one оссаsiоп, they were seen to burn their Christian prisoners on the field of battle. — *Michaud.*&#160;<a href="#ref06-g" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note06-h"></a>
 § Note (h), page 243, line 432&emsp;*His servants tremble for a life adored.*
 
 See Note (h), pages 408-409.&#160;<a href="#ref06-h" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note06-i"></a>
 § Note (i), page 244, line 454.&emsp;*To mate the banner with the badge of kings.*
 
 This seems to have been the true reason of the quarrel between <span class="smallcaps">Richard</span> and Leopold, that the latter, being only a Duke, ordered his banner to he placed on the ramparts, which the high spirited Monarch considered as an affront to his legal dignity, and flung it into the ditch without any ceremony.&#160;<a href="#ref06-i" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note06-j"></a>
 § Note (j), page 248, line 560.&emsp;*He lopp’d the pennon’s forked points, and said.*
 
 Knights were divided into two classes, Knights Bannerets and Knights Bachelors: no man being properly a Knight Banneret, who could not bring into the field a certain number of lances, from fifty to twenty-five, this last was the lowest number; he had also a right to a war cry, which other knights had not. He was distinguished by the square banner, carried by a squire at the point of his lance, whereas the Knight Bachelor had only the cornet or forked pendant. When a Banneret was created, the general cut off the ends of his pendant to render it square, but this honour conferred no command except over his own dependants. Olivier de la Marche makes a distinction between the Bachelor created Banneret on account of his estate or merit, and the hereditary Banneret, who took a public opportunity of requesting the Sovereign to unfold his family banner, which he had before borne wound round his lance: the first was called *réleve bannière*, the second *entrer en bannière*. Sir John Chandos was still a Bachelor when he led part of the Black Prince’s army into Spain, and first raised his banner at the battle of Navarette, where it was *unfolded, not cut*. — See *Hallam’s Middle Ages*.&#160;<a href="#ref06-j" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note06-k"></a>
 § Note (к), page 249, line 564.&emsp;*Now prove him false that called his King unjust.*
 
 The authority for this little episode is in Vinesauf, who records that one of his knights voluntarily received the blow which was aimed at <span class="smallcaps">Richard</span>, and also the circumstance of the Monarch’s reconciliation after the battle, with one who had previously offended him, but whom he forgave on account of his valour.—He also makes frequent mention of Baldwin do Carrio (now Carew) who must have been either the son or nephew of William, Castellan of Windsor, whose fidelity was so conspicuous during the absence of <span class="smallcaps">Richard</span>.—This William was hereditary governor of Windsor Castle, that office having been confirmed to his father by the Empress Maude, and from it his family took the surname of Windsor, which is still retained by their descendants the Earls of Plymouth. That of Carrio, perpetuated in the Carews of Cornwall and Devon, was derived from a fief which William inherited in right of his mother.—This family is by some antiquaries derived from the Dukes of Tuscany, who are said to have passed from Florence to Normandy, but its descent appears pretty well established from Othoer, a powerful lord under King Alfred, and of Norwegian ancestry. Gerald, great grandson of Othoer, was sent by Henry the Second against Owen Rhys, Prince of Gwyneth or North Wales, whom he reduced to submission, and was made Castellan of Pembroke, under Montgomery Earl of Pembroke, Having also slain Owen, son of Cadugan ap Blethyn, chief Lord of Cardiganshire, he was made president of the county of Pembroke, chamberlain to the King, and married the Princess Nesta, daughter of the vanquished Prince of Gwyneth. His second son, Maurice, was the principal person by whose aid Ireland was conquered, and distinguished in most of the principal actions there. From him descended the Fitzgeralds, Dukes of Leinster, Fitzmaurices, Earls of Kerry, and the Fitzgeralds, Earls of Desmond (now extinct); of the same stock were the Geralds, Earls of Macclesfield (now also extinct); the Lords Gerald of Bromley, the Geralds of Bryn, in Lancashire, and many other noble families of the same name. The ancient armorial bearings were Gules, a saltier argent.&#160;<a href="#ref06-k" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note06-l"></a>
 § Note (l), page 254, line 680.&emsp;*Those webs that only Arab maids can weave.*
@@ -8098,6 +8320,8 @@ A sort of coarse cloth, the manufacture of which is peculiar to the women of Ara
 § Note (m), page 254, line 681.&emsp;*Where towering date-trees shade the saffron mead.*
 
 Saffron was one of the principal exports of the East in the middle ages, and the Crusaders were delighted when on arriving there they beheld whole fields of the favourite plant.&#160;<a href="#ref06-m" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note06-n"></a>
 § Note (n), page 255, line 690.&emsp;*And sold, half-lifeless, to a stranger’s hand.* 
@@ -8111,15 +8335,21 @@ The “Letters from Tripoli” contain many distressing relations of the manner 
 
 The speech of Philip Augustus is very nearly that which history ascribes to him; there appears little doubt that his sickness was affected, and that his religious ardour having never been great, his reasons for returning to Europe were purely political. These were the death of Theodoric Earl of Flanders, in consequence of which the Earldom reverted to his Suzerain, but which he was in danger of losing, if not at hand to take care of his interests; and the convenient opportunity which the absence of <span class="smallcaps">Cœur de Lion</span> afforded him for attacking his ill-defended states, and gratifying the jealousy with which he regarded the superior wealth and martial fame of his rival. The friendship of Philip Augustus had been fatal to <span class="smallcaps">Richard</span> while only Count of Poitou, for it led him into rebellion against his father, and his hatred in after life was his perpetual bane. The Crusade produced a faint and false accord; each had bound himself by the most solemn oaths to a participation of peril, of glory, and of conquest; to defend as his own the possessions of his comrade, both at home and abroad; and the Church had rivetted these vows by the most deadly imprecations on all that should violate “the Peace of God.” Yet were all these vows made but to be broken; real friendship needs no such covenants, and it has been ever obvious that the most solemn engagements are as wax before the flames of ambition. <span class="smallcaps">Richard</span> and Philip were seldom together for three days without a quarrel; and though, as at Messina, the influence of the Holy Cause terminated these discords by a renewal of their vows, yet, as Michaud observes, there could be but little faith in a friendship which it was necessary to obtest so often. As soon as <span class="smallcaps">Richard</span> arrived at Acre, the contest about Cyprus rekindled the sparks of jealousy, and the two Kings never once joined their forces against the foe; the most that could be obtained was that, one should attack the army of Saladine while the other assaulted the city; but on more than one occasion, as has been already noticed, Philip would have retired with disgrace before the Soldan, if Richard, forgetting his animosity, had not withdrawn his troops from the town and redeemed the victory. His martial superiority was thus rendered but more manifest. It was the duty of each leader to support his troops: and the monthly allowance which <span class="smallcaps">Richard</span> granted to each man, was one-third more than that bestowed by Philip. It was natural that all who lived upon “debateable land” (and when we remember how many of the fairest provinces in France belonged to <span class="smallcaps">Richard</span>, these could not be few), should be eager to profess themselves the followers of the most munificent master: Philip therefore accused <span class="smallcaps">Richard</span> of seducing his soldiers from their allegiance. In a word, he had less irritability than the English Monarch, but as he also wanted his frankness, he seems never to have forgotten their former discontents, even at the moment when he again pledged an inviolable friendship; and when envy was in secret rankling in his heart, new grounds for quarrel could never belong absent.&#160;<a href="#ref07-a" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note07-b"></a>
 § Note (b), page 273, line 54.&emsp;*Again to pledge the vows of Vezelay.*
 
 Vezelay is a small town in Burgundy, not far from Auxerre, and was the place where Philip and <span class="smallcaps">Richard</span> met to make final arrangements for the crusade. The vows taken at Vezelay were nearly the same as those by which the Crusaders, at the council of Clermont, bound themselves to abstain from all private or Christian warfare, and by which all the Princes and Nobles became reciprocal guardians of each others dominions during the crusade; such as might remain at home, or might return before the rest, pledging themselves to respect the rights of the absentees. Philip and <span class="smallcaps">Richard</span> made a further agreement, that neither should abandon the crusade without the consent of the other; it was hence that <span class="smallcaps">Richard</span>, when that consent was asked, required as a condition that Philip should again bind himself not to commit any outrage on his undefended states, of which his eagerness to return made him justly suspicious; and that Philip, in reply, demanded the renewal of <span class="smallcaps">Richard’s</span> homage for the extensive fiefs which he held of the French crown; so extensive, indeed, that when it is remembered that neither Burgundy, nor Lorraine, nor Flanders, then belonged to the Kings of France, it may well be asked, on what pretensions they founded their right to the title of “King of Kings,” and first of the Monarchs of Europe.&#160;<a href="#ref07-b" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note07-c"></a>
 § Note (c), page 275, line 91,&emsp;*Ye are not worthy to behold her walls!*
 
 This memorable expression has been ascribed to <span class="smallcaps">Richard</span> by the historians of the times, though they differ in their account of the occasion which called it forth. Some say, that during his residence at Jaffa, he penetrated, on one of his romantic hunting excursions, to a hill whence he had a distant view of the towers of Jerusalem. He was then preparing to return to Europe, and the Holy City seemed to upbraid him with his want of power to relieve her, and with his meditated desertion of her cause. He wept, and veiling his head in his mantle, exclaimed, “that those who could not deliver, were unworthy to behold her.” Other writers address this expression, as I have done, in reproach to some of his companions, who deserted their vows for the deliverance of the sepulchre.&#160;<a href="#ref07-c" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note07-d"></a>
 <i class="fa fa-info-circle" aria-hidden="true"></i> Note (d), page 275, line 98.&emsp;*Paid the dire forfeit of his broken word.*
@@ -8127,40 +8357,56 @@ This memorable expression has been ascribed to <span class="smallcaps">Richard</
 This is the least graceful feature of King <span class="smallcaps">Richard’s</span> life, and that which I have felt most difficulty in managing. To have passed it over entirely, would scarcely have been allowable, but after much consideration, I determined to touch it as slightly as possible. I could not hope to imitate Mr. Southey’s extraordinary power of identifying myself and my feelings with those of the age or country of which I treated, neither could I expect or wish, in the nineteenth century, to obtain the sympathy of my readers in an attempted extenuation of massacre. Yet it would surely have been as unjust to <span class="smallcaps">Richard</span>, as it was inconsistent with a story of which he was the hero, to hold forth to the detestation of posterity, an act not only excused, but applauded by the fanaticism of his contemporaries. The facts were briefly these: when Acre was surrendered, about 4,000 captives remained in the hands of the two Sovereigns, <span class="smallcaps">Richard</span> and Philip. A treaty had been entered into with Saladine for the payment of a large sum of gold, the surrender of the wood of the True Cross. &c. &c. on condition of which they were to receive their liberty: but if he failed to fulfil the treaty before a certain day, their lives were forfeit. The day expired, the conditions were unfulfilled; a good deal of fruitless negotiation followed, which only led to mutual exasperation; and, after waiting three weeks, Richard, who was preparing to commence his march, gave orders for the massacre. The numbers who are reported to have fallen vary from 1,500 to 4,000 or 6,000; I am inclined to think the lowest number the most correct. Many of the more wealthy had been already ransomed, or were reserved for ransom; and Philip, who had in the meantime departed to Tyre, took *his* share of the captives with him. <span class="smallcaps">Richard</span> often sent for them, but he who was about to leave Palestine seemed rather inclined to obtain money for their freedom, than to strike terror by their murder, and if at last he gave them up to his rival, it does not appear that he did so previous to the massacre. Aboulpharagins says, “that the time being expired, Saladine sent to the Franks, ‘Dismiss all the Arabs who are in your bonds, and I will give you the third part of the gold, and hostages for the other two; or otherwise, ye shall give me hostages for the third part which ye have received.’ But the Franks said, ‘Our word alone is sufficient to you, and our honour: why should we give hostages?’ Then the heart of Saladme was hardened, neither would he consent, and the Franks being enraged, bound all the Arabs with cords, and leading them forth from the city on to the hill, having clothed them in vile garments, they ran upon them with drawn swords, and slew them in sight of the Moslem camp.” The author of the Life of St. Louis relates the event in a manner which lays the first guilt of massacre on Saladine, and implicates Philip in the retaliation inflicted by the Christians. “Cinque mille hommes qu’il y avoit de garnison demeurèrent prisonniers, à condition d’être relachés en faisant rendre la vraie croix, et les esclaves Chrétiens: sinon qu’ils demeuroient à la discretion des vainqueurs. Mais *Saladin, ayant fait mourir un grand nombre des prisonniers qu’il avoit de son côté*, bien loin de tenir la capitulation, ces 5,000 hommes eurent tous la tête tranchée, *un moitié an nom de Philippe, et l’eutre au nom de <span class="smallcaps">Richard</span>. Ce fut Eudes, Duc de Вourgogne, qui ménagea cet honneur à la France avec tant d’exactitude*.” The Romance of <span class="smallcaps">Cœur de Lion</span>, which by its naïveté renders amusing those scenes of horror which would otherwise disgust, increases the number of the captives to 60,000, commands their destruction by the voice of an angel, and dwells with peculiar pleasure on the edifying effusion of Pagan blood. At the same time it is not sparing in its abuse of Philip, whom it accuses of avarice in liking better to
 receive ransom for his prisoners, than to follow the good example of putting them to death. I ought not to omit, that Saladine was certainly not slow in making reprisals on the Christian captives in his hands; and Mr. Sharon Turner, in his admirable sketch of the Third Crusade, relates an interesting anecdote of a young warrior whom the Soldan kept for two days with him in his tent, conversing with him, and endeavouring to convert him, or to find some reason which might excuse to his own bigotry the disposition which he felt to exempt him from the fate of his companions. At last he gave orders for his death, an instance of cold blooded cruelty, of which Mr. Turner seems to think, that Richard, ferocious as he has been deemed, would have been incapable.&#160;<a href="#ref07-d" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note07-e"></a>
 § Note (e), page 276, line 112.&emsp;*By adverse ocean, or his wavering mind.*
 
 There were at least three embassies sent to Conrad at Tyre; of these the Bishop of Salisbury, Otho of Burgundy, and Roger de Quincy, Earl of Winchester, formed part; but as the several negotiations are not important to the story, I have mentioned but one, and engaged in it those personages that best suited my subject. The Bishop of Beauvais was certainly with Conrad at the period when he was engaged in treaty with Saladine, He was one of the most distinguished for valour among the martial prelates of thе age, but he did not, like Hubert of Salisbury, and the venerable Baldwin, Archbishop of Canterbury, combine the clerical virtues with the prowess of a warrior. During the captivity of Richard, the Bishop proved himself one of his most malignant enemies.&#160;<a href="#ref07-e" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note07-f"></a>
 § Note (f), page 276, line 119.&emsp;*Meanwhile the pilgrim host their course began.* 
 
 The historians of the time are followed in this arrangement of the troops. Whatever was most precious moved in the centre, surrounded by the knights of England and Normandy; while the auxiliary cavalry, if I may so call the smaller troops belonging to other nations, formed the front and rear, and the infantry protected the flanks. The Templars and Hospitallers frequently exchanged places, but one was always in advance of the army, while the other formed the rear-guard. They were engaged in constant skirmishes with the infidels, especially after leaving Cesarea, and many acts of signal valour are recorded. The disposition and conduct of the troops in this long and difficult march, though not one of the most splendid achievements of our lion-hearted King, is among those which have gained him the greatest credit in modern times, and proves that in his military arrangements, he was not deficient in that prudence which has so often been denied to him. He is allowed to have been the first who in the age of chivalry consented to make use of infantry as a body, and who knew how to place it to advantage.&#160;<a href="#ref07-f" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note07-g"></a>
 § Note (g), page 277, line 132.&emsp;*And, sheathed in stubborn mail, the fianks defend.*
 
 The Saracens complained in this march that their javelins and arrows made no impression on the Christian yeomanry, whom they described as men of steel, and said that a javelin which would have pierced one of their men to the back-bone, dropped powerless from the European coats of mail. Some of them are said to have had not less than ten arrows bristling in their breast-plate and habergeon, yet to have marched on unwounded.&#160;<a href="#ref07-g" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note07-h"></a>
 § Note (h), page 277, line 134&emsp;*The copious fleet each rising want supplied.*
 
 The fleet manned by the Pisans and Genose followed the line of coast along which the armies marched, so as to be ready to supply them with arms and provisions on any emergency.&#160;<a href="#ref07-h" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note07-i"></a>
 § Note (i), page 279, line 172.&emsp;*The name of him to self-destruction led.*
 
 The Judas-tree, which is common in all parts of Syria, owes its name to a belief that it was on this tree that Judas Iscariot hanged himself. Its blossom is abundant, and of a bright гоsе colour, but it perhaps rather deserves the name of a large shrub than of a tree.&#160;<a href="#ref07-i" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note07-k"></a>
 § Note (k), page 279, line 172.&emsp;*Their rich festoons of crimson and of gold.*
 
 The cactus opuntia, or Indian fig, of which hedges are made in many parts of Syria, where their proliferous stems form hedges of fourteen or fifteen feet high, and eight or nine feet thick. This extrdordmaiy plant, which I have already had occasion to notice in a note on a former work (the Veils,) forms an almost impenetrable barrier to the passage of an army, and appears capable of becoming even a greater annoyance than the kantuffa of Abyssinia. Its prickly leaves wound the horses, and, if torn, their acrid juice is still more distressing in its effects. It is not easily cut down, and it will not burn. It does not however appear to have been so common in Palestine in the twelfth century, as to cause any inconvenience to the Crusaders. Mrs. Tully, in her admirable Letters from Tripoli, admires the beauty of its red and yellow blobsoms, which she describes as hanging like festoons on the edge of its gigantic leaves.&#160;<a href="#ref07-k" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note07-l"></a>
 § Note (l), page S79, line 180,&emsp;*With this dire gift to curse th’ Atlantic world.*
 
 The history of the sugar-cane is curious, indigenous in Egypt, and cultivated with success in Syria, in Cyprus and Rhodes, this important plant was first made known to Europe by the Crusades. The soldiers of Raymond of Tholouse in 1098 discovered it in the neighbourhood of Tripoli, and when the march to Jerusalem was determined, they were with difficulty torn from the novel luxury. The mode of extracting the sugar was simple, but appears to have been efficacious. The inhabitants, when the canes were ripe, pounded them in a mortar, and then permitted the juice to coagulate in a cake “whiter than salt or snow.” The “*Canna Mellis*,” as it was called, (the Crusaders seeming to consider its juice as another species of honey) was soon transplanted into Sicily, where it appears to have flourished, and to have given rise to the extravagant passion for sweetmeats which existed in Italy in the fourteenth century, and of which traces may yet he found in the Carnival. Egypt was the principal source whence this consumption was supplied. From Sicily the culture of the sugar-cane passed to Grenada, thence to Madeira, and from Madeira to Brazil, whence it spread over the New World.&#160;<a href="#ref07-l" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note07-m"></a>
 § Note (m), page 279, line 181.&emsp;*All lovely yet appear’d that chosen land.*
@@ -8169,15 +8415,21 @@ The present appearance of Palestine corresponds so little with the glowing descr
 
 I cannot resist the temptation of subjoining to this note the comment of a literary friend. “The fertility of that country depends upon moisture and shade; humidity is encouraged by trees, it has never been observed that the fatal and *predestined* blow was given to Palestine by Titus. To frame those immense works with which he assailed the capital, he cut down gardens, groves, and forests, for many leagues around. Deprived of shade, the ground has ever since remained scorched and barren, for no attempts were or could be made to replant, &c. This, in a word, is the reason of the barren state of the country.”&#160;<a href="#ref07-m" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note07-n"></a>
 § Note (n), page 280, line 198.&emsp;*To Anna’s shrine their duteous homage pay.*
 
 Dr. Clarke speaks of the church of St. Anne at Saphura, as a stately Gothic edifice. The pointed arch is not uncommon in eastern ruins of the time of the Crusades; among these may be noticed the palace of Saladine at Cairo built under his directions, or those of his vizir Karacous.&#160;<a href="#ref07-n" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note07-o"></a>
 § Note (o), page 281, line 213.&emsp;*In the clear nectar from the fountain head.*
 
 The fresh pods of the tamarind steeped in water, from a cooling and delicious beverage, of which the acid is peculiarly agreeable beneath the fervour of an eastern sky.&#160;<a href="#ref07-o" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note07-p"></a>
 § Note (p), page 281, line 223.&emsp;*Turns to the sun, and loves, like her, in vain.*
@@ -8197,25 +8449,35 @@ Ovid describes the flower with sufficient exactness:
 > Vertitur ad Solem; mutataque servat amorem.<br>
 > &emsp;— *Metam, lib*. 4.&#160;<a href="#ref07-p" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note07-q"></a>
 § Note (q), page 287, line 356.&emsp;*Whose golden bloom outvies the robe of kings.*
 
 Sir James Smith supposes the amaryllis lutea, a very beautiful flower, which is as common in some parts of Palestine as the buttercup in our English meadows, to have been the plant alluded to by our Saviour when he says: “Consider the lilies of the field, they toil not, neither do they spin, yet verily I say unto you that Solomon in all his glory was not arrayed like one of these.”&#160;<a href="#ref07-q" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note07-r"></a>
 § Note (r), page 287, line 358.&emsp;*From that whose beams a Saviours birth proclaim’d.*
 
 Ornithogallum, or Star of Bethlehem.&#160;<a href="#ref07-r" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note07-s"></a>
 § Note (s), page 288, line 378.&emsp;*Here ambush’d fraud might lurk, nor lurk in vain.*
 
 The country between Cesarea and Jaffa is one of the most difficult and dangerous which an army can have to struggle with. On the left is that prolongation of the chain of Lebanon, known by the general name of Mount Sharon, though in parts it borrows that of Napolose, of Sichem, and other places in the vicinity. A straggling forest, composed entirely of cerrial oak, extends over the sides of the hills, and sometimes approaches very near to the sea; the intermediate space is broken by rocks and torrents, whose stony beds are scarcely less difficult to cross in the summer, than their furious waves in winter. A French traveller (M. Paultre) compares this tract to that extraordinary region in the neighbourhood of Fontainebleau, which any of my readers who have had a taste of its cross-roads cannot fail to remember. Large blocks of calcareous stone, grey without, from the effect of weather, but white at their more recent fractures, protrude on every side through the soil, and force the stunted trees to assume a thousand ungraceful forms. Indeed they appear rather the remains of a nobler forest, crushed by these gigantic masses, than to have sprung up around them. The forest of Sharon, of Arsouf, of Napolose, of Ascalon, or of Jaffa, for it bears all these names, is about six and thirty miles long, and from seven to nine broad. Many recent writers on the subject have exerted themselves to prove that this is the spot whence the leaders of the first crusade derived materials for the construction of their warlike engines; and which Tasso has embellished with so much of romantic fancy. Their arguments appear to be well supported; the situation of the wood of Sharon answers with tolerable precision to that of the Enchanted Forest, which was formerly supposed to have had no existence but in the imagination of the poet; and the idea derives new force from its being the only place within any probable distance from Jerusalem which could have afforded timber for the purposes of the siege. The more the Poem of Tasso is compared with the history of the time, and the geographical localities of Palestine, the more does his scrupulous accuracy become manifest: an accuracy the more surprising when it is remembered how much less of foreign countries or of ancient history was generally known, than in our more enlightened days, and that perhaps few of his readers would have detected or condemned any departure from historical truth.&#160;<a href="#ref07-s" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note07-t"></a>
 § Note (t), page 290, line 431.&emsp;*Fades not. nor brightens when the Spring returns.*
 
 It has already been observed, that this forest is entirely composed of cerrial oak; *Quercu Cerris*. The trees glowing in a shallow soil, near the sea, and scarcely ever receiving a due poition of moisture, do not attain any great size. Their appearance announces extreme age, yet their height does not exceed twenty-five or thirty feet, while eight or nine inches is the diameter of their stems. Their growth is seldom upright, and their summits affect an orbicular form, like that of trees which have been pollarded. The wood is very hard, the stems are knotty, yet the bark is smoother than that of our English oak: the leaves more shining and less deeply indented, the acorns large, and with a cup unusually wide. M. Paultre observes, that the scales which cover the cup are not rounded, as in our European acorns, but pointed and bent back in a sort of volute, which has acquired for this tree the name of *Quercus Crinita*. He compares the general appearance ot the forest of Arsouf to the straggling woods on the gravel hills of Lower Burgundy. — See *Michaud, Pièces Justificatives*. Other writers describe the Quercus Cerris or Turkey oak, and the Quercus Crinita, hairy cupped oak, or Burgundy oak, as distinct species, but the Oriental oaks in particular do not seem to be accurately known.&#160;<a href="#ref07-t" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note07-u"></a>
 § Note (u), page 29S, line 481.&emsp;*And far before him casts the lifeless prey.*
@@ -8297,6 +8559,8 @@ The King is at dinner with his Peers.—<span class="smallcaps">Richard</span> p
 
 I can well believe that <span class="smallcaps">Richard</span> would not have made more difficulty either in killing or eating a lion, than Antar, his rival enemy to the king of beasts.&#160;<a href="#ref07-u" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note07-x"></a>
 § Note (x), page 296, line 564.&emsp;*Till Heaven in thunder check’d his mad career.*
 
@@ -8304,15 +8568,21 @@ Alasia, or Alice, or as some have called her Adelaïs, Princess of France, and s
 
 On <span class="smallcaps">Richard’s</span> accession, Philip expected that he should immediately marry the Princess; but his attachment appeared to be cooled. Philip resented this slight upon his sister, and the unfortunate lady, after having been the cause of many private altercations, was on the point of seeing herself again made the subject of open war. <span class="smallcaps">Richard</span> is however said to have given Philip a satisfactory reason for his change of purpose, in the discovery that his father had detained Alasia from him, on account of a criminal passion which he himself entertained for the young Princess. He gave proofs of her having even borne a son to Henry, and Philip was fain to close the quarrel; and to thank the knightly honour of <span class="smallcaps">Richard</span>, which prevented him from making the scandal public. Alasia was afterwards mentioned in the dispute at Messina, but she is never named as a cause of feud in the after-wars of the Kings, though they were undertaken by Philip, on pretext of recovering her dower of Gisors, and the Vexin, which <span class="smallcaps">Richard</span> would not yield.&#160;<a href="#ref07-x" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note07-y"></a>
 § Note (y), page 297, line 582.&emsp;*His name outshine the conquerors of the world.*
 
 This extraordinary man was the Abbé Joachim, who after his return from Jerusalem retired to the mountains of Calabria, where he passed for a Prophet. In austerity of manners and life, he affected to emulate St. John the Baptist. His pilgrimage to the Holy Land had been blest with visions, and Christ himself had taught him to understand the Apocalypse, and to read there, as in a faithful history, all that was to pass on earth. The account of him may be found in Hoveden. He at last incurred the censures of the Church, but at the time of <span class="smallcaps">Richard’s</span> voyage he was in the full odour of sanctity, and the Monarch’s superstition was piqued to see the fancied saint. He did not however go to Calabria, but sent for Joachim to Messina, where he was questioned as to the result of the Crusade. Joachim said that Saladine was one of the seven heads of the Dragon in the Apocalypse, and predicted that Jerusalem should be delivered seven years after the conquest of the Soldan. “Why then,” said <span class="smallcaps">Richard</span>, “should wo go so soon?” “Your arrival,” replied the Hermit, “is very necessary: God will give you the victory over his enemies and make your name celebrated above the Princes of the Earth. This reply, which was more flattering to the vanity of <span class="smallcaps">Richard</span> than to the impatience of the Crusaders, gave especial umbrage to Philip, and possibly it was less his superiority to the superstition of his age, than his jealousy of the glory announced to his rival, which made him affect to despise the prophet and his predictions.&#160;<a href="#ref07-y" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note07-z"></a>
 § Note (z), page 297, line 589.&emsp;*Placed at his father’s feet, should аsk forgiveness still.*
 
 <span class="smallcaps">Richard</span>the First bequeathed his heart to his favourite city of Rouen, and it was buried in the Cathedral (begun by his father and continued under his reign), at the right side of the altar. On the other side was the body of Henry le Jeune, his elder brother, who died before Henry the Second. <span class="smallcaps">Richard</span>, however, still penitent for his youthful rebellion, gave strict orders that his body should be buried at the feet of his father, in the Monastery ot Fontevraud, or the Fountain of St.Everard, founded by Henry II. It is there that the statue exists from which the portraits of <span class="smallcaps">Richard</span> have been taken. At Rouen, the stone with the inscription to his memory has been removed, I believe when the present altar was erected, but the Lion-heart still rests beneath.&#160;<a href="#ref07-z" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note07-aa"></a>
 § Note (aa), page 301, line 671.&emsp;*Voluptuous lamps illume the gaudy flowers.*
@@ -8327,18 +8597,26 @@ Aboulfeda. The position of the armies is also historical.&#160;<a href="#ref07-a
 
 Froissart compares the flight of the English arrows, headed by the white goose feather, to a shower of snow.&#160;<a href="#ref08-a" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note08-b"></a>
 § Note (b), page 314, line 147.&emsp;*Bade thousands toil Kahira’s walls to frame.*
 
 Amrou, a general of the Caliph Omar, won Egypt from the Emperor Heraclius, and in the place where he encamped (near to Babylon, which still existed) he built a new town, called *Mars Fostat*, the City of Tents, in which the governor of the province afterwards resided, till Egypt was conquered by Djouhar, in the name of Moez, the Fatimite Caliph who reigned in Africa. Djouhar awaited in his camp the arrival of his master. He caused it to be surrounded with a strong wall, which was soon filled with palaces and mosques, and grew into a town, which he called Kahira, or Al Kahira, the Victorious (corrupted by the Christians into Cairo), and Mars Fostat thenceforward went by the name of Old Kahira. Saladine, after his establishment in Egypt, determined to build a wall, which should enclose both the new and old town. This labour was continued during his life principally under the eye of Karacous, who was governor of Kahira, till summoned to the defence of Acre: but the successors of the Soldan neglected to complete it. Saladine also raised a superb mosque over the tomb of the Imam Shafei, founder of one of the principal orthodox sects of Islam, and added to it an hospital for the poor, and a college for theology, history, poetry, medicine, and arithmetic; at the same time he constructed the Castle of Kahira, or the Castle of the Mountain, the only place of defence which now exists in Egypt. It was celebrated for its extent and magnificence, and the ruins which still remain are interesting. The arches are pointed, Joseph’s Well is another monument of the reign of Saladine, and was called after him, for the Soldan was proud of his name of Yusuf, or Joseph, which he inherited from his grandfather, and he loved to trace his descent from the Patriarch himself. — See *l’Histoire de Saladine, &c.*&#160;<a href="#ref08-b" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note08-c"></a>
 § Note (c), page 315, line 176.&emsp;*Forever bears the name of Saladine.*
 
 This Knight has been called the Regulus of France, and it is related that the Soldan’s gifts were so munificent, as to enable him to build on his return the Château de Jour in Burgundy; on its roof are twо little armed figures, which are said to be those of Saladine and Anglure. The same story is also told of the castle of Anglure in Lorraine, but I leave it to the French genealogists to determine their rival-claims.&#160;<a href="#ref08-c" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note08-d"></a>
 § Note (d) page 316, hne 212. With solemn dirges seek St. Hilda’s fane. The first of these was Loid William de Percy, surnamed Algernons, и ho died at Mountjoy; the second was William de Plesset, Eail of Warwick, who mai ned Maud, sister of Agnes de Percy, and who died « ithout issue in Palestine, in 1184.&#160;<a href="#ref08-d" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note08-e"></a>
 § Note (e), page 317, line 231.&emsp;*As when by him Iconium’s Prince was slain.*
@@ -8349,15 +8627,21 @@ Note (f), page 308, line 26O.&emsp;*And breathes from neighbouring hills th’ i
 
 Damascus has been often admired for the beauty of its situation and gardens. A river, which falls roaring from the mountains, rolls over a gold-coloured sand, and spreads coolness and fertility in the valley of Abennessage, or the “Vale of Violets.” It had so long been celebrated for its delightful situation, that Mahommed, who affected great temperance, refused to enter it, declaring “that there was but one Paradise destined to man, and that he waa determined not to take his in this world!”&#160;<a href="#ref08-f" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note08-g"></a>
 § Note (g), page 319, line 282.&emsp;*And war she never sought, but well sustain’d.*
 
 Saleh, the son and rightful heir of Noureddin, was but six years old when his father died, and fled for protection from Saladine to his uncle the Sultan of Mosul. Saladine was successful in every campaign, and Saleh, who feared to he given up to the victor, endeavoured to make peace with him. After the treaty was signed, and Saladine was in consequence preparing to withdraw his army from the siege of Aleppo, a young Princess arrived in the camp, escorted by a great number of slaves. She endeavoured to throw herself at the feet of the Soldan, but he who recognised the daughter of Noureddin, raised her, and inquired what she wished. She asked the safety of her brother, and the restitution of the fortress of Ezaz, which Saladine had recently won by a sharp siege. He granted her request with courtesy, and added many valuable presents. Some time after this, when Saleh and his protector the King of Mosul were both dead, Saladine continued the war; and Mazoud, son of the latter, being besieged in his capital, had recourse to the same means which had before moved the pity and blunted the sword of the conqueror. He sent the daughter of Noureddin, accompanied by his own mother and many noble ladies, to implore again the clemency of Saladine, and the restoration of the towns of Mesopotamia. This step was considered as a mark of the greatest submission, and from the humanity and generosity of the Sultan, its success was confidently anticipated. But Mazoud deceived himself. Saladine had found him too troublesome an enemy to let slip his prey in the very moment of success. He received the Sultanas with kindness, and with all the honours due to their rank; but intreaties and tears were vain; he was inflexible for the first time. On this subject M. Marin observes, “that to the political spirit of the present times it would appear surprising that a hero should yield his conquests at the tears of a few women, for they asked no less than the kingdom of Mesopotamia, Nevertheless, the manners of a nation which we are accustomed to call barbarous, caused the firmness of the Soldan to be regarded as an act of the greatest harshnesss. Many Doctors of the Law, although his subjects, dared publicly to reproach him in their writings, and it is remarkable that he himself repented of what he considered an act of inhumanity.” I have less authority for the martial character of the daughter of Noureddin. At the death of Baldwin the Third this noble Arab had replied to those who counselled him to invade Judea, “that it was inhuman to molest the grief of a people that deplored its master, and that he should believe his own glory tarnished, by the attack of those who were not in a condition of defence;” but when Noureddin himself died, Amalric did not think it necessary to imitate his generosity. His invasion of Syria, however, had not the success which he had anticipated. At Paneas or Belinas (Cesarea of Philippa), he was stopped by a woman. The widow of the Atabeg who had been its governor, defended the place with such spirit, that he was glad to hide his retreat by permitting it to he рurchased. I have ventured to give this exploit to Almahide. Saladme married either the daughter οf the widow of Noureddin, but it is uncertain which.&#160;<a href="#ref08-g" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note08-h"></a>
 § Note (h), page 320 line 293.&emsp;*By valour as by vows forbid to yield.*
 
 The Knights Templar wore the red cross on the shoulder, like the other knights, but none on the back, “less the sign of the cross should ever be seen to fly.” They were however forbidden by their vows, ever to turn their backs on the enemy, as were also tht Knights Hospitaller, and the Teutonic Order.&#160;<a href="#ref08-h" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note08-h"></a>
 § Note (i), page 321, line 315.&emsp;*There Leicester first his father’s banner spread.*
@@ -8373,10 +8657,14 @@ Odard, the eldest of five brethren, who came to England with Hugh Lupus, nephew 
 
 The family of Pelham, now Earls of Chichester, was distinguished in England before the Conquest. John de Pelham, afterwards knighted, was one of those who claimed the honour of taking King John of France prisoner, at the battle of Poitiers, the King having surrendered his sword to him and Sir Roger La Warr. For this achievement the crampet, or chape of the sword, was adjudged to Sir Roger La Warr, and the buckle of the King’s belt to Sir John de Pelbam, who quartered it in his arms. It is also the occasional crest of the Earls of Chichester.&#160;<a href="#ref08-k" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note08-l"></a>
 § Note (l), page 322, line 329.&emsp;*Who once unknown his Sovereign’s spear engaged.*
 
 See the Romance of <span class="smallcaps">Cœur de Lion</span>. Sir Thomas Multon, and Sir Fulk D’Oyley, are, next to <span class="smallcaps">Richard</span> himself, the heroes of this poem, but I do not find their names in the history of the times.&#160;<a href="#ref08-l" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note08-m"></a>
 § Note (m), page 322, line 340&emsp;*To D’Oyley’s house, enraged to vengeance flies.*
@@ -8385,30 +8673,42 @@ It has already been stated, that the House of Perceval, or Yvery, can trace its 
 
 Richard Lovel, or Perceval, attended <span class="smallcaps">Richard</span> to the Holy Land, and held a principal command in his army; but, being disabled by the loss of his leg, returned to England.&#160;<a href="#ref08-m" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note08-n"></a>
 § Note (n), page 324, line 380.&emsp;*Bravest and first, usurps the vacant rein.*
 
 Many were the Emirs that perished at the battle of Arsouf but none were more regretted than a Captain of the Soldan’s Mamlukes, whose heroic bravery is celebrated by the Arabic historians. Not one of the Saracen warriors was more prompt to meet the hostile sword, he was always the first to succour his friends, and was himself never in need of their assistance. After his fall, the Moslems ran to raise him: “but he was already among the inhabitants of Неaven — *Michaud*.&#160;<a href="#ref08-n" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note08-o"></a>
 § Note (о), page 326, line 426.&emsp;*Of rout or conquest, swept unheeded by.*
 
 It ought to be had in continual remembrance, that the spirit of fanaticism was not confined to the crusaders; and that the name of “The Holy War” was mutually employed by Musulmans and Christians. While the Gospel was carried in state before the leader of the Christians, the Koran, a Koran written under the auspices, if not by the hand of the Caliph Omar, was borne with equal ceremony in the ranks of Saladine, who would pause upon the field of battle to perform his stated prayers, or hear a chapter of the sacred volume.&#160;<a href="#ref08-o" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note08-p"></a>
 § Note (p), page 328, line 466.&emsp;*And pining, met the voluntary doom.*
 
 The brave Hangest de Coucy was wounded to death at the battle of Arsouf. In a song which has been preserved he bade Adieu to France, saying that he sought the Holy Land in quest of three things most dear to a Knight: *Le Paradis, la gloire, et l’amour de sa mie*. The rest of his story is in the chronicles of the times. It bears a strong resemblance to that of the unfortunate Troubadour, William de Cabestaing, as well as to one of the *Novelle* of Boccaccio.&#160;<a href="#ref08-p" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note08-q"></a>
 § Note (q), page 329, line 493.&emsp;*Gournay and Ponthieu; and a warrior drest.*
 
 All these warriors, as well as those named hereafter, are mentioned among the noble French or Normans, most of whom perished in the Crusade. The flight of the Count of Dreux, brother to the Bishop of Beauvais, is in Vinesauf, as well as the valour of the Count of St. Paul, who had many horses killed under him.&#160;<a href="#ref08-q" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note08-r"></a>
 § Note (r), page 329, line 503.&emsp;*A race of sovereigns to Byzantium’s throne.*
 
 Josceline de Courtenay, third Count of Edessa, was deprived of that principality by the Soldan, and his fate, subsequent to the taking of Jerusalem, is unknown. He left ло male issue. The family of Courtenay, in the beginning of the thirteenth century, gave three Emperors to Constantinople; but this House, after having been raised to unexampled honours in Asia, fell, at least in France, into a decline as rapid as its elevation had been wonderful. The passion for crusading seems to have touched almost every branch of this noble family, und many were the martyrs whom it gave to the holy cause. Reginald de Courtenay, a very powerful peer, was in Palestine with Louis the Seventh, and was among those who vindicated the character of Eleunor of Guyenne, when charged by her husband with nuptial infidelity. He afterwards came to England with Henry the Second, and promoted his marriage with the divorced Queen. The prophetic motto of Courtenay seems to mourn for ever its departed grandeur, *Ubi lapsus. Quid feci?*&#160;<a href="#ref08-r" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note08-s"></a>
 § Note (s), page 329, line 509.&emsp;*They look’d to Tyre’s relentless Prince in vain.*
@@ -8424,21 +8724,29 @@ The Montmorencies derive their name from an incident in the time of Charles Mart
 
 “Now, O, St. George! if thou dost desert us Christendom must perish.”—The vision of St. George is also historical. M. Michaud thinks it was the green knight that was mistaken for him; but supernatural assistance was seldom wanting in the battles of the crusades. M. Mailly seems to have little doubt that the band of martyrs who came to assist their living brethren at Antioch in the first of their expeditions were actually seen on that occasion, that is, that they were a troop drest up by the priests to excite the enthusiasm of the rest.&#160;<a href="#ref08-t" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note08-u"></a>
 § Note (u), page 332, line 573.&emsp;*And infant cries are check’d by sudden fear.*
 
 <span class="smallcaps">Richard</span> continued to be the terror of the East, and was celebrated by the Saracens and Turks in their proverbs, long after the Crusades. If a child cried, the nurse frightened it into silence with the threat that <span class="smallcaps">Richard</span> was coming; and if a horse started, the rider exclaimed, “what! dost thou see King Richard?” In like manner Saladine became the hero of the West, und the Saracen’s Head is not yet obliterated from our sign-boards.&#160;<a href="#ref08-u" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note08-x"></a>
 § Note (x), page 334, line 625.&emsp;*And in the press was beauteous Favel slain.*
 
 The Saracens, who saw their sovereign unhorsed, interrupted the combat. The death of Favel has had the honour to be frequently mentioned by the poets who have spoken of <span class="smallcaps">Richard</span>; and among others by Drayton. Vineeauf says that his velocity was incomparable. The romance states that Favel and Lyard were both among the spoils of Cyprus: but as Normandy was celebrated for its horses, its capital having given its name to the roan steeds still so common in that province, I have ventured to make Lyard a Norman. It was the coal-black charger of <span class="smallcaps">Richard</span> which the Saracens declared to be a devil. The raven upon Lyard’s head is from the romance.&#160;<a href="#ref08-x" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 <a id="note08-y"></a>
 § Note (y), page 347, line 911.&emsp;*And thou young Fatimite, far hence remove.*
 
 Aladin, being a Persian, was probably a Shiite, or Fatimite; that is, a Mahommedan of the sect of Ali. The orthodox Musulmans hold these sectaries in still greater detestation than either Christians or Idolaters, and believe them to be farther from paradise. As one of the earliest exploits of Saladine was the suppression of the Egyptian or Fatimite Caliphs, and as the Soldan prided himself on his orthodoxy,
 none of the house of Ayoub were likely to look with complacency on the worshippers of Ali&#160;<a href="#ref08-y" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note08-z"></a>
 § Note (z), page 347, line 914.&emsp;*E’en the rude conqueror spares the haram walls?*
