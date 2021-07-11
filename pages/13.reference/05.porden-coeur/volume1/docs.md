@@ -7459,25 +7459,32 @@ As the crusades were supposed to be undertaken under the immediate sanction of H
 
 Mr. Mills has justly observed, that in the middle ages, whenever a divorce was desired, a pretext was easily found. Yet if ever nonage could bc admitted as a plea, it must be allowed that Isabelle was entitled to claim it, as she was but eight years old when her mother bestowed her on the Count of Thoron.&#160;<a href="#ref01-o" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
 
 § Note, page 30, line 543.&emsp;*Four reverend priests the Book of Life sustain.*
 
 This Standard is described by Vinesauf and most of the writers on the third crusade. Mailly observes, from Le Gendre that the custom of placing the banner on the top of a tree, itself raised on a scaffold, and drawn on a car by six oxen with velvet housings, adorned with the arms of the leader, was prevalent in the twelfth century, and that it came from Italy. The Crusaders probably owed the idea to the Pisans and Genoese, who sustained a considerable share in the siege of Acre. Vinesauf evidently speaks of it as a novelty. The fashion appears to have lasted only about one hundred and twenty years, being found cumbrous and inconvenient. It must have been almost impossible for a defeated army to save its standard.
 
+<hr class="short">
+
 § Note, page 30, line 544.&emsp;*Near it rode Lusignan, whose vest displayed.*
 
 For the arrangement of this battle see *Marin; Histoire de Saladin*, vol. ii. p. 184.
 
+<hr class="short">
+
 § Note, page 32, line 570.&emsp;*Who in Tabaria’s field its guards subdued.*
 
 Tekieddin Omar was the nephew of Saladine, and one of the bravest of his generals. He was the bitter enemy of the Christians, who had but too many reasons to deplore his valour. At the fatal battle of Tiberias he took Lusignan prisoner, and also the True Cross, which Rufinus, the Bishop of Acre, according to custom, carried that day in battle. The Bishop was armed with a cuirass, contrary to the usage of all the other Prelates, who before him had carried that Holy Wood unarmed, yet had never received a wound, whereas he, notwithstanding his armour, was shot quite through the heart with an arrow. Omar, in presenting the cross to Saladino, observed, “it should seem, from the lamentations of the Franks, that this wood is not the least important fruit of our victory.” After Saladine’s entry into Jerusalem, the splendid gold Cross which the Christians had erected on the summit of the mosque built by the Caliph Omar, and which occupied the site of the Temple of Solomon, was cast down and dragged through the streets in the mud, to the Tower of David, amid the lamentations of the Christians.”—*Maimbourg, Marin, &c.*
+
+<hr class="short">
 
 § Note, page 34, line 628.&emsp;*Five dauntless Mamlukes, in his palace bred.*
 
 With this slender guard, five of his principal Mamlukes (for the number is specified) Saladine passed many times through the enemy, and endeavoured to rally his flying troops. Speaking of the Mamlukes, Marin observes, “we must not confound those whom we have hitherto called Mamlukes, with those that afterwards reigned in Egypt. This name properly signifies a domestic slave, and was given to those who were particularly attached to the service of the Prince or his Emirs. In the commencement the Mamlukes were the children of the concubines of the Sultan, but afterwards the latter purchased slaves, of which they formed their *halca* or guard; and they often passed from the vilest employments to the command of armies. Saladine was the first who formed them into a body of soldiers, subjected them to severe discipline, and employed them on the most important occanions. It should be remarked that these Mamlukes wore a sort of yellow livery, yellow being a colour which distinguished all his household and which was affected by those who wished to appear attached to it. His successors in Egypt bought many of these slaves, who became at last the principal force of the state. They defended it at first with courage, but concluded by invading it themselves. We must not forget to say, for the history of manners, that these Mamelukes *wore the arms of the Sultan*, but that, to distinguish individuals, bars of crimson, roses, birds, griffins, and other figures were added to them upon the shield.”—*Histoire de Saladin*, tom. i.
 
 <a id="note01-p"></a>
-§ Note (p), page 36, hne 674.&emsp;*In sable folds (the hue of Islam,) bound.*
+§ Note (p), page 36, line 674.&emsp;*In sable folds (the hue of Islam,) bound.*
 
 Under the Abassides, black became the standard of the Caliphs, and has ever since continued the distinctive colour of Islam, or Mahommedan orthodoxy, in opposition to the green banner of the Fatimite Caliphs, and the white one of the Suffees “the inspired.” It has always been the custom for the principal Arabian or Moorish families to distinguish themselves and their followers by appropriate colours; of which many amusing exemplifications may be found in the History of the Quarrels of the Abencerrages and the Zegries, in the “Civil Wars of Granada.” Yellow was the peculiar badge of the house of Ayoub, the father of Saladine; and the Soldan, no less proud to display his orthodoxy than his personal power, always took care to blend the *black and yellow* in his standards. Omar, as the nephew of Saladine, bore a yellow plume, and a yellow banner. In his wars with the Christians, the Koran was always carried in state in the army of Saladine; a proof that he, no less than the Crusaders, considered himself engaged in a religious contest.&#160;<a href="#ref01-p" rev="footnote" class="footnote-backref">↩</a>
 
@@ -7523,9 +7530,13 @@ Ranulph de Glanville is named among the Norman Knights, and it is therefore prob
 
 Lulo was the commander of the marine of Egypt, but he fought on land in this battle.&#160;<a href="#ref01-w" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 § Note, page 45, line 830.&emsp;*The heaven descended Oriflamme unfolds.*
 
 The Oriflamme, or sacred banner of France, was reported to have descended from heaven, in honour either of Clovis or Charlemagne, It was, according to Mailly, a simare banner of flame-coloured taffeta, without figures or embroidery, but with three deep indentures at the bottom; and suspended to a gilded lance. Hence was derived its compound name, the word *flamme* relating to the colour of the silk, and being also a name commonly given to banners of that form. Other writers have said that it was embossed with the golden lilies of France; but they have possibly confounded it with the royal standard, of which notice will be taken in a subsequent note. Mr. Southey, in his Joan of Arc, states that the Oriflamme was originally used only in wars against the infidels, and that in after years it became a signal that no quarter was to be given; he adds that when Philip (as reported by some historians) erected the Oriflamme at Crecy, Edward in return raised up his burning Dragon as the English signal for massacre.—The Oriflamme was in fact only the standard of the abbey of St. Denis, and borne in its wars by the Counts of Vexin, as *Avoués* or secular champions of the abbey, till Philip the First united the Vexin to the Crown, when this banner being in high reputation, he gave it place before even his own standard; the taste of the age enveloped its history in fable, and it was believed to ensure victory. The fallacy was at length proved, and the Kings of France found it expedient to forget it, or to feign that it had been reclaimed by Heaven under Charles the Seventh. Philip Augustus, previous to his embarkation for the Crusade, received the Oriflamme, and the *bourdon*, or pilgrim’s staff, with great solemnity in the church of St. Denis.
+
+<hr class="short">
 
 <a id="note01-x"></a>
 § Note (x), page 48, line 908.&emsp;*And the glad seas feel lighten’d of their weight.*
@@ -7538,12 +7549,16 @@ their conquest of England, bounded their voyages to the passage of the channel. 
 <a id="note02-a"></a>
 § Note (a), page 54, line 30.&emsp;*And Berengaria, his affianced bride.*
 
-Vinesauf speaks of the vessel which contained the Queens as being light and fragile.&#160;<a href="#ref02-a" rev="footnote" class="footnote-backref">↩</a> 
+Vinesauf speaks of the vessel which contained the Queens as being light and fragile.&#160;<a href="#ref02-a" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note02-b"></a>
 § Note (b), page 58, line 116.&emsp;*Though stripes and slavery be the stranger’s doom.*
 
-All those frightful tales of cruelty to the unhappy wanderer, which now appear almost as dreams of imagination, seem to have been realized in Russia during the middle ages. That country was then sunk in the abyss of slavery and ignorance—knowledge was forbidden, and even the recent introduction of an imperfect Christianity had not ameliorated the condition of the people. The unfortunate pilgrim who was shipwrecked, or led by any accident to that inhospitable shоге, became a slave, and the attempt to return to his own country was punished with death. — *Mailly, &c.*&#160;<a href="#ref02-b" rev="footnote" class="footnote-backref">↩</a> 
+All those frightful tales of cruelty to the unhappy wanderer, which now appear almost as dreams of imagination, seem to have been realized in Russia during the middle ages. That country was then sunk in the abyss of slavery and ignorance—knowledge was forbidden, and even the recent introduction of an imperfect Christianity had not ameliorated the condition of the people. The unfortunate pilgrim who was shipwrecked, or led by any accident to that inhospitable shоге, became a slave, and the attempt to return to his own country was punished with death. — *Mailly, &c.*&#160;<a href="#ref02-b" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 <a id="note02-c"></a>
 § Note (c), page 59, line 141.&emsp;*Methinks Byzantium’s exiled Lords return.*
@@ -7608,9 +7623,13 @@ Sir Stephen Turnham, the King’s Marshal and Treasurer.&#160;<a href="#ref02-k"
 
 William de Bosco, a Norman. See Vinesauf.&#160;<a href="#ref02-l" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 § Note, page 71, line 399.&emsp;*The gallant Robert, heir of Grosvenor’s line.*
 
 Sir Robert le Grosvenor distinguished himself at Messina and at Cyprus, as well as in the subsequent events of the Crusades.
+
+<hr class="short">
 
 <a id="note02-m"></a>
 § Note (m), page 75, line 490.&emsp;*To bid the senseless blossoms whisper love.*
