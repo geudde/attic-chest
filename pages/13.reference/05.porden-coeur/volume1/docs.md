@@ -8795,7 +8795,7 @@ The Mohammedan nations, barbarians as they are, have at least one refinement unk
 
 <hr class="short">
 
-§ Note, page 348, line 948.&emsp;*By the dread bridge and endless flames of hell.*
+► Note, page 348, line 948.&emsp;*By the dread bridge and endless flames of hell.*
 
 The bridge of Al Sirat, which lies over the midst of hell, and which the souls, both of the just and unjust, will be obliged to pass. This bridge is finer than a hair, and sharper than the edge of a sword, and is besides beset with thorns and brambles. Nevertheless the good will pass over it with the rapidity of lightning, whereas the wicked will soon miss their footing, and fall headlong into hell. The orthodox Mahommedans maintain that the torments of hell are of eternal duration, — *Sale’s Koran—Preliminary Discourse.*
 
