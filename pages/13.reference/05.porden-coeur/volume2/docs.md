@@ -3721,7 +3721,7 @@ Plays in each stream, and breathes in all her gales,<br>
 My youthful ear her noble minstrels heard,<br>
 And caught a strain from each sublimer bard.<br>
 Vidal, who roams in fancy’s wildest maze,<br>
-Soft Marie’s tales,<sup id="ref13-b"><a href="#note13-b" class="footnote-ref">b</a></sup> Alphonso’s princely lays;<sup id="ref13-c"><a href="#note13-c" class="footnote-ref">c</a></sup><br>
+Soft Marie’s tales,<sup id="ref13-b"><a href="#note13-b" class="footnote-ref">b</a></sup> Alphonso’s princely lays;<sup id="ref13-c"><a href="#note13-b" class="footnote-ref">c</a></sup><br>
 His Sister, who beloved by Phœbus’ quire,<br>
 Wakes in Provence her Arragonian lyre;<br>
 Bertrand de Born, whose youthful songs were fire;<br>
@@ -5412,7 +5412,7 @@ Of earthly years, to those of pain to come!”<br>
 &emsp;“I do not trifle—turn thou not away<br>
 In scorn—I heard with torture, day by day,<br>
 Of Bertrand’s falsehood—how Amanda’s charms,<br>
-(Turenne’s fair daughter) lured him from my arms.<br>
+(Turenne’s fair daughter) lured him from my arms.<sup id="ref14-n"><a href="#note14-n" class="footnote-ref">n</a></sup><br>
 I wrote, and no reply—and while my brain<br>
 With torture reel’d, my father urg’d again<br>
 The Saxon’s suit—indignant phrenzy came<br>
@@ -6196,7 +6196,7 @@ Whose hearts like his to Moslem beauty bow’d;<br>
 How Becket’s sire in Arab durance lay,<br>
 His master’s daughter broke his chains away,<br>
 Forsook her faith, her sire, and natal tongue,<br>
-And from their loves the sainted martyr sprung:<br>
+And from their loves the sainted martyr sprung:<sup id="ref15-o"><a href="#note15-o" class="footnote-ref">o</a></sup><br>
 Or, how the brother of the English Queen,<br>
 Loved by the sister of Mirammolin,<br>
 When died his sire, and rebels seized the throne,<br>
@@ -6322,7 +6322,7 @@ They vex’d the Soldan’s scanty hours of rest.<br>
 He smiled, disdainful of each rebel foe,<br>
 Of taunt and threats, and calmly wrote below,<br>
 “To what protector would my subjects flee?<br>
-What seeks the Prince who scorns a friend like me?”<sup id="ref15-s"><a href="#note15-s" class="footnote-ref">s</a></sup><br>
+What seeks the Prince who scorns a friend like me?”<sup id="ref15-t"><a href="#note15-t" class="footnote-ref">t</a></sup><br>
 Truth had its force; to duty all return’d,<br>
 The proffer’d grace alone Seiffeddin spurn’d:<br>
 The Soldan wrote, and from an angry heart,<br>
@@ -6730,7 +6730,7 @@ It fails—but lo! the regal bark is nigh,<br>
 First in the morn, but now in flight the last;<br>
 O’er its steep side his weary arms he cast:<br>
 &emsp;“Turn, Monarch, turn! thy faithful comrades save!”<br>
-He spoke, and sunk exhausted in the wave.<sup id="ref15-t"><a href="#note15-t" class="footnote-ref">t</a></sup><br>
+He spoke, and sunk exhausted in the wave.<sup id="ref15-u"><a href="#note15-u" class="footnote-ref">u</a></sup><br>
 An hundred arms in instant succour vied,<br>
 And snatch’d the fainting hero from the tide.<br>
 As <span class="smallcaps">Richard</span> to his Leach the Knight consign’d,<br>
@@ -6830,7 +6830,7 @@ The fancied glory, sees his army fly!<br>
 “And who the Knight on yonder hill?” he cried:<br>
 “The King! the King!” an hundred tongues replied;<br>
 “The King on foot! then be this steed of mine<br>
-Led for his use.”—cried generous Saladine.”<sup id="ref15-u"><a href="#note15-u" class="footnote-ref">u</a></sup><br>
+Led for his use.”—cried generous Saladine.”<sup id="ref15-x"><a href="#note15-x" class="footnote-ref">x</a></sup><br>
 Forth Adel sprang to stop the flying crowd,<br>
 “Base slaves! so late of easy laurels proud,<br>
 In danger humble as in council loud!<br>
@@ -7091,8 +7091,8 @@ Are all that wait the wealthy and the proud;<br>
 And let us reap the lesson, taught to know,<br>
 Perchance his next dread summons calls our foe.<br>
 But this frail arm no more the lance may wield—<br>
-My brother, lead my squadrons to the field."<br>
-&emsp;Almanzor frown'd: “Upon th’ accursed tower I fought,<br>
+My brother, lead my squadrons to the field.”<br>
+&emsp;Almanzor frown’d: “Upon th’ accursed tower I fought,<br>
 I bent before that dreadful Giaour;<br>
 Behold this scar! my turban, ne’er before<br>
 Profaned with dust, was crimson with my gore;<br>
@@ -8249,7 +8249,7 @@ Bertrand threw himself at his feet, and swore to him a faithful and everlasting 
 <a id="note12-h"></a>
 § Note (h), page 134, line 203.&emsp;*By Pope or Legate, and as οft renew’d.* 
 
-The potentates of modern Europe would not be likely so far to honour the invectives of a poet as to go to war for a song. It is curious to remark the manner in which Bertrand kept all Europe in a ferment for many years, by his reproaches and satires, addressed alternately to <span class="smallcaps">Richard</span>, to Aiphonso of Arragon, and to Philip Augustus, whom he hated above all the rest, and accuses of the vilest cowardice. On the other hand, he flatters the martial fame of <span class="smallcaps">Richard</span>, by comparing him to some celebrated robbers—in his eyes their profession was no dishonour.&#160;<a href="#ref12-h" rev="footnote" class="footnote-backref">↩</a>
+The potentates of modern Europe would not be likely so far to honour the invectives of a poet as to go to war for a song. It is curious to remark the manner in which Bertrand kept all Europe in a ferment for many years, by his reproaches and satires, addressed alternately to <span class="smallcaps">Richard</span>, to Alphonso of Arragon, and to Philip Augustus, whom he hated above all the rest, and accuses of the vilest cowardice. On the other hand, he flatters the martial fame of <span class="smallcaps">Richard</span>, by comparing him to some celebrated robbers—in his eyes their profession was no dishonour.&#160;<a href="#ref12-h" rev="footnote" class="footnote-backref">↩</a>
 
 <a id="note12-i"></a>
 § Note (i), page 138, line 296.&emsp;*He hated Conrad, and he laid him low.*
@@ -8342,29 +8342,377 @@ Maynard de Gortz, distinguished by Hoveden as a satellite of Leopold and enemy t
 <a id="note13-b"></a>
 § Note (b) and (c), page 175, line 95.&emsp;*Soft Marie’s tales, Alphonso’s princely lays.*
 
-Those who have perused Mr. Ellis's agreeable abstract of our old English Romances of Chivalry, can scarcely fail to remember with pleasure the twelve lays of Marie of France, said to have been composed at the court of our Henry the Second, and which appear to contain more novelty and elegance of invention than is usual in the Fabliaux of that age. Alphonzo the Second, King of Arragon, was himself a Troubadour and the patron of Troubadours, in whose eyes his bounty covered his numerous vices and his notorious want of public faith. The songs of Bertrand de Born, prove, however, that there were others of the tuneful brotherhood, whose hatred painted in the darkest colours the Prince whom their flattery adorned with every virtue. Beatrix, the sister of Aiphonso, was married to Raymond Bérenger, Count of Provence. They were both votaries of the Muses.
+Those who have perused Mr. Ellis's agreeable abstract of our old English Romances of Chivalry, can scarcely fail to remember with pleasure the twelve lays of Marie of France, said to have been composed at the court of our Henry the Second, and which appear to contain more novelty and elegance of invention than is usual in the Fabliaux of that age. Alphonzo the Second, King of Arragon, was himself a Troubadour and the patron of Troubadours, in whose eyes his bounty covered his numerous vices and his notorious want of public faith. The songs of Bertrand de Born, prove, however, that there were others of the tuneful brotherhood, whose hatred painted in the darkest colours the Prince whom their flattery adorned with every virtue. Beatrix, the sister of Alphonso, was married to Raymond Bérenger, Count of Provence. They were both votaries of the Muses.&#160;<a href="#ref13-b" rev="footnote" class="footnote-backref">↩</a>
 
 ### \*&emsp;&emsp;\*&emsp;&emsp;\*
 
 <a id="note13-d"></a>
-§ Note (d), page 176, tine 99. Arnaud, whose strains the female heart allure. Arnaud Daniel has been celebrated both by Petrarch and Dante. The former calls him the " Great Master of Love," and in a poem, where he begins each stanza with a line from some celebrated poet, he has borrowed one from him, vol. ir. 2 D
-the only Provençal on whom he confers that honour. Nevertheless, the taste of modern critics has agreed to prefer what remains to us of Arnaud de Marveil, whom Petrarch calls " the less famous Arnaud." Arnaud de Marveil was long attached to Adelaide, daughter of Raymond of Toulouse, married to the Viscount de Beziers; but Aiphonso of Arragon was also an admirer of this lady; and the unhappy Troubadour was at last dismissed, to appease the jealousy of his royal rival. Note (e), page 176, line 108. When Princes sought; and Queens adjudged the prize. Eleanor of Guyenne presided for some time over the Courts of Love, which her son <span class="smallcaps">Richard</span>, then only Count of Poitou, held at Avignon. At these meetings questions in the science of Love were frequently debated; some favourite Knight took the name of " the Nightingale, the counsellor of Love," and sustained his side of the argument against other Cavaliers under the names of the Goldfinch, the Chaffinch, &c. it was always understood that tlie nightingale was to be victorious. One specimen of these questions or tensons ďaniour will probably be sufficient: One lady being beloved by a very valiant knight, commanded him to abstain from a tournament, and the prize was in consequence obtained by his rival. Another lady, whose cavalier was a coward, urged him to enter the lists;—he did so, and was victorious. Which of these knights gave the strongest proof of love? Note(f), page 177, line 1Э8. And knightly youth to deathless deeds inspire. The reader is requested to bear in mind the distinction between the Langue d'Oc, or Provençal dialect, now pre- gerved only in the songs of the Troubadours and the Patois of some regions of France, and the Langue d'Oil, or Romanse
-language, the parent of tlie modern French, in which the Trouvères composed their Fabliaux, and the early romances of chivalry. Note (g), pnge 177, line 189. Such Pierre has framed. Pierre Cardinal, who lived nearly a century, and died about the year 1200, is called by Sismondi the Juvenal of Provencal poetry. His numbers seem to have been as harmonious as his satire was severe, and he spared neither the highest clergy, the military orders, the monks, nobles, nor even the ladies. Of the clergy he says (w ith a boldness which in those days is almost inconceivable): " Indulgences, pardons, God and the Devil; they make use of all. To some they grant Paradise by their pardons, and others they send to hell by their excommunication. There is no crime which the monks will not absolve, and they sell to renegades and usurers the sepulture which they refuse to the poor. To live in idleness, to buy good fish, the whitest bread, the most exquisite wine: this is their whole employment. Would to Heaven I belonged to their order, if this be the way of salvation!" In another place he says:—" Du levant au couchant, je fais cette proposition à tout le monde: je promets un besant d'or u tout homme loyal, pourvu que chaque homme déloyal mc donne un clou. D'un petit gâteau je nourrirais tout ce qu'il y a d'honnêtes gens; mais, si je voulais donner à manger aux méchans, j'irais sans regarder, criant partout: Messieurs, venez manger chez moi." The contrast between this Troubadour and his contemporaries, who devoted the charms of " la gaie science" exclusively to arms and love, induces me to make one more quotation from Pierre Cardinal:—" Once on a time a storm of rain fell on a city, which struck with madness every person whom it wetted; and all but one individual, who was asleep and did not leave his house, shared 2 d 2
-this fate. When he waked, the rain had ceased, and he went forth to pay visits to his fellow citizens, whom he found indulging in every species of extravagance; one was dressed, another naked; one spit up into the air, another was flinging stones; one was tearing his clothes, another was dressed in royal robes, and believed himself to be a king. The one rational being was astonished to find that all had lost their senses, and sought on every side for a sensible person, but sought in vain. The more he was amazed, the more they too were surprised at his orderly deportment, and they did not hesitate to aifirm that he had lost his reason, because they perceived that his actions bore no resemblance to their own. Then arose an emulation between them, each striving to inflict on him the greatest number of blows; they push, tear, shake, and overwhelm him; now they knock him down, now they raise him up; and with difficulty he saves himself by gaining his own lodging, covered with mud and half dead.— This fable is a representation of the world, and of those who compose it. The world is the city filled with frantic people; covetousness is the rain with which it is inundated; and pride and depravity have enveloped all men. If any one has been preserved from them by the assistance of God, he is considered as a fool, tormented, and persecuted, because he thinks not like others," Note(h), page 184, line 291. On three huge crags, with horrid depths between. It would be little amusing to the reader to enter into the various etymologies of the nameof Trivallis, or even the different opinions respecting its locality. Mr. Sharon Turnerand Mr. Mills read it Tyrolis, and consign the lion-hearted King to a castle in the Tyrol. The description in the poem ispartly taken from some notes on the subject with whichl have been furnished by the kindness of M. Schweighæuser, Jun., Professor of Greek philosophy at Strasbourg; though the vicinity to Lan-
-dau agrees but ill with the relation that <span class="smallcaps">Richard</span> was confined in that castle while in the power ef the Duke of Austria, and before his fate was generally known. But there are other places which assert the name of Trivallis, and I am inclined to think, that as <span class="smallcaps">Richard</span> was not only immured by Leopold, but afterwards compelled to follow the motions of the Imperial Diet to Haguenau, Worms, Spires, and Mayence, every castle which can pretend to the honour of having sheltered the heroic monarch is anxious to claim a title so illustrious. I subjoin a portion of M. Schweig- hæuser's letter: " Le mention de nos monumens me conduit au château de Trivallis, que nous appelions Trifels (fels signifie roche, et Tri paraît designer le nombre de trois, quoiqu'on ait trouvé aussi d'autres etymologies). Mais jc l'ai aussi vu moi-même, et je viens encore de recueillir quelques renseignemens à ce sujet auprès d'un habitant des environs. Vous trouverez quelques indications intéressantes sur les circonstances historiques qui se rattachent à ce château, dans le t. ii. p. 188, de YAlsatia Illustrata de Schœpflin, qui se trouve sans doute dans quelque Bibliothèque de Londres. Outre votre <span class="smallcaps">Richard</span>, Henri VI. y avait fait garder d'autres prisonniers illustres, et des trésors immenses, et déjà Henri cinq en avait fait un usage pareil. Quant à la position, ce château, flanqué de deux autres plus petits et séparés du chateau principal par des vallées, est situé à environ trois lieues à l'ouest de la ville de Landau, sur une montagne sauvage, couvert de forêts ténébreuses, mais dominant la riante vallée, où se trouve la petite ville d'Anweiler. Le hazard d'une promenade solitaire, et qui n'avoit d'autre but que de gravir, avec l'impétuosité de la jeunesse, les hauteurs et les rochers, m'y conduisit il y a plus de vingt-cinq ans, et je fus singulièrement frappé par les beautés sauvages de ce site, par le* murs imposants du château queje découvris tout-à-coup et dont une tour 2 d 3
-formidable existe encore, ainsi que par les cris des oiseaux de proie que mon approche troubloit dans leur repos." Note (i), page 186, line 337. And steal his accents as I steal his song. The following lines are nearly a translation of the original song, which is preserved both in the French and Provençal dialects. Note (k), page 188, line 370. Th' Imperial Eagle claims the prey. Leopold sold his royal prisoner to the Emperor Henry VI. for 60,000 pounds of silver, of the standard weight of Cologne. With this sum Leopold built the walls of Vienna, purchased the duchies of Štyria and Neuburg, the counties or earldoms of Linz and Wells, and the bishoprics of Passau and Wurtzbourg. Note (1), page 195, line 533. Or roam as wolves, to feast on human blood. The belief that those who deal in magic are compelled annually to wear for a certain period the form of ravenous animals, and that they are then the most ferocious beasts of the forest, seems to have been a favourite superstition in many parts of the world. America has its wizard tigers; the forests of Germany their weir-wolves, and those of Annonça their loups-garoux, or bisclaverets. In the Lays of Marie of France (mentioned in a preceding note on this book), there is a pleasing fable under the name of Risdaverct, and the German tale of The Three Sisters, with perhaps many others, have their origin in the same superstition. Note (m), page 200 line 667. By vows on Sylvia's conquer d ramparts made. Sancho, son of Aiphonso, the first king of Portugal, was
-assisted in his conquest of Sylvia from the Moors by a party of Richard's Crusaders, then repairing to the rendezvous at Messina. The Germans and French, on their way to the second Crusade, had in like manner aided his father in the reduction of Lisbon.,BOOK XIV. Note (a), page 233, line 121, Who mourn'd by Henrys craft a brother slain. The Archbishops of Cologne and Mayence, the Dukes of Louvain, Lembourg, and Saxony, and many other Magnates, were at this time indignant against the Emperor on account of the murder of the Bishop of Liege, brother to the Duke of Louvain, which he was believed to have brought about. This circumstance strengthened their exertions on behalf of Richard. Note (b), page 224, line 158. And the black soid in lingering torturesßed. Otho of Burgundy died at Acre on his homeward voyage. Note (c), page 226, line 186. Resume thy Seals, and be thyself again. At this interview, <span class="smallcaps">Richard</span> not only forgave Longchamp for all the mischief which his intemperate conduct had excited, but restored him to his dignity as Chancellor of England. Note (d), page 227, line 218. His fortn majestic, and commanding air. In the church of Haguenau, which is ancient enough to have been the scene of this conference, the stone pulpit is covered with bas reliefs, representing the whole story of St. 2 D %
-George and the Dragon, his deliverance of Sabra, and her restoration to her parents. The legend of St. George appeals to be popular in Alsace and the neighbouring cantons of Switzerland, where it is frequent on the fountains and in the churches. Note (e), page 230, line 300. Of my Constantia, s claims, and tvell-knoum rigid. Constantia, Empress of Germany, bister to King William uf Sicily, was certainly his legitimate heir, it' a female succession were allowed. Those who are interested to see how far the poem adheres to history, in the relation of this memorable trial, the seven charges, and the celebrated reply of <span class="smallcaps">Richard</span>, may consult Matthew Paris, Hoveden, or the concise but very clear account of Hume. Note (f), page 233, line 366. And give this demon back to poîver again. The opinion entertained of Richard's talents is shewn by the epithet with which his enemies honoured him. Philip Augustus apprized John of his liberation in these words. " Take heed to yourself, the devil is unchained." Note(g), page 235, line 398. Th' Armorie Peers or Paladins of old. Richard's object at Messina was not only todemand his sister's freedom, she having been thrown into prison by Tancred for opposing his elevation, but to secure repayment of her dower, and those treisures which William had bequeathed to Henry the Second, and which <span class="smallcaps">Richard</span> claimed as his father's heir. Among these was a chair of state of massy gold, belonging to the Queen; and a table formed of one piece of native gold, large enough for twelve persons to dine at. These claims were commuted for a certain quantity of ships and money.
-Note (h), page 239, line 496. And tears are glistening in unwonted eyes. Richard's defence moved the assembly to tears. Tlie heroes of the Crusades were almost as much given to weeping as those of Homer and Virgil: but the eloquence and arguments of the English Monarch seem to have produced no common sensation on the Magnates of Germany. His liberation was certainly due to their conviction of his innocence and in. juries. Note (i), page 239, line 504. Of Cologne weight, and of the purest gold. More accurately one hundred thousand marks of the standard weight of Cologne, half to be paid before his liberation and half on his arrival in England; and fifty thousand marks to assist the Emperor in the acquisition of Sicily. Note (k), page 240, line 530. Or yield allegiance to lm crown no more. For the honour of the Magnates of Germany, this fact is historical. If the Emperor had been susceptible of shame, he ought to have felt it at that moment. Note(l), page 241, line 542. To Arablides the merry Christians dance. This is no ideal picture. In the suspensions of hostility which occurred during the third Crusade, it was often realized. Since the time of Godfrey the spirit of bigotry was evidently much softened on both sides, and tlie virtues of Saladine and the prowess of the European kings, had conciliated a mutual esteem, which communicated itself to their followers. Gibbon observes, " that on the whole of this war there is a marvellous agreement between the Christian and Mahometan writers, who mutually praise the virtues of their enemies."
-Note (m), page 241, Hne 552. Who may contend mith Joes whose sports are these? This is reported to have been the speech of Saladino, at one of the Christian tournaments to which he was invited. Note, page 252, line 790. ( Turenne's fair daughter) lured him from my arms. Maenz, or Amanda de Montagnac, was daughter to the Viscount of Turenne. Note (o), page 253, line 811. The letter from his grasp and ran it o'er. The following lines are much condensed from the original " Sirvente" of Bertrand de Born. Note (p), page 257, line 900. And in his hand his sever d head he bore. See Dante, Inferno, canto 28—But Henry, not John, was the name of the " young King." I vidi certo j et anchor par ch'io '1 veggia Un busto sanza capo andar; si come Andavan gli altri de la trista greggia. El capo tronco tenea per le chiome Peso! con mano, a guisa di lanterna Sappi, ch'I son Bertran dal Bornio, quelli, Che diedi al re Giovann'i mai conforti— I feci '1 padre e '1 figlio in se ribelli: Achitophel non fe piu d' Absalone Et di David co i malvagi puntelli. Perch 'i parti cosi giunte persone, Partito porto il mi cerebro lasso Dal suo pricipio, che in questo troncone: Cosi s'osserva in me lo contrapaso.
-BOOK XV. Note (a), page 268, line I L The poor his mite, untax d the Abbot yields. Among the ecclesiastical contributors to their Monarch's ransom, Hoveden names the Abbot of Semplingham, of the Cistercian order, who gave his years wool. But <span class="smallcaps">Richard</span> directed memoranda to be kept of all the money received from the Church, that it might be faithfully repaid. Note (b), page 269, line 37. We guard our captive; so may discord cease. Fifty thousand marks of silver on the part of the King, and thirty thousand from John, if Henry would detain <span class="smallcaps">Richard</span> in prison till the Michaelmas following; or one thousand pounds of silver for every month of his captivity; or, finally, one hundred thousand marks of silver from Philip, and fifty thousand from John, if he would confine bim another year, or betray him into their hands. *' Behold in what manner be loved him!" observes Hoveden, in relating this fraternal proposal. Henry in consequence deferred the liberation of his prisoner, and shewed him the letters. " <span class="smallcaps">Richard</span> then despaired of his liberty." Note (c), page 269, line 47. Have tve not sworn? a voice of thunder says. The Archbishops of Mentz, Cologne, and Saxeburg, the Bishops of Worms, Spires, and Liege, the Duke of Suabia, brother to the Emperor, the Dukes of Austria and Louvain, the Count Palatine of the Rhine, and other Magnates, who were partners in the oath before alluded to respecting Richard's safety, reproached the Emperor with his avarice, and compelled him to be faithful,— Hoveden, fol. 413. It is curious, to find Leopold in this list.
-Note (d), page 271, line 89. Tme to thy cause f though, late he seem 1 d thy foe. The Archbishops of Mentz and Cologne were particularly active in the deliverance of the King. <span class="smallcaps">Richard</span> promised to assist the empire against France, and received the homage of all the Magnates, " saving their fidelity to the Emperor." Note (e), page 272, line 124. Received the King, nor England known his doom. Perhaps of ail the disgraceful circumstances which attended the captivity of <span class="smallcaps">Richard</span>, this last is the most scandalous. Henry repented that he had let him go, and wished to recover his captive, that he might either obtain the promised gold of John and Philip, or a larger ransom—but <span class="smallcaps">Richard</span> had just Bailed when the pursuers reached Antwerp, " and they dared not follow him by sea."— Walter of Heming- /ord, p. 539. Note (f), page 273, line 127. Now Trenchemer joys to steer his long-lost lord. Alain de Trenchemer, the favourite pilot of <span class="smallcaps">Richard</span>, is celebrated both in history and romance. His surname was probably derived from his skill. Many ships met the King on his voyage, and his people wept for joy at his return. Note (g), page 274, line 154. Not ttvice thy ransom ioould have brought thee here. " Tlie citizens having changed their tears into the oil of gladnees, the face of the whole city was adorned, so that the German nobles that accompanied <span class="smallcaps">Richard</span>, and vho believed that England had been drained for the ransom of the King, were astonished at the greatness of its wealth, and one of them said to <span class="smallcaps">Richard</span>, ' í admire, oh King! the prudence of thy people. Now that thou art returned, they
-shew their riches in safety; but a short time since, when thou wert in the custody of our Emperor, they deplored their poverty. Verily, О King, if the Emperor could have foreseen the wealth of the English, he would not have believed that England could be easily exhausted; nor have dismissed thee without thou hadst given an intolerable sum for thy redemption.' "— Walter of Hemingford, p. 539. Such speeches are frequently recorded to have been made by foreigners on their visits to England. The latest is perhaps that of the Emperor Alexander. Note (h), page 275, line 169. Till Richard's might isfelt — beneath his power. The besieged heard the clamour of the multitude, and the sound of the trumpets, but thought it a trick of the generals to delude them. An arrow from the walls killed a man at the King's feet; he afterwards assaulted and took the town. — Hoveden. Note (i), page 276, line 192. And John s stout rebels fed from Robin Hood. Mr. Ritson, in his collection of songs, &c. relating to the adventures of Robin Hood, seems to think the popular belief of his having been Earl of Huntingdon, not inconsistent with the manners of the times. Most of the ballads describe him as not being on good terms with John, which countenances the idea that " the King," with whom he had a friendly meeting, was probably <span class="smallcaps">Richard</span>, especially as Hoveden mentions that after the siege of Nottingham, that Monarch visited Clipstone, and Sherwood Forest, and was much pleased with that part of the country, which he bad never seen before. Such an adventure is sufficiently in harmony with Richard's character.
-Note (k), page 277, line 217. But a new day rose brighter than the last. Hoveden records it as a saying, on the death of Henry the Second and accession of Richard: " Mira canam, sol occubuit, nox nulla secuta est. Vere nulla nox secuta est post occasum sob's. Nam radius solis solium solis tenens, sole suo jubar lucidius ac latius spargi t." He continues his play of words many lines farther: " Sol pater, et radius filius cius erat." Note (1), page 277, line 226. Used the best means to human wisdom given. The cross-bow was for some time laid aside, in obedience to the second Lateran Council, which proscribed its use, as an instrument of destruction so powerful and so hateful to God, that he who exercised it against Christians and Catholics should be held accursed. The anathema appears to have occasioned its entire disuse. It had been employed in the first crusade, but does not appear again, even in the Holy Land, till <span class="smallcaps">Richard</span> the First, interpreting the prohibition literally, revived it against the Infidels—-whose destruction must be equally pleasing to God and man. He afterwards used it in his European battles; and when he fell by the " quarrel" at the siege of Chaluz, it was considered by his enemies as an instance of heavenly retribution. Note (m), page 280, line 299. Almighty vengeance shuts the gates of heaven. Alluding to the Oriental belief that the føll of the Angels was occasioned by their refusal, as creatures formed of the element of fire, to worship Adam, whom God had created of the dust of the earth, and whom their pride considered as inferior.
-Note (n), page 288, line 478 Sole living thing, that seems to live on air. A small spider, called the naga-t' allah, or " she camel of God," is sometimes the only animal to be seen for many days, and has no visible source of subsistence. Note, page 288, line 492. And from their loves the sainted Martyr sprung. This incident, since so often fabled, seems to have been historically true of the parents of St. Thomas à Becket. Note (p), page 288, line 496. Beheld the generous Moor restore his crown. The adventures of Sancho, brother to Berengaria, and his Moorish mistress, with the assistance afforded him by the Mirammolin in the recovery of his crown, are related at some length by Hoveden, and might furnish materials for three or four romances. Note (q), page 289, line 517. Ebbs from each burning limb and bursting vein. Some travellers assert that the dryness occasioned by the simoom is such as to cause the flesh to crack; so that the sufferer sometimes expires from the consequent loss of blood. Others give a much milder account of its operation, which is probably very various. The most dreadful which I have met with, relates to the Red Desert of Persia. Note (r), page 291, line 548. Their lips are yellow with the crust of death. In the case of persons perishing by thirst in the desert, shortly before death the lips, and all the inside of the moutli, become covered with a yellow crust resembling was.
-Note (s), page 292, une 572. The juicy melon's sweet and copious draught. The water-melon, in such regions truly the most precious of fruits, is occasionally found growing in the sand, in the dryest parts of the desert, where its appearance seems little less than miraculous. Note (s), page 294, line 616. What seeks the Prince who spurns afriend like me? The'particulars of this revolt, and the two letters of Saladine, are historical. Note (t), page 311, line 1020. He spoke, and sunk exhausted in the wave. The monarch had seen the yellow flags of Saladine on the ramparts, and turned his vessels from a port which he believed already in the hands of his enemies. Jaffa would have been lost, but for the presence of mind and intrepidity of the swimmer. The historical account of the events of this siege have perhaps a stronger interest than can easily be given to a poetical narration. Note (u), page 315, line 1119. Led for his use—cried generous Saladine. See the " Histoire de Saladine.",BOOK XVI. Note (a), page S30, line 159. In Sejjin, record of the wrath divine. Sejjin is the name of the general register, in which are inscribed the actions of the wicked; as Illiyyun is of that
-whícli contains the actions of the good. Tasnim is the highest fountain of Paradise; those who are privileged to drink its waters unmixed, shall approach near to the throne of God, and be incessantly employed in the contemplation of the Divinity— Koran. Note (b), page 330, line 167. Confusion, Death, upon his impious head. In the memorable battle of Beder, the first victory of the Faithful, in which Mahommed demanded the succour of Gabriel and three thousand angels; his little troop was beginning to yield before the numbers of the Koreish, when the Prophet, starting from the throne on which he viewed the battle, cast a handful of sand into the air, and exclaimed, '·' let their faces be covered with confusion." The eifect was instantaneous and decisive; both armies in fancy beheld the angelic warriors; the Koreish trembled and fled.— Gibbon, Decline and Fail, vol. 9. Note (c), page 345, line 502. Meet sin and judgment —/, by birth a Queen! At the time when the monarchs of France pretended to the title of King of Kings, its Princesses affected that of Queen, which was sometimes given to Alasia; but whether in compliment to her birth, or to her contract with <span class="smallcaps">Richard</span>, I am uncertain. Note (d), page 345, line 503. And if I cannot, like some Sovereigns, kneel. An allusion to the penance of Henry the Second, after the murder of Becket; and to some of the effects of Richard's remorse on the loss of liis father, to whose death he accused himself of having at least contributed by his rebellious conduct. VOL. II. 2 E
-Note (e), page 354, line 713. Tke easy price of that triumphant day. Only two persons of any note are said to have peribhed on the Christian side in the double battle of Jaffa, which may certainly be reckoned among the most extraordinary in history. Those who may be desirous of perusing its details, will find many interesting particulars fn the Histoire de Saladin, and the Histories of the Crusades; but Gibbon's short account is perhaps more flattering to the fame of Richard Cœur de Lion, than any thing else which has been written respecting hira; unless it be Mr. Sharon Turner's admirable sketch of his reign, in his History of England. The terms of the treaty between Richard and Saladine, and the facts on which the concluding pages of the poem are founded, are in the histories of the Crusades. Some liberties have been taken, especially in condensing into one scene the solemn swearing of the peace at Ramla, the accomplishment of the vows of the Crusades, the celebration of mass in the church of the Holy Sepulchre, and the behaviour of Saladine on witnessing the descent of the Sacred Fire; but almost all the circumstances are historical.
+§ Note (d), page 176, line 99.&emsp;*Arnaud, whose strains the female heart allure.*
+
+Arnaud Daniel has been celebrated both by Petrarch and Dante. The former calls him the “Great Master of Love,” and in a poem, where he begins each stanza with a line from some celebrated poet, he has borrowed one from him, the only Provençal on whom he confers that honour. Nevertheless, the taste of modern critics has agreed to prefer what remains to us of Arnaud de Marveil, whom Petrarch calls “the less famous Arnaud.” Arnaud de Marveil was long attached to Adelaide, daughter of Raymond of Toulouse, married to the Viscount de Beziers; but Alphonso of Arragon was also an admirer of this lady; and the unhappy Troubadour was at last dismissed, to appease the jealousy of his royal rival.&#160;<a href="#ref13-d" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note13-e"></a>
+§ Note (e), page 176, line 108.&emsp;*When Princes sought; and Queens adjudged the prize.*
+
+Eleanor of Guyenne presided for some time over the Courts of Love, which her son <span class="smallcaps">Richard</span>, then only Count of Poitou, held at Avignon. At these meetings questions in the science of Love were frequently debated; some favourite Knight took the name of “the Nightingale, the counsellor of Love,” and sustained his side of the argument against other Cavaliers under the names of the Goldfinch, the Chaffinch, &c. it was always understood that the nightingale was to be victorious. One specimen of these questions or *tensons d’amour* will probably be sufficient:
+
+One lady being beloved by a very valiant knight, commanded him to abstain from a tournament, and the prize was in consequence obtained by his rival. Another lady, whose cavalier was a coward, urged him to enter the lists;—he did so, and was victorious. Which of these knights gave the strongest proof of love?&#160;<a href="#ref13-e" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note13-f"></a>
+§ Note (f), page 177, line 128.&emsp;*And knightly youth to deathless deeds inspire.*
+
+The reader is requested to bear in mind the distinction between the Langue d’Oc, or Provençal dialect, now preserved only in the songs of the Troubadours and the Patois of some regions of France, and the Langue d’Oil, or Romanse language, the parent of the modern French, in which the Trouvères composed their Fabliaux, and the early romances of chivalry.&#160;<a href="#ref13-f" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note13-g"></a>
+§ Note (g), page 177, line 189.&emsp;*Such Pierre has framed.*
+
+Pierre Cardinal, who lived nearly a century, and died about the year 1200, is called by Sismondi the Juvenal of Provençal poetry. His numbers seem to have been as harmonious as his satire was severe, and he spared neither the highest clergy, the military orders, the monks, nobles, nor even the ladies. Of the clergy he says (with a boldness which in those days is almost inconceivable): “Indulgences, pardons, God and the Devil; they make use of all. To some they grant Paradise by their pardons, and others they send to hell by their excommunication. There is no crime which the monks will not absolve, and they sell to renegades and usurers the sepulture which they refuse to the poor. To live in idleness, to buy good fish, the whitest bread, the most exquisite wine: this is their whole employment. Would to Heaven I belonged to their order, if this be the way of salvation!”
+
+In another place he says:—“Du levant au couchant, je fais cette proposition à tout le monde: je promets un besant d’or à tout homme loyal, pourvu que chaque homme déloyal me donne un clou. D’un petit gâteau je nourrirais tout ce qu’il y a d’honnêtes gens; mais, si je voulais donner à manger aux méchans, j’irais sans regarder, criant partout: Messieurs, venez manger chez moi.” The contrast between this Troubadour and his contemporaries, who devoted the charms of “la gaie science” exclusively to arms and love, induces me to make one more quotation from Pierre Cardinal:—“Once on a time a storm of rain fell on a city, which struck with madness every person whom it wetted; and all but one individual, who was asleep and did not leave his house, shared this fate. When he waked, the rain had ceased, and he went forth to pay visits to his fellow citizens, whom he found indulging in every species of extravagance; one was dressed, another naked; one spit up into the air, another was flinging stones; one was tearing his clothes, another was dressed in royal robes, and believed himself to be a king. The one rational being was astonished to find that all had lost their senses, and sought on every side for a sensible person, but sought in vain. The more he was amazed, the more they too were surprised at his orderly deportment, and they did not hesitate to affirm that *he* had lost his reason, because they perceived that his actions bore no resemblance to their own. Then arose an emulation between them, each striving to inflict on him the greatest number of blows; they push, tear, shake, and overwhelm him; now they knock him down, now they raise him up; and with difficulty he saves himself by gaining his own lodging, covered with mud and half dead.— This fable is a representation of the world, and of those who compose it. The world is the city filled with frantic people; covetousness is the rain with which it is inundated; and pride and depravity have enveloped all men. If any one has been preserved from them by the assistance of God, he is considered as a fool, tormented, and persecuted, because he thinks not like others.”&#160;<a href="#ref13-g" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note13-h"></a>
+§ Note (h), page 184, line 291.&emsp;*On three huge crags, with horrid depths between.* It would be little amusing to the reader to enter into the various etymologies of the name of Trivallis, or even the different opinions respecting its locality. Mr. Sharon Turner and Mr. Mills read it Tyrolis, and consign the lion-hearted King to a castle in the Tyrol. The description in the poem is partly taken from some notes on the subject with which I have been furnished by the kindness of M. Schweighæuser, Jun., Professor of Greek philosophy at Strasbourg; though the vicinity to Landau agrees but ill with the relation that <span class="smallcaps">Richard</span> was confined in that castle while in the power of the Duke of Austria, and before his fate was generally known. But there are other places which assert the name of Trivallis, and I am inclined to think, that as <span class="smallcaps">Richard</span> was not only immured by Leopold, but afterwards compelled to follow the motions of the Imperial Diet to Haguenau, Worms, Spires, and Mayence, every castle which can pretend to the honour of having sheltered the heroic monarch is anxious to claim a title so illustrious. I subjoin a portion of M. Schweighæuser's letter:
+
+“Le mention de nos monumens me conduit au château de *Trivallis*, que nous appellons *Trifels* (*fels* signifie roche, et *Tri* paraît designer le nombre de trois, quoiqu’on ait trouvé aussi d’autres etymologies). Mais je l’ai aussi vu moi-même, et je viens encore de recueillir quelques renseignemens à ce sujet auprès d’un habitant des environs. Vous trouverez quelques indications intéressantes sur les circonstances historiques qui se rattachent à ce château, dans le t. ii. p. 188, de l’*Alsatia Illustrata* de Schœpflin, qui se trouve sans doute dans quelque Bibliothèque de Londres. Outre votre <span class="smallcaps">Richard</span>, Henri VI. y avait fait garder d’autres prisonniers illustres, et des trésors immenses, et déjà Henri cinq en avait fait un usage pareil. Quant à la position, ce château, flanqué de deux autres plus petits et séparés du chateau principal par des vallées, est situé à environ trois lieues à l’ouest de la ville de Landau, sur une montagne sauvage, couvert de forêts ténébreuses, mais dominant la riante vallée, où se trouve la petite ville d’Anweiler. Le hazard d’une promenade solitaire, et qui n’avoit d’autre but que de gravir, avec l’impétuosité de la jeunesse, les hauteurs et les rochers, m’y conduisit il y a plus de vingt-cinq ans, et je fus singulièrement frappé par les beautés sauvages de ce site, par les murs imposants du château que je découvris tout-à-coup et dont une tour formidable existe encore, ainsi que par les cris des oiseaux de proie que mon approche troubloit dans leur repos.”&#160;<a href="#ref13-h" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note13-i"></a>
+§ Note (i), page 186, line 337.&emsp;*And steal his accents as I steal his song.*
+
+The following lines are nearly a translation of the original song, which is preserved both in the French and Provençal dialects.&#160;<a href="#ref13-i" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note13-k"></a>
+§ Note (k), page 188, line 370.&emsp;*Th’ Imperial Eagle claims the prey.*
+
+Leopold sold his royal prisoner to the Emperor Henry VI. for 60,000 *pounds* of silver, of the standard weight of Cologne. With this sum Leopold *built the walls of Vienna*, purchased the duchies of Styria and Neuburg, the counties or earldoms of Linz and Wells, and the bishoprics of Passau and Wurtzbourg.&#160;<a href="#ref13-k" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note13-l"></a>
+§ Note (l), page 195, line 533.&emsp;*Or roam as wolves, to feast on human blood.*
+
+The belief that those who deal in magic are compelled annually to wear for a certain period the form of ravenous animals, and that they are then the most ferocious beasts of the forest, seems to have been a favourite superstition in many parts of the world. America has its wizard tigers; the forests of Germany their weir-wolves, and those of Armoriça their loups-garoux, or bisclaverets. In the Lays of Marie of France (mentioned in a preceding note on this book), there is a pleasing fable under the name of Bisclaveret, and the German tale of The Three Sisters, with perhaps many others, have their origin in the same superstition.&#160;<a href="#ref13-l" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note13-m"></a>
+§ Note (m), page 200 line 667.&emsp;*By vows on Sylvia's conquer’d ramparts made.*
+
+Sancho, son of Alphonso, the first king of Portugal, was assisted in his conquest of Sylvia from the Moors by a party of <span class="smallcaps">Richard’s</span> Crusaders, then repairing to the rendezvous at Messina. The Germans and French, on their way to the second Crusade, had in like manner aided his father in the reduction of Lisbon.&#160;<a href="#ref13-m" rev="footnote" class="footnote-backref">↩</a>
+
+## Book XIV
+
+<a id="note14-a"></a>
+§ Note (a), page 233, line 121,&emsp;*Who mourn’d by Henry’s craft a brother slain.*
+
+The Archbishops of Cologne and Mayence, the Dukes of Louvain, Lembourg, and Saxony, and many other Magnates, were at this time indignant against the Emperor on account of the murder of the Bishop of Liege, brother to the Duke of Louvain, which he was believed to have brought about. This circumstance strengthened their exertions on behalf of <span class="smallcaps">Richard</span>.&#160;<a href="#ref14-a" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note14-b"></a>
+§ Note (b), page 224, line 158.&emsp;*And the black soul in lingering tortures fled.*
+
+Otho of Burgundy died at Acre on his homeward voyage.&#160;<a href="#ref14-b" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note14-c"></a>
+§ Note (c), page 226, line 186.&emsp;*Resume thy Seals, and be thyself again.*
+
+At this interview, <span class="smallcaps">Richard</span> not only forgave Longchamp for all the mischief which his intemperate conduct had excited, but restored him to his dignity as Chancellor of England.&#160;<a href="#ref14-c" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note14-d"></a>
+§ Note (d), page 227, line 218.&emsp;*His form majestic, and commanding air.*
+
+In the church of Haguenau, which is ancient enough to have been the scene of this conference, the stone pulpit is covered with bas reliefs, representing the whole story of St. George and the Dragon, his deliverance of Sabra, and her restoration to her parents. The legend of St. George appears to be popular in Alsace and the neighbouring cantons of Switzerland, where it is frequent on the fountains and in the churches.&#160;<a href="#ref14-d" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note14-e"></a>
+§ Note (e), page 230, line 300.&emsp;*Of my Constantia’s claims, and well-known right.*
+
+Constantia, Empress of Germany, sister to King William of Sicily, was certainly his legitimate heir, if a female succession were allowed. Those who are interested to see how far the poem adheres to history, in the relation of this memorable trial, the seven charges, and the celebrated reply of <span class="smallcaps">Richard</span>, may consult Matthew Paris, Hoveden, or the concise but very clear account of Hume.&#160;<a href="#ref14-e" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note14-f"></a>
+§ Note (f), page 233, line 366.&emsp;*And give this demon back to powver again.*
+
+The opinion entertained of Richard’s talents is shewn by the epithet with which his enemies honoured him. Philip Augustus apprized John of his liberation in these words. “Take heed to yourself, the devil is unchained.”&#160;<a href="#ref14-f" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note14-g"></a>
+§ Note (g), page 235, line 398.&emsp;*Th’ Armoric Peers or Paladins of old.*
+
+<span class="smallcaps">Richard’s</span> object at Messina was not only to demand his sister’s freedom, she having been thrown into prison by Tancred for opposing his elevation, but to secure repayment of her dower, and those treasures which William had bequeathed to Henry the Second, and which <span class="smallcaps">Richard</span> claimed as his father’s heir. Among these was a chair of state of massy gold, belonging to the Queen; and a table formed of one piece of native gold, large enough for twelve persons to dine at. These claims were commuted for a certain quantity of ships and money.&#160;<a href="#ref14-g" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note14-h"></a>
+§ Note (h), page 239, line 496.&emsp;*And tears are glistening in unwonted eyes.* Richard's defence moved the assembly to tears. Tlie heroes of the Crusades were almost as much given to weeping as those of Homer and Virgil: but the eloquence and arguments of the English Monarch seem to have produced no common sensation on the Magnates of Germany. His liberation was certainly due to their conviction of his innocence and in. juries.&#160;<a href="#ref14-h" rev="footnote" class="footnote-backref">↩</a> 
+
+<a id="note14-i"></a>
+§ Note (i), page 239, line 504.&emsp;*Of Cologne weight, and of the purest gold.*
+
+More accurately one hundred thousand marks of the standard weight of Cologne, half to be paid before his liberation and half on his arrival in England; and fifty thousand marks to assist the Emperor in the acquisition of Sicily.&#160;<a href="#ref14-i" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note14-k"></a>
+§ Note (k), page 240, line 530.&emsp;*Or yield allegiance to his crown no more.*
+
+For the honour of the Magnates of Germany, this fact is historical. If the Emperor had been susceptible of shame, he ought to have felt it at that moment.&#160;<a href="#ref14-k" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note14-l"></a>
+§ Note (l), page 241, line 542.&emsp;*To Arab lutes the merry Christians dance.*
+
+This is no ideal picture. In the suspensions of hostility which occurred during the third Crusade, it was often realized. Since the time of Godfrey the spirit of bigotry was evidently much softened on both sides, and the virtues of Saladine and the prowess of the European kings, had conciliated a mutual esteem, which communicated itself to their followers. Gibbon observes, “that on the whole of this war there is a marvellous agreement between the Christian and Mahometan writers, who mutually praise the virtues of their enemies.”&#160;<a href="#ref14-l" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note14-m"></a>
+§ Note (m), page 241, line 552.&emsp;*Who may contend with foes whose sports are these?*
+
+This is reported to have been the speech of Saladino, at one of the Christian tournaments to which he was invited.&#160;<a href="#ref14-m" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note14-n"></a>
+§ Note (n), page 252, line 790.&emsp;*(Turenne’s fair daughter) lured him from my arms.*
+
+Maenz, or Amanda de Montagnac, was daughter to the Viscount of Turenne.&#160;<a href="#ref14-n" rev="footnote" class="footnote-backref">↩</a>
+ 
+### \*&emsp;&emsp;\*&emsp;&emsp;\*r
+
+<a id="note14-o"></a>
+§ Note (o), page 253, line 811.&emsp;*The letter from his grasp and ran it o'er.*
+
+The following lines are much condensed from the original “Sirvente” of Bertrand de Born.&#160;<a href="#ref14-o" rev="footnote" class="footnote-backref">↩</a>
+
+<a id="note14-p"></a>
+§ Note (p), page 257, line 900.&emsp;*And in his hand his sever’d head he bore.*
+
+See Dante, Inferno, canto 28—But Henry, not John, was the name of the "young King."
+
+> I vidi certo: et anchor par ch’io ’l veggia<br>
+> Un busto sanza capo andar; si come<br>
+> Andavan gli altri de la trista greggia.<br>
+> El capo tronco tenea per le chiome<br>
+> Pesol con mano, a guisa di lanterna<br>
+> &emsp;\*&emsp;&emsp;\*&emsp;&emsp;\*
+> Sappi, ch’i son Bertran dal Bornio, quelli,<br>
+> Che diedi al re Giovann’i mai conforti—<br>
+> I feci ’l padre e ’l figlio in se ribelli:<br>
+> Achitophel non fe piu d’Absalone<br>
+> Et di David co i malvagi punzelli.<br>
+> Perch ’i parti cosi giunte persone,<br>
+> Partito porto il mi cerebro lasso<br>
+> Dal suo pricipio, ch’e in questo troncone:<br>
+> Cosi s'osserva in me lo contrapaso.&#160;<a href="#ref14-b" rev="footnote" class="footnote-backref">↩</a>
+
+## Book XV
+
+<a id="note15-a"></a>
+§ Note (a), page 268, line 11.&emsp;*The poor his mite, untax’d the Abbot yields.*
+
+Among the ecclesiastical contributors to their Monarch's ransom, Hoveden names the Abbot of Semplingham, of the Cistercian order, who gave his year’s wool. But <span class="smallcaps">Richard</span> directed memoranda to be kept of all the money received from the Church, that it might be faithfully repaid.&#160;<a href="#ref15-a" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note15-b"></a>
+§ Note (b), page 269, line 37.&emsp;*We guard our captive; so may discord cease.*
+
+Fifty thousand marks of silver on the part of the King, and thirty thousand from John, if Henry would detain <span class="smallcaps">Richard</span> in prison till the Michaelmas following; or one thousand pounds of silver for every month of his captivity; or, finally, one hundred thousand marks of silver from Philip, and fifty thousand from John, if he would confine him another year, or betray him into their hands. “Behold in what manner be loved him!” observes Hoveden, in relating this fraternal proposal. Henry in consequence deferred the liberation of his prisoner, and shewed him the letters.” <span class="smallcaps">Richard</span> then despaired of his liberty.”&#160;<a href="#ref15-b" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note15-c"></a>
+§ Note (c), page 269, line 47.&emsp;*Have we not sworn? a voice of thunder says.*
+
+The Archbishops of Mentz, Cologne, and Saxeburg, the Bishops of Worms, Spires, and Liege, the Duke of Suabia, brother to the Emperor, the Dukes of Austria and Louvain, the Count Palatine of the Rhine, and other Magnates, who were partners in the oath before alluded to respecting Richard’s safety, reproached the Emperor with his avarice, and compelled him to be. — *Hoveden, fol.* 413. It is curious to find Leopold in this list.&#160;<a href="#ref15-c" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note15-d"></a>
+§ Note (d), page 271, line 89.&emsp;*True to thy cause, though late he seem’d thy foe.*
+
+The Archbishops of Mentz and Cologne were particularly active in the deliverance of the King. <span class="smallcaps">Richard</span> promised to assist the empire against France, and received the homage of all the Magnates, “saving their fidelity to the Emperor.”&#160;<a href="#ref15-d" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note15-e"></a>
+§ Note (e), page 272, line 124.&emsp;*Received the King, nor England known his doom.*
+
+Perhaps of ail the disgraceful circumstances which attended the captivity of <span class="smallcaps">Richard</span>, this last is the most scandalous. Henry repented that he had let him go, and wished to recover his captive, that he might either obtain the promised gold of John and Philip, or a larger ransom—but <span class="smallcaps">Richard</span> had just sailed when the pursuers reached Antwerp, “and they dared not follow him by sea.”— *Walter of Hemingford*, p. 539.&#160;<a href="#ref15-e" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note15-f"></a>
+§ Note (f), page 273, line 127.&emsp;*Now Trenchemer joys to steer his long-lost lord.*
+
+Alain de Trenchemer, the favourite pilot of <span class="smallcaps">Richard</span>, is celebrated both in history and romance. His surname was probably derived from his skill. Many ships met the King on his voyage, and his people wept for joy at his return.&#160;<a href="#ref15-f" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+ 
+<a id="note15-g"></a>
+§ Note (g), page 274, line 154.&emsp;*Not twice thy ransom would have brought thee here.*
+
+“The citizens having changed their tears into the oil of gladnees, the face of the whole city was adorned, so that the German nobles that accompanied <span class="smallcaps">Richard</span>, and who believed that England had been drained for the ransom of the King, were astonished at the greatness of its wealth, and one of them said to <span class="smallcaps">Richard</span>, ‘I admire, oh King! the prudence of thy people. Now that thou art returned, they shew their riches in safety; but a short time since, when thou wert in the custody of our Emperor, they deplored their poverty. Verily, О King, if the Emperor could have foreseen the wealth of the English, he would not have believed that England could be easily exhausted; nor have dismissed thee without thou hadst given an intolerable sum for thy redemption.’” — *Walter of Hemingford*, p. 539.
+
+Such speeches are frequently recorded to have been made by foreigners on their visits to England. The latest is perhaps that of the Emperor Alexander.&#160;<a href="#ref15-g" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note15-h"></a>
+§ Note (h), page 275, line 169.&emsp;*Till <span class="smallcaps">Richard’s</span> might is felt—beneath his power.*
+
+The besieged heard the clamour of the multitude, and the sound of the trumpets, but thought it a trick of the generals to delude them. An arrow from the walls killed a man at the King’s feet; he afterwards assaulted and took the town. — *Hoveden*.&#160;<a href="#ref15-h" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note15-i"></a>
+§ Note (i), page 276, line 192.&emsp;*And John’s stout rebels fed from Robin Hood.*
+
+Mr. Ritson, in his collection of songs, &c. relating to the adventures of Robin Hood, seems to think the popular belief of his having been Earl of Huntingdon, not inconsistent with the manners of the times. Most of the ballads describe him as not being on good terms with John, which countenances the idea that “the King,” with whom he had a friendly meeting, was probably <span class="smallcaps">Richard</span>, especially as Hoveden mentions that after the siege of Nottingham, that Monarch visited Clipstone, and Sherwood Forest, and was much pleased with that part of the country, which he had never seen before. Such an adventure is sufficiently in harmony with <span class="smallcaps">Richard’s</span> character.&#160;<a href="#ref15-i" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note15-k"></a>
+§ Note (k), page 277, line 217.&emsp;*But a new day rose brighter than the last.*
+
+Hoveden records it as a saying, on the death of Henry the Second and accession of Richard:
+
+“Mira canam, sol occubuit, nox nulla secuta est. Vere nulla nox secuta est post occasum solis. Nam radius solis solium solis tenens, sole suo jubar lucidius ac latius spargit.” He continues his play of words many lines farther:
+
+“Sol pater, et radius filius cius erat.”&#160;<a href="#ref15-k" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note15-l"></a>
+§ Note (1), page 277, line 226.&emsp;*Used the best means to human wisdom given.*
+
+The cross-bow was for some time laid aside, in obedience to the second Lateran Council, which proscribed its use, as an instrument of destruction so powerful and so hateful to God, that he who exercised it against Christians and Catholics should be held accursed. The anathema appears to have occasioned its entire disuse. It had been employed in the first crusade, but does not appear again, even in the Holy Land, till <span class="smallcaps">Richard</span> the First, interpreting the prohibition literally, revived it against the Infidels—whose destruction must be equally pleasing to God and man. He afterwards used it in his European battles; and when he fell by the “quarrel” at the siege of Chaluz, it was considered by his enemies as an instance of heavenly retribution.&#160;<a href="#ref15-l" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note15-m"></a>
+§ Note (m), page 280, line 299.&emsp;*Almighty vengeance shuts the gates of heaven.*
+
+Alluding to the Oriental belief that the fall of the Angels was occasioned by their refusal, as creatures formed of the element of fire, to worship Adam, whom God had created of the dust of the earth, and whom their pride considered as inferior.&#160;<a href="#ref15-m" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+ 
+<a id="note15-n"></a>
+§ Note (n), page 288, line 478.&emsp;*Sole living thing, that seems to live on air.*
+
+A small spider, called the naga-t’ allah, or “she camel of God,” is sometimes the only animal to be seen for many days, and has no visible source of subsistence.&#160;<a href="#ref15-n" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note15-o"></a>
+§ Note (o), page 288, line 492.&emsp;*And from their loves the sainted Martyr sprung.*
+
+This incident, since so often fabled, seems to have been historically true of the parents of St. Thomas à Becket.&#160;<a href="#ref15-o" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note15-p"></a>
+§ Note (p), page 288, line 496.&emsp;*Beheld the generous Moor restore his crown.*
+
+The adventures of Sancho, brother to Berengaria, and his Moorish mistress, with the assistance afforded him by the Mirammolin in the recovery of his crown, are related at some length by Hoveden, and might furnish materials for three or four romances.&#160;<a href="#ref15-p" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note15-q"></a>
+§ Note (q), page 289, line 517.&emsp;*Ebbs from each burning limb and bursting vein.*
+
+Some travellers assert that the dryness occasioned by the simoom is such as to cause the flesh to crack; so that the sufferer sometimes expires from the consequent loss of blood. Others give a much milder account of its operation, which is probably very various. The most dreadful which I have met with, relates to the Red Desert of Persia.&#160;<a href="#ref15-q" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note15-r"></a>
+§ Note (r), page 291, line 548.&emsp;*Their lips are yellow with the crust of death.*
+
+In the case of persons perishing by thirst in the desert, shortly before death the lips, and all the inside of the mouth, become covered with a yellow crust resembling wax.&#160;<a href="#ref15-r" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note15-s"></a>
+§ Note (s), page 292, line 572.&emsp;*The juicy melon’s sweet and copious draught.*
+
+The water-melon, in such regions truly the most precious of fruits, is occasionally found growing in the sand, in the dryest parts of the desert, where its appearance seems little less than miraculous.&#160;<a href="#ref15-s" rev="footnote" class="footnote-backref">↩</a>
+
+<a id="note15-t"></a>
+§ Note (t), page 294, line 616.&emsp;*What seeks the Prince who spurns a friend like me?*
+
+The particulars of this revolt, and the two letters of Saladine, are historical.&#160;<a href="#ref15-t" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note15-u"></a>
+§ Note (u), page 311, line 1020.&emsp;*He spoke, and sunk exhausted in the wave.* The monarch had seen the yellow flags of Saladine on the ramparts, and turned his vessels from a port which he believed already in the hands of his enemies. Jaffa would have been lost, but for the presence of mind and intrepidity of the swimmer. The historical account of the events of this siege have perhaps a stronger interest than can easily be given to a poetical narration.&#160;<a href="#ref15-u" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note15-x"></a>
+§ Note (x), page 315, line 1119.&emsp;*Led for his use—cried generous Saladine.*
+
+See the "Histoire de Saladine."&#160;<a href="#ref15-x" rev="footnote" class="footnote-backref">↩</a>
+
+## Book XVI
+
+<a id="note16-a"></a>
+§ Note (a), page S30, line 159.&emsp;*In Sejjin, record of the wrath divine.*
+
+Sejjin is the name of the general register, in which are inscribed the actions of the wicked; as Illiyyun is of that which contains the actions of the good. Tasnim is the highest fountain of Paradise; those who are privileged to drink its waters unmixed, shall approach near to the throne of God, and be incessantly employed in the contemplation of the Divinity — *Koran*.&#160;<a href="#ref16-a" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note16-b"></a>
+§ Note (b), page 330, line 167.&emsp;*Confusion, Death, upon his impious head.*
+
+In the memorable battle of Beder, the first victory of the Faithful, in which Mahommed demanded the succour of Gabriel and three thousand angels; his little troop was beginning to yield before the numbers of the Koreish, when the Prophet, starting from the throne on which he viewed the battle, cast a handful of sand into the air, and exclaimed, “let their faces be covered with confusion." The effect was instantaneous and decisive; both armies in fancy beheld the angelic warriors; the Koreish trembled and fled. — Gibbon, *Decline and Fall*, vol. 9.<a href="#ref16-b" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note16-c"></a>
+§ Note (c), page 345, line 502.&emsp;*Meet sin and judgment—I, by birth a Queen!*
+
+At the time when the monarchs of France pretended to the title of King of Kings, its Princesses affected that of Queen, which was sometimes given to Alasia; but whether in compliment to her birth, or to her contract with <span class="smallcaps">Richard</span>, I am uncertain.<a href="#ref16-c" rev="footnote" class="footnote-backref">↩</a>
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note16-d"></a>
+§ Note (d), page 345, line 503.&emsp;*And if I cannot, like some Sovereigns, kneel.*
+
+An allusion to the penance of Henry the Second, after the murder of Becket; and to some of the effects of Richard's remorse on the loss of his father, to whose death he accused himself of having at least contributed by his rebellious conduct.<a href="#ref16-c" rev="footnote" class="footnote-backref">↩</a> 
+
+### \*&emsp;&emsp;\*&emsp;&emsp;\*
+
+<a id="note16-e"></a>
+§ Note (e), page 354, line 713.&emsp;*The easy price of that triumphant day.*
+
+Only two persons of any note are said to have perished on the Christian side in the double battle of Jaffa, which may certainly be reckoned among the most extraordinary in history.
+
+Those who may be desirous of perusing its details, will find many interesting particulars in the Histoire de Saladin, and the Histories of the Crusades; but Gibbon’s short account is perhaps more flattering to the fame of <span class="smallcaps">Richard Cœur de Lion</span>, than any thing else which has been written respecting him; unless it be Mr. Sharon Turner's admirable sketch of his reign, in his History of England.
+
+The terms of the treaty between <span class="smallcaps">Richard</span> and Saladine, and the facts on which the concluding pages of the poem are founded, are in the histories of the Crusades. Some liberties have been taken, especially in condensing into one scene the solemn swearing of the peace at Ramla, the accomplishment of the vows of the Crusades, the celebration of mass in the church of the Holy Sepulchre, and the behaviour of Saladine on witnessing the descent of the Sacred Fire; but almost all the circumstances are historical.<a href="#ref16-e" rev="footnote" class="footnote-backref">↩</a>
 
 
 [^1]: Valour, and the passion for crusading, were hereditary in the family of D'Avesnes; and Gerard, the ancestor of James, was appointed to the government of Arsouf, on its reduction by Godfrey of Bouillon. The funeral of James D'Avesnes was celebrated by <span class="smallcaps">Richard</span> with peculiar honour, on the day succeeding the battle of Arsouf.
