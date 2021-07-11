@@ -7823,7 +7823,7 @@ Patric, Earl of Salisbury, being the King’s lieutenant in Acquitaine, was slai
 <a id="note03-cc"></a>
 § Note (cc), page 107, line 426.&emsp;*And Curzon’s pride, the youthful Giratine.*
 
-Properly Robert or Richard, but Giraline is a family aame.&#160;<a href="#ref03-cc" rev="footnote" class="footnote-backref">↩</a>
+Properly Robert or Richard, but Giraline is a family name.&#160;<a href="#ref03-cc" rev="footnote" class="footnote-backref">↩</a>
 
 <hr class="short">
 
@@ -8082,14 +8082,26 @@ enormous cuirass covered him entirely, arrows, stones, and lances were showered 
 
 Conrad of Montferrat first visited Palestine at the time of the second crusade, when his father with his four sons accompanied his uncle, the Emperor Conrad the Third, on that unfortunate expedition. He afterwards distinguished himself in Italy in the contests between the Emperors and the Holy See, conquered some of the Islands of the Adriatic, which he sold to Venice, and then passing a second time to Constantinople, he assisted Isaac Angelus to establish himself on the imperial throne, having killed in battle the leader of the rebels. The sister of this monarch was at first a bait for his ambition, but finding that his marriage gained him nothing but the title of Cæsar, and the right of wearing purple slippers, he left the unhappy Theodora, and sailed to Palestine in quest of more substantial laurels. He arrived at Tyre in a single ship, on the very day when it was engaged to surrender to Saladine if not relieved. The Sultan threatened to place the old Marquis of Montferrat, who had been some time his prisoner, in front of his army, and to expose him to the arrows of the besieged if the town did not surrender, but Conrad was either too well convinced of the humanity of Saladine to fear his threat, or was insensible to the appeal, and replied that if the Soldan were barbarous enough to cause the death of one who had surrendered on his parole, he should glory in being the son of a martyr. Tyre remained his own; he assumed the title of its Prince, and enlarged its territory. Vinesauf says, that he had also another wife in Germany, high born and beautiful; I think her name was Emilia; but many of the heroes of the crusades would not have been sorry to claim at least one of the indulgences of the Mahommedan law.
 
-§ Note, page 178, line 69.&emsp;*The Prelate of Beauvais, ministrant there.* The nuptial ceremony was performed by the Bishop of Beauvais, most of the other prelates protesting against it. Baldwin, the old Archbishop of Canterbury, died a few days after, of grief, it is said, at this disgraceful scene.
+<hr class="short">
 
-§ Note, page 184, line 195.&emsp;*And deeper plunge in misery and in crime.* Vinesauf gives a distressing picture of this famine, and devotes no less than twelve sections to bitter invective against Conrad, who withheld from the army the provisions with which he had agreed to supply it. Perchance he had them not.
+§ Note, page 178, line 69.&emsp;*The Prelate of Beauvais, ministrant there.*
+
+The nuptial ceremony was performed by the Bishop of Beauvais, most of the other prelates protesting against it. Baldwin, the old Archbishop of Canterbury, died a few days after, of grief, it is said, at this disgraceful scene.
+
+<hr class="short">
+
+§ Note, page 184, line 195.&emsp;*And deeper plunge in misery and in crime.*
+
+Vinesauf gives a distressing picture of this famine, and devotes no less than twelve sections to bitter invective against Conrad, who withheld from the army the provisions with which he had agreed to supply it. Perchance he had them not.
+
+<hr class="short">
  
 <a id="note05-a"></a>
 § Note (a) and (b), page 188, line 290.&emsp;*With envy fired, De Vere and Sackville spring.*
 
 (a) Alberic, or Aubrey de Vere, second Earl of Oxford, and married to Adelicia, daughter of Roger Bigot Earl οf Norfolk. De Vere was so great a favourite with John, as to be reckoned among his evil counsellors. (b) Sackville or Salkavilla, now Dukes of Dorset. Herbrand de Salkavilla came to England with the Conqueror. Nigell de Salkavilla was excommunicated by Thomas à Becket, for detaining a manor belonging to the Archbishop, at the same time that he inflicted a similar punishment on Robert Brock, who had cut off the tail of a horse which was carrying provisions to his palace. This was only four days previous to his murder. Sir Jordan de Salkeville, nephew to Nigell, married Clementia, daughter of Alberic de Vere, Earl of Oxford.&#160;<a href="#ref05-a" rev="footnote" class="footnote-backref">↩</a> 
+
+<hr class="short">
 
 <a id="note05-c"></a>
 § Note (c), page 183, line 293&emsp;*How Albert fought, or stout Fitzharding fell.*
