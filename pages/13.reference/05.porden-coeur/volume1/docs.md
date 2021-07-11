@@ -8346,6 +8346,7 @@ The authority for this little episode is in Vinesauf, who records that one of hi
 
 A sort of coarse cloth, the manufacture of which is peculiar to the women of Arabia.&#160;<a href="#ref06-l" rev="footnote" class="footnote-backref">↩</a> 
 
+<hr class="short">
 
 <a id="note06-m"></a>
 § Note (m), page 254, line 681.&emsp;*Where towering date-trees shade the saffron mead.*
@@ -8383,7 +8384,7 @@ This memorable expression has been ascribed to <span class="smallcaps">Richard</
 <hr class="short">
 
 <a id="note07-d"></a>
-<i class="fa fa-info-circle" aria-hidden="true"></i> Note (d), page 275, line 98.&emsp;*Paid the dire forfeit of his broken word.*
+§ Note (d), page 275, line 98.&emsp;*Paid the dire forfeit of his broken word.*
 
 This is the least graceful feature of King <span class="smallcaps">Richard’s</span> life, and that which I have felt most difficulty in managing. To have passed it over entirely, would scarcely have been allowable, but after much consideration, I determined to touch it as slightly as possible. I could not hope to imitate Mr. Southey’s extraordinary power of identifying myself and my feelings with those of the age or country of which I treated, neither could I expect or wish, in the nineteenth century, to obtain the sympathy of my readers in an attempted extenuation of massacre. Yet it would surely have been as unjust to <span class="smallcaps">Richard</span>, as it was inconsistent with a story of which he was the hero, to hold forth to the detestation of posterity, an act not only excused, but applauded by the fanaticism of his contemporaries. The facts were briefly these: when Acre was surrendered, about 4,000 captives remained in the hands of the two Sovereigns, <span class="smallcaps">Richard</span> and Philip. A treaty had been entered into with Saladine for the payment of a large sum of gold, the surrender of the wood of the True Cross. &c. &c. on condition of which they were to receive their liberty: but if he failed to fulfil the treaty before a certain day, their lives were forfeit. The day expired, the conditions were unfulfilled; a good deal of fruitless negotiation followed, which only led to mutual exasperation; and, after waiting three weeks, Richard, who was preparing to commence his march, gave orders for the massacre. The numbers who are reported to have fallen vary from 1,500 to 4,000 or 6,000; I am inclined to think the lowest number the most correct. Many of the more wealthy had been already ransomed, or were reserved for ransom; and Philip, who had in the meantime departed to Tyre, took *his* share of the captives with him. <span class="smallcaps">Richard</span> often sent for them, but he who was about to leave Palestine seemed rather inclined to obtain money for their freedom, than to strike terror by their murder, and if at last he gave them up to his rival, it does not appear that he did so previous to the massacre. Aboulpharagins says, “that the time being expired, Saladine sent to the Franks, ‘Dismiss all the Arabs who are in your bonds, and I will give you the third part of the gold, and hostages for the other two; or otherwise, ye shall give me hostages for the third part which ye have received.’ But the Franks said, ‘Our word alone is sufficient to you, and our honour: why should we give hostages?’ Then the heart of Saladme was hardened, neither would he consent, and the Franks being enraged, bound all the Arabs with cords, and leading them forth from the city on to the hill, having clothed them in vile garments, they ran upon them with drawn swords, and slew them in sight of the Moslem camp.” The author of the Life of St. Louis relates the event in a manner which lays the first guilt of massacre on Saladine, and implicates Philip in the retaliation inflicted by the Christians. “Cinque mille hommes qu’il y avoit de garnison demeurèrent prisonniers, à condition d’être relachés en faisant rendre la vraie croix, et les esclaves Chrétiens: sinon qu’ils demeuroient à la discretion des vainqueurs. Mais *Saladin, ayant fait mourir un grand nombre des prisonniers qu’il avoit de son côté*, bien loin de tenir la capitulation, ces 5,000 hommes eurent tous la tête tranchée, *un moitié an nom de Philippe, et l’eutre au nom de <span class="smallcaps">Richard</span>. Ce fut Eudes, Duc de Вourgogne, qui ménagea cet honneur à la France avec tant d’exactitude*.” The Romance of <span class="smallcaps">Cœur de Lion</span>, which by its naïveté renders amusing those scenes of horror which would otherwise disgust, increases the number of the captives to 60,000, commands their destruction by the voice of an angel, and dwells with peculiar pleasure on the edifying effusion of Pagan blood. At the same time it is not sparing in its abuse of Philip, whom it accuses of avarice in liking better to
 receive ransom for his prisoners, than to follow the good example of putting them to death. I ought not to omit, that Saladine was certainly not slow in making reprisals on the Christian captives in his hands; and Mr. Sharon Turner, in his admirable sketch of the Third Crusade, relates an interesting anecdote of a young warrior whom the Soldan kept for two days with him in his tent, conversing with him, and endeavouring to convert him, or to find some reason which might excuse to his own bigotry the disposition which he felt to exempt him from the fate of his companions. At last he gave orders for his death, an instance of cold blooded cruelty, of which Mr. Turner seems to think, that Richard, ferocious as he has been deemed, would have been incapable.&#160;<a href="#ref07-d" rev="footnote" class="footnote-backref">↩</a>
@@ -8679,9 +8680,13 @@ The Knights Templar wore the red cross on the shoulder, like the other knights, 
 
 It was in this battle that Robert Fitz Parnel first unfolded the banner of his house, which on his father’s death became his by inheritance.&#160;<a href="#ref08-i" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 § Note, page 321. line 348.&emsp;*Proud of great Odard’s far-descended sword.*
 
 Odard, the eldest of five brethren, who came to England with Hugh Lupus, nephew to the Conqueror, is the Patriarch of the Duttons, Lords Sherbourne. In 166r Odard’s  sword was in possession of the ladye Elinour, Viscountess Kilmorey, sole heiress of Thomas Dutton; having past from hand to hand like Agamemnon’s sceptre. 
+
+<hr class="short">
 
 <a id="note08-k"></a>
 § Note (k), page 321, line 322.&emsp;*And Pelham’s youthful pride—no braver name.*
@@ -8746,9 +8751,13 @@ Josceline de Courtenay, third Count of Edessa, was deprived of that principality
 
 Robert, Lord of Neuburg, is, as Vinesauf has observed. immortalized by his liberalities. During the famine at Acre, the generosity of many of the wealthier Knights saved the lives of thousands. Among these Robert de Neuburg was distinguished. The others are Walkelin Earl of Ferrers, Robert Trusebot, Henry, Count of Champagne, Josceline de Montoirs, the Count of Clermont and Hubert Bishop of Salisbury. Conrad of Montferrat bears the odium of having at least increased this famine by withholding the provisions which it was in his power to furnish from Tyre; and Vinesauf devotes no less than twelve sections to s description of its horrors, concluding each with execrations against the obnoxious Marquis, towards whom, indeed, he never omits any opportunity of shewing his detestation. But while he gives so much space to the especial abuse of Conrad, he seems to have hated Leopold so completely as to wish to rob him even of the immortality of infamy, and notwithstanding his many gallant actions in the Crusade, he never once names, even in a catalogue, that arch-enemy of his own heroic sovereign. He does indeed say that it was an addition to the grief of the English, that <span class="smallcaps">Richard</span> was captive in *Osterricia*, rather than in Germany; but even there he never hints that the Duke had been in Palestine.&#160;<a href="#ref08-s" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 § Note, page 330, line 513.&emsp;*His lineal pride, and Montmorency’s name.*
 
 The Montmorencies derive their name from an incident in the time of Charles Martel. A Moor having given a challenge to single combat, Martel selected Lysoi to meet him. After a day’s hard fighting in lists, Lysoi was victorious, and cried out, *Mon maure est occis*, or *mon maure occis*, now corrupted into Montmorenci. Of the French cavaliers who fell at Acre or in the Crusade, none was more regretted than the young Joscelin de Montmorenci; Madame Cottin has made him a principal character in her Mathilde. 
+
+<hr class="short">
 
 <a id="note08-t"></a>
 § Note (t), page 331, line 538.&emsp;*Now lend thy aid, or Christendom is lost.*
@@ -8784,11 +8793,11 @@ none of the house of Ayoub were likely to look with complacency on the worshippe
 
 The Mohammedan nations, barbarians as they are, have at least one refinement unknown to Greece or Rome. The haram of the monarch is sacred, and all who can find refuge therein. The respect paid to the sanctity of the haram is well illustrated in “Anastasius,” in the war between the Beys of Cairo.&#160;<a href="#ref08-z" rev="footnote" class="footnote-backref">↩</a>
 
+<hr class="short">
+
 § Note, page 348, line 948.&emsp;*By the dread bridge and endless flames of hell.*
 
 The bridge of Al Sirat, which lies over the midst of hell, and which the souls, both of the just and unjust, will be obliged to pass. This bridge is finer than a hair, and sharper than the edge of a sword, and is besides beset with thorns and brambles. Nevertheless the good will pass over it with the rapidity of lightning, whereas the wicked will soon miss their footing, and fall headlong into hell. The orthodox Mahommedans maintain that the torments of hell are of eternal duration, — *Sale’s Koran—Preliminary Discourse.*
-
-
 
 [^1]: On the eastern coast of the Mediterranean is a small bay, of which Mount Carmel forms the southern extremity, while that to the north is occupied by the city of Acre. The plain, on the south, is watered by two rivers; the Belus, whose sands were sought from a great distance for the manufacture of glass, and the “ancient river, the river Kishon;” but like most of the Syrian streams, they roll a torrent in the Spring, and they nearly disappear in the Autumn. Acre, washed on two sides by the sea, is protected on the third by strong walls, and a succession of massy towers. The Christians, at the commencement of the siege, pitched their camp on the hill of Turon, to the north-east of the town; but this camp being enlarged by the arrival of successive bodies of Crusaders, it extended gradually from Belus to the sea, and almost matched the city in the strength of its ramparts. To the south-east, and a little more remote, but still within the Belus, is a conical hill, called Mahumeria, or the Hill of the Mosque, and by some writers, the Tomb of Memnon. Here were the headquarters of Saladine; but much of his army seems to have been encamped on the heights of Kaisan, and in winter it retired to the yet remoter mountains of Kharouba. Acre was therefore enclosed by the Christian army, which, in its turn, was enclosed by that of Saladine.
 
