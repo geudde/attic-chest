@@ -40,7 +40,7 @@ h4
 }
 hr {width: 80%; margin: auto; margin-top: 3em; margin-bottom: 2rem;}
 
-ht.short  {width: 40%; margin: auto; margin-top: 3em; margin-bottom: 2rem;}
+hr.short  {width: 40%; margin: auto; margin-top: 3em; margin-bottom: 2rem;}
 
 .smallcaps {font-variant: small-caps; color: maroon; font-size: 1.1rem; letter-spacing: 0.2px;}
 
