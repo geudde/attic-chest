@@ -40,6 +40,8 @@ h4
 }
 hr {width: 80%; margin: auto; margin-top: 3em; margin-bottom: 2rem;}
 
+ht.short  {width: 40%; margin: auto; margin-top: 3em; margin-bottom: 2rem;}
+
 .smallcaps {font-variant: small-caps; color: maroon; font-size: 1.1rem; letter-spacing: 0.2px;}
 
 .smc {font-variant: small-caps; color: black; font-size: 1.1rem; letter-spacing: 0.2px;}
@@ -8379,7 +8381,9 @@ In another place he says:—“Du levant au couchant, je fais cette proposition 
 ### \*&emsp;&emsp;\*&emsp;&emsp;\*
 
 <a id="note13-h"></a>
-§ Note (h), page 184, line 291.&emsp;*On three huge crags, with horrid depths between.* It would be little amusing to the reader to enter into the various etymologies of the name of Trivallis, or even the different opinions respecting its locality. Mr. Sharon Turner and Mr. Mills read it Tyrolis, and consign the lion-hearted King to a castle in the Tyrol. The description in the poem is partly taken from some notes on the subject with which I have been furnished by the kindness of M. Schweighæuser, Jun., Professor of Greek philosophy at Strasbourg; though the vicinity to Landau agrees but ill with the relation that <span class="smallcaps">Richard</span> was confined in that castle while in the power of the Duke of Austria, and before his fate was generally known. But there are other places which assert the name of Trivallis, and I am inclined to think, that as <span class="smallcaps">Richard</span> was not only immured by Leopold, but afterwards compelled to follow the motions of the Imperial Diet to Haguenau, Worms, Spires, and Mayence, every castle which can pretend to the honour of having sheltered the heroic monarch is anxious to claim a title so illustrious. I subjoin a portion of M. Schweighæuser's letter:
+§ Note (h), page 184, line 291.&emsp;*On three huge crags, with horrid depths between.*
+
+It would be little amusing to the reader to enter into the various etymologies of the name of Trivallis, or even the different opinions respecting its locality. Mr. Sharon Turner and Mr. Mills read it Tyrolis, and consign the lion-hearted King to a castle in the Tyrol. The description in the poem is partly taken from some notes on the subject with which I have been furnished by the kindness of M. Schweighæuser, Jun., Professor of Greek philosophy at Strasbourg; though the vicinity to Landau agrees but ill with the relation that <span class="smallcaps">Richard</span> was confined in that castle while in the power of the Duke of Austria, and before his fate was generally known. But there are other places which assert the name of Trivallis, and I am inclined to think, that as <span class="smallcaps">Richard</span> was not only immured by Leopold, but afterwards compelled to follow the motions of the Imperial Diet to Haguenau, Worms, Spires, and Mayence, every castle which can pretend to the honour of having sheltered the heroic monarch is anxious to claim a title so illustrious. I subjoin a portion of M. Schweighæuser's letter:
 
 “Le mention de nos monumens me conduit au château de *Trivallis*, que nous appellons *Trifels* (*fels* signifie roche, et *Tri* paraît designer le nombre de trois, quoiqu’on ait trouvé aussi d’autres etymologies). Mais je l’ai aussi vu moi-même, et je viens encore de recueillir quelques renseignemens à ce sujet auprès d’un habitant des environs. Vous trouverez quelques indications intéressantes sur les circonstances historiques qui se rattachent à ce château, dans le t. ii. p. 188, de l’*Alsatia Illustrata* de Schœpflin, qui se trouve sans doute dans quelque Bibliothèque de Londres. Outre votre <span class="smallcaps">Richard</span>, Henri VI. y avait fait garder d’autres prisonniers illustres, et des trésors immenses, et déjà Henri cinq en avait fait un usage pareil. Quant à la position, ce château, flanqué de deux autres plus petits et séparés du chateau principal par des vallées, est situé à environ trois lieues à l’ouest de la ville de Landau, sur une montagne sauvage, couvert de forêts ténébreuses, mais dominant la riante vallée, où se trouve la petite ville d’Anweiler. Le hazard d’une promenade solitaire, et qui n’avoit d’autre but que de gravir, avec l’impétuosité de la jeunesse, les hauteurs et les rochers, m’y conduisit il y a plus de vingt-cinq ans, et je fus singulièrement frappé par les beautés sauvages de ce site, par les murs imposants du château que je découvris tout-à-coup et dont une tour formidable existe encore, ainsi que par les cris des oiseaux de proie que mon approche troubloit dans leur repos.”&#160;<a href="#ref13-h" rev="footnote" class="footnote-backref">↩</a>
 
@@ -8417,6 +8421,8 @@ Sancho, son of Alphonso, the first king of Portugal, was assisted in his conques
 § Note (a), page 233, line 121,&emsp;*Who mourn’d by Henry’s craft a brother slain.*
 
 The Archbishops of Cologne and Mayence, the Dukes of Louvain, Lembourg, and Saxony, and many other Magnates, were at this time indignant against the Emperor on account of the murder of the Bishop of Liege, brother to the Duke of Louvain, which he was believed to have brought about. This circumstance strengthened their exertions on behalf of <span class="smallcaps">Richard</span>.&#160;<a href="#ref14-a" rev="footnote" class="footnote-backref">↩</a>
+
+<hr class="short">
 
 ### \*&emsp;&emsp;\*&emsp;&emsp;\*
 
