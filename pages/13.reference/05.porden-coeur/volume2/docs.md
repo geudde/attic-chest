@@ -149,7 +149,7 @@ From curious eyes some royal beauty screen.<br>
 &emsp;No more th’ enraptured Raymond paus’d to view,<br>
 On wings of love from Arsouf’s cliff he flew,<br>
 And breathless reach’d the distant camp, as staid<br>
-At <span class="smallcaps">Richard's</span> tent the gorgeous cavalcade;<br>
+At <span class="smallcaps">Richard’s</span> tent the gorgeous cavalcade;<br>
 As on its knees the well-taught camel bends,<br>
 And glad Matilda from her seat descends.<br>
 The courteous Adel guides her trembling frame,<br>
@@ -160,7 +160,7 @@ To Adel then a thousand thanks were pour’d,<br>
 And ready menials spread the festive board.<br>
 In each bright eye confiding pleasure sate,<br>
 And concord smooth’d the wrinkled front of hate.<br>
-But when his Mamlukes spread to <span class="smallcaps">Richard's</span> view<br>
+But when his Mamlukes spread to <span class="smallcaps">Richard’s</span> view<br>
 The Soldan’s gifts, the sister-Queens withdrew;<br>
 And Raymond too retired, to ease a breast,<br>
 With rapture now, as erst with grief opprest.<br>
@@ -603,7 +603,7 @@ Yet glared his eyes with unextinguish’d rage;<br>
 While, as from some sepulchral cavern, came<br>
 A voice ill-suited to so worn a frame,<br>
 With quivering lips, but unabated pride,<br>
-To <span class="smallcaps">Richard's</span> words the spectre form replied:<br>
+To <span class="smallcaps">Richard’s</span> words the spectre form replied:<br>
 &emsp;“But that the tale may grieve thee, Infidel!<br>
 Not all thy tortures should one sound compel.<br>
 Go gaze on Shiraz, on Damascus gaze,<br>
@@ -840,7 +840,7 @@ Or the dim watchfire fades in purer light;<br>
 While some, more wakeful, roused the lingering guard,<br>
 The camels loaded, and the steeds prepared.<br>
 Now all was life, and ’mid the busy train<br>
-The camels knelt, and burthen'd, rose again.<br>
+The camels knelt, and burthen’d, rose again.<br>
 The prancing steeds the breath of morning feel,<br>
 The fearless pilgrims snatch their simple meal;<br>
 When hark! the tambour every breast alarms!<br>
@@ -1227,7 +1227,7 @@ Yet who would dare a frowning front to shew,<br>
 Who breathe suspicion on so proud a foe?”<br>
 &emsp;“Who?” Raymond answer’d in indignant tone,<br>
 “All that believe the tale! not England’s throne,<br>
-But <span class="smallcaps">Richard's</span> virtue makes our swords his own.<br>
+But <span class="smallcaps">Richard’s</span> virtue makes our swords his own.<br>
 Vengeance on him, if he that blood have spilt,<br>
 Vengeance on both the partners of his guilt!<br>
 On Philip of Beauvais, on Leopold—<br>
@@ -1238,7 +1238,7 @@ The murderous hand was in his envoy’s train.”<br>
 If his the profit, his the will that plann’d.<br>
 Be silent, flatterer! for the glorious sun<br>
 Oft shews a blot, and <span class="smallcaps">Richard</span> may have one.”<br>
-&emsp;“Methinks I ill have earn' d a flatterer's name.<br>
+&emsp;“Methinks I ill have earn' d a flatterer’s name.<br>
 Who singly dared the peace he urged to blame;<br>
 Nay, deem’d me wrong’d, because he ne’er descried,<br>
 And outraged feelings I had sought to hide.<br>
@@ -1312,7 +1312,7 @@ Where fell the leader of the Parthian band,<sup id="ref10-g"><a href="#note10-g"
 Whose trophies yet the dauntless deed proclaim;<br>
 Thou darest to trample on my parents’ fame!<br>
 But give thy slander words, injurious Lord!<br>
-What secret blood has tarnish’d <span class="smallcaps">Richard's</span> sword?”<br>
+What secret blood has tarnish’d <span class="smallcaps">Richard’s</span> sword?”<br>
 &emsp;Now had he fail’d, but Otho’s piercing eye<br>
 Forced from his livid lips the firm reply.<br>
 “And think’st thou, tyrant, did no bonds confine<br>
@@ -3883,11 +3883,11 @@ Like passing clouds that melt beneath the beam,<br>
 While every flower that decks the glistening spray,<br>
 Each bird whose carol hails the orient day,<br>
 Shall lift thy grateful thought to Him on high,<br>
-Who in that radiance gives them life and joy."<br>
-&emsp;“I would—I will— oh! could'st thou safely stay—<br>
-Thou heed'st not gold, but, can I aid thy way?"<br>
+Who in that radiance gives them life and joy.”<br>
+&emsp;“I would—I will— oh! could’st thou safely stay—<br>
+Thou heed’st not gold, but, can I aid thy way?"<br>
 &emsp;“Lady, these paths are rude; my weary feet<br>
-Bleed at th' unwonted toil."<br>
+Bleed at th’ unwonted toil.”<br>
 <span style="margin-left: 10rem;">“My steed is fleet</span>,<br>
 And shall be thine—farewell, be heaven thy guide;<br>
 But mark me, where thou see’st the way divide,<br>
@@ -3965,7 +3965,7 @@ May reach his cell, and bolts and bars be vain;<br>
 While, should some jealous warder mark the lay,<br>
 ’Tis but a minstrel sings to cheer his way.<br>
 Ah, me! that air to early love so dear,<br>
-Even in the tomb might rouse my <span class="smallcaps">Richard's</span> ear;<br>
+Even in the tomb might rouse my <span class="smallcaps">Richard’s</span> ear;<br>
 Oh! could I pour his deep clear tones along,<br>
 And steal his accents as I steal his song.<sup id="ref13-i"><a href="#note13-i" class="footnote-ref">i</a></sup>
 
@@ -4134,10 +4134,10 @@ Track’d, many a weary mile, the winding tide.
 Albert, meanwhile, to shun suspicious eyes,<br>
 Leaves far the Flemish coast, and courts disguise:<br>
 France he avoids, and quits his priestly train,<br>
-By routes distinct th' Imperial States to gain,<br>
+By routes distinct th’ Imperial States to gain,<br>
 And meet at Schorndorf’s friendly fort again.<br>
 Fears for his bride, affection for his King,<br>
-Lent him the swiftness of the falcon's wing.<br>
+Lent him the swiftness of the falcon’s wing.<br>
 While near the Rhine he now his course pursued,<br>
 Through those vast forests of primeval wood;<br>
 Hercynian shades, that, like an awťul cloud,<br>
@@ -4145,12 +4145,12 @@ Whole regions darken with their sable shroud;<br>
 Where from their rocky springs the rivers run<br>
 Their long dark course, and never see the sun;<br>
 Where vales in vain their ample bosoms spread,<br>
-And lordly mountains lift th' aspiring head,<br>
+And lordly mountains lift th’ aspiring head,<br>
 Nor know the dazzling realm their peaks invade.<br>
 &emsp;The noontide twilight fades, and long and loud,<br>
 Ferocious beasts yell dreadful through the wood;<br>
-Scarce Albert's heart was firm, and Bernard's breast<br>
-Is chill'd with fears, increasing, ill supprest:<br>
+Scarce Albert’s heart was firm, and Bernard’s breast<br>
+Is chill’d with fears, increasing, ill supprest:<br>
 When full before their way a globe of light,<br>
 Of crimson flame majestically bright,<br>
 Sends forth its magic glare! Some hidden cause<br>
@@ -4163,27 +4163,27 @@ And long, albeit with natural terrors pale,<br>
 From airy shapes to draw their midnight veil.<br>
 &emsp;“Oh, turn, my master," cried the trembling squire,<br>
 “Infernal spirits fight that sanguine fire!<br>
-Thou know'st me brave,—I never shrunk with fear,<br>
-From aught that man could threat, or thou could'st dare;<br>
-But I was warn'd by her who gave me breath<br>
+Thou know’st me brave,—I never shrunk with fear,<br>
+From aught that man could threat, or thou could’st dare;<br>
+But I was warn’d by her who gave me breath<br>
 To shun this forest more than pain or death.<br>
 These wilds, where bears and fiercer ruffians prowl,<br>
 And stronger, nameless horrors thrill the soul;<br>
 Where Druid orgies mock the Name Divine,<br>
-And human victims heap Irmensul's shrine:<br>
+And human victims heap Irmensul’s shrine:<br>
 Where guilt and fear the avenging kindred shun,<br>
 And wizards meet for rites that blot the sun;<br>
 Lure hapless wanderers to the fatal wood,<br>
 Or roam as wolves, to feast on human blood.<sup id="ref13-l"><a href="#note13-l" class="footnote-ref">l</a></sup><br>
-She told of murder'd forms that ride the gale,<br>
+She told of murder’d forms that ride the gale,<br>
 Weep in the rain, and in the tempest wail;<br>
 Of shrieks and howlings—Ha! dost thou not see,<br>
 Where tortured spirits writhe on every tree?<br>
 Oh! ’tis in scenes like these, in such an hour,<br>
 That sleepless demons know their baleful power!<br>
 Turn, turn, while yet our steeds may fly the spell,<br>
-No eye can see thy shame, no tongue can tell."<br>
-&emsp;“And think'st thou, Bernard, Honour has no power<br>
+No eye can see thy shame, no tongue can tell.”<br>
+&emsp;“And think’st thou, Bernard, Honour has no power<br>
 In noble breasts, though at the midnight hour?<br>
 That I could wear these spurs a monarch gave,<br>
 And know me base, yet mingle with the brave?<br>
@@ -6171,23 +6171,23 @@ Alas! these wastes, that seem so fair to thee,<br>
 These thirsty sands, that know nor spring nor tree,<br>
 Will make us ghosts too soon;—but God is great!<br>
 Come when it will, wе share one common fate.”<br>
-&emsp;“Fear not," she answer'd, “I these sands have crost<br>
+&emsp;“Fear not," she answer’d, “I these sands have crost<br>
 When food and water, nay our track was lost,<br>
 And yet the spring my faithful camel found;<br>
 I know the desert signs:"—she gazed around,<br>
 Till hope forsook her eye; on either hand<br>
-The smooth horizon touch'd the shoreless sand;<br>
-No scatter'd palms of food or shelter tell,<br>
+The smooth horizon touch’d the shoreless sand;<br>
+No scatter’d palms of food or shelter tell,<br>
 No patch of verdure marks the distant well;<br>
 Nor rocky rift was there, nor deep ravine,<br>
 To hide the hoarded rain, or nurse the niggard green;<br>
 Nor snake nor lizard, offspring of the day,<br>
-Nor the long line that marks the beetle's way;<br>
-Nought save that spider, God's peculiar care,<br>
+Nor the long line that marks the beetle’s way;<br>
+Nought save that spider, God’s peculiar care,<br>
 Sole living thing, that seems to live on air,<br>
 ’Twere joy to hear the shakal now, or meet<br>
-The dreadful traces of the lion's feet!<br>
-All, all is silent, save their quicken'd breath,<br>
+The dreadful traces of the lion’s feet!<br>
+All, all is silent, save their quicken’d breath,<br>
 (The silence and the solitude of death,)<br>
 Save when around their limbs the hot winds play,<br>
 As if they marvell’d what obstructs their way.<br>
@@ -7041,52 +7041,52 @@ He gazes still, and strives in vain to speak,<br>
 But to his lips her yielded hand he prest,—<br>
 A smile proclaims his parting spirit blest.
 
-In Ramia's walls the Soldan's scatter'd powers<br>
+In Ramia’s walls the Soldan’s scatter’d powers<br>
 Meanwhile convene, and throng her narrow towers.<br>
 The first false daybreak, faintly seen afar,<br>
 Called to the Mosque the leaders of the war;<br>
 There camphorous torches half dispel the gloom,<br>
 And all Sabæa fills the spacious dome;<br>
-While he whom Asia's thousand thrones obey'd,<br>
-Wrapp'd in the tarnish'd robes of grief, and laid<br>
-On a high bier, with funeral white o'erspread,<br>
-Weeps o'er his slaughter'd child. The Imaums there<br>
-Awake the Koran's holiest rites of prayer;<br>
-They laud th' Eternal God, an endless theme,<br>
+While he whom Asia’s thousand thrones obey’d,<br>
+Wrapp’d in the tarnish’d robes of grief, and laid<br>
+On a high bier, with funeral white o’erspread,<br>
+Weeps o’er his slaughter’d child. The Imaums there<br>
+Awake the Koran’s holiest rites of prayer;<br>
+They laud th’ Eternal God, an endless theme,<br>
 Creator, Ruler, Merciful, Supreme.<br>
 Blest had they said no more, nor while they own<br>
-Th' Almighty Sire of Heaven, denied the Son,<br>
+th’ Almighty Sire of Heaven, denied the Son,<br>
 Nor for the promised Paraclete adored<br>
-Th' Impostor's name, th' Apostle of the sword!<br>
+th’ Impostor’s name, th’ Apostle of the sword!<br>
 &emsp;Now stung with rage, as less by grief subdued,<br>
 Full in the midst gigantic Adel stood,<br>
-Completely arm'd, while high his triple plume<br>
+Completely arm’d, while high his triple plume<br>
 Like some pale meteor shone amid the gloom.<br>
 &emsp;“Enough! for Mirzalis our tears are shed;<br>
 To death and silence let us yield the dead,<br>
 And wake to vengeance. Gracious Saladine,<br>
 Shall yon bright sun upon our shame decline?<br>
 So many leaves of golden glory past,<br>
-Shall our stain'd annals write in tears at last,<br>
+Shall our stain’d annals write in tears at last,<br>
 ‘Behold, one Christian lauded, and we fled,<br>
 While unavenged the seed of Joseph bled!'<br>
 Forbid it shame, forbid it Him on high,<br>
 Who holds the eternal scroll of destiny;<br>
 And hark! those clamours—they announce a band<br>
-Now fresh from Egypt's unexhausted land,<br>
+Now fresh from Egypt’s unexhausted land,<br>
 Untaught to tremble—wilt thou waste their zeal,<br>
 Nor prove this fiend accessible to steel?<br>
 Oh! as his impious deeds shall surely shine <br>
 In Sejjin, record of the wrath divine;<sup id="ref16-a"><a href="#note16-a" class="footnote-ref">a</a></sup><br>
-As never he in Eden's streams shall lave,<br>
-Nor quaff by Alla's throne of Tasnim's wave;<br>
-I call to war, and in the Prophet's name<br>
-I breathe the curse that dooms defeat and shame."<br>
-He paus'd, and raising high his clenched hand,<br>
-Cast towards the Christian camp th' opprobrious sand,<br>
+As never he in Eden’s streams shall lave,<br>
+Nor quaff by Alla’s throne of Tasnim’s wave;<br>
+I call to war, and in the Prophet’s name<br>
+I breathe the curse that dooms defeat and shame.”<br>
+He paus’d, and raising high his clenched hand,<br>
+Cast towards the Christian camp th’ opprobrious sand,<br>
 &emsp;“The curse of Beder, where the Koreish fled;<br>
-Confusion, Death, upon his impious head."<sup id="ref16-b"><a href="#note16-b" class="footnote-ref">b</a></sup><br>
-Slow rose the aged Soldan, whelm'd with fate,<br>
+Confusion, Death, upon his impious head.”<sup id="ref16-b"><a href="#note16-b" class="footnote-ref">b</a></sup><br>
+Slow rose the aged Soldan, whelm’d with fate,<br>
 “See here how little Azrael spares the great!<br>
 The dark and narrow home, the simple shroud<br>
 Are all that wait the wealthy and the proud;<br>
@@ -7446,7 +7446,7 @@ The last convulsion of contending life;<br>
 Nor sigh nor groan her parting tortures tell,<br>
 Till in his arms a senseless load she fell.<br>
 “Oh dreadful end!" the shuddering Monarch cried,<br>
-“Unhallow'd hour!" the weeping son replied.<br>
+“Unhallow’d hour!" the weeping son replied.<br>
 But prest no more by <span class="smallcaps">Richard’s</span> arm of might<br>
 The Moslems rally and renew the fight,<br>
 “Rest here, poor youth, and ease thy bursting heart,<br>
@@ -8033,7 +8033,7 @@ Many of these articles sound trifling in a modern ear; but fruits, sherbets and 
 <hr class="short">
 
 <a id="note09-c"></a>
-§ Note (c), page 9, line 129.&emsp;*Where Angels bow'd, and Eblis scoff'd at man*.
+§ Note (c), page 9, line 129.&emsp;*Where Angels bow’d, and Eblis scoff’d at man*.
 
 Kaf is believed in the East to be not only the residence of the Simurg, but the spot where the Angels were commanded to worship Adam, which Eblis refused. He said that the Angels whom God created out of fire, could not worship a creature of clay: for Adam had been formed of the dust of the earth.&#160;<a href="#ref09-c" rev="footnote" class="footnote-backref">↩</a>
 
@@ -8077,12 +8077,12 @@ The destruction of Ascalon was extremely painful to Saladine; and he passed a sl
 <a id="note09-i"></a>
 § Note (i), page 32, line 664.&emsp;*’Tis said thy hatred loves the impious feast.*
 
-The Mahommedans seem to have had an idea that <span class="smallcaps">Richard</span> did not scruple to eat the bodies of his enemies, and the Romance delights in making him a complete cannibal. He recovers from his illness by eating Saracen flesh, which is served up to him as pork, and afterwards feasts the ambassadors of Saladine with the heads of their own friends, expressing great astonishment at their lack of appetite. Such enormities do not appear historically to have ever tainted the character of the third Crusade; and the belief probably arose from a confused remembrance of the dreadful famine at Antioch during the first expedition to the Holy Land; when the Crusaders are said to have even disinterred the bodies of their enemies that they might feed upon them. Previously to the surrender of Antioch, Bohemond, who sought to deliver the camp from the spies by which it was infested, caused twelve Saracen captives to be slain and roasted before a large fire, proclaiming that he had discovered this resource against want, and would treat in like manner all his enemies that should fall into his hands. After Richard's arrival in Palestine, there was never any want of provisions to prompt such unnatural acts.&#160;<a href="#ref09-i" rev="footnote" class="footnote-backref">↩</a>
+The Mahommedans seem to have had an idea that <span class="smallcaps">Richard</span> did not scruple to eat the bodies of his enemies, and the Romance delights in making him a complete cannibal. He recovers from his illness by eating Saracen flesh, which is served up to him as pork, and afterwards feasts the ambassadors of Saladine with the heads of their own friends, expressing great astonishment at their lack of appetite. Such enormities do not appear historically to have ever tainted the character of the third Crusade; and the belief probably arose from a confused remembrance of the dreadful famine at Antioch during the first expedition to the Holy Land; when the Crusaders are said to have even disinterred the bodies of their enemies that they might feed upon them. Previously to the surrender of Antioch, Bohemond, who sought to deliver the camp from the spies by which it was infested, caused twelve Saracen captives to be slain and roasted before a large fire, proclaiming that he had discovered this resource against want, and would treat in like manner all his enemies that should fall into his hands. After <span class="smallcaps">Richard’s</span> arrival in Palestine, there was never any want of provisions to prompt such unnatural acts.&#160;<a href="#ref09-i" rev="footnote" class="footnote-backref">↩</a>
 
 <hr class="short">
 
 <a id="note09-k"></a>
-§ Note (k), page 33, line 698.&emsp;*Shrined in its breast Messiah's temple rear.*
+§ Note (k), page 33, line 698.&emsp;*Shrined in its breast Messiah’s temple rear.*
 
 The church was usually adjacent to or in the citadelle for the greater security; and as the citadelle was fixed on the most commanding height, it hence derived the advantage possessed by so many of the continental cathedrals, of being visible from a great distance.&#160;<a href="#ref09-k" rev="footnote" class="footnote-backref">↩</a>
 
@@ -8249,7 +8249,7 @@ Some say that this warning was written on a scroll attached to the dagger; other
 [Pages 388-389 missing]
 
 <a id="note11-n"></a>
-firm belief that the orders of his chief were the dictates of Heaven. An intoxicating liquor, made from hemp, is still known in some parts of the East by the name of Hachish, and those who are addicted to its use are called Hachichin; various other etymologies of the name of Assassin have been given, but I am inclined to consider this the most probable. Much of my information respecting this extraordinary sect is derives from Sir John Malcolm's History of Persia; but every writer on the Crusades is compelled more or less to discuss the subject.&#160;<a href="#ref11-n" rev="footnote" class="footnote-backref">↩</a>
+firm belief that the orders of his chief were the dictates of Heaven. An intoxicating liquor, made from hemp, is still known in some parts of the East by the name of Hachish, and those who are addicted to its use are called Hachichin; various other etymologies of the name of Assassin have been given, but I am inclined to consider this the most probable. Much of my information respecting this extraordinary sect is derives from Sir John Malcolm’s History of Persia; but every writer on the Crusades is compelled more or less to discuss the subject.&#160;<a href="#ref11-n" rev="footnote" class="footnote-backref">↩</a>
 
 § Note, page 118, line 695.&emsp;*The lotos, robed in empyrean blue.*
 
@@ -8310,7 +8310,7 @@ Bertrand threw himself at his feet, and swore to him a faithful and everlasting 
 <hr class="short">
 
 <a id="note12-g"></a>
-§ Note (g), page 134, line 195.&emsp;*The Saxon Duke was graced with Helen's hand!*
+§ Note (g), page 134, line 195.&emsp;*The Saxon Duke was graced with Helen’s hand!*
 
 <span class="smallcaps">Richard</span> had encouraged the devotion of Bertrand to his sister Helen, or Eleanor, who was not insensible to his homage. Her beauty was the theme of many of his poems, and on one occasion, when the camp was in want of provisions, he calmed the pangs of hunger by singing her perfections. Her marriage with Henry the Lion, Duke of Saxony, was the signal for Bertrand’s final quarrel with <span class="smallcaps">Richard</span>. If it be objected that it was Matilda, and not Helen, who was the wife of the Duke, and mother of the Emperor Otho, I can only reply that there is great confusion among historians respecting the sisters of <span class="smallcaps">Richard</span>.&#160;<a href="#ref12-g" rev="footnote" class="footnote-backref">↩</a>
 
@@ -8405,7 +8405,7 @@ This refusal is highly creditable to the Gallic nobles, and proves that the chiv
 <hr class="short">
 
 <a id="note12-u"></a>
-§ Note (u), page 152, line 608.&emsp;*For Richard's triumphs breath’d on every gale.* 
+§ Note (u), page 152, line 608.&emsp;*For <span class="smallcaps">Richard’s</scan> triumphs breath’d on every gale.* 
 
 I know not whether I am too partial to my hero, but in all the books, which I have had occasion to consult, Philip Augustus, notwithstanding his superior policy and the praise of the French, cuts so poor a figure, that I cannot help thinking that <span class="smallcaps">Richard</span>, with all his faults, has never had justice done towards him. Philip notoriously took every opportunity to defame his rival, and the calumnies which have been already mentioned are not the only ones which he propagated. Speaking of his return to Europe, Hoveden says, “Qui cum venisset Romam, mala multa locutus est de rege Angliæ, in conspectu domini Papæ et omnium Cardinalium; dicens quod Rex Angliæ coegit eum à terra Hierosolymitana recedere, et appellavit eum de proditione sua. Sed nec Dominus Papa, nec Cardinales fidem habuerunt verbis ejus, scientes hoc magis ex invidia processisse, quam ex delicto Regis Angliæ.” Nevertheless the Pope received Philip with honour, and absolved him from his vow of visiting Jerusalem, at the same time permitting him and his people to bear the cross and palm-branch, which distinguished pilgrims, “Deinde Rex Franciæ effecit adversum Romanorum Imperatorem quod ipse regera Angliæ caperat, si per terram suam transiret. Deinde rex Franciæ veniens in terram suam, defamavit regem Angliæ adversus proximos suos, imponens ei crimina multa.”&#160;<a href="#ref12-u" rev="footnote" class="footnote-backref">↩</a>
 
@@ -8442,7 +8442,7 @@ Maynard de Gortz, distinguished by Hoveden as a satellite of Leopold and enemy t
 <a id="note13-b"></a>
 § Note (b) and (c), page 175, line 95.&emsp;*Soft Marie’s tales, Alphonso’s princely lays.*
 
-Those who have perused Mr. Ellis's agreeable abstract of our old English Romances of Chivalry, can scarcely fail to remember with pleasure the twelve lays of Marie of France, said to have been composed at the court of our Henry the Second, and which appear to contain more novelty and elegance of invention than is usual in the Fabliaux of that age. Alphonzo the Second, King of Arragon, was himself a Troubadour and the patron of Troubadours, in whose eyes his bounty covered his numerous vices and his notorious want of public faith. The songs of Bertrand de Born, prove, however, that there were others of the tuneful brotherhood, whose hatred painted in the darkest colours the Prince whom their flattery adorned with every virtue. Beatrix, the sister of Alphonso, was married to Raymond Bérenger, Count of Provence. They were both votaries of the Muses.&#160;<a href="#ref13-b" rev="footnote" class="footnote-backref">↩</a>
+Those who have perused Mr. Ellis’s agreeable abstract of our old English Romances of Chivalry, can scarcely fail to remember with pleasure the twelve lays of Marie of France, said to have been composed at the court of our Henry the Second, and which appear to contain more novelty and elegance of invention than is usual in the Fabliaux of that age. Alphonzo the Second, King of Arragon, was himself a Troubadour and the patron of Troubadours, in whose eyes his bounty covered his numerous vices and his notorious want of public faith. The songs of Bertrand de Born, prove, however, that there were others of the tuneful brotherhood, whose hatred painted in the darkest colours the Prince whom their flattery adorned with every virtue. Beatrix, the sister of Alphonso, was married to Raymond Bérenger, Count of Provence. They were both votaries of the Muses.&#160;<a href="#ref13-b" rev="footnote" class="footnote-backref">↩</a>
 
 <hr class="short">
 
@@ -8481,7 +8481,7 @@ In another place he says:—“Du levant au couchant, je fais cette proposition 
 <a id="note13-h"></a>
 § Note (h), page 184, line 291.&emsp;*On three huge crags, with horrid depths between.*
 
-It would be little amusing to the reader to enter into the various etymologies of the name of Trivallis, or even the different opinions respecting its locality. Mr. Sharon Turner and Mr. Mills read it Tyrolis, and consign the lion-hearted King to a castle in the Tyrol. The description in the poem is partly taken from some notes on the subject with which I have been furnished by the kindness of M. Schweighæuser, Jun., Professor of Greek philosophy at Strasbourg; though the vicinity to Landau agrees but ill with the relation that <span class="smallcaps">Richard</span> was confined in that castle while in the power of the Duke of Austria, and before his fate was generally known. But there are other places which assert the name of Trivallis, and I am inclined to think, that as <span class="smallcaps">Richard</span> was not only immured by Leopold, but afterwards compelled to follow the motions of the Imperial Diet to Haguenau, Worms, Spires, and Mayence, every castle which can pretend to the honour of having sheltered the heroic monarch is anxious to claim a title so illustrious. I subjoin a portion of M. Schweighæuser's letter:
+It would be little amusing to the reader to enter into the various etymologies of the name of Trivallis, or even the different opinions respecting its locality. Mr. Sharon Turner and Mr. Mills read it Tyrolis, and consign the lion-hearted King to a castle in the Tyrol. The description in the poem is partly taken from some notes on the subject with which I have been furnished by the kindness of M. Schweighæuser, Jun., Professor of Greek philosophy at Strasbourg; though the vicinity to Landau agrees but ill with the relation that <span class="smallcaps">Richard</span> was confined in that castle while in the power of the Duke of Austria, and before his fate was generally known. But there are other places which assert the name of Trivallis, and I am inclined to think, that as <span class="smallcaps">Richard</span> was not only immured by Leopold, but afterwards compelled to follow the motions of the Imperial Diet to Haguenau, Worms, Spires, and Mayence, every castle which can pretend to the honour of having sheltered the heroic monarch is anxious to claim a title so illustrious. I subjoin a portion of M. Schweighæuser’s letter:
 
 “Le mention de nos monumens me conduit au château de *Trivallis*, que nous appellons *Trifels* (*fels* signifie roche, et *Tri* paraît designer le nombre de trois, quoiqu’on ait trouvé aussi d’autres etymologies). Mais je l’ai aussi vu moi-même, et je viens encore de recueillir quelques renseignemens à ce sujet auprès d’un habitant des environs. Vous trouverez quelques indications intéressantes sur les circonstances historiques qui se rattachent à ce château, dans le t. ii. p. 188, de l’*Alsatia Illustrata* de Schœpflin, qui se trouve sans doute dans quelque Bibliothèque de Londres. Outre votre <span class="smallcaps">Richard</span>, Henri VI. y avait fait garder d’autres prisonniers illustres, et des trésors immenses, et déjà Henri cinq en avait fait un usage pareil. Quant à la position, ce château, flanqué de deux autres plus petits et séparés du chateau principal par des vallées, est situé à environ trois lieues à l’ouest de la ville de Landau, sur une montagne sauvage, couvert de forêts ténébreuses, mais dominant la riante vallée, où se trouve la petite ville d’Anweiler. Le hazard d’une promenade solitaire, et qui n’avoit d’autre but que de gravir, avec l’impétuosité de la jeunesse, les hauteurs et les rochers, m’y conduisit il y a plus de vingt-cinq ans, et je fus singulièrement frappé par les beautés sauvages de ce site, par les murs imposants du château que je découvris tout-à-coup et dont une tour formidable existe encore, ainsi que par les cris des oiseaux de proie que mon approche troubloit dans leur repos.”&#160;<a href="#ref13-h" rev="footnote" class="footnote-backref">↩</a>
 
@@ -8509,7 +8509,7 @@ The belief that those who deal in magic are compelled annually to wear for a cer
 <hr class="short">
 
 <a id="note13-m"></a>
-§ Note (m), page 200 line 667.&emsp;*By vows on Sylvia's conquer’d ramparts made.*
+§ Note (m), page 200 line 667.&emsp;*By vows on Sylvia’s conquer’d ramparts made.*
 
 Sancho, son of Alphonso, the first king of Portugal, was assisted in his conquest of Sylvia from the Moors by a party of <span class="smallcaps">Richard’s</span> Crusaders, then repairing to the rendezvous at Messina. The Germans and French, on their way to the second Crusade, had in like manner aided his father in the reduction of Lisbon.&#160;<a href="#ref13-m" rev="footnote" class="footnote-backref">↩</a>
 
@@ -8605,7 +8605,7 @@ Maenz, or Amanda de Montagnac, was daughter to the Viscount of Turenne.&#160;<a 
 <hr class="short">
 
 <a id="note14-o"></a>
-§ Note (o), page 253, line 811.&emsp;*The letter from his grasp and ran it o'er.*
+§ Note (o), page 253, line 811.&emsp;*The letter from his grasp and ran it o’er.*
 
 The following lines are much condensed from the original “Sirvente” of Bertrand de Born.&#160;<a href="#ref14-o" rev="footnote" class="footnote-backref">↩</a>
 
@@ -8614,7 +8614,7 @@ The following lines are much condensed from the original “Sirvente” of Bertr
 <a id="note14-p"></a>
 § Note (p), page 257, line 900.&emsp;*And in his hand his sever’d head he bore.*
 
-See Dante, Inferno, canto 28—But Henry, not John, was the name of the "young King."
+See Dante, Inferno, canto 28—But Henry, not John, was the name of the “young King.”
 
 > I vidi certo: et anchor par ch’io ’l veggia<br>
 > Un busto sanza capo andar; si come<br>
@@ -8630,14 +8630,14 @@ See Dante, Inferno, canto 28—But Henry, not John, was the name of the "young K
 > Perch ’i parti cosi giunte persone,<br>
 > Partito porto il mi cerebro lasso<br>
 > Dal suo pricipio, ch’e in questo troncone:<br>
-> Cosi s'osserva in me lo contrapaso.&#160;<a href="#ref14-b" rev="footnote" class="footnote-backref">↩</a>
+> Cosi s’osserva in me lo contrapaso.&#160;<a href="#ref14-b" rev="footnote" class="footnote-backref">↩</a>
 
 ## Book XV
 
 <a id="note15-a"></a>
 § Note (a), page 268, line 11.&emsp;*The poor his mite, untax’d the Abbot yields.*
 
-Among the ecclesiastical contributors to their Monarch's ransom, Hoveden names the Abbot of Semplingham, of the Cistercian order, who gave his year’s wool. But <span class="smallcaps">Richard</span> directed memoranda to be kept of all the money received from the Church, that it might be faithfully repaid.&#160;<a href="#ref15-a" rev="footnote" class="footnote-backref">↩</a>
+Among the ecclesiastical contributors to their Monarch’s ransom, Hoveden names the Abbot of Semplingham, of the Cistercian order, who gave his year’s wool. But <span class="smallcaps">Richard</span> directed memoranda to be kept of all the money received from the Church, that it might be faithfully repaid.&#160;<a href="#ref15-a" rev="footnote" class="footnote-backref">↩</a>
 
 <hr class="short">
 
@@ -8783,7 +8783,7 @@ The monarch had seen the yellow flags of Saladine on the ramparts, and turned hi
 <a id="note15-x"></a>
 § Note (x), page 315, line 1119.&emsp;*Led for his use—cried generous Saladine.*
 
-See the "Histoire de Saladine."&#160;<a href="#ref15-x" rev="footnote" class="footnote-backref">↩</a>
+See the “Histoire de Saladine.”&#160;<a href="#ref15-x" rev="footnote" class="footnote-backref">↩</a>
 
 ## Book XVI
 
@@ -8797,7 +8797,7 @@ Sejjin is the name of the general register, in which are inscribed the actions o
 <a id="note16-b"></a>
 § Note (b), page 330, line 167.&emsp;*Confusion, Death, upon his impious head.*
 
-In the memorable battle of Beder, the first victory of the Faithful, in which Mahommed demanded the succour of Gabriel and three thousand angels; his little troop was beginning to yield before the numbers of the Koreish, when the Prophet, starting from the throne on which he viewed the battle, cast a handful of sand into the air, and exclaimed, “let their faces be covered with confusion." The effect was instantaneous and decisive; both armies in fancy beheld the angelic warriors; the Koreish trembled and fled. — Gibbon, *Decline and Fall*, vol. 9.<a href="#ref16-b" rev="footnote" class="footnote-backref">↩</a>
+In the memorable battle of Beder, the first victory of the Faithful, in which Mahommed demanded the succour of Gabriel and three thousand angels; his little troop was beginning to yield before the numbers of the Koreish, when the Prophet, starting from the throne on which he viewed the battle, cast a handful of sand into the air, and exclaimed, “let their faces be covered with confusion.” The effect was instantaneous and decisive; both armies in fancy beheld the angelic warriors; the Koreish trembled and fled. — Gibbon, *Decline and Fall*, vol. 9.<a href="#ref16-b" rev="footnote" class="footnote-backref">↩</a>
 
 <hr class="short">
 
@@ -8811,7 +8811,7 @@ At the time when the monarchs of France pretended to the title of King of Kings,
 <a id="note16-d"></a>
 § Note (d), page 345, line 503.&emsp;*And if I cannot, like some Sovereigns, kneel.*
 
-An allusion to the penance of Henry the Second, after the murder of Becket; and to some of the effects of Richard's remorse on the loss of his father, to whose death he accused himself of having at least contributed by his rebellious conduct.<a href="#ref16-c" rev="footnote" class="footnote-backref">↩</a> 
+An allusion to the penance of Henry the Second, after the murder of Becket; and to some of the effects of <span class="smallcaps">Richard’s</span> remorse on the loss of his father, to whose death he accused himself of having at least contributed by his rebellious conduct.<a href="#ref16-c" rev="footnote" class="footnote-backref">↩</a> 
 
 <hr class="short">
 
@@ -8820,12 +8820,12 @@ An allusion to the penance of Henry the Second, after the murder of Becket; and 
 
 Only two persons of any note are said to have perished on the Christian side in the double battle of Jaffa, which may certainly be reckoned among the most extraordinary in history.
 
-Those who may be desirous of perusing its details, will find many interesting particulars in the Histoire de Saladin, and the Histories of the Crusades; but Gibbon’s short account is perhaps more flattering to the fame of <span class="smallcaps">Richard Cœur de Lion</span>, than any thing else which has been written respecting him; unless it be Mr. Sharon Turner's admirable sketch of his reign, in his History of England.
+Those who may be desirous of perusing its details, will find many interesting particulars in the Histoire de Saladin, and the Histories of the Crusades; but Gibbon’s short account is perhaps more flattering to the fame of <span class="smallcaps">Richard Cœur de Lion</span>, than any thing else which has been written respecting him; unless it be Mr. Sharon Turner’s admirable sketch of his reign, in his History of England.
 
 The terms of the treaty between <span class="smallcaps">Richard</span> and Saladine, and the facts on which the concluding pages of the poem are founded, are in the histories of the Crusades. Some liberties have been taken, especially in condensing into one scene the solemn swearing of the peace at Ramla, the accomplishment of the vows of the Crusades, the celebration of mass in the church of the Holy Sepulchre, and the behaviour of Saladine on witnessing the descent of the Sacred Fire; but almost all the circumstances are historical.<a href="#ref16-e" rev="footnote" class="footnote-backref">↩</a>
 
 
-[^1]: Valour, and the passion for crusading, were hereditary in the family of D'Avesnes; and Gerard, the ancestor of James, was appointed to the government of Arsouf, on its reduction by Godfrey of Bouillon. The funeral of James D'Avesnes was celebrated by <span class="smallcaps">Richard</span> with peculiar honour, on the day succeeding the battle of Arsouf.
+[^1]: Valour, and the passion for crusading, were hereditary in the family of D’Avesnes; and Gerard, the ancestor of James, was appointed to the government of Arsouf, on its reduction by Godfrey of Bouillon. The funeral of James D’Avesnes was celebrated by <span class="smallcaps">Richard</span> with peculiar honour, on the day succeeding the battle of Arsouf.
 
 [^2]: Joseph, who according to Mahommedan tradition was buried in one of the Pyramids. The delight which Saladin had in asserting his descent from his patriarchal namesake has been before alluded to.
 
@@ -8845,11 +8845,11 @@ The terms of the treaty between <span class="smallcaps">Richard</span> and Salad
 
 [^10]: See the History of Vathek.
 
-[^11]: The genuine mode of Arabian bivouac is to sleep under the horse's legs, the animal remaining standing. The fabled Centaur seems to be almost realized in the intimate union of man and horse, which takes place among the tribes of the desert.
+[^11]: The genuine mode of Arabian bivouac is to sleep under the horse’s legs, the animal remaining standing. The fabled Centaur seems to be almost realized in the intimate union of man and horse, which takes place among the tribes of the desert.
 
 [^12]: The golden gate of Jerusalem opened into the valley of Kedron, not far from Silöc.
 
-[^13]: Seven thousand camels with all their merchandize were the spoil of this adventure. I do not know the precise number of <span class="smallcaps">Richard's</span> troop, but it was inconsiderable.
+[^13]: Seven thousand camels with all their merchandize were the spoil of this adventure. I do not know the precise number of <span class="smallcaps">Richard’s</span> troop, but it was inconsiderable.
 
 [^14]: Alluding to the Crusade of Louis VII.
 

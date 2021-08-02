@@ -8769,22 +8769,21 @@ The Montmorencies derive their name from an incident in the time of Charles Mart
 <a id="note08-u"></a>
 § Note (u), page 332, line 573.&emsp;*And infant cries are check’d by sudden fear.*
 
-<span class="smallcaps">Richard</span> continued to be the terror of the East, and was celebrated by the Saracens and Turks in their proverbs, long after the Crusades. If a child cried, the nurse frightened it into silence with the threat that <span class="smallcaps">Richard</span> was coming; and if a horse started, the rider exclaimed, “what! dost thou see King Richard?” In like manner Saladine became the hero of the West, und the Saracen’s Head is not yet obliterated from our sign-boards.&#160;<a href="#ref08-u" rev="footnote" class="footnote-backref">↩</a>
+<span class="smallcaps">Richard</span> continued to be the terror of the East, and was celebrated by the Saracens and Turks in their proverbs, long after the Crusades. If a child cried, the nurse frightened it into silence with the threat that <span class="smallcaps">Richard</span> was coming; and if a horse started, the rider exclaimed, “what! dost thou see King Richard?” In like manner Saladine became the hero of the West, and the Saracen’s Head is not yet obliterated from our sign-boards.&#160;<a href="#ref08-u" rev="footnote" class="footnote-backref">↩</a>
 
 <hr class="short">
 
 <a id="note08-x"></a>
 § Note (x), page 334, line 625.&emsp;*And in the press was beauteous Favel slain.*
 
-The Saracens, who saw their sovereign unhorsed, interrupted the combat. The death of Favel has had the honour to be frequently mentioned by the poets who have spoken of <span class="smallcaps">Richard</span>; and among others by Drayton. Vineeauf says that his velocity was incomparable. The romance states that Favel and Lyard were both among the spoils of Cyprus: but as Normandy was celebrated for its horses, its capital having given its name to the roan steeds still so common in that province, I have ventured to make Lyard a Norman. It was the coal-black charger of <span class="smallcaps">Richard</span> which the Saracens declared to be a devil. The raven upon Lyard’s head is from the romance.&#160;<a href="#ref08-x" rev="footnote" class="footnote-backref">↩</a>
+The Saracens, who saw their sovereign unhorsed, interrupted the combat. The death of Favel has had the honour to be frequently mentioned by the poets who have spoken of <span class="smallcaps">Richard</span>; and among others by Drayton. Vinesauf says that his velocity was incomparable. The romance states that Favel and Lyard were both among the spoils of Cyprus: but as Normandy was celebrated for its horses, its capital having given its name to the roan steeds still so common in that province, I have ventured to make Lyard a Norman. It was the coal-black charger of <span class="smallcaps">Richard</span> which the Saracens declared to be a devil. The raven upon Lyard’s head is from the romance.&#160;<a href="#ref08-x" rev="footnote" class="footnote-backref">↩</a>
 
 <hr class="short">
 
 <a id="note08-y"></a>
 § Note (y), page 347, line 911.&emsp;*And thou young Fatimite, far hence remove.*
 
-Aladin, being a Persian, was probably a Shiite, or Fatimite; that is, a Mahommedan of the sect of Ali. The orthodox Musulmans hold these sectaries in still greater detestation than either Christians or Idolaters, and believe them to be farther from paradise. As one of the earliest exploits of Saladine was the suppression of the Egyptian or Fatimite Caliphs, and as the Soldan prided himself on his orthodoxy,
-none of the house of Ayoub were likely to look with complacency on the worshippers of Ali&#160;<a href="#ref08-y" rev="footnote" class="footnote-backref">↩</a>
+Aladin, being a Persian, was probably a Shiite, or Fatimite; that is, a Mahommedan of the sect of Ali. The orthodox Musulmans hold these sectaries in still greater detestation than either Christians or Idolaters, and believe them to be farther from paradise. As one of the earliest exploits of Saladine was the suppression of the Egyptian or Fatimite Caliphs, and as the Soldan prided himself on his orthodoxy, none of the house of Ayoub were likely to look with complacency on the worshippers of Ali&#160;<a href="#ref08-y" rev="footnote" class="footnote-backref">↩</a>
 
 <hr class="short">
 
@@ -8795,7 +8794,7 @@ The Mohammedan nations, barbarians as they are, have at least one refinement unk
 
 <hr class="short">
 
-§&ensp;Note, page 348, line 948.&emsp;*By the dread bridge and endless flames of hell.*
+§ Note, page 348, line 948.&emsp;*By the dread bridge and endless flames of hell.*
 
 The bridge of Al Sirat, which lies over the midst of hell, and which the souls, both of the just and unjust, will be obliged to pass. This bridge is finer than a hair, and sharper than the edge of a sword, and is besides beset with thorns and brambles. Nevertheless the good will pass over it with the rapidity of lightning, whereas the wicked will soon miss their footing, and fall headlong into hell. The orthodox Mahommedans maintain that the torments of hell are of eternal duration, — *Sale’s Koran—Preliminary Discourse.*
 
@@ -8820,7 +8819,7 @@ The bridge of Al Sirat, which lies over the midst of hell, and which the souls, 
 
 [^10]: The Count of Thoron must have been brave, since he is often spoken of in battle, and prudent, since he was frequently employed as an Ambassador; yet it is difficult to conceive how a man of any spirit could submit to the indignities which were put upon him. — Maimbourg says that he was extremely boyish in his manners. — Such a husband was not likely to suit with the high spirit of Isabella.
 
-[^11]: The Knights of St. John, or Knights Hospitallers.
+[^11]: The Knights of St. John, or Knights Hospitaller.
 
 [^12]: *Deus id vult*, or *Dieu le veut*, the spontaneous burst of popular feeling at the Council of Clermont, and afterwards the well known war-cry of the Crusaders.
 
