@@ -22,7 +22,7 @@ The Attic Chest contributions exhibit marked irregularity of spelling, capitaliz
 
 > <span class="pencil">Letter to the Editor</span> 
 
-**Corrections:** In earlier seasons William Porden often made corrections to submissions, invariably improving on the original. On the assumption that the edited versions were those read out at meetings, they are indicated in green, with the original visible by hovering over the relevant text: 
+**Corrections:** In earlier seasons the Pordens often made corrections to submissions, invariably improving on the original. On the assumption that the edited versions were those read out at meetings, they are indicated in green, with the original visible by hovering over the relevant text: 
 
 > This is an example of a textual correction. Hover over <span data-tippy="original version here" class="green">the green text</span> to see the original. 
 
@@ -38,7 +38,7 @@ Contributions not preserved in the Gell Collection are coloured grey in the [lis
 
 > <span class="grey">A Description of Monkey Island → Mr Porden</span>
 
-A list [missing contributions](../../authors/missing) can also be found in the [Authors](../../authors) section.
+A list of [missing contributions](../../authors/missing) can also be found in the [Authors](../../authors) section.
 
 **Illegibility:** The editors of the Attic Chest were often troubled by illegibility, as noted in the editorial comment at the 28 April 1813 meeting:  
 
