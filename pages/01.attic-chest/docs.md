@@ -17,7 +17,7 @@ Anonymous contributions were stored in the Grecian cedarwood chest that gave the
 
 Most of the Attic Chest contributions have been preserved and are currently held by the [Derbyshire Record Office](https://www.derbyshire.gov.uk/leisure/record-office/derbyshire-record-office.aspx) (DRO) in Matlock, UK, where they form part of the Gell Collection. 
 
-[Anna Jane Vardill](https://vardill.org) was a close friend of Eleanor Anne Porden and an enthusiastic contributor to the Attic Chest. With the cooperation of the DRO the Vardill Society has undertaken the task of transcribing the Attic Chest collection and making it available in digital forms. 
+[Anna Jane Vardill](https://vardill.org) was a close friend of Eleanor Anne Porden and an enthusiastic contributor to the Attic Chest. With the cooperation of the DRO the Vardill Society has undertaken the task of transcribing the Attic Chest collection and making it available in digital form. 
 
 <div style="width: 60%; margin: auto;">
 <script async src="https://cse.google.com/cse.js?cx=62e58d248157cd0bd"></script>
