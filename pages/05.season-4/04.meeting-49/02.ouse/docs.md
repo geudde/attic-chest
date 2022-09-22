@@ -13,7 +13,7 @@ tntsearch:
 
 When first by gentle Ouse I stray’d  
 Two crimson cheeks my fancy sway’d  
-But now of flaming read afraid,  
+But now of flaming red afraid,  
 &emsp;The nymph I love is Brown:  
 For brown alike in light or shade  
 Of red or white disdains the aid  
