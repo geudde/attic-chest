@@ -79,7 +79,7 @@ Still nought was all, and everything was nought.
 Then is it wondrous if when Beauty smil’d  
 And the soft murmurs of delight arouse,  
 That Sleep, sweet Sleep! my weary eyes beguil’d  
-Or steep’d my senses in a  — gentle doze?
+Or steep’d my senses in a — gentle doze?
 
 Ah! blame me not — by fairer suitors won,  
 The partial muses scorn to lend me aid:  
