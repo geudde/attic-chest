@@ -2,7 +2,7 @@
 title: 'Meeting 67'
 taxonomy:
     category: docs
-visible: true
+visible: false
 ---
 
 # 22 February 1814

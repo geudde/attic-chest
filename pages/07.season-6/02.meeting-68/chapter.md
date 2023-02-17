@@ -2,7 +2,7 @@
 title: 'Meeting 68'
 taxonomy:
     category: docs
-visible: true
+visible: false
 ---
 
 # 9 March 1814
