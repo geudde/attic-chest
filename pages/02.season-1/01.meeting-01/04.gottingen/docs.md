@@ -19,7 +19,7 @@ Soon will ye mourn, alas ye Stu—
 Soon will ye hate that much-loved Bu—  
 &emsp;—onaparte, now so hot-in-grain;  
 Ye never thought he’d conscribe you,  
-But more would reverence the U—<  
+But more would reverence the U—  
 &emsp;—Niversity of Gottingen. 
 
 How did ye look around, how view,  

@@ -10,7 +10,7 @@ tntsearch:
 
 <div class="author">Communicated by Mr Flaxman</div>
 
-&emsp;Though oft in Britain’s isle the breaking bust  
+Though oft in Britain’s isle the breaking bust  
 To fame consign the patriot hero’s dust,  
 And conquerors wakéd to mimic life again,  
 In imag’d triumph thunder o’er the main;  
@@ -23,7 +23,7 @@ With strength majestic, or with beauty warm,
 Where all her mingling charms expression pour’d,  
 Admir’d by valour, or by love ador’d. 
 
-&emsp;Lo where retiring Venus meets the eye,  
+Lo where retiring Venus meets the eye,  
 And beauty vies with bashful modesty!  
 There mortal charms in loveliest union shine,  
 And all the Goddess crowns the bright design!  
@@ -40,21 +40,21 @@ Of crested snakes Laocoon writhes enroll’d,
 And drinks with tortur’d ear his children’s cries,  
 Embittering death’s convulsive agonies! 
 
-&emsp;Rise, slumbering Genius, and with throbbing heart  
+Rise, slumbering Genius, and with throbbing heart  
 Adore these trophies of unrival’d art,  
 Till each fine grace, that gifted masters knew,  
 In fairy vision floating o’er the view,  
 Perfection crown once more the living stone,  
 And Britain claim a Phidias of her own! 
 
-&emsp;Not such the hopes that bless th’ enthusiast’s dream,  
+Not such the hopes that bless th’ enthusiast’s dream,  
 As sad it wanders o’er each faded gleam,  
 That dimly shews to painting’s Muse was given  
 The sevenfold radiance of refulgent heaven,  
 When genius stole the colours of the sun,  
 And pour’d them o’er the wreath of valour won.  
 
-&emsp;Then turn the eye, where spinning time’s control,   
+Then turn the eye, where spinning time’s control,   
 Art stamps in stone the triumphs of the soul.  
 With trembling awe survey each hallow’d fane,  
 Ennobling Greece mid desolation’s reign,  
