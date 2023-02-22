@@ -89,7 +89,7 @@ Owen Glendower, the famous astrologer, assures Starchissa that her mousetrap-kni
 
 Chapter 6th
 
-Sire Eglamour de Mousetraps informs his beloved that Lord Craggycliff’s last codicil to his will provides and annuity for the Countess’s protegée, and advises her to claim it.  
+Sire Eglamour de Mousetraps informs his beloved that Lord Craggycliff’s last codicil to his will provides and annuity for the Countess’s protégée, and advises her to claim it.  
 
 Chapter 7th
 
@@ -101,7 +101,7 @@ A sentimental journey by moonlight, a picturesque accident, and a scientific pro
 
 Chapter 9th
 
-Lord Craggycliff’s ghost appears in the shape of Proctor, and denounces that the annuity is bequeather to Lady Craggycliff’s *orphan lap-dog.*  
+Lord Craggycliff’s ghost appears in the shape of Proctor, and denounces that the annuity is bequeathed to Lady Craggycliff’s *orphan lap-dog.*  
 
 Chapter 10th
 
