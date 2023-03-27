@@ -3,7 +3,7 @@ title: 'Transcription Notes'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 tntsearch:
     index: false
 ---
