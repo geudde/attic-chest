@@ -1,7 +1,7 @@
 ---
 title: 'Attic Chest'
 metadata:
-    Keywords: 'Fiction, Victorian, romance'
+    Keywords: 'literature, Regency, literary circle, London, Porden, Eleanor Anne Porden, Vardill, Anna Jane Vardill, poetry, prose, collection, archive'
     Description: 'Collection of submissions to the Attic Chest literary circle hosted by William and Eleanor Anne Porden'
 taxonomy:
     category:
