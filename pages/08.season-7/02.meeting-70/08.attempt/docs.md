@@ -10,14 +10,14 @@ tntsearch:
 
 <div class="author">Miss Vardill</div>
 
-Tis said my lyre is soft and sweet,  
+’Tis said my lyre is soft and sweet,  
 &emsp;Its burnished strings are gay,  
 But tho’ with melody replete,  
 &emsp;It will not sound today.  
 Yet oft they say electric fire  
 Has pierced my soul and touch’d my lyre.
 
-Tis true the flash was swift and strange —   
+’Tis true the flash was swift and strange —   
 &emsp;I know not how or when —   
 Thro’ all my soul I felt it range,  
 &emsp;And tremble round my pen,  
